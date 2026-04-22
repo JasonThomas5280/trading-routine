@@ -173,3 +173,57 @@ No open positions. Skipped.
 - NONE active
 
 ---
+
+## 2026-04-22 — Pipeline validation (canslim-screener end-to-end test)
+
+**Purpose:** Validate the full CAN SLIM data pipeline after Tier 1–3 fixes (bars endpoint, preflight gate, I-letter proxy, universe seeder, caching tier).
+
+### Test target: NVDA
+
+**Preflight (all PASS):**
+- Alpaca bars: 60 daily bars returned (2026-01-22 → 2026-04-17) ✅
+- AV OVERVIEW: EPS=4.91, ROE=101.5%, SO=24.3B, PercentInst=69.74% ✅
+- AV EARNINGS: 108 quarters, 27 annuals ✅
+- Perplexity N-letter: 5 bullets, usable signal ✅
+
+**Letter scores:**
+| Letter | Score | Basis |
+|---|---|---|
+| C — Current qtrly EPS | 20/20 | Q4 FY26 +82% YoY, accelerating (32→54→60→82 over 4q) |
+| A — Annual EPS + ROE | 15/15 | FY24/25/26 all ≥25%; ROE 101.5% |
+| N — New catalyst + proximity | 10/15 | At new high ✅; no new product/mgmt catalyst (per Perplexity) |
+| S — Supply/demand | 5/15 | Float 24.3B (huge); **volume -14.6% BELOW 50d avg**; active buyback |
+| L — Leader | 10/15 | 60d return +9.1% vs SPY +3.1%; sector top-3 (XLK); RS estimated |
+| I — Institutional | 7/10 | PercentInst 69.74% (healthy band); EDGAR tier unimplemented |
+| Base pattern | 0/10 | `no_valid_base` — V-recovery, no handle or consolidation |
+| **TOTAL** | **67/100** | **REJECT — conviction_below_threshold (<75)** |
+
+**Data source contrast (Perplexity vs Alpha Vantage):** Perplexity incorrectly stated "Q4 earnings on April 23" — AV earnings_calendar authoritative source showed NVDA next earnings **2026-05-20** (28 days out). Pipeline correctly used AV as source of truth.
+
+### Key finding (validates preflight design)
+
+The pipeline correctly **rejected** a stock that *looks* like a breakout winner (NVDA at new 52w high with stellar fundamentals) because the **volume surge test failed (-14.6% below avg when +40% is required)** and **no valid base pattern** formed. Human intuition on this setup would likely be "buy" — the system correctly said "no." Fundstrat's analyst independently flagged false-breakout risk in the Perplexity research.
+
+### Warnings emitted (honest uncertainty, not hidden)
+
+- `breakout_volume_weak`
+- `no_valid_base`
+- `analyst_pt_cut` (HSBC 320→310)
+- `perplexity_false_breakout_risk_flag`
+- `rs_rank_estimated` (full universe percentile calc still pending — current impl compares to SPY only)
+- `institutional_edgar_tier_unimplemented` (using AV PercentInstitutions as Tier 1 proxy)
+
+### Pipeline status
+
+| Gap item | Before | After |
+|---|---|---|
+| 1A Alpaca bars endpoint | ❌ returned null | ✅ 60 bars with date range + feed=iex |
+| 1B Data coverage preflight | ❌ silent zeros | ✅ explicit INSUFFICIENT_DATA reject |
+| 2A I-letter data source | ❌ EDGAR scaffold only | ✅ AV PercentInstitutions (Tier 1) |
+| 2B Universe seeder | ❌ no script | ✅ scripts/build-universe.sh (47 tickers from XLK test) |
+| 3A AV quota management | ❌ 24h TTL only | ✅ 7d fundamentals, 12s throttle, stale fallback |
+| 4A End-to-end screen | ❌ never run | ✅ NVDA scored 67/100 with all 7 letters populated |
+
+**Next:** Sunday's `/weekly-prep` can now run canslim-screener on the full ~120-name universe and produce a real scored watchlist to replace the jumpstart bucket.
+
+---

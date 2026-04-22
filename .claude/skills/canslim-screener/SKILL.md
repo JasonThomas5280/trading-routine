@@ -58,6 +58,36 @@ Return a JSON block AND a human-readable summary.
 
 ## Steps
 
+### 0. Data coverage preflight (MANDATORY — run FIRST)
+
+Before computing any letter score, verify every required data source returned usable data. **A silent zero on a missing source is worse than explicit rejection** — scoring "78/100" when three letters are actually "unknown" produces false-confident entries.
+
+Required checks (fail any → return `pass: false, rejection_reason: "insufficient_data"`):
+
+| Check | Required by | Pass condition |
+|---|---|---|
+| `bash scripts/alpaca.sh bars <SYM> 1Day 60` | L, S, N, base pattern | `.bars` non-null, length ≥ 50 |
+| `bash scripts/alphavantage.sh overview <SYM>` | A, S | Valid JSON with non-empty `EPS`, `ReturnOnEquityTTM`, `SharesOutstanding` |
+| `bash scripts/alphavantage.sh earnings <SYM>` | C, A | `quarterlyEarnings` length ≥ 4, each with numeric `reportedEPS` |
+| Perplexity (or WebSearch fallback) on N-letter query | N | Response body > 100 chars, no explicit error |
+
+**If any check fails**, return immediately:
+
+```json
+{
+  "symbol": "<SYM>",
+  "pass": false,
+  "conviction_score": null,
+  "rejection_reason": "insufficient_data",
+  "missing_data": ["bars", "earnings"],
+  "retry_hint": "Fix data source and re-run; do NOT score or enter on partial data."
+}
+```
+
+Log the rejection to `memory/RESEARCH-LOG.md` with the specific `missing_data` array. Data pipeline failures become visible, fixable signals rather than invisible score corruption.
+
+**Exception — I letter (SEC EDGAR):** 13F data is quarterly with a 45-day lag; stale up to 7 days is normal. If EDGAR fails, proceed but add `warnings: ["institutional_data_stale"]` and **cap I score at 5/10** (half-credit rather than zero). Do NOT use this exception for any other letter.
+
 ### 1. Verify market state gate
 If `market_state != "Confirmed Uptrend"` AND `purpose == "final_check"`:
 → return `pass: false, rejection_reason: "market_not_in_uptrend"`.

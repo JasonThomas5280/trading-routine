@@ -51,15 +51,27 @@ Check blacklisted sectors from WEEKLY-REVIEW.md (2 consecutive failed trades = 2
 
 ### 4. Universe scan
 
-Start from Russell 1000 + selective mid-caps $2B–$10B. Apply filters via Alpaca + Alpha Vantage:
+Build the candidate universe by seeding from the top-3 sector ETFs (from step 3):
 
-- Price $10–$500
-- 50-day ADV ≥ 500K shares
-- In a top-3 sector (from step 3)
-- Not on sector blacklist
-- No earnings announcement in next 10 trading days (leaves buffer for entry)
+```
+bash scripts/build-universe.sh XLK XLY XLF
+```
 
-For an initial scan, seed with **sector-ETF constituents of top-3 sectors** (Alpha Vantage `ETF_PROFILE` endpoint) to cap the candidate count at ~150 before running detailed scoring.
+(Substitute the actual top-3 tickers from step 3. Sector blacklist: drop any blacklisted ETFs before calling.)
+
+This script:
+- Pulls constituents of each top-3 sector ETF via Alpha Vantage `ETF_PROFILE`
+- Dedupes across ETFs (some names appear in multiple)
+- Drops holdings with weight <0.3% (ETF noise tail)
+- Applies the $10–$500 price filter via Alpaca quotes
+- Returns a filtered ticker list to stdout (~100–180 names expected)
+
+**Additional filters to apply on the returned list BEFORE calling canslim-screener** (cheap pre-filters save AV quota):
+- 50-day ADV ≥ 500K shares (pull via `bash scripts/alpaca.sh bars <SYM> 1Day 60` — compute average of `v` field; reject if <500K)
+- Not on sector blacklist from WEEKLY-REVIEW.md
+- No earnings announcement in next 10 trading days (pull via `bash scripts/alphavantage.sh earnings_calendar 3month` once, then filter locally by symbol+date)
+
+Expected output after all pre-filters: **60–120 candidates** feeding into step 5.
 
 ### 5. Score each candidate via canslim-screener
 

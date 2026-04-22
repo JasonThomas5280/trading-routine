@@ -182,8 +182,22 @@ JSON
   bars)
     sym="${1:?symbol required}"
     tf="${2:?timeframe required (1Day|1Hour|1Week)}"
-    limit="${3:?limit required}"
-    _curl "$APCA_DATA_BASE_URL/v2/stocks/$sym/bars?timeframe=$tf&limit=$limit"
+    limit="${3:-40}"
+    start="${4:-}"
+    end="${5:-}"
+    # Alpaca's bars endpoint returns only 1 (today's) bar when called with limit alone.
+    # It REQUIRES an explicit start/end date range to return a historical series.
+    # Default to last 90 calendar days → yesterday if caller didn't specify.
+    if [[ -z "$start" ]]; then
+      start=$(date -u -d "90 days ago" +%Y-%m-%d 2>/dev/null || date -u -v-90d +%Y-%m-%d)
+    fi
+    if [[ -z "$end" ]]; then
+      end=$(date -u -d "yesterday" +%Y-%m-%d 2>/dev/null || date -u -v-1d +%Y-%m-%d)
+    fi
+    # feed=iex works on free/paper tier. SIP may be unavailable; IEX-only volumes
+    # are lower than consolidated, but consistent with themselves (e.g. a 40%
+    # volume surge vs 50-day IEX avg is a valid signal).
+    _curl "$APCA_DATA_BASE_URL/v2/stocks/$sym/bars?timeframe=$tf&start=$start&end=$end&limit=$limit&feed=iex"
     ;;
 
   portfolio_history)

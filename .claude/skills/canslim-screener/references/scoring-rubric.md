@@ -126,24 +126,43 @@ Cap total "N" at 15. If additive would push past 15, cap it.
 
 ## I — Institutional Sponsorship (max 10)
 
-**Rule:** Quality institutional ownership increasing over recent quarters.
+**Rule:** Quality institutional ownership, present and stable.
 
-**Data:** SEC EDGAR 13F filings — cached weekly. Compare current quarter's holder count and aggregate shares vs. prior quarter.
+**Data (two-tier approach):**
 
-**Scoring:**
+**Tier 1 — Alpha Vantage `OVERVIEW.PercentInstitutions`** (PRIMARY, always available)
+- Run `bash scripts/alphavantage.sh overview <SYM>`, parse `PercentInstitutions` field (returned as a percentage, e.g. `69.737` = 69.7% institutional ownership).
 
-| Condition | Points |
+**Tier 2 — SEC EDGAR 13F filings** (OPTIONAL, weekly cadence — used as refinement/confirmation layer when available)
+- Compare current quarter's holder count and aggregate shares vs. prior quarter via `scripts/edgar.sh institutional_holders <CIK>`.
+- If EDGAR data available AND shows quarter-over-quarter accumulation, add +2 bonus to Tier 1 score (cap at 10).
+- If EDGAR data unavailable, proceed with Tier 1 score only — add `warnings: ["edgar_data_unavailable"]`. Per the skill preflight exception, this is the one letter where missing data is acceptable.
+
+**Tier 1 scoring (PercentInstitutions):**
+
+| Ownership band | Points | Interpretation |
+|---|---|---|
+| 30–70% | **7** | Healthy sponsorship — room to grow but already credible. Ideal. |
+| 70–85% | **6** | Heavy but acceptable — most mega-caps live here (e.g. NVDA ~70%, MSFT ~72%). |
+| 20–30% | **4** | Growing sponsorship — early-stage, higher reward/risk. |
+| 85–95% | **3** | Very crowded — less upside from fund buying, unwinds hurt. |
+| 10–20% | **2** | Thin sponsorship — may struggle to sustain moves. |
+| <10% OR >95% | **0** | Either unknown to institutions OR dangerously saturated. |
+
+**Tier 2 adjustments (only apply if EDGAR data fresh within 90 days):**
+
+| Condition | Adjustment |
 |---|---|
-| ≥10 holders AND aggregate shares owned increased in most recent quarter | 7 |
-| ≥10 holders AND aggregate shares stable (±5%) | 3 |
-| <10 holders OR aggregate shares decreasing | 0 |
-| "Smart money" fund (top-quartile 13F performer) adding in most recent quarter | +3 (additive) |
+| Holder count ↑ QoQ (≥5% increase in number of 13F filers) | +2 |
+| Holder count ↓ QoQ (≥5% decrease) | -2 |
+| "Smart money" fund (top-quartile 13F performer) adding | +1 |
 
-Cap total at 10.
+**Cap total at 10. Floor at 0.**
 
-**Warning triggers (don't reduce score, add warning):**
-- Institutional ownership > 90% → `crowded_trade` (contrarian concern)
-- Institutional ownership < 20% → `thin_sponsorship` (may not have the buyers to sustain a move)
+**Warning triggers (don't change score, just flag):**
+- `PercentInstitutions` > 90% → `crowded_trade`
+- `PercentInstitutions` < 20% → `thin_sponsorship`
+- EDGAR tier unavailable for >14 days → `institutional_data_stale`
 
 ---
 
