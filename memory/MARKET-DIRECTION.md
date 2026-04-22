@@ -8,13 +8,15 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-19 (Sun) — `/weekly-prep` jumpstart
-**Confirmed Uptrend days:** 7 (since follow-through day 2026-04-08)
+**Last updated:** 2026-04-22 (Tue) — `/eod-review`
+**Confirmed Uptrend days:** 10 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 0 effective (4 raw, all faded by +6% rule — 3/19, 3/20, 3/26, 3/27 all followed by SPY gaining >6% from close)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
-**SPY close 2026-04-17:** $710.14
-**SPY relative to 50-day MA:** +5.9% above ($710.14 vs ~$671 50-day MA)
-**SPY relative to 200-day MA:** above (200-day ~$666, SPY +6.6% above)
+**SPY close 2026-04-22:** $706.14 (+0.29% vs Apr 21 close $704.08) — no distribution day
+**SPY close 2026-04-21:** $704.08
+**SPY relative to 50-day MA:** above (est. ~$675, SPY +4.6% above)
+**SPY relative to 200-day MA:** above (200-day ~$666, SPY +6.0% above)
+**QQQ close 2026-04-22:** $653.01 (+1.35% vs Apr 21 close $644.33) — no distribution day
 **QQQ relative to 50-day MA:** above
 
 ---

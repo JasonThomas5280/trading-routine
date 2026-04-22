@@ -44,3 +44,18 @@ Watchlist below zone: 🔴 AVGO (~$379 vs $406.75 pivot, -6.8%) — mixed cataly
 Removed: STX ⛔ earnings blackout (~Apr 28)
 Key catalyst today: Iran ceasefire extended (risk-on lean); AVGO competition concern (Google/Marvell)
 Plan: No entries at open (amateur hour). Market-check at 10am CT — watch NVDA and CBOE for pivot breakout with 40%+ volume surge. AVGO needs to reclaim $406.75 before consideration.
+
+---
+## 2026-04-22 20:29 CT [clickup-placeholder]
+
+📊 EOD 2026-04-22 | Equity $2,500.00 (0.00% day, 0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 0 of 5 (market: 🟢 Confirmed Uptrend Day 10)
+SPY $706.14 (+0.29%) | QQQ $653.01 (+1.35%)
+Actions today: NONE — no open positions
+Watchlist:
+  • NVDA: intraday high $201.44 vs $201.75 pivot (missed by $0.31) — watching
+  • CBOE: ~$297–301 vs $310 pivot — building
+  • AVGO: still -6%+ below pivot — not in zone
+  • STX: ⛔ earnings blackout
+Tomorrow: NVDA near pivot — watch for gap-up + volume confirmation

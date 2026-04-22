@@ -118,6 +118,31 @@ No open positions. Skipped.
 
 ---
 
+## 2026-04-22 — /eod-review
+
+**Research source:** websearch_fallback (Alpaca 403 — host not in allowlist)
+**Close:** SPY $706.14 (+0.29%) | QQQ $653.01 (+1.35%)
+**Distribution days:** 0 of 25 effective (today: NO — SPY up, QQQ up)
+**Market state:** 🟢 Confirmed Uptrend Day 10 (no transition)
+**Positions held:** 0
+**Actions today:** None — no open positions; sell-rules-engine skipped (nothing to evaluate)
+**Circuit breakers:** None (equity flat at $2,500, 0% day P&L)
+**P&L today:** $0.00 (0.00%) — no positions
+**Equity:** $2,500.00
+
+### Watchlist near-close status
+- NVDA: intraday high $201.44 vs $201.75 pivot — missed by $0.31 (−0.15%). Volume not checked (API blocked). No entry.
+- AVGO: still below $406.75 pivot (bid ~$379–$396 range from pre-market). Not in zone.
+- CBOE: still below $310 pivot (~$297–$301). Not in zone.
+- STX: ⛔ earnings blackout (est. 2026-04-28)
+
+### Carry-forward for /pre-market tomorrow (2026-04-22 Wed)
+- NVDA within striking distance of $201.75 pivot — if tech gap-up overnight, could trigger early
+- CBOE building toward $310 pivot with positive UBS upgrade backdrop
+- Market uptrend intact, no circuit breakers, 0 weekly trades used (3 available)
+
+---
+
 ## 2026-04-22 — /pre-market
 
 **Research source:** perplexity
