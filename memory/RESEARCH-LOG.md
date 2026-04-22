@@ -85,6 +85,39 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-04-22 — /market-check (10:00 AM CT)
+
+**Research source:** websearch_fallback (Alpaca + Perplexity both returned 403 — host not in network allowlist; WebSearch used for price/volume data)
+**Market direction:** 🟢 Confirmed Uptrend (day 10 — SPY +0.43% today, no distribution day)
+**Circuit breakers:** NONE active
+**Open positions:** 0 | **Weekly trades used:** 0 of 3
+
+### Abort gates — CLEAR
+All gates passed. Entries allowed.
+
+### Watchlist trigger evaluation
+
+| Symbol | Pivot | Current | Delta | Volume Check | Verdict |
+|---|---|---|---|---|---|
+| AVGO | $406.75 | ~$390–$396 | -2.6% to -4% below | Not at pivot | 🔴 NOT TRIGGERED |
+| NVDA | $201.75 | ~$201.14 | -0.3% below | 1.31M at 90 min; pace 5.7M projected vs 199.7M required (3% threshold) | 🔴 NOT TRIGGERED |
+| CBOE | $310.00 | ~$297.64 | -4.0% below | Not at pivot | 🔴 NOT TRIGGERED |
+| STX | $554.00 | — | — | — | ⛔ EARNINGS BLACKOUT |
+
+**NVDA note:** Intraday high touched $202.75 (above pivot) but returned below. Volume flat vs ADV 142.66M — no volume confirmation. Not a valid entry.
+
+### Mid-morning position health check
+No open positions. Skipped.
+
+### Bench promotion check
+- LRCX (~70): API blocked, no live quote. Remains bench — no change.
+- MU (~70): API blocked, no live quote. Remains bench — no change.
+- PLTR, CRWD, GS: ⚠️ UNSCORED — skip until Sunday /weekly-prep.
+
+### Result: NO ENTRIES — nothing triggered.
+
+---
+
 ## 2026-04-22 — /pre-market
 
 **Research source:** perplexity

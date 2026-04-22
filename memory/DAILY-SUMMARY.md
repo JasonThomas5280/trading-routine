@@ -16,6 +16,22 @@ Entry plan Mon: AVGO + NVDA need volume surge (+40% avg) to confirm breakout. CB
 ⚠️ Jumpstart: conviction scores are momentum estimates, not full canslim-screener. Monday /market-check should re-validate before entering.
 
 ---
+## 2026-04-22 10:00 CT [market-check]
+
+📈 Market-check 2026-04-22 10:00 CT
+Market: 🟢 Confirmed Uptrend (day 10) | SPY +0.43% today, no distribution day
+Circuit breakers: NONE
+Actions taken:
+  No new entries — nothing triggered at pivot with required volume (+40%)
+Watchlist status:
+  AVGO 🔴 $390–$396 vs $406.75 pivot (-3%) | NVDA 🔴 $201.14 vs $201.75 pivot (-0.3%, no vol) | CBOE 🔴 $297.64 vs $310 pivot (-4%) | STX ⛔ earnings blackout
+  Bench: 5 names (LRCX, MU, PLTR, CRWD, GS) — no promotions (PLTR/CRWD/GS unscored until Sun)
+Open positions: 0 (0% deployed)
+Weekly trade count: 0 of 3 used
+⚠️ API note: Alpaca + Perplexity blocked (403, host not in allowlist). Prices via WebSearch fallback — flag: research_source: websearch_fallback
+Next check: /eod-review 3:15 PM CT
+
+---
 ## 2026-04-22 Pre-market
 
 🌅 Pre-market 2026-04-22
