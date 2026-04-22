@@ -1,0 +1,44 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash scripts/alpaca.sh *)",
+      "Bash(bash scripts/alphavantage.sh *)",
+      "Bash(bash scripts/perplexity.sh *)",
+      "Bash(bash scripts/clickup.sh *)",
+      "Bash(bash scripts/edgar.sh *)",
+      "Bash(source .env)",
+      "Bash(set -a)",
+      "Bash(set +a)",
+      "Bash(export PATH=*)",
+      "Bash(export APCA*)",
+      "Bash(export ALPHAVANTAGE*)",
+      "Bash(export PERPLEXITY*)",
+      "Bash(export EDGAR*)",
+      "Bash(export CLICKUP*)",
+      "Bash(curl -sS *alpaca.markets*)",
+      "Bash(curl -sS *alphavantage.co*)",
+      "Bash(curl -sS *perplexity.ai*)",
+      "Bash(curl -sS *data.sec.gov*)",
+      "Bash(curl -sS *api.clickup.com*)",
+      "Bash(git init *)",
+      "Bash(git init)",
+      "Bash(git remote *)",
+      "Bash(git add memory/)",
+      "Bash(git add memory/*)",
+      "Bash(git add -A)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git push)",
+      "Bash(git -c *)",
+      "Bash(mkdir -p *)",
+      "Bash(cat >> memory/*)",
+      "Bash(cat >> *DAILY-SUMMARY*)",
+      "WebSearch",
+      "WebFetch"
+    ],
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(sudo *)"
+    ]
+  }
+}

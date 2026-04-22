@@ -84,3 +84,34 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 - Price is near all-time highs — be selective, wait for proper breakouts with volume
 
 ---
+
+## 2026-04-22 — /pre-market
+
+**Research source:** perplexity
+**Market direction pull:** 🟢 Confirmed Uptrend (day 9 since FTD 2026-04-08)
+**Futures overnight:** ES +0.5%, NQ +0.6% — bullish lean into open
+**Macro catalyst:** Iran ceasefire extended indefinitely (geopolitical relief); treasury specs adding net shorts (rate pressure watch)
+
+### Overnight catalysts — watchlist
+
+- **AVGO:** Dual signal — Google/Marvell partnership rumor raises competition concern (slight negative); Meta deepening chip push with Broadcom (positive). Apr 21 snapped nine-session win streak. Last bid ~$379 (Alpaca EOD) — data inconsistency noted (Perplexity showing ~$317). Regardless, WELL BELOW $406.75 pivot. Setup not ready.
+- **NVDA:** No material overnight news. Partnership announcements (Adobe, WPP AI agents) = positive long-term but not price-moving. Last mid ~$197.42, pivot $201.75 — within 2.1%.
+- **CBOE:** Positive — UBS raised PT to $305 (Neutral), hit all-time high close of $305.82 recently. Prediction market expansion + CNBC deal = incremental catalysts. Last ~$301, pivot $310 — within 3%.
+- **STX:** BLOCKED — earnings ~2026-04-28, within 10 trading days. Do not enter per 5-day rule.
+
+### Buy-zone status
+
+- AVGO: 🔴 BELOW ZONE — $379 bid vs $406.75 pivot (~-6.8%); catalyst mixed. Watch only.
+- NVDA: 🟡 WATCHING — ~$197.42 vs $201.75 pivot (-2.1%). No broken thesis. Volume breakout needed.
+- CBOE: 🟡 WATCHING — ~$301 vs $310 pivot (-2.9%). Positive catalysts. Near zone.
+- STX: ⛔ BLOCKED — earnings blackout
+
+### Open positions
+
+- NONE (account: $2,500 cash, 0 positions, no circuit breakers)
+
+### Circuit breakers
+
+- NONE active
+
+---

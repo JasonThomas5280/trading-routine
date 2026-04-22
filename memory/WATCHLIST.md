@@ -28,10 +28,13 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 | Rank | Symbol | Est. Conviction | Notes |
 |---|---|---|---|
-| 5 | WDC | ~72 | Tech/Storage, -1.7% from high, low volume (0.63x). Need volume surge. |
-| 6 | LRCX | ~70 | Tech/Semi Equip, -2.2% from high $273.50. Watch for pivot retest. |
-| 7 | MU | ~70 | Tech/Memory, -3.5% from high. Memory cycle recovery. |
-| 8 | META | ~68 | Comm Services, -7.5% from $744 high. Consolidating. |
+| 5 | LRCX | ~70 | Tech/Semi Equip, -2.2% from high $273.50. Watch for pivot retest. |
+| 6 | MU | ~70 | Tech/Memory, -3.5% from high. Memory cycle recovery. |
+| 7 | PLTR | **UNSCORED** | Tech/Software momentum leader. Last mid ~$148. Added 2026-04-22 /pre-market — requires full canslim-screener at Sunday /weekly-prep before entry. |
+| 8 | CRWD | **UNSCORED** | Tech/Cybersecurity momentum leader. Last mid ~$454. Added 2026-04-22 /pre-market — requires full canslim-screener at Sunday /weekly-prep before entry. |
+| 9 | GS | **UNSCORED** | Financials/I-Bank leader (tightest quote data of scan). Last mid ~$926. Added 2026-04-22 /pre-market — requires full canslim-screener at Sunday /weekly-prep before entry. |
+
+**⚠️ UNSCORED names (PLTR, CRWD, GS):** Flagged for known momentum leadership in target sectors. No proper CAN SLIM scoring performed — Alpaca bars endpoint returning null blocked RS rank, base pattern, and volume-surge computation. **Do NOT enter on these names until Sunday /weekly-prep (2026-04-26) validates conviction ≥ 75.** `/market-check` should SKIP these today.
 
 ### Removed this week
 
@@ -39,6 +42,8 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 |---|---|
 | PANW | -13.5% from high — too far past pivot, no valid base entry |
 | SNEX | -20% from peak — momentum broken, disqualified |
+| WDC | **EARNINGS BLACKOUT** — earnings 2026-04-30 (within 10 trading days). Removed 2026-04-22 /pre-market. |
+| META | -14% from high per Apr 21 quote. Too far below pivot, consolidation extended. Removed 2026-04-22 /pre-market. |
 
 ---
 

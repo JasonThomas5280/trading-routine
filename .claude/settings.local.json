@@ -28,7 +28,9 @@
       "Skill(schedule)",
       "Skill(schedule:*)",
       "Bash(git --version)",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(python3.11 --version)",
+      "Bash(\"/c/Users/thoma/AppData/Local/Programs/Python/Python313/python.exe\" --version)"
     ],
     "deny": [
       "Bash(rm:*)",
