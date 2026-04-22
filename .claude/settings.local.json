@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash scripts/alpaca.sh:*)",
+      "Bash(bash scripts/alphavantage.sh:*)",
+      "Bash(bash scripts/perplexity.sh:*)",
+      "Bash(bash scripts/clickup.sh:*)",
+      "Bash(bash scripts/edgar.sh:*)",
+      "Bash(curl:*)",
+      "Bash(jq:*)",
+      "Bash(date:*)",
+      "Bash(grep:*)",
+      "Bash(cat memory/*)",
+      "Bash(tail memory/*)",
+      "Bash(head memory/*)",
+      "Bash(ls memory/)",
+      "Bash(ls .claude/)",
+      "WebSearch",
+      "WebFetch",
+      "Bash(winget install *)",
+      "Bash(awk -F= ' *)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/thoma/AppData/Local/Microsoft/WinGet/Packages/**)",
+      "Bash(where jq.exe)",
+      "Bash(/c/Windows/System32/where.exe jq.exe)",
+      "Bash(export PATH=\"/c/Users/thoma/AppData/Local/Microsoft/WinGet/Links:$PATH\")",
+      "Read(//c/Users/thoma/.edgar_cache/**)",
+      "Skill(schedule)",
+      "Skill(schedule:*)",
+      "Bash(git --version)",
+      "Bash(gh auth *)"
+    ],
+    "deny": [
+      "Bash(rm:*)",
+      "Bash(sudo:*)",
+      "Bash(chmod 777:*)"
+    ]
+  }
+}

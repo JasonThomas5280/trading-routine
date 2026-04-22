@@ -1,0 +1,36 @@
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+logs/
+
+# Node / Python (in case anything gets added later)
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# Output / scratch
+out/
+tmp/
+scratch/
+
+# Cache dirs for API wrappers
+.alphavantage_cache/
+.edgar_cache/
