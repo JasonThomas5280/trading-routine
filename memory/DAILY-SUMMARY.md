@@ -74,6 +74,26 @@ Key catalyst: AVGO Meta partnership extension (Apr 22 AH). Oil >103/bbl macro he
 Plan: No entries until AVGO/NVDA break pivots on volume +40% ADV AND Alpaca API resolves.
 
 ---
+## 2026-04-23 15:15 CT [eod-review]
+
+📊 EOD 2026-04-23 | Equity $2,500.00 (0.00% day, 0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 1 of 5 (market: 🟢 Confirmed Uptrend Day 12 — NO STATE CHANGE)
+SPY ~$703.23 (-0.41%) | QQQ $650.81 (-0.34%) | Nasdaq -0.89%
+New dist day: YES — software sector carnage (IBM -7.94%, SFDC -8.88%, NOW -18%); vol estimated elevated; Alpaca blocked (vol ratio unconfirmed — conservative call)
+Actions today:
+  • sell-rules-engine — SKIPPED (0 open positions)
+  • No entries, no exits, no stop adjustments
+Circuit breakers: NONE
+Tomorrow watchlist:
+  • AVGO ~$420 (held up vs software sell; 3.3% above pivot; watch vol)
+  • NVDA ~$202.50 (at pivot; conviction 67/100 blocks entry)
+  • STX — ⛔ BLACKOUT (earnings Mon Apr 28)
+  • LRCX approaching pivot $273.50 — Sunday re-score
+  • MU strong momentum — Sunday re-score
+⚠️ Alpaca API blocked day 4 — no live quotes available; no entries can execute until resolved
+
+---
 ## 2026-04-23 15:19 CT [clickup-placeholder]
 
 📈 Market-check 2026-04-23 10:00 CT

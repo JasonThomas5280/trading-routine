@@ -129,6 +129,45 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-04-23 — /eod-review (3:15 PM CT)
+
+**Research source:** websearch_fallback (Alpaca 403 — day 4; Perplexity unavailable same reason)
+**Close:** SPY ~$703.23 (-0.41%) | QQQ $650.81 (-0.34%) | S&P 500 index 7,108.40 (-0.41%) | Nasdaq 24,438.50 (-0.89%)
+**Distribution days:** 1 of 25 effective (today: NEW — SPY -0.41%, vol estimated elevated; vol ratio unconfirmed)
+**Market state:** 🟢 Confirmed Uptrend Day 12 (no transition; 1 dist day well below 5-day threshold)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — no open positions to evaluate
+  - TIGHTEN: none — no positions
+  - SELL: none — no positions
+**Circuit breakers:** NONE (equity $2,500.00, 0% daily P&L, 0% weekly P&L)
+**P&L today:** $0.00 (0.00%) — no positions
+**Equity:** $2,500.00
+**Weekly trade count:** 0 of 3
+
+### Market context
+- S&P 500 reversed from intraday ATH to close -0.41%; Nasdaq -0.89%
+- Drivers: IBM -7.94%, Salesforce -8.88%, ServiceNow -18% (earnings disappointments + AI revenue growth concerns)
+- Oil spiked: WTI +4% crossing $96.50, Brent +3.5% above $105 (Iran/Hormuz)
+- Texas Instruments +strong, United Rentals +strong (non-tech holding up)
+- SPY still well above 50-day MA (~$675 est.) and 200-day MA (~$666 est.)
+
+### Watchlist near-close status
+- AVGO: $418–$422 range (closed ~$420, vs $422.65 ATH Apr 22). Consolidating -0.6% to -1.1% below ATH. Still 3.3% above $406.75 pivot. Today's tech sell did NOT break AVGO below pivot — actually resilient vs software names. Flag for Sunday re-score: evaluate if this is building a handle or just drifting.
+- NVDA: ~$202.50 flat (same as prior close). At/just above $201.75 pivot. Conviction 67/100 — still blocks entry regardless of price. Needs volume surge + base to re-score.
+- STX: Earnings April 28 = 2 trading days. Blackout. Do not enter.
+- MU: +8.48% yesterday — strong AI memory demand. No pivot defined. Re-score Sunday.
+- LRCX: ~$266 vs $273.50 pivot. Q3 earnings beat Apr 22 (BofA PT $330). Approaching pivot zone. Re-score Sunday.
+
+### Carry-forward for /pre-market tomorrow (2026-04-24 Fri)
+- 1 distribution day logged — still 4 away from Under Pressure. Uptrend structurally intact.
+- Software sector damage today (IBM, SFDC, NOW) = not in our watchlist, minimal impact on thesis
+- Oil >$105 = watch for macro spillover into XLK
+- AVGO resilience relative to software sell-off is a positive signal — monitor
+- Alpaca API blocked day 4 — if still blocked Friday, flag for weekend investigation. No entries can be placed without live quote for sizing.
+
+---
+
 ## 2026-04-23 — /market-check (10:00 AM CT)
 
 **Research source:** websearch_fallback (Alpaca 403 — host not in network allowlist, day 3 of blockage; Perplexity unavailable same reason; WebSearch used for all price/volume data)

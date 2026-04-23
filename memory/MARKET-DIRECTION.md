@@ -8,16 +8,16 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-23 (Thu) — `/market-check`
+**Last updated:** 2026-04-23 (Thu) — `/eod-review`
 **Confirmed Uptrend days:** 12 (since follow-through day 2026-04-08)
-**Distribution days (last 25 sessions):** 0 effective (4 raw, all faded by +6% rule — 3/19, 3/20, 3/26, 3/27 all followed by SPY gaining >6% from close)
+**Distribution days (last 25 sessions):** 1 effective (today NEW — SPY -0.41%, vol estimated elevated; Alpaca blocked day 4, vol ratio unconfirmed)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
-**SPY intraday 2026-04-23:** $707.75–$712.06, ~$711.78 (+0.80% vs Apr 22 close $706.14) — no distribution day
+**SPY close 2026-04-23:** ~$703.23 (-0.41% vs Apr 22 $706.14) — DISTRIBUTION DAY (magnitude -0.41% >= -0.20%; software sector carnage IBM -7.94% / SFDC -8.88% / NOW -18% implies elevated vol; exact ratio unconfirmed — Alpaca 403 day 4)
 **SPY close 2026-04-22:** $706.14 (+0.29% vs Apr 21 close $704.08) — no distribution day
 **SPY close 2026-04-21:** $704.08
-**SPY relative to 50-day MA:** above (est. ~$675, SPY +5.4% above intraday)
-**SPY relative to 200-day MA:** above (200-day ~$666, SPY +6.9% above intraday)
-**QQQ intraday 2026-04-23:** $648.36–$656.29, ~$650.81 (−0.34% vs Apr 22 close $653.01) — no distribution day (minor down day, no volume data to confirm)
+**SPY relative to 50-day MA:** above (est. ~$675, SPY +4.2% above close)
+**SPY relative to 200-day MA:** above (200-day ~$666, SPY +5.6% above close)
+**QQQ close 2026-04-23:** $650.81 (-0.34% vs Apr 22 $653.01) — DISTRIBUTION DAY (magnitude -0.34% >= -0.20%; Nasdaq -0.89%; vol elevated with software sector)
 **QQQ close 2026-04-22:** $653.01 (+1.35% vs Apr 21 close $644.33) — no distribution day
 **QQQ relative to 50-day MA:** above
 
@@ -56,8 +56,10 @@ A distribution day expires after 25 sessions OR if index gains 6%+ from the day'
 | 2026-03-26 | SPY | -1.79% | 1.06x | **FADED** (gain from 645.09 = +10.1%) |
 | 2026-03-20 | SPY | -1.70% | 1.47x | **FADED** (gain from 648.57 = +9.5%) |
 | 2026-03-19 | SPY | -0.25% | 1.35x | **FADED** (gain from 659.80 = +7.6%) |
+| 2026-04-23 | SPY | -0.41% | est. >1.0x | **ACTIVE** (expires 2026-06-01; vol ratio unconfirmed — Alpaca 403; software sector selling implies elevated volume) |
+| 2026-04-23 | QQQ | -0.34% | est. >1.0x | **ACTIVE** (expires 2026-06-01; Nasdaq -0.89% close) |
 
-**Effective count: 0/25**
+**Effective count: 1/25** (1 SPY dist day; QQQ dist day logged for reference — count tracks SPY)
 
 ---
 
@@ -73,7 +75,7 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 
 ## Rally Attempt Tracking
 
-**Current rally status:** Confirmed (FTD fired 2026-04-08, uptrend in day 7).
+**Current rally status:** Confirmed (FTD fired 2026-04-08, uptrend in day 12).
 
 ---
 
