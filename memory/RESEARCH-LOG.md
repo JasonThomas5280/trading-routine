@@ -129,6 +129,55 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-04-23 — /market-check (10:00 AM CT)
+
+**Research source:** websearch_fallback (Alpaca 403 — host not in network allowlist, day 3 of blockage; Perplexity unavailable same reason; WebSearch used for all price/volume data)
+**Market direction:** 🟢 Confirmed Uptrend Day 12 (SPY $707.75–$712.06 intraday, +0.80% vs Apr 22 close — no distribution day)
+**Circuit breakers:** NONE active (0 positions, $2,500 equity, 0% drawdown)
+**Open positions:** 0 | **Weekly trades used:** 0 of 3
+
+### Abort gates — CLEAR
+All 8 gates passed. Entries allowed in principle.
+
+### ⚠️ Critical discovery: AVGO breakout missed due to API blockage
+
+AVGO closed at all-time high **$422.65 on April 22** (per web search / Morningstar). Our prior memory files showed AVGO "below $406.75 pivot" based on stale/blocked Alpaca data. The stock broke out on April 22 on AI chip demand catalyst (+4% day) and Meta partnership news. We were unable to observe this because Alpaca API returned 403 all day.
+
+**Impact:** Entry opportunity on the breakout day (April 22) was missed. Today (April 23) AVGO consolidating at $418–$421 on very light volume (532K vs 22.49M ADV at 30–60 min into session — projects to ~3.5M full day vs required ≥31.5M for +40% surge). Not a valid CAN SLIM entry today.
+
+### Watchlist trigger evaluation
+
+| Symbol | Pivot | Today's Price | Delta | Volume Check | Verdict |
+|---|---|---|---|---|---|
+| AVGO | $406.75 | $418–$421 (current ~$420) | +3.3% above pivot | 532K vs 22.49M ADV (~2% of avg) — FAR below +40% requirement | 🔴 NOT TRIGGERED (consolidation day, no volume) |
+| NVDA | $201.75 | $199–$202.75 (current ~$202.50) | +0.37% above pivot | ~80M vs 174M ADV — below average | 🔴 NOT TRIGGERED (conviction 67/100 < 75 AND volume below avg) |
+| STX | $554.00 | — | — | — | ⛔ EARNINGS BLACKOUT (Apr 28 = 2 trading days) |
+| CBOE | removed | — | — | — | 🔴 REMOVED |
+
+### Mid-morning position health check
+No open positions. Skipped.
+
+### Bench promotion check
+
+| Symbol | Pivot | Today | Delta | Status |
+|---|---|---|---|---|
+| LRCX | $273.50 | $265.55 (range $262.42–$268.76) | -2.9% below | Stays bench. High of day $268.76 was within 2% ($268.03 threshold) briefly, but current -2.9%. Q3 earnings released Apr 22; B of A raised PT $330. Re-score Sunday. |
+| MU | undefined | +8.48% surge today | — | No pivot defined. Estimated ~70 conviction (below 75). Stays bench. Strong AI memory demand. Re-score Sunday. |
+| PLTR | UNSCORED | ~$148 | — | Skip — unscored per directive |
+| CRWD | UNSCORED | ~$454 | — | Skip — unscored per directive |
+| GS | UNSCORED | ~$926 | — | Skip — unscored per directive |
+
+### Result: NO ENTRIES — nothing triggered.
+
+### Carry-forward for /eod-review (3:15 PM CT)
+- AVGO: Watch whether consolidation tightens above $418 on any volume pickup. If volume surges while ≤$427 (5% chase ceiling), re-evaluate entry. Otherwise wait for Sunday re-score with fresh pivot.
+- NVDA: Still at/near $201.75 pivot. Conviction 67/100 blocks entry regardless of price. Need base formation + volume to re-score above 75.
+- STX: Earnings April 28. Do not enter. Post-earnings re-evaluation.
+- LRCX: Watch for pivot retest near $273.50 with Q3 beat catalyst. Re-score Sunday.
+- MU: Strong day (+8.48%). Flag for Sunday /weekly-prep scoring.
+
+---
+
 ## 2026-04-22 — /market-check (10:00 AM CT)
 
 **Research source:** websearch_fallback (Alpaca + Perplexity both returned 403 — host not in network allowlist; WebSearch used for price/volume data)

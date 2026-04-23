@@ -19,20 +19,20 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 | Rank | Symbol | Est. Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 1 | AVGO | ~80 | Tech/Semis | At 52wk high $406.72 | $406.75 | $378.28 (-7%) | ~2026-06-05 | Catalyst strengthened: Meta partnership extended through 2029 (Apr 22), Q1 beat. Volume confirmation needed. Price data unavailable (Alpaca blocked). |
-| 2 | NVDA | ~80 | Tech/Semis | At 52wk high $201.70 | $201.75 | $187.63 (-7%) | ~2026-05-28 | Rubin GPU + Marvell $2B deal. ⚠️ Scored 67/100 on Apr 22 (below 75 threshold) — needs volume surge + valid base before entry. |
-| 3 | STX | ~75 | Tech/Storage | Extended ~$576.99 (+4.1% above pivot) | $554.00 | $515.22 (-7%) | ~2026-04-28 ⚠️ | **EARNINGS BLACKOUT — 3 trading days. DO NOT ENTER. Barclays upgrade to Overweight ($625 PT) is positive; re-evaluate post-earnings.** |
-| ~~4~~ | ~~CBOE~~ | ~~removed~~ | — | — | — | — | — | **REMOVED 2026-04-23 /pre-market — see below** |
+| 1 | AVGO | ~80 | Tech/Semis | **BREAKOUT — closed ATH $422.65 on Apr 22** | $406.75 (original) | $390.60 (-7% from $420) | ~2026-06-05 | **MISSED BREAKOUT (Alpaca blocked Apr 22).** Breakout day: AI chip demand +4%, Meta partnership. Today consolidating $418–$421 on light volume (532K vs 22.49M ADV — way below +40% requirement). Entry NOT valid today. Within 5% chase window ($427.09 ceiling). Watch for: (1) another volume surge day while ≤$427, or (2) new handle/pivot forming. Re-score at Sunday /weekly-prep. |
+| 2 | NVDA | ~67 | Tech/Semis | At 52wk high, no valid base | $201.75 | $187.63 (-7%) | ~2026-05-28 | ⚠️ SCORED 67/100 — BELOW 75 THRESHOLD. Today at $202.50 (above pivot) but volume ~80M vs 174M ADV (below avg). Conviction and volume BOTH fail. Do NOT enter until base pattern forms and volume confirms. |
+| 3 | STX | ~75 | Tech/Storage | Extended ~$576.99 | $554.00 | $515.22 (-7%) | ~2026-04-28 ⚠️ | **EARNINGS BLACKOUT — 2 trading days. DO NOT ENTER. Re-evaluate post-earnings.** |
+| ~~4~~ | ~~CBOE~~ | ~~removed~~ | — | — | — | — | — | **REMOVED 2026-04-23 /pre-market — earnings blackout + analyst consensus below pivot** |
 
 ### Bench (4–8 — setup forming, not yet at pivot)
 
 | Rank | Symbol | Est. Conviction | Notes |
 |---|---|---|---|
-| 5 | LRCX | ~70 | Tech/Semi Equip, -2.2% from high $273.50. Watch for pivot retest. |
-| 6 | MU | ~70 | Tech/Memory, -3.5% from high. Memory cycle recovery. |
-| 7 | PLTR | **UNSCORED** | Tech/Software momentum leader. Last mid ~$148. Added 2026-04-22 /pre-market — requires full canslim-screener at Sunday /weekly-prep before entry. |
-| 8 | CRWD | **UNSCORED** | Tech/Cybersecurity momentum leader. Last mid ~$454. Added 2026-04-22 /pre-market — requires full canslim-screener at Sunday /weekly-prep before entry. |
-| 9 | GS | **UNSCORED** | Financials/I-Bank leader (tightest quote data of scan). Last mid ~$926. Added 2026-04-22 /pre-market — requires full canslim-screener at Sunday /weekly-prep before entry. |
+| 5 | LRCX | ~70 | Tech/Semi Equip. Today: $265.55 (range $262.42–$268.76), pivot $273.50, -2.9% below = NOT within 2% promo threshold. Stays bench. Q3 earnings released Apr 22 (post-earnings setup forming). B of A raised PT $330. Needs fresh canslim-screener Sunday. |
+| 6 | MU | ~70 | Tech/Memory. Today: +8.48% surge. No defined pivot in watchlist. Estimated conviction ~70 (below threshold). Needs full scoring Sunday /weekly-prep before any entry consideration. |
+| 7 | PLTR | **UNSCORED** | Tech/Software momentum leader. Last mid ~$148. Requires full canslim-screener at Sunday /weekly-prep before entry. |
+| 8 | CRWD | **UNSCORED** | Tech/Cybersecurity momentum leader. Last mid ~$454. Requires full canslim-screener at Sunday /weekly-prep before entry. |
+| 9 | GS | **UNSCORED** | Financials/I-Bank leader. Last mid ~$926. Requires full canslim-screener at Sunday /weekly-prep before entry. |
 
 **⚠️ UNSCORED names (PLTR, CRWD, GS):** Flagged for known momentum leadership in target sectors. No proper CAN SLIM scoring performed — Alpaca bars endpoint returning null blocked RS rank, base pattern, and volume-surge computation. **Do NOT enter on these names until Sunday /weekly-prep (2026-04-26) validates conviction ≥ 75.** `/market-check` should SKIP these today.
 
