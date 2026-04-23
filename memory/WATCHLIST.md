@@ -19,10 +19,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 | Rank | Symbol | Est. Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 1 | AVGO | ~80 | Tech/Semis | At 52wk high $406.72 | $406.75 | $378.28 (-7%) | ~2026-06-05 | Broke out from flat base, AI chip demand. Volume confirmation needed. |
-| 2 | NVDA | ~80 | Tech/Semis | At 52wk high $201.70 | $201.75 | $187.63 (-7%) | ~2026-05-28 | AI cycle leader, at exact new high. Watch for volume surge. |
-| 3 | STX | ~75 | Tech/Storage | -1.1% from $553.57 high | $554.00 | $515.22 (-7%) | ~2026-04-28 ⚠️ | **EARNINGS WITHIN 10 DAYS — do NOT enter. Watch only.** |
-| 4 | CBOE | ~75 | Financials | -3.2% from high $309.87 | $310.00 | $288.30 (-7%) | ~2026-05-02 | Elevated volume (1.73x), sector diversification play. |
+| 1 | AVGO | ~80 | Tech/Semis | At 52wk high $406.72 | $406.75 | $378.28 (-7%) | ~2026-06-05 | Catalyst strengthened: Meta partnership extended through 2029 (Apr 22), Q1 beat. Volume confirmation needed. Price data unavailable (Alpaca blocked). |
+| 2 | NVDA | ~80 | Tech/Semis | At 52wk high $201.70 | $201.75 | $187.63 (-7%) | ~2026-05-28 | Rubin GPU + Marvell $2B deal. ⚠️ Scored 67/100 on Apr 22 (below 75 threshold) — needs volume surge + valid base before entry. |
+| 3 | STX | ~75 | Tech/Storage | Extended ~$576.99 (+4.1% above pivot) | $554.00 | $515.22 (-7%) | ~2026-04-28 ⚠️ | **EARNINGS BLACKOUT — 3 trading days. DO NOT ENTER. Barclays upgrade to Overweight ($625 PT) is positive; re-evaluate post-earnings.** |
+| ~~4~~ | ~~CBOE~~ | ~~removed~~ | — | — | — | — | — | **REMOVED 2026-04-23 /pre-market — see below** |
 
 ### Bench (4–8 — setup forming, not yet at pivot)
 
@@ -44,6 +44,7 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 | SNEX | -20% from peak — momentum broken, disqualified |
 | WDC | **EARNINGS BLACKOUT** — earnings 2026-04-30 (within 10 trading days). Removed 2026-04-22 /pre-market. |
 | META | -14% from high per Apr 21 quote. Too far below pivot, consolidation extended. Removed 2026-04-22 /pre-market. |
+| CBOE | **REMOVED 2026-04-23 /pre-market** — earnings May 1, 2026 (enters 5-day blackout on April 25). Analyst consensus: Hold (9 analysts), avg target $286.56 BELOW $310 pivot. Morgan Stanley has active Sell rating. Risk/reward does not meet CAN SLIM entry standards. |
 
 ---
 

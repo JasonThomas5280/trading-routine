@@ -8,8 +8,8 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-22 (Tue) — `/eod-review`
-**Confirmed Uptrend days:** 10 (since follow-through day 2026-04-08)
+**Last updated:** 2026-04-23 (Thu) — `/pre-market`
+**Confirmed Uptrend days:** 11 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 0 effective (4 raw, all faded by +6% rule — 3/19, 3/20, 3/26, 3/27 all followed by SPY gaining >6% from close)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 **SPY close 2026-04-22:** $706.14 (+0.29% vs Apr 21 close $704.08) — no distribution day

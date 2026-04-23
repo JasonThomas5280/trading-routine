@@ -59,3 +59,16 @@ Watchlist:
   • AVGO: still -6%+ below pivot — not in zone
   • STX: ⛔ earnings blackout
 Tomorrow: NVDA near pivot — watch for gap-up + volume confirmation
+
+---
+## 2026-04-23 11:10 CT [clickup-placeholder]
+
+Pre-market 2026-04-23
+Market: Confirmed Uptrend (Day 11) | Futures: ES -0.5% NQ -0.5% (pullback from record session)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (no open positions)
+Watchlist ready: none — AVGO/NVDA below pivot; Alpaca blocked, exact prices unavailable
+Watching: AVGO ($406.75 pivot — Meta AI deal catalyst strengthened; gap-up possible) | NVDA ($201.75 pivot — scored 67/100, needs volume surge)
+Removed: CBOE — earnings May 1 (blackout starts Apr 25) + analyst consensus Hold / avg target $286.56 below pivot
+Key catalyst: AVGO Meta partnership extension (Apr 22 AH). Oil >103/bbl macro headwind.
+Plan: No entries until AVGO/NVDA break pivots on volume +40% ADV AND Alpaca API resolves.

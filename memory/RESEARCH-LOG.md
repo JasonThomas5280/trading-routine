@@ -44,6 +44,50 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-04-23 — /pre-market
+
+**Research source:** websearch_fallback (Alpaca 403 — host not in network allowlist; Perplexity 403 — same; WebSearch used for all catalyst data)
+**Market direction pull:** 🟢 Confirmed Uptrend (day 11 — no distribution day triggered yesterday, SPY +0.29%/QQQ +1.35%)
+**Alpaca data:** UNAVAILABLE — all price quotes and account data blocked. No position data possible; circuit breaker check relies on trade-log (0 trades, $2,500 equity assumed).
+**Futures overnight:** ES -0.5%, NQ -0.5% — pullback from record highs (S&P 500 closed at 7,137.90 +1.05%; Nasdaq 24,657.57 +1.64% on 4/22). Pullback is profit-taking, not distribution.
+
+### Macro risks
+
+- Oil: Brent crude back above $103/barrel — Iran/US ceasefire stalled, Strait of Hormuz remains blocked. Macro headwind for tech margins and sentiment if sustained.
+- Futures soft but prior session was a record — no structural concern at this level of pullback.
+
+### Overnight catalysts — open positions
+
+- NONE (no open positions)
+
+### Overnight catalysts — watchlist
+
+- **AVGO:** Meta–Broadcom partnership extended through 2029 for AI accelerator design (announced April 22 after hours). Strengthens thesis materially. Q1 FY26 earnings already beat (5% after-hours gain, AI revenue $10.7B quarter). Google Cloud collaboration expanded April 15. Analyst consensus: Strong Buy, avg target $438.43. Earnings next ~June 5 — no blackout concern. Setup strengthened. Price still tracked below $406.75 pivot as of April 22 EOD (~$379–$396 per last available data); Meta deal could push it higher intraday.
+- **NVDA:** Rubin GPU (5× Blackwell perf, shipping H2 2026) confirmed. $2B strategic investment in Marvell + NVLink Fusion partnership. Analyst consensus: Strong Buy, avg target $274.91. Earnings ~May 28 — outside blackout. No near-term negative catalysts. ⚠️ NOTE: canslim-screener test (Apr 22) scored NVDA 67/100 — BELOW 75 threshold — due to volume (-14.6% below 50d avg) and no valid base pattern. Catalysts improve N-letter but volume and base still need resolution before entry is valid.
+- **STX:** Barclays upgraded to Overweight April 22 ($625 PT from $425). Stock at ~$576.99 (per search) = +4.1% above $554 pivot. However: **EARNINGS BLACKOUT ACTIVE — April 28 earnings = 3 trading days away.** Do not enter. Setup potentially extended above pivot even post-earnings.
+- **CBOE:** Earnings May 1, 2026 confirmed. Today (April 23) = 7 trading days before; blackout starts April 25 (Friday = 5 trading days before). Analyst consensus: Hold (9 analysts), avg target $286.56 — BELOW $310 pivot. Morgan Stanley: Sell, PT $273. Piper Sandler raised PT to $321 (bullish outlier). TMX Group acquisition of Cboe Australia/Canada for $300M is minor catalyst. **Removed — entering blackout Friday + bearish analyst consensus vs. pivot.**
+
+### Buy-zone status
+
+- AVGO: 🟡 WATCHING — catalyst strengthened (Meta deal); price vs pivot unverifiable (Alpaca blocked). Expected at or approaching $406.75 zone on gap-up open.
+- NVDA: 🟡 WATCHING — thesis intact; 67/100 score below entry threshold; needs volume surge confirmation.
+- STX: ⛔ EARNINGS BLACKOUT (April 28 — 3 trading days)
+- CBOE: 🔴 REMOVED — earnings blackout starts Friday, avg analyst target below pivot
+
+### Circuit breakers
+
+- NONE active (0 trades placed, $2,500 equity, 0% drawdown)
+- Weekly trades used: 0 of 3
+- PDT count: 0 of 3
+
+### Risks
+
+- Alpaca API blocked all session — if this persists at /market-check, **no entries can be placed** (trade-executor requires live quote for sizing).
+- Oil >$103 — monitor for XLK sector pressure if macro sentiment shifts.
+- NVDA sub-75 conviction until volume/base resolves — do not force entry based on fundamental strength alone.
+
+
+
 ## 2026-04-19 — /weekly-prep (JUMPSTART)
 
 **Research source:** perplexity + alpaca_bars (direct computation)
