@@ -44,6 +44,55 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-04-24 — /market-check (10:00 AM CT)
+
+**Research source:** websearch_fallback (Alpaca 403 — host not in allowlist, day 6; Perplexity unavailable same reason; WebSearch for all price/volume data)
+**Market direction:** 🟢 Confirmed Uptrend Day 13 | SPY $708.45 (+0.74%) | QQQ $655.95 (+0.79%) — positive day, no distribution
+**Circuit breakers:** NONE (0 positions, $2,500 equity, 0% daily/weekly drawdown)
+**Open positions:** 0 | **Weekly trades used:** 0 of 3 | **PDT count:** 0 of 3
+
+### Abort gates — ALL CLEAR
+All 8 abort gates passed. Entries allowed in principle. Alpaca API blocked (day 6) = execution impossible regardless.
+
+### ⚠️ Infrastructure: Alpaca API blocked day 6
+403 "Host not in allowlist" confirmed again this session. Fresh .env credentials (APCA_API_KEY_ID=PK7N46M65LLJZTRF35BKX7GJD6) loaded — error persists. This is a network/IP allowlist issue, not a credentials issue. **Requires weekend investigation before Monday open.**
+
+### Watchlist trigger evaluation
+
+| Symbol | Pivot | Today's Range | Current | Delta | Volume Check | Verdict |
+|---|---|---|---|---|---|---|
+| AVGO | $406.75 | $408.86–$428.90 | ~$415.36 | +2.1% above pivot | 6.7M at 90min → 29.0M paced vs 31.35M req (+30% vs +40% required) | 🔴 NOT TRIGGERED — volume insufficient |
+| NVDA | $201.75 | $197.22–$203.83 | ~$199.64 | -1.0% below pivot | N/A (conviction 67/100 blocks entry) | 🔴 NOT TRIGGERED — below pivot, conviction <75 |
+| STX | $554.00 | — | — | — | — | ⛔ EARNINGS BLACKOUT (Apr 28 = today last trading day) |
+
+**AVGO note:** Stock opened near $408.86 (just above pivot = support holding). Hit intraday high $428.90 — briefly exceeded chase ceiling $427.09 (5% above pivot = extended). Pulled back to $415.36 at 10 AM CT. Currently back in buy zone. Volume pacing +30% above 50-day avg (6.7M at 90 min → 29.0M projected vs 22.39M ADV, req 31.35M for +40%). **Close but does NOT meet the +40% volume surge requirement.** No entry even if Alpaca was live.
+
+**AVGO bullish read:** The $406.75 pivot held as intraday support (low $408.86). The stock showed strength vs yesterday's software sell-off and is building above the former ATH pivot. Setup intact. Re-evaluate with canslim-screener at Sunday /weekly-prep — likely increases conviction score.
+
+### Mid-morning position health check
+No open positions. Skipped per protocol.
+
+### Bench promotion check
+
+| Symbol | Pivot | Today | Delta | Status |
+|---|---|---|---|---|
+| LRCX | $273.50 | ~$260.99 | -4.6% below | Stays bench. Well outside 2% promotion zone. Q3 earnings beat catalyst (Apr 22) not yet propelling price to pivot. Re-score Sunday. |
+| MU | undefined | Not checked (no pivot defined) | — | Stays bench. Remains unscored. Re-score Sunday. |
+| PLTR | UNSCORED | ~$148 est. | — | Skip — unscored per directive |
+| CRWD | UNSCORED | ~$454 est. | — | Skip — unscored per directive |
+| GS | UNSCORED | ~$926 est. | — | Skip — unscored per directive |
+
+### Result: NO ENTRIES — AVGO volume not confirming (+30% paced vs +40% required). Alpaca also blocked (day 6).
+
+### Carry-forward for /eod-review (3:15 PM CT)
+- AVGO: Pivot $406.75 holding as support (low $408.86 today). Volume tracking toward +30% — watch if accelerates to +40%+ into close. Chase ceiling $427.09; high so far $428.90 (briefly extended, pulled back = healthy). Still buyable if conditions align. **But Alpaca blocked — no execution possible today.**
+- NVDA: $199.64, below $201.75 pivot; conviction 67/100 — no action.
+- STX: Earnings blackout. No action.
+- Market: SPY +0.74%, QQQ +0.79% — uptrend day 13. Positive close would be Day 13, no new distribution day.
+- **Priority weekend task:** Fix Alpaca IP allowlist. 6 straight days of missed execution window. AVGO setup almost triggered today.
+
+---
+
 ## 2026-04-24 — /pre-market
 
 **Research source:** websearch_fallback (Perplexity 403 — host not in IP allowlist; Alpaca 403 — same; WebSearch used for all catalyst and quote data)
