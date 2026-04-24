@@ -44,6 +44,45 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-04-24 — /pre-market
+
+**Research source:** websearch_fallback (Perplexity 403 — host not in IP allowlist; Alpaca 403 — same; WebSearch used for all catalyst and quote data)
+**Market direction pull:** 🟢 Confirmed Uptrend (day 13 since FTD 2026-04-08 — 1 effective dist day, well below 5-day threshold)
+**Alpaca data:** UNAVAILABLE — API still returning "Host not in allowlist" (day 5). No live quotes, no account state, no trade execution possible.
+**Futures overnight:** ES +0.62%, NQ +0.42% — positive pre-market lean. Nasdaq broke above resistance at 26,399. S&P 500 E-mini at ~7,151.75.
+
+### Overnight catalysts — open positions
+
+- NONE (no open positions)
+
+### Overnight catalysts — watchlist
+
+- **AVGO:** Pre-market ~$405.33 (+0.79% overnight). No negative catalysts. Google Cloud expanded partnership (Cloud Network Insights service) confirmed ongoing. Meta 2nm AI chip collaboration still active. 30 analysts, avg rating Strong Buy, avg PT $443.14. Pre-market price is BELOW yesterday's ~$420 close — near original $406.75 pivot (potential pivot retest). No catalyst driving the pullback; likely spillover from Apr 23 software sell-off (IBM, SFDC, NOW). Setup intact — requires regular session volume to determine if retest holds.
+- **NVDA:** ~$199.50 AH/pre-market (range $197.22–$203.83 Apr 24). Below $201.75 pivot. Minor catalyst: Oklo Inc. + Los Alamos nuclear agreement with NVDA (infrastructure play, not price-moving). Conviction still 67/100 — blocks entry regardless of price.
+- **STX:** Earnings April 28 = **1 trading day away (today is last trading day before earnings)**. Blackout confirmed. BULLISH analyst activity overnight: Barclays upgraded to Overweight with PT $625 (from $425); UBS raised PT to $515; Mizuho raised PT to $565 (Outperform). Strong demand narrative: AI-driven cloud storage "sold out" HDD capacity through 2026, hyperscale pre-bookings. Setup strengthening — evaluate post-earnings Sunday /weekly-prep.
+
+### Buy-zone status
+
+- AVGO: 🟡 WATCHING — pre-market ~$405.33 vs pivot $406.75 (−0.35%). Approaching/at pivot after pullback from $422.65 ATH. No negative catalyst. Cannot confirm volume (Alpaca blocked). Regular session open needed to assess.
+- NVDA: 🔴 BELOW THRESHOLD — ~$199.50 pre-market, below $201.75 pivot; conviction 67/100 < 75. Not actionable.
+- STX: ⛔ EARNINGS BLACKOUT — April 28. Strong pre-earnings setup (3 analyst upgrades). Re-evaluate Sunday.
+
+### Circuit breakers
+
+- NONE confirmed via trade-log (Alpaca account state unavailable):
+  - 0 positions, $2,500 equity assumed, 0% daily/weekly drawdown
+  - 0 of 3 weekly trades used
+  - 0 of 3 PDT events used
+
+### Risks
+
+- **Alpaca API blocked day 5** — No entries possible regardless of setup quality. Flag for weekend investigation.
+- AVGO pre-market $405.33 is -3.5% from yesterday close ($420 area) — if this persists at open, it's near the original pivot. Watch for volume. If closes below $406.75 on heavy volume, breakout may be failing.
+- STX earnings Monday — do not enter under any circumstances today.
+- Perplexity still blocked (IP restriction) — research quality degraded to WebSearch level.
+
+---
+
 ## 2026-04-23 — /pre-market
 
 **Research source:** websearch_fallback (Alpaca 403 — host not in network allowlist; Perplexity 403 — same; WebSearch used for all catalyst data)

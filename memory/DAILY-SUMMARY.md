@@ -1,5 +1,23 @@
 
 ---
+## 2026-04-24 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-04-24 (Friday)
+Market: 🟢 Confirmed Uptrend Day 13 | Futures: ES +0.62% (~7,151.75) NQ +0.42% (~27,040.25)
+Open positions: 0 | Circuit breakers: NONE (Alpaca unavailable; trade-log confirms 0 trades, $2,500 equity)
+Overnight gaps: NONE (no open positions to check)
+Research source: websearch_fallback (Perplexity + Alpaca both 403 — IP restriction, day 5)
+
+Watchlist:
+  🟡 AVGO ~$405.33 pre-market (+0.79% overnight), near $406.75 pivot. Positive catalysts (Google Cloud + Meta chip). Pulled back from $422.65 ATH — possible pivot retest. Volume unverifiable (Alpaca blocked). Watch for: regular session hold above $406.75 + any volume pickup.
+  🔴 NVDA ~$199.50 pre-market, below $201.75 pivot. Conviction 67/100 < 75. Not actionable.
+  ⛔ STX — EARNINGS BLACKOUT (April 28, last day before). Bullish analyst upgrades overnight: Barclays OW $625, UBS $515, Mizuho OW $565. Re-score post-earnings Sunday.
+
+Key catalyst today: None negative. Broad market futures positive. STX upgrades = post-earnings setup strengthening.
+Plan: NO ENTRIES today — Alpaca API unavailable (hard rule: no trading without live execution). Monitor AVGO open for pivot retest behavior. Weekend investigation: resolve Alpaca IP allowlist issue before Monday /market-check.
+⚠️ ALPACA API BLOCKED DAY 5 — no entries can execute until resolved. Escalate to Jason for weekend fix.
+
+---
 ## 2026-04-19 08:53 CT [clickup-placeholder]
 
 📋 Week prep 2026-04-19 (JUMPSTART)
