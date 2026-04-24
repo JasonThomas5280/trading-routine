@@ -175,3 +175,46 @@ Watchlist:
 Open positions: 0 | Deployed: 0% | Weekly trades: 0/3
 ⚠️ Alpaca API blocked 6 straight days — weekend fix required before Mon open.
 Next: /eod-review 3:15 PM CT
+
+---
+## 2026-04-24 20:43 CT [clickup-placeholder]
+
+### Week ending 2026-04-24
+
+## Week ending 2026-04-24 (Fri)
+
+**Context:** Week 1 — Alpaca API blocked (403) all 7 sessions. Zero trades executed.
+
+### Performance
+- Starting equity: $2,500.00
+- Ending equity: $2,500.00
+- Weekly return: 0.00% (vs. SPY ~+0.84% = -0.84% alpha)
+- Trades taken: 0 of 3 max — infrastructure blocked all execution
+- Winners: 0 | Losers: 0 | W:L ratio: N/A
+
+### Rule Adherence: 100/100 (trivially perfect — no trades)
+
+### Market Direction: CORRECT all week
+- Confirmed Uptrend Days 7→14 ✓
+- S&P 500 + Nasdaq closed at ALL-TIME HIGHS Friday Apr 24 ✓
+- 1 distribution day (Apr 23, software sector carnage) correctly identified ✓
+- No missed transitions, no false signals
+
+### Key Infrastructure Issue
+Alpaca 403 "Host not in allowlist" — day 1 through day 7. AVGO broke out Apr 22 (our #1 candidate). We could not execute. Weekend priority: fix API access before Monday open.
+
+### Lessons
+1. Add Alpaca health check as Step 0 of /pre-market
+2. Watchlist quality VALIDATED — AVGO, NVDA, STX all moved as expected
+3. Adjacent earnings (Intel +23.6%, AMD +13.9%) can resolve borderline setups overnight — re-score NVDA urgently Sunday
+
+### Proposed Rule Changes
+1. /pre-market Step 0: `alpaca.sh account` health check — surfaces blocks at 6AM not 10AM
+2. Add `data_confidence` (Alpaca vs WebSearch) flag to market-check trigger table
+
+### Next Week
+- Confirmed Uptrend Day 14. S&P + Nasdaq at ATH. Semis: 18-day win streak.
+- 0 positions, $2,500 cash, 3/3 trade slots open
+- Focus: XLK Semis (AVGO, NVDA, LRCX, MU), XLF Financials (GS)
+- Calendar: STX earnings Mon Apr 28 — post-earnings re-score Sunday night
+- Emotional state: DISCIPLINED — no rule violations, no FOMO

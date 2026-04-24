@@ -6,6 +6,8 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-04-20 to 2026-04-24 — Rebuild via /weekly-prep on Sunday 2026-04-27
+
 ## Current Week: 2026-04-20 to 2026-04-24 (JUMPSTART — reduced-depth scoring)
 
 **Market direction at build time:** 🟢 Confirmed Uptrend (day 7)
