@@ -44,6 +44,51 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-04-24 — /eod-review (3:15 PM CT)
+
+**Research source:** websearch_fallback (Alpaca 403 — host not in allowlist, day 7; Perplexity unavailable same reason; WebSearch for all market data)
+**Close:** SPY ~$710 est. (record close, +~1.0% from $703.23; range $708.58–$714.14; exact close unconfirmed — Alpaca blocked) | QQQ ~$661 est. (+1.63% from $650.81, Nasdaq 24,836.60 record)
+**Distribution days:** 1 of 5 threshold (trailing 25 sessions — today: NO new dist day, both indexes UP)
+**Market state:** 🟢 Confirmed Uptrend Day 14 (no transition; well below 5-day dist threshold)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — no open positions to evaluate
+  - TIGHTEN: none — no positions
+  - SELL: none — no positions
+**Circuit breakers:** NONE (equity $2,500.00, 0% daily P&L, 0% weekly P&L, 0/3 PDT, 0/3 weekly trades)
+**P&L today:** $0.00 (0.00%) — no positions
+**Equity:** $2,500.00 (estimated — Alpaca account data unavailable)
+**Weekly trade count (final for week):** 0 of 3
+
+### Market context — VERY BULLISH close
+- S&P 500 + Nasdaq closed at NEW ALL-TIME HIGHS
+- Headline: "Nvidia retakes $5 trillion market cap, Intel finally tops 2000 peak"
+- Semiconductor index: 18th consecutive UP day (historic run)
+- Intel: +23.6% (blockbuster Q1 earnings beat + guidance)
+- AMD: +13.9%
+- Nvidia: retook $5T market cap — likely surged well above $201.75 pivot on massive volume
+- SPY volume: 21.54M at ~3 PM CT vs avg 54M (~40% of avg) — light Friday volume, NOT elevated
+- S&P 500 index close: 7,165 (per search) or 7,121 (per TradingEconomics) — conflicting sources; market clearly UP regardless
+- Nasdaq close: 24,836.60 (+1.63% from 24,438.50 Apr 23 close)
+
+### Watchlist near-close status
+- **AVGO:** Traded $408.86–$428.90 today. Pivot $406.75 held (low $408.86 = strong support). Strong semi backdrop — likely closed in upper half of range (~$420–$428). Volume at 10 AM was pacing +30%; with semi index up all day, volume almost certainly accelerated. **Cannot confirm without Alpaca.** Setup structurally intact and strengthening. Earnings ~June 5. ✅ Re-score Sunday — potential entry next week if Alpaca fixed.
+- **NVDA:** Headline-driven day — "retakes $5 trillion market cap." Almost certainly broke well above $201.75 pivot on massive volume. The volume deficit that produced 67/100 score is very likely resolved by today's move. **URGENT: Re-score at Sunday /weekly-prep. Conviction likely ≥75 post today. May be chased/extended by Sunday though — check % above pivot.** ⚠️
+- **STX:** Earnings April 28 (Monday). Do not enter. Bullish analyst complex (Barclays $625, UBS $515, Mizuho $565). Re-evaluate post-earnings Sunday night.
+- **LRCX:** Semi equipment — today's 18-day semi surge almost certainly pushed LRCX toward or above $273.50 pivot. Bench promotion candidate. Re-score Sunday.
+- **MU:** Memory AI demand narrative strong; no pivot defined. Re-score Sunday.
+
+### ⚠️ CRITICAL INFRASTRUCTURE — Alpaca API blocked day 7
+403 "Host not in allowlist" persisting through entire week. Zero trades executed. AVGO setup nearly triggered twice (Apr 22 breakout missed, Apr 24 volume close to threshold). NVDA likely triggering Monday. **Must resolve before Monday pre-market open or risk missing entries week 2 as well. Weekend priority #1.**
+
+### Carry-forward for Sunday /weekly-prep (2026-04-27)
+- Fix Alpaca API (weekend task #1)
+- Full canslim-screener re-score: NVDA (urgent — may now score ≥75 post Intel/AMD/AVGO semi catalyst day), AVGO (confirm pivot/volume), LRCX (bench → primary candidate?), MU, PLTR, CRWD, GS
+- STX post-earnings evaluation (reports Monday Apr 28)
+- Week 2 starts fresh: 0/3 weekly trades, 0 positions, $2,500 cash, market at ATH in strong confirmed uptrend
+
+---
+
 ## 2026-04-24 — /market-check (10:00 AM CT)
 
 **Research source:** websearch_fallback (Alpaca 403 — host not in allowlist, day 6; Perplexity unavailable same reason; WebSearch for all price/volume data)

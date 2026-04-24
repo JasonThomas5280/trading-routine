@@ -8,18 +8,22 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-23 (Thu) — `/eod-review`
-**Confirmed Uptrend days:** 12 (since follow-through day 2026-04-08)
-**Distribution days (last 25 sessions):** 1 effective (today NEW — SPY -0.41%, vol estimated elevated; Alpaca blocked day 4, vol ratio unconfirmed)
+**Last updated:** 2026-04-24 (Fri) — `/eod-review`
+**Confirmed Uptrend days:** 14 (since follow-through day 2026-04-08)
+**Distribution days (last 25 sessions):** 1 effective (Apr 23 only — today is an UP day, no new distribution)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
+**SPY close 2026-04-24:** ~$710 est. (record close; +~1.0% from $703.23; range $708.58–$714.14 per search; Alpaca blocked day 7, exact close unconfirmed) — NOT a distribution day (UP)
 **SPY close 2026-04-23:** ~$703.23 (-0.41% vs Apr 22 $706.14) — DISTRIBUTION DAY (magnitude -0.41% >= -0.20%; software sector carnage IBM -7.94% / SFDC -8.88% / NOW -18% implies elevated vol; exact ratio unconfirmed — Alpaca 403 day 4)
 **SPY close 2026-04-22:** $706.14 (+0.29% vs Apr 21 close $704.08) — no distribution day
 **SPY close 2026-04-21:** $704.08
-**SPY relative to 50-day MA:** above (est. ~$675, SPY +4.2% above close)
-**SPY relative to 200-day MA:** above (200-day ~$666, SPY +5.6% above close)
+**SPY relative to 50-day MA:** above (est. ~$675; today's ~$710 est. = +5.2% above)
+**SPY relative to 200-day MA:** above (200-day ~$666; today's ~$710 est. = +6.6% above)
+**QQQ close 2026-04-24:** ~$661 est. (Nasdaq +1.63% to 24,836.60 record; from $650.81; Alpaca blocked — estimate only) — NOT a distribution day (UP)
 **QQQ close 2026-04-23:** $650.81 (-0.34% vs Apr 22 $653.01) — DISTRIBUTION DAY (magnitude -0.34% >= -0.20%; Nasdaq -0.89%; vol elevated with software sector)
 **QQQ close 2026-04-22:** $653.01 (+1.35% vs Apr 21 close $644.33) — no distribution day
 **QQQ relative to 50-day MA:** above
+
+**Key Apr 24 context:** S&P 500 + Nasdaq closed at NEW ALL-TIME HIGHS. Semiconductor index up 18th straight day. Intel +23.6% (blockbuster earnings), AMD +13.9%, Nvidia retook $5T market cap. Uptrend strengthening, not deteriorating.
 
 ---
 
