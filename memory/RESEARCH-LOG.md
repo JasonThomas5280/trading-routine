@@ -136,6 +136,72 @@ TOTAL: 87/100
 
 ---
 
+## 2026-04-26 — canslim-screener (ad-hoc screen, CRWD)
+
+**Research source:** websearch_fallback (Alpaca blocked; AV key unset; WebSearch used for all price, fundamental, catalyst, and volume data)
+**Purpose:** screen | **Market state:** Confirmed Uptrend Day 14 | **Caller-provided price:** $448.13
+
+### Data preflight results
+
+| Check | Status | Notes |
+|---|---|---|
+| Alpaca bars (60d) | BLOCKED | API key unset. Price/volume from WebSearch + caller context. |
+| AV OVERVIEW | BLOCKED | API key unset. Fundamentals sourced from WebSearch. |
+| AV EARNINGS | BLOCKED | API key unset. EPS data sourced from WebSearch + IR press releases. |
+| Perplexity N-letter | BLOCKED | WebSearch used as fallback. |
+| EDGAR 13F | UNAVAILABLE | Institutional % sourced from WebSearch (70.85-73.6% confirmed). |
+
+Full data-source fallback mode. Exception applied per caller: explicit data_confidence: websearch_fallback with sufficient WebSearch data to score all letters. Volume-dependent scores conservatively penalized.
+
+### Market State Gate
+
+- Market state: Confirmed Uptrend Day 14
+- Purpose: screen — gate does not block scoring
+
+### Liquidity & Price Filters
+
+- Price: $448.13 — PASS ($10-$500 range)
+- 50d ADV: ~3.13M shares x $448 = ~$1.4B/day — PASS (above 500K floor)
+- All filters: PASS
+
+### Earnings Date Check
+
+- Next earnings: June 9, 2026 — 29+ trading days out — CLEAR
+
+### Letter Scores
+
+| Letter | Score | Basis |
+|---|---|---|
+| C | 10/20 | Non-GAAP Q4 FY26: $1.12 vs Q4 FY25: $1.03 = +8.7% YoY. Deceleration: Q3 +26.3% YoY to Q4 +8.7% YoY = 2 consecutive decelerating quarters. Deceleration cap = 10 pts. GAAP turnaround: Q4 FY25 -$0.35 to Q4 FY26 +$0.15 (real improvement). earnings_decelerating applied. |
+| A | 5/15 | FY26 full-year GAAP net loss -$0.65/sh. FY25 GAAP -$0.06/sh. Annual GAAP does not meet >=25% growth for 2+ of 3 years. ROE -0.59% (negative) = 0 additive. Short_annual_history minimum credit: 5 pts for improving FY26 trajectory. A_annual_weak warning. |
+| N | 7/15 | 52w high $566.90; current $448.13 = 20.9% below — >15% off high = 0 pts proximity. New catalysts: Falcon Flex +120% YoY adoption, Charlotte AI AgentWorks Ecosystem (Mar 25 2026 launch w/ NVIDIA/OpenAI/AWS/Anthropic), Next-Gen SIEM $585M ARR, FedRAMP High authorization = +5 pts. Analyst: HSBC upgrade Feb 2026, KeyBanc upgrade, 34/43 analysts Strong Buy, avg PT $510 = +2 pts. Total: 7. |
+| S | 8/15 | Float: ~190M effective (253.6M shares x ~75% non-insider/institution float) = 50-200M band = 3 pts. Volume: Apr 26 2.27M vs 3.13M avg = below average on up-day = 0 pts. Active buyback: $500M newly authorized Apr 6 2026, $1.5B total = 5 pts. Total: 8. |
+| L | 8/15 | 52-week return +8.2% vs SPY +30.6% and XLK +56% = underperforming on 52-week basis. 6-month RS estimated ~70-75 (borderline). RS score: 2 pts (70-79 band). Sector: XLK top sector = +5 pts. Slight upward adjustment for cybersecurity leadership: 8 pts. rs_rank_conflicting_sources. |
+| I | 6/10 | PercentInstitutions 70.85-73.6% = 70-85% band = 6 pts. EDGAR unavailable. edgar_data_unavailable. |
+| Base | 0/10 | Current $448 is 20.9% below 52w high $566.90. Correction in progress/consolidating. No Alpaca bars to confirm pattern, duration, or volume. no_valid_base_confirmation. |
+| **TOTAL** | **44/100** | **REJECT — conviction_below_threshold (<75)** |
+
+### Warnings
+
+- earnings_decelerating — non-GAAP EPS: Q3 FY26 +26.3% to Q4 FY26 +8.7% (2 consecutive)
+- earnings_below_25pct_threshold — Q4 FY26 non-GAAP +8.7% below 25% minimum
+- A_annual_weak — negative GAAP ROE; FY26 full-year GAAP net loss
+- N_52w_high_distant — current price 20.9% below 52w high
+- rs_rank_conflicting_sources — 52-week return underperforms SPY and XLK; 6-month estimated borderline
+- no_valid_base_confirmation — Alpaca bars unavailable; stock 20.9% below 52w high
+- edgar_data_unavailable — 13F holder trend unknown
+- data_confidence: websearch_fallback — all scores from WebSearch + caller context
+- price_20pct_off_high — significant drawdown from $566.90 peak
+
+### Entry parameters
+
+- No entry zone — conviction 44/100 below 75 threshold; no valid base
+- Current price: $448.13 (20.9% below 52w high $566.90)
+- Earnings: June 9, 2026 — 29 trading days out (CLEAR if conviction criteria met)
+- Re-score trigger: Q1 FY27 earnings June 9 (EPS growth re-acceleration to >=25%) + valid base formation confirmed with Alpaca bars
+
+---
+
 ## 2026-04-26 — canslim-screener (ad-hoc screen, LRCX)
 
 **Research source:** websearch_fallback (Alpaca blocked day 7+; Alpha Vantage key unset; WebSearch used for all price, fundamental, and catalyst data)
