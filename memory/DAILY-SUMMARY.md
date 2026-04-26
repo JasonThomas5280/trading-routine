@@ -218,3 +218,27 @@ Alpaca 403 "Host not in allowlist" — day 1 through day 7. AVGO broke out Apr 2
 - Focus: XLK Semis (AVGO, NVDA, LRCX, MU), XLF Financials (GS)
 - Calendar: STX earnings Mon Apr 28 — post-earnings re-score Sunday night
 - Emotional state: DISCIPLINED — no rule violations, no FOMO
+
+---
+## 2026-04-26 21:42 CT [clickup-placeholder]
+
+📋 Week prep 2026-04-28
+Market: CONFIRMED UPTREND Day 14 (Dist: 1/25, SPY $713.94 ATH, +5.6% vs 50MA)
+Top sectors (4wk est.): XLK Tech +18%, XLC Comm +13% (blackout), XLF Financials +10%
+Blackout week: AMD/PLTR/Mag-7/AAPL all reporting — thin tradeable universe
+
+Watchlist primary:
+1. NVDA (87/100) pivot $201.75 | IN ZONE $208.27 | stop $193.69 | earnings May 20
+2. STX EARNINGS WATCH — Apr 28 post-close; EPS +81% expected; re-eval Tue Apr 29
+3. AVGO (74/100 DATA-DEPENDENT) pivot $406.75 | re-score Mon w/ API | likely 79-82
+4. — no 4th name; conviction floor held
+
+Bench: MU (78, cup/no handle ~$507 pivot forming), LRCX (75, flat base $273.60 pivot)
+Removed: CRWD (44, EPS decelerating), GS (C-letter 24.3%), PLTR (bearish + blackout)
+
+Calendar risks:
+- Mon Apr 28: STX earnings AH
+- Tue Apr 29: FOMC decision 1PM CT + MSFT/META/AMZN/GOOGL earnings AH
+- Thu Apr 30: GDP Q1 adv (est +2.2%) + Core PCE (est +0.3%) + AAPL earnings AH
+
+Entry plan Mon: NVDA entry at /market-check 10AM CT if $201.75-$211.84. Run trade-executor. Restore API first at 6AM pre-market. Re-score AVGO Monday. STX watch only.

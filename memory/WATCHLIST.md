@@ -6,53 +6,89 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ⚠️ ARCHIVED — Week of 2026-04-20 to 2026-04-24 — Rebuild via /weekly-prep on Sunday 2026-04-27
+## Current Week: 2026-04-28 to 2026-05-02
 
-## Current Week: 2026-04-20 to 2026-04-24 (JUMPSTART — reduced-depth scoring)
+**Built:** 2026-04-26 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca + Perplexity + Alpha Vantage all blocked — IP allowlist issue)
+**Market direction at build time:** 🟢 Confirmed Uptrend Day 14 (SPY $713.94 ALL-TIME HIGH; 1/25 distribution days)
+**Top sectors (4-week performance, est.):**
+1. XLK Technology: ~+18% (semiconductor index 18+ consecutive up days; dominant)
+2. XLC Communication: ~+13% (Meta, GOOGL, Netflix — but ALL major names in earnings blackout this week)
+3. XLF Financials: ~+10% (GS, JPM strong Q1)
+4. XLY Consumer Disc: ~+9% (substitute for XLC this week — XLC untradeable due to Mag-7 earnings)
+**Bottom sectors (avoid):** XLE Energy (~-1%), XLU Utilities (~+1.5%), XLP Staples (~+2.5%)
+**Blacklisted sectors:** None
 
-**Market direction at build time:** 🟢 Confirmed Uptrend (day 7)
-**Top sectors (4-week performance):** XLK Tech (+11.2%), XLY Consumer Disc (+7.3%), XLF Financials (+6.4%)
-**Bottom sectors (avoid):** XLE Energy (-5.0%), XLP Staples (-3.0%), XLU Utilities (-2.3%)
-**Blacklisted sectors:** None (no trade history yet)
+**⚠️ EARNINGS-BLACKOUT WEEK — thin universe:**
+AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Apr 30) all in blackout. XLC as a sector is effectively untradeable for individual entries this week. Only **1 name is immediately actionable** (NVDA). This reflects earnings-calendar congestion, NOT market deterioration. Market is at ATH — be patient, execute only NVDA if setup holds.
 
-**⚠️ Note:** This is a jumpstart watchlist. Conviction scores below are momentum-based estimates, NOT full canslim-screener output. First full `/weekly-prep` (Sun 2026-04-26) will replace with proper scored candidates.
+**Scan stats (full detail in RESEARCH-LOG.md 2026-04-26 /weekly-prep entry):**
+- Universe seeded: ~15 candidates (manual web-fallback — build-universe.sh blocked)
+- Pre-filtered (earnings blackout / technical fails): 8 removed (STX, PLTR, AMD, META, MSFT, AMZN, GOOGL, AAPL)
+- Scored via canslim-screener: 6 (NVDA, AVGO, LRCX, MU, CRWD, GS)
+- Passed ≥75: 3 (NVDA 87, MU 78, LRCX 75)
+- With valid entry zone this week: **1** (NVDA only)
 
-### Primary watchlist (top 4 — ready to trade)
+---
 
-| Rank | Symbol | Est. Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Notes |
+### Primary watchlist (top 4 — ready to trade this week)
+
+| Rank | Symbol | Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 1 | AVGO | ~80 | Tech/Semis | **ATH breakout Apr 22 ($422.65); pivot retesting/holding** | $406.75 (original) | $390.60 (-7% from $420) | ~2026-06-05 | 🟡 WATCHING. **2026-04-24 /eod-review:** Range $408.86–$428.90 all day. Pivot $406.75 held as support (low $408.86 = strong). Semiconductor index +18th straight day — very bullish backdrop. Volume at 10AM was pacing +30%; almost certainly accelerated PM on semi strength (cannot confirm — Alpaca blocked day 7). Likely closed in $420–$428 range. **Re-score urgently at Sunday /weekly-prep. Potential entry Mon if Alpaca fixed + volume confirms.** |
-| 2 | NVDA | ~67→⚠️ | Tech/Semis | At/above pivot; conviction pending re-score | $201.75 | $187.63 (-7%) | ~2026-05-28 | ⚠️ URGENT RE-SCORE. **2026-04-24 /eod-review:** Headline = "Nvidia retakes $5 trillion market cap." Almost certainly closed well above $201.75 pivot on massive volume today (Intel +23.6%, AMD +13.9%, semi index day 18). Volume deficit that produced 67/100 score very likely resolved. **Must re-score at Sunday /weekly-prep — conviction likely ≥75 now. Check % above pivot (may be extended >5% by Monday open).** |
-| 3 | STX | ~75 | Tech/Storage | Extended; multiple analyst upgrades | $554.00 | $515.22 (-7%) | ~2026-04-28 ⚠️ | ⛔ EARNINGS BLACKOUT COMPLETE. **2026-04-24 /eod-review:** Reports Monday April 28. Do NOT enter. Strong analyst complex (Barclays $625 OW, UBS $515, Mizuho $565 OW). AI cloud storage demand "sold out" narrative intact. **Re-evaluate Sunday /weekly-prep post-earnings.** |
-| ~~4~~ | ~~CBOE~~ | ~~removed~~ | — | — | — | — | — | **REMOVED 2026-04-23 /pre-market — earnings blackout + analyst consensus below pivot** |
+| 1 | NVDA | **87/100** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🟢 **IN ZONE.** Close Apr 24: $208.27 (+3.2% above pivot). Buy zone $201.75–$211.84 (5% chase ceiling). Volume Apr 24: 192.5M (+175% vs ~70M avg) = volume CONFIRMED. HIGH CONVICTION ≥85 — eligible for 35% sizing (~$875). Earnings clear (18+ trading days). Rubin GPU platform (5× Blackwell, H2 2026) confirmed new catalyst. RS ≥95 (new ATH). FOMC April 29: no entries Wed morning per rules. Chase ceiling $211.84 — if Monday gap-up extends past ceiling, DO NOT CHASE. |
+| 2 | STX | EARNINGS WATCH | XLK/Storage | Breakout above $554 (pre-earnings) | TBD post-earnings | TBD | **Apr 28 after-close** ⚠️ | ⏳ **EARNINGS WATCH — re-evaluate Tue Apr 29.** Reports April 28 post-market. Expected EPS $3.44 (+81.1% YoY). Revenue guided $2.9B ± $100M. Barclays $625 OW, UBS $515, Mizuho $565 OW. If beats + stock gaps up ≥+2% on volume ≥+40% above avg at Tue open: run canslim-screener Tuesday, potential entry /market-check Tue (wait 30 min). If disappoints: REMOVE from watchlist. |
+| 3 | AVGO | 74/100 (data-dependent) | XLK/Semis | Flat base Stage 2 | $406.75 (original) / $429.41 (ATH break) | entry × 0.93 | ~Jun 5, 2026 ✅ | ⚠️ **DATA-DEPENDENT.** 74/100 = 1pt below threshold — blocked by API degradation on A-letter (FY25 EPS ambiguity due to VMware dilution). Current price $422.76 is inside buy zone $406.75–$427.09. Alpaca restored = expected re-score 79–82/100 (PASS). **Action: restore API, re-run canslim-screener at /pre-market Mon. If ≥75, immediately actionable.** Do NOT enter at 74. |
+| 4 | — | — | — | — | — | — | — | No 4th primary candidate this week. Earnings-calendar congestion. Do not lower conviction threshold to fill this slot. |
 
-### Bench (4–8 — setup forming, not yet at pivot)
+### Bench (5–8 — setup forming, not yet at pivot)
 
-| Rank | Symbol | Est. Conviction | Notes |
+| Rank | Symbol | Conviction | Notes |
 |---|---|---|---|
-| 5 | LRCX | ~70 | Tech/Semi Equip. **2026-04-24 /eod-review:** Semi index day 18 — LRCX very likely pushed toward/above $273.50 pivot today. Bench promotion candidate. Cannot confirm (Alpaca blocked). **Re-score Sunday — potential promotion to primary if now within 2% of pivot.** Q3 earnings Apr 22 (BofA PT $330). |
-| 6 | MU | ~70 | Tech/Memory. **2026-04-24 /eod-review:** Following Intel +23.6%, AMD +13.9% — memory/AI demand narrative reinforced. No pivot defined. Needs full canslim-screener Sunday before any entry. |
-| 7 | PLTR | **UNSCORED** | Tech/Software momentum leader. Last mid ~$148. Requires full canslim-screener at Sunday /weekly-prep before entry. |
-| 8 | CRWD | **UNSCORED** | Tech/Cybersecurity momentum leader. Last mid ~$454. Requires full canslim-screener at Sunday /weekly-prep before entry. |
-| 9 | GS | **UNSCORED** | Financials/I-Bank leader. Last mid ~$926. Requires full canslim-screener at Sunday /weekly-prep before entry. |
+| 5 | MU | **78/100** | XLK/Memory. Cup-without-handle (10wk, 18% depth). **NO ENTRY** — handle not formed. Indicative pivot ~$507 if handle forms (buy zone $507–$532). Earnings Jul 1 (44 days, clear). Q2 FY26 EPS >500% YoY. HBM4 sold out through 2026. RS ≥95 est. Re-score when handle forms — expected 88/100 HIGH CONVICTION. Monitor tightly. |
+| 6 | LRCX | **75/100** | XLK/Semi Equip. Flat base (2wk, ~5% depth), pivot $273.60, buy zone $273.60–$287.28. Current price $267.78 (−2.1% below pivot). Intraday high Apr 26 briefly touched $275.84. Wait for close above $273.60 on confirmed volume ≥+40%. Earnings Jul 29 (65 days, clear). BofA PT $330. Needs Alpaca API restored for volume confirmation. |
+| 7 | AMD | **UNSCORED — blackout** | XLK/Semis. Earnings May 5 (blackout starts Mon Apr 28). +13.9% on Apr 24. Strong AI GPU competitive position. Projected EPS +33% YoY for Q1. **Re-score immediately after May 5 earnings if beats.** Potential high-conviction candidate for week of May 5+. |
+| 8 | STX (post-earnings) | **TBD** | XLK/Storage. Conditional on April 28 earnings beat. If strong: run full canslim-screener Tue Apr 29 at /pre-market. EPS +81.1% YoY expected. AI cloud storage demand "sold out." Do NOT score pre-earnings — wait for reaction. |
 
-**⚠️ UNSCORED names (PLTR, CRWD, GS):** Flagged for known momentum leadership in target sectors. No proper CAN SLIM scoring performed — Alpaca bars endpoint returning null blocked RS rank, base pattern, and volume-surge computation. **Do NOT enter on these names until Sunday /weekly-prep (2026-04-26) validates conviction ≥ 75.** `/market-check` should SKIP these today.
+---
 
 ### Removed this week
 
 | Symbol | Reason |
 |---|---|
-| PANW | -13.5% from high — too far past pivot, no valid base entry |
-| SNEX | -20% from peak — momentum broken, disqualified |
-| WDC | **EARNINGS BLACKOUT** — earnings 2026-04-30 (within 10 trading days). Removed 2026-04-22 /pre-market. |
-| META | -14% from high per Apr 21 quote. Too far below pivot, consolidation extended. Removed 2026-04-22 /pre-market. |
-| CBOE | **REMOVED 2026-04-23 /pre-market** — earnings May 1, 2026 (enters 5-day blackout on April 25). Analyst consensus: Hold (9 analysts), avg target $286.56 BELOW $310 pivot. Morgan Stanley has active Sell rating. Risk/reward does not meet CAN SLIM entry standards. |
+| CRWD | **44/100 REJECT** — EPS decelerated to +8.7% YoY (below 25% minimum); negative GAAP ROE (-0.59%); stock 20.9% below 52-week high; no valid base. Re-score after June 9 earnings if re-accelerates. |
+| GS | **C-letter fail** — Q1 2026 EPS +24.3% YoY (0.7pp shy of 25% threshold). Informational total 42/100. Cup forming (~11wk, -16.7% depth) but needs handle. Re-score after July Q2 earnings if ≥25% growth confirmed. |
+| PLTR | **Earnings blackout (May 4) + bearish technical.** 10-day MA crossed below 50-day MA on April 9. Price $142.39 is 31% below 52-week high ($207.52) — NOT a leader setup. Stock fell 20%+ in 2026. Remove entirely until technical structure repairs. |
+| CBOE | Removed prior week — earnings May 1, analyst consensus (Hold avg $286.56) below $310 pivot. |
+| PANW | Removed prior week — -13.5% from high, no valid base entry. |
+| SNEX | Removed prior week — -20% from peak, momentum broken. |
+| WDC | Removed prior week — earnings blackout (April 30). |
+| META | Earnings April 29 — blackout. Re-evaluate after results. |
 
 ---
 
-## Last Week's Watchlist (for reference)
+## Week-Ahead Entry Execution Plan
 
-*(None — this is the first populated watchlist)*
+**Monday April 28:**
+- NVDA: Check open. If price holds $201.75–$211.84 range, target entry at /market-check (10 AM CT). Run trade-executor. Use 30% standard sizing ($750). No FOMC day restriction Monday.
+- AVGO: Restore API + re-run canslim-screener at /pre-market (6 AM CT). If ≥75, add to primary and evaluate at /market-check.
+- STX earnings after close — do not enter Monday.
+
+**Tuesday April 29:**
+- FOMC day (decision ~1 PM CT, Powell ~1:30 PM CT). NO new entries before 1 PM CT per rules.
+- STX post-earnings: check reaction at 6 AM CT pre-market. If gap-up + strong volume: run screener, evaluate entry after 10 AM CT (after 30-min settle + FOMC no-entry window clears at 1 PM CT — so earliest STX entry would be 1 PM CT Tuesday).
+- MSFT/META/AMZN/GOOGL earnings after close April 29 — monitor for XLK sentiment impact Wednesday.
+
+**Wednesday April 30 – Thursday May 1:**
+- GDP Advance Q1 (April 30): macro data before open — monitor for sentiment shift.
+- AAPL earnings April 30 after close.
+- No new entries during elevated event risk unless setup is pristine.
+
+---
+
+## Last Week's Watchlist (archived — week of 2026-04-20 to 2026-04-24)
+
+*(See git history for prior week's jumpstart watchlist)*
+
+**Key carry-overs:** NVDA (re-scored 67→87), LRCX (scored 75), AVGO (scored 74, API-blocked). CBOE, PANW, SNEX, WDC, META all removed with rationale above.
 
 ---
 

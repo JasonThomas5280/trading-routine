@@ -44,6 +44,65 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-04-26 — /weekly-prep (full Sunday scan)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 8; Alpha Vantage: key set but API host also blocked; Perplexity: 403 same IP allowlist block; EDGAR: unavailable. All data sourced via native WebSearch + cached context.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 14 | SPY $713.94 ATH (+5.6% above 50d MA ~$676) | QQQ ~$661 (+1.8% above 50d MA $649.42) | 1/25 distribution days
+**Sector leaders (top 3, 4-week est. March 27 – April 25):**
+1. XLK Technology: ~+18% (semiconductor index 18 consecutive up days; NVDA ATH, AVGO ATH)
+2. XLC Communication: ~+13% (Meta, GOOGL, Netflix — entire sector in earnings blackout this week)
+3. XLF Financials: ~+10% (GS Q1 strong, JPM strong)
+**Sector laggards (bottom 3):** XLE Energy (~-1%), XLU Utilities (~+1.5%), XLP Staples (~+2.5%)
+**⚠️ data_confidence: websearch_fallback** — Sector % estimates computed from available web data + market context; not derived from Alpaca bars. Volume confirmation for breakouts unavailable.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (day 8) | No live quotes, no order execution, no account data |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked same network | No fundamentals pull |
+| Perplexity | ❌ 403 same network | No research synthesis |
+| EDGAR | ❌ unavailable | No 13F institutional data |
+| Native WebSearch | ✅ functional | Used as fallback for all data |
+| ClickUp | ✅ (placeholder mode) | Appended to DAILY-SUMMARY.md |
+
+### Universe scan stats
+
+| Stage | Count | Notes |
+|---|---|---|
+| Seed universe (top-3 sector ETF constituents, manual) | ~15 | XLK: NVDA, AVGO, LRCX, MU, AMD, ORCL, MSFT; XLC: META, GOOGL, NFLX; XLF: GS, JPM, MS; XLY: AMZN. Manual web-fallback — build-universe.sh blocked |
+| Removed: earnings blackout (≤5 trading days) | 8 | STX (Apr 28), PLTR (May 4), AMD (May 5), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Apr 30) |
+| Removed: bearish technical disqualify | 1 | PLTR (10d MA < 50d MA; 31% below 52wk high) |
+| Removed: large float / liquidity pre-filter | 0 | All remaining passed ADV ≥500K |
+| Submitted to canslim-screener | **6** | NVDA, AVGO, LRCX, MU, CRWD, GS |
+| Passed ≥75 conviction | **3** | NVDA 87, MU 78, LRCX 75 |
+| Rejected: conviction <75 | 3 | AVGO 74 (data-artifact), CRWD 44, GS (C-letter fail) |
+| With valid entry zone this week | **1** | NVDA only |
+
+### Screener results summary
+
+| Symbol | Score | Pass | Entry Zone | Earnings | Notes |
+|---|---|---|---|---|---|
+| NVDA | 87/100 | ✅ PRIMARY | $201.75–$211.84 | May 20 ✅ | IN ZONE $208.27. Volume confirmed +175%. HIGH CONVICTION. |
+| MU | 78/100 | ✅ BENCH | No valid pivot yet | Jul 1 ✅ | Cup forming, no handle. Indicative pivot ~$507. Re-score when handle forms. |
+| LRCX | 75/100 | ✅ BENCH | $273.60–$287.28 | Jul 29 ✅ | Below pivot -2.1%. Wait for close above $273.60 on volume ≥+40%. |
+| AVGO | 74/100 | ⚠️ DATA-REJECT | $406.75–$427.09 | Jun 5 ✅ | 1pt below threshold — A-letter FY25 EPS ambiguity (VMware dilution). Likely 79-82 with real API. Re-score Mon. |
+| CRWD | 44/100 | ❌ REJECT | — | Jun 9 ✅ | EPS decelerated to +8.7% YoY; negative GAAP ROE; 21% below 52wk high. |
+| GS | REJECT | ❌ REJECT | — | ~Jul 14 ✅ | C-letter: Q1 EPS +24.3% (0.7pp shy of 25%). Informational 42/100. Cup forming, needs handle. |
+
+### Regime note
+
+Only 1 actionable entry this week (NVDA). Root cause: heavy Mag-7 earnings concentration (MSFT, META, AMZN, GOOGL on April 29; AAPL April 30; AMD May 5; PLTR May 4) creates a blackout bubble across the top-performing stocks in the leading sector. This is NOT a market-deterioration signal — SPY at ATH, 1/25 distribution days, semiconductor index up 18+ consecutive sessions. The playbook says hold conviction floor, wait for setups; executing discipline here is more important than filling positions.
+
+### Key week-ahead risks
+
+- FOMC April 28-29: 99.7% prob no change (rates 3.5-3.75%). Powell press conf 1 PM CT Wed. No entries Wed morning.
+- MSFT/META/AMZN/GOOGL earnings Wed April 29 AH: market-moving event for XLK/XLC sentiment.
+- AAPL earnings Thu April 30 AH.
+- GDP Advance Q1 Thu April 30 (est. +2.2%) + Core PCE (est. +0.3%).
+- STX earnings Mon April 28 AH: potential post-earnings entry Tue if beats strongly.
+
 ## 2026-04-26 — canslim-screener (ad-hoc, purpose=screen, GS)
 
 **Symbol:** GS (Goldman Sachs)
