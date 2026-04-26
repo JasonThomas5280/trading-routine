@@ -189,6 +189,83 @@ TOTAL: 87/100
 2. Price closes above $273.60 pivot on volume ≥+40% vs 50d avg
 3. Price remains ≤$287.28 (no chasing if gap extends)
 
+---
+
+## 2026-04-26 — canslim-screener (ad-hoc screen, AVGO)
+
+**Research source:** websearch_fallback (Alpaca blocked day 9; Alpha Vantage key unset; Perplexity unavailable; WebSearch for all price/volume/fundamental data)
+**Purpose:** screen | **Market state:** Confirmed Uptrend Day 14
+
+### Data Preflight
+
+| Check | Status | Notes |
+|---|---|---|
+| Alpaca bars (60d) | BLOCKED | API key error, host not in allowlist day 9. Price/volume from WebSearch + caller context. |
+| AV OVERVIEW | BLOCKED | API key unset. Fundamentals sourced from WebSearch. |
+| AV EARNINGS | BLOCKED | API key unset. EPS data sourced from WebSearch + caller context. |
+| Perplexity N-letter | BLOCKED | WebSearch fallback. Response >100 chars, no error. |
+| EDGAR 13F | UNAVAILABLE | Institutional % from WebSearch (~80% confirmed). |
+
+Full websearch_fallback mode. Caller provided price context with data_confidence: websearch_fallback. WebSearch returned substantive data across all letters. Scoring proceeds with full warnings per preflight exception.
+
+### Earnings Date Check
+
+Next earnings: ~June 5, 2026 = 28 trading days out. CLEAR (threshold = 5 days)
+
+### Liquidity & Price Filter
+
+Price: $422.76, within $10-$500 range PASS. ADV: ~21.64M-22.49M shares/day, far exceeds 500K floor PASS.
+
+### Letter Scores
+
+| Letter | Score | Basis |
+|---|---|---|
+| C — Current quarterly EPS | 10/20 | Q1 FY26 non-GAAP EPS $2.05 vs Q1 FY25 $1.60 = +28.1% YoY (25-39% band = 10 pts). AI revenue +106% YoY ($8.4B). 8 consecutive EPS beats. Mild acceleration vs Q4 FY25 (~+22%). No deceleration penalty. |
+| A — Annual EPS + ROE | 10/15 | Non-GAAP: FY23-FY24 revenue +44% with EBITDA expansion = >=25% EPS growth (PASS). FY24-FY25 EBITDA +35% but VMware share dilution pushes FY25 EPS growth to ~+23% (borderline FAIL). Conservative: 2 of 3 years >=25% = 5 pts. ROE 44.09% >> 17% threshold = +5 pts. Total 10/15. Primary AV data may resolve FY25 as PASS -> A = 15/15 -> total = 79. |
+| N — New catalyst + 52wk high | 15/15 | 52wk high $429.31 (Apr 23). Current $422.76 = -1.5% from ATH, within last 10 sessions = 10 pts. New catalysts: Meta partnership through 2029 (Apr 22), Google AI infra expansion (Apr 6), $100B AI revenue forecast FY27, 1M+ AI chips (stacked design), Mizuho PT raised to $480 (Apr 16), 29-analyst avg PT $443 = +5 pts. Capped at 15. |
+| S — Supply & Demand | 8/15 | Float ~977M shares (4.888B SO, ~80% institutional) = >500M = 0 pts. Volume: Apr 24 close ~22.49M vs 50d ADV ~21.64M = +3.9%. Research log intraday: +30% paced at midday, did not reach +40% = 3 pts (20-39% band). Active $10B buyback through Dec 2026 = 5 pts. Total 8/15. |
+| L — Leader | 15/15 | 6-month return from ~$250 (Oct 2025) to $422.76 = ~+69%. SPY 6-month ~+10-12%. RS rank estimated >=95th percentile vs Russell 1000 = 10 pts. Sector: XLK #1, semiconductor index +18 consecutive days; AVGO top-3 within XLK = +5 pts. Total 15/15. |
+| I — Institutional sponsorship | 6/10 | PercentInstitutions ~80% (Vanguard, BlackRock, State Street). 70-85% band = 6 pts (Tier 1). EDGAR unavailable, no Tier 2 adjustment. |
+| Base pattern bonus | 10/10 | Flat base, 2nd stage. Run: $184.02 (52wk low) to ~$414.61 (Dec 2025 high) = Stage 1. Then ~5-month consolidation Dec 2025-March 2026, <15% depth, tight action = Stage 2 flat base. Broke to ATH April 22 ($422.65). 2nd stage = 10 pts. |
+| TOTAL | 74/100 | REJECT — conviction_below_threshold (<75) |
+
+### Rejection Analysis
+
+74/100, one point below threshold. Marginal letter: A (annual EPS ambiguity due to VMware dilution masking FY25 non-GAAP growth).
+
+Resolution paths:
+- Primary AV data confirms FY25 non-GAAP EPS growth >=25%: A = 15/15, total = 79/100, PASS
+- EDGAR Tier 2 shows QoQ holder count increase: I = 8/10, total = 76/100, PASS
+
+This is a data-confidence rejection, not a thesis rejection. AVGO is one of the strongest CAN SLIM setups in the current universe. The 74 reflects blocked primary data sources, not weak fundamentals.
+
+### Warnings
+
+- data_confidence: websearch_fallback — Alpaca and Alpha Vantage both unavailable
+- rs_rank_estimated — full universe percentile unavailable; estimated vs SPY
+- edgar_data_unavailable — I-letter Tier 1 only; QoQ holder trend unknown
+- annual_eps_ambiguous — FY25 non-GAAP EPS growth borderline; GAAP distorted by VMware amortization
+- breakout_volume_moderate — Apr 24 volume +30% paced (research log confirmed), not the +40% surge day
+- extended_move_caution — +31.94% over 30 days, +45% since March 30; extended entry risk
+
+### Entry Parameters (for re-run when data restored)
+
+- Pivot: $406.75 (flat base high) or $429.41 (new ATH $429.31 + $0.10 on confirmed ATH breakout)
+- Entry zone (current pivot): $406.75-$427.09. Current price $422.76 = in zone.
+- Entry zone (new ATH breakout): $429.41-$450.88
+- Stop at entry: entry * 0.93 (-7%)
+- Earnings: June 5, 2026, 28 trading days out CLEAR
+
+### Action Required
+
+DO NOT ENTER. 74/100 is below 75 threshold. Rule is the rule.
+1. Weekend priority: Restore Alpaca API + set ALPHAVANTAGE_API_KEY in .env
+2. Re-run canslim-screener Monday pre-market with primary data. Expected score 79-82/100.
+3. If confirmed >=75 and price <=$427.09: route to trade-executor, standard 30% sizing (~$750)
+4. If AVGO gaps above $429.41 Monday on +40% volume: new pivot triggers, do not chase above $450.88
+
+---
+
 ## 2026-04-24 — /eod-review (3:15 PM CT)
 
 **Research source:** websearch_fallback (Alpaca 403 — host not in allowlist, day 7; Perplexity unavailable same reason; WebSearch for all market data)
