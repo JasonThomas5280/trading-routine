@@ -1085,3 +1085,91 @@ Price ceiling: entry must be <=500 or rule explicitly acknowledged by Jason.
 WATCHLIST — no entry. Wait for handle to form. Re-score target: May 12-19, 2026.
 
 ---
+
+## 2026-04-27 — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 10; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Market direction:** 🟢 Confirmed Uptrend Day 15 | SPY -0.17% (no distribution day) | Nasdaq -0.35% | Muted Monday open
+**Circuit breakers:** NONE (0 positions, $2,500 equity, 0% daily/weekly drawdown, 0/3 PDT, 0/3 weekly trades)
+**Open positions:** 0 | **Weekly trades used:** 0 of 3
+**data_confidence: websearch_fallback** — All live APIs blocked day 10. Prices from WebSearch.
+
+### ⚠️ Date correction
+Memory files from /pre-market were pre-stamped "2026-04-28 (Mon)" in error. Today is **Monday April 27, 2026**. All market-check entries corrected to 2026-04-27.
+
+### ⚠️ FOMC date correction
+Prior memory entries stated "FOMC decision comes Tuesday." Confirmed via WebSearch: FOMC decision is **Wednesday April 29** (standard two-day meeting schedule). Entry restriction: **No new entries Wednesday April 29 before 1 PM CT** (not Tuesday). MARKET-DIRECTION.md corrected.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (day 10) | No live quotes, no order execution |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked | No fundamentals pull |
+| Perplexity | ❌ 403 blocked | No research synthesis |
+| Native WebSearch | ✅ functional | All data via fallback |
+| ClickUp | ✅ (placeholder mode) | Appending to DAILY-SUMMARY.md |
+
+### Abort gate check
+
+| Gate | Status |
+|---|---|
+| Market state | 🟢 Confirmed Uptrend — CLEAR |
+| Research unavailable | websearch_fallback (not DEGRADED) — CLEAR |
+| Daily circuit breaker | 0% P&L — CLEAR |
+| Weekly circuit breaker | 0% weekly — CLEAR |
+| Drawdown halt | 0% from HWM — CLEAR |
+| Weekly trade count | 0 of 3 — CLEAR |
+| Position count | 0 of 4 — CLEAR |
+| Cash buffer | 100% cash — CLEAR |
+
+**All abort gates: CLEAR**
+
+### Market open context
+
+- **S&P 500:** -0.17% (below -0.20% distribution day threshold — NOT a dist day)
+- **Nasdaq:** -0.35% (volume unconfirmed — Alpaca blocked)
+- **Dow:** -0.32%
+- **Driver:** Iran peace deal talks stall, pre-FOMC positioning, Mag-7 earnings week anticipation
+- **Character:** Muted/slightly red. Consistent with /pre-market forecast of flat open. No structural concern.
+
+### Watchlist trigger evaluation
+
+| Symbol | Pivot | Current Price | Delta | Volume (10 AM CT) | Volume Pace vs Req | Verdict |
+|---|---|---|---|---|---|---|
+| NVDA | $201.75 | $210.14 | +4.2% above pivot | 6.19M in ~90 min | ~27M pace vs ~98M req (+40% of ~70M ADV) — only 28% of requirement | 🔴 NOT TRIGGERED — volume gate fail |
+| STX | TBD post-earnings | — | — | — | — | ⛔ EARNINGS TOMORROW (April 28 AH) |
+| AVGO | $406.75 | ~$419–$422 est. | ~+3–4% above pivot | unconfirmed | unconfirmed | 🟡 DATA-DEPENDENT — 74/100, below threshold |
+
+**NVDA detail:** Price $210.14 in buy zone ($201.75–$211.84) ✅. Briefly touched $212.11 intraday high (just above $211.84 chase ceiling), pulled back to $210.14 (within zone). Range $207.75–$212.11. Volume only 6.19M at 90min into session → pace ~27M projected vs ~98M required for +40% surge. Volume gap = 72% short of threshold. **NOT triggered.** Even if volume had confirmed, Alpaca is blocked — no execution possible.
+
+**AVGO detail:** No current price data available (last known ~$420 Fri). 74/100 = below 75 threshold. API still blocked. Cannot re-score without Alpha Vantage. No entry.
+
+**STX:** Reports Q3 FY2026 results Tuesday April 28 AH (confirmed via WebSearch). Analysts expect EPS $3.47, revenue $2.94B. Earnings call 5:00 PM ET April 28. **EARNINGS WATCH — re-evaluate at /pre-market Wednesday April 29.** Entry earliest: Wednesday after 1 PM CT (post-FOMC window + 30-min settle).
+
+### Mid-morning position health check
+No open positions. `sell-rules-engine` skipped.
+
+### Bench promotion/demotion check
+
+| Symbol | Status | Action |
+|---|---|---|
+| LRCX | ⚠️ BASE FAILURE RISK | Low today $257.05 breaks below base low ~$260. Current $261.87 (-4.3% below $273.60 pivot). ATH was $275.84 on April 24. **Do NOT enter. Flag for potential removal at /eod-review or /pre-market tomorrow if closes below $260 on volume.** Stays bench. |
+| MU | No pivot defined | No handle formed. Stays bench. Re-score target May 12-19. |
+| AMD | Earnings blackout May 5 | Do not score until after May 5 results. |
+
+**LRCX detail:** Opened $267.76, low $257.05 (intraday pierce below base support $260), current $261.87. The flat base high was $273.50; base consolidation ~$260–$273. Today's intraday low of $257.05 = 5.7% below base high = exceeds 4-5% base depth, suggests potential base failure. Without confirmed close below $260 on elevated volume, this is a warning not a confirmed failure. If /eod-review confirms close <$260 on ≥1.5× ADV: **REMOVE from watchlist.** Minimum-conviction setup (75/100) does not warrant holding through base failure risk.
+
+### Result: NO ENTRIES
+
+**Reason:** NVDA price in zone but volume only 28% of required threshold. Alpaca API blocked (day 10) — execution impossible regardless.
+
+### Carry-forward for /eod-review (3:15 PM CT)
+- NVDA: Monitor volume into close. If volume accelerates toward +40% by 2 PM CT, note in EOD but do not chase — buying late in session violates "last 15 min" rule and the moment may have passed. Still READY for tomorrow if zone holds.
+- LRCX: Watch for close. Close above $260 = base damage but possibly repairable. Close below $260 on volume = REMOVE.
+- STX: Reports tomorrow AH. Watchlist watching only.
+- AVGO: No action without API. Still 74/100. Holds WATCHING status.
+- Market: -0.17% SPY is not a distribution day. Uptrend intact. Day 15.
+
+---

@@ -8,7 +8,7 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-28 (Mon) — `/pre-market`
+**Last updated:** 2026-04-27 (Mon) — `/market-check`
 **Confirmed Uptrend days:** 15 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 1 effective (Apr 23 only)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
@@ -30,15 +30,20 @@
 
 **Key April 24 context:** S&P 500 and Nasdaq closed at NEW ALL-TIME HIGHS. Semiconductor index up 18th straight day. Intel +23.6% (blockbuster earnings), AMD +13.9%, Nvidia retook $5T market cap, AVGO at ATH $429.31 (Apr 23). SPY RSI 70.45 = mildly overbought but NOT a sell signal in a confirmed uptrend — overextension concerns are secondary to trend confirmation. **Uptrend strengthening, not deteriorating.**
 
-**Monday April 28 open:** ES futures ~-0.1% (flat), NQ futures ~flat. Iran/Strait of Hormuz geopolitical tensions suppressing early futures; oil higher. Axios report: Iran proposed new deal; uncertainty not acute escalation. Muted open expected — uptrend intact.
+**Monday April 27 open (actual):** SPY -0.17%, Nasdaq -0.35%, Dow -0.32%. Muted/slightly red open on Iran peace-deal-stall headlines. Consistent with pre-market forecast. No structural concern. `research_source: websearch_fallback`
+**Note:** Memory files from /pre-market were pre-stamped "2026-04-28 (Mon)" — corrected to "2026-04-27 (Mon)". Today is Monday April 27, 2026.
 
-**Week-ahead risk note (2026-04-28 to 2026-05-02):**
-- FOMC meeting April 28-29: 100% probability NO change (CME FedWatch; rates stay 3.5%-3.75%). Powell press conf April 29 ~12:30 PM CT. **NO new entries Tuesday before 1 PM CT** (not Wednesday — FOMC decision comes Tuesday per updated data).
-- Mag-7 earnings Wednesday April 29 after close: MSFT, META, AMZN, GOOGL. Market-moving event — position sizing discipline critical.
-- AAPL earnings Thursday April 30 after close + GDP Advance Q1 (est. 2.2%) + Core PCE (est. 0.3%).
+**⚠️ FOMC DATE CORRECTION (2026-04-27 market-check):** Prior MARKET-DIRECTION note incorrectly stated "FOMC decision comes Tuesday." Confirmed via web search: FOMC decision is **Wednesday April 29** (standard schedule). Powell press conference Wednesday ~12:30 PM CT. Corrected entry restriction below.
+
+**Week-ahead risk note (2026-04-27 to 2026-05-01):**
+- **Today (Mon April 27):** Normal trading. No restrictions.
+- **Tue April 28:** FOMC Day 1 (meeting starts, no decision). STX earnings AH. Normal trading but prepare for volatility.
+- **Wed April 29:** ⛔ **NO new entries before 1 PM CT** — FOMC decision ~12:00 PM CT, Powell press conf ~12:30 PM CT. Mag-7 earnings AH (MSFT, META, AMZN, GOOGL) — position sizing discipline critical.
+- **Thu April 30:** GDP Advance Q1 (est. +2.2%) + Core PCE (est. +0.3%) before open. AAPL earnings AH.
+- FOMC: 100% probability NO change (CME FedWatch; rates stay 3.5%–3.75%).
 - March CPI 3.3% YoY (elevated) — rate cuts pushed to late 2026 at earliest.
-- Iran/Hormuz: oil spike risk; inflationary pressure if escalates. Monitor.
-- Risk: elevated event density this week. Stick to plan; no chasing into FOMC window.
+- Iran/Hormuz: oil spike risk; inflationary if escalates. Monitor.
+- Risk: elevated event density this week. Stick to plan; no entries before 1 PM CT Wednesday.
 
 ---
 
@@ -77,6 +82,7 @@ A distribution day expires after 25 sessions OR if index gains 6%+ from the day'
 | 2026-03-19 | SPY | -0.25% | 1.35x | **FADED** (gain from 659.80 = +8.2%) |
 | 2026-04-23 | SPY | -0.41% | est. >1.0x | **ACTIVE** (expires 2026-06-01; vol ratio unconfirmed — Alpaca + data sources blocked; software sector carnage IBM -7.94%, SFDC -8.88%, NOW -18% implies elevated volume; magnitude -0.41% > -0.20% threshold met) |
 | 2026-04-23 | QQQ | -0.34% | est. >1.0x | **ACTIVE** (reference only — count tracks SPY; Nasdaq -0.89% close; expires 2026-06-01) |
+| 2026-04-27 | SPY | -0.17% | unconfirmed | **NOT A DIST DAY** — magnitude -0.17% < -0.20% threshold. Not counted. |
 
 **Effective count: 1/25** (1 SPY dist day; QQQ logged for reference)
 **⚠️ data_confidence: websearch_fallback** — SPY/QQQ MAs estimated via web sources; Alpaca API blocked (403 Host not in allowlist). Volume ratios for April 23 unconfirmed. Magnitude threshold met with high confidence. MA estimates reliable from multiple consistent sources.

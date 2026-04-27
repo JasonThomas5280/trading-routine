@@ -6,9 +6,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## Current Week: 2026-04-28 to 2026-05-02
+## Current Week: 2026-04-27 to 2026-05-01
 
 **Built:** 2026-04-26 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca + Perplexity + Alpha Vantage all blocked — IP allowlist issue)
+**⚠️ Date correction:** Week header was "2026-04-28" — corrected to "2026-04-27" (today is Monday April 27, 2026). FOMC decision is **Wednesday April 29** (not Tuesday). No-entry window: Wednesday before 1 PM CT.
 **Market direction at build time:** 🟢 Confirmed Uptrend Day 14 (SPY $713.94 ALL-TIME HIGH; 1/25 distribution days)
 **Top sectors (4-week performance, est.):**
 1. XLK Technology: ~+18% (semiconductor index 18+ consecutive up days; dominant)
@@ -34,8 +35,8 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 
 | Rank | Symbol | Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 1 | NVDA | **87/100** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🟢 **READY — IN ZONE.** Last ~$208.10 Fri est. (+3.1% above pivot). Buy zone $201.75–$211.84 (ceiling $3.74 away). Volume Apr 24: 192.5M (+175% vs ~70M avg) = confirmed. HIGH CONVICTION ≥85 — eligible for 35% sizing (~$875). Earnings clear (15+ trading days). No new negative catalysts overnight. Target entry /market-check 10AM CT if price holds zone. **FOMC restriction: no entries TUE before 1PM CT (Powell 12:30PM CT Tue). Monday unrestricted.** |
-| 2 | STX | EARNINGS WATCH | XLK/Storage | Breakout above $554 (pre-earnings) | TBD post-earnings | TBD | **Apr 28 after-close** ⚠️ | ⏳ **EARNINGS WATCH — re-evaluate Tue Apr 29.** Reports tonight 2PM PT / 5PM ET. Expected EPS $3.44 (+81.1% YoY), revenue ~$2.9B ±$100M. No entry today. If beats + gap ≥+2% on volume ≥+40%: run canslim-screener Tue 6AM. Earliest entry Tue after 1PM CT (FOMC window). If disappoints: REMOVE. |
+| 1 | NVDA | **87/100** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🟡 **IN ZONE — VOLUME NOT CONFIRMING.** Mon Apr 27: price $210.14 (range $207.75–$212.11, IN ZONE). Volume 6.19M at 90min → pace ~27M vs ~98M required (+40% of ~70M ADV) = only 28% of threshold. **NOT triggered today.** Alpaca blocked (day 10) — no execution possible regardless. HIGH CONVICTION setup remains intact. Monitor Tuesday. **FOMC restriction: no entries WEDNESDAY before 1PM CT (corrected from prior Tuesday note).** |
+| 2 | STX | EARNINGS WATCH | XLK/Storage | Breakout above $554 (pre-earnings) | TBD post-earnings | TBD | **Apr 28 after-close** ⚠️ | ⏳ **EARNINGS WATCH — re-evaluate Wed Apr 29 pre-market.** Reports TOMORROW (Tue Apr 28) AH, 5:00 PM ET. Expected EPS $3.47, revenue $2.94B. Earnings call 5 PM ET. If beats + strong reaction: run canslim-screener at Wed /pre-market. **Earliest possible entry: Thursday April 30** (FOMC window blocks Wednesday). If disappoints: REMOVE. |
 | 3 | AVGO | 74/100 (data-dependent) | XLK/Semis | Flat base Stage 2 | $406.75 (original) / $429.41 (ATH break) | entry × 0.93 | Jun 3, 2026 ✅ | 🟡 **WATCHING — DATA-DEPENDENT.** 74/100 = 1pt below threshold (A-letter API blocked). Last ~$420.10 Fri est. — inside buy zone $406.75–$427.09. FY2025 earnings +292% YoY, AI chip sales Q1 FY26 +106% YoY — fundamentally strong. Likely re-scores 79–82/100 with API. **Do NOT enter at 74. Restore API or confirm A-letter manually before entry.** |
 | 4 | — | — | — | — | — | — | — | No 4th primary candidate this week. Earnings-calendar congestion. Do not lower conviction threshold to fill this slot. |
 
@@ -44,7 +45,7 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 | Rank | Symbol | Conviction | Notes |
 |---|---|---|---|
 | 5 | MU | **78/100** | XLK/Memory. Cup-without-handle (10wk, 18% depth). **NO ENTRY** — handle not formed. Indicative pivot ~$507 if handle forms (buy zone $507–$532). Earnings Jul 1 (44 days, clear). Q2 FY26 EPS >500% YoY. HBM4 sold out through 2026. RS ≥95 est. Re-score when handle forms — expected 88/100 HIGH CONVICTION. Monitor tightly. |
-| 6 | LRCX | **75/100** | XLK/Semi Equip. Flat base (2wk, ~5% depth), pivot $273.60, buy zone $273.60–$287.28. Current price $267.78 (−2.1% below pivot). Intraday high Apr 26 briefly touched $275.84. Wait for close above $273.60 on confirmed volume ≥+40%. Earnings Jul 29 (65 days, clear). BofA PT $330. Needs Alpaca API restored for volume confirmation. |
+| 6 | LRCX | **75/100 ⚠️ AT RISK** | XLK/Semi Equip. Flat base (2wk, ~5% depth), pivot $273.60. Mon Apr 27: opened $267.76, low $257.05 (BELOW base low ~$260), current $261.87 (-4.3% below pivot). ATH was $275.84 Apr 24 = broke out and reversed hard. **BASE FAILURE RISK.** If closes below $260 on elevated volume: REMOVE. Do not enter under any circumstances — base integrity compromised. Monitor /eod-review for close confirmation. |
 | 7 | AMD | **UNSCORED — blackout** | XLK/Semis. Earnings May 5 (blackout starts Mon Apr 28). +13.9% on Apr 24. Strong AI GPU competitive position. Projected EPS +33% YoY for Q1. **Re-score immediately after May 5 earnings if beats.** Potential high-conviction candidate for week of May 5+. |
 | 8 | STX (post-earnings) | **TBD** | XLK/Storage. Conditional on April 28 earnings beat. If strong: run full canslim-screener Tue Apr 29 at /pre-market. EPS +81.1% YoY expected. AI cloud storage demand "sold out." Do NOT score pre-earnings — wait for reaction. |
 
@@ -65,22 +66,29 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 
 ---
 
-## Week-Ahead Entry Execution Plan
+## Week-Ahead Entry Execution Plan (corrected dates — week of April 27)
 
-**Monday April 28:**
-- NVDA: Check open. If price holds $201.75–$211.84 range, target entry at /market-check (10 AM CT). Run trade-executor. Use 30% standard sizing ($750). No FOMC day restriction Monday.
-- AVGO: Restore API + re-run canslim-screener at /pre-market (6 AM CT). If ≥75, add to primary and evaluate at /market-check.
-- STX earnings after close — do not enter Monday.
+**Monday April 27 (today):** ✅ EXECUTED — /market-check ran.
+- NVDA: Price in zone ($210.14 ✅) but volume not confirming (6.19M → pace ~27M vs ~98M req). NOT entered. Alpaca blocked. Setup intact — retry Tuesday.
+- AVGO: 74/100 — cannot enter without API. Skip.
+- STX: Earnings TOMORROW (April 28 AH). No entry today.
 
-**Tuesday April 29:**
-- FOMC day (decision ~1 PM CT, Powell ~1:30 PM CT). NO new entries before 1 PM CT per rules.
-- STX post-earnings: check reaction at 6 AM CT pre-market. If gap-up + strong volume: run screener, evaluate entry after 10 AM CT (after 30-min settle + FOMC no-entry window clears at 1 PM CT — so earliest STX entry would be 1 PM CT Tuesday).
-- MSFT/META/AMZN/GOOGL earnings after close April 29 — monitor for XLK sentiment impact Wednesday.
+**Tuesday April 28:**
+- NVDA: Still primary target. If price holds $201.75–$211.84, monitor volume at 10 AM CT. Need ≥+40% volume pace. Alpaca API must be restored for execution. 30% sizing (~$750).
+- STX: Earnings AH. No entry Tuesday.
+- AVGO: Retry API. Re-run canslim-screener if Alpha Vantage restores. If ≥75: evaluate Tuesday /market-check.
 
-**Wednesday April 30 – Thursday May 1:**
-- GDP Advance Q1 (April 30): macro data before open — monitor for sentiment shift.
-- AAPL earnings April 30 after close.
-- No new entries during elevated event risk unless setup is pristine.
+**Wednesday April 29:** ⛔ FOMC DECISION DAY
+- **No new entries before 1 PM CT.** FOMC decision ~12 PM CT, Powell press conf ~12:30 PM CT.
+- STX post-earnings: if gap-up + strong volume, run canslim-screener at /pre-market. Earliest entry: Thursday April 30 (not Wednesday — FOMC window).
+- MSFT/META/AMZN/GOOGL earnings AH Wed: monitor for XLK sentiment impact Thursday.
+
+**Thursday April 30 – Friday May 1:**
+- GDP Advance Q1 (April 30) + Core PCE before open — macro risk. Monitor for sentiment shift.
+- AAPL earnings April 30 AH.
+- STX post-earnings (if strong): earliest valid entry Thursday after 10:30 AM ET.
+- Mag-7 reaction to MSFT/META/AMZN/GOOGL: if positive, XLK strengthens, NVDA/AVGO/LRCX setups may improve.
+- No new entries on Friday if macro data forces sentiment shift.
 
 ---
 
