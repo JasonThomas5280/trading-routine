@@ -103,6 +103,70 @@ Only 1 actionable entry this week (NVDA). Root cause: heavy Mag-7 earnings conce
 - GDP Advance Q1 Thu April 30 (est. +2.2%) + Core PCE (est. +0.3%).
 - STX earnings Mon April 28 AH: potential post-earnings entry Tue if beats strongly.
 
+## 2026-04-28 — /pre-market (Monday open)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 9; Alpha Vantage: blocked; Perplexity: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 15 | SPY est. ~$716.52 Friday close (S&P 500 index: 7,165.08, +0.80% Fri) | QQQ est. ~$660+ | 1/25 distribution days
+**⚠️ data_confidence: websearch_fallback** — All live APIs unavailable (day 9). Prices estimated from web sources.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (day 9) | No live quotes, no order execution |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked | No fundamentals pull |
+| Perplexity | ❌ 403 blocked | No research synthesis |
+| Native WebSearch | ✅ functional | All data via fallback |
+| ClickUp | ✅ (placeholder mode) | Appending to DAILY-SUMMARY.md |
+
+### Open positions — overnight gap check
+
+**No open positions.** Gap check skipped.
+
+### Overnight catalysts affecting watchlist
+
+- **NVDA:** No new negative catalysts. AI/semiconductor sector momentum intact. Stock ~$208.10 Friday est. (range $199.58–$210.85), in buy zone $201.75–$211.84. Analyst consensus Strong Buy, avg PT $266.24 (+28%). Earnings May 20 — clear. **Setup INTACT.**
+- **STX:** Reports today (April 28) after close, 2PM PT / 5PM ET. No results yet (pre-market). Still **EARNINGS WATCH** — no entry today. Expected EPS $3.44 (+81.1% YoY), revenue ~$2.9B ±$100M.
+- **AVGO:** No new negative catalysts. Stock ~$420.10 Friday est. FY2025 annual earnings: +292% YoY ($23.13B), revenue +24% ($63.89B). Q1 FY2026 AI chip sales +106% YoY ($8.4B). Earnings: June 3, 2026 — clear. Still **data-dependent** on A-letter API confirmation for re-score. Analyst consensus Strong Buy, avg PT $443.14.
+
+### Market overnight check
+
+- **ES futures:** ~-0.1% (flat/slightly negative vs. S&P 500 Friday close 7,165.08)
+- **NQ futures:** ~flat to marginally positive
+- **Geopolitical:** Iran/Strait of Hormuz tensions — stalled peace talks, oil prices higher, muting futures. Axios: Iran proposed new U.S. deal to reopen Hormuz; nuclear talks deferred. Uncertainty not acute escalation.
+- **FOMC:** Meeting April 28-29; 100% probability no rate change. CME FedWatch: policy on hold rest of 2026. Powell press conf April 29 ~1PM CT — **no new entries Tuesday before 1PM CT per rules.**
+- **Mag-7 earnings Wednesday April 29 AH:** MSFT, META, AMZN, GOOGL — all up >10% in April. Elevated expectations; XLK sentiment risk.
+- **AAPL + GDP Advance Q1 + Core PCE:** Thursday April 30.
+- **Overall:** Flat/muted open. Geopolitical noise is not trend-changing. Uptrend Day 15, confirmed intact.
+
+### Buy-zone status
+
+| Symbol | Last (est.) | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$208.10 | $201.75 | +3.1% above pivot | 🟢 **READY** — in zone $201.75–$211.84, $3.74 of ceiling buffer |
+| STX | — | TBD post-earnings | — | ⏳ **EARNINGS WATCH** — reports tonight, re-evaluate Tue 6AM |
+| AVGO | ~$420.10 | $406.75 (orig) | +3.3% above orig pivot | 🟡 **WATCHING** — data-dependent A-letter re-score needed |
+| MU | est. ~$490–$510 | ~$507 (indicative) | below indicative pivot | ⚪ BENCH — no handle formed |
+| LRCX | est. ~$267–$273 | $273.60 | ~0–2% below pivot | ⚪ BENCH — wait for close above pivot on volume |
+
+### Circuit breaker check
+
+- Daily P&L: $0 (no positions) — NO trigger (-3% threshold)
+- Weekly P&L: $0 (week reset) — NO trigger (-6% threshold)
+- Drawdown from HWM: $0 — NO trigger (-12% threshold)
+- PDT rolling 5-session: 0 of 3 — NO trigger
+- **Circuit breakers: NONE ACTIVE — new entries allowed**
+
+### Entry plan for today (Monday April 28)
+
+1. **NVDA** — Primary. Price in zone ~$208.10. Enter at /market-check (10AM CT) if: price ≥$201.75 at open, volume trending toward ≥70M+ cumulative by 10AM, no gap above $211.84 ceiling. Standard 30% sizing (~$750).
+2. **AVGO** — Do NOT enter. 74/100 = below 75 threshold. Hold until API restored or A-letter confirmed manually ≥75.
+3. **STX** — No entry. Earnings tonight. Earliest possible entry: Tue afternoon (after FOMC window clears 1PM CT Tue, 30min post-open settle).
+4. **FOMC note** — Entry restriction applies **Wednesday morning only** (FOMC statement ~12:00 PM CT, Powell ~12:30 PM CT Wed). Monday entries unrestricted.
+
+---
+
 ## 2026-04-26 — canslim-screener (ad-hoc, purpose=screen, GS)
 
 **Symbol:** GS (Goldman Sachs)

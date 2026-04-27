@@ -8,11 +8,12 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-26 (Sun) — `/weekly-prep`
-**Confirmed Uptrend days:** 14 (since follow-through day 2026-04-08; Day 15 opens Monday April 28)
+**Last updated:** 2026-04-28 (Mon) — `/pre-market`
+**Confirmed Uptrend days:** 15 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 1 effective (Apr 23 only)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
+**SPY close 2026-04-25 (Fri):** ~$716.52 est. (S&P 500 index: 7,165.08, +0.80% Fri; `research_source: websearch_fallback`)
 **SPY close 2026-04-24:** $713.94 (ALL-TIME HIGH; +4.32% day driven by Intel +23.6%, AMD +13.9%, NVDA $5T retake; semiconductor index up 18th consecutive session)
 **SPY 50-day MA (2026-04-24):** ~$676.07 (est. per Barchart/TipRanks; `research_source: websearch_fallback` — Alpaca blocked)
 **SPY above 50-day MA:** +5.6% (+$37.87)
@@ -29,11 +30,14 @@
 
 **Key April 24 context:** S&P 500 and Nasdaq closed at NEW ALL-TIME HIGHS. Semiconductor index up 18th straight day. Intel +23.6% (blockbuster earnings), AMD +13.9%, Nvidia retook $5T market cap, AVGO at ATH $429.31 (Apr 23). SPY RSI 70.45 = mildly overbought but NOT a sell signal in a confirmed uptrend — overextension concerns are secondary to trend confirmation. **Uptrend strengthening, not deteriorating.**
 
+**Monday April 28 open:** ES futures ~-0.1% (flat), NQ futures ~flat. Iran/Strait of Hormuz geopolitical tensions suppressing early futures; oil higher. Axios report: Iran proposed new deal; uncertainty not acute escalation. Muted open expected — uptrend intact.
+
 **Week-ahead risk note (2026-04-28 to 2026-05-02):**
-- FOMC meeting April 28-29: 99.7% probability NO change (rates stay 3.5%-3.75%). Powell press conf April 29 ~1 PM CT. NO new entries Wednesday morning per entry rules.
+- FOMC meeting April 28-29: 100% probability NO change (CME FedWatch; rates stay 3.5%-3.75%). Powell press conf April 29 ~12:30 PM CT. **NO new entries Tuesday before 1 PM CT** (not Wednesday — FOMC decision comes Tuesday per updated data).
 - Mag-7 earnings Wednesday April 29 after close: MSFT, META, AMZN, GOOGL. Market-moving event — position sizing discipline critical.
 - AAPL earnings Thursday April 30 after close + GDP Advance Q1 (est. 2.2%) + Core PCE (est. 0.3%).
 - March CPI 3.3% YoY (elevated) — rate cuts pushed to late 2026 at earliest.
+- Iran/Hormuz: oil spike risk; inflationary pressure if escalates. Monitor.
 - Risk: elevated event density this week. Stick to plan; no chasing into FOMC window.
 
 ---

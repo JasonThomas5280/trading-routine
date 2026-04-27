@@ -242,3 +242,17 @@ Calendar risks:
 - Thu Apr 30: GDP Q1 adv (est +2.2%) + Core PCE (est +0.3%) + AAPL earnings AH
 
 Entry plan Mon: NVDA entry at /market-check 10AM CT if $201.75-$211.84. Run trade-executor. Restore API first at 6AM pre-market. Re-score AVGO Monday. STX watch only.
+
+---
+## 2026-04-27 11:16 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-04-28
+Market: 🟢 Confirmed Uptrend Day 15 | Futures: ES ~-0.1% NQ ~flat (Iran/Hormuz geopolitical, oil higher)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (no open positions)
+Watchlist ready: 🟢 NVDA ~$208.10 (pivot $201.75, +3.1%, zone $201.75-$211.84)
+Watchlist watching: 🟡 AVGO ~$420.10 (data-dependent A-letter, do not enter at 74)
+Earnings watch: STX reports tonight AH - re-evaluate Tue 6AM
+Key catalysts: STX earnings today | FOMC Tue (Powell ~12:30PM CT) | Mag-7 earnings Wed AH | AAPL Thu AH
+Plan: Target NVDA entry at /market-check 10AM CT if zone holds; 30% sizing (~$750). No entries Tue before 1PM CT (FOMC window). No AVGO until score confirmed >= 75.
+research_source: websearch_fallback | APIs: Alpaca/AV/Perplexity 403 day 9

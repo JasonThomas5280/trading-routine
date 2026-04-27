@@ -50,6 +50,7 @@ For SELL entries, additionally log:
 
 ## Weekly Trade Count (rolling)
 
+**Week of 2026-04-28:** 0 new positions opened (max 3/week) ← current week
 **Week of 2026-04-21:** 0 new positions opened (max 3/week)
 
 *(Reset every Monday by /pre-market)*
