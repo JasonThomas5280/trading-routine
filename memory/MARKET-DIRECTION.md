@@ -8,7 +8,7 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-27 (Mon) — `/market-check`
+**Last updated:** 2026-04-27 (Mon) — `/eod-review`
 **Confirmed Uptrend days:** 15 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 1 effective (Apr 23 only)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
@@ -31,6 +31,7 @@
 **Key April 24 context:** S&P 500 and Nasdaq closed at NEW ALL-TIME HIGHS. Semiconductor index up 18th straight day. Intel +23.6% (blockbuster earnings), AMD +13.9%, Nvidia retook $5T market cap, AVGO at ATH $429.31 (Apr 23). SPY RSI 70.45 = mildly overbought but NOT a sell signal in a confirmed uptrend — overextension concerns are secondary to trend confirmation. **Uptrend strengthening, not deteriorating.**
 
 **Monday April 27 open (actual):** SPY -0.17%, Nasdaq -0.35%, Dow -0.32%. Muted/slightly red open on Iran peace-deal-stall headlines. Consistent with pre-market forecast. No structural concern. `research_source: websearch_fallback`
+**Monday April 27 close (est.):** SPY ~$715 est. (-0.17% from ~$716.52 Fri) — NOT a distribution day (< 0.2%). QQQ ~$661–663 est. (-0.35% intraday pace). Distribution day count unchanged: 1 effective (Apr 23 only). `research_source: websearch_fallback`
 **Note:** Memory files from /pre-market were pre-stamped "2026-04-28 (Mon)" — corrected to "2026-04-27 (Mon)". Today is Monday April 27, 2026.
 
 **⚠️ FOMC DATE CORRECTION (2026-04-27 market-check):** Prior MARKET-DIRECTION note incorrectly stated "FOMC decision comes Tuesday." Confirmed via web search: FOMC decision is **Wednesday April 29** (standard schedule). Powell press conference Wednesday ~12:30 PM CT. Corrected entry restriction below.
@@ -119,3 +120,4 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 |---|---|---|
 | 2026-04-19 | NOT INITIALIZED → CONFIRMED UPTREND | Jumpstart init by /weekly-prep. SPY +2.55% follow-through on 2026-04-08, sustained rally +12% from 3/30 low. No active distribution days (4 historical, all faded). |
 | 2026-04-26 | CONFIRMED UPTREND → CONFIRMED UPTREND (strengthened) | /weekly-prep Sunday update. S&P 500 + Nasdaq at ALL-TIME HIGHS as of April 24. SPY $713.94, +5.6% above 50d MA. 1 distribution day (April 23, software selloff — now fully reversed). No state change; uptrend strengthening. |
+| 2026-04-27 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. SPY -0.17% (below 0.2% threshold — not a distribution day). 1 effective dist day unchanged. SPY ~$715 est., well above 50d MA ~$676. Uptrend Day 15 intact. Alpaca API blocked day 10 — no trades possible. |

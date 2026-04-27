@@ -1,5 +1,24 @@
 
 ---
+## 2026-04-27 15:15 CT [eod-review]
+
+⚠️ ALPACA API BLOCKED DAY 10 — no trades possible. All sell checks ran (0 positions to evaluate).
+
+📊 EOD 2026-04-27 | Equity ~$2,500.00 est. (API blocked) | +$0.00 (0.00% day, 0.00% week)
+Open: 0 positions | 100% cash | Weekly trades: 0 of 3 used
+Close est.: SPY ~$715 (-0.17%, not dist day) | QQQ ~$661 (-0.35%) | Dist days: 1/25 | 🟢 Uptrend Day 15
+sell-rules-engine: SKIPPED (no open positions)
+Actions: NONE
+
+Watchlist EOD:
+  • NVDA +0.52% | close ~$210–211 est. | still in buy zone $201.75–$211.84 | 🟡 READY tomorrow — volume must confirm
+  • LRCX -5.91% | close $261.87 | intraday low $256.31 (pierced $260) | ⚠️ BASE DAMAGED — close held above $260, stays bench; close <$260 tomorrow = REMOVE
+  • STX ⛔ earnings AH tonight (Apr 28) — blackout; re-evaluate Wed /pre-market post-FOMC
+  • AVGO 74/100 (below 75 threshold) | WATCHING only
+Circuit breakers: ⚠️ Alpaca API day 10 — entries blocked; no account data
+Tomorrow: Fix Alpaca API (priority #1). /pre-market 6AM: STX earnings read + NVDA setup refresh. FOMC Wed Apr 29 → NO new entries before 1PM CT.
+
+---
 ## 2026-04-27 10:15 CT [market-check]
 
 📈 Market-check 2026-04-27 10:15 CT

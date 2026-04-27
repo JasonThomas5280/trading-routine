@@ -1173,3 +1173,44 @@ No open positions. `sell-rules-engine` skipped.
 - Market: -0.17% SPY is not a distribution day. Uptrend intact. Day 15.
 
 ---
+
+## 2026-04-27 — /eod-review
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 blocked — day 10; all other APIs blocked same network)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 15 — no state change
+
+**Close (est. via WebSearch):** SPY ~$715 (-0.17% from ~$716.52 Fri) | QQQ ~$661–663 est. (-0.35% intraday)
+**Distribution day check:** SPY -0.17% < 0.2% threshold → NOT a distribution day. Count: 1 effective (Apr 23, unchanged)
+**SPY vs 50d MA:** Well above (~+5.8% est.; MA ~$676)
+
+**Open positions:** 0 — sell-rules-engine not invoked (no positions)
+**Actions taken:** NONE
+
+**Circuit breakers:** ⚠️ ALPACA API BLOCKED (day 10) — all entries blocked, all executions impossible. Account: $2,500 est. (0 positions, 100% cash).
+
+### Watchlist EOD verdicts
+
+| Symbol | Close | Change | Status | Action |
+|---|---|---|---|---|
+| NVDA | ~$210–211 est. | +0.52% | 🟡 WATCHING — in buy zone $201.75–$211.84; volume insufficient at 10 AM (28% of req) | HOLD watching — ready tomorrow if volume confirms |
+| LRCX | $261.87 | -5.91% | ⚠️ BASE DAMAGED — intraday low $256.31 (pierced $260 support), recovered; close $261.87 ABOVE $260 | STAYS bench — base damaged but not failed (close rule not triggered). Monitor close tomorrow: close <$260 = REMOVE. |
+| STX | — | — | ⛔ EARNINGS AH TOMORROW (April 28) — BLACKOUT maintained | Re-evaluate /pre-market Wed April 29 (post-earnings + post-FOMC) |
+| AVGO | ~$419–422 est. | — | 🔴 BELOW THRESHOLD (74/100); API blocked, no re-score possible | Hold WATCHING — no entry below 75/100 |
+| MU | — | — | Bench, no pivot formed | Re-score Sun /weekly-prep |
+
+### P&L summary
+
+- **Today:** $0.00 (0.00%) — 100% cash
+- **Week to date (Mon):** $0.00 (0.00%)
+- **Equity:** ~$2,500.00 est. (Alpaca blocked — cannot confirm)
+- **Weekly trade count:** 0 of 3 used
+
+### Tomorrow priorities (/pre-market 6 AM CT)
+
+1. NVDA: Was +0.52% close, held buy zone. Pull overnight news. Volume confirmation needed at 10 AM market-check.
+2. STX: Earnings reported AH today. Read results overnight — setup may be tradeable post-earnings Wednesday after 1 PM CT (FOMC window).
+3. LRCX: Check if $261.87 close holds overnight. Any further weakness = removal candidate.
+4. FOMC: Wednesday April 29 — NO new entries before 1 PM CT.
+5. ⚠️ CRITICAL: Fix Alpaca API access. Day 10 blocked. No trades possible until resolved.
+
+---
