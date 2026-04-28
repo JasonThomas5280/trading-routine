@@ -42,6 +42,15 @@
 - FOMC Day 1 today (no decision). Decision Wednesday ~12PM CT.
 - `research_source: websearch_fallback`
 
+**Tuesday April 28 regular session (10:00 AM CT /market-check):**
+- SPY range: $712.30–$715.63, opened $713.17, intraday -0.46% (⚠️ above -0.20% dist day threshold — **not yet confirmed; volume unconfirmed, Alpaca blocked**)
+- QQQ range: $642.21–$650.20, opened $648.41 (~-2% below Monday close est. $661–663)
+- **Primary driver:** OpenAI revenue/user growth miss (WSJ April 28). Chipmakers NVDA/AVGO/AMD -3–5%; Oracle -6%+. AI capex sustainability narrative negative for tech sentiment.
+- **Market state:** Confirmed Uptrend intact. No state change. SPY well above 50d MA (~$676 est.). Distribution day count = 1/25 pending today's close confirmation.
+- **⚠️ Potential dist day #2:** If SPY closes at current levels (~-0.46%) on elevated volume = 2/25. Still far below 5-day "Under Pressure" threshold. Note for /eod-review.
+- NVDA: $210.23 (range $208.70–$214.20) — above $201.75 pivot, volume pace 28% of required. No entry.
+- `research_source: websearch_fallback` | Alpaca blocked day 12
+
 **⚠️ FOMC DATE CORRECTION (2026-04-27 market-check):** Prior MARKET-DIRECTION note incorrectly stated "FOMC decision comes Tuesday." Confirmed via web search: FOMC decision is **Wednesday April 29** (standard schedule). Powell press conference Wednesday ~12:30 PM CT. Corrected entry restriction below.
 
 **Week-ahead risk note (2026-04-27 to 2026-05-01):**
@@ -92,8 +101,9 @@ A distribution day expires after 25 sessions OR if index gains 6%+ from the day'
 | 2026-04-23 | SPY | -0.41% | est. >1.0x | **ACTIVE** (expires 2026-06-01; vol ratio unconfirmed — Alpaca + data sources blocked; software sector carnage IBM -7.94%, SFDC -8.88%, NOW -18% implies elevated volume; magnitude -0.41% > -0.20% threshold met) |
 | 2026-04-23 | QQQ | -0.34% | est. >1.0x | **ACTIVE** (reference only — count tracks SPY; Nasdaq -0.89% close; expires 2026-06-01) |
 | 2026-04-27 | SPY | -0.17% | unconfirmed | **NOT A DIST DAY** — magnitude -0.17% < -0.20% threshold. Not counted. |
+| 2026-04-28 | SPY | ~-0.46% est. | unconfirmed | **PENDING CLOSE CONFIRMATION** — magnitude -0.46% > -0.20% threshold. Driver: OpenAI revenue miss. Volume unconfirmed (Alpaca blocked). If confirmed at /eod-review: count = 2. Expires 2026-06-03. |
 
-**Effective count: 1/25** (1 SPY dist day; QQQ logged for reference)
+**Effective count: 1/25 (2/25 if April 28 confirmed at close)** (1 SPY dist day; QQQ logged for reference)
 **⚠️ data_confidence: websearch_fallback** — SPY/QQQ MAs estimated via web sources; Alpaca API blocked (403 Host not in allowlist). Volume ratios for April 23 unconfirmed. Magnitude threshold met with high confidence. MA estimates reliable from multiple consistent sources.
 
 ---

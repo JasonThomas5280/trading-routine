@@ -1276,3 +1276,112 @@ No open positions. `sell-rules-engine` skipped.
 5. ⚠️ CRITICAL: Fix Alpaca API access. Day 10 blocked. No trades possible until resolved.
 
 ---
+
+## 2026-04-28 — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 12; Alpha Vantage: blocked; Perplexity: blocked. All data via WebSearch.)
+**Market direction:** 🟢 Confirmed Uptrend Day 16 | SPY -0.46% intraday (potential dist day forming) | QQQ -1.8% from Mon close (range $642–$650)
+**Circuit breakers:** NONE (0 positions, $2,500 equity, 0/3 PDT, 0/3 weekly trades)
+**Open positions:** 0 | **Weekly trades used:** 0 of 3
+**data_confidence:** websearch_fallback
+
+---
+
+### 🚨 Key Catalyst — OpenAI Revenue Miss (WSJ, April 28 2026)
+
+- OpenAI missed revenue + user growth targets (< 1B weekly ChatGPT users; missed monthly sales targets 2026)
+- Competition: Google Gemini (user share) + Anthropic (enterprise/coding) gaining ground
+- CFO Sarah Friar flagged compute-funding risk if revenue slowdown continues
+- **Market impact:** NVDA/AVGO/AMD -3–5% | Oracle -6%+ | SoftBank -10% (Asia)
+- **NVDA-specific impact:** Limited direct exposure (GPU hardware, not SaaS revenue). But AI capex sustainability narrative = sentiment headwind. NVDA from $216.61 Mon close → $210.23 intraday (-2.95%).
+- **Risk watch:** If narrative escalates into FOMC/Mag-7 earnings Wednesday, NVDA could revisit $201.75 pivot or break below it. Not a structural thesis break.
+
+---
+
+### Abort Gate Check
+
+| Gate | Status |
+|---|---|
+| Market state | 🟢 Confirmed Uptrend — CLEAR |
+| Research unavailable | websearch_fallback (not DEGRADED) — CLEAR |
+| Daily circuit breaker | 0% P&L — CLEAR |
+| Weekly circuit breaker | 0% weekly — CLEAR |
+| Drawdown halt | 0% from HWM — CLEAR |
+| Weekly trade count | 0 of 3 — CLEAR |
+| Position count | 0 of 4 — CLEAR |
+| Cash buffer | 100% cash — CLEAR |
+
+**All abort gates: CLEAR**
+
+---
+
+### Market Context (10 AM CT)
+
+| Index | Range | Current | vs. Mon Close | Notes |
+|---|---|---|---|---|
+| SPY | $712.30–$715.63 | ~$713 est. | ~-0.46% | ⚠️ Potential dist day — > -0.20% threshold; confirm at close |
+| QQQ | $642.21–$650.20 | ~$650 est. | ~-1.7% from $661 | Tech underperforming broader market |
+| NVDA | $208.70–$214.20 | $210.23 | -2.95% from $216.61 | Above $201.75 pivot; in buy zone |
+
+**FOMC:** Day 1 of 2-day meeting. No decision today. Entry restriction: **Wednesday April 29 before 1 PM CT — NO NEW ENTRIES.**
+
+---
+
+### Watchlist Trigger Evaluation
+
+| Symbol | Pivot | Current | Buy Zone? | Volume (90 min) | Vol Pace vs Req | Verdict |
+|---|---|---|---|---|---|---|
+| NVDA | $201.75 | $210.23 | ✅ $201.75–$211.84 | 13.36M | ~58M pace vs 209M req (28%) | 🔴 NOT TRIGGERED — volume gate |
+| STX | TBD | — | — | — | — | ⛔ EARNINGS AH TONIGHT |
+| AVGO | $406.75 | ~$396–$404 est. | 🔴 Below pivot | — | — | 🔴 BELOW ZONE (74/100 + below pivot) |
+| LRCX | $273.60 | $272.11 | 🟡 Within 0.5% | — | — | 🟡 BENCH ONLY — no entry today |
+
+**NVDA volume calc:**
+- Volume at ~90 min (10 AM CT = 11 AM ET): 13.36M
+- Session elapsed: 90/390 = 23%
+- Full-day pace: 13.36M / 0.23 = ~58.1M
+- ADV: 149.07M | Required threshold (+40% above ADV): 149.07M × 1.4 = 208.7M
+- Volume pace as % of requirement: 58.1 / 208.7 = **27.8% — NOT met**
+
+**NVDA entry conditions not met.** Volume gate fails decisively. Alpaca blocked — no execution possible regardless.
+
+---
+
+### Mid-Morning Position Health Check
+
+No open positions. sell-rules-engine skipped.
+
+---
+
+### Bench Promotion Check
+
+| Symbol | Mon Close | Tue Price | Delta to Pivot | Action |
+|---|---|---|---|---|
+| LRCX | $261.87 | $272.11 (+3.9%) | -$1.49 (-0.5%) vs $273.60 | **PROMOTE to Primary Rank 4** — within 2% threshold ✅ |
+| MU | — | — | No pivot defined | Stays bench |
+| AMD | — | — | Earnings blackout May 5 | Stays bench |
+
+**LRCX promotion rationale:**
+- Apr 27 base-damage intraday low $256.31 (< $260 support) did NOT close below $260 ($261.87 close) → close rule not triggered
+- Apr 28 +3.9% recovery to $272.11 = within 0.5% of $273.60 pivot → promotion rule triggered (< 2% threshold)
+- **Entry conditions before any trade:** (1) Re-run canslim-screener to confirm setup intact post-damage; (2) Volume ≥ +40% vs 50d avg at breakout; (3) Price ≤ $287.28 (5% chase ceiling); (4) Monitor OpenAI capex narrative (LRCX leveraged to NAND/memory/foundry capex, partially insulated from AI-software sentiment but not immune)
+- B of A raised PT $330 (Apr 22). Conviction 75/100 (minimum threshold — do not enter below this).
+
+---
+
+### Result: NO ENTRIES
+
+- NVDA: Price in zone; volume only 28% of threshold. Alpaca blocked.
+- OpenAI revenue miss: AI sector sentiment headwind today.
+- All other candidates below threshold or in blackout.
+
+### Carry-forward for /eod-review (3:15 PM CT)
+
+1. **SPY dist day watch:** -0.46% intraday. Confirm on volume at close. If 2/25: still far from "Under Pressure" trigger (5/25).
+2. **NVDA:** Watch close price. Close above $201.75 = zone intact for Thu entry (post-FOMC). Close below = zone degrades; re-evaluate.
+3. **STX:** Earnings AH tonight (5 PM ET). Critical reaction to read at /pre-market Thursday.
+4. **LRCX:** Watch close. Hold above $268 = base repair confirmed. Pivot challenge setup for Thursday/Friday.
+5. **OpenAI narrative:** Monitor escalation into Wednesday FOMC. If Mag-7 earnings (MSFT/META/AMZN/GOOGL Wed AH) disappoint on AI capex → could create distribution day cluster risk.
+6. ⚠️ **Alpaca API blocked day 12.** All trades impossible. Critical issue — flag for fix.
+
+---
