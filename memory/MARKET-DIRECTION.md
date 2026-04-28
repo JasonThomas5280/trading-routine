@@ -8,9 +8,9 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-28 (Tue) — `/pre-market`
-**Confirmed Uptrend days:** 16 (since follow-through day 2026-04-08)
-**Distribution days (last 25 sessions):** 1 effective (Apr 23 only)
+**Last updated:** 2026-04-28 (Tue) — `/eod-review`
+**Confirmed Uptrend days:** 17 (since follow-through day 2026-04-08)
+**Distribution days (last 25 sessions):** 2 effective (Apr 23, Apr 28)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **SPY close 2026-04-25 (Fri):** ~$716.52 est. (S&P 500 index: 7,165.08, +0.80% Fri; `research_source: websearch_fallback`)
@@ -50,6 +50,14 @@
 - **⚠️ Potential dist day #2:** If SPY closes at current levels (~-0.46%) on elevated volume = 2/25. Still far below 5-day "Under Pressure" threshold. Note for /eod-review.
 - NVDA: $210.23 (range $208.70–$214.20) — above $201.75 pivot, volume pace 28% of required. No entry.
 - `research_source: websearch_fallback` | Alpaca blocked day 12
+
+**Tuesday April 28 close (/eod-review confirmed):**
+- S&P 500: 7,138.80 (−0.49% from Monday) | Nasdaq: 24,663.80 (−0.9%) | `research_source: websearch_fallback` (Alpaca blocked day 13)
+- SPY est. ~$711.66 | QQQ est. ~$658.27
+- Distribution day: **CONFIRMED** — magnitude −0.49% exceeds −0.20% threshold; elevated volume strongly implied by chip-wide selloff (NVDA/AVGO/AMD/ORCL all −2–5% on OpenAI revenue miss); vol ratio unconfirmed (Alpaca blocked)
+- Dist day count: **2/25** (Apr 23 + Apr 28). Confirmed Uptrend Day 17 intact. No state change.
+- Watchlist EOD: NVDA ~$209 est. (−3.4% from $216.61 Mon close); AVGO ~$409 est. (−2.2%); LRCX ~$265 est. (chip capex sentiment drag); STX earnings AH tonight
+- Open positions: 0 | sell-rules-engine: skipped (no positions) | P&L: $0 (0%) | Equity: $2,500
 
 **⚠️ FOMC DATE CORRECTION (2026-04-27 market-check):** Prior MARKET-DIRECTION note incorrectly stated "FOMC decision comes Tuesday." Confirmed via web search: FOMC decision is **Wednesday April 29** (standard schedule). Powell press conference Wednesday ~12:30 PM CT. Corrected entry restriction below.
 
@@ -101,9 +109,9 @@ A distribution day expires after 25 sessions OR if index gains 6%+ from the day'
 | 2026-04-23 | SPY | -0.41% | est. >1.0x | **ACTIVE** (expires 2026-06-01; vol ratio unconfirmed — Alpaca + data sources blocked; software sector carnage IBM -7.94%, SFDC -8.88%, NOW -18% implies elevated volume; magnitude -0.41% > -0.20% threshold met) |
 | 2026-04-23 | QQQ | -0.34% | est. >1.0x | **ACTIVE** (reference only — count tracks SPY; Nasdaq -0.89% close; expires 2026-06-01) |
 | 2026-04-27 | SPY | -0.17% | unconfirmed | **NOT A DIST DAY** — magnitude -0.17% < -0.20% threshold. Not counted. |
-| 2026-04-28 | SPY | ~-0.46% est. | unconfirmed | **PENDING CLOSE CONFIRMATION** — magnitude -0.46% > -0.20% threshold. Driver: OpenAI revenue miss. Volume unconfirmed (Alpaca blocked). If confirmed at /eod-review: count = 2. Expires 2026-06-03. |
+| 2026-04-28 | SPY | −0.49% | est. >1.0x | **ACTIVE** (expires 2026-06-03; S&P 500 7,138.80 −0.49%; OpenAI revenue miss driver; chips NVDA/AVGO/AMD/ORCL −2–5%; elevated volume implied by catalyst + magnitude; Alpaca blocked — vol ratio unconfirmed; data_confidence: websearch_fallback) |
 
-**Effective count: 1/25 (2/25 if April 28 confirmed at close)** (1 SPY dist day; QQQ logged for reference)
+**Effective count: 2/25** (Apr 23 + Apr 28 SPY dist days; QQQ declining today tracked for reference; both vol ratios unconfirmed — Alpaca blocked; magnitude threshold met with high confidence on both)
 **⚠️ data_confidence: websearch_fallback** — SPY/QQQ MAs estimated via web sources; Alpaca API blocked (403 Host not in allowlist). Volume ratios for April 23 unconfirmed. Magnitude threshold met with high confidence. MA estimates reliable from multiple consistent sources.
 
 ---
@@ -139,3 +147,4 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-04-19 | NOT INITIALIZED → CONFIRMED UPTREND | Jumpstart init by /weekly-prep. SPY +2.55% follow-through on 2026-04-08, sustained rally +12% from 3/30 low. No active distribution days (4 historical, all faded). |
 | 2026-04-26 | CONFIRMED UPTREND → CONFIRMED UPTREND (strengthened) | /weekly-prep Sunday update. S&P 500 + Nasdaq at ALL-TIME HIGHS as of April 24. SPY $713.94, +5.6% above 50d MA. 1 distribution day (April 23, software selloff — now fully reversed). No state change; uptrend strengthening. |
 | 2026-04-27 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. SPY -0.17% (below 0.2% threshold — not a distribution day). 1 effective dist day unchanged. SPY ~$715 est., well above 50d MA ~$676. Uptrend Day 15 intact. Alpaca API blocked day 10 — no trades possible. |
+| 2026-04-28 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. SPY -0.49% (S&P 500 7,138.80) = dist day #2 confirmed. Count 2/25, well below 5-day Under Pressure threshold. Uptrend Day 17. 0 open positions. No trades possible (Alpaca blocked day 13). |

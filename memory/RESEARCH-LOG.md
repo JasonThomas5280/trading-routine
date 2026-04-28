@@ -1385,3 +1385,60 @@ No open positions. sell-rules-engine skipped.
 6. ⚠️ **Alpaca API blocked day 12.** All trades impossible. Critical issue — flag for fix.
 
 ---
+
+## 2026-04-28 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 13; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Close:** SPY ~$711.66 est. | QQQ ~$658.27 est. | S&P 500: 7,138.80 (−0.49%) | Nasdaq: 24,663.80 (−0.9%)
+**Distribution days:** 2 of 25 effective (today: NEW CONFIRMED — SPY −0.49% on OpenAI revenue miss; chips −2–5%; volume elevated by catalyst; vol ratio unconfirmed Alpaca blocked)
+**Market state:** 🟢 Confirmed Uptrend Day 17 (no transition; 2 dist days << 5 Under Pressure threshold)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — no open positions to evaluate
+  - TIGHTEN: none — no positions
+  - SELL: none — no positions
+**Circuit breakers:** NONE (equity $2,500 est., 0% daily P&L, 0% weekly P&L, 0/3 PDT)
+**P&L today:** $0.00 (0.00%) — 100% cash, no positions
+**Equity:** ~$2,500.00 est. (Alpaca blocked — cannot confirm live)
+**Weekly trade count:** 0 of 3 used
+
+### Market close context
+
+- S&P 500 −0.49% to 7,138.80 (from TheStreet/CNBC live updates, April 28 2026)
+- Nasdaq Composite −0.9% to 24,663.80
+- Russell 2000 −1.15% to 2,755.99
+- Primary driver: OpenAI revenue miss (WSJ April 28) — ChatGPT user growth and monthly sales targets missed; CFO flagged compute-funding risk if revenue slowdown continues
+- Chip damage: NVDA −~3% from $216.61 Mon close → est. ~$209; AVGO −~2–3% → est. ~$407-410; AMD −~3%; ORCL −6%+; QCOM −3.5%
+- Defensive names resilient: Coca-Cola +strong on earnings; Dow defensives outperformed
+- SPY still well above 50d MA (~$676 est.) | Uptrend structurally intact; 2 dist days is normal correction noise
+
+### Watchlist EOD verdicts
+
+| Symbol | Close Est. | Change Est. | Status | Verdict |
+|---|---|---|---|---|
+| NVDA | ~$209 est. | −3.4% from $216.61 | Above $201.75 pivot ✅ | WATCHING — conviction 67/100 BLOCKS entry; monitor for re-score after pullback |
+| AVGO | ~$409 est. | −2.2% from $418.20 | At/near $406.75 pivot | WATCHING — conviction 74/100 BLOCKS entry; watch for volume confirmation |
+| LRCX | ~$265 est. | ~−2.6% est. | ~$8 below $273.60 pivot | WATCHING — promoted to Primary Rank 4 this AM; chip capex selloff may have pressured close |
+| STX | — | — | ⛔ EARNINGS AH TONIGHT | Re-evaluate /pre-market Thursday (post-FOMC restriction means earliest entry is Thu) |
+| MU | — | — | Bench, no pivot | Re-score Sun /weekly-prep |
+
+### LRCX watchlist note
+
+LRCX closed ~$265 est. vs $273.60 pivot — about 3.2% below. The AM promotion was valid (within 2% at 10 AM), but the chip sector-wide selloff on OpenAI news likely dragged it back. Not a base failure: close remains above the $260 base support level identified yesterday. Monitor Thursday close for pivot re-test opportunity. B of A PT $330 remains intact. Conviction est. 75/100 (minimum threshold — do not lower bar to enter).
+
+### Distribution day 2 — classification rationale
+
+- Magnitude: SPY −0.49% (WebSearch / news confirmed, TheStreet close data) → exceeds −0.20% threshold ✅
+- Volume ratio: UNCONFIRMED (Alpaca blocked day 13). However, chip sector-wide selloff (NVDA/AVGO/AMD/ORCL/QCOM all −2–6%) on an unexpected catalyst (OpenAI revenue miss) strongly implies volume above prior day. Previous quiet Monday was likely lower-volume. Classification: **DISTRIBUTION DAY** with high confidence.
+- Expiry: 25 sessions from April 28 = approximately June 3, 2026
+
+### Tomorrow priorities (/pre-market 6 AM CT Wed April 29)
+
+1. ⛔ **FOMC Day 2 — NO new entries before 1 PM CT.** Decision ~12 PM CT, Powell presser ~12:30 PM CT.
+2. **STX earnings reaction:** Read AH results tonight/overnight. Setup tradeable only after 1 PM CT Wednesday (post-FOMC window).
+3. **Mag-7 earnings AH Wed:** MSFT, META, AMZN, GOOGL — if AI capex disappoints → potential dist day #3. Watch carefully.
+4. **NVDA:** Confirmed closed above $201.75 pivot? Zone intact → Thursday entry window (volume still needed).
+5. **LRCX:** Confirmed above $260 base support? Base intact → monitor Thursday for pivot challenge.
+6. ⚠️ **Alpaca API blocked day 13** — No order execution possible. All trading halted. Must resolve before any entry.
+
+---

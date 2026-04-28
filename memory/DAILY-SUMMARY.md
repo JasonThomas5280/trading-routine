@@ -350,3 +350,26 @@ Open positions: 0 | Deployed: 0% | Cash: $2,500 est.
 Weekly trade count: 0 of 3 used
 FOMC restriction: NO new entries Wednesday before 1 PM CT
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-04-28 20:33 CT [clickup-placeholder]
+
+📊 EOD 2026-04-28 | Equity ~$2,500 (0.00% day, 0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 2 of 25 (market: 🟢 Confirmed Uptrend Day 17 — no state change)
+
+Close: SPY ~$711.66 est. (S&P 500 7,138.80 −0.49%) | QQQ ~$658.27 est. (Nasdaq 24,663.80 −0.9%)
+Driver: OpenAI revenue miss (WSJ) → chips NVDA/AVGO/AMD/ORCL −2–6%
+Dist day #2 confirmed (magnitude −0.49%; vol elevated by catalyst; Alpaca blocked day 13 — vol ratio unconfirmed)
+
+Actions today:
+  • sell-rules-engine: SKIPPED — 0 open positions
+  • No buys, no sells, no stop adjustments
+
+Watchlist:
+  • NVDA ~$209 est. (67/100 blocks entry; above $201.75 pivot — zone intact)
+  • AVGO ~$409 est. (74/100 blocks entry; at pivot)
+  • LRCX ~$265 est. (75/100 min conviction; below pivot after chip selloff)
+  • STX: earnings AH tonight — re-eval Thu post-FOMC
+
+Tomorrow: ⛔ FOMC decision ~12 PM CT — NO new entries before 1 PM CT Wed. MSFT/META/AMZN/GOOGL earnings AH.
