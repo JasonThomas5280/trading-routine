@@ -8,8 +8,8 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-27 (Mon) — `/eod-review`
-**Confirmed Uptrend days:** 15 (since follow-through day 2026-04-08)
+**Last updated:** 2026-04-28 (Tue) — `/pre-market`
+**Confirmed Uptrend days:** 16 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 1 effective (Apr 23 only)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
@@ -32,7 +32,15 @@
 
 **Monday April 27 open (actual):** SPY -0.17%, Nasdaq -0.35%, Dow -0.32%. Muted/slightly red open on Iran peace-deal-stall headlines. Consistent with pre-market forecast. No structural concern. `research_source: websearch_fallback`
 **Monday April 27 close (est.):** SPY ~$715 est. (-0.17% from ~$716.52 Fri) — NOT a distribution day (< 0.2%). QQQ ~$661–663 est. (-0.35% intraday pace). Distribution day count unchanged: 1 effective (Apr 23 only). `research_source: websearch_fallback`
-**Note:** Memory files from /pre-market were pre-stamped "2026-04-28 (Mon)" — corrected to "2026-04-27 (Mon)". Today is Monday April 27, 2026.
+**NVDA Apr 27 ACTUAL close:** $216.61 (new 52-week high $216.83 — confirmed via WebSearch Apr 28 pre-market). EOD estimate was ~$210-211; actual was $216.61 (+$5-6 vs estimate). Stock continued rallying after /market-check.
+
+**Tuesday April 28 pre-market (overnight check):**
+- ES futures: 7,189.50 (-0.23%) | NQ futures: 27,259.75 (-0.66%) | Dow: +130 pts (+0.26%)
+- Tech underperforming: oil spike (Iran/Hormuz stall) + software risk-off
+- NVDA premarket: $200.64 (-7.4% from Mon close — below $201.75 pivot; tech-wide pullback, no company news)
+- Market direction: Confirmed Uptrend intact. Futures weakness = normal pullback after ATH run. Not concerning.
+- FOMC Day 1 today (no decision). Decision Wednesday ~12PM CT.
+- `research_source: websearch_fallback`
 
 **⚠️ FOMC DATE CORRECTION (2026-04-27 market-check):** Prior MARKET-DIRECTION note incorrectly stated "FOMC decision comes Tuesday." Confirmed via web search: FOMC decision is **Wednesday April 29** (standard schedule). Powell press conference Wednesday ~12:30 PM CT. Corrected entry restriction below.
 

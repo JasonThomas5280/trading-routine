@@ -1,5 +1,23 @@
 
 ---
+## 2026-04-28 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-04-28 (Tue)
+Market: 🟢 Confirmed Uptrend Day 16 | Futures: ES -0.23% (7,189.50) NQ -0.66% (27,259.75) Dow +0.26%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (no open positions)
+Watchlist ready: NONE — NVDA below pivot ($200.64 premarket vs $201.75 pivot)
+Watchlist watching: 🟡 AVGO ~$417.52 (in zone, 74/100 below threshold — no entry)
+Earnings watch: ⏳ STX reports AH tonight — re-eval Thu /pre-market (FOMC blocks Wed)
+Removed: None
+Key catalysts:
+  • NVDA: Mon close $216.61 (new 52wk high $216.83). Tue premarket $200.64 (-7.4%) — oil spike/NQ risk-off. No company-specific news. Conviction 87/100 INTACT.
+  • STX: Q3 FY26 AH tonight at 5PM ET. EPS est. $3.47, rev $2.94B. Blackout active — no entry.
+  • FOMC Day 1 today (no decision). ⛔ NO entries Wed before 1PM CT.
+Plan: Watch NVDA at /market-check 10AM CT — enter only if reclaims $201.75 with +40% volume pace. STX watch AH. No new entries today if NVDA stays below pivot.
+research_source: websearch_fallback | Alpaca/AV/Perplexity 403 day 11
+
+---
 ## 2026-04-27 15:15 CT [eod-review]
 
 ⚠️ ALPACA API BLOCKED DAY 10 — no trades possible. All sell checks ran (0 positions to evaluate).
@@ -289,3 +307,21 @@ Earnings watch: STX reports tonight AH - re-evaluate Tue 6AM
 Key catalysts: STX earnings today | FOMC Tue (Powell ~12:30PM CT) | Mag-7 earnings Wed AH | AAPL Thu AH
 Plan: Target NVDA entry at /market-check 10AM CT if zone holds; 30% sizing (~$750). No entries Tue before 1PM CT (FOMC window). No AVGO until score confirmed >= 75.
 research_source: websearch_fallback | APIs: Alpaca/AV/Perplexity 403 day 9
+
+---
+## 2026-04-28 11:24 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-04-28 (Tue)
+Market: 🟢 Confirmed Uptrend Day 16 | Futures: ES -0.23% (7,189.50) NQ -0.66% (27,259.75) Dow +0.26%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (no open positions)
+Watchlist ready: NONE — NVDA below pivot (00.64 vs 01.75 pivot)
+Watchlist watching: AVGO ~17.52 (in zone, 74/100 below threshold — no entry)
+Earnings watch: STX reports AH tonight — re-eval Thu /pre-market (not Wed — FOMC)
+Removed: None
+Key catalysts:
+  NVDA: Mon close 16.61 (new 52wk high). Tue premarket 00.64 (-7.4%) — oil/NQ risk-off. No co. news. Conviction 87 INTACT.
+  STX: Q3 FY26 AH tonight. EPS est. .47, rev .94B. Blackout active.
+  FOMC Day 1 (no decision today). NO entries Wed before 1PM CT.
+Plan: Watch NVDA at /market-check 10AM CT — enter only if reclaims 01.75 with +40% volume pace. STX: watch AH. No entries if NVDA stays below pivot.
+research_source: websearch_fallback | Alpaca/AV/Perplexity 403 day 11

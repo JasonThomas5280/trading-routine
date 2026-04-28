@@ -35,7 +35,7 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 
 | Rank | Symbol | Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 1 | NVDA | **87/100** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🟡 **IN ZONE — VOLUME NOT CONFIRMING.** Mon Apr 27: price $210.14 (range $207.75–$212.11, IN ZONE). Volume 6.19M at 90min → pace ~27M vs ~98M required (+40% of ~70M ADV) = only 28% of threshold. **NOT triggered today.** Alpaca blocked (day 10) — no execution possible regardless. HIGH CONVICTION setup remains intact. Monitor Tuesday. **FOMC restriction: no entries WEDNESDAY before 1PM CT (corrected from prior Tuesday note).** |
+| 1 | NVDA | **87/100** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🔴 **BELOW PIVOT (Tue premarket).** Mon Apr 27 ACTUAL close: $216.61 (new 52wk HIGH $216.83 — rallied hard after our 10AM check). Tue Apr 28 premarket: $200.64 (-7.4% from close; VWAP $200.55–$201.39, vol 1.7M). Cause: oil spike + NQ -0.66% risk-off, not company-specific. RSI 69.92. Setup conviction 87/100 INTACT. Do NOT enter below $201.75. If regular session reclaims $201.75 with +40% volume pace, re-evaluate at /market-check. Alpaca still blocked (day 11). **FOMC restriction: no entries WEDNESDAY before 1PM CT.** |
 | 2 | STX | EARNINGS WATCH | XLK/Storage | Breakout above $554 (pre-earnings) | TBD post-earnings | TBD | **Apr 28 after-close** ⚠️ | ⏳ **EARNINGS WATCH — re-evaluate Wed Apr 29 pre-market.** Reports TOMORROW (Tue Apr 28) AH, 5:00 PM ET. Expected EPS $3.47, revenue $2.94B. Earnings call 5 PM ET. If beats + strong reaction: run canslim-screener at Wed /pre-market. **Earliest possible entry: Thursday April 30** (FOMC window blocks Wednesday). If disappoints: REMOVE. |
 | 3 | AVGO | 74/100 (data-dependent) | XLK/Semis | Flat base Stage 2 | $406.75 (original) / $429.41 (ATH break) | entry × 0.93 | Jun 3, 2026 ✅ | 🟡 **WATCHING — DATA-DEPENDENT.** 74/100 = 1pt below threshold (A-letter API blocked). Last ~$420.10 Fri est. — inside buy zone $406.75–$427.09. FY2025 earnings +292% YoY, AI chip sales Q1 FY26 +106% YoY — fundamentally strong. Likely re-scores 79–82/100 with API. **Do NOT enter at 74. Restore API or confirm A-letter manually before entry.** |
 | 4 | — | — | — | — | — | — | — | No 4th primary candidate this week. Earnings-calendar congestion. Do not lower conviction threshold to fill this slot. |
@@ -73,10 +73,10 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 - AVGO: 74/100 — cannot enter without API. Skip.
 - STX: Earnings TOMORROW (April 28 AH). No entry today.
 
-**Tuesday April 28:**
-- NVDA: Still primary target. If price holds $201.75–$211.84, monitor volume at 10 AM CT. Need ≥+40% volume pace. Alpaca API must be restored for execution. 30% sizing (~$750).
-- STX: Earnings AH. No entry Tuesday.
-- AVGO: Retry API. Re-run canslim-screener if Alpha Vantage restores. If ≥75: evaluate Tuesday /market-check.
+**Tuesday April 28 (today — /pre-market run):**
+- NVDA: Premarket $200.64 — **BELOW PIVOT $201.75.** Risk-off (oil/NQ -0.66%). Only enter if regular session reclaims $201.75 with +40% volume. Do NOT chase below pivot.
+- STX: Earnings AH tonight at 5PM ET. No entry. Watch post-close reaction for Thu entry prep.
+- AVGO: Still 74/100 (API blocked). No entry.
 
 **Wednesday April 29:** ⛔ FOMC DECISION DAY
 - **No new entries before 1 PM CT.** FOMC decision ~12 PM CT, Powell press conf ~12:30 PM CT.

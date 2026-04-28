@@ -167,6 +167,68 @@ Only 1 actionable entry this week (NVDA). Root cause: heavy Mag-7 earnings conce
 
 ---
 
+## 2026-04-28 (Tue) — /pre-market (Tuesday open)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 11; Alpha Vantage: blocked; Perplexity: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 16 | SPY est. ~$715 (Mon April 27 close, flat -0.17% = not dist day) | 1/25 distribution days
+**⚠️ data_confidence: websearch_fallback** — All live APIs unavailable day 11. Prices estimated/confirmed from web sources.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (day 11) | No live quotes, no order execution |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked | No fundamentals pull |
+| Perplexity | ❌ 403 blocked | No research synthesis |
+| Native WebSearch | ✅ functional | All data via fallback |
+| ClickUp | ✅ (placeholder mode) | Appending to DAILY-SUMMARY.md |
+
+### Open positions — overnight gap check
+
+**No open positions.** Gap check skipped.
+
+### Overnight catalysts affecting watchlist
+
+- **NVDA:** Monday April 27 close CONFIRMED at $216.61 (new 52-week high $216.83 — stock rallied hard after 10AM CT check). **Tuesday premarket: $200.64** (VWAP range $200.55–$201.39, vol 1.7M). That's -7.4% from Mon close. Cause: risk-off — oil spike on Iran/Hormuz stall, software sector weakness, broader tech retreat (NQ -0.66%). No company-specific negative catalyst. AI chip startup fundraising ($8.3B in 2026) noted but not a near-term threat. RSI 69.92, near overbought. **NVDA is BELOW the $201.75 pivot in premarket.** Setup conviction (87/100) INTACT — this is technical pullback, not fundamental break. Do NOT enter below pivot.
+- **STX:** Reports Q3 FY26 earnings AH TODAY (5PM ET). Expected EPS $3.47, rev $2.94B. Company guidance: $3.40 EPS ±20c, $2.9B rev ±$100M. Strong nearline demand from cloud data centers. Blackout active — no entry today. Watch AH reaction. If beats + strong reaction: run canslim-screener at Thu /pre-market (FOMC window blocks Wed morning entries).
+- **AVGO:** Monday April 27 close ~$418.20 (-1.08%). No specific negative catalysts. Multi-year Meta + Google Cloud AI chip deals still intact. Premarket Tuesday: down ~-0.16% (est. ~$417.52). Still in buy zone $406.75–$427.09 but conviction 74/100 < 75 threshold. **Do NOT enter without API confirmation.**
+
+### Market overnight check
+
+- **ES futures:** 7,189.50, -16.50 pts (-0.23%) vs Monday close
+- **NQ futures:** 27,259.75, -180.75 pts (-0.66%) — tech underperforming
+- **Dow futures:** +130 pts (+0.26%) — value/cyclical outperforming tech
+- **Macro:** Oil spike on Iran/Strait of Hormuz escalation risk — geopolitical uncertainty. FOMC Day 1 (meeting starts today, no decision today). Decision Wednesday ~12PM CT. No major data releases today.
+- **Market direction:** Confirmed Uptrend intact. -0.23%/-0.66% futures = muted/slightly negative open, not structurally concerning. Tech rotation/profit-taking after Monday's 52-week high run. Distribution day count unchanged at 1/25.
+
+### Buy-zone status
+
+| Symbol | Last (est.) | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$200.64 premarket | $201.75 | -0.5% BELOW pivot | 🔴 **BELOW PIVOT** — no entry. Watch for reclaim at open. |
+| STX | — | TBD post-earnings | — | ⏳ **EARNINGS WATCH** — reports AH tonight. Re-evaluate Thu 6AM (not Wed — FOMC window). |
+| AVGO | ~$417.52 premarket | $406.75 (orig) | +2.7% above orig pivot | 🟡 **WATCHING** — data-dependent A-letter re-score needed (API still blocked). |
+| MU | est. ~$490–510 | ~$507 (indicative) | below indicative pivot | ⚪ BENCH — no handle formed |
+| LRCX | est. ~$258–265 | $273.60 | ~3–5% below pivot | ⚪ BENCH — base damaged (Mon low $256.31); watch close for confirmation |
+
+### Circuit breaker check
+
+- Daily P&L: $0 (no positions) — NO trigger (-3% threshold)
+- Weekly P&L: $0 (0 trades this week) — NO trigger (-6% threshold)
+- Drawdown from HWM: $0 — NO trigger (-12% threshold)
+- PDT rolling 5-session: 0 of 3 — NO trigger
+- **Circuit breakers: NONE ACTIVE — new entries allowed (subject to setup criteria)**
+
+### Entry plan for today (Tuesday April 28)
+
+1. **NVDA** — BELOW PIVOT premarket ($200.64 vs $201.75). Do NOT enter below pivot. If regular session opens above $201.75 with price holding and volume pacing ≥+40% vs ~70M ADV (≥98M pace), re-evaluate at /market-check 10AM CT. Given NQ -0.66% futures and tech risk-off, probability of volume trigger is reduced. Patience.
+2. **STX** — No entry. Earnings AH tonight. Earliest valid entry: Thursday April 30 at /market-check (not Wednesday — FOMC window blocks Wed morning).
+3. **AVGO** — No entry. 74/100 = below 75 threshold. API blocked. Hold.
+4. **FOMC reminder** — **No new entries WEDNESDAY before 1PM CT.** FOMC decision ~12PM CT, Powell ~12:30PM CT.
+
+---
+
 ## 2026-04-26 — canslim-screener (ad-hoc, purpose=screen, GS)
 
 **Symbol:** GS (Goldman Sachs)
