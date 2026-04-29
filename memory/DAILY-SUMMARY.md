@@ -1,5 +1,30 @@
 
 ---
+## 2026-04-29 10:00 CT [market-check]
+
+📈 Market-check 2026-04-29 10:00 CT
+Market: Confirmed Uptrend Day 18 | 2/25 dist days | Circuit breakers: NONE
+⛔ FOMC restriction: NO entries before 1 PM CT
+⛔ Alpaca API: BLOCKED day 15 (403) — no execution possible
+
+Actions taken:
+  No new entries — dual hard stops (FOMC restriction + Alpaca blockage)
+  sell-rules-engine: skipped (0 open positions)
+
+Watchlist status:
+  NVDA 87/100: opened $202.24, range $199.03–$202.75 (at/near $201.75 pivot; pre-FOMC drift) — setup intact; no entry (FOMC + Alpaca blocked)
+  STX 68/100 REJECT: $660–$687 post-earnings gap; re-score Friday May 1
+  AVGO 74/100: ~$400 est. (below $406.75 pivot); no entry
+  LRCX: REMOVED (China export risk + price -8.2% below pivot)
+
+Open positions: 0 (0% deployed)
+Weekly trade count: 0 of 3 used
+Equity: $2,500.00
+
+Tonight: Mag-7 AH earnings (MSFT/META/AMZN/GOOGL) — critical for Thu XLK direction
+Next check: /eod-review 3:15 PM CT (log FOMC reaction + Mag-7 AH results)
+
+---
 ## 2026-04-28 06:00 CT [pre-market]
 
 🌅 Pre-market 2026-04-28 (Tue)

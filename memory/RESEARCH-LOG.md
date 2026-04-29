@@ -254,6 +254,70 @@ Only 1 actionable entry this week (NVDA). Root cause: heavy Mag-7 earnings conce
 
 ---
 
+## 2026-04-29 (Wed) — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 — day 15; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Market direction:** 🟢 Confirmed Uptrend Day 18 | 2/25 distribution days
+**Circuit breakers:** NONE ACTIVE
+**Open positions:** 0 | **Weekly trades used:** 0 of 3
+**⛔ FOMC RESTRICTION: NO new entries before 1 PM CT (FOMC decision 2:00 PM ET / 1:00 PM CT)**
+**⛔ Alpaca API: BLOCKED (day 15, 403) — no order execution possible regardless of restriction lift**
+
+### Abort gates
+
+| Gate | Status |
+|---|---|
+| Market state | 🟢 Confirmed Uptrend — PASS |
+| Research unavailable | websearch_fallback functional — PASS |
+| Daily circuit breaker | $0 P&L (0 positions) — PASS |
+| Weekly circuit breaker | $0 P&L (0 trades) — PASS |
+| Drawdown halt | $0 drawdown — PASS |
+| Weekly trade count | 0/3 — PASS |
+| Position count | 0/4 — PASS |
+| Cash buffer | 100% cash — PASS |
+| **⛔ FOMC restriction** | **NO entries before 1 PM CT — ABORT new entries** |
+
+### Market snapshot (11:00 AM ET / 10:00 AM CT)
+
+- **SPY:** ~$712 (flat/slightly down pre-FOMC; muted cautious tone) | `research_source: websearch_fallback`
+- **QQQ:** ~$659.75 (slightly down) | `research_source: websearch_fallback`
+- **Tone:** Wait-and-see pre-FOMC. FOMC at 2PM ET (100% probability no rate change per CME FedWatch). Focus is Powell's language on rate cuts + inflation. Mag-7 earnings tonight AH (MSFT, META, AMZN, GOOGL).
+
+### Watchlist trigger evaluation (informational — entry BLOCKED by FOMC + Alpaca)
+
+| Symbol | Pivot | Today Open | Range so far | Volume | Verdict |
+|---|---|---|---|---|---|
+| NVDA | $201.75 | $202.24 | $199.03–$202.75 | unconfirmed (Alpaca blocked) | ⛔ FOMC restriction + Alpaca blocked. Price near pivot (opened above; low touched $199.03 below pivot). No trigger. |
+| STX | TBD | ~$660–$687 | $660–$687 | n/a | 🔴 68/100 REJECT (below threshold). Massive earnings gap but A-letter fail. No entry. |
+| AVGO | $406.75 | ~$400 est. | ~$400 est. | unconfirmed | 🔴 BELOW PIVOT. 74/100 below threshold. No entry. |
+
+**NVDA note:** Opened $202.24 (above $201.75 pivot) but intraday low touched $199.03 (below pivot) in first 90 min — pre-FOMC drift. Setup 87/100 intact structurally. FOMC restriction + Alpaca blockage are dual hard stops. Even if price recovers above pivot post-FOMC at 1PM CT: entry requires (a) price ≥$201.75 AND ≤$211.84, (b) volume ≥+40% above 50d avg confirmed via Alpaca, (c) Alpaca API operational. All three must clear simultaneously. Today: condition (c) fails = no trade possible.
+
+### Mid-morning position health check
+
+No open positions. sell-rules-engine: SKIPPED.
+
+### Bench promotion check
+
+| Symbol | Status | Action |
+|---|---|---|
+| MU | ~75–80 est. (indicative); no handle formed | No change — bench |
+| AMD | Earnings May 5 blackout | No change — bench |
+| STX | 68/100 reject; post-earnings gap stabilizing $660–$687 | Stays Primary #2; re-score Friday May 1 when APIs restored and base settles |
+
+### Result: NO ENTRIES — FOMC restriction + Alpaca blockage. Nothing triggered.
+
+### Carry-forward for /eod-review (3:15 PM CT)
+
+- FOMC decision at 1 PM CT → Powell press conf ~1:30 PM CT. Log market reaction.
+- If SPY sells off on FOMC language: check whether dist day #3 forming (count would be 3/25 — still not "Under Pressure").
+- Mag-7 AH: MSFT/META/AMZN/GOOGL results. Strong beats = Thursday XLK tailwind for NVDA/AVGO setups.
+- NVDA: If closes above $201.75, setup intact for Thursday /market-check. If closes below pivot, re-evaluate conviction.
+- STX $660-$687: Earnings gap +18%. Re-score Friday (APIs need to restore first).
+- Alpaca blockage now day 15 — flag for urgent investigation. All trading halted.
+
+---
+
 ## 2026-04-28 (Tue) — /pre-market (Tuesday open)
 
 **Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 11; Alpha Vantage: blocked; Perplexity: 403 blocked. All data via native WebSearch.)

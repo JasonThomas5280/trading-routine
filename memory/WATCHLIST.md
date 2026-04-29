@@ -81,12 +81,12 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 - **AVGO:** OpenAI selloff ~-3 to -5% from $416.72 = est. $396–$404. Below $406.75 pivot. No entry.
 - **LRCX:** Promoted to Primary Rank 4 (see above). Within 0.5% of $273.60 pivot. Re-screen required before entry.
 
-**Wednesday April 29 — 🔄 /pre-market COMPLETE:**
-- **NO ENTRIES before 1 PM CT** — FOMC hard restriction confirmed.
-- **STX:** Massive beat (see above). canslim-screener run → 68/100 REJECT (APIs blocked; A-letter FY2023 trough; base unconfirmed). CANNOT TRADE today regardless of FOMC. Earliest entry: Friday May 1 after re-score.
-- **NVDA:** ~$209–$213 pre-mkt (above pivot). Setup intact 87/100. No volume data (Alpaca blocked). If Alpaca restores + volume confirms after 1 PM CT: theoretical entry window exists. In practice, Mag-7 earnings tonight = hold cash.
-- **AVGO:** ~$400, below $406.75 pivot. No entry. Monitor Mag-7 (META beats = AVGO bullish Thursday).
-- **MSFT/META/AMZN/GOOGL earnings AH tonight:** Results critical for Thursday XLK direction. If broadly beat = positive for all XLK setups Thursday.
+**Wednesday April 29 — ✅ /market-check EXECUTED (10:00 AM CT):**
+- **⛔ NO ENTRIES** — FOMC restriction (hard rule: no entries before 1 PM CT) + Alpaca API blocked day 15 (dual hard stops).
+- **NVDA:** Opened $202.24 (above $201.75 pivot), intraday low $199.03 (briefly below pivot — pre-FOMC drift). Range $199.03–$202.75. Volume: unconfirmed (Alpaca blocked). Setup 87/100 intact. After 1 PM CT window theoretical if Alpaca restores — in practice hold cash (Mag-7 AH tonight = XLK uncertainty).
+- **STX:** $660–$687 today. 68/100 REJECT maintained. Earliest entry: Friday May 1 after full re-score.
+- **AVGO:** ~$400 est. (below $406.75 pivot). 74/100 below threshold. No entry. Watch META AH tonight.
+- **MSFT/META/AMZN/GOOGL earnings AH tonight:** Results critical for Thursday XLK direction. Broadly positive = NVDA/AVGO setups strengthen Thursday.
 - **LRCX:** REMOVED from watchlist. See "Removed this week."
 
 **Thursday April 30 – Friday May 1:**

@@ -61,6 +61,16 @@
 - AVGO ~$400 (below pivot); LRCX ~$251 (corrected — well below $273.60 pivot; China export risk flagged).
 - `research_source: websearch_fallback` | Alpaca blocked day 14
 
+**Wednesday April 29 /market-check (10:00 AM CT):**
+- SPY ~$712 (flat/slightly down pre-FOMC) | QQQ ~$659.75 | `research_source: websearch_fallback` | Alpaca blocked day 15
+- **⛔ FOMC restriction active — no entries before 1 PM CT.** No trades executed.
+- NVDA intraday: opened $202.24, range $199.03–$202.75 (briefly dipped below $201.75 pivot in first 90 min; pre-FOMC drift). Setup 87/100 intact.
+- STX: $660–$687 (post-earnings gap; 68/100 REJECT maintained — no entry).
+- AVGO: ~$400 est. (below $406.75 pivot — no entry).
+- Open positions: 0 | sell-rules-engine skipped (no positions) | P&L: $0 | Equity: $2,500
+- Mag-7 earnings AH tonight: MSFT, META, AMZN, GOOGL (results critical for Thu XLK direction)
+- Market state: Confirmed Uptrend Day 18 intact. 2/25 dist days. No state change.
+
 **Tuesday April 28 close (/eod-review confirmed):**
 - S&P 500: 7,138.80 (−0.49% from Monday) | Nasdaq: 24,663.80 (−0.9%) | `research_source: websearch_fallback` (Alpaca blocked day 13)
 - SPY est. ~$711.66 | QQQ est. ~$658.27
