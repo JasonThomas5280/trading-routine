@@ -1593,3 +1593,46 @@ LRCX closed ~$265 est. vs $273.60 pivot — about 3.2% below. The AM promotion w
 6. ⚠️ **Alpaca API blocked day 13** — No order execution possible. All trading halted. Must resolve before any entry.
 
 ---
+
+---
+
+## 2026-04-29 — /eod-review (3:15 PM CT)
+
+**Research source:** websearch_fallback (Alpaca 403 — host not in allowlist, day 16; Perplexity unavailable same reason; WebSearch for all market data)
+**Close:** SPY est. ~$711.37 (−0.04%) | QQQ est. ~$658.53 (+0.04%) | S&P 500: 7,135.95 | Nasdaq: 24,673.24
+**Distribution days:** 2 of 5 threshold (trailing 25 sessions — today: NO new dist day; S&P 500 −0.04% < −0.20% threshold; Nasdaq UP)
+**Market state:** 🟢 Confirmed Uptrend Day 19 (no transition; 2/25 dist days; SPY ~+5.1% above 50d MA ~$676 est.)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — no open positions to evaluate
+  - TIGHTEN: none
+  - SELL: none
+**Circuit breakers:** NONE (equity $2,500.00, 0% daily P&L, 0% weekly P&L, 0/3 PDT, 0/3 weekly trades)
+**P&L today:** $0.00 (0.00%) — no positions
+**Equity:** $2,500.00 (Alpaca account unavailable — estimated from prior state)
+
+### Key context — FOMC + Mag-7 event day
+
+- **FOMC:** Held rates at 3.5%–3.75% as expected (100% probability per CME FedWatch). However: **4 dissents** — most contentious since October 1992. Powell confirmed this is his final meeting as Fed Chair (stepping aside end of term, remaining on board). Dissents lean toward a rate cut, not a hike; dovish implication for medium-term.
+- **Oil shock:** Brent crude surged +6% to $118.03/bbl (second-highest level during Iran conflict). Inflationary headwind. Bond yields climbed: 10yr → 4.42% (month high); 2yr → 3.94%.
+- **Market resilience:** S&P 500 essentially flat (−0.04%) despite FOMC uncertainty + oil spike + Mag-7 pre-earnings anxiety. Bullish interpretation: sellers couldn't break the market on maximum event risk.
+- **Mag-7 AH earnings (results after 3:15 PM review):** MSFT, META, AMZN, GOOGL all reporting tonight. Bloomberg: "80 seconds of big tech earnings will decide stock market's fate." AI capex scrutiny ($600B collective 2026 guidance). Results unknown at time of review — critical for Thursday open.
+
+### Watchlist EOD verdicts
+
+| Symbol | Close | Change | Pivot | Status | Verdict |
+|---|---|---|---|---|---|
+| NVDA | $209.25 | −1.79% | $201.75 | Above pivot ✅ | WATCHING — conviction 87/100 (per 4/29 AM re-score); FOMC + pre-earnings drift holding stock above pivot |
+| AVGO | $405.54 | +1.43% | $406.75 | 0.3% BELOW pivot | WATCHING — 74/100 blocks entry (data-confidence reject); one data point away from 75+; close to pivot retest; Mag-7 earnings tonight could reset |
+| LRCX | ~$265 est. | ~flat | $273.60 | Below pivot | WATCHING — ~3.3% below pivot; chip capex narrative dependent on tonight's MSFT/AMZN cloud capex commentary |
+| STX | ~$675 est. | ~flat | N/A | 68/100 REJECT | HOLD — post-earnings drift. Conviction below threshold. No entry. |
+
+### Thursday priorities (/pre-market 6 AM CT Thu April 30)
+
+1. **Mag-7 AH results tonight** — read MSFT, META, AMZN, GOOGL results overnight. If AI capex beats: AVGO/NVDA/LRCX bullish. If misses: dist day #3 risk Thursday.
+2. **GDP Advance Q1 + Core PCE before open** — est. GDP +2.2%, Core PCE +0.3%. Macro macro macro.
+3. **AAPL earnings AH Thursday** — do not enter AAPL; note sector sentiment.
+4. **NVDA:** If Mag-7 AI capex strong → NVDA pivot at $201.75 confirmed; volume + entry window re-evaluated.
+5. **AVGO:** If closes above $406.75 on +40% volume Thursday post-Mag-7 catalyst → entry consideration (must re-score first; 74→75+ with AV data).
+6. ⚠️ **Alpaca API blocked day 16** — No order execution possible. All trading halted. CRITICAL: resolve before any entry opportunity.
+7. **Oil at $118/bbl** — monitor for additional Iran escalation. Potential inflationary spiral. No direct trade action, but macro headwind context for new entries.

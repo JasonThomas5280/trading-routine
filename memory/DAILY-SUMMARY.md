@@ -403,3 +403,26 @@ Tomorrow: ⛔ FOMC decision ~12 PM CT — NO new entries before 1 PM CT Wed. MSF
 ## 2026-04-29 11:23 CT [clickup-placeholder]
 
 Pre-market 2026-04-29 | Market: Confirmed Uptrend Day 18 | 2/25 dist days | ES -0.09% NQ +0.06% | FOMC DECISION DAY - no new entries before 1 PM CT | Mag-7 earnings AH tonight (MSFT/META/AMZN/GOOGL) | Open positions: 0 | Circuit breakers: NONE | Weekly trades: 0/3 | Overnight gaps: none | STX +18% pre-mkt on massive Q3 beat (EPS 4.10 +115% YoY) - screener 68/100 REJECT (A-letter FY23 trough; no base) | NVDA ~209-213 in zone but FOMC restriction | LRCX REMOVED (price corrected to 251; -8.2% below pivot; China export curb risk) | AVGO ~400 below 406.75 pivot | Plan: NO entries today; monitor Mag-7 AH for Thursday XLK direction; re-score STX when APIs restored
+
+---
+## 2026-04-29 15:15 CT [eod-review]
+
+📊 EOD 2026-04-29 | Equity $2,500.00 (0.00% day, 0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 2 of 5 (market: 🟢 Confirmed Uptrend Day 19)
+SPY est. $711.37 (−0.04%) | QQQ est. $658.53 (+0.04%)
+
+Actions today:
+  • NO TRADES — 0 positions; Alpaca blocked day 16; FOMC restriction (no entries before 1 PM)
+  • sell-rules-engine: SKIPPED (no open positions)
+  • Distribution day: NOT triggered (S&P 500 −0.04%, threshold −0.20%)
+
+FOMC: Held 3.5%–3.75%. 4 dissents (most since Oct 1992). Powell final meeting as chair.
+Oil: Brent +6% to $118/bbl. Bonds: 10yr yield 4.42% (month high).
+Market flat/resilient — sellers failed to break on maximum event risk day.
+
+⚠️ Mag-7 AH tonight: MSFT/META/AMZN/GOOGL — results unknown at review time. Critical for Thu open.
+
+Tomorrow watch: Mag-7 results + GDP Q1 advance + Core PCE before open. AAPL earnings AH.
+NVDA $209.25 (above $201.75 pivot, 87/100). AVGO $405.54 (0.3% below $406.75 pivot, 74/100).
+⚠️ CRITICAL: Alpaca API blocked day 16 — all trading halted. Must resolve.
