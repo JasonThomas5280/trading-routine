@@ -51,6 +51,16 @@
 - NVDA: $210.23 (range $208.70–$214.20) — above $201.75 pivot, volume pace 28% of required. No entry.
 - `research_source: websearch_fallback` | Alpaca blocked day 12
 
+**Wednesday April 29 pre-market (/pre-market check):**
+- ES futures: -0.09% | NQ futures: +0.06% — essentially flat. Cautious pre-FOMC positioning.
+- **⛔ FOMC decision today ~12 PM CT. No new entries before 1 PM CT.**
+- **⛔ Mag-7 earnings AH tonight: MSFT, META, AMZN, GOOGL.** XLK sentiment wildcard for Thursday.
+- NVDA pre-mkt: ~$209–$213 (in buy zone $201.75–$211.84; above pivot; JPMorgan cautionary note — not a downgrade).
+- STX: Up ~18% pre-mkt on massive Q3 FY2026 beat (EPS $4.10 +115% YoY; rev $3.11B +44% YoY; Q4 guided $5.00 EPS).
+- Market direction: Confirmed Uptrend Day 18 intact. 2/25 dist days (Apr 23 + Apr 28). No state change.
+- AVGO ~$400 (below pivot); LRCX ~$251 (corrected — well below $273.60 pivot; China export risk flagged).
+- `research_source: websearch_fallback` | Alpaca blocked day 14
+
 **Tuesday April 28 close (/eod-review confirmed):**
 - S&P 500: 7,138.80 (−0.49% from Monday) | Nasdaq: 24,663.80 (−0.9%) | `research_source: websearch_fallback` (Alpaca blocked day 13)
 - SPY est. ~$711.66 | QQQ est. ~$658.27

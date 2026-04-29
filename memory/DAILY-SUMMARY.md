@@ -373,3 +373,8 @@ Watchlist:
   • STX: earnings AH tonight — re-eval Thu post-FOMC
 
 Tomorrow: ⛔ FOMC decision ~12 PM CT — NO new entries before 1 PM CT Wed. MSFT/META/AMZN/GOOGL earnings AH.
+
+---
+## 2026-04-29 11:23 CT [clickup-placeholder]
+
+Pre-market 2026-04-29 | Market: Confirmed Uptrend Day 18 | 2/25 dist days | ES -0.09% NQ +0.06% | FOMC DECISION DAY - no new entries before 1 PM CT | Mag-7 earnings AH tonight (MSFT/META/AMZN/GOOGL) | Open positions: 0 | Circuit breakers: NONE | Weekly trades: 0/3 | Overnight gaps: none | STX +18% pre-mkt on massive Q3 beat (EPS 4.10 +115% YoY) - screener 68/100 REJECT (A-letter FY23 trough; no base) | NVDA ~209-213 in zone but FOMC restriction | LRCX REMOVED (price corrected to 251; -8.2% below pivot; China export curb risk) | AVGO ~400 below 406.75 pivot | Plan: NO entries today; monitor Mag-7 AH for Thursday XLK direction; re-score STX when APIs restored

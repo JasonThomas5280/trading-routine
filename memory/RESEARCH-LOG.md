@@ -167,6 +167,93 @@ Only 1 actionable entry this week (NVDA). Root cause: heavy Mag-7 earnings conce
 
 ---
 
+## 2026-04-29 (Wed) — /pre-market (Wednesday open)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 14; Alpha Vantage: blocked; Perplexity: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 18 | SPY est. ~$711.66 (Tue April 28 close; S&P 500 7,138.80 -0.49%) | 2/25 distribution days (Apr 23 + Apr 28)
+**⚠️ data_confidence: websearch_fallback** — All live APIs unavailable day 14. Prices estimated from web sources.
+**⛔ FOMC DECISION DAY — NO new entries before 1 PM CT. FOMC ~12 PM CT, Powell ~12:30 PM CT.**
+**⛔ MAG-7 EARNINGS TONIGHT — MSFT, META, AMZN, GOOGL report AH. XLK sentiment wildcard for Thursday.**
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (day 14) | No live quotes, no order execution |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked | No fundamentals pull |
+| Perplexity | ❌ 403 blocked | No research synthesis |
+| Native WebSearch | ✅ functional | All data via fallback |
+| ClickUp | ✅ (placeholder mode) | Appending to DAILY-SUMMARY.md |
+
+### Open positions — overnight gap check
+
+**No open positions.** Gap check skipped.
+
+### Market overnight check
+
+- **ES futures:** -0.09% vs Tuesday close (essentially flat). Cautious pre-FOMC positioning.
+- **NQ futures:** +0.06% — small tech bounce after Tuesday's AI-sentiment selloff.
+- **Overall tone:** Flat/muted. Market in wait-and-see mode ahead of FOMC decision (~12 PM CT) and Mag-7 earnings tonight. No structural concern for uptrend.
+- **FOMC:** 100% probability no rate change (CME FedWatch). Decision catalyst is Powell's language on rate cuts and inflation outlook.
+- **Overnight geopolitical:** No new escalation beyond prior Iran/Hormuz backdrop.
+- **S&P context:** Closed Tuesday at 7,138.80 (-0.49% = confirmed dist day #2). Still 17 sessions into confirmed uptrend, 2/25 dist days — well below 5-day "Under Pressure" threshold.
+
+### Overnight catalysts affecting watchlist
+
+- **NVDA:** Closed April 28 at $213.17 (-1.59% from ATH $216.61). Pre-market April 29: mixed readings ~$209–$213. JPMorgan issued cautionary note that "Nvidia's explosive run may see limits going forward" — NOT a downgrade, analyst maintaining buy, but note creates sentiment drag. No company-specific negative news. Earnings May 20 — clear. **Setup 87/100 INTACT.**
+- **STX:** MASSIVE EARNINGS BEAT. Q3 FY2026: Revenue $3.11B (+44% YoY, beat $2.94B est by +5.8%); Non-GAAP EPS $4.10 (+115% YoY, beat $3.47 est by +18.2%); GAAP EPS $3.27; Gross margin 47% (+480bps YoY); free cash flow ~$1B. Q4 guidance: Rev $3.45B ±$100M (+41% YoY midpoint), EPS $5.00 ±$0.20 (well above $~$3.80 consensus). Annual growth target raised to 20%+ (from low-to-mid teens). Stock up ~18% pre-market (~$570–$595 from ~$534 prior close; 52-week ATH $607.89). **Ran canslim-screener → 68/100 REJECT** (below 75; A-letter FY2023 cyclical trough; base pattern unconfirmed; all APIs blocked). Cannot enter today (FOMC). **Flag for Thursday re-score if APIs restored.**
+- **AVGO:** Closed April 28 at ~$400.35 (range $394.65–$417.16; -4.23% on OpenAI AI-demand miss sentiment). No new overnight catalysts. Meta MTIA ($300B+ through 2029) and Google TPU lock-ins intact — fundamental thesis solid. **Still 74/100** (A-letter API-blocked). Below $406.75 pivot. Mag-7 earnings tonight (META beats = positive for AVGO AI chip thesis). Watch for Thursday rebound above pivot.
+- **LRCX:** ⚠️ **PRICE CORRECTION — prior $272.11 estimate was wrong (Alpaca blocked, WebSearch data error).** Multiple sources confirm April 28 close ~$251.24 (range $243.04–$255.30). That's -8.2% below $273.60 pivot. NEW RISK IDENTIFIED: US export curbs to China (MATCH Act advancing; Lam halted Hua Hong shipments; China revenue expected to fall from 43% → <30% in 2026). Insider sold $1.55M (6,010 shares @ ~$258) April 28. LRCX beat Q3 earnings and guided June quarter 10% above rev consensus / 15% above EPS consensus — positive fundamentals — but structural China risk + price well below pivot = **REMOVING from primary watchlist.**
+
+### STX canslim-screener result (purpose: watchlist_refresh)
+
+- **Score: 68/100 — REJECT** (`data_confidence: websearch_fallback`; `rejection_reason: conviction_below_threshold + insufficient_data`)
+- C: 20/20 (EPS +115% YoY — exceptional)
+- A: 5/15 (FY2023 negative EPS fails 3-year ≥25% rule; FY2024/25/26 trajectory powerful but strict rule applies)
+- N: 15/15 (AI cloud storage demand, HAMR tech, 52-week high)
+- S: 8/15 (float ~215M >200M threshold -0; volume surge +5; historical buybacks +3)
+- L: 15/15 (~600% YoY RS, RS 99+, XLK sector leader)
+- I: 5/10 (EDGAR blocked cap; 86.84% institutional; insider sales April 2026)
+- Base: 0/10 (no bars; post-600% rally = likely late-stage; earnings gap ≠ traditional base)
+- **Re-score path to ≥75:** APIs restored → verify A-letter quarterly trend → confirm base pattern with bars → potential 83/100 if base valid
+- **No entry possible today (FOMC restriction)**
+
+### Buy-zone status
+
+| Symbol | Last (est.) | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$209–$213 pre-mkt | $201.75 | +3.6–5.6% above pivot | 🟡 **WATCHING** — in zone but FOMC restriction (no entry before 1 PM CT); JPMorgan cautionary note; Mag-7 earnings tonight = XLK uncertainty |
+| STX | ~$570–$595 pre-mkt | TBD (post-earnings) | n/a | 🟢 **ELEVATED** — massive beat; not yet scored to threshold (68/100); earliest entry Fri May 1 (after FOMC + volatility settles + full re-score); track closely |
+| AVGO | ~$400 est. | $406.75 | -1.7% below pivot | 🔴 **BELOW PIVOT** — out of buy zone; still 74/100; potential rebound if Mag-7 (META) beats tonight |
+| LRCX | ~$251 | $273.60 | -8.2% below pivot | 🔴 **REMOVED** — price error corrected; China export curbs material risk; insider sales; remove from primary list |
+| MU | est. ~$490–510 | ~$507 (indicative) | below indicative pivot | ⚪ BENCH — no handle formed |
+
+### Circuit breaker check
+
+- Daily P&L: $0 (no positions) — NO trigger (-3% threshold)
+- Weekly P&L: $0 (0 trades this week) — NO trigger (-6% threshold)
+- Drawdown from HWM: $0 — NO trigger (-12% threshold)
+- PDT rolling 5-session: 0 of 3 — NO trigger
+- **Circuit breakers: NONE ACTIVE**
+- **⛔ FOMC restriction active until 1 PM CT — no new entries before then**
+
+### Entry plan for today (Wednesday April 29)
+
+1. **NO ENTRIES before 1 PM CT** — FOMC hard restriction.
+2. **After 1 PM CT window (1:00–1:45 PM CT):** NVDA only if: (a) price ≥$201.75 AND ≤$211.84, (b) volume pacing ≥+40% above 50d avg, (c) Alpaca API restored. If Alpaca still blocked = no trade possible regardless.
+3. **STX** — Do NOT enter today. Post-earnings gap + FOMC + Mag-7 tonight = three layers of uncertainty. Earliest consideration: Friday May 1 after full re-score.
+4. **Mag-7 earnings tonight:** MSFT, META, AMZN, GOOGL all report AH. If broadly positive: expect XLK strength Thursday → improves NVDA, AVGO setups. Note at /pre-market tomorrow.
+
+### Risks
+
+- FOMC press conference language on rates/inflation — possible hawkish surprise despite no rate change
+- Mag-7 AH results: Collectively ~$300B capex committed to AI; any guidance cut = XLK negative
+- AAPL earnings Thursday April 30 AH + GDP Advance Q1 + Core PCE before open Thursday
+- Alpaca API blockage (day 14) — all trades still impossible regardless of setup
+
+---
+
 ## 2026-04-28 (Tue) — /pre-market (Tuesday open)
 
 **Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 11; Alpha Vantage: blocked; Perplexity: 403 blocked. All data via native WebSearch.)

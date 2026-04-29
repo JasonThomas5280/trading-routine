@@ -35,17 +35,17 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 
 | Rank | Symbol | Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 1 | NVDA | **87/100** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🔴 **BELOW PIVOT (Tue premarket).** Mon Apr 27 ACTUAL close: $216.61 (new 52wk HIGH $216.83 — rallied hard after our 10AM check). Tue Apr 28 premarket: $200.64 (-7.4% from close; VWAP $200.55–$201.39, vol 1.7M). Cause: oil spike + NQ -0.66% risk-off, not company-specific. RSI 69.92. Setup conviction 87/100 INTACT. Do NOT enter below $201.75. If regular session reclaims $201.75 with +40% volume pace, re-evaluate at /market-check. Alpaca still blocked (day 11). **FOMC restriction: no entries WEDNESDAY before 1PM CT.** |
-| 2 | STX | EARNINGS WATCH | XLK/Storage | Breakout above $554 (pre-earnings) | TBD post-earnings | TBD | **Apr 28 after-close** ⚠️ | ⏳ **EARNINGS WATCH — re-evaluate Wed Apr 29 pre-market.** Reports TOMORROW (Tue Apr 28) AH, 5:00 PM ET. Expected EPS $3.47, revenue $2.94B. Earnings call 5 PM ET. If beats + strong reaction: run canslim-screener at Wed /pre-market. **Earliest possible entry: Thursday April 30** (FOMC window blocks Wednesday). If disappoints: REMOVE. |
-| 3 | AVGO | 74/100 (data-dependent) | XLK/Semis | Flat base Stage 2 | $406.75 (original) / $429.41 (ATH break) | entry × 0.93 | Jun 3, 2026 ✅ | 🟡 **WATCHING — DATA-DEPENDENT.** 74/100 = 1pt below threshold (A-letter API blocked). Last ~$420.10 Fri est. — inside buy zone $406.75–$427.09. FY2025 earnings +292% YoY, AI chip sales Q1 FY26 +106% YoY — fundamentally strong. Likely re-scores 79–82/100 with API. **Do NOT enter at 74. Restore API or confirm A-letter manually before entry.** |
-| 4 | LRCX | **75/100 ⚠️ MIN CONVICTION** | XLK/Semi Equip | Flat base (2wk, ~7% depth after Apr 27 damage) | **$273.60** | entry × 0.93 | May 2026 (TBD) ✅ | 🟡 **PROMOTED from bench 2026-04-28.** Apr 27 intraday low $256.31 pierced $260 support — but closed $261.87 (above support). Apr 28 recovery to $272.11 (+3.9%), within 0.5% of pivot. **Do NOT enter without re-running canslim-screener first.** Minimum conviction (75/100) — volume confirmation AND fresh screen required. B of A PT $330. Earnings TBD May. Note: OpenAI capex narrative is risk factor for semi equipment. |
+| 1 | NVDA | **87/100** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🟡 **WATCHING — FOMC RESTRICTION.** Tue Apr 28 close: $213.17 (-1.59% from ATH). Wed Apr 29 pre-mkt: ~$209–$213 (above $201.75 pivot). JPMorgan cautionary note on "limits to run" — NOT a downgrade; analyst maintains buy. No company-specific negative catalyst. **NO ENTRIES before 1 PM CT today (FOMC).** FOMC decision ~12 PM CT; Mag-7 earnings tonight = XLK uncertainty. Setup 87/100 INTACT. Best entry window: Thursday Apr 30 if Mag-7 beats tonight and Alpaca API restored. |
+| 2 | STX | **68/100 ⚠️ BELOW THRESHOLD** | XLK/Storage | Post-earnings gap (not yet a base) | TBD after price settles | entry × 0.93 | ~Jul 2026 ✅ | 🟢 **ELEVATED — NEEDS RE-SCORE.** Q3 FY2026 MASSIVE BEAT: EPS $4.10 vs $3.47 est (+18.2%); rev $3.11B vs $2.94B est (+5.8%); +115% EPS YoY; gross margin 47%; free cash flow ~$1B. Q4 guided: EPS $5.00 ±$0.20, rev $3.45B ±$100M (+41% YoY midpoint). Annual growth target raised to 20%+. Pre-mkt +18% (~$570–$595). **canslim-screener run → 68/100 REJECT** (A-letter: FY2023 cyclical trough negative EPS; base: unconfirmed post-600% rally; all APIs blocked). **DO NOT ENTER at 68/100.** Re-score when APIs restored — potential 83/100 if base confirms. Earliest entry: Friday May 1 (FOMC clears Wed, post-gap settles Thu). |
+| 3 | AVGO | 74/100 (data-dependent) | XLK/Semis | Flat base Stage 2 | $406.75 (original) / $429.41 (ATH break) | entry × 0.93 | Jun 3, 2026 ✅ | 🔴 **BELOW PIVOT.** Apr 28 close ~$400.35 (range $394.65–$417.16; down -4.23% on OpenAI AI-demand miss). Still 74/100 (A-letter API blocked). Below $406.75 pivot. Fundamental thesis intact: Meta MTIA ($300B+ through 2029), Google TPU lock-ins, 94% analyst buy. Mag-7 earnings tonight (META beats = positive for AVGO AI chip thesis). **Watch for pivot reclaim ~$406.75 Thursday; still needs API restore for official 75+ score.** |
+| 4 | LRCX | **REMOVED — see below** | XLK/Semi Equip | Below pivot + China risk | — | — | May 2026 (TBD) | 🔴 **REMOVED 2026-04-29.** Price corrected: prior $272.11 estimate was wrong (Alpaca blocked day 14; WebSearch data error). Actual close ~$251.24 (range $243.04–$255.30) = -8.2% below $273.60 pivot. NEW RISK: US export curbs to China — MATCH Act advancing in Congress; Lam halted Hua Hong shipments; China rev projected to fall from 43% → <30% of total in 2026. Insider sold 6,010 shares ($1.55M) April 28. LRCX beat Q3 earnings (June guidance +10% rev / +15% EPS vs consensus) but structural China risk dominates. Remove until: (1) pivot reclaimed, AND (2) MATCH Act outcome known, AND (3) fresh canslim-screener run. |
 
 ### Bench (5–8 — setup forming, not yet at pivot)
 
 | Rank | Symbol | Conviction | Notes |
 |---|---|---|---|
 | 5 | MU | **78/100** | XLK/Memory. Cup-without-handle (10wk, 18% depth). **NO ENTRY** — handle not formed. Indicative pivot ~$507 if handle forms (buy zone $507–$532). Earnings Jul 1 (44 days, clear). Q2 FY26 EPS >500% YoY. HBM4 sold out through 2026. RS ≥95 est. Re-score when handle forms — expected 88/100 HIGH CONVICTION. Monitor tightly. |
-| 6 | LRCX | ~~**BENCH**~~ → **PRIMARY RANK 4** | XLK/Semi Equip. **Promoted 2026-04-28 /market-check.** Apr 27 close $261.87 (above $260 threshold — base damage but not failed). Apr 28 recovery +3.9% to $272.11, within 0.5% of $273.60 pivot. Must re-run canslim-screener before entry. See primary table rank 4. |
+| 6 | LRCX | **REMOVED to "Removed this week"** | XLK/Semi Equip. **Removed 2026-04-29 /pre-market.** Price corrected to $251.24 (prior $272.11 was websearch estimation error; Alpaca blocked day 14). China export curbs risk (MATCH Act) = material thesis risk. -8.2% below $273.60 pivot. Insider sell $1.55M. |
 | 7 | AMD | **UNSCORED — blackout** | XLK/Semis. Earnings May 5 (blackout starts Mon Apr 28). +13.9% on Apr 24. Strong AI GPU competitive position. Projected EPS +33% YoY for Q1. **Re-score immediately after May 5 earnings if beats.** Potential high-conviction candidate for week of May 5+. |
 | 8 | STX (post-earnings) | **TBD** | XLK/Storage. Conditional on April 28 earnings beat. If strong: run full canslim-screener Tue Apr 29 at /pre-market. EPS +81.1% YoY expected. AI cloud storage demand "sold out." Do NOT score pre-earnings — wait for reaction. |
 
@@ -63,6 +63,7 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 | SNEX | Removed prior week — -20% from peak, momentum broken. |
 | WDC | Removed prior week — earnings blackout (April 30). |
 | META | Earnings April 29 — blackout. Re-evaluate after results. |
+| LRCX | **REMOVED 2026-04-29 /pre-market** — Price corrected from estimated $272 to actual ~$251 (-8.2% below $273.60 pivot; prior estimate was Alpaca-blocked WebSearch error). China export curbs (MATCH Act, Hua Hong halt) = material revenue risk (China 43% of rev → projected <30%). Insider sold $1.55M April 28. Re-evaluate after: (1) MATCH Act outcome clear, (2) price reclaims $273.60 pivot, (3) fresh canslim-screener with live API. |
 
 ---
 
@@ -80,10 +81,13 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 - **AVGO:** OpenAI selloff ~-3 to -5% from $416.72 = est. $396–$404. Below $406.75 pivot. No entry.
 - **LRCX:** Promoted to Primary Rank 4 (see above). Within 0.5% of $273.60 pivot. Re-screen required before entry.
 
-**Wednesday April 29:** ⛔ FOMC DECISION DAY
-- **No new entries before 1 PM CT.** FOMC decision ~12 PM CT, Powell press conf ~12:30 PM CT.
-- STX post-earnings: if gap-up + strong volume, run canslim-screener at /pre-market. Earliest entry: Thursday April 30 (not Wednesday — FOMC window).
-- MSFT/META/AMZN/GOOGL earnings AH Wed: monitor for XLK sentiment impact Thursday.
+**Wednesday April 29 — 🔄 /pre-market COMPLETE:**
+- **NO ENTRIES before 1 PM CT** — FOMC hard restriction confirmed.
+- **STX:** Massive beat (see above). canslim-screener run → 68/100 REJECT (APIs blocked; A-letter FY2023 trough; base unconfirmed). CANNOT TRADE today regardless of FOMC. Earliest entry: Friday May 1 after re-score.
+- **NVDA:** ~$209–$213 pre-mkt (above pivot). Setup intact 87/100. No volume data (Alpaca blocked). If Alpaca restores + volume confirms after 1 PM CT: theoretical entry window exists. In practice, Mag-7 earnings tonight = hold cash.
+- **AVGO:** ~$400, below $406.75 pivot. No entry. Monitor Mag-7 (META beats = AVGO bullish Thursday).
+- **MSFT/META/AMZN/GOOGL earnings AH tonight:** Results critical for Thursday XLK direction. If broadly beat = positive for all XLK setups Thursday.
+- **LRCX:** REMOVED from watchlist. See "Removed this week."
 
 **Thursday April 30 – Friday May 1:**
 - GDP Advance Q1 (April 30) + Core PCE before open — macro risk. Monitor for sentiment shift.
