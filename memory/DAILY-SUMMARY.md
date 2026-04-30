@@ -456,7 +456,7 @@ Pre-market 2026-04-29 | Market: Confirmed Uptrend Day 18 | 2/25 dist days | ES -
 
 📊 EOD 2026-04-29 | Equity $2,500.00 (0.00% day, 0.00% week)
 Open: 0 positions, 100% cash
-Distribution days: 2 of 5 (market: 🟢 Confirmed Uptrend Day 19)
+Distribution days: 2 of 25 (market: 🟢 Confirmed Uptrend Day 19)
 SPY est. $711.37 (−0.04%) | QQQ est. $658.53 (+0.04%)
 
 Actions today:
@@ -473,3 +473,30 @@ Market flat/resilient — sellers failed to break on maximum event risk day.
 Tomorrow watch: Mag-7 results + GDP Q1 advance + Core PCE before open. AAPL earnings AH.
 NVDA $209.25 (above $201.75 pivot, 87/100). AVGO $405.54 (0.3% below $406.75 pivot, 74/100).
 ⚠️ CRITICAL: Alpaca API blocked day 16 — all trading halted. Must resolve.
+
+---
+## 2026-04-30 15:15 CT [eod-review]
+
+📊 EOD 2026-04-30 | Equity ~$2,500.00 (0.00% day, 0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 2 of 25 (market: 🟢 Confirmed Uptrend Day 20)
+
+🏆 APRIL MONTHLY CLOSE — Best month since 2020
+  • S&P 500 +10.4% | Nasdaq +15.3% | Dow +7.1% for April
+  • S&P 500 closed at NEW ATH 7,209.01 (+1.02% today) — first close above 7,200
+  • Nasdaq 24,892.31 (+0.89%). Not a distribution day.
+
+Actions today:
+  • SELL: none — no open positions
+  • TIGHTEN: none — no positions
+  • sell-rules-engine: SKIPPED (no positions)
+
+Watchlist updates:
+  ⚠️ NVDA: $200.37 — PIVOT BREACHED ($201.75). Google TPU direct-sales news, -4.1% on up-market day. DO NOT ENTER. Need pivot reclaim + volume.
+  🟡 AVGO: ~$412.65 — ABOVE pivot ($406.75). META earnings confirmed $300B+ AI chip commitment (AVGO supplier). Re-score priority = 74→76+ when APIs restore.
+  📣 AAPL: Earnings AH tonight — evaluate tomorrow pre-market.
+
+Circuit breakers: NONE
+⚠️ Alpaca API blocked DAY 18 — All trade execution impossible. CRITICAL: Must resolve.
+
+Tomorrow: AAPL earnings reaction + NVDA/AVGO pivot watch. 0/3 weekly trades used.

@@ -1833,3 +1833,93 @@ LRCX closed ~$265 est. vs $273.60 pivot — about 3.2% below. The AM promotion w
 5. **AVGO:** If closes above $406.75 on +40% volume Thursday post-Mag-7 catalyst → entry consideration (must re-score first; 74→75+ with AV data).
 6. ⚠️ **Alpaca API blocked day 16** — No order execution possible. All trading halted. CRITICAL: resolve before any entry opportunity.
 7. **Oil at $118/bbl** — monitor for additional Iran escalation. Potential inflationary spiral. No direct trade action, but macro headwind context for new entries.
+
+---
+
+## 2026-04-30 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 16; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Close:** SPY ~$718.65 est. | QQQ ~$664.48 | S&P 500: 7,209.01 (+1.02%) | Nasdaq: 24,892.31 (+0.89%)
+**Distribution days:** 2 of 25 effective (today: NO — S&P 500 +1.02%, up day; April 29: NO — -0.04%, below threshold)
+**Market state:** 🟢 Confirmed Uptrend Day 19 (no transition; new ATH; best month since 2020)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — no open positions to evaluate
+  - TIGHTEN: none — no positions
+  - SELL: none — no positions
+**Circuit breakers:** NONE (equity $2,500 est., 0% daily P&L, 0% weekly P&L, 0/3 PDT)
+**P&L today:** $0.00 (0.00%) — 100% cash, no positions
+**Equity:** ~$2,500.00 est. (Alpaca blocked — cannot confirm live)
+**Weekly trade count:** 0 of 3 used (week of 2026-04-28)
+
+### Market close context — April 30, 2026
+
+- S&P 500 +1.02% to 7,209.01 — NEW ALL-TIME HIGH; first close above 7,200
+- Nasdaq +0.89% to 24,892.31 (new record closing high)
+- Dow +1.62% (+790 pts) to 49,652.14
+- QQQ $664.48 (range $657.56–$666.71)
+- **APRIL MONTHLY SUMMARY: Best month since 2020** — S&P 500 +10.4%, Nasdaq +15.3%, Dow +7.1%
+- Macro: GDP Q1 +2.0% (missed 2.3% est.); Core PCE +3.2% YoY, +0.3% MoM (in-line). Market shrugged off data — earnings drove.
+- Catalysts: Mag-7 AH earnings Apr 29 — Google/Alphabet beat (largest single-day gain since Apr 2025); META beat with confirmed AVGO AI chip commitment; MSFT beat; AMZN beat. Broad tech earnings positive.
+- AMD and AVGO outperformed Nvidia today.
+
+### April 29 (FOMC day) catch-up close
+
+- S&P 500: 7,135.95 (-0.04%) — consolidation/flat. FOMC held rates at 3.5%–3.75% (100% expected).
+- NOT a distribution day (magnitude far below -0.20% threshold).
+- Powell's final press conference as Fed Chair — no surprises. Rates on hold through late 2026.
+
+### Watchlist EOD verdicts
+
+| Symbol | Close (est.) | Change | Pivot Status | Verdict |
+|---|---|---|---|---|
+| NVDA | $200.37 | -4.1% | 🔴 BELOW $201.75 pivot (-0.7%) | ⚠️ DEGRADED — Google TPU competition; do NOT enter; wait for pivot reclaim on volume |
+| AVGO | ~$412.65 | +~3% | 🟢 ABOVE $406.75 pivot (+1.5%) | 🟡 WATCH — 74/100 (needs +1pt); re-score priority when APIs restore |
+| STX | ~$660–$680 est. | — | No valid pivot yet | ⛔ 68/100 REJECT maintained; earliest re-score after base forms (4–6 weeks) |
+| MU | — | — | No pivot (handle not formed) | Bench; still forming |
+| AAPL | — | — | ⛔ EARNINGS AH TONIGHT | Evaluate pre-market tomorrow; potential new watch candidate if strong beat |
+
+### NVDA pivot breach — assessment
+
+- $200.37 close = $1.38 below $201.75 pivot (-0.68%)
+- Google announced it will sell its TPU chips directly to select enterprise customers (previously cloud-only). This reduces NVDA's total addressable market for large AI customers who could shift spend.
+- NVDA fell -4.1% on a day the market was +1.02% = significant relative weakness (RS rank deteriorating in real-time)
+- **Not a base failure yet** (close $200.37 > base low ~$185 area; one pivot breach is not structural). But conviction score degrades:
+  - N-letter (New catalyst): Google TPU = headwind to "NVDA as unrivaled AI chip leader" narrative → likely -5pts
+  - S-letter (Supply/Demand): -4.1% on high volume on an up-day = supply > demand signal → -3 to -5pts
+  - Revised est. score: ~77–80/100 (down from 87) — still above 75 threshold structurally, but entry invalid while below pivot
+- **Decision:** No entry. Monitor for pivot reclaim. If price holds $199–$201 range and reclaims $201.75 on volume before earnings (May 20), setup may be re-triggered.
+
+### AVGO catalyst update
+
+- META Q1 earnings AH April 29: Strong beat. Meta confirmed $300B+ AI infrastructure spend through 2029. AVGO is primary custom ASIC supplier (MTIA chips). This is a direct positive for AVGO's A-letter (annual earnings trajectory) and I-letter (institutional buy).
+- AVGO +3% on April 30 while broad market +1% = outperformance ✅
+- Current 74/100 is an API-blocked estimate from Apr 26. Fresh score with catalyst update could push to 76–80.
+- **Priority action when APIs restore:** Re-run canslim-screener on AVGO immediately. If ≥75, AVGO becomes primary buy candidate at current levels (~$412–413, above $406.75 pivot).
+
+### AAPL — pre-earnings note
+
+- Reports AH tonight (4:30 PM ET). First earnings under new CEO transition (Tim Cook stepping down, Ternus succeeding).
+- Revenue est.: $109.6B (+15% YoY). EPS est.: $1.94. iPhone +20% YoY expected.
+- AAPL partnered with Google for Gemini-powered Siri — note the Google/AI theme today (TPU news). This is complex: AAPL + Google on AI could be positive for both.
+- **Do NOT pre-score AAPL.** Wait for reaction tomorrow /pre-market. AAPL is a Mag-7 name — check if it fits CAN SLIM criteria if post-earnings setup develops.
+
+### Tomorrow priorities (/pre-market 6 AM CT Fri May 1)
+
+1. **AAPL earnings reaction:** Key catalyst for XLK and broad market Friday. Strong beat = potential continuation. Miss = risk of dist day #3.
+2. **NVDA:** Did it hold $198–$201 support overnight? Any analyst response to Google TPU news? Re-assess pivot trajectory.
+3. **AVBO:** Hold above $406.75? Confirm outperformance vs. NVDA trend continuing.
+4. **Market:** Watch for any May 1 "sell in May" seasonal pressures — historically, market opens May cautiously. Any macro weakness after GDP miss + PCE elevation?
+5. ⚠️ **Alpaca API blocked day 16** — No order execution possible. All trading halted. **CRITICAL: Resolve before next buy opportunity.** Consider testing the API directly or contacting Alpaca support.
+6. **Weekly trade count resets Monday May 4.** 0 of 3 trades used this week — week closes clean.
+
+### Circuit breaker summary
+
+| Breaker | Level | Status |
+|---|---|---|
+| Daily -3% loss | -3% account | ✅ CLEAR — $0 P&L (no positions) |
+| Weekly -6% loss | -6% account | ✅ CLEAR — $0 weekly P&L |
+| Drawdown -12% from HWM | -12% from $2,500 | ✅ CLEAR — $2,500 est. equity = high-water mark |
+| PDT 3 of 3 | rolling 5 sessions | ✅ CLEAR — 0 day trades |
+
+---
