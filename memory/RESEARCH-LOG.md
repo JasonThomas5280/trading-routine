@@ -44,6 +44,106 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-04-30 (Thu) — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 18; AV, Perplexity: blocked; all data via native WebSearch)
+**Market state:** 🟢 Confirmed Uptrend Day 20 | 2/25 distribution days
+
+### Abort gate check
+
+| Gate | Status |
+|---|---|
+| Market state | 🟢 Confirmed Uptrend — CLEAR |
+| Research unavailable | websearch_fallback (not DEGRADED) — CLEAR |
+| Daily circuit breaker (-3%) | 0% P&L (no positions) — CLEAR |
+| Weekly circuit breaker (-6%) | 0% weekly — CLEAR |
+| Drawdown halt (-12% HWM) | $0 — CLEAR |
+| Weekly trade count | 0 of 3 — CLEAR |
+| Position count | 0 of 4 — CLEAR |
+| Cash buffer | 100% cash — CLEAR |
+| **Alpaca API** | ❌ **403 blocked — Day 18. HALT ALL ENTRIES.** |
+
+**Per TRADING-STRATEGY.md: "Alpaca API down → Halt all activity." No trades possible regardless of setup quality.**
+
+### Macro data (7:30 AM CT releases — post-data market reaction now visible)
+
+| Event | Result | vs Estimate | Market Reaction |
+|---|---|---|---|
+| GDP Q1 2026 Advance | **+2.0%** annualized | Cons. +2.2% / GDPNow 1.2% | Neutral–positive: huge beat vs feared 1.2% floor |
+| Core PCE March 2026 | **+0.3% MoM / +3.2% YoY** | Cons. +0.24–0.28% | In line; slight overshoot but no shock |
+
+**Takeaway:** GDP not the disaster GDPNow feared. PCE elevated but expected. Market absorbed both without distress.
+
+### Market context (10:00 AM CT)
+
+| Index | Level | Change | Notes |
+|---|---|---|---|
+| S&P 500 | ~+0.46% | +32 pts | Mag-7 earnings + GDP-better-than-feared |
+| Nasdaq | ~+0.65% | +177 pts | Tech outperforming on MSFT/AMZN/GOOGL beats |
+| Dow | ~+0.65% | +320 pts | Broad-based strength |
+| Brent crude | ~$114.22 | -3.2% (from $118) | Spiked to $126 wartime high intraday then reversed on Iran briefing news |
+| WTI crude | ~$105.44 | -$1.37 | Elevated by Iran/Hormuz; still inflationary |
+| 10yr yield | ~4.42% | flat | Month high; elevated but stable |
+
+**Oil note:** Brent briefly hit $126 (wartime high — Strait of Hormuz still blocked) then pulled back to $114 on Trump military-briefing headlines. Inflationary risk intact but not escalating today.
+
+### Overnight gap follow-up
+
+No open positions. Gap check skipped.
+
+### Watchlist trigger evaluation
+
+| Symbol | Pivot | Current | Buy Zone? | Volume (Alpaca) | Vol Pace vs Req | Verdict |
+|---|---|---|---|---|---|---|
+| NVDA | $201.75 | $209.35 (range $207.58–$212.72) | ✅ $201.75–$211.84 | ❌ BLOCKED | N/A | 🔴 NO TRADE — Alpaca blocked |
+| AVGO | $406.75 | ~$405.45 | 🔴 Below pivot | ❌ BLOCKED | N/A | 🔴 DOUBLE REJECT (below pivot + 74/100) |
+| STX | None | ~post-earnings | n/a | ❌ BLOCKED | n/a | 🔴 68/100 REJECT |
+| MU | ~$507 indicative | bench | n/a | — | — | ⚪ Bench — no handle |
+
+**NVDA setup assessment:**
+- Price $209.35: ✅ in buy zone $201.75–$211.84 (3.7% above pivot; 5% chase ceiling = $211.84)
+- Price at open $212.63: barely above chase ceiling — risk of entering at extended price; pulled back to $209.35 by 10 AM. Better entry quality now than at open.
+- Volume: UNCONFIRMED (Alpaca blocked). ADV est. 150.96M (10-day avg per barchart). Required pace = 150.96M × 1.4 = 211.3M full-day / at 90min (23% of session) = ~48.8M intraday minimum.
+- Conviction: 87/100 INTACT. Mag-7 beats ($700B+ capex confirmation) = strong demand signal for NVDA hardware.
+- BofA: Buy, $300 PT. 95% analyst consensus Buy. Earnings May 20 (clear).
+- **If Alpaca restores before close of window: entry target $207–$211 on +40% volume confirmation.**
+
+**AVGO assessment:**
+- $405.45 = still 0.3% below $406.75 pivot. META capex raise ($125-145B) = direct revenue catalyst for AVBO chip business. Fundamentally strengthened vs prior days. BUT: conviction 74/100 = below 75 threshold. No entry. If API restores and re-score yields 75+, pivot confirmation with volume required.
+
+### Mid-morning position health check
+
+No open positions. sell-rules-engine skipped.
+
+### Bench promotion check
+
+| Symbol | Current | Pivot | Delta | Action |
+|---|---|---|---|---|
+| MU | est. ~$490–510 | ~$507 indicative | no change | Stays bench — no handle formed |
+| AMD | blackout | — | — | Stays bench — earnings May 5; re-score immediately after |
+
+No promotions.
+
+### Result: NO ENTRIES
+
+Primary reason: **Alpaca API blocked — Day 18. Hard stop per strategy rules.**
+Secondary: AVGO still below pivot and below conviction threshold.
+
+NVDA setup quality = highest of the week. Price in zone, 87/100, $700B+ hyperscaler capex tailwind confirmed. Ready to execute the moment Alpaca API is restored.
+
+**⚠️ CRITICAL OPERATIONAL ALERT — Day 18:** Alpaca 403 "Host not in allowlist" is blocking all order execution and price/volume data. Every single valid setup this week has been untradeable. Escalate immediately to resolve IP allowlist with Alpaca.
+
+### Carry-forward for /eod-review (3:15 PM CT)
+
+1. **Distribution day watch:** Market up today (+0.46% SPY) — not a dist day. Count stays 2/25.
+2. **NVDA:** Watch close. Needs to close above $201.75 pivot for entry thesis to remain valid. Ideal: closes $207–$211 range on good volume.
+3. **AVGO:** Watch pivot reclaim $406.75. If closes above on elevated volume = watching for tomorrow.
+4. **AAPL earnings AH tonight:** Results affect Friday XLK sentiment. Not on watchlist; monitor for sector drag/lift.
+5. **Oil:** Brent spike to $126 then reversal to $114 = volatile. Watch for Iran escalation AH.
+6. **Alpaca API:** Day 18. Must resolve for week of May 5. Re-check at EOD.
+
+---
+
 ## 2026-04-30 (Thu) — /pre-market (Thursday open)
 
 **Research source:** `websearch_fallback` (Perplexity 403 blocked — day 17; Alpaca 403 blocked — day 17; Alpha Vantage blocked; all data via native WebSearch)

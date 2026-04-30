@@ -71,6 +71,16 @@
 - Mag-7 earnings AH tonight: MSFT, META, AMZN, GOOGL (results critical for Thu XLK direction)
 - Market state: Confirmed Uptrend Day 18 intact. 2/25 dist days. No state change.
 
+**Thursday April 30 /market-check (10:00 AM CT):**
+- SPY ~+0.46% (+32pts) | Nasdaq ~+0.65% | Dow ~+0.65% | `research_source: websearch_fallback` | Alpaca blocked day 18
+- **GDP Q1 +2.0%** (cons. +2.2%; GDPNow feared 1.2%) — mild miss vs consensus, big beat vs worst case. Market shrugging off.
+- **Core PCE +0.3% MoM / +3.2% YoY** — in line with estimates. Elevated but expected. No surprise.
+- **Oil:** Brent briefly spiked to $126 wartime high (Iran/Hormuz), then reversed to ~$114.22 (-3.2% from $118). WTI ~$105.44. Inflationary risk elevated but not escalating today.
+- **Market state:** Confirmed Uptrend Day 20. SPY up on Mag-7 beats. GDP not a disaster. 2/25 dist days — NOT adding today (market up).
+- NVDA: $209.35 (range $207.58–$212.72) — ✅ in buy zone $201.75–$211.84; 87/100 INTACT. Setup ready; Alpaca blocked = no execution.
+- AVBO: ~$405.45 — below $406.75 pivot; 74/100 below threshold.
+- No trades executed. 0 open positions.
+
 **Thursday April 30 pre-market (/pre-market check):**
 - ES futures: ~7,176.75 (+0.12%) | NQ futures: ~27,382.25 (+0.21%) | Dow futures: +0.56%
 - **Mag-7 AH earnings results (April 29):** ALL BEAT — MSFT EPS $4.27 (est $4.06) Azure +40%; META Rev $56.31B beat (but down 6-8% AH on capex raise $125-145B); AMZN EPS $2.78 (est $1.64) AWS +28%, stock +4% AH; GOOGL EPS $5.11 (est $2.62) Cloud +63%. Net: 3/4 strongly positive; META AH dip = partial XLK drag.
