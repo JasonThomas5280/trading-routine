@@ -44,6 +44,103 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-04-30 (Thu) — /pre-market (Thursday open)
+
+**Research source:** `websearch_fallback` (Perplexity 403 blocked — day 17; Alpaca 403 blocked — day 17; Alpha Vantage blocked; all data via native WebSearch)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 20 | 2/25 distribution days | SPY est. ~$711 | QQQ est. ~$658
+**Sector leaders:** XLK Technology #1 | XLC Communication #2 | XLF Financials #3
+**⚠️ data_confidence: websearch_fallback** — All live APIs unavailable (Alpaca, AV, Perplexity). Prices/volumes estimated via WebSearch.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (day 17) | No live quotes, no order execution |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked | No fundamentals pull |
+| Perplexity | ❌ 403 blocked | No research synthesis |
+| Native WebSearch | ✅ functional | All data via fallback |
+| ClickUp | ✅ (placeholder mode) | Appending to DAILY-SUMMARY.md |
+
+### Open positions — overnight gap check
+
+**No open positions.** Gap check skipped.
+
+### Overnight catalysts — Mag-7 earnings (April 29 AH) — CRITICAL
+
+All four reported after the bell April 29. Net impact: **broadly positive for XLK/AI chip demand**. Full results:
+
+| Company | EPS (actual vs est) | Revenue (actual vs est) | Key metric | AH reaction |
+|---|---|---|---|---|
+| MSFT | $4.27 vs $4.06 est (**Beat +5%**) | $82.89B vs $81.39B est (**Beat**) | Azure +40% YoY | ✅ positive |
+| META | Adj $7.31 vs $6.79 est (**Beat**) | $56.31B vs $55.49B est (**Beat +33% YoY**) | Capex raised to $125–$145B | ⚠️ DOWN 6–8% AH on capex overshoot |
+| AMZN | $2.78 vs $1.64 est (**Massive beat +69%**) | $181.52B vs $177.30B est (**Beat**) | AWS +28% YoY | ✅ +4%+ AH |
+| GOOGL | $5.11 vs $2.62 est (**Massive beat +95%**) | $109.9B vs $92.2B est (**Beat**) | Cloud +63% YoY; capex $190B | ✅ very positive |
+
+**AI capex commitments (combined 2026 guidance):** MSFT $190B, GOOGL $190B, AMZN ~$200B, META $125–145B = **~$700B+ in AI infrastructure spend confirmed**. Direct positive signal for GPU and custom chip demand (NVDA, AVGO).
+
+**META -6-8% AH explained:** Earnings fundamentals beat. Market reaction negative on capex raise ($115-135B → $125-145B). From NVDA/AVGO standpoint this is BULLISH — more META capex = more chip orders. META price dip = XLK headwind; capex raise = chip demand tailwind. Net: mixed on META stock, positive on chip suppliers.
+
+### Futures overnight (April 29–30)
+
+- **ES:** ~7,176.75 (+0.12% from ~7,135.95 April 29 close) — `research_source: websearch_fallback`
+- **NQ:** ~27,382.25 (+0.21%); separate source: NQ contracts +0.9% (Alphabet/Amazon-driven)
+- **Dow futures:** +0.56%
+- **Tone:** Broadly positive on Mag-7 fundamental beats. META dip creates partial XLK drag. GDP/PCE at 7:30 AM CT today = risk event (GDPNow 1.2% vs consensus 1.8%).
+
+### Macro risk events today (April 30)
+
+| Event | Time (CT) | Consensus | GDPNow / Prior | Risk |
+|---|---|---|---|---|
+| GDP Q1 2026 Advance Estimate | 7:30 AM | +1.8% annualized | 1.2% (GDPNow) | HIGH — significant miss possible |
+| Core PCE March 2026 | 7:30 AM | +0.24–0.28% MoM | Prior 2.7% YoY | MODERATE — still above Fed target |
+| AAPL earnings AH | ~4:30 PM ET | — | — | XLK wildcard for Friday |
+
+**Note:** GDP and PCE release at 7:30 AM CT = BEFORE market open but AFTER this pre-market (6 AM CT). /market-check at 10 AM CT will have full post-data reaction to evaluate. Entry decisions deferred to /market-check as planned.
+
+### Overnight catalysts — watchlist names
+
+- **NVDA:** No negative company-specific news. BofA reiterated Buy, $300 PT overnight ("can generate $400B+ FCF in 2026-27"; boosting dividends as re-rating catalyst). 95% analyst consensus Buy, avg PT $266.24 (+27% from ~$209). Hyperscaler capex raises ($190B MSFT, $190B GOOGL, $200B AMZN, $125-145B META) = massive GPU demand confirmation. Earnings May 20 — clear. **Setup 87/100 INTACT. Best entry window potentially today if Alpaca API resolves.**
+- **AVGO:** META capex raise ($125-145B, up $10-15B) = MORE revenue for Broadcom custom chips. META-Broadcom MTIA deal runs through 2029 — incremental capex = incremental chip orders. AVGO AI revenue: $8.4B last quarter (+106% YoY), Q2 guidance $10.7B AI semis, $100B target by 2027. April 29 close $405.54 (0.3% below $406.75 pivot); premarket Apr 30 est ~$412–415 — **likely above $406.75 pivot today**. Score still 74/100 (API-blocked; likely 79+ with live AV data). Do NOT enter at 74 — rule is rule.
+- **STX:** April 30 price $639.74 (+10.49% continuation). Score: 68/100 REJECT. No valid base (post-600% rally, overbought RSI). No entry. Monitor for eventual base formation.
+- **MU:** No new catalyst. Bench. Cup-without-handle forming, no handle yet (~$507 indicative pivot).
+
+### Buy-zone status
+
+| Symbol | Last (est.) | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$209–215 est. pre-mkt | $201.75 | +3.6–6.6% above pivot | 🟡 **WATCHING → potential 🟢 READY at /market-check** — Mag-7 beats remove XLK uncertainty overhang; GDP/PCE post-data clarity at 10 AM; Alpaca still blocked (no execution) |
+| AVGO | ~$412–415 est. pre-mkt | $406.75 | +1.3–2.0% above pivot | 🟡 **WATCHING** — META capex raise = direct revenue catalyst; likely above pivot; BLOCKED by 74/100 score (below 75 threshold) AND Alpaca down; needs fresh re-score + API restore |
+| STX | ~$639.74 | TBD (no base) | n/a | 🔴 **REJECT** — 68/100 below threshold; no base; overbought |
+| MU | est. ~$490–510 | ~$507 (indicative) | below indicative | ⚪ BENCH — no handle formed |
+
+### Circuit breaker check
+
+- Daily P&L: $0 (no positions) — NO trigger (-3% threshold)
+- Weekly P&L: $0 (0 trades this week) — NO trigger (-6% threshold)  
+- Drawdown from HWM: $0 — NO trigger (-12% threshold)
+- PDT rolling 5-session: 0 of 3 — NO trigger
+- **Circuit breakers: NONE ACTIVE**
+- Weekly trade count: 0 of 3 used (week of April 28)
+
+### Entry plan for today (Thursday April 30 /market-check)
+
+1. **NVDA (87/100):** Target entry at /market-check 10AM CT IF: (a) price $201.75–$211.84, (b) volume ≥+40% above ~70M ADV (≥98M pace), (c) GDP/PCE reaction doesn't reverse market tone, (d) **Alpaca API restored** (currently blocked day 17). If Alpaca still blocked → NO trade possible regardless of setup quality.
+2. **AVGO (74/100):** Cannot enter. Score below 75 threshold. Watch for pivot hold above $406.75 at open. If Alpaca + AV APIs restore before /market-check, run full canslim-screener re-score — potential 79+/100 with live A-letter data.
+3. **STX (68/100):** No entry. Below threshold. No base.
+4. **GDP/PCE at 7:30 AM CT:** Let data settle. If GDP massively misses (sub-1%) or PCE significantly hot (>0.30% MoM), reduce entry willingness at /market-check and flag potential tone shift.
+5. **AAPL AH tonight:** Not on watchlist. No action today. Monitor for Friday XLK direction.
+
+### Risks
+
+- **GDP Q1 below 1.2% GDPNow:** Stagflation narrative spike — negative for all risk assets
+- **Core PCE above 0.30% MoM:** Hawkish re-pricing of rate cuts → bond yields rise → growth stocks correct
+- **Alpaca API blocked day 17:** Still the primary execution blocker. All setups valid; zero trades possible.
+- **AAPL earnings AH:** Miss or soft guidance could pressure XLK Friday — affects NVDA/AVGO momentum
+- **META -6-8% AH drag:** Partial XLK headwind offsetting Alphabet/Amazon positivity
+
+---
+
 ## 2026-04-26 — /weekly-prep (full Sunday scan)
 
 **Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 8; Alpha Vantage: key set but API host also blocked; Perplexity: 403 same IP allowlist block; EDGAR: unavailable. All data sourced via native WebSearch + cached context.)

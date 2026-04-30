@@ -89,12 +89,29 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 - **MSFT/META/AMZN/GOOGL earnings AH tonight:** Results critical for Thursday XLK direction. Broadly positive = NVDA/AVGO setups strengthen Thursday.
 - **LRCX:** REMOVED from watchlist. See "Removed this week."
 
-**Thursday April 30 – Friday May 1:**
-- GDP Advance Q1 (April 30) + Core PCE before open — macro risk. Monitor for sentiment shift.
-- AAPL earnings April 30 AH.
-- STX post-earnings (if strong): earliest valid entry Thursday after 10:30 AM ET.
-- Mag-7 reaction to MSFT/META/AMZN/GOOGL: if positive, XLK strengthens, NVDA/AVGO/LRCX setups may improve.
-- No new entries on Friday if macro data forces sentiment shift.
+**Thursday April 30 — /pre-market 6:00 AM CT:**
+- **Mag-7 results confirmed:** ALL BEAT — MSFT (Azure +40%), AMZN (AWS +28%, +4% AH), GOOGL (Cloud +63%). META beat fundamentals but -6-8% AH on capex raise to $125-145B. Net: positive for XLK; positive for chip suppliers (NVDA/AVGO).
+- **ES futures:** ~+0.12% | **NQ futures:** ~+0.21%
+- **Watchlist buy-zone status:**
+  - NVDA: 🟡 WATCHING → 🟢 READY candidate — $209.25 close (above $201.75 pivot); Mag-7 beats remove XLK headwind; BofA Buy/$300 PT overnight; setup 87/100 INTACT. **Alpaca blocked day 17 — no execution.**
+  - AVGO: 🟡 WATCHING — April 29 close $405.54 (below $406.75 pivot); META capex raise = direct AVGO revenue catalyst (MTIA deal through 2029); premarket est ~$412-415 (likely above pivot); score still 74/100 BELOW THRESHOLD. Do NOT enter at 74 — need re-score.
+  - STX: 🔴 REJECT — 68/100; $639.74 (+10.49%), no base, overbought RSI. No entry.
+- **⚠️ GDP Q1 Advance + Core PCE at 7:30 AM CT:** Major macro risk event. Wait for market reaction before /market-check entry decisions.
+- **AAPL earnings AH tonight:** Not on watchlist. XLK uncertainty for Friday.
+- Circuit breakers: NONE. Equity: $2,500. Weekly trades: 0/3 used.
+- `research_source: websearch_fallback` | Alpaca/AV/Perplexity 403 day 17
+
+**Thursday April 30 /market-check plan (10:00 AM CT):**
+- NVDA: Enter if (a) price $201.75–$211.84, (b) volume ≥+40% pacing, (c) Alpaca API restored, (d) GDP/PCE reaction not materially negative
+- AVGO: Monitor pivot $406.75. Cannot enter at 74/100 — need fresh canslim-screener if API restores
+- STX: No entry. Do not chase.
+- If Alpaca still blocked: NO ENTRIES (day 17 — critical infrastructure issue)
+
+**Friday May 1:**
+- Post-AAPL earnings reaction (XLK direction)
+- STX base formation monitoring
+- AVGO re-score if APIs restore
+- No new entries if macro sentiment shifted by GDP miss or AAPL miss
 
 ---
 

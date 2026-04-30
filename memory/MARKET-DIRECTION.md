@@ -8,8 +8,8 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-29 (Wed) — `/eod-review`
-**Confirmed Uptrend days:** 19 (since follow-through day 2026-04-08)
+**Last updated:** 2026-04-30 (Thu) — `/pre-market`
+**Confirmed Uptrend days:** 20 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 2 effective (Apr 23, Apr 28)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
@@ -70,6 +70,17 @@
 - Open positions: 0 | sell-rules-engine skipped (no positions) | P&L: $0 | Equity: $2,500
 - Mag-7 earnings AH tonight: MSFT, META, AMZN, GOOGL (results critical for Thu XLK direction)
 - Market state: Confirmed Uptrend Day 18 intact. 2/25 dist days. No state change.
+
+**Thursday April 30 pre-market (/pre-market check):**
+- ES futures: ~7,176.75 (+0.12%) | NQ futures: ~27,382.25 (+0.21%) | Dow futures: +0.56%
+- **Mag-7 AH earnings results (April 29):** ALL BEAT — MSFT EPS $4.27 (est $4.06) Azure +40%; META Rev $56.31B beat (but down 6-8% AH on capex raise $125-145B); AMZN EPS $2.78 (est $1.64) AWS +28%, stock +4% AH; GOOGL EPS $5.11 (est $2.62) Cloud +63%. Net: 3/4 strongly positive; META AH dip = partial XLK drag.
+- **Hyperscaler AI capex 2026 committed:** MSFT $190B + GOOGL $190B + AMZN ~$200B + META $125-145B = ~$700B+ total. Direct NVDA/AVGO chip demand confirmation.
+- **⚠️ GDP Q1 Advance Estimate + Core PCE:** Release 8:30 AM ET (7:30 AM CT) TODAY. Consensus GDP +1.8%; GDPNow 1.2% = potential miss. Core PCE est 0.24-0.28% MoM. MAJOR MACRO RISK EVENT before open.
+- **AAPL earnings AH tonight.** XLK wildcard for Friday.
+- Market direction: Confirmed Uptrend Day 20 intact. 2/25 dist days. No state change.
+- NVDA April 29 close: $209.25 (above $201.75 pivot, setup 87/100 intact)
+- AVGO April 29 close: $405.54 (0.3% below $406.75 pivot; META capex raise = direct positive for AVGO; likely gaps above pivot today)
+- `research_source: websearch_fallback` | Alpaca blocked day 17
 
 **Wednesday April 29 close (/eod-review confirmed):**
 - S&P 500: 7,135.95 (−0.04% from 7,138.80) | Nasdaq: 24,673.24 (+0.04%) | `research_source: websearch_fallback` (Alpaca blocked day 16)
@@ -181,3 +192,4 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-04-27 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. SPY -0.17% (below 0.2% threshold — not a distribution day). 1 effective dist day unchanged. SPY ~$715 est., well above 50d MA ~$676. Uptrend Day 15 intact. Alpaca API blocked day 10 — no trades possible. |
 | 2026-04-28 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. SPY -0.49% (S&P 500 7,138.80) = dist day #2 confirmed. Count 2/25, well below 5-day Under Pressure threshold. Uptrend Day 17. 0 open positions. No trades possible (Alpaca blocked day 13). |
 | 2026-04-29 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. S&P 500 7,135.95 (−0.04%) = not a dist day. Count 2/25 unchanged. Uptrend Day 19. FOMC held rates (4 dissents). Mag-7 AH earnings critical for Thu direction. 0 open positions. Alpaca blocked day 16. |
+| 2026-04-30 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /pre-market. Mag-7 AH beats: MSFT/AMZN/GOOGL beat strongly; META beat but -6-8% AH on capex raise ($125-145B). ES +0.12%, NQ +0.21%. GDP Q1 advance + Core PCE release 7:30 AM CT (risk event). Uptrend Day 20. 2/25 dist days. Alpaca blocked day 17. 0 open positions. |

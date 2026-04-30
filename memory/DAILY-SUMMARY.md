@@ -1,5 +1,33 @@
 
 ---
+## 2026-04-30 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-04-30 (Thu)
+Market: 🟢 Confirmed Uptrend Day 20 | Futures: ES +0.12% (~7,176.75) NQ +0.21% (~27,382.25) Dow +0.56%
+Open positions: 0 | Circuit breakers: NONE | Weekly trades: 0/3 used
+Overnight gaps: NONE (no open positions)
+
+Mag-7 AH earnings (Apr 29) — ALL BEAT:
+  MSFT: EPS $4.27 (est $4.06 +5%) | Rev $82.89B (est $81.39B) | Azure +40% ✅
+  META: Rev $56.31B beat; EPS $7.31 beat — but DOWN 6-8% AH on capex raise $125-145B ⚠️
+  AMZN: EPS $2.78 (est $1.64 +69%) | AWS +28% | stock +4% AH ✅
+  GOOGL: EPS $5.11 (est $2.62 +95%) | Rev $109.9B (est $92.2B) | Cloud +63% ✅
+Net: 3/4 strongly positive. META capex raise = MORE chip orders (NVDA/AVGO positive).
+
+Watchlist ready: NONE (Alpaca blocked day 17 — no execution possible)
+  🟡 NVDA: $209.25 close (above $201.75 pivot) | Mag-7 beats remove XLK headwind | BofA Buy/$300 PT | Setup 87/100 INTACT
+  🟡 AVGO: ~$412-415 premarket est. (above $406.75 pivot) | META capex raise = direct catalyst | Score 74/100 BELOW THRESHOLD
+  🔴 STX: 68/100 REJECT | $639.74 (+10.49%) | No base | No entry
+
+⚠️ KEY RISK TODAY: GDP Q1 Advance + Core PCE at 7:30 AM CT (8:30 AM ET)
+  GDP consensus: +1.8% | GDPNow: 1.2% — potential miss
+  Core PCE: est 0.24-0.28% MoM | ~3.1% YoY
+  AAPL earnings AH tonight
+
+Plan: /market-check 10 AM CT — NVDA entry if (a) price in zone, (b) volume ≥+40%, (c) Alpaca API restored, (d) GDP/PCE reaction not materially negative. If Alpaca still blocked → NO ENTRIES (day 17 critical).
+research_source: websearch_fallback | Alpaca/AV/Perplexity 403 day 17
+
+---
 ## 2026-04-29 10:00 CT [market-check]
 
 📈 Market-check 2026-04-29 10:00 CT
