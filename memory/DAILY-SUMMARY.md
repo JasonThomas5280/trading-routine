@@ -491,3 +491,27 @@ AVGO: Apr 30 close $412.65 (above pivot). Pre-mkt ~$415 est.
 Watchlist watching: NVDA 🟡 $210 pre-mkt (above $201.75 pivot, score review pending), AVGO 🟡 $415 est. (above pivot, needs 75+ score)
 Key catalyst: Alpaca API blocked DAY 19 — ALL TRADES HALTED. Must resolve.
 Plan: At /market-check 10AM CT — if Alpaca restores: NVDA entry if (a) ≥$201.75, (b) volume ≥+40% 50d avg, (c) API operational. AVGO: needs re-score ≥75 first.
+
+---
+## 2026-05-01 15:29 CT [clickup-placeholder]
+
+📈 Market-check 2026-05-01 10:00 CT
+Market: CONFIRMED UPTREND Day 20 (2/25 dist) | Circuit breakers: NONE
+Abort gate: Alpaca API 403 blocked DAY 20 — no execution possible
+
+Actions taken:
+  No new entries — Abort gate: Alpaca API down (Day 20)
+  No sells — 0 open positions
+
+Watchlist:
+  NVDA: below pivot $199.57 vs $201.75; -4.9% intraday on up-market; RS deteriorating 2nd session; score est. 75-80 (was 87); CAUTION
+  AVGO: ~$402-410 (below $406.75 pivot); 74/100 below threshold; no entry
+  STX: 68/100 reject; no base formed
+  MU bench: handle forming; monitor
+  AMD bench: earnings May 5 blackout
+
+Open positions: 0 | Deployed: 0% | Cash: 100%
+Weekly trade count: 0 of 3 (week closes clean)
+S&P 500: opened 7,161.75 (-0.66% gap from ATH), recovering +0.54% intraday
+CRITICAL: Alpaca API blocked 20 consecutive days
+Next check: /eod-review 3:15 PM CT

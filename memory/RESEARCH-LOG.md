@@ -2046,3 +2046,73 @@ No open positions. SKIPPED.
 6. **Friday note:** Macro data was benign — no "sentiment shift" restriction from watchlist plan. Entries fully permitted today if volume + API conditions met.
 
 
+
+---
+
+## 2026-05-01 (Fri) — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 day 20; Alpha Vantage: blocked; Perplexity: blocked)
+**Market direction:** 🟢 Confirmed Uptrend Day 20 | 2/25 dist days | No state change
+**Circuit breakers:** NONE ACTIVE | Equity: $2,500 est. | 0 positions | 0/3 weekly trades
+
+### Abort gate result
+
+**⛔ ALPACA API BLOCKED DAY 20** → Hard circuit breaker from TRADING-STRATEGY.md: "Alpaca API down → Halt all activity." All order execution impossible. Abort path executed — no trades.
+
+Secondary confirmation: even without Alpaca block, no watchlist names would trigger:
+- NVDA: below pivot ($199.57 vs $201.75) — price gate fails
+- AVGO: below threshold (74/100) and below pivot ($406.75) — dual gate fails
+
+### Watchlist trigger evaluation (informational — no execution possible)
+
+**NVDA — 🔴 PRICE GATE FAILS / CAUTION**
+- Opened: ~$209.93 | Current: ~$199.57 | Range: $198.70–$210.30
+- Volume: 53.3M shares at ~90 min → pace ~231M/day; above 208M req (+40% of ~148.5M 50d avg) → **volume gate PASSES**
+- **Price gate FAILS:** $199.57 < $201.75 pivot (-1.1%)
+- ⚠️ RS DETERIORATION: -4.9% intraday on up-market day. Two consecutive sessions of extreme relative weakness:
+  - Apr 30: NVDA -4.1% vs SPY +1.02% = -5.1% relative
+  - May 1: NVDA -4.9% vs SPY +0.54% = -5.4% relative
+- Distribution volume on both down days → supply overwhelming demand (S-letter deteriorating)
+- Score est. revised: 87 → 75–80 (Google TPU -5pt + Amazon custom silicon -2pt + RS deterioration -3 to -5pt from L-letter)
+- **≥75 threshold at risk. Full re-score required before any entry. Do not enter until score confirmed ≥75 AND pivot reclaimed on volume.**
+
+**AVGO — 🔴 BELOW THRESHOLD + BELOW PIVOT**
+- Current: ~$402–$410 est. (below $406.75 pivot)
+- Score: 74/100 (A-letter API-blocked estimate)
+- Catalyst tailwinds intact: META $300B+ AI chip commitment, GOOGL compute-constrained
+- No entry until: Alpha Vantage restores for re-score, score ≥75 confirmed, pivot reclaimed
+
+**STX — 🔴 68/100 REJECT**
+- Current: ~$643+ | Score 68/100 (A-letter: FY2023 cyclical trough negative EPS)
+- No base formed post-earnings gap. Earliest entry: 4–6 weeks if base develops.
+- Analyst upgrade wave ($700–$1,000 PTs) is awareness-only — cannot override 68/100.
+
+### Bench promotion check
+
+| Symbol | Status | Distance to Pivot | Action |
+|---|---|---|---|
+| MU | ~$517, cup forming (handle not yet confirmed) | N/A (no confirmed pivot) | No change — monitor |
+| AMD | Blackout (earnings May 5) | N/A | No change — re-score after May 5 |
+| STX | 68/100 reject | No valid pivot | No change |
+
+No bench promotions or demotions.
+
+### Open positions / sell-rules-engine
+
+Open positions: 0 → sell-rules-engine SKIPPED (no positions to evaluate).
+
+### Market context
+
+- S&P 500 opened 7,161.75 (-0.66% gap from Apr 30 ATH 7,209.01), intraday recovery +0.54% → est. ~7,200
+- SPY April 30 close: $718.66 est.
+- Distribution day watch: opened below -0.2% threshold but recovering — NOT a distribution day if market holds intraday gains. Confirm at /eod-review.
+- Uptrend Day 20 intact. 2/25 dist days unchanged.
+
+### Summary
+
+No entries. No exits. 0/3 weekly trades used (week closes clean). Alpaca API blocked 20 consecutive trading days — primary operational risk. NVDA RS deterioration is the key setup risk going into next week. Priority for /weekly-prep Sunday:
+1. Resolve or document Alpaca API block (IP allowlist issue)
+2. Re-score NVDA when Alpha Vantage restores — confirm ≥75 or remove from watchlist
+3. Re-score AVGO — expected 75+; becomes primary candidate if threshold met
+4. AMD post-earnings evaluation (May 5 results)
+5. STX base formation monitoring

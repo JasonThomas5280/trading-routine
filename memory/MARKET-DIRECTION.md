@@ -108,6 +108,15 @@
 - **AVGO pre-market:** ~$415 est. (above $412.65 April 30 close; positive XLK). Score 74/100 — needs re-score.
 - Dist count: 2/25 unchanged. Uptrend Day 20 intact. No new entries until Alpaca API restored.
 
+**Friday May 1 /market-check (10:00 AM CT):**
+- S&P 500 opened 7,161.75 (-0.66% gap from Apr 30 ATH 7,209.01); recovering intraday, est. +0.54% from open → ~7,200 area | `research_source: websearch_fallback` | **Alpaca blocked day 20**
+- **⛔ Abort gate: Alpaca API 403 "Host not in allowlist" — Day 20 consecutive. All order execution impossible. No trades.**
+- **NVDA:** Opened ~$209.93, current ~$199.57 (range $198.70–$210.30). **BELOW $201.75 pivot (-$2.18 / -1.1%).** Volume: 53.3M at 90 min → pace ~231M/day (above 208M req threshold — volume gate would pass). **Price gate FAILS.** ⚠️ **RS DETERIORATION: -4.9% intraday on up-market day (+0.54%). Heavy distribution volume on down move. 2nd consecutive session of -4%+ relative weakness vs. market (Apr 30: -4.1% vs +1.02%; May 1: -4.9% vs +0.54%). Score degrading from 87 → est. 75–80; ≥75 threshold at risk. No entry; full re-score needed when APIs restore.**
+- **AVGO:** ~$402–$410 est. (below $406.75 pivot). 74/100 (below threshold). No entry.
+- Open positions: 0 → sell-rules-engine skipped. Weekly trade count: 0/3.
+- Distribution day watch: S&P opened lower but recovering. NOT a distribution day if close holds above open level. Confirm at /eod-review.
+- **Market state: 🟢 Confirmed Uptrend Day 20. 2/25 dist days unchanged. No state change.**
+
 **Tuesday April 28 close (/eod-review confirmed):**
 - S&P 500: 7,138.80 (−0.49% from Monday) | Nasdaq: 24,663.80 (−0.9%) | `research_source: websearch_fallback` (Alpaca blocked day 13)
 - SPY est. ~$711.66 | QQQ est. ~$658.27
@@ -210,3 +219,4 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-04-29 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. S&P 500 7,135.95 (−0.04%) — not a dist day. FOMC held rates (4 dissents; Powell's final meeting). Oil +6% Brent $118. Uptrend Day 19. Alpaca blocked day 16. |
 | 2026-04-30 | CONFIRMED UPTREND → CONFIRMED UPTREND (strengthening) | Mag-7 all beat. GDP Q1 +2.0% (benign). S&P +1.02% to 7,209.01 — NEW ATH; best month since 2020 (S&P +10.4%, Nasdaq +15.3%). NVDA -4.1% (Google TPU news, pivot breached). AVBO +3% (above pivot). 2/25 unchanged. Day 20. Alpaca blocked day 18. |
 | 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /pre-market. AAPL massive beat AH ($111.2B +17%). Jobless claims 189K cycle low. ES +0.19%, NQ near flat. NVDA pre-mkt $210 (pivot recovered). AVGO ~$415 (above pivot). Day 20 intact. Alpaca blocked day 19. |
+| 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check. S&P opened 7,161.75 (-0.66% from ATH), recovered intraday +0.54%. Not a dist day (confirm at EOD). NVDA -4.9% intraday on up-market (below $201.75 pivot; heavy distribution; RS deterioration — 2nd consecutive session of -4%+ relative weakness). AVGO below pivot, 74/100. No trades (Alpaca blocked day 20). Uptrend Day 20 intact. 2/25 dist days. |
