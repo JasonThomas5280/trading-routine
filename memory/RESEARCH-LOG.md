@@ -1923,3 +1923,126 @@ LRCX closed ~$265 est. vs $273.60 pivot — about 3.2% below. The AM promotion w
 | PDT 3 of 3 | rolling 5 sessions | ✅ CLEAR — 0 day trades |
 
 ---
+
+---
+
+## 2026-05-01 (Fri) — /pre-market (Friday open)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day 19; Alpha Vantage: blocked; Perplexity: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 20 | April best month since Nov 2020: S&P +10.4%, Nasdaq +15.3% | 2/25 distribution days (Apr 23 + Apr 28; Apr 29 + Apr 30 were UP days)
+**⚠️ data_confidence: websearch_fallback** — All live APIs unavailable day 17. Prices estimated from web sources.
+**Circuit breakers:** NONE ACTIVE | Equity: $2,500 est. | P&L: $0 | Weekly trades: 0/3
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (day 17) | No live quotes, no order execution |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked | No fundamentals re-score possible |
+| Perplexity | ❌ 403 blocked | WebSearch fallback active |
+| WebSearch | ✅ functional | Research source for today |
+
+### Step 1: Overnight gap check on open positions
+
+**Open positions: 0** — gap check SKIPPED. No positions to evaluate.
+
+### Step 2: Catalyst scan — open positions
+
+No open positions. SKIPPED.
+
+### Step 3: Overnight market check
+
+**April was the BEST MONTH since November 2020:**
+- S&P 500: +10.4% for April. Nasdaq: +15.3% for April. Both closed at new ALL-TIME HIGHS on April 30.
+
+**Macro data released April 30 (all benign):**
+- GDP Q1 Advance: +2.0% (vs est. +2.2% — slight miss, not alarming; solid demand confirmed)
+- Core PCE: +3.2% YoY, +0.3% MoM — in line with estimates; no inflation surprise
+- Jobless claims: 189K (cycle low — very bullish labor market)
+- Employment Cost Index: +0.9% (beat)
+
+**May 1 futures:**
+- ES (S&P 500): +0.19% to ~7,155 | NQ (Nasdaq 100): near flat to +0.61%
+- Market reaction: positive on benign macro + Mag-7 beat wave + AAPL record results
+
+**AAPL Q2 FY2026 (April 30 AH — MASSIVE BEAT):**
+- Revenue: $111.2B (+17% YoY, record; vs $95.4B PY)
+- EPS: $2.01 (vs $1.65 PY)
+- Gross margin: 49.3% (up from 48.2%)
+- Services: $30.9B (up from $26.6B)
+- Greater China: $20.5B (+28% YoY — trade war fears overblown)
+- AH reaction: volatile; settled +1.86%. Pre-market May 1: +3%.
+- Note: Tim Cook stepping down as CEO Sept 1; Jeff Ternus taking over.
+
+**Mag-7 AH April 29 — ALL BEAT, AI capex massively confirmed:**
+- GOOGL: Cloud +63% YoY ($20B; "compute constrained in near term"); AI products +800%; FY26 capex $190B; 2027 capex "significantly increasing"
+- MSFT: EPS $4.27 (beat by $0.21); Azure +39–40% guided; FY26 AI investment $190B; Q4 capex >$40B
+- META: Core ads +33% YoY (fastest growth in years); raised full-year AI capex
+- AMZN: AWS AI Services $15B ARR; custom silicon $20B ARR (+40% QoQ)
+- **Combined signal:** J.P. Morgan: top-4 hyperscalers on track for $200B+ incremental datacenter capex in 2026. GOOGL explicitly noted compute constraints — demand exceeds supply. Massively positive for NVDA, AVGO AI chip thesis.
+
+`research_source: websearch_fallback`
+
+### Step 4: Catalyst scan — watchlist names
+
+**NVDA:**
+- April 30 close: ~$209.25 (range $198.70–$211.10; intraday dip below $201.75 pivot on Amazon custom chip $20B ARR concern; recovered to close above pivot)
+- May 1 pre-market: ~$210 (+$0.75, +0.36% from April 30 close)
+- Key driver down April 30: Amazon custom silicon $20B ARR growing +40% QoQ; Alphabet announced plans to sell custom AI chips to customers (Marvell collab) — competition narrative
+- **Counterweight (dominant):** Hyperscalers collectively spending $200B+ incremental capex 2026; GOOGL explicitly "compute constrained" = demand exceeds GPU supply; all 4 Mag-7 companies raising AI capex
+- Analyst consensus: 55 Buy / 1 Sell. 12-month PT: $268.61 avg (high $380, low $140)
+- **Verdict:** Competition noise; demand surge narrative wins. Setup 87/100 INTACT. No company-specific negative catalyst.
+
+**STX:**
+- April 30 close: ~$643 (+4.52% on April 30 after already being up from earnings gap)
+- Q3 FY2026 beat April 28 AH: EPS $4.10 (+115% YoY); Q4 guide $5.00 EPS (+41% YoY)
+- **Analyst upgrade wave (post-earnings):** Rosenblatt $1,000 PT (from $500); BofA $840 (from $700); Barclays $750 (from $625); Citi $740 (from $595); GS $700 (from $385); UBS $545 Neutral (caution on priced-in premium)
+- Avg analyst PT: $604 (but latest price ~$643 = already trading above avg PT — ultra-bullish move)
+- Score still 68/100 (A-letter: FY2023 cyclical trough negative EPS blocks "3 consecutive years of ≥25%" rule). No base formed post-gap. **Cannot enter at 68/100.**
+- Plan: Re-score when Alpha Vantage restores. Potential 83+/100. Watch for 4–6 week base formation.
+
+**AVGO:**
+- April 30 close: $405.45 (range $404.23–$418.38) — $1.30 below $406.75 pivot
+- Mag-7 AI capex surge = direct positive: GOOGL "compute constrained" (AVGO builds custom ASICs for Google TPU); META raising AI capex (AVGO custom silicon); MSFT $190B AI investment
+- Score: 74/100 (APIs blocked — likely 75+ on re-score with live data)
+- **Cannot enter at 74/100 — hard rule: 75 is the floor, no exceptions**
+- Plan: Re-score immediately when Alpha Vantage API restores. Expected 75+. Watch pivot reclaim.
+
+**MU (bench):**
+- Price: ~$517 (+2.81% in 24h, +61% in past month)
+- Above $507 indicative pivot — but handle not confirmed
+- Score: 78/100. Mag-7 capex confirms HBM demand surge.
+- Plan: Monitor for handle formation. Re-score when handle forms.
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Pivot | Pre-Market Price | Distance | Volume | Status |
+|---|---|---|---|---|---|
+| NVDA | $201.75 | ~$210 | +4.1% above | N/A (Alpaca blocked) | 🟡 WATCHING (3–5% zone) |
+| AVGO | $406.75 | ~$406–408 est. | ~0% (AT pivot) | N/A | 🟡 WATCHING (needs 75+ score) |
+| STX | TBD (no base) | ~$643 | — | N/A | 🔴 BELOW THRESHOLD (68/100) |
+| MU | ~$507 indicative | ~$517 | +1.9% above | N/A | 🟡 WATCHING (bench — no handle) |
+
+### Step 6: Circuit breaker check
+
+| Check | Value | Status |
+|---|---|---|
+| Daily P&L | $0.00 (0 positions) | ✅ PASS |
+| Weekly P&L | $0.00 (0 trades this week) | ✅ PASS |
+| Drawdown from HWM | $0.00 (HWM = $2,500) | ✅ PASS |
+| PDT count | 0 of 3 rolling | ✅ PASS |
+| Equity est. | $2,500 (Alpaca blocked) | ✅ PASS |
+
+**NO CIRCUIT BREAKERS ACTIVE**
+
+### Carry-forward for /market-check (10:00 AM CT)
+
+1. **NVDA primary:** Check (a) price ≥$201.75, (b) volume ≥+40% above 50d avg, (c) Alpaca API operational. If ALL THREE → execute via trade-executor. If Alpaca still 403 → NO TRADES, document, flag.
+2. **AVGO secondary:** Cannot enter until: (a) score officially ≥75 via canslim-screener re-score, (b) Alpaca API operational. Keep watching.
+3. **STX:** Do not enter at 68/100. Re-score pending API restore.
+4. **MU:** Monitor for handle formation.
+5. **⚠️ Alpaca day 19:** Blocked 19 consecutive days. All entries blocked until API access restored.
+6. **Friday note:** Macro data was benign — no "sentiment shift" restriction from watchlist plan. Entries fully permitted today if volume + API conditions met.
+
+

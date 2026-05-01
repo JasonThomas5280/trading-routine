@@ -455,48 +455,39 @@ Pre-market 2026-04-29 | Market: Confirmed Uptrend Day 18 | 2/25 dist days | ES -
 ## 2026-04-29 15:15 CT [eod-review]
 
 📊 EOD 2026-04-29 | Equity $2,500.00 (0.00% day, 0.00% week)
-Open: 0 positions, 100% cash
-Distribution days: 2 of 25 (market: 🟢 Confirmed Uptrend Day 19)
-SPY est. $711.37 (−0.04%) | QQQ est. $658.53 (+0.04%)
-
-Actions today:
-  • NO TRADES — 0 positions; Alpaca blocked day 16; FOMC restriction (no entries before 1 PM)
-  • sell-rules-engine: SKIPPED (no open positions)
-  • Distribution day: NOT triggered (S&P 500 −0.04%, threshold −0.20%)
-
-FOMC: Held 3.5%–3.75%. 4 dissents (most since Oct 1992). Powell final meeting as chair.
-Oil: Brent +6% to $118/bbl. Bonds: 10yr yield 4.42% (month high).
-Market flat/resilient — sellers failed to break on maximum event risk day.
-
-⚠️ Mag-7 AH tonight: MSFT/META/AMZN/GOOGL — results unknown at review time. Critical for Thu open.
-
-Tomorrow watch: Mag-7 results + GDP Q1 advance + Core PCE before open. AAPL earnings AH.
-NVDA $209.25 (above $201.75 pivot, 87/100). AVGO $405.54 (0.3% below $406.75 pivot, 74/100).
-⚠️ CRITICAL: Alpaca API blocked day 16 — all trading halted. Must resolve.
+Open: 0 positions, 100% cash | Distribution days: 2 of 25 | 🟢 Uptrend Day 19
+SPY est. $711.37 (−0.04%) | QQQ est. $658.53 (+0.04%) — NOT a dist day (< 0.20% threshold)
+FOMC: Held 3.5%–3.75%. 4 dissents (most since Oct 1992). Powell final meeting. Oil +6% Brent $118.
+NVDA $209.25 (above pivot). AVGO $405.54 (0.3% below pivot). Mag-7 AH pending.
+⚠️ Alpaca API blocked day 16 — all trading halted.
 
 ---
+
 ## 2026-04-30 15:15 CT [eod-review]
 
 📊 EOD 2026-04-30 | Equity ~$2,500.00 (0.00% day, 0.00% week)
-Open: 0 positions, 100% cash
-Distribution days: 2 of 25 (market: 🟢 Confirmed Uptrend Day 20)
+Open: 0 positions, 100% cash | Distribution days: 2 of 25 | 🟢 Uptrend Day 20
+🏆 APRIL MONTHLY CLOSE — Best month since 2020: S&P +10.4%, Nasdaq +15.3%, Dow +7.1%
+S&P 500 closed at NEW ATH 7,209.01 (+1.02%). NOT a distribution day.
+⚠️ NVDA: $200.37 — PIVOT BREACHED ($201.75). Google TPU direct-sales news, -4.1% on up-market day.
+🟡 AVGO: ~$412.65 — ABOVE pivot ($406.75, +3%). META $300B+ AI chip commitment confirmed.
+AAPL earnings AH — evaluate tomorrow pre-market.
+⚠️ Alpaca API blocked DAY 18 — All trade execution impossible. CRITICAL.
 
-🏆 APRIL MONTHLY CLOSE — Best month since 2020
-  • S&P 500 +10.4% | Nasdaq +15.3% | Dow +7.1% for April
-  • S&P 500 closed at NEW ATH 7,209.01 (+1.02% today) — first close above 7,200
-  • Nasdaq 24,892.31 (+0.89%). Not a distribution day.
+---
 
-Actions today:
-  • SELL: none — no open positions
-  • TIGHTEN: none — no positions
-  • sell-rules-engine: SKIPPED (no positions)
+## 2026-05-01 06:00 CT [pre-market]
 
-Watchlist updates:
-  ⚠️ NVDA: $200.37 — PIVOT BREACHED ($201.75). Google TPU direct-sales news, -4.1% on up-market day. DO NOT ENTER. Need pivot reclaim + volume.
-  🟡 AVGO: ~$412.65 — ABOVE pivot ($406.75). META earnings confirmed $300B+ AI chip commitment (AVGO supplier). Re-score priority = 74→76+ when APIs restore.
-  📣 AAPL: Earnings AH tonight — evaluate tomorrow pre-market.
-
-Circuit breakers: NONE
-⚠️ Alpaca API blocked DAY 18 — All trade execution impossible. CRITICAL: Must resolve.
-
-Tomorrow: AAPL earnings reaction + NVDA/AVGO pivot watch. 0/3 weekly trades used.
+🌅 Pre-market 2026-05-01
+Market: 🟢 Confirmed Uptrend Day 20 | Futures: ES +0.19% NQ near flat
+April best month since 2020: S&P +10.4%, Nasdaq +15.3% (ATH)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (no open positions)
+Macro (Apr 30): GDP Q1 +2.0% (benign), Core PCE +0.3% (in-line), jobless 189K (cycle low)
+Mag-7 AH Apr 29: ALL BEAT. AI capex $200B+ confirmed. GOOGL/MSFT/META/AMZN all raising AI spend.
+AAPL AH Apr 30: BEAT — $111.2B rev +17% YoY (record). Pre-mkt +3%.
+NVDA: Apr 30 close $200.37 (PIVOT BREACHED). Pre-mkt $210 (back above pivot — bounce).
+AVGO: Apr 30 close $412.65 (above pivot). Pre-mkt ~$415 est.
+Watchlist watching: NVDA 🟡 $210 pre-mkt (above $201.75 pivot, score review pending), AVGO 🟡 $415 est. (above pivot, needs 75+ score)
+Key catalyst: Alpaca API blocked DAY 19 — ALL TRADES HALTED. Must resolve.
+Plan: At /market-check 10AM CT — if Alpaca restores: NVDA entry if (a) ≥$201.75, (b) volume ≥+40% 50d avg, (c) API operational. AVGO: needs re-score ≥75 first.

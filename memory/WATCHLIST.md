@@ -35,16 +35,16 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 
 | Rank | Symbol | Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 1 | NVDA | **⚠️ 87/100 DEGRADED** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🔴 **PIVOT BREACHED — DO NOT ENTER.** Thu Apr 30 close: $200.37 (range $198.70–$211.10) = **$1.38 BELOW $201.75 pivot (-0.7%).** Driver: Google announced direct TPU chip sales to select customers — AI chip competition escalation. NVDA -4.1% on an up-market day (+1.02% S&P). RS deterioration in one session. Fundamental risk: if hyperscalers shift spend to custom/Google TPUs, reduces TAM for NVDA. Score may drop from 87 toward 80 once APIs available for re-score. **No entry until price RECLAIMS $201.75 on volume ≥+40% vs 50d avg.** Monitor pre-market Friday/next week. Earnings ~May 20 still clear. Alpaca blocked day 16. |
-| 2 | STX | **68/100 ⚠️ BELOW THRESHOLD** | XLK/Storage | Post-earnings gap (not yet a base) | TBD after price settles | entry × 0.93 | ~Jul 2026 ✅ | 🟢 **ELEVATED — NEEDS RE-SCORE.** Q3 FY2026 MASSIVE BEAT: EPS $4.10 vs $3.47 est (+18.2%); rev $3.11B vs $2.94B est (+5.8%); +115% EPS YoY; gross margin 47%; free cash flow ~$1B. Q4 guided: EPS $5.00 ±$0.20, rev $3.45B ±$100M (+41% YoY midpoint). Annual growth target raised to 20%+. Pre-mkt +18% (~$570–$595). **canslim-screener run → 68/100 REJECT** (A-letter: FY2023 cyclical trough negative EPS; base: unconfirmed post-600% rally; all APIs blocked). **DO NOT ENTER at 68/100.** Re-score when APIs restored — potential 83/100 if base confirms. Earliest entry: Friday May 1 (FOMC clears Wed, post-gap settles Thu). |
-| 3 | AVGO | **74/100 → watch for re-score** | XLK/Semis | Flat base Stage 2 | $406.75 | entry × 0.93 | Jun 3, 2026 ✅ | 🟡 **ABOVE PIVOT — NEEDS RE-SCORE.** Thu Apr 30 close: ~$412.65 (range $396.78–$414.81). **ABOVE $406.75 pivot ✅ (+1.5%).** META earnings beat confirmed Meta MTIA partnership ($300B+ AI chip commitment). Google/Anthropic custom chip deals also confirmed. AVGO +~3% on an up-market day = outperforming. Conviction still 74/100 (1pt below 75 threshold — A-letter API blocked). Cannot officially enter at 74. **ACTION: Re-score via canslim-screener when Alpha Vantage API restored — expected 76–80/100 given partnership confirmations. If ≥75 confirmed, AVGO becomes primary buy candidate.** Watch $406.75 pivot as support. Alpaca blocked day 16. |
+| 1 | NVDA | **⚠️ 87/100 DEGRADED** | XLK/Semis | Flat base Stage 1 (V-recovery breakout Apr 24) | **$201.75** | $193.69 (-7%) | ~May 20, 2026 ✅ | 🟡 **WATCHING — PRE-MARKET RECOVERY.** Apr 30 close: $200.37 (BELOW $201.75 pivot; Google TPU direct-sales news -4.1% on up-market day). **May 1 pre-mkt: ~$210 (+4.8% bounce — back above pivot).** Score may degrade from 87 toward 80 (Google TPU = new L-letter threat). Full re-score needed when APIs restore. **Entry gated on:** (1) price ≥$201.75 at 10 AM CT, (2) volume ≥+40% above 50d avg, (3) Alpaca API restored, (4) confirm score ≥75 still valid. Mag-7 AI capex $200B+ surge is structural positive. Alpaca blocked day 19. |
+| 2 | STX | **68/100 ⚠️ BELOW THRESHOLD** | XLK/Storage | Post-earnings gap (not yet a base) | TBD after base forms | entry × 0.93 | ~Jul 2026 ✅ | 🔴 **BELOW THRESHOLD — NO ENTRY UNTIL RE-SCORE.** Apr 28 earnings: EPS $4.10 +115% YoY; Q4 guide EPS $5.00 (+41% YoY). **Massive analyst upgrade wave:** Rosenblatt $1,000 PT (from $500), BofA $840, Barclays $750, Citi $740, GS $700, UBS $545 (Neutral). Apr 30 close: ~$643. Still 68/100 (A-letter: FY2023 cyclical negative EPS). No base formed. **Cannot enter at 68/100.** Re-score when Alpha Vantage API restores. Potential 83+/100. Watch for base formation. |
+| 3 | AVGO | **74/100 → needs re-score** | XLK/Semis | Flat base Stage 2 | $406.75 | entry × 0.93 | Jun 3, 2026 ✅ | 🟡 **ABOVE PIVOT — NEEDS RE-SCORE.** Apr 30 close: ~$412.65 (+3%, above $406.75 pivot). May 1 pre-mkt: ~$415 est. **META $300B+ AI chip commitment (AVGO supplier) confirmed. GOOGL Cloud compute-constrained.** Score 74/100 (A-letter API blocked — 1pt below threshold). **Cannot enter at 74. Re-score immediately when Alpha Vantage restores — expected 76–80/100.** If ≥75 confirmed, AVGO becomes primary buy candidate above NVDA (no Google TPU competition risk). Alpaca blocked day 19. |
 | 4 | LRCX | **REMOVED — see below** | XLK/Semi Equip | Below pivot + China risk | — | — | May 2026 (TBD) | 🔴 **REMOVED 2026-04-29.** Price corrected: prior $272.11 estimate was wrong (Alpaca blocked day 14; WebSearch data error). Actual close ~$251.24 (range $243.04–$255.30) = -8.2% below $273.60 pivot. NEW RISK: US export curbs to China — MATCH Act advancing in Congress; Lam halted Hua Hong shipments; China rev projected to fall from 43% → <30% of total in 2026. Insider sold 6,010 shares ($1.55M) April 28. LRCX beat Q3 earnings (June guidance +10% rev / +15% EPS vs consensus) but structural China risk dominates. Remove until: (1) pivot reclaimed, AND (2) MATCH Act outcome known, AND (3) fresh canslim-screener run. |
 
 ### Bench (5–8 — setup forming, not yet at pivot)
 
 | Rank | Symbol | Conviction | Notes |
 |---|---|---|---|
-| 5 | MU | **78/100** | XLK/Memory. Cup-without-handle (10wk, 18% depth). **NO ENTRY** — handle not formed. Indicative pivot ~$507 if handle forms (buy zone $507–$532). Earnings Jul 1 (44 days, clear). Q2 FY26 EPS >500% YoY. HBM4 sold out through 2026. RS ≥95 est. Re-score when handle forms — expected 88/100 HIGH CONVICTION. Monitor tightly. |
+| 5 | MU | **78/100** | XLK/Memory. Cup pattern. **NO ENTRY** — handle not confirmed. Current price ~$517 (May 1, +2.81% in 24h, +61% past month). Indicative pivot ~$507 now breached — but handle needed to reduce shakeout risk. Earnings Jul 1 (61 days clear). Q2 FY26 EPS >500% YoY. HBM4 sold out through 2026. RS ≥95 est. Mag-7 AI capex surge ($200B+ incremental 2026) = direct demand tailwind for memory. Re-score when handle forms — expected 88/100+ HIGH CONVICTION. Monitor daily for handle formation. |
 | 6 | LRCX | **REMOVED to "Removed this week"** | XLK/Semi Equip. **Removed 2026-04-29 /pre-market.** Price corrected to $251.24 (prior $272.11 was websearch estimation error; Alpaca blocked day 14). China export curbs risk (MATCH Act) = material thesis risk. -8.2% below $273.60 pivot. Insider sell $1.55M. |
 | 7 | AMD | **UNSCORED — blackout** | XLK/Semis. Earnings May 5 (blackout starts Mon Apr 28). +13.9% on Apr 24. Strong AI GPU competitive position. Projected EPS +33% YoY for Q1. **Re-score immediately after May 5 earnings if beats.** Potential high-conviction candidate for week of May 5+. |
 | 8 | STX (post-earnings) | **TBD** | XLK/Storage. Conditional on April 28 earnings beat. If strong: run full canslim-screener Tue Apr 29 at /pre-market. EPS +81.1% YoY expected. AI cloud storage demand "sold out." Do NOT score pre-earnings — wait for reaction. |
@@ -91,27 +91,24 @@ AMD (May 5), PLTR (May 4), STX (Apr 28), META/MSFT/AMZN/GOOGL (Apr 29), AAPL (Ap
 
 **Thursday April 30 — /pre-market 6:00 AM CT:**
 - **Mag-7 results confirmed:** ALL BEAT — MSFT (Azure +40%), AMZN (AWS +28%, +4% AH), GOOGL (Cloud +63%). META beat fundamentals but -6-8% AH on capex raise to $125-145B. Net: positive for XLK; positive for chip suppliers (NVDA/AVGO).
-- **ES futures:** ~+0.12% | **NQ futures:** ~+0.21%
-- **Watchlist buy-zone status:**
-  - NVDA: 🟡 WATCHING → 🟢 READY candidate — $209.25 close (above $201.75 pivot); Mag-7 beats remove XLK headwind; BofA Buy/$300 PT overnight; setup 87/100 INTACT. **Alpaca blocked day 17 — no execution.**
-  - AVGO: 🟡 WATCHING — April 29 close $405.54 (below $406.75 pivot); META capex raise = direct AVGO revenue catalyst (MTIA deal through 2029); premarket est ~$412-415 (likely above pivot); score still 74/100 BELOW THRESHOLD. Do NOT enter at 74 — need re-score.
-  - STX: 🔴 REJECT — 68/100; $639.74 (+10.49%), no base, overbought RSI. No entry.
-- **⚠️ GDP Q1 Advance + Core PCE at 7:30 AM CT:** Major macro risk event. Wait for market reaction before /market-check entry decisions.
-- **AAPL earnings AH tonight:** Not on watchlist. XLK uncertainty for Friday.
-- Circuit breakers: NONE. Equity: $2,500. Weekly trades: 0/3 used.
-- `research_source: websearch_fallback` | Alpaca/AV/Perplexity 403 day 17
+- ES futures: ~+0.12% | NQ futures: ~+0.21% | Alpaca blocked day 17
+- NVDA $209.25 (above pivot); AVGO $405.54 (below pivot); STX $639.74 (+10.49%, 68/100 reject)
+- GDP Q1 + Core PCE releasing 7:30 AM CT — major macro event
+- AAPL earnings AH tonight
 
-**Thursday April 30 /market-check plan (10:00 AM CT):**
-- NVDA: Enter if (a) price $201.75–$211.84, (b) volume ≥+40% pacing, (c) Alpaca API restored, (d) GDP/PCE reaction not materially negative
-- AVGO: Monitor pivot $406.75. Cannot enter at 74/100 — need fresh canslim-screener if API restores
-- STX: No entry. Do not chase.
-- If Alpaca still blocked: NO ENTRIES (day 17 — critical infrastructure issue)
+**Thursday April 30 — COMPLETED:**
+- GDP Q1 +2.0% (benign miss); Core PCE +0.3% (in-line); jobless claims 189K (cycle low). Market shrugged off.
+- NVDA: fell -4.1% to $200.37 on Google TPU direct-sales news. Pivot BREACHED.
+- AVGO: +3% to $412.65 — ABOVE $406.75 pivot on META AI chip commitment confirmation.
+- AAPL Q2 FY2026 AH: $111.2B revenue +17% YoY (record), EPS $2.01. Pre-market May 1: +3%.
+- S&P 500 +1.02% to NEW ATH 7,209.01. Best April since 2020: S&P +10.4%, Nasdaq +15.3%.
 
-**Friday May 1:**
-- Post-AAPL earnings reaction (XLK direction)
-- STX base formation monitoring
-- AVGO re-score if APIs restore
-- No new entries if macro sentiment shifted by GDP miss or AAPL miss
+**Friday May 1 — ACTIVE TODAY:**
+- AAPL +3% pre-market: positive XLK sentiment. No macro restrictions.
+- NVDA pre-market ~$210 (🟡 WATCHING — bounced back above $201.75 pivot). Google TPU risk note; score review pending. Entry possible at /market-check IF: (a) ≥$201.75, (b) volume ≥+40% 50d avg, (c) Alpaca API restored.
+- AVGO pre-market ~$415 est. (🟡 WATCHING — above $406.75 pivot). Score 74/100 — cannot enter. Re-score when Alpha Vantage restores. If ≥75: primary candidate.
+- STX ~$643: 🔴 68/100 reject. Analyst wave ($1,000 Rosenblatt PT, BofA $840, etc.). No entry.
+- ⚠️ Alpaca API blocked day 19 — ALL ORDER EXECUTION IMPOSSIBLE until resolved.
 
 ---
 

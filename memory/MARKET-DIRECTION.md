@@ -8,9 +8,9 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-04-30 (Thu) — `/eod-review`
+**Last updated:** 2026-05-01 (Fri) — `/pre-market`
 **Confirmed Uptrend days:** 20 (since follow-through day 2026-04-08)
-**Distribution days (last 25 sessions):** 2 effective (Apr 23, Apr 28)
+**Distribution days (last 25 sessions):** 2 effective (Apr 23, Apr 28) — April 29 and 30 were both UP days, count unchanged
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **SPY close 2026-04-30 (Thu):** ~$718.65 est. (S&P 500: 7,209.01, +1.02%; NEW ALL-TIME HIGH — first close above 7,200; `research_source: websearch_fallback`)
@@ -73,44 +73,40 @@
 - Mag-7 earnings AH tonight: MSFT, META, AMZN, GOOGL (results critical for Thu XLK direction)
 - Market state: Confirmed Uptrend Day 18 intact. 2/25 dist days. No state change.
 
-**Thursday April 30 close (/eod-review):**
-- S&P 500: 7,209.01 (+1.02%) | Nasdaq: 24,892.31 (+0.89%) | Dow: +1.62% (+790 pts to 49,652.14)
-- SPY est. ~$718.65 | QQQ ~$664.48 (range $657.56–$666.71)
-- **NOT a distribution day** — UP +1.02%
-- **NEW ALL-TIME HIGH:** First S&P close above 7,200; best month since 2020 (S&P +10.4%, Nasdaq +15.3%, Dow +7.1% for April)
-- Driver: Mag-7 earnings strong — Google/Alphabet led (rose most since Apr 2025); META, MSFT, AMZN beats. GDP Q1 +2.0% (missed 2.3% est.); Core PCE +3.2% YoY — market shrugged off macro headwinds.
-- **NVDA: -4.1% to $200.37** — BELOW $201.75 pivot. Google announced direct TPU chip sales to select customers (AI chip competition escalation). AMD/AVGO outperformed.
-- **AVGO: ~$412.65 (+~3%)** — above $406.75 pivot; META AI chip partnership confirmed. AAPL earnings AH tonight.
-- Dist day count: 2/25 unchanged. Uptrend Day 20. `research_source: websearch_fallback` | Alpaca blocked day 18
-
-**Thursday April 30 /market-check (10:00 AM CT):**
-- SPY ~+0.46% (+32pts) | Nasdaq ~+0.65% | Dow ~+0.65% | `research_source: websearch_fallback` | Alpaca blocked day 18
-- **GDP Q1 +2.0%** (cons. +2.2%; GDPNow feared 1.2%) — mild miss vs consensus, big beat vs worst case. Market shrugging off.
-- **Core PCE +0.3% MoM / +3.2% YoY** — in line with estimates. Elevated but expected. No surprise.
-- **Oil:** Brent briefly spiked to $126 wartime high (Iran/Hormuz), then reversed to ~$114.22 (-3.2% from $118). WTI ~$105.44. Inflationary risk elevated but not escalating today.
-- **Market state:** Confirmed Uptrend Day 20. SPY up on Mag-7 beats. GDP not a disaster. 2/25 dist days — NOT adding today (market up).
-- NVDA: $209.35 (range $207.58–$212.72) — ✅ in buy zone $201.75–$211.84; 87/100 INTACT. Setup ready; Alpaca blocked = no execution.
-- AVBO: ~$405.45 — below $406.75 pivot; 74/100 below threshold.
-- No trades executed. 0 open positions.
+**Wednesday April 29 close (/eod-review confirmed):**
+- S&P 500: 7,135.95 (−0.04%) | Nasdaq: 24,673.24 (+0.04%) | `research_source: websearch_fallback` (Alpaca blocked day 16)
+- Distribution day: NOT confirmed (−0.04% < −0.20% threshold). Dist count: **2/25**.
+- FOMC: Held 3.5%–3.75%. 4 dissents (most since Oct 1992). Powell final meeting as chair. Oil +6% to Brent $118.
+- NVDA close: $209.25 (above $201.75 pivot) | AVGO close: $405.54 (0.3% below $406.75 pivot)
+- Market state: 🟢 Confirmed Uptrend Day 19. 0 positions.
 
 **Thursday April 30 pre-market (/pre-market check):**
-- ES futures: ~7,176.75 (+0.12%) | NQ futures: ~27,382.25 (+0.21%) | Dow futures: +0.56%
-- **Mag-7 AH earnings results (April 29):** ALL BEAT — MSFT EPS $4.27 (est $4.06) Azure +40%; META Rev $56.31B beat (but down 6-8% AH on capex raise $125-145B); AMZN EPS $2.78 (est $1.64) AWS +28%, stock +4% AH; GOOGL EPS $5.11 (est $2.62) Cloud +63%. Net: 3/4 strongly positive; META AH dip = partial XLK drag.
-- **Hyperscaler AI capex 2026 committed:** MSFT $190B + GOOGL $190B + AMZN ~$200B + META $125-145B = ~$700B+ total. Direct NVDA/AVGO chip demand confirmation.
-- **⚠️ GDP Q1 Advance Estimate + Core PCE:** Release 8:30 AM ET (7:30 AM CT) TODAY. Consensus GDP +1.8%; GDPNow 1.2% = potential miss. Core PCE est 0.24-0.28% MoM. MAJOR MACRO RISK EVENT before open.
-- **AAPL earnings AH tonight.** XLK wildcard for Friday.
-- Market direction: Confirmed Uptrend Day 20 intact. 2/25 dist days. No state change.
-- NVDA April 29 close: $209.25 (above $201.75 pivot, setup 87/100 intact)
-- AVGO April 29 close: $405.54 (0.3% below $406.75 pivot; META capex raise = direct positive for AVGO; likely gaps above pivot today)
-- `research_source: websearch_fallback` | Alpaca blocked day 17
+- ES futures: ~7,176.75 (+0.12%) | NQ futures: ~27,382.25 (+0.21%) | Alpaca blocked day 17
+- Mag-7 AH April 29: ALL BEAT — MSFT $4.27 EPS (Azure +40%); AMZN AWS +28%, +4% AH; GOOGL Cloud +63%; META beat (capex raised $125-145B). Net: very positive for XLK.
+- Hyperscaler AI capex 2026: MSFT $190B + GOOGL $190B + AMZN ~$200B + META $125-145B = ~$700B+ total.
+- GDP Q1 + Core PCE release today before open. AAPL earnings AH tonight.
 
-**Wednesday April 29 close (/eod-review confirmed):**
-- S&P 500: 7,135.95 (−0.04% from 7,138.80) | Nasdaq: 24,673.24 (+0.04%) | `research_source: websearch_fallback` (Alpaca blocked day 16)
-- SPY est. ~$711.37 | QQQ est. ~$658.53
-- Distribution day: **NOT confirmed** — S&P 500 −0.04% < −0.20% threshold; Nasdaq slightly UP. Dist day count unchanged: **2/25**
-- **FOMC Decision:** Held rates at 3.5%–3.75% (100% expected). Contentious: 4 dissents (first since Oct 1992). Powell confirmed this was his final meeting as chair. Bond yields rose (10yr 4.42%, highest in a month). Oil surged +6% (Brent $118.03/bbl — second-highest during Iran war).
-- NVDA close: $209.25 (−1.79%; above $201.75 pivot) | AVGO close: $405.54 (0.3% BELOW $406.75 pivot)
-- Open positions: 0 | P&L: $0 (0%) | Equity: $2,500 | Market state: 🟢 Confirmed Uptrend Day 19.
+**Thursday April 30 /market-check (10:00 AM CT):**
+- SPY ~+0.46% | Nasdaq ~+0.65% | Alpaca blocked day 18
+- GDP Q1 +2.0% (mild miss vs +2.2%, big beat vs GDPNow 1.2%). Core PCE +0.3% MoM / +3.2% YoY — in line.
+- Oil: Brent spiked to $126 (Iran/Hormuz), reversed to ~$114. Inflationary risk present but not escalating.
+- NVDA: $209.35 (range $207.58–$212.72, in buy zone). Setup intact; Alpaca blocked = no execution.
+- AVGO: ~$405.45 (below $406.75 pivot; 74/100 below threshold).
+
+**Thursday April 30 close (/eod-review):**
+- S&P 500: 7,209.01 (+1.02%) | Nasdaq: 24,892.31 (+0.89%) | Dow +1.62% | NOT a distribution day
+- **NEW ALL-TIME HIGH** — first S&P close above 7,200. Best month since 2020: S&P +10.4%, Nasdaq +15.3%.
+- **NVDA: -4.1% to $200.37** — BELOW $201.75 pivot. Google announced direct TPU chip sales to select customers. RS deterioration on an up-market day.
+- **AVGO: ~$412.65 (+~3%)** — ABOVE $406.75 pivot. META $300B+ AI chip commitment confirmed.
+- Dist day count: 2/25 unchanged. Uptrend Day 20. Alpaca blocked day 18.
+
+**Friday May 1 pre-market (/pre-market check):**
+- ES futures: +0.19% (~7,155) | NQ futures: near flat | `research_source: websearch_fallback` | Alpaca blocked day 19
+- **AAPL Q2 FY2026 AH (April 30 — MASSIVE BEAT):** $111.2B revenue +17% YoY (record), EPS $2.01; AH +1.86%; pre-market +3%. China +28%.
+- Jobless claims April 30: 189K (cycle low — bullish).
+- **NVDA pre-market:** ~$210 (+4.8% bounce from $200.37 close). Back ABOVE $201.75 pivot. Google TPU competition risk noted; score may degrade on re-score. Watch /market-check.
+- **AVGO pre-market:** ~$415 est. (above $412.65 April 30 close; positive XLK). Score 74/100 — needs re-score.
+- Dist count: 2/25 unchanged. Uptrend Day 20 intact. No new entries until Alpaca API restored.
 
 **Tuesday April 28 close (/eod-review confirmed):**
 - S&P 500: 7,138.80 (−0.49% from Monday) | Nasdaq: 24,663.80 (−0.9%) | `research_source: websearch_fallback` (Alpaca blocked day 13)
@@ -211,5 +207,6 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-04-26 | CONFIRMED UPTREND → CONFIRMED UPTREND (strengthened) | /weekly-prep Sunday update. S&P 500 + Nasdaq at ALL-TIME HIGHS as of April 24. SPY $713.94, +5.6% above 50d MA. 1 distribution day (April 23, software selloff — now fully reversed). No state change; uptrend strengthening. |
 | 2026-04-27 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. SPY -0.17% (below 0.2% threshold — not a distribution day). 1 effective dist day unchanged. SPY ~$715 est., well above 50d MA ~$676. Uptrend Day 15 intact. Alpaca API blocked day 10 — no trades possible. |
 | 2026-04-28 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. SPY -0.49% (S&P 500 7,138.80) = dist day #2 confirmed. Count 2/25, well below 5-day Under Pressure threshold. Uptrend Day 17. 0 open positions. No trades possible (Alpaca blocked day 13). |
-| 2026-04-29 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. S&P 500 7,135.95 (−0.04%) = not a dist day. Count 2/25 unchanged. FOMC held rates (4 dissents — most contentious since Oct 1992; Powell's final meeting as chair). Oil +6% to Brent $118. Mag-7 AH earnings awaited. Uptrend Day 19. Alpaca blocked day 16. |
-| 2026-04-30 | CONFIRMED UPTREND → CONFIRMED UPTREND (strengthening) | /pre-market + /eod-review. Mag-7 beats: GOOGL Cloud +63%; MSFT Azure +40%; AMZN AWS +28%; META beat (capex raised to $125-145B). GDP Q1 +2.0% (mild miss). Core PCE +3.2% (in-line). EOD: S&P 500 +1.02% to 7,209.01 — NEW ATH, first close above 7,200. Nasdaq +0.89%. Best month since 2020: S&P +10.4%, Nasdaq +15.3%. NVDA -4.1% on Google TPU competition news (pivot breached). AVGO +3% (above pivot). 2/25 dist days unchanged. Uptrend Day 20. AAPL earnings AH. Alpaca blocked day 18. |
+| 2026-04-29 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. S&P 500 7,135.95 (−0.04%) — not a dist day. FOMC held rates (4 dissents; Powell's final meeting). Oil +6% Brent $118. Uptrend Day 19. Alpaca blocked day 16. |
+| 2026-04-30 | CONFIRMED UPTREND → CONFIRMED UPTREND (strengthening) | Mag-7 all beat. GDP Q1 +2.0% (benign). S&P +1.02% to 7,209.01 — NEW ATH; best month since 2020 (S&P +10.4%, Nasdaq +15.3%). NVDA -4.1% (Google TPU news, pivot breached). AVBO +3% (above pivot). 2/25 unchanged. Day 20. Alpaca blocked day 18. |
+| 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /pre-market. AAPL massive beat AH ($111.2B +17%). Jobless claims 189K cycle low. ES +0.19%, NQ near flat. NVDA pre-mkt $210 (pivot recovered). AVGO ~$415 (above pivot). Day 20 intact. Alpaca blocked day 19. |
