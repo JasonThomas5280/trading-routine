@@ -2116,3 +2116,63 @@ No entries. No exits. 0/3 weekly trades used (week closes clean). Alpaca API blo
 3. Re-score AVGO — expected 75+; becomes primary candidate if threshold met
 4. AMD post-earnings evaluation (May 5 results)
 5. STX base formation monitoring
+
+---
+
+## 2026-05-01 — /eod-review
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 blocked — day 21; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 21 — no state change
+
+**Close:** SPY ~$723.30 est. (+0.29% / S&P 500: 7,230.12, NEW ATH) | QQQ $674.78 (+1.05%) | Dow: 49,499.27 (-0.31%)
+**Distribution days:** 2 of 25 trailing sessions — today: NOT a dist day (UP day). Count: **2/25 unchanged.**
+**Market state:** 🟢 Confirmed Uptrend Day 21 (no change, no transition)
+**Positions held:** 0
+**sell-rules-engine:** SKIPPED — 0 open positions
+**Actions today:** NONE
+
+### Watchlist EOD verdicts
+
+| Symbol | Close | Change | vs Market | Status | Action |
+|---|---|---|---|---|---|
+| NVDA | ~$199.57 est. | est. -4.63% | Market +0.29% → divergence -4.92% | 🔴 BELOW $201.75 pivot (2nd consecutive close below) | Re-score Monday /pre-market. Score 87→est.75-80; ≥75 at risk |
+| AVGO | $405.45 | +1.41% | Outperformed | 🟡 BELOW $406.75 pivot (-$1.30) | 74/100 below threshold; re-score when AV API restores |
+| STX | ~$643 est. | — | — | 🔴 68/100 below threshold; no base | Watch-only |
+| MU | ~$517 est. | — | — | 🟡 Bench; handle not formed | Re-score May 12-19 |
+| AMD | — | — | — | ⛔ Earnings May 5 blackout | Re-score after results |
+
+**NVDA alert — 3 consecutive sessions of RS deterioration:**
+- Apr 29 close: $209.25 (stable, above pivot)
+- Apr 30 close: $200.37 (-4.1% on S&P +1.02% day; Google TPU news; pivot breached)
+- May 1 close: ~$199.57 est. (-4.63% vs prior $209.25; S&P +0.29% day; 2nd below pivot)
+- Pattern: heavy distribution volume on down-moves vs market at ATH = possible institutional distribution. L-letter RS rank likely fallen from ≥90 → est. 75-80. If RS < 80, L-score drops from 10pts → 5pts; if <80 sustained, score 82→77. If <75, score falls below threshold → remove from primary list. **Monday re-score is critical gate.**
+
+### Circuit breaker check
+
+| Breaker | Trigger | Status |
+|---|---|---|
+| -3% single day | Account down -3% | ✅ CLEAR — $0 P&L (0 positions) |
+| -6% weekly | Account down -6% week | ✅ CLEAR — $0 P&L (0 positions) |
+| -12% drawdown | -12% from HWM | ✅ CLEAR — $0 drawdown |
+| PDT count | 3 of 3 rolling 5 days | ✅ CLEAR — 0/3 |
+| Alpaca API down | Halt all activity | ⚠️ ACTIVE — Day 21 (403 Host not in allowlist). No trades possible. |
+
+### P&L summary
+
+- **Today:** $0.00 (0.00%) — 100% cash
+- **Week (Apr 28–May 1):** $0.00 (0.00%) — 0/3 trades executed (Alpaca blocked all 5 sessions)
+- **Equity:** ~$2,500.00 est. (Alpaca API blocked — unconfirmed; no positions)
+- **Weekly trade count:** 0/3 used — week CLOSED
+
+### Week wrap
+
+April performance: S&P 500 +10.4% (best month since 2020), Nasdaq +15.3%. Market at ATH. Uptrend Day 21 strong. 2/25 distribution days (well below 5-day "Under Pressure" threshold). Market structure is excellent. **Single operational blocker: Alpaca API locked out for 21 consecutive trading days.** Zero trades executed this week despite a confirmed uptrend at all-time highs and one compelling setup (NVDA at 87/100 early in the week).
+
+### /weekly-prep Sunday priorities
+
+1. **CRITICAL: Alpaca API fix** — 21-day block; investigate IP allowlist, contact Alpaca support if needed; account is effectively paralyzed
+2. **Re-score NVDA** — 87→est. 75-80; confirm ≥75 or remove from primary list; Google TPU + RS deterioration
+3. **Re-score AVGO** — 74/100; expected 75-80 with live Alpha Vantage; becomes primary if threshold met + pivot reclaimed
+4. **AMD post-earnings** — May 5 results; if beats consensus (+33% YoY EPS est.), re-score immediately; strong AI GPU demand thesis
+5. **STX base monitoring** — 68/100; needs base formation + A-letter re-score when API restores
+6. **Rebuild watchlist** — fresh universe scan with whatever APIs are available

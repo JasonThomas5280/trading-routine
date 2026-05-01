@@ -515,3 +515,20 @@ Weekly trade count: 0 of 3 (week closes clean)
 S&P 500: opened 7,161.75 (-0.66% gap from ATH), recovering +0.54% intraday
 CRITICAL: Alpaca API blocked 20 consecutive days
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-05-01 20:34 CT [clickup-placeholder]
+
+📊 EOD 2026-05-01 | Equity ~$2,500.00 est. (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 2/25 (market: Confirmed Uptrend Day 21)
+Actions today: NONE — 0 open positions; sell-rules-engine skipped
+S&P 500: 7,230.12 (+0.29%, NEW ATH) | Nasdaq: 25,114.44 (+0.89%, NEW ATH) | QQQ: $674.78
+Dist check: UP day — NOT a distribution day. Count unchanged 2/25.
+Watchlist:
+  NVDA: ~$199.57 (BELOW $201.75 pivot; -4.63% vs mkt +0.29%; 3rd session RS divergence; score 87->est.75-80; re-score Monday)
+  AVGO: $405.45 (below $406.75 pivot; 74/100 below threshold; re-score when AV restores)
+  Alpaca API: BLOCKED DAY 21 — all execution impossible (403 Host not in allowlist)
+Circuit breakers: NONE
+Week closed: 0/3 trades (Alpaca blocked entire week Apr 28-May 1)
+Sunday /weekly-prep: NVDA re-score, AVGO re-score, AMD post-May-5 setup, Alpaca API fix CRITICAL
