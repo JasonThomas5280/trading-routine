@@ -532,3 +532,58 @@ Watchlist:
 Circuit breakers: NONE
 Week closed: 0/3 trades (Alpaca blocked entire week Apr 28-May 1)
 Sunday /weekly-prep: NVDA re-score, AVGO re-score, AMD post-May-5 setup, Alpaca API fix CRITICAL
+## 2026-05-01 20:35 CT [clickup-placeholder]
+
+### Week ending 2026-05-01
+
+## Weekly Review — Week ending 2026-05-01
+
+**Context:** Week 2 of live operation. Alpaca API blocked all 5 sessions (Day 11–20 consecutive, 403 Host not in allowlist). All data via WebSearch fallback. Zero trades for second consecutive week. Market hit new ATH (S&P 7,209.01 Apr 30); uptrend strengthening while we remain sidelined by infrastructure.
+
+---
+
+### Performance
+- Starting equity: $2,500.00 | Ending equity: $2,500.00
+- Weekly return: **0.00%** (vs. SPY ~0.0–0.3% — flat week, April month S&P +10.4% / Nasdaq +15.3%)
+- Trades taken: **0** (2nd consecutive 0-trade week)
+- Winners/Losers: N/A | Largest winner/loser: N/A
+- Root cause: Alpaca 403 blocked every session; FOMC restriction Wed; NVDA price below pivot Fri; AVBO 74/100 (1pt below threshold)
+
+### Rule Adherence: 100/100 (trivially — no trades, all blocking rules honored correctly)
+- No conviction-score workarounds; AVBO held at reject; STX held at 68/100; LRCX removed cleanly
+
+### Market Direction Accuracy: CLEAN ✓
+- Confirmed Uptrend Day 14→20 all week — CORRECT (S&P hit new ATH Apr 30)
+- Apr 28 dist day #2 (−0.49%) correctly logged; Apr 27/29/30 correctly excluded; 2/25 effective count
+
+### Sector Analysis
+- XLK Semis #1 confirmed: Mag-7 all beat (MSFT Azure +40%, AMZN AWS +28%, GOOGL Cloud +63%); AAPL $111.2B +17% YoY
+- NVDA: 2 consecutive sessions of −4%+ relative weakness (Google TPU + Amazon silicon news); score 87→est.75–80 — flagged CAUTION
+- LRCX removed: China MATCH Act risk + actual price $251 vs $272 estimate (data error corrected)
+- No blacklisting (no trade history to trigger 2-consecutive-fail rule)
+
+### Conviction Correlation: N/A (no closed trades for 2nd week)
+
+### Research Source Impact
+- Perplexity primary: 0 sessions (blocked all week)
+- WebSearch fallback: 10/10 sessions
+- Notable error: LRCX estimated $272.11 via WebSearch; actual close $251.24 (−8.2% error) — caught at next morning's pre-market cross-reference
+
+### Lessons
+1. **Execution:** Alpaca API blockage entering Week 3. Must resolve IP allowlist before Sunday /weekly-prep. No workarounds — resolution required.
+2. **Strategy:** NVDA's 87→75–80 score decline in 2 sessions (Google TPU news) proves the L-letter is most volatile. Need formal thesis-risk re-score trigger when competitive threat news breaks.
+3. **Market:** April +10.4% — extended run. RSI 70.45 mildly overbought. May distribution risk elevated vs April. Track dist count vigilantly in first 2 weeks of May.
+
+### Proposed Rule Changes (pending Jason approval)
+1. Alpaca API health check at /pre-market Step 0 *(Week 1 carry — still pending)*
+2. data_confidence flag in trigger table *(Week 1 carry — still pending)*
+3. NEW: Automatic L-letter re-score trigger on competitive threat news
+4. NEW: WebSearch price estimation error flag (±5%) for Alpaca-blocked symbols
+
+### Next Week Setup
+- Market: Confirmed Uptrend Day 20, 2/25 dist days; near-ATH; increased May distribution vigilance
+- Sectors: XLK Semis (AVGO primary; MU watch for handle; AMD re-score post-May 5 earnings), XLF secondary
+- Calendar risks: AMD earnings May 5 (pre-market); PLTR earnings May 5 AH; STX re-score when APIs restore; NVDA full re-score required (Google TPU); Oil/Hormuz; no FOMC until June
+- Book: 0 positions, 100% cash $2,500, 3/3 weekly trade slots available
+- **Critical Sunday task: Resolve Alpaca API access before /pre-market Monday**
+- Emotional state: Disciplined. Frustrating 2 weeks of enforced inaction. No FOMO. No rule bending. Fix infrastructure, then trade.

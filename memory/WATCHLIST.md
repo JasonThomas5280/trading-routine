@@ -6,7 +6,9 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## Current Week: 2026-04-27 to 2026-05-01
+## ⚠️ ARCHIVED — Week of 2026-04-27 to 2026-05-01
+
+**Status:** STALE — Rebuild via /weekly-prep on Sunday 2026-05-03 before next week's trading.
 
 **Built:** 2026-04-26 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca + Perplexity + Alpha Vantage all blocked — IP allowlist issue)
 **⚠️ Date correction:** Week header was "2026-04-28" — corrected to "2026-04-27" (today is Monday April 27, 2026). FOMC decision is **Wednesday April 29** (not Tuesday). No-entry window: Wednesday before 1 PM CT.
