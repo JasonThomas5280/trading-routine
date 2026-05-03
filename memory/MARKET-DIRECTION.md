@@ -8,10 +8,16 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-01 (Fri) — `/eod-review`
-**Confirmed Uptrend days:** 21 (since follow-through day 2026-04-08)
-**Distribution days (last 25 sessions):** 2 effective (Apr 23, Apr 28) — April 29 and 30 were both UP days, count unchanged
+**Last updated:** 2026-05-03 (Sun) — `/weekly-prep`
+**Confirmed Uptrend days:** 22 (since follow-through day 2026-04-08)
+**Distribution days (last 25 sessions):** 2 effective (Apr 23, Apr 28) — May 1 was an UP day (+0.29% new ATH), count unchanged
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
+
+**⚠️ SECTOR ROTATION ALERT:** RRG (Relative Rotation Graph) as of May 3 shows XLK (Technology) has moved into the LAGGING quadrant (below-average RS ratio, declining momentum). XLI (Industrials), XLE (Energy), XLB (Materials) are in the LEADING quadrant. By strict 4-week trailing return math, XLK still ranks #1 (Nasdaq +15.3% in April alone). The divergence between RRG momentum signal and 4-week trailing math is a WARNING: leadership is rotating. Flag all XLK entries this week with `sector_momentum_warning`. Monitor XLK's 4-week RS vs. XLI/XLE weekly — if XLK drops below #3 in trailing 4-week RS, sector blackout for new XLK entries.
+
+**⚠️ ALPACA API BLOCKED — Day 22 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+
+**SPY close 2026-05-01 (Fri — most recent session):** ~$723.30 est. (S&P 500: 7,230.12, +0.29%, NEW ALL-TIME HIGH) | SPY 50d MA: $677.42 | SPY above 50d MA: +6.8% | SPY 200d MA: $666.46 | SPY above 200d MA: +8.5% | QQQ close: $674.78 | QQQ 50d MA: $612.66 | QQQ above 50d MA: +10.1% | QQQ RSI: 74.85 (mildly overbought, trend intact) | `research_source: websearch_fallback` | **Alpaca blocked day 22**
 
 **SPY close 2026-04-30 (Thu):** ~$718.65 est. (S&P 500: 7,209.01, +1.02%; NEW ALL-TIME HIGH — first close above 7,200; `research_source: websearch_fallback`)
 **SPY close 2026-04-29 (Wed):** ~$711.37 est. (S&P 500: 7,135.95, -0.04% — FOMC hold as expected; not a distribution day)
@@ -231,3 +237,4 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /pre-market. AAPL massive beat AH ($111.2B +17%). Jobless claims 189K cycle low. ES +0.19%, NQ near flat. NVDA pre-mkt $210 (pivot recovered). AVGO ~$415 (above pivot). Day 20 intact. Alpaca blocked day 19. |
 | 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check. S&P opened 7,161.75 (-0.66% from ATH), recovered intraday +0.54%. Not a dist day (confirm at EOD). NVDA -4.9% intraday on up-market (below $201.75 pivot; heavy distribution; RS deterioration — 2nd consecutive session of -4%+ relative weakness). AVGO below pivot, 74/100. No trades (Alpaca blocked day 20). Uptrend Day 20 intact. 2/25 dist days. |
 | 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. S&P 500 7,230.12 (+0.29%, NEW ATH), Nasdaq 25,114.44 (+0.89%, NEW ATH). NOT a distribution day (UP day). Dist count: 2/25 unchanged. NVDA ~$199.57 (below $201.75 pivot, RS deteriorating — 3 consecutive sessions of heavy relative weakness vs market). AVGO $405.45 (below $406.75 pivot). 0 open positions. Alpaca blocked day 21. Uptrend Day 21 confirmed. |
+| 2026-05-03 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; sector rotation warning issued) | /weekly-prep Sunday. SPY ~$723.30 (May 1 NEW ATH close), +6.8% above 50d MA ($677.42). QQQ $674.78, +10.1% above 50d MA ($612.66). 2/25 dist days unchanged. Uptrend Day 22. ⚠️ Sector rotation: XLK moved to LAGGING quadrant on RRG; XLI/XLE/XLB now in LEADING quadrant. By trailing 4-week RS math, XLK still ranks #1 (Nasdaq +15.3% April alone) but forward momentum clearly rotating. XLF and XLY ranked #10 and #11 respectively on RRG. Flag all XLK entries with `sector_momentum_warning`. 0 candidates scored ≥75/100 with confirmed entry conditions. 0 open positions. Alpaca blocked day 22. `research_source: websearch_fallback`. |

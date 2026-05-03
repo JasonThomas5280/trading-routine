@@ -587,3 +587,19 @@ Sunday /weekly-prep: NVDA re-score, AVGO re-score, AMD post-May-5 setup, Alpaca 
 - Book: 0 positions, 100% cash $2,500, 3/3 weekly trade slots available
 - **Critical Sunday task: Resolve Alpaca API access before /pre-market Monday**
 - Emotional state: Disciplined. Frustrating 2 weeks of enforced inaction. No FOMO. No rule bending. Fix infrastructure, then trade.
+
+---
+## 2026-05-03 21:47 CT [clickup-placeholder]
+
+📋 Week prep 2026-05-04
+Market: CONFIRMED UPTREND Day 22 (Dist: 2/25, SPY vs 50MA: +6.8%, SPY $723.30 NEW ATH)
+Top sectors (4-wk trailing RS): 1. XLK (math leader but RRG lagging) 2. XLC (Mag-7 beats) 3. XLE (Iran oil)
+SECTOR ROTATION WARNING: XLK losing RRG momentum to XLI/XLE/XLB. XLF #10, XLY #11.
+Watchlist primary — 0 confirmed >=75 this week:
+1. MU (72/100 BORDERLINE) ATH $545.91, climax top risk, no confirmed pivot
+2. NVDA (69/100 CONDITIONAL) below $201.75 pivot, Google TPU; 83+ if pivot reclaims
+3. AVGO (62/100 BELOW THRESHOLD) $405.45, strong AI thesis, massive float drag
+4. STX (53/100 NO BASE) 115% EPS growth, wait for cup to form
+Bench: AMD blackout (earnings Tue May 5 AH), GEV 65/100 XLI power infrastructure
+Calendar risks: PLTR Mon May 4 AH | AMD Tue May 5 AH | NFP Fri May 8 8:30AM ET
+Entry plan: ZERO until Alpaca API restored (Day 22 block). If restored: MU or NVDA on pivot+volume+score>=75 Mon-Thu only. No entries Friday (NFP risk).

@@ -2176,3 +2176,78 @@ April performance: S&P 500 +10.4% (best month since 2020), Nasdaq +15.3%. Market
 4. **AMD post-earnings** — May 5 results; if beats consensus (+33% YoY EPS est.), re-score immediately; strong AI GPU demand thesis
 5. **STX base monitoring** — 68/100; needs base formation + A-letter re-score when API restores
 6. **Rebuild watchlist** — fresh universe scan with whatever APIs are available
+
+---
+
+## 2026-05-03 — /weekly-prep (Sunday full scan — Week 3 build)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 22; Alpha Vantage: 403 blocked; Perplexity: 403 blocked; EDGAR: unavailable. ALL APIs blocked. All data via native WebSearch only.)
+**Market direction pull:** Confirmed Uptrend Day 22 | SPY ~$723.30 (NEW ATH May 1) | QQQ $674.78 | 2/25 distribution days | SPY +6.8% above 50d MA ($677.42) | SPY +8.5% above 200d MA ($666.46) | QQQ +10.1% above 50d MA ($612.66) | QQQ RSI 74.85
+**Sector leaders (4-week trailing RS, April 3 – May 1):**
+1. XLK Technology: ~+8% relative to SPY (Nasdaq +15.3% absolute in April; highest 4-week trailing RS by math; WARNING: RRG shows XLK in LAGGING quadrant — losing forward momentum)
+2. XLC Communication Services: ~+5% relative (Mag-7 all beat Apr 29)
+3. XLE Energy: ~+2-4% relative (Iran/Hormuz war; oil spike)
+**SECTOR ROTATION ALERT:** RRG shows XLI/XLE/XLB in LEADING quadrant; XLK in LAGGING; XLF #10; XLY #11. Flag: sector_momentum_warning on all XLK entries this week.
+**Sector laggards:** XLF (#10 RRG), XLY (#11 RRG), XLB (negative relative 4-wk)
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | 403 blocked (Day 22) | No live quotes, no execution |
+| Alpha Vantage | 403 blocked | No C/A/S-letter fundamentals |
+| Perplexity | 403 blocked | No research synthesis |
+| EDGAR | unavailable | No 13F data |
+| Native WebSearch | functional | SOLE data source |
+| ClickUp | placeholder mode | Appending to DAILY-SUMMARY.md |
+
+### Universe scan stats
+
+| Stage | Count | Notes |
+|---|---|---|
+| Seed universe (manual websearch — build-universe.sh blocked) | ~15 | XLK: NVDA, AVGO, MU, AMD, STX; XLC: META, GOOGL; XLE: XOM, CVX, SLB; XLI: GEV, CAT, ETN, URI |
+| Removed: earnings blackout <=5 trading days | 4 | AMD (May 5 AH), PLTR (May 4 AH), ETN (May 5) |
+| Removed: C-letter fail (<25% EPS YoY growth) | 4 | CAT (~15%), URI (~10%), ETN (+0.7%), FCX (5.94% LT EPS avg) |
+| Submitted to canslim-screener (websearch fallback) | 7 | NVDA, AVGO, MU, STX, GEV, META (prelim), GOOGL (prelim) |
+| Passed >=75 conviction with confirmed entry conditions | 0 | Zero candidates meet all gates |
+| Borderline (70-74, near-miss) | 3 | MU est. 72-76, NVDA est. 69-71, AVGO est. 62-72 |
+| Rejected conviction <75 | 2 | GEV 65 (short history), STX 53-68 (no base) |
+| With valid entry zone this week | 0 | All setups below pivot / no base / Alpaca blocked |
+
+FEWER THAN 3 CANDIDATES PASSED. Market may be transitioning. 0 confirmed entries this week. DO NOT lower the 75 threshold.
+
+### Candidate scores (websearch_fallback — low data confidence)
+
+| Symbol | C | A | N | S | L | I | Base | Total | Pass |
+|---|---|---|---|---|---|---|---|---|---|
+| MU | 20 | 7* | 15 | 10 | 10 | 5 | 5** | 72 | REJECT |
+| NVDA | 20 | 15 | 3 | 8 | 13 | 5 | 5** | 69 | REJECT |
+| AVGO | 10 | 12 | 15 | 5 | 10 | 5 | 5** | 62 | REJECT |
+| GEV | 20 | 7* | 15 | 3 | 15 | 5 | 0 | 65 | REJECT |
+| STX | 20 | 5* | 5 | 8 | 10 | 5 | 0 | 53 | REJECT |
+
+*short/cyclical history cap applied; **base under stress / not confirmed
+
+### Key scoring decisions
+
+MU: C-letter extraordinary (TTM EPS +405% YoY). A-letter: cyclical trough — FY2023 negative EPS, FY2024 $0.70 trough = turnaround rule applied = 7pts. ROE 15.8% = below 17% threshold = only +2pts. ATH $545.91 on May 1 = N 15pts. +61% past month = CLIMAX TOP RISK. Float ~1.1B shares = 0pts float; buyback+volume = 10pts. XLK sector warning = no sector bonus = L 10pts only.
+
+NVDA: C: EPS $1.62/share (~+128% YoY) = 20pts. A: 3-year consecutive growth + high ROE = 15pts. N: 3pts only — failed breakout (ATH $216.83 April 27, now $198-199 = -8% retreat); Google TPU 8t/8i (3x faster training, 80% better perf/$) + Amazon custom silicon + OpenAI on Google silicon = L-letter erosion. Conditional: jumps to ~83/100 if $201.75 pivot reclaimed + base confirmed.
+
+AVGO: Q1 FY2026 adj EPS $1.98 vs $0.91 Q1 2025 = +118% YoY but blended EPS +28-32% = C: 10pts. AI rev +106% YoY ($8.4B). META $300B+ AI chip commitment confirmed = N 15pts. Float 4.7B shares = S structural headwind. Expected 75-80 with live AV data.
+
+GEV: C: adj EPS $1.98 vs $0.91 Q1 2025 = +118% = 20pts. Only 2 years public (spun off April 2024) = A capped at 7pts. Orders +71% YoY = N 15pts. XLI leading sector = L 15pts (full sector bonus). Float ~270M = S 3pts only. No confirmed base (1.5 wks since ATH). Score improves to 75+ once base forms in 4-6 weeks.
+
+### Market state summary
+
+Status: Confirmed Uptrend Day 22. 2/25 distribution days. SPY $723.30 NEW ATH, QQQ $674.78 NEW ATH. No circuit breakers active. Account $2,500 (100% cash). 0/3 weekly trades. 0 open positions.
+
+Key risks this week: PLTR earnings Mon May 4 AH; AMD earnings Tue May 5 AH; April NFP Fri May 8 8:30 AM ET (no new entries Friday); April CPI May 12 (next week); Powell term ends May 15.
+
+### Priorities for /pre-market Monday May 4
+
+1. Alpaca API health check (Step 0) — Day 22 blocker; must resolve for any execution this week
+2. Score META and GOOGL post-earnings stabilization
+3. NVDA: check if $201.75 pivot recovered in Monday pre-market
+4. MU: confirm ATH territory holding; no climax top signal pre-market
+5. AMD: final awareness check before May 5 AH earnings blackout
