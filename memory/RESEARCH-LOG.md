@@ -2251,3 +2251,107 @@ Key risks this week: PLTR earnings Mon May 4 AH; AMD earnings Tue May 5 AH; Apri
 3. NVDA: check if $201.75 pivot recovered in Monday pre-market
 4. MU: confirm ATH territory holding; no climax top signal pre-market
 5. AMD: final awareness check before May 5 AH earnings blackout
+
+---
+
+## 2026-05-04 — /pre-market
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 blocked Day 23; Perplexity: 403 blocked; all data via native WebSearch)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 22 (pre-market; session not yet open)
+**Sector leaders (top 3):** XLK Technology (1st by 4-wk trailing, ⚠️ RRG lagging), XLC Communication Services (2nd, post-Mag-7 earnings sweep), XLE Energy (3rd, Iran/Hormuz oil premium)
+**Sector laggards:** XLF Financials (RRG #10), XLY Consumer Disc (RRG #11)
+
+### Market overnight — ES/NQ futures (Sunday May 3 → Monday May 4 open)
+
+- ES futures: opened +0.2% at 6 PM ET Sunday; dipped -0.1% early on conflicting reports of Iranian attack on US warship in Strait of Hormuz; recovered to +0.2% after reports clarified ship was turned back. Net: near flat/cautious.
+- NQ futures: near flat to slightly positive (~+0.2%)
+- Dow futures: dipped -193pts (-0.4%) on Hormuz headline; recovered to +102pts (+0.2%)
+- **⚠️ GEOPOLITICAL RISK:** Iran/Strait of Hormuz — US warship turned back; oil elevated. Persistent risk from prior weeks. Uptrend intact but oil spike = inflationary headwind.
+- No major US economic data today. Calendar this week: AMD earnings AH May 5; April NFP Fri May 8 8:30 AM ET (no new entries Thursday PM or Friday).
+- `research_source: websearch_fallback`
+
+### Overnight gap check — open positions
+
+- **Open positions: 0** — gap check skipped. No overnight risk.
+
+### Overnight catalysts — watchlist names
+
+**MU (Micron Technology):**
+- Pre-market May 4: $554.20 (+2.21% from prior close ~$542.21) — **NEW ALL-TIME HIGH** above $545.91 (May 1 ATH)
+- TD Cowen raised PT $550→$660 (BUY); 46 analyst consensus BUY
+- AI memory supercycle narrative intact: HBM4 sold out through 2026, 200% YoY sales growth est.
+- No negative catalysts overnight.
+- ⚠️ Pivot reassessment: ATH was $545.91 (May 1); now $554+ pre-market. Likely flat base/ATH breakout pivot ~$545-546. MU at $554 = ~+1.5% above pivot → **🟢 READY zone**.
+- ⚠️ CLIMAX TOP RISK: +61%+ in past month. sell-rules-engine will flag on any entry for climax monitoring.
+
+**NVDA (Nvidia):**
+- Pre-market May 4: $201.76 (up ~+$2.19/+1.1% from May 1 close ~$199.57) — **AT $201.75 PIVOT** (1 cent above)
+- Pentagon AI contracts: 7 AI firms including NVDA to deploy AI on classified military networks (N-letter positive)
+- $500B US manufacturing investment commitment (N-letter positive — domestic supply chain story)
+- Earnings May 20, 2026 (16 trading days; 5-day blackout starts ~May 13)
+- Google/Amazon TPU competition: no new overnight escalation; persistent narrative
+- Score est. 71/100 (WATCHLIST); conditional ≥75 if pivot confirmed with volume. Pre-market at-pivot not sufficient — need volume confirmation at /market-check.
+
+**AVGO (Broadcom):**
+- Pre-market: ~$414.81 (-0.63% pre-market)
+- Session data (May 4): intraday range $413.28-$423.17, ~$421.28 mid-session
+- ABOVE $406.75 pivot: +3.5% within 5% buy zone
+- 43 analysts Strong Buy; avg PT $475.49
+- META $300B+ chip commitment confirmed; AI segment Q1 FY2026 +106% YoY ($8.4B)
+- Score est. 72/100 (API blocked), expected 76-80 with live data. **Need canslim-screener ≥75 to enter.**
+
+**STX (Seagate):**
+- May 1 close: $726.93 (ATH $728.00 on May 1); +600% YoY, +100% in 2026
+- No tradeable base formed (post-earnings gap Apr 28). 5-8 weeks to form cup-with-handle.
+- No entry. Continue watching.
+
+**META (Meta Platforms):**
+- May 1 close: $608.75; 52-week high $796.25 (Aug 2025) → -23.5% from ATH
+- Q1 beat ($7.31 EPS vs $6.79 est.; rev $56.31B +33% YoY) but -9%+ AH selloff on capex raise $125-145B
+- Needs 4-6 weeks to base. Massive float. **Do NOT add to primary watchlist until base forms (~June).**
+
+**GOOGL (Alphabet):**
+- Q1 beat: Rev $109.9B vs $107.2B; EPS $2.62 vs $2.63; Cloud +63% to $20B; backlog doubled $460B
+- +10% post-earnings, new 52-week high; Pentagon AI military contract
+- Analyst upgrades: JPMorgan $460, TD Cowen $450, Wells Fargo $427, Citi $447
+- Float: massive (requires S-letter penalty); no confirmed base yet
+- Elevated to **active bench — canslim-screener score needed**
+
+**PLTR (Palantir):**
+- Pre-earnings: ~$144; earnings AH tonight (May 4)
+- Consensus: EPS $0.28 (+115% YoY), rev $1.54B (+74% YoY); 96% Polymarket beat probability; ±10% options-implied move
+- Technical: 10d MA below 50d MA, -31% from 52-week high → not a leader yet
+- BLACKOUT today. Re-score after AH. If massive beat + technical repair → bench candidate for May 11 week.
+
+**AMD:**
+- BLACKOUT — earnings AH tomorrow May 5
+- Expected EPS $1.27-1.29 (+33-34% YoY); DA Davidson upgraded Buy PT $375; OpenAI MI450 6GW deal
+- If beats at +40%+ = C-letter 15pts → score likely 77+. Primary candidate for May 11 week.
+
+**GEV (GE Vernova):**
+- ~$1,065 (range $1,062-$1,100 recently); ATH $1,149.53 (Apr 23) — -10% pullback
+- Strong Q1; Q2 2026 earnings ~June 2026. No negative overnight news.
+- Base still forming. Score 65/100. Bench — watch.
+
+### Buy-zone status
+
+| Symbol | Last (est.) | Pivot | Dist from Pivot | Status |
+|--------|-------------|-------|-----------------|--------|
+| MU | $554.20 pm | ~$545-546 est. | +1.5% | 🟢 READY — new ATH; contingent on Alpaca + score ≥75 |
+| NVDA | $201.76 pm | $201.75 | +0.01% | 🟡 WATCHING — at pivot; score 71/100 (below threshold) |
+| AVGO | ~$414-421 | $406.75 | +2-3.5% | 🟡 WATCHING — above pivot; score 72 expected 76-80 |
+| GOOGL | New 52wk high | TBD | ATH | 🟡 WATCHING — needs canslim-screener |
+| STX | ~$727 | TBD (no base) | n/a | 🔴 NO BASE |
+| GEV | ~$1,065 | TBD | -10% from ATH | 🔴 BENCH forming |
+| META | $608.75 | TBD | -23.5% from ATH | 🔴 POST-EARNINGS SELLOFF |
+| AMD | ~$362 ATH | TBD | n/a | ⛔ BLACKOUT (May 5 AH) |
+| PLTR | ~$144 | TBD | n/a | ⛔ BLACKOUT (today AH) |
+
+### Circuit breaker check
+
+- Account equity: ~$2,500 (unchanged — 0 positions, 0 trades all of 2026)
+- Daily P&L: $0 (session not yet open)
+- Weekly P&L: $0 (week just started)
+- Drawdown from HWM: 0%
+- **Circuit breakers: NONE ACTIVE**
+- ⚠️ Alpaca API blocked Day 23 — no execution possible regardless of circuit breaker status

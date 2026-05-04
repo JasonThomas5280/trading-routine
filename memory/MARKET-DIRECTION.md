@@ -8,8 +8,8 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-03 (Sun) — `/weekly-prep`
-**Confirmed Uptrend days:** 22 (since follow-through day 2026-04-08)
+**Last updated:** 2026-05-04 (Mon) — `/pre-market`
+**Confirmed Uptrend days:** 22 (since follow-through day 2026-04-08; first trading session of week not yet closed)
 **Distribution days (last 25 sessions):** 2 effective (Apr 23, Apr 28) — May 1 was an UP day (+0.29% new ATH), count unchanged
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
@@ -132,6 +132,17 @@
 - Open positions: 0 | sell-rules-engine: SKIPPED | Actions: NONE | Circuit breakers: NONE
 - **Market state: 🟢 Confirmed Uptrend Day 21. 2/25 dist days. No state change.**
 
+**Monday May 4 pre-market (/pre-market check):**
+- ES futures: opened +0.2% at 6 PM ET Sun; dipped -0.1% on Iran/Hormuz US warship reports (ship turned back); recovered +0.2%. Net: cautious/flat.
+- NQ futures: near flat to +0.2% | Dow: dipped -193pts, recovered to +102pts
+- **⚠️ GEOPOLITICAL:** Iran Strait of Hormuz — US warship turned back; oil elevated. Persistent risk.
+- MU pre-market: $554.20 (+2.21%) — **NEW ATH**. Setup: 🟢 READY (est. +1.5% above ~$545-546 pivot). Contingent on Alpaca restore + score ≥75.
+- NVDA pre-market: $201.76 — **AT $201.75 PIVOT**. Score est. 71/100 (below threshold). Pentagon AI contracts positive. No volume data.
+- AVGO: session ~$414-421 — above $406.75 pivot (+3.5%). Score expected 76-80 with live data.
+- PLTR earnings AH tonight; AMD blackout (earnings tomorrow AH May 5)
+- Market state: 🟢 Confirmed Uptrend Day 22 (pre-market; session not yet open). 2/25 dist days unchanged.
+- `research_source: websearch_fallback` | **Alpaca blocked day 23**
+
 **Tuesday April 28 close (/eod-review confirmed):**
 - S&P 500: 7,138.80 (−0.49% from Monday) | Nasdaq: 24,663.80 (−0.9%) | `research_source: websearch_fallback` (Alpaca blocked day 13)
 - SPY est. ~$711.66 | QQQ est. ~$658.27
@@ -238,3 +249,4 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check. S&P opened 7,161.75 (-0.66% from ATH), recovered intraday +0.54%. Not a dist day (confirm at EOD). NVDA -4.9% intraday on up-market (below $201.75 pivot; heavy distribution; RS deterioration — 2nd consecutive session of -4%+ relative weakness). AVGO below pivot, 74/100. No trades (Alpaca blocked day 20). Uptrend Day 20 intact. 2/25 dist days. |
 | 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. S&P 500 7,230.12 (+0.29%, NEW ATH), Nasdaq 25,114.44 (+0.89%, NEW ATH). NOT a distribution day (UP day). Dist count: 2/25 unchanged. NVDA ~$199.57 (below $201.75 pivot, RS deteriorating — 3 consecutive sessions of heavy relative weakness vs market). AVGO $405.45 (below $406.75 pivot). 0 open positions. Alpaca blocked day 21. Uptrend Day 21 confirmed. |
 | 2026-05-03 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; sector rotation warning issued) | /weekly-prep Sunday. SPY ~$723.30 (May 1 NEW ATH close), +6.8% above 50d MA ($677.42). QQQ $674.78, +10.1% above 50d MA ($612.66). 2/25 dist days unchanged. Uptrend Day 22. ⚠️ Sector rotation: XLK moved to LAGGING quadrant on RRG; XLI/XLE/XLB now in LEADING quadrant. By trailing 4-week RS math, XLK still ranks #1 (Nasdaq +15.3% April alone) but forward momentum clearly rotating. XLF and XLY ranked #10 and #11 respectively on RRG. Flag all XLK entries with `sector_momentum_warning`. 0 candidates scored ≥75/100 with confirmed entry conditions. 0 open positions. Alpaca blocked day 22. `research_source: websearch_fallback`. |
+| 2026-05-04 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /pre-market. ES futures: opened +0.2%, dipped -0.1% on Iran/Hormuz US warship incident (turned back), recovered to +0.2%. NQ: near flat/+0.2%. Cautious open. No state change — uptrend intact. MU pre-mkt $554.20 (+2.21%, new ATH). NVDA pre-mkt $201.76 (at $201.75 pivot, +1.1% from Friday close). AVGO session ~$414-421 (above $406.75 pivot). PLTR earnings AH tonight. AMD blackout (earnings tomorrow AH). 0 open positions. Alpaca blocked day 23. `research_source: websearch_fallback`. |

@@ -603,3 +603,17 @@ Watchlist primary — 0 confirmed >=75 this week:
 Bench: AMD blackout (earnings Tue May 5 AH), GEV 65/100 XLI power infrastructure
 Calendar risks: PLTR Mon May 4 AH | AMD Tue May 5 AH | NFP Fri May 8 8:30AM ET
 Entry plan: ZERO until Alpaca API restored (Day 22 block). If restored: MU or NVDA on pivot+volume+score>=75 Mon-Thu only. No entries Friday (NFP risk).
+
+---
+## 2026-05-04 11:34 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-04
+Market: CONFIRMED UPTREND Day 22 | ES +0.2% (Iran/Hormuz dip recovered) | NQ near flat
+Open positions: 0 | Circuit breakers: NONE | Alpaca blocked Day 23 — execution impossible
+Overnight gaps: NONE (0 positions)
+Watchlist READY: MU $554.20 pm NEW ATH +2.21% (~+1.5% above pivot ~$545-546) — BEST SETUP
+Watchlist WATCHING: NVDA $201.76 pm AT $201.75 pivot (score 71/100 below threshold) | AVGO ~$414-421 above $406.75 pivot (score expected 76-80)
+No-entry: STX no base | META post-earnings selloff $608.75 (-23.5% from ATH)
+Key catalysts today: PLTR earnings AH (+115% EPS expected, 96% beat probability) | AMD blackout (earnings tomorrow)
+Key news: Iran/Hormuz US warship turned back (oil elevated); GOOGL new 52wk high; TD Cowen raises MU PT to $660
+Plan: NO ENTRIES — Alpaca API blocked Day 23. If restored: MU at /market-check on volume +40% + score >=75. Monitor PLTR AH for potential bench candidate next week.
