@@ -2445,3 +2445,92 @@ Key risks this week: PLTR earnings Mon May 4 AH; AMD earnings Tue May 5 AH; Apri
 - Drawdown from HWM: 0%
 - **Circuit breakers: NONE ACTIVE**
 - ⚠️ Alpaca API blocked Day 23 — no execution possible regardless of circuit breaker status
+
+---
+
+## 2026-05-04 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 25; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 23 — no state change
+
+**Close:** SPY ~$720.33 est. | QQQ ~$673.50 est. | S&P 500: 7,200.75 (−0.41%) | Nasdaq: 25,067.80 (−0.19%) | Dow: 48,941.90 (−1.13%, −557 pts)
+**Distribution days:** 3 of 25 effective — today: NEW DIST DAY #3 CONFIRMED (SPY −0.41% on Iran missile strike on UAE; oil WTI +4.39% to $106.42, Brent +5.8% to $114.44; magnitude meets threshold; vol ratio elevated by catalyst; Alpaca blocked — unconfirmed)
+**Market state:** 🟢 Confirmed Uptrend Day 23 (no transition; 3/25 dist days — still well below 5-day Under Pressure threshold; SPY ~+6.3% above 50d MA ~$677.42)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — no open positions to evaluate
+  - TIGHTEN: none — no positions
+  - SELL: none — no positions
+**Circuit breakers:** NONE ACTIVE ($0 daily P&L; $0 weekly P&L; 0% drawdown; 0/3 PDT) | ⚠️ Alpaca API blocked day 25 — no execution possible
+**P&L today:** $0.00 (0.00%) — 100% cash, no positions
+**Equity:** ~$2,500.00 est. (Alpaca blocked — cannot confirm)
+**Weekly trade count:** 0 of 3 used (week of May 4–8)
+
+### Market close context — May 4, 2026
+
+- **Primary driver:** Iran launched ballistic missiles targeting UAE port infrastructure; UAE announced successful interception of multiple missiles. Escalation from Iran/Hormuz vessels threat to direct UAE strike.
+- S&P 500 −0.41% to 7,200.75 (from ATH 7,230.12 May 1; still only −0.41% off ATH — uptrend not threatened)
+- Nasdaq −0.19% (below −0.20% threshold — NOT a QQQ distribution day)
+- Dow −1.13% (−557 pts to 48,941.90) — logistics/shipping names hardest hit (FedEx/UPS already damaged; Iran strike compounds concerns)
+- WTI crude oil +4.39% to $106.42 | Brent +5.8% to $114.44 — inflationary spike
+- VIX spiked (unquantified; Alpaca blocked)
+- SPY ~$720.33 est. (still +6.3% above 50d MA ~$677.42) — uptrend structurally intact despite geopolitical shock
+
+### Distribution day #3 — classification rationale
+
+- Magnitude: SPY −0.41% → exceeds −0.20% threshold ✅
+- Volume ratio: UNCONFIRMED (Alpaca blocked day 25). Iran missile strike on UAE = geopolitical shock event → strongly implies elevated volume above prior Friday's relatively calm ATH session.
+- Nasdaq: −0.19% → below −0.20% threshold → NOT a Nasdaq/QQQ distribution day
+- **SPY-only dist day** confirmed with high confidence on magnitude; volume elevated by catalyst.
+- Expiry: 25 sessions from May 4 = approximately June 8, 2026
+
+### Watchlist EOD verdicts
+
+| Symbol | Close Est. | Change | vs Market | Status | Verdict |
+|---|---|---|---|---|---|
+| MU | ~$542 est. | ~+0.4% | Underperformed (market −0.41% but MU gave back massive early gains) | ⚠️ BEARISH REVERSAL — opened +4.06%, hit $584 intraday (+8.2%), reversed to close near flat | climax_top_risk_flag ESCALATED. Intraday reversal on high volume = distribution. DEMOTE to Bench — re-evaluate after 2-3 sessions of constructive action |
+| NVDA | ~$198.63 | ~−0.5% | Roughly in-line with market | 🔴 BELOW $201.75 pivot (4th consecutive session) | Score 71/100 — below threshold. Conditional ≥75 if pivot reclaimed. Cumulative RS damage from 4 sessions. No entry. |
+| AVGO | ~$420.27 | ~+0.4% | Slight outperformance | 🟢 ABOVE $406.75 pivot (+3.3%) | Score 72/100 est. (expected 76-80 with live AV data). Remains primary entry candidate when APIs restore + score confirmed ≥75. |
+| STX | ~$727 est. | — | — | 🔴 No base formed | Watch-only |
+| PLTR | ~$144–148 AH | AH +1.3% | — | 🟢 MASSIVE EARNINGS BEAT — EPS $0.34 vs $0.28 (+21% vs consensus); Q2 guide $1.8B vs $1.68B; FY2026 $7.65B vs $7.27B | Technical still weak (−31% from ATH). Re-score at /pre-market tomorrow. Potential bench candidate if AH move extends and technical repair begins. |
+| AMD | — | — | — | ⛔ BLACKOUT — earnings AH tomorrow May 5 | Expected EPS $1.30 (+33% YoY). Re-score immediately after results. High priority for week of May 11. |
+
+### MU bearish reversal — detail
+
+- Pre-market: $554.20 (+2.21%) — NEW ATH
+- Open: ~$561.82 (+4.06% from May 1 close $539.91)
+- Intraday high: ~$584 (+8.2% from May 1 close) — at /market-check (10 AM CT)
+- Close: ~$542 est. (+0.4% from May 1 close)
+- **Pattern:** Opened gap-up on ATH breakout with D.A. Davidson $1,000 PT catalyst, ran +8% intraday, then completely reversed to near flat. This is a BEARISH outside day / shooting star pattern on heavy volume.
+- **CAN SLIM interpretation:** sell-rules-engine would flag: climax top risk (single-day +8.2% intraday gain on an already +61% move in a month) + bearish reversal = distribution. The stock essentially rejected $584.
+- **Action:** Demote MU from Primary Rank 1 to Bench. Do NOT enter until: (1) 2-3 weeks of tight, low-volume consolidation after today's reversal, (2) new handle forms, (3) fresh pivot defined, (4) fresh canslim-screener confirms ≥75.
+
+### PLTR post-earnings assessment
+
+- EPS $0.34 vs $0.28 consensus (+21% beat). Net income ~$870.5M (quadrupled YoY from $214M). Revenue guidance Q2 $1.8B vs $1.68B consensus. FY2026 $7.65-7.66B vs $7.27B.
+- CEO Karp: "financial results demonstrate a level of strength that dwarfs essentially every software company in history at this scale."
+- AH reaction: +1.30% (muted for size of beat — may be "sell the news" after +1.3% open from $144; or broader tech risk-off from Iran/oil).
+- **Technical still problematic:** 10d MA below 50d MA; −31% from 52-week high (~$220+). Not a leader setup.
+- **Score preliminary estimate:** C: 20pts (+325% YoY EPS), A: TBD (short profitable history), N: 15pts (AI government/commercial dominance), S: 3pts (large float ~2.1B), L: 5pts (−31% from ATH = RS rank below 80), I: 7pts. Base: 0pts (no valid base). Est. total: ~50-65/100 — **REJECT** until technical structure repairs and RS rank recovers.
+- **Watch:** If PLTR holds AH gains and closes above $150–155 over the next week, technical repair may begin. Re-score at /weekly-prep May 10.
+
+### Circuit breaker summary
+
+| Breaker | Trigger | Status |
+|---|---|---|
+| -3% single day | Account down -3% | ✅ CLEAR — $0 P&L (0 positions) |
+| -6% weekly | Account down -6% week | ✅ CLEAR — $0 P&L (0 positions) |
+| -12% drawdown | -12% from HWM | ✅ CLEAR — $0 drawdown |
+| PDT count | 3 of 3 rolling 5 days | ✅ CLEAR — 0/3 |
+| Alpaca API down | Halt all activity | ⚠️ ACTIVE — Day 25 (403 Host not in allowlist). No trades possible. |
+
+### Tomorrow priorities (/pre-market 6 AM CT Tue May 5)
+
+1. **AMD earnings reaction** (AH tonight May 5) — no entries all day; AMD blackout. Assess pre-earnings: does PLTR reaction + NVDA/AVGO set XLK tone for AMD?
+2. **PLTR AH follow-through:** Did +1.3% AH hold or extend? Any analyst upgrades overnight? Key for XLC sector thesis.
+3. **MU:** After today's reversal, check pre-market for stabilization. If further weakness → remove from watchlist (potential base failure).
+4. **AVGO:** Holding above $406.75? This remains the cleanest setup when APIs restore. Score check.
+5. **Iran escalation:** Did UAE strike escalate? Oil > $120 = inflation shock risk. Monitor for additional geopolitical circuit breakers.
+6. ⚠️ **Alpaca API blocked day 25** — No execution possible. Day 25 of 25 is a 5-week block. Escalate urgently. Contact Alpaca support directly.
+7. **NFP Friday May 8** — No new entries Thursday PM or Friday per watchlist plan.
+

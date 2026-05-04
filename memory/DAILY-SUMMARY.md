@@ -644,3 +644,27 @@ AMD earnings Tue AH — re-score candidate May 5-9
 
 Open positions: 0 | Cash: 100% | Weekly trades: 0/3 used
 Next: /eod-review 3:15 PM CT
+
+---
+## 2026-05-04 20:41 CT [clickup-placeholder]
+
+📊 EOD 2026-05-04 | Equity $2,500.00 est. (0.00% day, 0.00% week)
+Open: 0 positions, 100% cash | Market: 🟢 Confirmed Uptrend Day 23
+
+Close: SPY ~$720.33 (−0.41%) | QQQ ~$673.50 (−0.19%) | Dow −1.13% (−557 pts)
+Driver: Iran launches missiles at UAE — UAE intercepts; oil WTI +4.39% $106.42, Brent +5.8% $114.44
+Distribution days: 3 of 5 (market: Confirmed Uptrend) — dist day #3 confirmed today
+
+Actions today:
+  • sell-rules-engine SKIPPED — 0 open positions
+  • No buys — Alpaca API blocked day 25 (403 Host not in allowlist)
+
+Watchlist EOD:
+  • MU ~$542 — BEARISH REVERSAL (opened +4%, hit $584 intraday, closed near flat); climax_top_risk_flag ESCALATED → demote to Bench
+  • NVDA ~$198.63 — below $201.75 pivot (4th consecutive session); 71/100 below threshold
+  • AVGO ~$420.27 — above $406.75 pivot; 72/100 est. (expected 76-80 w/ live AV data); primary entry candidate when APIs restore
+  • PLTR AH MASSIVE BEAT: EPS $0.34 vs $0.28; FY2026 guide $7.65B vs $7.27B; AH +1.3%; technical still weak; re-score tomorrow
+  • AMD: blackout (earnings AH tomorrow May 5)
+
+⚠️ Alpaca API: blocked 25 consecutive days — ZERO trades possible. Escalate now.
+Tomorrow: AMD earnings AH (May 5) — XLK sector setter for Wed. PLTR reaction key for XLC. No entries tomorrow (AMD blackout). NFP risk Fri May 8 — no entries Thu PM or Fri.

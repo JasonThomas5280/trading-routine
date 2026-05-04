@@ -46,7 +46,7 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-05-01 /eod-review — 0 open positions)*
+*(Updated 2026-05-04 /eod-review — 0 open positions)*
 
 ---
 
