@@ -44,6 +44,96 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-05-04 (Mon) — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 24; Perplexity/AV blocked same reason; all data via native WebSearch)
+**Market state:** 🟢 Confirmed Uptrend Day 22 | 2/25 distribution days
+**Uptrend days confirmed:** 22 (FTD 2026-04-08)
+
+### Abort gate check
+
+| Gate | Status |
+|---|---|
+| Market state | 🟢 Confirmed Uptrend — CLEAR |
+| Research unavailable | websearch_fallback (not DEGRADED) — CLEAR |
+| Daily circuit breaker (-3%) | 0% P&L (no positions) — CLEAR |
+| Weekly circuit breaker (-6%) | 0% weekly — CLEAR |
+| Drawdown halt (-12% HWM) | $0 drawdown — CLEAR |
+| Weekly trade count | 0 of 3 — CLEAR |
+| Position count | 0 of 4 — CLEAR |
+| Cash buffer | 100% cash — CLEAR |
+| **Alpaca API** | ❌ **403 blocked — Day 24. HALT ALL ENTRIES per TRADING-STRATEGY.md.** |
+
+### Market context (10:00 AM CT)
+
+| Index / Asset | Level / Change | Notes |
+|---|---|---|
+| S&P 500 | -0.1% intraday | NOT a dist day (<-0.20% threshold); confirm at /eod-review |
+| Nasdaq | ~flat | |
+| Dow | -0.4% | FedEx/UPS -8%+ each (Amazon competition shock) |
+| PHLX Semiconductor | 22nd win in 23 sessions | 15th intraday ATH of 2026 — semi leadership intact |
+| Brent crude | +1.5% (~$110/bbl) | Iran Hormuz strikes on US patrol boat; warship turned back; vessels now transiting |
+| WTI crude | ~$102/bbl | Elevated but pulled back from spike |
+
+**Geopolitical note:** Iran struck a US patrol boat in Hormuz; a US warship was turned back. US military later confirmed vessels successfully transiting. Oil premium elevated but not escalating from weekend levels.
+
+**FedEx/UPS note:** -8%+ each; Amazon opening logistics network to outside companies. No direct watchlist impact — logistics sector not in top-3.
+
+### Overnight gap follow-up
+
+No open positions. Skipped.
+
+### Watchlist trigger evaluation
+
+| Symbol | Pivot | Intraday Price | Buy Zone? | Volume vs ADV | All Gates? | Verdict |
+|---|---|---|---|---|---|---|
+| MU | ~$545-546 | ~$584 est. (+8.3% from Fri) | ❌ Extended +7.1% (>5% ceiling ~$572) | 40.22M vs 37.84M ADV = +6.3% (need +40%) | PRICE: FAIL + VOLUME: FAIL + ALPACA: FAIL | 🔴 NOT TRIGGERED |
+| NVDA | $201.75 | ~$198.61 (-0.48%) | ❌ Below pivot -1.6% | N/A (Alpaca blocked) | PRICE: FAIL + SCORE: 71/100 FAIL | 🔴 NOT TRIGGERED |
+| AVGO | $406.75 | ~$421.09 (+0.88%) | ✅ +3.5% (within 5%) | N/A (Alpaca blocked) | SCORE: 72/100 FAIL + ALPACA: FAIL | 🔴 NOT TRIGGERED |
+| STX | TBD | — | No base | — | 68/100 REJECT | 🔴 DISQUALIFIED |
+
+**MU detail:**
+- D.A. Davidson $1,000 PT (highest on Wall Street) — major catalyst driving pre-market + open surge
+- Opened +4.06% from $539.91 Fri close → ~$561 open; intraday ~$584 (+8.3% from close)
+- 5% buy zone ceiling from $545-546 pivot = ~$572-573. At $584, MU is 7.1% extended → **DO NOT CHASE**
+- Volume 40.22M vs 37.84M ADV = +6.3%. CAN SLIM requires ≥+40% = FAIL
+- `climax_top_risk_flag`: +8.3% one-day surge on highest-ever analyst PT in a stock already up +61% past month = exhaustion signal. Even if Alpaca restores today, no entry until MU consolidates and forms a valid base with volume confirmation.
+- `sector_momentum_warning: XLK lagging RRG` still active
+- Estimated conviction: 72-76/100 (borderline; needs canslim-screener with live API)
+
+**AVGO detail:**
+- $421.09 is in buy zone ($406.75–$427.09). Fundamentally strong: META $300B+ AI chip commitment, AI rev +106% YoY Q1 FY2026. Score expected 76-80 with live data but estimated 72/100 without.
+- If Alpaca restores intraday and volume confirms ≥+40%, run canslim-screener immediately. If score ≥75 confirmed → call trade-executor.
+
+**NVDA detail:**
+- Back below $201.75 pivot after briefly touching it pre-market ($201.76). RS continues to deteriorate relative to market on positive days. Score 71/100 — stays below threshold until further notice.
+
+### Mid-morning position health check
+
+No open positions. sell-rules-engine skipped.
+
+### Bench promotion check
+
+| Symbol | Status | Action |
+|---|---|---|
+| AMD | Earnings blackout — May 5 AH | No change. Blackout day all day. Pre-score expectation: 72-82/100 post-earnings |
+| GEV | ~65/100, base forming | No change. Price/volume unavailable (Alpaca blocked) |
+| META | ~40-50/100, distribution phase | No change. Remove until base forms (~June) |
+| GOOGL | TBD est. 65-72/100, elevated priority | No change. Score at next available API session |
+
+**AMD re-score trigger:** If AMD reports Q1 2026 EPS ≥$1.30 (+40%+ YoY growth) AND revenue beat ≥+30% YoY → run canslim-screener at /pre-market May 5. Expected score 77+. Highest priority new candidate for week of May 5-9.
+
+### Pending watch items (carry to /eod-review)
+
+- **PLTR AH tonight:** Q1 2026 EPS $0.28 est. (+115% YoY), revenue $1.54B (+74%). Options pricing 10.55% swing. If PLTR beats big → XLC sector thesis strengthens → elevate GOOGL priority for Tuesday re-score. PLTR itself remains removed (technical failure, post-earnings setup needs 5-8 weeks to form base). Confirm PLTR result at /eod-review.
+- **Distribution day (May 4):** S&P -0.1% so far → NOT a distribution day. Confirm at close.
+- **MU consolidation watch:** If MU consolidates tight above $560-570 area over next 3-5 sessions without giving back gains → new pivot could form at ~$570-575. Re-score with fresh data when Alpaca restores.
+- **Alpaca API blockage Day 24:** Still 403 "Host not in allowlist." Has persisted for 24 consecutive trading days. This is a systemic infrastructure issue, not intermittent. Recommend Jason investigate Alpaca account network allowlist configuration immediately. URL confirmation: paper-api.alpaca.markets returning 403. Every watchlist name is within range of a valid entry except for the Alpaca blocker.
+
+### Result: NO ENTRIES — Alpaca API blocked + no triggers met even under websearch_fallback analysis.
+
+---
+
 ## 2026-04-30 (Thu) — /market-check (10:00 AM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 18; AV, Perplexity: blocked; all data via native WebSearch)

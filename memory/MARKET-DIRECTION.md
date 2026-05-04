@@ -143,6 +143,20 @@
 - Market state: 🟢 Confirmed Uptrend Day 22 (pre-market; session not yet open). 2/25 dist days unchanged.
 - `research_source: websearch_fallback` | **Alpaca blocked day 23**
 
+**Monday May 4 /market-check (10:00 AM CT):**
+- S&P 500: -0.1% intraday | Nasdaq: ~flat | Dow: -0.4% | `research_source: websearch_fallback` | **Alpaca blocked day 24**
+- ⛔ **Abort gate: Alpaca API 403 "Host not in allowlist" — Day 24 consecutive. All order execution impossible. No trades.**
+- Geopolitical: Iran Strait of Hormuz — two strikes on US patrol boat; US warship turned back; oil Brent +1.5% to ~$110 (WTI ~$102). Vessels successfully transiting. Risk elevated but contained.
+- FedEx/UPS: -8%+ each (Amazon opening distribution network = competition shock). Logistics sector drag; no direct watchlist impact.
+- PHLX semiconductor index: 22nd win in last 23 sessions; 15th intraday ATH of 2026 — semi leadership intact.
+- **Distribution day: NOT a dist day — S&P 500 -0.1% < -0.20% threshold. Count remains 2/25.** (Confirm at /eod-review)
+- **MU:** ~$584 intraday est. (opened +4.06% from $539.91 Fri close; D.A. Davidson $1,000 PT catalyst). 7.1% above ~$545-546 pivot → **EXTENDED** (outside 5% buy zone). Volume 40.22M vs ADV 37.84M = +6.3% (BELOW +40% required). Price gate FAILS + volume gate FAILS. 🔴 NO ENTRY. `climax_top_risk_flag` active (+8.3% from Fri close + D.A. Davidson $1,000 PT = potential exhaustion signal).
+- **NVDA:** ~$198.61 (-0.48% intraday). BELOW $201.75 pivot. Score 71/100 (below 75 threshold). 🔴 NO ENTRY.
+- **AVGO:** ~$421.09 (+0.88% intraday). 3.5% above $406.75 pivot (within buy zone). Score 72/100 (below 75 threshold + Alpaca volume unverifiable). 🔴 NO ENTRY.
+- **PLTR earnings AH tonight:** Q1 EPS consensus $0.28 (+115% YoY); revenue $1.54B (+74% YoY); options pricing 10.55% swing. XLC sector direction setter for Tuesday.
+- Open positions: 0 | sell-rules-engine: skipped (no positions) | Actions: NONE | Weekly trades: 0/3
+- Market state: 🟢 Confirmed Uptrend Day 22. 2/25 dist days. No state change.
+
 **Tuesday April 28 close (/eod-review confirmed):**
 - S&P 500: 7,138.80 (−0.49% from Monday) | Nasdaq: 24,663.80 (−0.9%) | `research_source: websearch_fallback` (Alpaca blocked day 13)
 - SPY est. ~$711.66 | QQQ est. ~$658.27
@@ -250,3 +264,4 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-05-01 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /eod-review. S&P 500 7,230.12 (+0.29%, NEW ATH), Nasdaq 25,114.44 (+0.89%, NEW ATH). NOT a distribution day (UP day). Dist count: 2/25 unchanged. NVDA ~$199.57 (below $201.75 pivot, RS deteriorating — 3 consecutive sessions of heavy relative weakness vs market). AVGO $405.45 (below $406.75 pivot). 0 open positions. Alpaca blocked day 21. Uptrend Day 21 confirmed. |
 | 2026-05-03 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; sector rotation warning issued) | /weekly-prep Sunday. SPY ~$723.30 (May 1 NEW ATH close), +6.8% above 50d MA ($677.42). QQQ $674.78, +10.1% above 50d MA ($612.66). 2/25 dist days unchanged. Uptrend Day 22. ⚠️ Sector rotation: XLK moved to LAGGING quadrant on RRG; XLI/XLE/XLB now in LEADING quadrant. By trailing 4-week RS math, XLK still ranks #1 (Nasdaq +15.3% April alone) but forward momentum clearly rotating. XLF and XLY ranked #10 and #11 respectively on RRG. Flag all XLK entries with `sector_momentum_warning`. 0 candidates scored ≥75/100 with confirmed entry conditions. 0 open positions. Alpaca blocked day 22. `research_source: websearch_fallback`. |
 | 2026-05-04 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /pre-market. ES futures: opened +0.2%, dipped -0.1% on Iran/Hormuz US warship incident (turned back), recovered to +0.2%. NQ: near flat/+0.2%. Cautious open. No state change — uptrend intact. MU pre-mkt $554.20 (+2.21%, new ATH). NVDA pre-mkt $201.76 (at $201.75 pivot, +1.1% from Friday close). AVGO session ~$414-421 (above $406.75 pivot). PLTR earnings AH tonight. AMD blackout (earnings tomorrow AH). 0 open positions. Alpaca blocked day 23. `research_source: websearch_fallback`. |
+| 2026-05-04 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check. S&P -0.1% intraday (not a dist day; confirm EOD). Nasdaq ~flat. PHLX semi index 22nd win in 23 sessions (15th intraday ATH of 2026). Iran/Hormuz oil spike (+1.5% Brent ~$110); vessels transiting successfully. MU ~$584 intraday (7.1% extended from ~$545-546 pivot, volume only +6% vs +40% required — NOT TRIGGERED; climax_top_risk_flag). NVDA ~$198.61 (below pivot, 71/100 — NOT TRIGGERED). AVGO ~$421.09 (in zone but 72/100 < threshold — NOT TRIGGERED). PLTR earnings AH tonight (XLC sector setter). 0 positions. Alpaca blocked day 24. `research_source: websearch_fallback`. |
