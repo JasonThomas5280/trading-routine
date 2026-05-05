@@ -1,5 +1,27 @@
 
 ---
+## 2026-05-05 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-05-05 (Tue)
+Market: 🟢 Confirmed Uptrend Day 24 | Futures: ES +0.01% (7,231.25) NQ flat (27,776.00) Dow +0.04%
+Open positions: 0 | Circuit breakers: NONE | Alpaca: ❌ BLOCKED DAY 26 (no execution)
+Overnight gaps: NONE (0 open positions)
+
+Overnight catalysts:
+  PLTR Q1 BEAT (AH May 4): EPS $0.33 vs $0.28; Rev $1.63B (+85% YoY); Q2 guide $1.8B vs $1.68B; FY $7.65-7.66B vs $7.27B — only +2% AH reaction (46× fwd rev; beat priced). Watchlist status unchanged.
+  MU: $596.57 pm (+8.2%) — Sandisk Q3 beat (peer). 9.4% extended from ~$546 pivot. `climax_top_risk_flag` ESCALATED. 🔴 DO NOT CHASE.
+  NVDA: China market share = ZERO confirmed by CEO Jensen Huang. Material revenue headwind. Score 71→60-65. 🔴 REMOVED from Primary watchlist.
+  AMD: Earnings AH TONIGHT. Consensus EPS $1.29, Rev $9.90B. HIGH BAR (+66% stock past month). Blackout all day. Re-score /pre-market May 6.
+
+Watchlist ready: NONE (Alpaca blocked + no setup at trigger)
+Watchlist watching: AVGO 🟡 (~$416-420, above $406.75 pivot, est. 72/100 pending live score)
+Removed today: NVDA (China market share = zero — material negative thesis change)
+Newly extended: MU 🔴 ($596 = 9.4% above pivot; climax_top_risk)
+
+Key catalyst today: AMD earnings AH (beat = +8-12% AH; miss = -8-15% AH; sets XLK tone for Wed)
+Plan: NO ENTRIES — Alpaca blocked Day 26 + no valid trigger in buy zone. Monitor AMD AH tonight.
+
+---
 ## 2026-04-30 10:00 CT [market-check]
 
 📈 Market-check 2026-04-30 10:00 AM CT
@@ -668,3 +690,20 @@ Watchlist EOD:
 
 ⚠️ Alpaca API: blocked 25 consecutive days — ZERO trades possible. Escalate now.
 Tomorrow: AMD earnings AH (May 5) — XLK sector setter for Wed. PLTR reaction key for XLC. No entries tomorrow (AMD blackout). NFP risk Fri May 8 — no entries Thu PM or Fri.
+
+---
+## 2026-05-05 11:15 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-05 (Tue)
+Market: 🟢 Confirmed Uptrend Day 24 | Futures: ES +0.01% NQ flat | Dist days: 3/25
+Open positions: 0 | Circuit breakers: NONE | Alpaca: ❌ BLOCKED DAY 26
+Overnight gaps: NONE (0 positions)
+Overnight catalysts:
+  PLTR Q1 BEAT (+85% rev YoY) — only +2% AH (46x fwd rev; priced in). Watchlist unchanged.
+  MU 96.57 pm (+8.2%) — Sandisk beat read-through. EXTENDED 9.4% above pivot. 🔴 CLIMAX_TOP ESCALATED.
+  NVDA: China market share = ZERO (CEO confirmed). Score 71→60-65. 🔴 REMOVED from watchlist.
+  AMD: Earnings AH tonight. HIGH BAR (+66% past month). Blackout all day.
+Watchlist ready: NONE | Watching: AVGO 🟡 (above pivot, score pending)
+Removed today: NVDA (China = zero market share — thesis broken)
+Key catalyst: AMD AH tonight (beat=+8-12%; miss=-8-15%)
+Plan: NO ENTRIES — Alpaca blocked Day 26.

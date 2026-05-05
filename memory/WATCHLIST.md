@@ -8,7 +8,7 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## Week of 2026-05-04 to 2026-05-08 (Current)
 
-**Built:** 2026-05-03 (Sun) — `/weekly-prep` | **Refreshed:** 2026-05-04 (Mon) — `/pre-market` | `research_source: websearch_fallback` (Alpaca + Alpha Vantage + Perplexity ALL blocked — IP allowlist issue Day 23)
+**Built:** 2026-05-03 (Sun) — `/weekly-prep` | **Refreshed:** 2026-05-05 (Tue) — `/pre-market` | `research_source: websearch_fallback` (Alpaca + Alpha Vantage + Perplexity ALL blocked — IP allowlist issue Day 26)
 **Market direction at build time:** 🟢 Confirmed Uptrend Day 22 (SPY ~$723.30 NEW ATH May 1; 2/25 distribution days; follow-through day 2026-04-08)
 **Top sectors (4-week trailing RS — raw % return vs. SPY):**
 1. XLK Technology: ~+8% relative to SPY (Nasdaq +15.3% April; best 4-week performer by math despite losing forward momentum)
@@ -36,16 +36,15 @@ AMD (May 5 AH blackout), PLTR (May 4 AH blackout), ETN (May 5 blackout) all in e
 
 | Rank | Symbol | Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings Date | Buy-Zone | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | MU | **est. 72→76/100 ⚠️ BORDERLINE** | XLK/Memory | Flat base / ATH breakout | ~$545–546 est. (ATH; Alpaca blocked) | entry × 0.93 | ~Jul 1, 2026 ✅ | 🟢 **READY** — $554.20 pm (+2.21%) NEW ATH; ~+1.5% above pivot | Pre-market May 4: **$554.20 NEW ATH**. TD Cowen PT raised $550→$660. AI memory supercycle intact. +61% past month = climax top risk flag on entry. C-letter EPS +405% YoY. **Entry requires:** (1) Alpaca restored, (2) pivot ~$545-546 confirmed on bars, (3) volume ≥+40% on breakout, (4) canslim-screener ≥75 confirmed, (5) sell-rules-engine climax top check. `sector_momentum_warning: XLK lagging RRG`. |
-| 2 | NVDA | **est. 71/100 ❌ BELOW THRESHOLD — CONDITIONAL** | XLK/Semis | Flat base Stage 1 (pivot at exact threshold) | $201.75 | $187.63 (-7%) | ~May 20, 2026 ✅ | 🟡 **WATCHING** — $201.76 pm (AT $201.75 pivot; +1.1% from Fri close) | Pre-market May 4: **$201.76 — AT PIVOT**. Pentagon AI military contracts (positive N-letter). $500B US manufacturing investment. Score 71/100 (below 75 threshold) — conditional ≥75 if pivot confirmed on volume at /market-check. Google/Amazon TPU competition persistent but no overnight escalation. **Entry gate:** (1) Alpaca restored, (2) volume ≥+40% vs 50d avg at pivot, (3) fresh canslim-screener ≥75. `sector_momentum_warning`. |
-| 3 | AVGO | **est. 72/100 ❌ BELOW THRESHOLD (expected 76-80 w/ live data)** | XLK/Semis | Flat base Stage 2 (above pivot) | $406.75 | $378.28 (-7%) | Jun 3, 2026 ✅ (30 days) | 🟡 **WATCHING** — ~$414-421 session (+3.5% above pivot; within buy zone) | Session May 4: **$413-$423 range, ~$421 mid-session** — above $406.75 pivot. META $300B+ AI chip commitment confirmed. AI rev Q1 FY2026 +106% YoY. Score 72/100 expected 76-80 with live data. **Entry requires:** (1) Alpaca restored, (2) volume ≥+40% confirmed, (3) canslim-screener ≥75. `sector_momentum_warning`. |
-| 4 | STX | **est. 53→68/100 ❌ NO BASE** | XLK/Storage | Post-earnings gap; no base formed | TBD (base needs ~5 wks to form) | — | ~Jul 2026 ✅ | 🔴 **NO BASE** — $726-728 May 1 ATH; no tradeable pivot | May 1 close $726.93 (ATH $728.00). +600% YoY, +100% in 2026. No base formed post-earnings gap (Apr 28). Wait 5-8 weeks for cup-with-handle. Score 68/100 (expected 83+ with live API). **Watch: when base forms → re-score → potentially move to Primary #1.** |
+| 1 | MU | **est. 72→76/100 ⚠️ BORDERLINE** | XLK/Memory | Flat base / ATH breakout | ~$545–546 est. (ATH; Alpaca blocked) | entry × 0.93 | ~Jul 1, 2026 ✅ | 🔴 **EXTENDED** — $596.57 pm (+8.2%); 9.4% above ~$546 pivot; `climax_top_risk_flag` ESCALATED | Pre-market May 5: **$596.57** (+8.2% from ~$542 close). Catalyst: Sandisk Q3 massive beat (peer read-through). **EXTENDED 9.4% above ~$545-546 pivot** (5% buy-zone ceiling ~$572). `climax_top_risk_flag` ESCALATED — 3+ sessions of violent intraday swings (May 4: surged to $584, reversed to $542; May 5: gapped to $596). DO NOT CHASE. Watch for consolidation: if MU forms tight base above $570-580 for 3-5 sessions, new pivot may emerge at ~$575-580. C-letter EPS +405% YoY. `sector_momentum_warning: XLK lagging RRG`. |
+| 2 | AVGO | **est. 72/100 ❌ BELOW THRESHOLD (expected 76-80 w/ live data)** | XLK/Semis | Flat base Stage 2 (above pivot) | $406.75 | $378.28 (-7%) | Jun 3, 2026 ✅ (29 days) | 🟡 **WATCHING** — ~$416-420 est. (+2.4% above pivot; within buy zone) | May 5 pm: ~$416-420 est. (above $406.75 pivot). No negative catalyst overnight. AI chip $100B 2027 target reaffirmed. META $300B+ AI chip commitment intact. AI rev Q1 FY2026 +106% YoY. Score est. 72/100 — expected 76-80 with live data. **Entry requires:** (1) Alpaca restored, (2) volume ≥+40% confirmed, (3) canslim-screener ≥75. `sector_momentum_warning`. |
+| 3 | STX | **est. 53→68/100 ❌ NO BASE** | XLK/Storage | Post-earnings gap; no base formed | TBD (base needs ~4-5 wks to form) | — | ~Jul 2026 ✅ | 🔴 **NO BASE** — $710.89 ATH May 5 (new 52-wk high); no tradeable pivot | May 5: $710.89 (new 52-wk high, +147% YTD). Rosenblatt and BofA raised PTs on Q3 beat. Demand booked through 2027 per mgmt. Still no base — needs 4-5 more weeks. Wait for cup-with-handle. Score 68/100 (expected 83+ with live API). **Watch: base formation target week ~May 25-June 6. Re-score when Alpaca restores.** |
 
 ### Bench (5–8 — setup forming, not yet at pivot)
 
 | Rank | Symbol | Conviction | Notes |
 |---|---|---|---|
-| 5 | AMD | **BLACKOUT (May 5 AH)** | XLK/Semis. Earnings Tuesday May 5 after close — full blackout this week. ATH $362.79 on May 1 (new all-time high). Q1 expected EPS $1.30 (+33% YoY), revenue $9.84B (+32% YoY). OpenAI 6GW deal for MI450 GPUs confirmed. 29/40 analysts Buy, DA Davidson $375 PT. **Re-score immediately after May 5 earnings if beats.** Expected 72–82/100 post-earnings depending on beat magnitude and base formation. If beats 40%+ EPS = C-letter 15pts → likely 77+. High priority for week of May 11 /weekly-prep. |
+| 5 | AMD | **BLACKOUT TODAY (May 5 AH)** | XLK/Semis. Earnings after close TONIGHT May 5. Blackout all day. ATH $362.79 May 1 (new all-time high). Q1 cons. EPS $1.29 (+33% YoY), Rev $9.90B. **HIGH BAR: stock +66% past month.** Beat scenario +8-12% AH; miss -8-15% AH. OpenAI 6GW MI450 GPU deal confirmed. DA Davidson $375 PT. **Re-score at /pre-market May 6 immediately after results.** Expected 72-82/100 post-earnings; if beats ≥$1.30 (+40%+ YoY) = C-letter 15pts → likely 77+. Highest priority candidate for week of May 11 if beats. |
 | 6 | GEV | **est. 65/100 BENCH — base forming** | XLI/Power Infrastructure. Price ~$1,062 (-10% from ATH $1,182). Q1 2026: Rev $9.34B (+16% YoY), Adj EPS $1.98 (+118% vs Q1 2025 $0.91), Orders $18.3B (+71% YoY). AI data center power infrastructure theme — hyperscalers buying gas turbines for data center power. 28/0 analyst Buy. BUT: only 2 years of public history as separate company (spun off April 2024) → A-letter capped at 7pts under short_annual_history rule. Float ~270M shares. No confirmed base. **Watch XLI sector**: if XLI clearly moves to #2 by 4-week RS (currently #4), GEV becomes primary sector focus. Expected score 75+ once base forms (4–6 weeks). |
 | 7 | META | **est. 40-50/100 ❌ POST-EARNINGS SELLOFF** | XLC/Communication. Q1 beat ($7.31 EPS vs $6.79 est.; rev $56.31B +33% YoY) but -9%+ AH on capex raise $125-145B. May 1 close **$608.75** (-23.5% from 52wk high $796.25 Aug 2025). Massive float (2.5B+ shares). **NO ENTRY — needs 4-6 weeks to form base.** C-letter potentially strong, but stock in distribution phase. Score irrelevant until base forms. Re-evaluate ~June. 🔴 |
 | 8 | GOOGL | **TBD est. 65-72/100 — needs canslim-screener** | XLC/Communication. Q1 BEAT: Rev $109.9B vs $107.2B; Cloud +63% to $20B; backlog doubled to $460B. +10% post-earnings, new 52-week high. Pentagon AI military contracts. Analyst upgrades: JPMorgan $460, TD Cowen $450, Citi $447, Wells Fargo $427. XLC #2 sector. CONCERN: massive float; needs confirmed base formation at pivot. **Score at next available API session.** 🟡 WATCHING — elevated priority bench. |
@@ -56,6 +55,7 @@ AMD (May 5 AH blackout), PLTR (May 4 AH blackout), ETN (May 5 blackout) all in e
 
 | Symbol | Reason |
 |---|---|
+| NVDA | CEO Jensen Huang confirmed China market share = ZERO due to US export restrictions (May 5 2026). Material revenue headwind — China historically 15-25% of NVDA revenue. Score drops from 71 → est. 60-65/100 (well below 75 threshold). 5+ consecutive sessions of RS underperformance vs. market. Below $201.75 pivot. Removed May 5. Re-evaluate post-May 20 earnings if (1) China situation resolves OR (2) US/international demand offset confirmed at ≥75% of prior China revenue. `sector_momentum_warning` remains. |
 | LRCX | Carried from prior week removal. China export curbs (MATCH Act), -8.2% below pivot, insider selling $1.55M. Remain removed until: (1) MATCH Act outcome, (2) pivot reclaim, (3) fresh canslim-screener with live API. |
 | CRWD | 44/100 REJECT from prior week. EPS deceleration to +8.7% YoY, negative GAAP ROE. Re-score after June 9 earnings. |
 | GS | C-letter fail (Q1 2026 EPS +24.3%, below 25% threshold). XLF now ranked #10 by RRG — sector is effectively blacklisted by momentum signal. Re-score after July Q2 earnings if EPS accelerates ≥25%. |
@@ -77,10 +77,14 @@ AMD (May 5 AH blackout), PLTR (May 4 AH blackout), ETN (May 5 blackout) all in e
 - MU: Confirm ATH area holding. Check for sell-off (climax top) or constructive consolidation.
 - No entries expected unless Alpaca restores over weekend.
 
-**Tuesday May 5:**
-- AMD earnings AH — no entry all day (blackout). Pre-market: score PLTR reaction for XLC sector thesis.
-- ETN earnings — no entry ETN.
-- AVGO: Any move above $406.75 on volume? Score check.
+**Tuesday May 5:** ← TODAY
+- AMD earnings AH — **no entry all day (blackout)**. AMD reports tonight.
+- ETN earnings — no entry ETN. ETN removed (C-letter fail).
+- NVDA: **REMOVED from watchlist** — China market share zero confirmed by CEO. Re-eval post-May 20 earnings.
+- MU: **EXTENDED 9.4% above pivot** ($596 vs ~$546). `climax_top_risk_flag` ESCALATED. DO NOT CHASE.
+- AVGO: $416-420 est. (above pivot). 🟡 WATCHING — score pending live API. No execution (Alpaca blocked day 26).
+- PLTR: Up ~+1.4% from massive beat (only +2% AH — muted at 46× fwd rev). Watchlist status unchanged (removed); monitor for technical repair.
+- **Results tonight:** AMD AH = highest priority event of the week. Re-score immediately tomorrow.
 
 **Wednesday May 6:**
 - Heavy earnings week (450 companies). Tech/XLC names continue reporting.

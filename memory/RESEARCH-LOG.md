@@ -44,6 +44,72 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+## 2026-05-05 (Tue) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 26; Perplexity: 403 blocked; Alpha Vantage: blocked; all data via native WebSearch)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 24 | 3/25 distribution days
+**Sector leaders (4-week trailing RS):** XLK Technology (#1, Nasdaq +15.3% April) | XLC Communication (#2, PLTR/GOOGL/META post-earnings) | XLE Energy (#3, Iran/Hormuz premium)
+**⚠️ SECTOR ROTATION SIGNAL:** RRG still shows XLK in LAGGING quadrant; XLI/XLE leading forward. All XLK entries carry `sector_momentum_warning`. Monitor 4-week RS weekly.
+
+### Overnight catalysts
+
+| Symbol | Catalyst | Thesis Impact | Action |
+|---|---|---|---|
+| PLTR | Q1 AH beat: EPS $0.33 vs $0.28 (+18%); Rev $1.63B vs $1.54B (+85% YoY — fastest growth since 2020); Q2 $1.8B guide vs $1.68B; FY $7.65-7.66B vs $7.27B | **NONE — beat fully priced.** AH reaction only +2% (46× fwd revenue). PLTR removed from watchlist due to technical structure failure; massive beat doesn't repair 10d < 50d MA. | Watchlist status UNCHANGED (removed) |
+| MU | Sandisk Q3 massive beat (peer read-through) → MU pm $596.57 (+8.2% from $542 close) | **⚠️ CLIMAX TOP RISK ESCALATED.** $596.57 = 9.4% above ~$545-546 pivot (>5% buy zone ceiling ~$572). DO NOT CHASE. | 🔴 EXTENDED — status updated in WATCHLIST.md |
+| NVDA | CEO Jensen Huang confirms China market share = ZERO due to US export restrictions | **⚠️ MATERIAL NEGATIVE — thesis broken.** China historically 15-25% of NVDA revenue. Score drops 71 → est. 60-65/100. RS deteriorating 5+ consecutive sessions. | 🔴 REMOVED from Primary watchlist |
+| AVGO | No material overnight news. AI chip $100B 2027 target reaffirmed in analyst notes | Setup intact. Score est. 72/100 (expected 76-80 with live data). | 🟡 WATCHING — unchanged |
+| AMD | Earnings AH tonight May 5. Blackout all day. Consensus: EPS $1.29, Rev $9.90B (+33% YoY) | HIGH BAR: +66% stock past month. Beat = +8-12% AH. Miss = -8-15% AH. | 🚫 BLACKOUT — re-score /pre-market May 6 |
+
+### Market overnight check
+
+| Indicator | Level | vs Prior | Notes |
+|---|---|---|---|
+| ES futures (S&P) | 7,231.25 | +0.01% | Essentially flat open |
+| NQ futures (Nasdaq) | 27,776.00 | flat | No directional bias |
+| Dow futures | 49,099 | +0.04% | Flat/marginally positive |
+| Oil (Brent) | ~$114 est. | Elevated | Iran/Hormuz persists; no new escalation overnight |
+| Macro today | None | — | No scheduled major macro data; FOMC speakers possible |
+
+**Market thesis:** Flat open expected. PLTR beat but muted. AMD earnings tonight = key XLK/XLC sentiment driver for Wednesday. No reason to change market state. Uptrend Day 24 intact, 3/25 dist days (buffer of 2 before Under Pressure threshold).
+
+### Overnight gap check on open positions
+
+**No open positions — gap check skipped.**
+
+### Buy-zone readiness
+
+| Symbol | Last Price (est.) | Pivot | Distance | Volume (pre-mkt) | Status |
+|---|---|---|---|---|---|
+| MU | $596.57 pm | ~$545-546 | +9.4% EXTENDED | Elevated (Sandisk catalyst) | 🔴 EXTENDED — climax_top_risk ESCALATED |
+| AVGO | ~$416-420 est. | $406.75 | +2.4% | N/A (Alpaca blocked) | 🟡 WATCHING — score pending |
+| STX | $710.89 (new ATH) | None (no base) | N/A | N/A | 🔴 NO BASE — unchanged |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | $0 P&L (no positions) — CLEAR |
+| Weekly -6% | $0 week-to-date — CLEAR |
+| Drawdown -12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ **403 blocked Day 26 — HALT ALL ENTRIES per TRADING-STRATEGY.md** |
+
+**No circuit breakers active. Alpaca block continues to be the sole execution halt.**
+
+### Pending watch items (carry to /market-check 10:00 AM CT)
+
+- **AMD earnings AH tonight (May 5):** Re-score at /pre-market May 6. If EPS ≥$1.30 (+40%+ YoY): likely 77+ score → promote to Primary #1 for May 6-8 window.
+- **NVDA removed:** Confirmation of China zero market share = maintain removal. Re-evaluate post-May 20 earnings.
+- **MU consolidation watch:** If MU tightens between $570-580 for 3-5 sessions without new distribution = new pivot possibly forming. Viable entry thesis could return week of May 11.
+- **AVBO /market-check check:** Monitor for continued hold above $406.75 on good breadth. If Alpaca restores, prioritize immediate volume confirmation + canslim-screener re-run.
+- **Distribution day watch (May 5):** Market likely to open flat. Not expected to be a dist day. Confirm at /eod-review.
+- **Alpaca API blocked Day 26:** Zero entries possible regardless of setup quality. Escalation priority remains HIGH.
+
+### Result: NO ENTRIES — Alpaca API blocked Day 26 + all entry conditions requiring execution halted.
+
+---
+
 ## 2026-05-04 (Mon) — /market-check (10:00 AM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 24; Perplexity/AV blocked same reason; all data via native WebSearch)

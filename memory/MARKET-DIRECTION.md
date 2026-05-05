@@ -8,14 +8,14 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-04 (Mon) — `/eod-review`
-**Confirmed Uptrend days:** 23 (since follow-through day 2026-04-08)
+**Last updated:** 2026-05-05 (Tue) — `/pre-market`
+**Confirmed Uptrend days:** 24 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 3 effective (Apr 23, Apr 28, May 4) — Iran launches missiles at UAE; SPY −0.41% (> −0.20% threshold); oil WTI +4.39% to $106.42, Brent +5.8% to $114.44
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **⚠️ SECTOR ROTATION ALERT:** RRG (Relative Rotation Graph) as of May 3 shows XLK (Technology) has moved into the LAGGING quadrant (below-average RS ratio, declining momentum). XLI (Industrials), XLE (Energy), XLB (Materials) are in the LEADING quadrant. By strict 4-week trailing return math, XLK still ranks #1 (Nasdaq +15.3% in April alone). The divergence between RRG momentum signal and 4-week trailing math is a WARNING: leadership is rotating. Flag all XLK entries this week with `sector_momentum_warning`. Monitor XLK's 4-week RS vs. XLI/XLE weekly — if XLK drops below #3 in trailing 4-week RS, sector blackout for new XLK entries.
 
-**⚠️ ALPACA API BLOCKED — Day 25 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+**⚠️ ALPACA API BLOCKED — Day 26 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
 
 **SPY close 2026-05-04 (Mon — most recent session):** ~$720.33 est. (S&P 500: 7,200.75, −0.41%) | QQQ ~$673.50 est. (Nasdaq: 25,067.80, −0.19%) | Dow: 48,941.90 (−1.13%, −557 pts) | Driver: Iran launched missiles at UAE; UAE intercepted; oil WTI +4.39% to $106.42, Brent +5.8% to $114.44 | SPY 50d MA: ~$677.42 | SPY above 50d MA: +6.3% est. | `research_source: websearch_fallback` | **Alpaca blocked day 25** | ⚠️ DISTRIBUTION DAY #3 CONFIRMED
 
@@ -159,6 +159,17 @@
 - Open positions: 0 | sell-rules-engine: skipped (no positions) | Actions: NONE | Weekly trades: 0/3
 - Market state: 🟢 Confirmed Uptrend Day 22. 2/25 dist days. No state change.
 
+**Tuesday May 5 pre-market (/pre-market check):**
+- ES futures: 7,231.25 (+0.01%) | NQ futures: 27,776.00 (flat) | Dow futures: +0.04% — essentially flat open expected
+- No major macro data today. AMD earnings AH (key event; blackout all day).
+- **PLTR Q1 AH (May 4):** EPS $0.33 vs $0.28 cons.; Rev $1.63B vs $1.54B (+85% YoY); Q2 guide $1.8B vs $1.68B; FY2026 $7.65-7.66B vs $7.27B. AH reaction: only +2% (46× fwd revenue — beat already priced). PLTR watchlist status unchanged (removed).
+- **MU pre-market $596.57 (+8.2% from ~$542 close):** Sandisk Q3 massive beat = peer read-through. $596.57 vs ~$545-546 pivot = **+9.4% EXTENDED** (>5% buy zone ceiling ~$572). `climax_top_risk_flag` ESCALATED. 🔴 DO NOT CHASE.
+- **NVDA ~$198.12 (below $201.75 pivot):** CEO Jensen Huang confirms **China market share = ZERO** due to US export restrictions. Material revenue headwind. Score drops 71 → est. 60-65/100. **REMOVED from Primary watchlist.**
+- **AVGO ~$416-420 est. (+2.4% above $406.75 pivot):** No negative catalyst. AI chip $100B 2027 target intact. Est. 72/100 (expected 76-80 with live data). 🟡 WATCHING.
+- **AMD blackout all day (earnings AH tonight):** EPS cons. $1.29 (+33% YoY), Rev $9.90B. High bar (stock +66% past month). Re-score at /pre-market May 6.
+- Dist count: 3/25 unchanged. Market state: 🟢 Confirmed Uptrend Day 24. No state change.
+- `research_source: websearch_fallback` | **Alpaca blocked day 26**
+
 **Tuesday April 28 close (/eod-review confirmed):**
 - S&P 500: 7,138.80 (−0.49% from Monday) | Nasdaq: 24,663.80 (−0.9%) | `research_source: websearch_fallback` (Alpaca blocked day 13)
 - SPY est. ~$711.66 | QQQ est. ~$658.27
@@ -269,3 +280,4 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-05-04 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /pre-market. ES futures: opened +0.2%, dipped -0.1% on Iran/Hormuz US warship incident (turned back), recovered to +0.2%. NQ: near flat/+0.2%. Cautious open. No state change — uptrend intact. MU pre-mkt $554.20 (+2.21%, new ATH). NVDA pre-mkt $201.76 (at $201.75 pivot, +1.1% from Friday close). AVGO session ~$414-421 (above $406.75 pivot). PLTR earnings AH tonight. AMD blackout (earnings tomorrow AH). 0 open positions. Alpaca blocked day 23. `research_source: websearch_fallback`. |
 | 2026-05-04 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check. S&P -0.1% intraday (not a dist day; confirm EOD). Nasdaq ~flat. PHLX semi index 22nd win in 23 sessions (15th intraday ATH of 2026). Iran/Hormuz oil spike (+1.5% Brent ~$110); vessels transiting successfully. MU ~$584 intraday (7.1% extended from ~$545-546 pivot, volume only +6% vs +40% required — NOT TRIGGERED; climax_top_risk_flag). NVDA ~$198.61 (below pivot, 71/100 — NOT TRIGGERED). AVGO ~$421.09 (in zone but 72/100 < threshold — NOT TRIGGERED). PLTR earnings AH tonight (XLC sector setter). 0 positions. Alpaca blocked day 24. `research_source: websearch_fallback`. |
 | 2026-05-04 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; dist day #3 added) | /eod-review. S&P 500 7,200.75 (−0.41%) = DISTRIBUTION DAY #3 confirmed — Iran launched missiles at UAE; UAE intercepted; oil WTI +4.39% to $106.42, Brent +5.8% to $114.44; magnitude −0.41% > −0.20% threshold; vol ratio elevated by geopolitical shock (Alpaca blocked day 25 — unconfirmed). Dist count 3/25 — still well below 5-day Under Pressure threshold. Nasdaq 25,067.80 (−0.19%, below −0.20% threshold; not a QQQ dist day). NVDA ~$198.63 (below $201.75 pivot; 4th consecutive session; score 71/100). MU ~$542 est. (opened +4.06%, surged to $584 intraday, reversed to close near flat — bearish reversal; climax_top_risk_flag escalated to ACTIVE). AVGO ~$420.27 (above $406.75 pivot; 72/100 est.). PLTR massive AH beat: EPS $0.34 vs $0.28 consensus; Q2 guide $1.8B vs $1.68B; FY2026 guide $7.65B vs $7.27B; AH +1.3%. 0 positions. Alpaca blocked day 25. Uptrend Day 23 confirmed. `research_source: websearch_fallback`. |
+| 2026-05-05 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /pre-market. ES futures +0.01%, NQ flat — essentially flat open. PLTR massive beat (+85% rev YoY) but only +2% reaction (46× fwd revenue; beat already priced). MU $596.57 pm (+8.2% — 9.4% extended from ~$546 pivot; `climax_top_risk_flag` ESCALATED; Sandisk Q3 beat peer read-through). NVDA ~$198.12 (China market share = ZERO confirmed by CEO Jensen Huang — material negative; score ~60-65; REMOVED from primary watchlist). AVGO ~$416-420 (above $406.75 pivot; 🟡 WATCHING). AMD earnings AH tonight (high bar: +66% stock past month). 0 positions. Alpaca blocked day 26. 3/25 dist days unchanged. Uptrend Day 24. research_source: websearch_fallback. |
