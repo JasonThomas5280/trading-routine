@@ -2600,3 +2600,127 @@ Key risks this week: PLTR earnings Mon May 4 AH; AMD earnings Tue May 5 AH; Apri
 6. ⚠️ **Alpaca API blocked day 25** — No execution possible. Day 25 of 25 is a 5-week block. Escalate urgently. Contact Alpaca support directly.
 7. **NFP Friday May 8** — No new entries Thursday PM or Friday per watchlist plan.
 
+
+---
+
+## 2026-05-05 — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 blocked Day 26 — live test confirmed; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 25 — no state change
+**Abort gate hit:** ⚠️ **Alpaca API blocked Day 26** — all order execution impossible. No trades.
+
+### Market overview (10:00 AM CT = 11:00 AM ET)
+
+- S&P 500: ~+0.5% intraday (~7,236 est.) | QQQ: ~$672.12 (range $668.90–$676.73) | Russell 2000: +1.39%
+- Driver: Iran/UAE tensions easing (ceasefire signals; oil pulling back from WTI $106.42 peak). Broad risk-on recovery.
+- Intel (INTC): +10% (Bloomberg: Apple + Samsung early-stage US chip manufacturing discussions)
+- Semi sector: broadly green; PHLX continuation of strength
+- NOT a distribution day — UP day; dist count 3/25 unchanged
+
+### Abort gate evaluation
+
+| Gate | Status | Detail |
+|---|---|---|
+| Market state | ✅ PASS | Confirmed Uptrend Day 25 |
+| Research source | ✅ PASS | websearch_fallback (not DEGRADED) |
+| Daily circuit breaker | ✅ PASS | $0 P&L, 0 positions |
+| Weekly circuit breaker | ✅ PASS | $0 P&L, 0 positions |
+| Drawdown halt | ✅ PASS | 0% drawdown |
+| Weekly trade count | ✅ PASS | 0/3 used |
+| Position count | ✅ PASS | 0 of 4 |
+| Cash buffer | ✅ PASS | 100% cash |
+| **Alpaca API** | ❌ **ABORT** | **403 Host not in allowlist — Day 26 consecutive** |
+
+**All trading halted.** Research-only mode.
+
+### Watchlist trigger evaluation
+
+#### MU (Micron Technology) — Primary Rank 1
+
+**⚠️ DATA CORRECTION — May 4 actual close:** Prior /eod-review estimated ~$542; actual close confirmed via WebSearch = **$577.79** (range $552.87–$592.77). The EOD estimate was materially wrong. May 4 intraday context: hit $592.77 ATH, closed $577.79 (+6.8% from May 1 close $539.91 — NOT the reversal-to-near-flat pattern described in EOD; significant upward revision).
+
+**May 5 intraday (~10 AM CT):** ~$607 (+5% from $577.79 actual close). "MU rose 5%, boosted by AI HBM demand, HBM products sold out through 2026, analyst PT hikes" (TheStreet).
+
+**Trigger check:**
+- Pivot: ~$545–546 est.
+- Current price: ~$607
+- Distance from pivot: +11.2% (buy zone ceiling: $545.5 × 1.05 = ~$572.8)
+- **Price gate: ❌ FAILS — 11.2% extended, far above 5% buy zone ceiling**
+- Volume: massive implied (catalyst: HBM sold out news + analyst PTs)
+- Volume gate: would PASS (large volume confirmed by catalyst)
+- Conviction gate: 72–76/100 est. (borderline — would need fresh score)
+- **VERDICT: NOT TRIGGERED — extended 11.2%. DO NOT CHASE.**
+- `climax_top_risk_flag` ACTIVE and escalating. If MU runs another +5% from here, approaching climax territory for any holder.
+
+**Updated MU status:** Extended above buy zone. Watch for 2–3 week tight consolidation above $575–580 before considering a new entry. DO NOT chase into strength.
+
+#### AVGO (Broadcom) — Primary Rank 2
+
+**May 5 intraday (~10 AM CT):** $422.85 (range $419.70–$426.69), prev close $416.50, +1.5%.
+Volume: 15.14M at ~90 min into session.
+
+**Trigger check:**
+- Pivot: $406.75
+- Current price: $422.85 → +3.9% above pivot ✅
+- Buy zone ceiling: $406.75 × 1.05 = $427.09 → $422.85 < $427.09 ✅
+- Price gate: ✅ PASSES (in zone)
+- Volume pace: 15.14M / (90min/390min) = ~65.5M/day vs ADV 19.15M = +242% above ADV
+- Volume gate: ✅ PASSES (far above +40% threshold)
+- Conviction score: 72/100 est. ❌ (FAILS — below 75 threshold)
+- Alpaca: ❌ BLOCKED (no execution even if all gates passed)
+- Earnings: ~Jun 3, 2026 (29 days out ✅)
+- **VERDICT: NOT TRIGGERED — conviction 72/100 < 75 threshold. All other gates pass.**
+- **Observation:** This is the cleanest setup in the universe right now. If AV confirms score ≥75 with live data, AVGO becomes the immediate entry on Alpaca restoration.
+
+#### STX (Seagate) — Primary Rank 3
+
+No base formed. No pivot. NO TRIGGER. Watch-only.
+
+#### AMD (Bench) — BLACKOUT
+
+Earnings AH tonight. **All-day blackout.** May 4 close $341.54 (−5.27%; bearish engulfing pre-earnings — institutional positioning prior to results). ATH $362.79 May 1. Consensus EPS $1.29 (+33.4% YoY), Rev $9.89B. Key watch: Data Center rev ($5.56B est.), MI450 shipment timeline confirmation, Meta Helios cluster update. Beat at ≥$1.30 → C-letter 15pts → est. score 77+. Miss or guide-down = remove from bench. **Re-score at /pre-market May 6.**
+
+#### GEV (Bench)
+
+~$1,065 est. (-10% from ATH $1,149.53). Base forming. Not within 2% of pivot (pivot undefined until base completes). No change. Keep bench.
+
+#### GOOGL (Bench)
+
+New 52-wk high territory post-earnings. No confirmed base or pivot. Not scoreable without canslim-screener. Keep bench, elevated priority. Score when APIs restore.
+
+#### META (Bench)
+
+$608.75 (May 1 close). -23.5% from $796.25 ATH. Post-earnings base forming. 4–6 weeks to tradeable pattern. Keep bench.
+
+### Position health check (mid-morning Rule 1/Rule 3 scan)
+
+- Open positions: **0** → sell-rules-engine SKIPPED (nothing to evaluate).
+
+### Bench promotion/demotion check
+
+| Symbol | Current | Action | Reason |
+|---|---|---|---|
+| AMD | $341.54 (May 4 close) | NO CHANGE — BLACKOUT | Earnings tonight; re-assess /pre-market May 6 |
+| GEV | ~$1,065 est. | NO CHANGE | Not within 2% of any defined pivot |
+| GOOGL | New 52-wk high | NO CHANGE | Needs canslim-screener; no confirmed base |
+| META | ~$608.75 | NO CHANGE | -23.5% from ATH; base forming |
+
+No promotions or demotions this session.
+
+### Circuit breakers
+
+| Breaker | Trigger | Status |
+|---|---|---|
+| -3% single day | Account down -3% | ✅ CLEAR — $0 P&L |
+| -6% weekly | Account down -6% week | ✅ CLEAR — $0 P&L |
+| -12% drawdown | -12% from HWM | ✅ CLEAR — 0% drawdown |
+| PDT count | 3 of 3 rolling 5 days | ✅ CLEAR — 0/3 |
+| Alpaca API down | Halt all activity | ⚠️ ACTIVE — Day 26 (403 confirmed by live curl test) |
+
+### EOD priorities (/eod-review 3:15 PM CT)
+
+1. **AMD earnings AH** — tonight's results are the most important event of the week. Re-score immediately when results drop. If beat ≥$1.30 EPS + guidance raise = primary candidate May 11 week.
+2. **AVGO close:** Did it hold above $406.75 pivot? If closes above $427 buy zone ceiling = extended for tomorrow. If holds $419–427 = entry candidate tomorrow pending score confirmation.
+3. **MU close:** Is the climax top reversal pattern re-emerging? Or constructive consolidation? Watch for close vs. $577 area.
+4. **Distribution day check:** S&P up today → NOT a dist day. Confirm at close. Count remains 3/25.
+5. ⚠️ **Alpaca API Day 26** — 403 confirmed live this session. Contact Alpaca support immediately. Ticker: paper trading account PK7N46M65LLJZTRF35BKX7GJD6. This block has persisted 26 consecutive trading days.

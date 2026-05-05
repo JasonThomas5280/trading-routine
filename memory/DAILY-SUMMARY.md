@@ -707,3 +707,20 @@ Watchlist ready: NONE | Watching: AVGO 🟡 (above pivot, score pending)
 Removed today: NVDA (China = zero market share — thesis broken)
 Key catalyst: AMD AH tonight (beat=+8-12%; miss=-8-15%)
 Plan: NO ENTRIES — Alpaca blocked Day 26.
+
+---
+
+📈 Market-check 2026-05-05 10:00 AM CT
+Market: 🟢 Confirmed Uptrend Day 25 (3/25 dist days) | Circuit breakers: Alpaca API blocked Day 26 ⚠️
+Actions taken:
+  No new entries — Abort gate: Alpaca API 403 blocked (Day 26 consecutive)
+  No sells — 0 open positions
+Watchlist status: 0 triggered, 2 watching (AVGO, MU), 1 blackout (AMD AH tonight), 0 removed
+  MU ~$607 (+5%): EXTENDED +11.2% above ~$546 pivot — DO NOT CHASE; climax_top_risk_flag ACTIVE
+  AVGO $422.85 (+1.5%): In buy zone, volume +242% pace, but score 72/100 < 75 threshold — REJECTED
+  AMD $341.54 close (May 4): BLACKOUT all day — earnings AH tonight (consensus EPS $1.29 +33% YoY)
+  DATA CORRECTION: MU May 4 actual close = $577.79 (prior EOD estimate $542 was wrong)
+Open positions: 0 (100% cash) | Equity: ~$2,500 est.
+Weekly trade count: 0 of 3 used
+Next check: /eod-review 3:15 PM CT — AMD AH results will be key overnight
+⚠️ ESCALATE: Alpaca API 403 "Host not in allowlist" — Day 26. Paper acct PK7N46M65LLJZTRF35BKX7GJD6. Contact Alpaca support urgently.
