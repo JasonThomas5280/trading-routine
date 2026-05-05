@@ -2724,3 +2724,115 @@ No promotions or demotions this session.
 3. **MU close:** Is the climax top reversal pattern re-emerging? Or constructive consolidation? Watch for close vs. $577 area.
 4. **Distribution day check:** S&P up today → NOT a dist day. Confirm at close. Count remains 3/25.
 5. ⚠️ **Alpaca API Day 26** — 403 confirmed live this session. Contact Alpaca support immediately. Ticker: paper trading account PK7N46M65LLJZTRF35BKX7GJD6. This block has persisted 26 consecutive trading days.
+
+---
+
+## 2026-05-05 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 blocked — day 27 confirmed by live curl test; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 26 — no state change
+
+**Close:** SPY ~$727.22 est. | QQQ ~$680.08 est. | S&P 500: ~7,270 (+0.97%, NEW ATH) | Nasdaq: ~25,343 (+1.1%, NEW ATH) | Driver: Iran/UAE ceasefire signals; oil retreating from WTI $106.42 peak; broad risk-on recovery; Russell 2000 leading; Intel +10% on Apple/Samsung chip manufacturing talks.
+**Distribution days:** 3 of 25 effective (Apr 23, Apr 28, May 4) — today: NOT a dist day (UP day +0.97%). Count: **3/25 unchanged.**
+**Market state:** 🟢 Confirmed Uptrend Day 26 (no transition; new ATHs; Iran shock fully reversed; SPY est. ~+6.6% above 50d MA ~$682 est.)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — 0 open positions to evaluate
+  - TIGHTEN: none — no positions
+  - SELL: none — no positions
+**Circuit breakers:** NONE ACTIVE ($0 daily P&L; $0 weekly P&L; 0% drawdown; 0/3 PDT) | ⚠️ Alpaca API blocked day 27 — no execution possible
+**P&L today:** $0.00 (0.00%) — 100% cash, no positions
+**Equity:** ~$2,500.00 est. (Alpaca blocked — cannot confirm)
+**Weekly trade count:** 0 of 3 used (week of May 4–8)
+
+### Market close context — May 5, 2026
+
+- S&P 500: ~7,270 (+0.97%) — NEW ALL-TIME HIGH (from 7,200.75 May 4 close)
+- Nasdaq Composite: ~25,343 (+1.1%) — NEW ATH; Nasdaq and Russell 2000 new intraday records per TheStreet
+- SPY: ~$727.22 est. | QQQ: ~$680.08 est.
+- **Primary driver:** Iran/UAE geopolitical tensions easing — ceasefire signals; US and UAE diplomatic channels active; oil WTI retreating from $106.42 peak (down toward $100–102 est.). Broad risk-on recovery from Monday's Iran missile shock.
+- Intel +10% (Bloomberg: Apple + Samsung early-stage US chip manufacturing discussions — N-letter positive for domestic semis)
+- PHLX semiconductor index: continuation of leadership
+- Russell 2000: new intraday records (small caps leading = broad market confirmation of uptrend health)
+- SPY 50d MA: ~$682 est. (rising; SPY est. ~+6.6% above 50d MA — uptrend very strong, not overbought to correction risk level)
+
+### Distribution day check — May 5
+
+- Magnitude: +0.97% — UP day. CANNOT be a distribution day.
+- Distribution count: **3/25 UNCHANGED** (Apr 23, Apr 28, May 4)
+- Current count vs state thresholds: 3/5 to "Under Pressure" (still 2 dist days away from any state change)
+- **No state change triggered.**
+
+### sell-rules-engine — EOD batch
+
+| Symbol | Position | Verdict | Trigger Rule | Action |
+|---|---|---|---|---|
+| — | 0 positions in book | SKIPPED | N/A | No evaluation needed |
+
+**Result: SKIPPED.** 0 open positions. No rules evaluated.
+
+### Watchlist EOD verdicts
+
+| Symbol | Close | Change | vs Market | Status | Next Action |
+|---|---|---|---|---|---|
+| AVGO | $430.66 | +3.39% (from $416.50 May 4 close) | Outperformed (+3.39% vs mkt +0.97%) | ⚠️ EXTENDED — $430.66 > $427.09 ceiling (+5.88% above $406.75 pivot; buy zone ceiling is 5% = $427.09) | WATCH — needs pullback to $415–427 AND score ≥75 before entry |
+| MU | ~$640.47 | +10.8% (from $577.79 May 4 close) | Dramatically outperformed | 🚨 `climax_top_risk_flag` CRITICAL — single-day +10.8% gain on already extended move (+17.4% above ~$546 pivot) | BENCH — do NOT chase; watch for 2–3 week tight consolidation |
+| AMD | — | — | BLACKOUT | ⛔ Results AH at 5 PM ET (after 3:15 CT review) | Re-score /pre-market May 6 |
+| STX | ~$727 est. | — | — | 🔴 No base formed (post-gap Apr 28) | Watch-only; 4–6 wk base |
+| GEV | ~$1,065 est. | — | — | 🔴 Bench; base forming | Score when base completes |
+| GOOGL | ATH territory | — | — | 🟡 Elevated bench | Needs canslim-screener |
+
+### AVGO update — extended above buy zone
+
+- May 4 actual close: $416.50 | May 5 close: $430.66 (+3.39%)
+- Buy zone: $406.75 pivot × 1.05 = $427.09 ceiling
+- $430.66 > $427.09: EXTENDED by $3.57 (+0.84% above ceiling) — **price gate now FAILS for tomorrow's open**
+- Score: 72/100 (API blocked) — **conviction gate also FAILS** (below 75 threshold)
+- Both gates fail simultaneously. No entry at tomorrow's open.
+- **If AVGO consolidates to $415–427 range over 1–2 sessions AND APIs restore for score ≥75 confirmation:** becomes immediate buy candidate.
+- Positive signal: +3.39% on a +0.97% market day = meaningful outperformance. Institutional buying implied.
+- New pivot: if AVGO builds a tight base at $425–435 over 2+ weeks, a new handle pivot may form. Re-evaluate at /weekly-prep May 10.
+
+### MU update — climax top risk critical
+
+- May 4 actual close: $577.79 (corrected from prior $542 estimate)
+- May 5 close: ~$640.47 (+10.8%)
+- From ~$546 pivot: +17.4% — far outside any buy zone
+- Pattern: +61% in past month, then +10.8% single-session gain = potential exhaustion/climax top territory
+- sell-rules-engine Rule 5 (Climax Top) criteria: position up ≥25% (would satisfy if entered near pivot), single day ≥2× 20-day ATR, volume ≥1.5×50d avg. Not evaluating since 0 positions held.
+- **Action: BENCH ONLY.** Watch for 2–3 week tight, low-volume consolidation above $620–640. If MU pulls back on light volume and holds $600+, then reassess.
+
+### AMD AH preview (not yet reportable at 3:15 CT)
+
+- Results at 5:00 PM ET = 4:00 PM CT (after this review window)
+- Consensus: EPS $1.29 (+33.4% YoY), Rev $9.89B. Data Center $5.56B (+52% YoY)
+- AMD prev close: $341.54 (May 4, -5.27% bearish engulfing pre-earnings)
+- If beats ≥$1.30 EPS + data center ≥$5.6B + guidance raise → C-letter 15pts → est. score 77+. **Primary candidate for May 11 week.**
+- If in-line → score ~72-75 (borderline). Monitor reaction.
+- If miss/guide-down → remove from bench entirely.
+- **Re-score at /pre-market May 6.**
+
+### Portfolio-level checks
+
+**Distribution cluster (Rule 4):** Count 3/25 — threshold is 6. No cluster trigger. No forced sells.
+**Hedge entry check:** Market in Confirmed Uptrend Day 26 — NO hedge entry. Inverse ETFs not warranted.
+**Follow-through exit:** No inverse ETFs held. N/A.
+
+### Circuit breaker summary
+
+| Breaker | Trigger | Status |
+|---|---|---|
+| -3% single day | Account down -3% | ✅ CLEAR — $0 P&L (0 positions) |
+| -6% weekly | Account down -6% week | ✅ CLEAR — $0 P&L (0 positions, 0/3 weekly trades) |
+| -12% drawdown | -12% from HWM | ✅ CLEAR — $0 drawdown (HWM = $2,500) |
+| PDT count | 3 of 3 rolling 5 days | ✅ CLEAR — 0/3 |
+| Alpaca API down | Halt all activity | ⚠️ ACTIVE — Day 27 (403 Host not in allowlist; re-confirmed live today). No trades possible. |
+
+### Tomorrow priorities (/pre-market 6 AM CT Wed May 6)
+
+1. **AMD results reaction** — re-score immediately. This is the highest priority event for the week. If EPS ≥$1.30 + data center strong + guidance raise → AMD becomes primary candidate for May 11 week. Check AH price movement overnight.
+2. **AVGO consolidation check** — did it hold above $427 (buy zone ceiling)? Or did it pull back to $415–427 zone? If pulls back to zone + score confirmed ≥75 via AV when API restores → entry candidate.
+3. **MU consolidation check** — is $640 level holding, or continuing higher (more climax risk)? Watch for reversal pattern. Bench only.
+4. **NFP Friday May 8** — no new entries Thursday PM or Friday per watchlist plan. This limits entry window to Wed-Thu only.
+5. ⚠️ **Alpaca API blocked day 27** — ESCALATE URGENTLY. The account has been locked out 27 consecutive trading days (5.5 weeks). Every confirmed uptrend session without execution is lost alpha. Contact Alpaca Markets support directly with account ID `PK7N46M65LLJZTRF35BKX7GJD6` to resolve the IP allowlist restriction.
+6. **May 6 watchlist recheck** — with AMD results in hand + 24h AVGO consolidation data, update primary watchlist for Wed-Thu potential entries.

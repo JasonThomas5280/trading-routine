@@ -1,5 +1,30 @@
 
 ---
+## 2026-05-05 15:15 CT [eod-review]
+
+📊 EOD 2026-05-05 | Equity ~$2,500 est. (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash | Alpaca: ❌ BLOCKED Day 27 (no execution)
+Distribution days: 3 of 5 (market: 🟢 Confirmed Uptrend Day 26)
+
+Close: S&P 500 ~7,270 (+0.97%, NEW ATH) | Nasdaq ~25,343 (+1.1%, NEW ATH) | SPY ~$727 | QQQ ~$680
+NOT a distribution day (UP day). Count 3/25 unchanged.
+
+Actions today:
+  • sell-rules-engine: SKIPPED (0 positions)
+  • TIGHTEN: none
+  • SELL: none
+  • BUY: none (Alpaca blocked + no valid trigger in buy zone)
+
+Watchlist EOD:
+  • AVGO: $430.66 (+3.39%) — ⚠️ EXTENDED: +5.88% above $406.75 pivot; outside 5% buy zone ceiling ($427.09). Score 72/100 (below threshold). Wait for pullback to $415–427 + AV score ≥75.
+  • MU: ~$640.47 (+10.8%) — 🚨 `climax_top_risk_flag` CRITICAL. +17.4% above pivot. BENCH ONLY.
+  • AMD: ⛔ BLACKOUT. Results AH tonight 5 PM ET. Re-score /pre-market May 6.
+
+Circuit breakers: NONE
+
+Tomorrow (Wed May 6): AMD results overnight (primary catalyst). NFP Friday May 8 = entry window Wed–Thu only. Alpaca block Day 27 — escalate to support (acct PK7N46M65LLJZTRF35BKX7GJD6).
+
+---
 ## 2026-05-05 06:00 CT [pre-market]
 
 🌅 Pre-market 2026-05-05 (Tue)
