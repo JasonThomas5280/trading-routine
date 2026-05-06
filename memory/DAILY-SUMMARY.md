@@ -769,3 +769,19 @@ Watchlist:
 Infrastructure: Alpaca ❌ 403 day ~28 (URGENT) | Perplexity ❌ | AV ❌ | WebSearch ✅
 Plan: Score AMD post-open if Alpaca restores. If not: hold 100% cash. ⚠️ Entry window Wed-Thu AM only — NO entries Thu PM or Fri (NFP May 8 8:30 AM ET).
 
+
+---
+
+📈 Market-check 2026-05-06 10:00 AM CT
+Market: 🟢 Confirmed Uptrend Day 27 | Dist days: 3/25 | Circuit breakers: NONE
+Actions taken:
+  🔴 NO NEW ENTRIES
+  — AMD scored 66/100 (below 75 threshold): A-letter weak (GAAP FY2023 -36.9% Xilinx amort.), no valid base (0pts). Volume gate passes (+229%), price/score gates fail. Stays BENCH.
+  — AVGO $433.90-435.15: +6.8% extended above $406.75 pivot (chase limit $427.09 breached). Score 72/100 below threshold. Both gates fail.
+  — MU: bench only (climax top, +17.4% above pivot).
+  — Alpaca API: ❌ 403 blocked day 29 (execution abort regardless).
+Watchlist: AMD→bench (66/100 reject), AVGO extended, MU bench, NVDA removed, STX no base
+Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%)
+Weekly trade count: 0/3 used
+⚠️ NFP Friday May 8 8:30 AM ET — no new entries Thu PM or Fri.
+Next check: /eod-review 3:15 PM CT

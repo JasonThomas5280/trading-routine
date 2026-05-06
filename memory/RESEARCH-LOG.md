@@ -2907,3 +2907,122 @@ No promotions or demotions this session.
 5. **⚠️ Alpaca blocked day ~28** — If blocked at /market-check: NO execution. Hold 100% cash.
 6. **⚠️ Entry window: Wed May 6 + Thu May 7 morning ONLY** — No entries Thu PM or Fri (NFP May 8).
 
+---
+
+## 2026-05-06 — canslim-screener (purpose=final_check, symbol=AMD)
+
+**Research source:** `websearch_fallback` (Alpaca, Alpha Vantage, Perplexity all blocked — day 29)
+**Market state gate:** 🟢 Confirmed Uptrend Day 27 — gate PASSES
+
+### Data Preflight
+
+| Check | Status | Notes |
+|---|---|---|
+| Alpaca bars ≥50 | ❌ BLOCKED | Price/volume from WebSearch. 52w range $96.88–$362.79. Current $350-354, high $359.57, low $344.88. Vol 35.27M at 90 min (ADV 46.48M). |
+| AV OVERVIEW (EPS, ROE, SO) | ❌ BLOCKED | ROE 7.2% GAAP TTM via WebSearch. SO/Float 1,623M via MarketBeat/GuruFocus. Inst ownership 64.68%. |
+| AV EARNINGS (≥4 qtrs) | ❌ BLOCKED | Q1 2026: $1.37 +43% YoY. Q4 2025: $1.53 +40% YoY. Q3 2025: $1.20 +30% YoY. Q2 2025: $0.48 -37% YoY (MI308 write-down). Annual GAAP: FY2025 $2.65 (+165%), FY2024 $1.00 (+88.7%), FY2023 $0.53 (-36.9%). Non-GAAP FY2025=$4.17/Q4 $1.53. |
+| N-letter research | ✅ (WebSearch) | MI400 series 2026 (432GB HBM4, CDNA5, 3 exaflops Helios rack). Morgan Stanley PT $255→$360 today. Multi-source confirmed. |
+| EDGAR 13F | ❌ BLOCKED | Using AV proxy (PercentInstitutions 64.68%). I capped per exception rule. |
+
+Overall preflight: **PROCEED WITH DEGRADED DATA** — all required inputs present via WebSearch fallback.
+
+### Liquidity & Price Filters
+
+- Price: ~$350-354 ✅ PASS ($10–$500 range)
+- 50d ADV: 46.48M ✅ PASS (well above 500K floor)
+- Earnings: Q2 2026 est. Aug 2026 (~90 trading days out) ✅ CLEAR
+
+### Letter Scores
+
+| Letter | Score | Basis |
+|---|---|---|
+| C — Current EPS | 15/20 | Q1 2026 non-GAAP $1.37 +43% YoY → 40-79% band = 15pts. Trend accelerating (Q3: +30% → Q1: +43%). No decel penalty. |
+| A — Annual EPS | 5/15 | GAAP: FY2023 $0.53 (-36.9% FAILS), FY2024 $1.00 (+88.7% ✅), FY2025 $2.65 (+165% ✅). 2/3 years ≥25% = 5pts. ROE 7.2% < 10% = 0 additive. NOTE: GAAP depressed by Xilinx amortization; non-GAAP FY2025=$4.17 (all 3 non-GAAP years would pass → 10pts). Even with non-GAAP A=10, total=71 — still below threshold. |
+| N — New catalyst | 14/15 | 52w high $362.79; current $350-354 = -2.7% below → within 5% = 7pts. MI400 (432GB HBM4, CDNA5) genuine new product launched 2026 = +5pts. Morgan Stanley PT $255→$360 today = +2pts. Cap 15. |
+| S — Supply/demand | 10/15 | Float 1,623M shares >500M = 0pts. Volume pace ~153M/day vs ADV 46.48M = +229% = 5pts. $6B buyback active = 5pts. |
+| L — Leader | 15/15 | RS rank: 52w $96.88→$352 = +263% vs SPY +22% → rank >95 = 10pts. XLK sector: #1 by 4-week trailing RS = top-3 = +5pts. (sector_momentum_warning: XLK lagging RRG — noted but 4-week trailing math still #1.) |
+| I — Institutional | 7/10 | 64.68% PercentInst → 30-70% healthy band = 7pts. EDGAR unavailable; no Tier 2. |
+| Base pattern | 0/10 | no_valid_base: Ran +274% over 52 weeks; ATH $362.79 May 1; pulled back -6.1% pre-earnings; post-Q1 gap. No cup, flat base, or consolidation period. Not a high-tight flag (would need 100%+ in 4-8 weeks + 3-5wk tight consolidation; neither condition met). Needs 3-6 weeks to form proper base. |
+| **TOTAL** | **66/100** | **REJECT — conviction_below_threshold (<75)** |
+
+### Verdict
+
+```
+📊 AMD — 66/100 ❌ REJECT
+Base: no_valid_base — post-earnings gap, pivot undefined
+Earnings: ~90 days out (Q2 est. Aug 2026)
+Blockers: A-letter weak (GAAP FY2023 -36.9%); no base (0pts); float 1.62B (0pts)
+Best-case non-GAAP scenario → 71/100 — still below 75 threshold
+Re-evaluate: base formation in ~3-6 weeks (earliest week of June 9)
+```
+
+**Warnings:** `data_confidence_websearch_fallback` | `a_letter_gaap_distortion_xilinx_amortization` | `no_valid_base` | `sector_momentum_warning_xlk_rgg_lagging` | `float_massive_1623M` | `edgar_data_unavailable` | `alpaca_api_blocked_day29`
+
+**Watchlist update:** AMD stays on BENCH. NOT promoted to primary. Entry requires (1) valid base formation with identifiable pivot, (2) score ≥75, (3) Alpaca API restored for live volume confirmation.
+
+---
+
+## 2026-05-06 — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca blocked day 29; AV blocked; Perplexity blocked)
+**Market direction:** 🟢 Confirmed Uptrend Day 27 | 3/25 distribution days
+**Circuit breakers:** NONE active | **Open positions:** 0 | **Weekly trades:** 0/3
+
+### Abort gates — EXECUTION BLOCKED (Alpaca API)
+
+| Gate | Status |
+|---|---|
+| Market state Confirmed Uptrend | ✅ PASS |
+| Research source | ✅ PASS (websearch_fallback functional) |
+| Daily circuit breaker (-3%) | ✅ PASS ($0 P&L) |
+| Weekly circuit breaker (-6%) | ✅ PASS ($0 P&L) |
+| Drawdown halt (-12%) | ✅ PASS ($0 drawdown) |
+| Weekly trade count (≤3) | ✅ PASS (0/3) |
+| Position count (≤4) | ✅ PASS (0/4) |
+| Cash buffer (≥10%) | ✅ PASS (100% cash) |
+| **Alpaca API** | ⛔ **403 "Host not in allowlist" — Day 29 consecutive. ALL execution impossible.** |
+
+Primary abort: Alpaca API blocked. No orders possible regardless of signal quality.
+
+### Watchlist trigger evaluation
+
+| Symbol | Intraday | Pivot | Zone | Volume | Score | Verdict |
+|---|---|---|---|---|---|---|
+| AMD | $350-354 (high $359.57) | undefined | N/A | 35.27M at 90min = pace ~153M vs ADV 46.48M = +229% ✅ | **66/100 ❌** | 🔴 REJECT — score below threshold |
+| AVGO | $433.90-$435.15 | $406.75 | ceiling $427.09 | N/A | 72/100 ❌ | 🔴 EXTENDED +6.8% above pivot AND score below threshold — both gates fail |
+| MU | ~$640+ est. | ~$546 | ceiling ~$573 | N/A | N/A | 🚨 BENCH ONLY — climax top |
+| NVDA | REMOVED | — | — | — | 60-65 ❌ | REMOVED — China market share zero |
+| STX | ~$727 est. | TBD | N/A | N/A | 68 ❌ | No base — watch only |
+
+**Result: NO ENTRIES — AMD scored 66/100 (below 75); AVGO extended above buy zone AND below threshold; Alpaca blocked.**
+
+### AMD entry rejection log
+
+- `rejection_reason: conviction_below_threshold` (66/100 < 75)
+- `secondary_block: alpaca_api_blocked_day29`
+- Leave AMD on BENCH watchlist (rejection is structural: base not formed + A-letter weak)
+- Remove from primary watchlist promotion consideration until base forms (~June 9 earliest)
+
+### AVGO status
+
+- May 5 close: $430.66 | Today: $433.90-$435.15 (continuing higher — not pulling back to $415-427 zone)
+- +6.8% extended above $406.75 pivot (chase limit $427.09) — DO NOT CHASE
+- Score 72/100 (below threshold)
+- No entry under any condition today. Watch for consolidation to $415-427 range.
+
+### Mid-morning position health check
+
+0 open positions — skipped.
+
+### Bench promotion check
+
+| Symbol | Pivot | Status | Action |
+|---|---|---|---|
+| AMD | undefined | Score 66/100; no base; intraday $350-354 (within 2% of 52w high $362.79) | STAYS BENCH — structural rejection (score + no base) |
+| GOOGL | TBD | Elevated bench; ATH territory post-Q1 beat | STAYS BENCH — needs canslim-screener score; API blocked |
+| GEV | TBD | ~$1,065; base forming | STAYS BENCH — base incomplete |
+| MU | ~$546 orig | ~$640+ = +17.4% extended; climax top risk | STAYS BENCH — do not promote |
+
+No promotions this session.
+
+
