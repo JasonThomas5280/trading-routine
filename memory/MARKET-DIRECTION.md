@@ -8,14 +8,25 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-05 (Tue) — `/eod-review`
-**Confirmed Uptrend days:** 26 (since follow-through day 2026-04-08)
-**Distribution days (last 25 sessions):** 3 effective (Apr 23, Apr 28, May 4) — unchanged; May 5 was UP day (+0.97%), cannot be distribution
+**Last updated:** 2026-05-06 (Wed) — `/pre-market`
+**Confirmed Uptrend days:** 27 (since follow-through day 2026-04-08)
+**Distribution days (last 25 sessions):** 3 effective (Apr 23, Apr 28, May 4)
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **⚠️ SECTOR ROTATION ALERT:** RRG (Relative Rotation Graph) as of May 3 shows XLK (Technology) has moved into the LAGGING quadrant (below-average RS ratio, declining momentum). XLI (Industrials), XLE (Energy), XLB (Materials) are in the LEADING quadrant. By strict 4-week trailing return math, XLK still ranks #1 (Nasdaq +15.3% in April alone). The divergence between RRG momentum signal and 4-week trailing math is a WARNING: leadership is rotating. Flag all XLK entries this week with `sector_momentum_warning`. Monitor XLK's 4-week RS vs. XLI/XLE weekly — if XLK drops below #3 in trailing 4-week RS, sector blackout for new XLK entries.
 
 **⚠️ ALPACA API BLOCKED — Day 27 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+
+**Wednesday May 6 pre-market (/pre-market check — Day 27 session):**
+- AMD Q1 2026 BEAT (reported May 5 AH): EPS $1.37 vs $1.29 est (+6.2%); Rev $10.25B vs $9.89B (+38% YoY); Data Center $5.8B (+57% YoY); Q2 guide $11.2B midpoint vs $10.53B est. AH reaction: +15-16%. **Semis tailwind into Wednesday open.**
+- AVGO: $430.66 close (May 5) — extended above buy zone ($427.09 ceiling). Score 72/100 (both gates fail). Watch for pullback to $415-427.
+- MU: ~$640.47 close (May 5) — climax top risk critical (+17.4% above ~$546 pivot). Bench only.
+- NVDA: REMOVED from watchlist (CEO confirmed China market share zero; score 60-65/100; below pivot).
+- Futures: Bullish lean (AMD beat). No major macro shock overnight.
+- Distribution days: 3/25 (Apr 23, Apr 28, May 4). Confirmed Uptrend Day 27 intact.
+- ⚠️ **NFP Friday May 8** — no new entries Thu PM or Fri. Entry window Wed May 6 + Thu May 7 morning ONLY.
+- ⚠️ Alpaca blocked day 28 (estimated). HALT on execution.
+- `research_source: websearch_fallback`
 
 **SPY close 2026-05-05 (Tue — most recent session):** ~$727.22 est. (S&P 500: ~7,270, +0.97%, NEW ATH) | QQQ ~$680.08 est. (Nasdaq: ~25,343, +1.1%, NEW ATH) | Driver: Iran/UAE tensions easing (ceasefire signals; oil WTI retreating from $106.42 peak); Intel +10% (Apple/Samsung US chip manufacturing talks); broad risk-on recovery; Russell 2000 new intraday records | SPY 50d MA: ~$682 est. | SPY above 50d MA: ~+6.6% est. | NOT A DISTRIBUTION DAY (UP day) | `research_source: websearch_fallback` | **Alpaca blocked day 27**
 

@@ -749,3 +749,23 @@ Open positions: 0 (100% cash) | Equity: ~$2,500 est.
 Weekly trade count: 0 of 3 used
 Next check: /eod-review 3:15 PM CT — AMD AH results will be key overnight
 ⚠️ ESCALATE: Alpaca API 403 "Host not in allowlist" — Day 26. Paper acct PK7N46M65LLJZTRF35BKX7GJD6. Contact Alpaca support urgently.
+
+---
+## 2026-05-06 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-05-06
+Market: Confirmed Uptrend Day 27 | SPY ~$727.22 (May 5 ATH) | QQQ ~$680.08 (ATH) | ES/NQ futures bullish (AMD +15-16% AH)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (no open positions)
+Key catalyst: AMD Q1 2026 BEAT — EPS $1.37 vs $1.29, Rev $10.25B (+38% YoY), DC $5.8B (+57% YoY), Q2 guide strong. AH +15-16%.
+Dist days: 3/25 (Apr 23, Apr 28, May 4) | ⚠️ Sector rotation: XLK in RRG lagging quadrant
+Watchlist:
+  ⭐ AMD: BEAT — score via canslim-screener post-open (10:30 AM CT). Expected 77-82/100. No base yet — DO NOT CHASE gap; identify pivot first.
+  🔴 AVGO $430.66: extended +5.9% above $406.75 pivot; score 72/100 — BOTH gates fail. Watch $415-427 pullback.
+  🚨 MU ~$640.47: climax top risk critical (+17.4% above pivot). BENCH ONLY.
+  🔴 NVDA: REMOVED (China mkt share zero, CEO confirmed May 5; score 60-65/100).
+  🟡 GOOGL: ATH, elevated bench — canslim-screener pending.
+  🔴 STX ~$727: no base, watch-only.
+Infrastructure: Alpaca ❌ 403 day ~28 (URGENT) | Perplexity ❌ | AV ❌ | WebSearch ✅
+Plan: Score AMD post-open if Alpaca restores. If not: hold 100% cash. ⚠️ Entry window Wed-Thu AM only — NO entries Thu PM or Fri (NFP May 8 8:30 AM ET).
+

@@ -2836,3 +2836,74 @@ No promotions or demotions this session.
 4. **NFP Friday May 8** — no new entries Thursday PM or Friday per watchlist plan. This limits entry window to Wed-Thu only.
 5. ⚠️ **Alpaca API blocked day 27** — ESCALATE URGENTLY. The account has been locked out 27 consecutive trading days (5.5 weeks). Every confirmed uptrend session without execution is lost alpha. Contact Alpaca Markets support directly with account ID `PK7N46M65LLJZTRF35BKX7GJD6` to resolve the IP allowlist restriction.
 6. **May 6 watchlist recheck** — with AMD results in hand + 24h AVGO consolidation data, update primary watchlist for Wed-Thu potential entries.
+
+---
+
+## 2026-05-06 — /pre-market (Wednesday open)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 Host not in allowlist — day ~28; Alpha Vantage: blocked; Perplexity: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 27 | SPY ~$727.22 est. (May 5 NEW ATH) | QQQ ~$680.08 est. | 3/25 distribution days (Apr 23, Apr 28, May 4)
+**⚠️ data_confidence: websearch_fallback** — All live APIs unavailable day ~28. Prices from WebSearch research synthesis.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (day ~28) | No live quotes, no order execution — **URGENT: 5.5+ weeks blocked** |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked | No fundamentals pull |
+| Perplexity | ❌ 403 blocked | No research synthesis |
+| Native WebSearch | ✅ functional | All data via fallback |
+| ClickUp | ✅ (placeholder mode) | Appending to DAILY-SUMMARY.md |
+
+### Open positions — overnight gap check
+
+**No open positions.** Gap check skipped.
+
+### Overnight catalysts affecting watchlist
+
+- **AMD:** ⭐ Q1 2026 EARNINGS BEAT (reported May 5 AH, confirmed overnight). EPS $1.37 actual vs $1.29 est (+6.2%); Rev $10.25B vs $9.89B (+38% YoY); Data Center $5.8B (+57% YoY — acceleration from Q4 est. +52%); Q2 guidance midpoint $11.2B vs $10.53B est. AH +15-16%. AMD pre-market May 6 est. ~$390-396 (from May 4 close $341.54). **HIGHEST PRIORITY: Run canslim-screener post-open. Expected 77-82/100.** No base yet at $390+ levels — score first, look for pivot/base formation.
+- **AVGO:** May 5 close $430.66 (+3.39% from $416.50). Extended above buy zone ceiling $427.09 (= $406.75 × 1.05). Score 72/100 (API blocked; expected 76-80 with live data). **Both gates fail: price extended AND score below 75.** Watch for intraday consolidation to $415-427 range. If pullback + APIs restored + score ≥75 confirmed → entry candidate.
+- **MU:** May 5 close ~$640.47 (+10.8% from $577.79 May 4). Climax top risk CRITICAL: +17.4% above ~$546 pivot; +61% in past month; +10.8% single-session = potential exhaustion signal. **BENCH ONLY — do NOT enter.** Watch for 2-3 week tight consolidation above $620+.
+- **NVDA:** REMOVED from watchlist May 5. CEO Jensen Huang confirmed China market share = ZERO due to US export restrictions. Material revenue headwind (China historically 15-25% of rev). Score dropped to ~60-65/100 (below 75 threshold). Below $201.75 pivot. No re-evaluation until post-May 20 earnings.
+- **STX:** ~$727 est. (May 5). No base formed (post-Apr 28 earnings gap). Watch-only; needs 4-6 more weeks for cup-with-handle formation.
+- **GEV:** ~$1,065 est. Bench candidate (XLI sector). Base forming. Score expected 65/100 currently; expected 75+ when base completes.
+- **GOOGL:** ATH territory, post-Q1 beat (+10% reaction). Elevated bench candidate. Needs canslim-screener score.
+
+### Market overnight check
+
+- **Futures:** Bullish lean. AMD +15-16% AH = semis tailwind into open. No major macro shock overnight.
+- **SPY:** ~$727.22 (May 5 NEW ATH, +0.97%). QQQ ~$680.08 (NEW ATH). Iran/UAE ceasefire signals positive; oil retreating from $106 peak. Broad risk-on.
+- **Geopolitical:** Iran/UAE tensions easing. Oil WTI retreating from $106.42 (May 4 peak). Deflationary for macro.
+- **Macro:** No major data today. ⚠️ **NFP Friday May 8 8:30 AM ET** — April jobs report. No new entries Thu PM or Fri.
+- **Sector rotation:** ⚠️ XLK in LAGGING quadrant on RRG as of May 3. XLI/XLE/XLB in leading positions. All XLK entries carry `sector_momentum_warning`. 4-week trailing math still shows XLK #1 by return, but momentum is deteriorating.
+- **Distribution days:** 3/25 (Apr 23, Apr 28, May 4). Well below 5-day "Under Pressure" threshold. Confirmed Uptrend intact.
+
+### Buy-zone status
+
+| Symbol | Last Close | Pivot | Distance | Status |
+|---|---|---|---|---|
+| AMD | $341.54 (May 4; pre-mkt est. $390-396) | TBD (post-earnings gap; no base) | N/A | 🆕 **SCORE TODAY** — run canslim-screener post-open. No entry until: (1) score ≥75, (2) valid base/pivot forms, (3) Alpaca restored |
+| AVGO | $430.66 (May 5) | $406.75 | +5.9% — EXTENDED | 🔴 **EXTENDED** — above $427.09 ceiling; score 72/100 BOTH gates fail. Watch for $415-427 pullback |
+| MU | ~$640.47 (May 5) | ~$546 | +17.4% — CRITICAL | 🚨 **CLIMAX TOP RISK** — bench only; no entry |
+| STX | ~$727 (May 5) | TBD | extended | 🔴 No base; watch-only |
+| GOOGL | ATH | TBD | N/A | 🟡 Elevated bench; score pending |
+| GEV | ~$1,065 | TBD | base forming | ⚪ Bench; base incomplete |
+
+### Circuit breaker check
+
+- Daily P&L: $0 (no positions) — NO trigger
+- Weekly P&L: $0 (0 trades, week of May 4) — NO trigger
+- Drawdown from HWM: $0 — NO trigger
+- PDT rolling 5-session: 0 of 3 — NO trigger
+- **Circuit breakers: NONE ACTIVE — new entries allowed (contingent on Alpaca restoration)**
+
+### Entry plan for today (Wednesday May 6)
+
+1. **AMD** — PRIORITY #1. Run canslim-screener at 10:30 AM CT (after open settles). If score ≥75: identify buy zone. Gap-up ~+15%; post-earnings, no base yet — DO NOT CHASE into open gap. Wait for first consolidation.
+2. **AVGO** — Monitor intraday. If pulls back to $415-427 AND Alpaca restores AND score ≥75 confirmed: entry candidate.
+3. **MU** — BENCH ONLY. No entry under any conditions. Climax top risk.
+4. **NVDA** — REMOVED. No action.
+5. **⚠️ Alpaca blocked day ~28** — If blocked at /market-check: NO execution. Hold 100% cash.
+6. **⚠️ Entry window: Wed May 6 + Thu May 7 morning ONLY** — No entries Thu PM or Fri (NFP May 8).
+
