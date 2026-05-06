@@ -1,5 +1,31 @@
 
 ---
+## 2026-05-06 15:15 CT [eod-review]
+
+📊 EOD 2026-05-06 | Equity ~$2,500 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash | Alpaca: ❌ BLOCKED Day 30 (no execution)
+Distribution days: 3 of 25 (market: 🟢 Confirmed Uptrend Day 28)
+
+Close: S&P 500 ~7,339 (+1.10%, NEW ATH) | Nasdaq ~25,670 (+1.36%, NEW ATH) | SPY ~$733.67 | QQQ ~$688.52
+NOT a distribution day (UP day). Count 3/25 UNCHANGED.
+
+Actions today:
+  • sell-rules-engine: SKIPPED (0 positions)
+  • TIGHTEN: none
+  • SELL: none
+  • BUY: none (Alpaca blocked day 30; AMD 66/100 REJECT; AVGO extended + below threshold)
+
+Watchlist EOD:
+  • AMD: +~20% gap (Q1 beat: EPS $1.37 +43% YoY, Data Center $5.8B +57%, Q2 guide $11.2B). Score 66/100 — REJECT UNCHANGED. Post-gap = even further from any base. Re-evaluate June 9+.
+  • AVGO: ~$433-440 est. — ⚠️ EXTENDED >5% above $406.75 pivot. Score 72/100 (below threshold). Wait for pullback to $415-427 + score ≥75.
+  • MU: ~$640+ — 🚨 `climax_top_risk_flag` CRITICAL. +17%+ above pivot. BENCH ONLY.
+  • NVDA: REMOVED (China market share zero; score 60-65).
+
+Circuit breakers: NONE
+
+Tomorrow (Thu May 7): Entry window OPEN (last before NFP blackout Fri). AMD + AVGO need pullback + Alpaca restore. ⚠️ NFP Fri May 8 = no new entries Thu PM or Fri AM. Alpaca API blocked day 30 — escalate to support.
+
+---
 ## 2026-05-05 15:15 CT [eod-review]
 
 📊 EOD 2026-05-05 | Equity ~$2,500 est. (+0.00% day, +0.00% week)

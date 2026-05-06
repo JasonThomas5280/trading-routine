@@ -3025,4 +3025,75 @@ Primary abort: Alpaca API blocked. No orders possible regardless of signal quali
 
 No promotions this session.
 
+---
+
+## 2026-05-06 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca blocked day 30; AV blocked; Perplexity blocked)
+**Market direction:** 🟢 Confirmed Uptrend Day 28 | 3/25 distribution days
+**Circuit breakers:** NONE active | **Open positions:** 0 | **Weekly trades:** 0/3
+
+### Step 1 — Market state
+
+| Index | Today close (est.) | Prior close (est.) | Change | Dist day? |
+|---|---|---|---|---|
+| S&P 500 | ~7,338.89 | ~7,259.22 | +1.10% | ❌ UP day |
+| Nasdaq | ~25,670 | ~25,326 | +1.36% | ❌ UP day |
+| SPY | ~$733.67 | ~$723.77 | +1.37% | ❌ UP day |
+| QQQ | ~$688.52 | ~$681.61 | +1.01% | ❌ UP day |
+
+**Distribution day check:** NOT a distribution day — UP day. Neither index can be distribution when positive.
+**Dist count: 3/25 UNCHANGED** (Apr 23, Apr 28, May 4 remain active).
+**State transition check:** 3 < 5 → no transition. Confirmed Uptrend intact. Day 28.
+**SPY 50d MA est.:** ~$682 | SPY above 50d MA: ~+7.6%
+
+**Key market drivers:**
+- AMD +~20% (Q1 non-GAAP EPS $1.37 +43% YoY; Data Center $5.8B +57% YoY; Q2 guide $11.2B midpoint vs $10.53B est. — massive beat)
+- Iran deal optimism (Strait of Hormuz tensions easing); oil prices declining
+- Broad risk-on rally; new ATHs on both S&P 500 and Nasdaq
+
+### Step 2 — Sell-rules-engine
+
+**0 open positions → SKIPPED.** No positions to evaluate.
+
+### Step 3 — Verdicts executed
+
+None. No positions.
+
+### Step 4 — Portfolio-level checks
+
+- Distribution count: 3/25 — no cluster alert (< 6)
+- No hedge entry trigger (state remains Confirmed Uptrend)
+- No follow-through day exit (no hedges held)
+
+### Step 5 — Circuit breakers
+
+- Today P&L: $0 (0%) — no trades, Alpaca blocked
+- Week P&L: $0 (0%) — no trades all week
+- Drawdown from HWM: $0 (0%)
+- **All circuit breakers: CLEAR**
+
+### Step 6 — Weekly trade counter
+
+**Week of 2026-05-04:** 0 new positions opened. 0/3 weekly slots used.
+
+### Step 7 — Watchlist EOD update
+
+| Symbol | EOD est. | Status | Note |
+|---|---|---|---|
+| AMD | ~$352 × 1.20 = ~$421+ est. (gap +20%) | 🚨 DO NOT CHASE | Score 66/100 still rejected; post-earnings gap = even further from any base; no valid base; float 1.62B; re-evaluate June 9+ |
+| AVGO | ~$432-440 est. | 🔴 EXTENDED + BELOW THRESHOLD | Score 72/100 < 75; >5% above $406.75 pivot; wait for pullback to $415-427 |
+| MU | ~$640+ | 🚨 BENCH ONLY | `climax_top_risk_flag` CRITICAL; +17%+ above pivot |
+| NVDA | REMOVED | — | China market share zero; score 60-65/100 |
+
+### EOD Summary entry
+
+**Close:** SPY ~$733.67 (+1.37%) | QQQ ~$688.52 (+1.01%)
+**Distribution days:** 3 of 25 trailing sessions (today: NOT a dist day — UP day)
+**Market state:** Confirmed Uptrend Day 28 (no transition today)
+**Positions held:** 0
+**Actions today:** NONE (Alpaca blocked day 30; 0 positions; no sell signals; no entries)
+**Circuit breakers:** NONE
+**P&L today:** $0 (0%)
+**Equity:** $2,500.00
 
