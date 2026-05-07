@@ -811,3 +811,20 @@ Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%)
 Weekly trade count: 0/3 used
 ⚠️ NFP Friday May 8 8:30 AM ET — no new entries Thu PM or Fri.
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-05-07 11:15 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-07
+Market: 🟢 Confirmed Uptrend Day 29 | Futures: ES +1.19% NQ +1.47%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions held)
+Watchlist ready: NONE (Alpaca blocked day 31 + NFP tomorrow gates all entries)
+Watching: AVGO 🟡 $424.02 (+4.2% from pivot $406.75 — within buy zone; score 72/100 FAILS)
+Removed/unchanged: MU 🔴 EXTENDED $666.59 (+22% above pivot; climax top CRITICAL++) | STX 🔴 NO BASE | AMD 🔴 BENCH 66/100
+Screened+rejected: SMCI (class action $2.5B China server allegation + revenue miss + $7.5B net debt)
+GEV bench: BNP Paribas downgrade to Neutral — score est. 58-65/100
+Key catalyst today: US-Iran peace deal optimism; oil plunging; AMD/SMCI AI strength
+⚠️ NFP Fri May 8 8:30 AM ET — no new entries today or Fri
+⚠️ Alpaca blocked day 31 — execution impossible
+Plan: NO ENTRIES — Alpaca blocked + NFP gate. AVGO most actionable when APIs restore. research_source: websearch_fallback

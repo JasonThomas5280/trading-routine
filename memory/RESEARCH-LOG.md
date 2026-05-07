@@ -3097,3 +3097,134 @@ None. No positions.
 **P&L today:** $0 (0%)
 **Equity:** $2,500.00
 
+
+---
+
+## 2026-05-07 — /pre-market (Thu)
+
+**Research source:** `websearch_fallback` (Perplexity blocked — "Host not in allowlist"; Alpaca blocked day 31)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 29 (pre-session; Day 28 confirmed at May 6 close)
+**Sector leaders (top 3 by trailing 4-week RS):** XLK (still #1 by math; lagging RRG), XLC (Mag-7 / AI), XLE (Iran/geopolitical premium; easing)
+**Sector laggards:** XLF, XLY, XLB
+
+---
+
+### Step 1 — Gap check on open positions
+
+**0 open positions → SKIPPED.** Nothing to gap-check.
+
+---
+
+### Step 2 — Catalyst scan (open positions)
+
+**0 open positions → SKIPPED.**
+
+---
+
+### Step 3 — Catalyst scan (primary watchlist + bench)
+
+#### MU — Micron Technology
+- Fitch upgraded Micron credit rating → stock surged 11% to new record high; passed $700B market cap milestone
+- New product: began shipping 245TB 6600 ION SSD (largest-capacity commercially available SSD — AI data storage positioning)
+- Mizuho Securities: Buy rating reaffirmed; analysts raise PTs citing AI-driven memory demand + tight supply
+- **Price May 7: $666.59** (high $667.67, low $627.58) vs pivot ~$546 = **+22.1% above pivot**
+- `climax_top_risk_flag` CRITICAL++ — no change to thesis: DO NOT CHASE. Bench only. Watch for consolidation.
+
+#### AVGO — Broadcom
+- No specific overnight catalyst — general AI demand narrative; no rating change, no guidance update
+- 29 analysts: Strong Buy consensus, avg 12-mo PT $451
+- **Price May 7: $424.02** (high $438.90, low $417.78) vs $406.75 pivot = **+4.2% — WITHIN buy zone** ($406.75–$427.09)
+- Score: 72/100 < 75 threshold → conviction gate FAILS. Alpaca blocked → execution impossible. **NO ENTRY.**
+- Note: $417.78 intraday low = +2.7% from pivot. Price-zone is favorable; conviction is the only blocker.
+
+#### STX — Seagate Technology
+- No new catalyst overnight. Riding prior Q3 earnings momentum (EPS $4.10, Rev $3.1B — reported late April)
+- ATH $728.00 set May 1; market cap ~$172.88B; +9.48% last week
+- 21 analysts: Buy consensus, avg PT $610.1 (stock has already exceeded avg PT — extended)
+- **No base formed.** Needs 4-5 more weeks minimum. Target base formation ~May 25–June 6. 🔴 NO BASE.
+
+#### AMD — Bench (scored 66/100 — structural reject)
+- Post-earnings analyst wave: DA Davidson upgraded to Buy (PT $375); Morgan Stanley raised PT to $525 (Outperform)
+- ~40+ analysts: majority Buy/Strong Buy, avg PT ~$385-390; bull case $525
+- Q1 beat confirmed: EPS $1.37 vs $1.29 est.; Q2 guide $11.2B vs $10.53B est.
+- **AMD May 6 close: ~$398.73** (post +~20% earnings gap from $341.54 May 5 close)
+- Score 66/100 unchanged — GAAP A-letter structural failure (FY2023 -36.9% Xilinx amortization); no valid base (post-gap)
+- **Best-case non-GAAP scenario: 71/100 — still below 75 threshold.** DO NOT ENTER. Re-evaluate week of June 9.
+
+#### GEV — GE Vernova (Bench)
+- Q1 2026 earnings massive surprise: EPS $17.44 vs $1.95 est. (+793%! — likely adjusted/one-time items; verify at re-score)
+- BNP Paribas: **DOWNGRADED to Neutral from Outperform**, PT $1,190 (close to current ~$1,062–$1,182 range)
+- Stock: -7.52% last week (pullback from ATH $1,181.95 on April 23); market cap $294.30B
+- **BNP downgrade softens I-letter (institutional sponsorship) — reduces est. score from 65 to est. 58-62/100**
+- Base still forming. Updated score est.: 58-65/100. Bench — no change. Monitor XLI sector momentum.
+
+#### GOOGL — Alphabet (Elevated Bench)
+- Q1: Revenue +22%, Cloud +63% to $20B, backlog doubled to $460B; Net income +84%
+- GOOGL approaching $5T market cap — near overtaking Nvidia as world's most valuable company
+- Adjusted EPS $2.62 vs $2.63 consensus (fractional miss on adj. basis; reported EPS beat due to $37.7B equity gains)
+- Analysts: avg PT $410-420, bull case $515; GOOGL near ATH at $399.72 May 6 close
+- Massive float (~12B shares) = headwind for CAN SLIM S-letter
+- **Status: Elevated bench. Score TBD — needs canslim-screener with live API.** No base confirmed.
+
+#### SMCI — Super Micro Computer (NOT on watchlist — SCREENED AND REJECTED)
+- Q3 FY2026: EPS $0.84 vs $0.62 est. (beat), Revenue $10.24B vs $12.33B est. (MISS), Gross margin 10.1% (recovery from 6.4%)
+- Revenue +123% YoY despite miss; customer readiness delays = deferred revenue (Q4 expected recovery)
+- **⚠️ HARD REJECT FLAGS:**
+  - Class action lawsuit: shareholders allege $2.5B in illegal server diversions to China (lead plaintiff deadline May 26)
+  - $7.5B net debt
+  - Cash conversion cycle doubled in one quarter
+  - Prior accounting issues (2024 restatements history)
+- **DO NOT ADD TO WATCHLIST.** Legal risk + balance sheet + accounting history = disqualifying.
+
+---
+
+### Step 4 — Market overnight check
+
+| Indicator | Level | vs Prior Close |
+|---|---|---|
+| ES (S&P 500 futures) | est. ~$747-750 | +1.19% |
+| NQ (Nasdaq 100 futures) | est. ~$26,050-26,400 | +1.47% |
+| QQQ open | $687.78 | ~-0.11% vs $688.52 May 6 close |
+
+**Key overnight drivers (May 6–7):**
+- US-Iran peace deal optimism — crude oil prices plunging; bond yields falling → risk-on
+- AMD post-earnings rally continuation (+~16% by May 6 close from +20% gap)
+- SMCI earnings: EPS beat, margin recovery → +17-20% AH reaction (positive AI server/infrastructure signal)
+- Broad tech/AI infrastructure theme strengthening
+- **Expected market direction:** BULLISH open. Continuation of Confirmed Uptrend ATH territory.
+
+---
+
+### Step 5 — Buy-zone readiness
+
+| Symbol | Last Price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| MU | $666.59 | ~$546 | +22.1% | 🔴 EXTENDED / BENCH — `climax_top_risk_flag` CRITICAL++ |
+| AVGO | $424.02 | $406.75 | +4.2% | 🟡 WATCHING — price IN buy zone; score 72/100 FAILS |
+| STX | ~$710-728 | TBD (no base) | N/A | 🔴 NO BASE |
+| AMD | ~$398.73 | TBD (no base) | N/A | 🔴 BENCH / score 66/100 |
+| GEV | ~$1,062-1,090 | TBD (base forming) | N/A | 🔴 BENCH / score est. 58-65 |
+| GOOGL | $399.72 | TBD (needs score) | N/A | 🟡 ELEVATED BENCH — score TBD |
+
+---
+
+### Step 6 — Circuit breaker check
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily loss -3% | -$75 | $0 loss — CLEAR |
+| Weekly loss -6% | -$150 | $0 loss — CLEAR |
+| Drawdown from HWM | -12% | $0 drawdown — CLEAR |
+| PDT count | 3 of 3 | 0 day trades — CLEAR |
+
+**All circuit breakers: CLEAR.** No restrictions on entry (beyond Alpaca block + NFP gate).
+
+---
+
+### Overnight notes / new flags
+
+- **SMCI screened and rejected** — class action + revenue miss + balance sheet risk. Do not add.
+- **GEV BNP Paribas downgrade** to Neutral softens I-letter; est. score drops to 58-65/100. Bench confidence reduced.
+- **AVGO most actionable if Alpaca restores**: Price within buy zone. Single blocker = score 72/100. Full re-score with live AV data could push to 75+ if institutional trends are favorable.
+- **NFP tomorrow (May 8, 8:30 AM ET)**: No new entries rest of today or Friday.
+- **Alpaca blocked day 31** — all execution halted regardless of setup quality.

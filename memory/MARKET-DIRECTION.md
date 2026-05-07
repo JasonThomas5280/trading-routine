@@ -325,3 +325,19 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-05-05 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; new ATHs; Iran shock fully reversed) | /eod-review. S&P 500 ~7,270 (+0.97%, NEW ATH; from 7,200.75 May 4). Nasdaq ~25,343 (+1.1%, NEW ATH). Russell 2000 + small caps led. Iran/UAE ceasefire signals = oil retreating; geopolitical risk premium unwinding. NOT a distribution day (UP day). Dist count 3/25 UNCHANGED. AVGO $430.66 (+3.39% — extended +5.88% above $406.75 pivot; now outside 5% buy zone ceiling $427.09; score 72/100 below threshold). MU ~$640.47 (+10.8% — `climax_top_risk_flag` CRITICAL; +17.4% above pivot; bench only). AMD results AH (5 PM ET = after this review window). 0 positions. Alpaca API blocked day 27. Uptrend Day 26 confirmed. `research_source: websearch_fallback`. |
 | 2026-05-06 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check. AMD scored 66/100 — REJECT (conviction_below_threshold: A-letter weak GAAP FY2023 -36.9%; no_valid_base). AMD intraday $350-354 (high $359.57, vol 35.27M at 90min = pace ~153M/day vs ADV 46.48M = +229% — volume gate passes, price/score gates fail). AVGO $433.90-435.15 = +6.8% extended above $406.75 pivot (chase limit exceeded; score 72/100 below threshold). MU bench only (climax top). 0 positions. Abort gate: Alpaca blocked day 29. NOT a distribution day (confirm at EOD). Dist count 3/25 unchanged. Uptrend Day 27 intact. `research_source: websearch_fallback`. |
 | 2026-05-06 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; AMD surge; new ATHs) | /eod-review. S&P 500 ~7,339 est. (+1.10%, NEW ATH), Nasdaq ~25,670 est. (+1.36%, NEW ATH). AMD +~20% on massive Q1 beat (Data Center +57% YoY, Q2 guide strong). Iran deal optimism — oil declining. NOT a distribution day (UP day). Dist count 3/25 UNCHANGED. AMD still score 66/100 — even more extended post-gap, no valid base, do not chase. AVGO still extended above buy zone. MU climax top bench. 0 open positions. Alpaca API blocked day 30. Uptrend Day 28 confirmed. `research_source: websearch_fallback`. |
+
+**Thursday May 7 pre-market (/pre-market check — Day 29 session):**
+- ES futures: +1.19% | NQ futures: +1.47% — strong bullish open expected. US-Iran peace deal optimism → crude oil plunging, bond yields falling. AMD post-earnings +16% (May 6); SMCI +17-20% AH (margin recovery + EPS beat on Q3); broad AI infrastructure rally.
+- QQQ pre-market open: ~$687.78 (~-0.1% vs May 6 close $688.52; futures strength suggests gap-up at open)
+- SPY est. pre-market: ~$738-742 (extrapolated from ES +1.19% on $733.67 May 6 close)
+- Distribution days: 3/25 UNCHANGED. No new dist day possible (up session expected).
+- Confirmed Uptrend Day 29 intact. No state change.
+- ⚠️ **NFP Friday May 8 8:30 AM ET — no new entries rest of today or Friday. Entry window CLOSED.**
+- ⚠️ **Alpaca blocked day 31** (403 "Host not in allowlist"). All execution impossible.
+- MU: $666.59 (+4.1% from ~$640.47 May 5 close). Fitch upgrade + $700B market cap. +22% above pivot. `climax_top_risk_flag` CRITICAL++. Bench only.
+- AVGO: $424.02 (within buy zone $406.75-$427.09; intraday low $417.78 also within zone). Score 72/100 < 75 → STILL NO ENTRY. Most actionable name when Alpaca restores + fresh score.
+- STX: ~$710-728 (no new catalyst; no base). Bench.
+- AMD: ~$398.73 (wave of analyst upgrades post-Q1; score 66/100 unchanged; no base). Bench.
+- GEV: BNP Paribas downgraded to Neutral. Score est. drops to 58-65/100. Reduced bench confidence.
+- SMCI: REJECTED — class action lawsuit (alleged $2.5B China server diversions), revenue miss, $7.5B net debt. Not adding.
+- `research_source: websearch_fallback`
