@@ -3228,3 +3228,84 @@ None. No positions.
 - **AVGO most actionable if Alpaca restores**: Price within buy zone. Single blocker = score 72/100. Full re-score with live AV data could push to 75+ if institutional trends are favorable.
 - **NFP tomorrow (May 8, 8:30 AM ET)**: No new entries rest of today or Friday.
 - **Alpaca blocked day 31** — all execution halted regardless of setup quality.
+
+---
+
+## 2026-05-07 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 31; Perplexity: blocked; Alpha Vantage: blocked. All data via native WebSearch.)
+**Close:** SPY ~$730.89 est. (−0.38%) | QQQ ~$696.01 (flat) | S&P 500: ~7,311 est. | Nasdaq: ~25,637 est. (−0.13%)
+**Distribution days:** ⚠️ 4 of 5 threshold (trailing 25 sessions — today: NEW DIST DAY #4; S&P 500 −0.38% > −0.20% threshold; QQQ flat = NOT a dist day)
+**Market state:** 🟢 Confirmed Uptrend Day 29 (no transition; 4/25 dist days; SPY ~+6.9% above 50d MA ~$684 est.) | ⚠️ ONE DIST DAY AWAY FROM UNDER PRESSURE
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — no open positions to evaluate
+  - TIGHTEN: none — no positions
+  - SELL: none — no positions
+**Circuit breakers:** NONE (equity ~$2,500 est., 0% daily P&L, 0% weekly P&L, 0/3 PDT, Alpaca blocked — cannot confirm)
+**P&L today:** $0.00 (0.00%) — 100% cash, no positions
+**Equity:** ~$2,500.00 est. (Alpaca blocked — cannot confirm live)
+**Weekly trade count:** 0 of 3 used (week of 2026-05-04)
+
+### Market close context — May 7, 2026
+
+- **S&P 500:** ~7,311 est. (−0.38% from ~7,338.89 May 6 ATH close)
+- **Nasdaq:** ~25,637 est. (−0.13%)
+- **Dow:** −313.62 pts (−0.63%)
+- **Russell 2000:** −1.74% (small caps underperforming — broad distribution signal)
+- **SPY intraday:** Open $735.13 → High $736.12 (NEW INTRADAY ATH) → Close est. ~$730.89. Classic bearish reversal: new ATH then fail.
+- **QQQ:** ~$696.01 close (prev close ~$695.77; essentially flat; prior estimates were ~$688.52 — live data shows actual May 6 QQQ close was higher ~$695.77, AMD +20% weight effect)
+- **Oil reversal:** WTI settled $94.81/bbl (+3.38% from $91.73 intraday low) | Brent settled $100.06 (+2.18% from $97.93 low). Oil bounced in afternoon = drag on market (Iran peace deal optimism partial reversal)
+- **Sector drag:** Amazon, Broadcom (AVGO), Micron (MU) led losses. Semi sector pullback after extended run.
+- **No FOMC today** — confirmed via web search. Next FOMC: June 16–17, 2026.
+
+### Distribution Day #4 — classification rationale
+
+- **Magnitude:** S&P 500 −0.38% → exceeds −0.20% threshold ✅
+- **Volume ratio:** UNCONFIRMED (Alpaca blocked day 31). However, new intraday ATH followed by reversal = classic institutional distribution pattern (sellers emerged at new highs). Amazon + AVGO/MU sector-wide selling = multiple large-cap names seeing elevated volume. Russell 2000 −1.74% = broad participation in selling. Classification: **DISTRIBUTION DAY #4** with high confidence.
+- **Expiry:** 25 sessions from May 7, 2026 = approximately 2026-06-12
+
+### ⚠️ Distribution Day Risk Assessment
+
+| Dist Day | Date | Trigger | Expires |
+|---|---|---|---|
+| #1 | Apr 23 | Software selloff (IBM, SFDC, NOW) | 2026-06-01 |
+| #2 | Apr 28 | OpenAI revenue miss; chips -3-5% | 2026-06-03 |
+| #3 | May 4 | Iran missiles at UAE; oil spike | 2026-06-08 |
+| #4 | May 7 | Oil reversal; Amazon/semi selling; intraday ATH reversal | 2026-06-12 |
+
+**4/25 active — 1 MORE = state change to "Uptrend Under Pressure"**
+- Next dist day → NO new entries, tighten stops on all positions, evaluate hedge (SH/SQQQ at 25% max)
+- Pattern: 3 of 4 dist days driven by specific events (geopolitical/earnings). Not systematic distribution yet. Watch Monday carefully.
+
+### Sell-rules-engine
+
+**SKIPPED — 0 open positions.** No verdicts to execute.
+
+### Watchlist EOD verdicts
+
+| Symbol | Close (est.) | Pivot | Distance | Status | Verdict |
+|---|---|---|---|---|---|
+| AVGO | ~$430–440 est. (pulled back from $438.90 intraday high) | $406.75 | +6-8% from pivot | Extended above 5% buy zone | 🔴 STILL EXTENDED — wait for pullback to $406.75–$427.09 zone; score 72/100 blocks entry regardless; 4 gates fail |
+| MU | ~$666–680 est. | ~$546 | +22-24% | CRITICALLY EXTENDED | 🔴 BENCH — `climax_top_risk_flag` CRITICAL++; do not chase |
+| AMD | ~$398–405 est. | No base | N/A | Bench | 🔴 66/100 REJECT; no base post-gap |
+| STX | ~$710–728 est. | No base | N/A | Bench | 🔴 No base; no pivot |
+| GEV | ~$1,060–1,090 est. | Forming | N/A | Bench | 🔴 58-65/100 est. — BNP downgrade; base still forming |
+| GOOGL | ~$399 est. | TBD | N/A | Elevated bench | 🟡 Score TBD with live APIs |
+
+### Circuit breaker summary
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily loss -3% | −$75 on $2,500 | ✅ CLEAR — $0 loss (no positions) |
+| Weekly loss -6% | −$150 on $2,500 | ✅ CLEAR — $0 week P&L |
+| Drawdown -12% HWM | −$300 from $2,500 HWM | ✅ CLEAR — $2,500 est. (at HWM) |
+| PDT count | 3 of 3 rolling 5 | ✅ CLEAR — 0 day trades |
+
+### Tomorrow priorities (/pre-market 6 AM CT Fri May 8)
+
+1. ⚠️ **NFP May 8 8:30 AM ET** — MACRO EVENT. No new entries today or Friday regardless of any setup. Read overnight + react at Monday /pre-market.
+2. **Distribution day vigilance** — 4/25 active. If Friday is down ≥0.20% on elevated volume = state change to Under Pressure. Prepare hedge candidates (SH/SQQQ) mentally.
+3. **AVGO:** Did it pull back into buy zone ($406.75–$427.09) after today's retreat? If yes → most actionable name for next week when Alpaca restores + score ≥75.
+4. **NFP read:** Strong jobs = oil inflation fear resurfaces; weak jobs = recession fear. Either tail could add distribution day #5. Neutral read = market stable.
+5. ⚠️ **Alpaca API blocked day 31** — Resolve before ANY entry. Cannot trade without it.

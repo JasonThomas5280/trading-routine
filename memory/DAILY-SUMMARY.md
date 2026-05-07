@@ -858,3 +858,20 @@ Oil decline = disinflation signal; broad risk-on; S&P + Nasdaq holding ATH terri
 No bench promotions (no candidates within 2% of a confirmed pivot)
 Open positions: 0 (0% deployed) | Weekly trade count: 0/3 used
 Next check: /eod-review 3:15 PM CT | ⚠️ No entries Fri (NFP May 8)
+
+---
+## 2026-05-07 20:21 CT [clickup-placeholder]
+
+📊 EOD 2026-05-07 (Thu) | Equity ~$2,500 (0.00% day, 0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 4 of 5 ⚠️ ONE AWAY FROM UNDER PRESSURE (market: 🟢 Confirmed Uptrend Day 29)
+Actions today:
+  • sell-rules-engine: SKIPPED — 0 open positions
+  • TIGHTEN: none
+  • SELL: none
+  • NEW DIST DAY #4: S&P 500 −0.38% (intraday ATH $736.12 → bearish reversal; Amazon/semi selling; oil bounced; Russell -1.74%)
+  • QQQ: flat (~$696) — not a dist day
+⚠️ ABORT GATES: Alpaca API blocked day 31 (403) + NFP May 8 8:30 AM ET
+Tomorrow (Fri May 8): NFP release — NO NEW ENTRIES. Watch for dist day #5 risk.
+Next entry window: Week of May 11 (Alpaca unblocked + uptrend intact)
+Watchlist: AVGO most actionable (score 72→need 75+; buy zone $406.75–$427.09)

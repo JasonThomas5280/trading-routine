@@ -8,14 +8,26 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-06 (Wed) — `/eod-review`
-**Confirmed Uptrend days:** 28 (since follow-through day 2026-04-08)
-**Distribution days (last 25 sessions):** 3 effective (Apr 23, Apr 28, May 4)
+**Last updated:** 2026-05-07 (Thu) — `/eod-review`
+**Confirmed Uptrend days:** 29 (since follow-through day 2026-04-08)
+**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) ⚠️ ONE AWAY FROM UNDER PRESSURE
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **⚠️ SECTOR ROTATION ALERT:** RRG (Relative Rotation Graph) as of May 3 shows XLK (Technology) has moved into the LAGGING quadrant (below-average RS ratio, declining momentum). XLI (Industrials), XLE (Energy), XLB (Materials) are in the LEADING quadrant. By strict 4-week trailing return math, XLK still ranks #1 (Nasdaq +15.3% in April alone). The divergence between RRG momentum signal and 4-week trailing math is a WARNING: leadership is rotating. Flag all XLK entries this week with `sector_momentum_warning`. Monitor XLK's 4-week RS vs. XLI/XLE weekly — if XLK drops below #3 in trailing 4-week RS, sector blackout for new XLK entries.
 
-**⚠️ ALPACA API BLOCKED — Day 30 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+**⚠️ ALPACA API BLOCKED — Day 31 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+
+**Thursday May 7 close (/eod-review):**
+- S&P 500: ~7,311 est. (−0.38% from ~7,338.89 May 6 close; hit NEW intraday ATH $736.12 before reversing) | Nasdaq: ~25,637 est. (−0.13%) | Dow: −313.62 pts (−0.63%) | Russell 2000: −1.74% | `research_source: websearch_fallback` | **Alpaca blocked day 31**
+- SPY: open $735.13, high $736.12 (new ATH), close est. ~$730.89 (−0.38%) | QQQ: ~$696.01 (essentially flat; prev close ~$695.77)
+- Driver: Oil bounced from intraday lows (WTI settled $94.81 after hitting $91.73 low; Brent $100.06); Amazon + semiconductor selling (AVGO, MU dragged broad market). New intraday ATH on SPY then bearish reversal = institutional distribution pattern.
+- Distribution day: **⚠️ CONFIRMED — DISTRIBUTION DAY #4** — magnitude −0.38% > −0.20% threshold; bearish reversal from intraday ATH; Amazon + semi-led selling pattern = elevated volume confidence; vol ratio unconfirmed (Alpaca blocked day 31); data_confidence: websearch_fallback
+- Dist count: **4/25** (Apr 23, Apr 28, May 4, May 7) | ⚠️ ONE AWAY FROM "UPTREND UNDER PRESSURE" (5/25 threshold)
+- SPY 50d MA: ~$684 est. | SPY above 50d MA: ~+6.9% est.
+- **Market state: 🟢 Confirmed Uptrend Day 29. No state change. BUT: elevated risk — 4/5 dist days.**
+- 0 open positions → sell-rules-engine: SKIPPED
+- AVGO: ~$696.01 (QQQ flat; AVGO pulled back from $438.90 intraday high — inside buy zone watch)
+- ⚠️ **NFP tomorrow May 8 8:30 AM ET** — NO NEW ENTRIES TOMORROW. Next entry window: NEXT WEEK (Alpaca unblocked + score ≥75).
 
 **Wednesday May 6 close (/eod-review):**
 - S&P 500: ~7,338.89 est. (+1.10% from ~7,259.22 May 5 close; NEW ATH) | Nasdaq: ~25,670 est. (+1.36%, NEW ATH) | `research_source: websearch_fallback` | **Alpaca blocked day 30**
@@ -273,9 +285,12 @@ A distribution day expires after 25 sessions OR if index gains 6%+ from the day'
 | 2026-05-04 | SPY | −0.41% | est. >1.0x | **ACTIVE** (expires 2026-06-08; S&P 500 7,200.75 −0.41%; Iran launched missiles at UAE — UAE intercepted multiple missiles; oil WTI +4.39% to $106.42, Brent +5.8% to $114.44; geopolitical shock = elevated volume confidence; Alpaca blocked day 25 — vol ratio unconfirmed; data_confidence: websearch_fallback) |
 | 2026-05-05 | SPY | +0.97% | n/a | **NOT A DIST DAY** — UP day (S&P 500 ~7,270, new ATH; Nasdaq ~25,343, new ATH; Iran/UAE tensions easing, oil retreating, broad risk-on). Cannot be distribution by definition. |
 | 2026-05-06 | SPY | +1.10% est. | n/a | **NOT A DIST DAY** — UP day (S&P 500 ~7,339, new ATH; Nasdaq ~25,670, new ATH; AMD +~20% earnings catalyst; Iran deal optimism). Cannot be distribution by definition. `research_source: websearch_fallback` |
+| 2026-05-07 | SPY | −0.38% | est. >1.0x | **⚠️ ACTIVE — DIST DAY #4** (expires 2026-06-12; S&P 500 ~7,311 est. −0.38%; new intraday ATH $736.12 then bearish reversal; Amazon + semi selling (AVGO, MU); oil bounced from lows — WTI $94.81 settle after $91.73 low; Russell 2000 −1.74% = broad distribution; magnitude −0.38% > −0.20% threshold confirmed; vol ratio elevated confidence — bearish reversal from ATH = institutional distribution pattern; Alpaca blocked day 31 — vol ratio unconfirmed; data_confidence: websearch_fallback) |
+| 2026-05-07 | QQQ | ~0.00% | n/a | **NOT A DIST DAY** — QQQ ~$696.01 essentially flat (prev close ~$695.77; +0.04%); below −0.20% threshold; Nasdaq −0.13% (composite slightly weaker but still below threshold). Not counted. |
 
-**Effective count: 3/25** (Apr 23, Apr 28, May 4 SPY dist days; Apr 29 + Apr 30 + May 1 + May 5 were UP days; vol ratios unconfirmed — Alpaca blocked; magnitude threshold met with high confidence on all 3 active days)
-**⚠️ data_confidence: websearch_fallback** — SPY/QQQ MAs estimated via web sources; Alpaca API blocked (403 Host not in allowlist). Volume ratios for all 3 dist days unconfirmed; magnitude threshold met with high confidence. MA estimates reliable from multiple consistent sources.
+**Effective count: 4/25** (Apr 23, Apr 28, May 4, May 7 SPY dist days; Apr 29 + Apr 30 + May 1 + May 5 + May 6 were UP days; vol ratios unconfirmed — Alpaca blocked; magnitude threshold met with high confidence on all 4 active days)
+**⚠️ ELEVATED RISK: 4/5 distribution days. One more distribution day triggers "Uptrend Under Pressure" — no new entries, tighten stops on all positions.**
+**⚠️ data_confidence: websearch_fallback** — SPY/QQQ MAs estimated via web sources; Alpaca API blocked (403 Host not in allowlist). Volume ratios for all 4 dist days unconfirmed; magnitude threshold met with high confidence. MA estimates reliable from multiple consistent sources.
 
 ---
 
@@ -326,6 +341,7 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-05-06 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check. AMD scored 66/100 — REJECT (conviction_below_threshold: A-letter weak GAAP FY2023 -36.9%; no_valid_base). AMD intraday $350-354 (high $359.57, vol 35.27M at 90min = pace ~153M/day vs ADV 46.48M = +229% — volume gate passes, price/score gates fail). AVGO $433.90-435.15 = +6.8% extended above $406.75 pivot (chase limit exceeded; score 72/100 below threshold). MU bench only (climax top). 0 positions. Abort gate: Alpaca blocked day 29. NOT a distribution day (confirm at EOD). Dist count 3/25 unchanged. Uptrend Day 27 intact. `research_source: websearch_fallback`. |
 | 2026-05-06 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; AMD surge; new ATHs) | /eod-review. S&P 500 ~7,339 est. (+1.10%, NEW ATH), Nasdaq ~25,670 est. (+1.36%, NEW ATH). AMD +~20% on massive Q1 beat (Data Center +57% YoY, Q2 guide strong). Iran deal optimism — oil declining. NOT a distribution day (UP day). Dist count 3/25 UNCHANGED. AMD still score 66/100 — even more extended post-gap, no valid base, do not chase. AVGO still extended above buy zone. MU climax top bench. 0 open positions. Alpaca API blocked day 30. Uptrend Day 28 confirmed. `research_source: websearch_fallback`. |
 | 2026-05-07 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check 10:00 AM CT. S&P 500 +0.10% intraday, Nasdaq +0.13% — NOT a distribution day (UP day). Oil: WTI -3.52% to $91.73, Brent -3.34% to $97.93 (Iran peace deal optimism). Dist count 3/25 UNCHANGED. ABORT GATES: (1) Alpaca blocked day 31 — 403 "Host not in allowlist"; (2) NFP gate — no new entries today or Fri (NFP May 8 8:30 ET). AVGO $424.02 (range $417.78–$438.90) — IN buy zone ($406.75–$427.09) but volume only +8% vs ADV (fails +40% threshold) + score 72/100 (fails <75) + Alpaca blocked + NFP gate = 4 simultaneous rejects. MU $641–$683 = +17-25% extended above ~$546 pivot — climax_top_risk_flag CRITICAL++. STX no base. 0 positions. No sell-rules-engine (no positions). No bench promotions (all lack confirmed pivots). Uptrend Day 29 intact. `research_source: websearch_fallback`. |
+| 2026-05-07 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; dist day #4 added) | /eod-review 3:15 PM CT. S&P 500 ~7,311 est. (−0.38%) = DISTRIBUTION DAY #4 confirmed — new intraday ATH $736.12 then bearish reversal; Amazon + AVGO/MU semiconductor selling; oil bounced from $91.73 WTI low to settle $94.81 (Brent $100.06); Russell 2000 −1.74% = broad institutional distribution; magnitude −0.38% > −0.20% threshold; vol ratio elevated confidence (bearish reversal from ATH = institutional selling pattern; Alpaca blocked day 31 — vol ratio unconfirmed). QQQ ~$696.01 essentially flat — NOT a dist day. Dist count 4/25 — ⚠️ ONE AWAY from 5-day Under Pressure threshold. Uptrend Day 29 intact (4/25 < 5 threshold, SPY well above 50d MA ~$684 est. at +6.9%). 0 open positions. NFP May 8 — no new entries tomorrow. Alpaca blocked day 31. `research_source: websearch_fallback`. |
 
 **Thursday May 7 pre-market (/pre-market check — Day 29 session):**
 - ES futures: +1.19% | NQ futures: +1.47% — strong bullish open expected. US-Iran peace deal optimism → crude oil plunging, bond yields falling. AMD post-earnings +16% (May 6); SMCI +17-20% AH (margin recovery + EPS beat on Q3); broad AI infrastructure rally.
