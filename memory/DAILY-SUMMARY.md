@@ -945,3 +945,32 @@ Next: /eod-review 3:15 PM CT — confirm dist day count, AVGO close vs $406.75 p
 Entry window: Week of May 11 (contingent: Alpaca unblocked + uptrend ≤4 dist days + score ≥75)
 
 research_source: websearch_fallback
+
+---
+
+## 2026-05-08 — /eod-review (3:15 PM CT)
+
+📊 **EOD 2026-05-08 | Equity $2,500.00 (+0.00% day, +0.00% week)**
+Open: 0 positions | Cash: 100% | ⚠️ Alpaca API blocked day 32
+
+Distribution days: 4/25 (market: 🟢 Confirmed Uptrend Day 30)
+**Market close:** S&P 500 7,337.11 (+0.36%) | Nasdaq 25,806.20 (+0.66%) | QQQ ~$705 (+1.29%)
+NOT a dist day — UP close on NFP beat. Dist day #5 risk did NOT materialize. Count: **4/25 UNCHANGED.**
+
+Actions today:
+  • [NONE — 0 open positions; Alpaca blocked day 32; NFP gate active (now expired)]
+
+Watchlist:
+  • AVGO ~$428 close — ABOVE $406.75 pivot → stays bench; score 65-68/100 (fails <75)
+  • MU ~$732 est. close (+34% extended above pivot) — `climax_top_risk_flag` CRITICAL++ → bench only
+  • All other bench names (STX, AMD, GEV, GOOGL): no change
+
+Circuit breakers: NONE ✅ | PDT: 0/3 ✅ | Weekly trades: 0/3 (week closed)
+
+⚠️ KEY RISKS entering week of May 11:
+  • 4/5 dist days — ONE MORE triggers "Uptrend Under Pressure" (no new entries)
+  • Alpaca API blocked day 32 — NO EXECUTION until resolved (CRITICAL PATH)
+  • Russell 2000 3-session underperformance streak — breadth narrowing caution
+
+Tomorrow: /pre-market Mon May 11 — full universe scan, AVGO re-score, Alpaca status check
+`research_source: websearch_fallback`

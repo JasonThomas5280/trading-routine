@@ -3512,3 +3512,97 @@ No promotions. No demotions.
 5. **Monday pre-market:** Full universe scan. GOOGL needs canslim-screener. New sector leaders? XLI/XLE gaining vs XLK per RRG — scan XLI/XLE names.
 6. **Russell 2000 divergence:** If small caps continue underperforming large caps 3rd/4th session Monday → elevated caution; consider tightening entry criteria.
 
+
+---
+
+## 2026-05-08 — /eod-review
+
+**Close:** SPY ~$734 est. (+0.32%) | QQQ ~$705.09 (+1.29%)
+**S&P 500:** 7,337.11 (+0.36% from ~7,311 May 7 est.) | Nasdaq: 25,806.20 (+0.66%)
+**Distribution days:** 4 of 25 trailing sessions (today: new dist? NO — UP day; count UNCHANGED)
+**Market state:** 🟢 Confirmed Uptrend Day 30 (no state change; 4/25 dist days; ONE AWAY from Under Pressure)
+**Positions held:** 0
+**Sell-rules-engine:** SKIPPED — 0 open positions
+**Actions today:**
+  - None (0 open positions; Alpaca API blocked day 32; NFP gate active all day — now expired)
+**Circuit breakers:** NONE (all clear; $0 P&L; 0% deployed)
+**P&L today:** $0 (0.00%)
+**Equity:** $2,500.00 est. (at high-water mark)
+
+### Actual close data (EOD)
+
+| Index/ETF | Close | vs. Prev | Notes |
+|---|---|---|---|
+| S&P 500 | 7,337.11 | +0.36% | UP day — NOT a dist day |
+| Nasdaq | 25,806.20 | +0.66% | UP day |
+| QQQ | ~$705.09 | +1.29% | UP from $696.01 May 7 |
+| SPY | ~$734 est. | +0.32% est. | Inferred from S&P level |
+| XLK | +3%+ | — | Sector leader — carried index |
+| Russell 2000 | ≈ −1.5% est. | 3rd consecutive underperformance | Caution flag; not a trigger |
+
+**Key driver:** NFP April +115K massive beat vs +62-65K consensus sustained risk-on into close. XLK +3%+ (tech leadership resurgent). 9 of 11 sectors finished negative but large-cap tech (30% weight) carried S&P positive. Iran "exchanged fire" headline weighed on sentiment but market absorbed it.
+
+### Distribution day analysis
+
+- May 8 S&P 500: +0.36% → **NOT a distribution day** (UP day)
+- Distribution count: **4/25 UNCHANGED** (Apr 23, Apr 28, May 4, May 7 remain active)
+- ⚠️ Still one away from 5/25 = "Uptrend Under Pressure" — threshold watch continues next week
+- Pre-market dist day #5 risk (Iran + AVGO -4% pre-mkt + NFP uncertainty) did NOT materialize
+
+### Watchlist close prices (EOD)
+
+| Symbol | Close | vs. Pivot | Status | Notes |
+|---|---|---|---|---|
+| AVGO | ~$428 est. | +5.2% above $406.75 | 🟡 BENCH (stays) | Above pivot → no removal; score 65-68/100 fails; OpenAI deal snag overhang |
+| MU | ~$732 est. | +34% above ~$546 | 🔴 BENCH (critical) | `climax_top_risk_flag` CRITICAL++; Mizuho $740 PT chasing; blowoff top; wait for base |
+| STX | — | No base | 🔴 BENCH | No change; needs ~4 more weeks |
+| AMD | — | 66/100 reject | 🔴 BENCH | No change; no valid base post-gap |
+| GEV | — | 58-65/100 | 🔴 BENCH | BNP downgrade; base forming; monitor XLI |
+| GOOGL | — | TBD (score pending) | 🟡 ELEVATED BENCH | Needs canslim-screener with live APIs |
+
+**AVGO pivot confirmation (priority from /market-check):** Close ~$428 is ABOVE $406.75 pivot — stays on bench. Does NOT trigger removal.
+
+**MU blowoff pattern (priority from /market-check):** Intraday range $658.80–$742.15 (massive +12.6% intraday spread); closed ~$732 est. Mizuho $740 PT issued late today (Wall Street analyst chasing = exhaustion signal). Stock up 70%+ in 2026. Classic O'Neil climax top signature: massive % gains in short time, late PT upgrades, huge intraday range. **Bench only; wait for 4-6 week base formation.**
+
+### Russell 2000 divergence pattern
+
+Three consecutive sessions of small caps underperforming:
+- May 6: RUT ~flat vs S&P +1.10%
+- May 7: RUT −1.74% vs S&P −0.38%
+- May 8: RUT est. −1.5% vs S&P +0.36%
+
+Pattern: Institutional rotation OUT of small caps INTO large-cap quality/tech. Not a market state trigger but signals breadth narrowing. Caution: breadth deterioration historically precedes distribution clusters. Monday: watch if pattern continues (4th session = elevated caution).
+
+### Portfolio-level checks
+
+- Distribution count (6-day cluster trigger): 4/25 — NO ACTION REQUIRED
+- Hedge entry check: No state transition today — NO HEDGE NEEDED
+- Follow-through exit check: N/A (no inverse ETF held)
+
+### Circuit breaker summary
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily loss -3% | −$75 on $2,500 | ✅ CLEAR — $0 |
+| Weekly loss -6% | −$150 on $2,500 | ✅ CLEAR — $0 week |
+| Drawdown -12% HWM | −$300 from $2,500 | ✅ CLEAR — at HWM |
+| PDT count | 3 of 3 rolling 5 | ✅ CLEAR — 0 day trades |
+
+### Weekly wrap-up (week of May 4-8)
+
+- New positions: **0/3** (Alpaca blocked all week; NFP gate Fri)
+- Sells: 0
+- Stop adjustments: 0
+- Equity: $2,500.00 (unchanged, at HWM since inception)
+- Alpaca API status: **Day 32 consecutive blockage** — 403 "Host not in allowlist" — CRITICAL PATH ITEM for week of May 11
+
+### Priorities for Monday /pre-market (May 11)
+
+1. **⚠️ CRITICAL: Alpaca API restore** — Week 5 of blockage. No execution possible until resolved. Entire entry strategy contingent on this.
+2. **Full universe scan** — new week, fresh look. GOOGL needs canslim-screener with live APIs. XLI/XLE sector names (RRG leaders) need evaluation.
+3. **AVGO re-score** — With live Alpha Vantage + Alpaca data if restored; current 65-68/100 is stale post-OpenAI deal news.
+4. **⚠️ 4/5 distribution days — elevated market tension.** One more dist day = "Uptrend Under Pressure" (no new entries, tighten stops). Very tight entry criteria Monday.
+5. **Russell 2000 divergence** — If 4th consecutive session of small cap underperformance Monday = raise entry bar further; hold 100% cash until breadth confirms.
+6. **MU base timeline** — Clock starts now for 4-6 week base watch (~June 9-20 earliest re-evaluation).
+
+`research_source: websearch_fallback` | Alpaca blocked day 32 | All data estimated via web sources

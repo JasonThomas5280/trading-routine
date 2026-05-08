@@ -8,14 +8,14 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-07 (Thu) — `/eod-review`
-**Confirmed Uptrend days:** 29 (since follow-through day 2026-04-08)
+**Last updated:** 2026-05-08 (Fri) — `/eod-review`
+**Confirmed Uptrend days:** 30 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) ⚠️ ONE AWAY FROM UNDER PRESSURE
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **⚠️ SECTOR ROTATION ALERT:** RRG (Relative Rotation Graph) as of May 3 shows XLK (Technology) has moved into the LAGGING quadrant (below-average RS ratio, declining momentum). XLI (Industrials), XLE (Energy), XLB (Materials) are in the LEADING quadrant. By strict 4-week trailing return math, XLK still ranks #1 (Nasdaq +15.3% in April alone). The divergence between RRG momentum signal and 4-week trailing math is a WARNING: leadership is rotating. Flag all XLK entries this week with `sector_momentum_warning`. Monitor XLK's 4-week RS vs. XLI/XLE weekly — if XLK drops below #3 in trailing 4-week RS, sector blackout for new XLK entries.
 
-**⚠️ ALPACA API BLOCKED — Day 31 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+**⚠️ ALPACA API BLOCKED — Day 32 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
 
 **Thursday May 7 close (/eod-review):**
 - S&P 500: ~7,311 est. (−0.38% from ~7,338.89 May 6 close; hit NEW intraday ATH $736.12 before reversing) | Nasdaq: ~25,637 est. (−0.13%) | Dow: −313.62 pts (−0.63%) | Russell 2000: −1.74% | `research_source: websearch_fallback` | **Alpaca blocked day 31**
@@ -287,7 +287,7 @@ A distribution day expires after 25 sessions OR if index gains 6%+ from the day'
 | 2026-05-06 | SPY | +1.10% est. | n/a | **NOT A DIST DAY** — UP day (S&P 500 ~7,339, new ATH; Nasdaq ~25,670, new ATH; AMD +~20% earnings catalyst; Iran deal optimism). Cannot be distribution by definition. `research_source: websearch_fallback` |
 | 2026-05-07 | SPY | −0.38% | est. >1.0x | **⚠️ ACTIVE — DIST DAY #4** (expires 2026-06-12; S&P 500 ~7,311 est. −0.38%; new intraday ATH $736.12 then bearish reversal; Amazon + semi selling (AVGO, MU); oil bounced from lows — WTI $94.81 settle after $91.73 low; Russell 2000 −1.74% = broad distribution; magnitude −0.38% > −0.20% threshold confirmed; vol ratio elevated confidence — bearish reversal from ATH = institutional distribution pattern; Alpaca blocked day 31 — vol ratio unconfirmed; data_confidence: websearch_fallback) |
 | 2026-05-07 | QQQ | ~0.00% | n/a | **NOT A DIST DAY** — QQQ ~$696.01 essentially flat (prev close ~$695.77; +0.04%); below −0.20% threshold; Nasdaq −0.13% (composite slightly weaker but still below threshold). Not counted. |
-| 2026-05-08 | SPY | +0.41% | n/a | **NOT A DIST DAY** — UP day (S&P 500 +0.41%; NFP April +115K massive beat vs 62-65K consensus; Nasdaq +0.66%; Dow +0.37%). Cannot be distribution by definition. Russell 2000 −1.63% (small cap divergence — rotational; not a dist day catalyst). `research_source: websearch_fallback` |
+| 2026-05-08 | SPY | +0.36% est. | n/a | **NOT A DIST DAY** — UP day (S&P 500 7,337.11 +0.36% from ~7,311 May 7; Nasdaq 25,806.20 +0.66%; QQQ ~$705.09 +1.29%; XLK +3%+ carrying index; NFP +115K confirmed catalyst). Cannot be distribution by definition. Russell 2000 divergence (3rd consecutive underperformance session — monitoring). `research_source: websearch_fallback` |
 
 **Effective count: 4/25** (Apr 23, Apr 28, May 4, May 7 SPY dist days; Apr 29 + Apr 30 + May 1 + May 5 + May 6 were UP days; vol ratios unconfirmed — Alpaca blocked; magnitude threshold met with high confidence on all 4 active days)
 **⚠️ ELEVATED RISK: 4/5 distribution days. One more distribution day triggers "Uptrend Under Pressure" — no new entries, tighten stops on all positions.**
@@ -307,7 +307,7 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 
 ## Rally Attempt Tracking
 
-**Current rally status:** Confirmed (FTD fired 2026-04-08, uptrend in day 14). S&P 500 and Nasdaq hit ALL-TIME HIGHS April 24. Rally is broadening and strengthening.
+**Current rally status:** Confirmed (FTD fired 2026-04-08, uptrend in day 30 as of 2026-05-08 close). S&P 500 and Nasdaq extended above April 24 ATHs; new ATHs repeatedly through May. Uptrend intact but elevated distribution day count (4/5) warrants caution. Alpaca API blocked 32 consecutive days — no execution possible.
 
 ---
 
@@ -343,6 +343,7 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-05-06 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; AMD surge; new ATHs) | /eod-review. S&P 500 ~7,339 est. (+1.10%, NEW ATH), Nasdaq ~25,670 est. (+1.36%, NEW ATH). AMD +~20% on massive Q1 beat (Data Center +57% YoY, Q2 guide strong). Iran deal optimism — oil declining. NOT a distribution day (UP day). Dist count 3/25 UNCHANGED. AMD still score 66/100 — even more extended post-gap, no valid base, do not chase. AVGO still extended above buy zone. MU climax top bench. 0 open positions. Alpaca API blocked day 30. Uptrend Day 28 confirmed. `research_source: websearch_fallback`. |
 | 2026-05-07 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change) | /market-check 10:00 AM CT. S&P 500 +0.10% intraday, Nasdaq +0.13% — NOT a distribution day (UP day). Oil: WTI -3.52% to $91.73, Brent -3.34% to $97.93 (Iran peace deal optimism). Dist count 3/25 UNCHANGED. ABORT GATES: (1) Alpaca blocked day 31 — 403 "Host not in allowlist"; (2) NFP gate — no new entries today or Fri (NFP May 8 8:30 ET). AVGO $424.02 (range $417.78–$438.90) — IN buy zone ($406.75–$427.09) but volume only +8% vs ADV (fails +40% threshold) + score 72/100 (fails <75) + Alpaca blocked + NFP gate = 4 simultaneous rejects. MU $641–$683 = +17-25% extended above ~$546 pivot — climax_top_risk_flag CRITICAL++. STX no base. 0 positions. No sell-rules-engine (no positions). No bench promotions (all lack confirmed pivots). Uptrend Day 29 intact. `research_source: websearch_fallback`. |
 | 2026-05-07 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; dist day #4 added) | /eod-review 3:15 PM CT. S&P 500 ~7,311 est. (−0.38%) = DISTRIBUTION DAY #4 confirmed — new intraday ATH $736.12 then bearish reversal; Amazon + AVGO/MU semiconductor selling; oil bounced from $91.73 WTI low to settle $94.81 (Brent $100.06); Russell 2000 −1.74% = broad institutional distribution; magnitude −0.38% > −0.20% threshold; vol ratio elevated confidence (bearish reversal from ATH = institutional selling pattern; Alpaca blocked day 31 — vol ratio unconfirmed). QQQ ~$696.01 essentially flat — NOT a dist day. Dist count 4/25 — ⚠️ ONE AWAY from 5-day Under Pressure threshold. Uptrend Day 29 intact (4/25 < 5 threshold, SPY well above 50d MA ~$684 est. at +6.9%). 0 open positions. NFP May 8 — no new entries tomorrow. Alpaca blocked day 31. `research_source: websearch_fallback`. |
+| 2026-05-08 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; close confirmed; Uptrend Day 30 confirmed) | /eod-review 3:15 PM CT. S&P 500 7,337.11 (+0.36% actual close); Nasdaq 25,806.20 (+0.66%); QQQ ~$705.09 (+1.29%). NOT a distribution day (UP day). Dist count 4/25 UNCHANGED. XLK +3%+ drove index gains while 9 of 11 sectors declined (large-cap tech concentration). AVGO ~$428 close — ABOVE $406.75 pivot (stays bench; score 65-68/100 fails threshold). MU ~$732 est. close (range $658.80-$742.15 intraday; +34% extended above ~$546 pivot; `climax_top_risk_flag` CRITICAL++; blowoff top risk). 0 open positions. Alpaca API blocked day 32. NFP gate expired (clears Monday). Next entry window: Week of May 11. `research_source: websearch_fallback`. |
 | 2026-05-08 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; dist day risk resolved positive) | /market-check 10:00 AM CT. ABORT GATES: (1) NFP gate — April NFP +115K vs 62-65K consensus (MASSIVE BEAT; released 7:30 AM CT); no new entries today. (2) Alpaca blocked day 32 (403 "Host not in allowlist"). No trades. NFP result: +115K (March revised +185K); unemployment 4.3% steady; wages +0.3% MoM. Market reaction: S&P 500 +0.41%, Nasdaq +0.66%, Dow +0.37%, Russell 2000 -1.63%. NOT a distribution day (UP day). Dist count 4/25 UNCHANGED. Russell 2000 divergence (small caps -1.63% vs large caps +0.41%) = rotational caution signal; not a state-change trigger. AVGO $418.82 intraday (+3.0% above $406.75 pivot; within buy zone; low $406.30 pivot test HELD — stays bench); vol 22.79M vs ADV 19.49M = +16.9% (fails +40% threshold); score 65-68/100 (fails <75); 3 gates fail in addition to Alpaca + NFP abort. MU $707.44 (+9.4% today; +29.5% above ~$546 pivot) — `climax_top_risk_flag` CRITICAL++; bench only. 0 positions. sell-rules-engine SKIPPED (no positions). No bench promotions. Uptrend Day 30 intact. `research_source: websearch_fallback`. |
 
 **Thursday May 7 pre-market (/pre-market check — Day 29 session):**
@@ -385,3 +386,14 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 - **Market state: 🟢 Confirmed Uptrend Day 30. 4/25 dist days. No state change.**
 - 0 open positions | 0/3 weekly trades | sell-rules-engine: SKIPPED
 - Next entry window: Week of May 11 (need: Alpaca restored + uptrend intact + score ≥75)
+
+**Friday May 8 close (/eod-review 3:15 PM CT):**
+- S&P 500: 7,337.11 (+0.36% from ~7,311 May 7 est.) | Nasdaq: 25,806.20 (+0.66%) | QQQ: ~$705.09 (+1.29%) | `research_source: websearch_fallback` | **Alpaca blocked day 32**
+- Distribution day: **NOT CONFIRMED** — UP day. Count: **4/25 UNCHANGED.** Dist day #5 risk from pre-market did NOT materialize.
+- Driver: NFP beat (+115K vs 62-65K consensus) sustained risk-on into close. XLK +3%+ (technology led). 9 of 11 sectors finished negative but large-cap tech concentration carried index positive. Iran escalation (US/Iran exchange of fire) weighed on defensives/energy but did not trigger broader selloff.
+- AVGO close: ~$428 (range $406.30–~$428; prev close ~$412.56 May 7). ABOVE $406.75 pivot → **stays bench.** Score 65-68/100 — threshold not met. OpenAI deal financing snag overhang remains.
+- MU close: ~$732 est. (range $658.80–$742.15 intraday). +34% extended above ~$546 pivot. `climax_top_risk_flag` CRITICAL++ — blowoff top risk; Mizuho $740 PT late today (Wall Street chasing). Stock up 70%+ in 2026. Classic exhaustion pattern. BENCH only — wait for base (~4-6 weeks).
+- ⚠️ **Russell 2000 divergence (3 consecutive sessions):** May 6: +0%; May 7: −1.74%; May 8: −1.63%. Small caps consistently underperforming large caps. Institutional rotation into large-cap quality/tech. Not a state-change trigger but a caution flag for Monday.
+- sell-rules-engine: SKIPPED — 0 open positions
+- Circuit breakers: ALL CLEAR | P&L day: $0 (0%) | Equity est.: $2,500 (at HWM)
+- **Market state: 🟢 Confirmed Uptrend Day 30 confirmed. 4/25 dist days. No state change. Entry window: Week of May 11.**
