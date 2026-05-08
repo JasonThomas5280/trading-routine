@@ -3309,3 +3309,84 @@ None. No positions.
 3. **AVGO:** Did it pull back into buy zone ($406.75–$427.09) after today's retreat? If yes → most actionable name for next week when Alpaca restores + score ≥75.
 4. **NFP read:** Strong jobs = oil inflation fear resurfaces; weak jobs = recession fear. Either tail could add distribution day #5. Neutral read = market stable.
 5. ⚠️ **Alpaca API blocked day 31** — Resolve before ANY entry. Cannot trade without it.
+
+---
+
+## 2026-05-08 — /pre-market
+
+**Research source:** websearch_fallback (Perplexity API 403; Alpaca API blocked day 32)
+**Market direction pull:** 🟢 Confirmed Uptrend — 4/25 dist days; ⚠️ ONE AWAY from Under Pressure
+**Sector leaders (top 3):** XLK Technology (trailing math), XLC Communication Services, XLE Energy
+**Sector laggards:** XLF Financials (#10 RRG), XLY Consumer Disc (#11 RRG)
+
+### Open positions — overnight check
+
+**SKIPPED — 0 open positions.**
+
+### Market overnight check
+
+- **NFP April 2026 (8:30 AM ET = 7:30 AM CT today):** April consensus +165K vs March +178K (prior); ADP April private payrolls +109K (above consensus). Trump signaled May 7 AH: "has seen the number and he is happy" — implies beat vs consensus. NOT YET RELEASED at 6:00 AM CT routine time. `research_source: websearch_fallback`
+- **ES futures:** ~+0.74% pre-market (S&P 500 est. ~7,365 vs May 7 close ~7,311). NQ futures: ~28,599 est. Cautiously positive positioning ahead of NFP.
+- **Iran geopolitical ⚠️:** US and Iran "exchanged fire" on May 8. Iran peace deal optimism from May 5–7 is "hitting hard reality." Iranian state TV reports anti-aircraft activity and explosions over Tehran. Peace deal hope reversal = oil re-elevated. Geopolitical risk premium returning. Raises distribution day risk for today's session.
+- **AVGO pre-market:** -3 to -4% on The Information report of OpenAI $18B chip deal financing snag (detail below).
+
+### Overnight catalysts affecting watchlist
+
+**$MU (PRIMARY — 🔴 EXTENDED, no change):**
+- Mizuho raised PT to $740 (from $545) — significant bullish analyst action
+- HBM4 2026 supply SOLD OUT under binding contracts; customers signing 3–5 year supply agreements
+- JEDEC forum presentations May 12–13 (mobile/edge AI + server/cloud AI)
+- MU stock up 70% in 2026; stock split speculation (Motley Fool)
+- Actual May 7 close: $678.30 (high $683.09, low $641.00) — higher than prior $666.59 estimate
+- Status UNCHANGED: 🔴 EXTENDED (+24.3% above ~$546 pivot). `climax_top_risk_flag` CRITICAL++. No entry. Mizuho PT raise at this extension level = Wall Street chasing the move (contrarian signal at exhaustion).
+
+**$AVGO (PRIMARY → BENCH ⚠️ MAJOR NEGATIVE CATALYST):**
+- The Information (May 7 AH) reports: OpenAI's $18B custom chip deal ("Project Nexus," chip codenamed "Jalapeno") hits FINANCING SNAG
+- Broadcom demands Microsoft agree to buy ~40% of chips to finance phase 1. Microsoft has NOT signed firm purchase agreement.
+- Root cause: infrastructure design disagreement — OpenAI wants specialized data centers for custom silicon; Microsoft prefers standard versatile designs.
+- Market impact: AVGO -4% on May 8. Session range: high $426.49, low $406.30. Low **pierced $406.75 pivot by $0.45** (technically a pivot break intraday).
+- Score impact: N-letter score weakens (OpenAI deal was primary N catalyst). Score est. drops to 65–68/100 (from 72/100). Well below 75 threshold regardless.
+- Flags: `catalyst_negative`, `thesis_risk`, `openai_deal_financing_snag`, `pivot_test_intraday`
+- Action: DEMOTED from Primary to BENCH. Score < 65/100 with deal risk. Flag for /market-check regular session assessment: if close < $406.75 → REMOVE (failed base); if close > $406.75 → remains bench (score still < 75, no entry possible until re-score post deal clarity). Do NOT act on pre-market prices on news alone.
+- Note: Broader AI chip thesis (META $300B+, multiple hyperscaler relationships) remains intact. OpenAI deal is one deal, not AVGO's entire AI chip business. Temporary deal-structure issue ≠ permanent thesis destruction. But score degrades and market will price risk.
+
+**$STX (PRIMARY BENCH — no change):**
+- No new negative catalysts overnight for May 8
+- TD Cowen raised PT to $850 (from $500) — bullish analyst action; stock trading above avg analyst PT already
+- May 7: opened -3.05% (insider selling + valuation concern per prior session data)
+- Status UNCHANGED: 🔴 NO BASE (needs 4–5 more weeks). Re-evaluate late May / early June.
+
+**$AMD (BENCH — no change):**
+- No new catalysts overnight. Score 66/100, no valid base. Unchanged.
+
+**$GOOGL (ELEVATED BENCH):**
+- No change. Score pending canslim-screener when APIs restore. Remains elevated bench priority.
+
+**GEOPOLITICAL (IRAN):**
+- US-Iran exchanged fire May 8 — peace deal "hit hard reality" per FXStreet
+- Tehran anti-aircraft/explosions reported
+- Oil re-elevated from the May 5–7 WTI $91–95 dip
+- If market closes down ≥0.20% today on elevated volume = DISTRIBUTION DAY #5 = STATE CHANGE TO UNDER PRESSURE
+
+### Buy-zone readiness
+
+| Symbol | Pivot | Price est. | % from Pivot | Status |
+|---|---|---|---|---|
+| MU | ~$546 | ~$678 | +24.3% | 🔴 EXTENDED — `climax_top_risk_flag` CRITICAL++ |
+| AVGO | $406.75 | ~$410–417 | +0.8–2.5% | ⚠️ THESIS RISK — demoted to bench; pivot tested intraday (low $406.30); score <70/100 |
+| STX | TBD | ~$695–720 est. | N/A | 🔴 NO BASE |
+
+### Circuit breaker check
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily loss -3% | −$75 | ✅ CLEAR — $0 loss (no positions) |
+| Weekly loss -6% | −$150 | ✅ CLEAR — $0 week P&L |
+| Drawdown -12% HWM | −$300 from $2,500 | ✅ CLEAR — $2,500 (at HWM) |
+| PDT count | 3/3 rolling | ✅ CLEAR — 0 day trades |
+| ⛔ NFP gate | Active | NO new entries today (NFP 8:30 AM ET) |
+| ⛔ Alpaca blocked | Day 32 | ALL execution impossible (403 Host not in allowlist) |
+
+### New candidates flagged
+
+None. Thin universe. GOOGL elevated bench — canslim-screener when APIs restore.

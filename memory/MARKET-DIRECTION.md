@@ -358,3 +358,16 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 - GEV: BNP Paribas downgraded to Neutral. Score est. drops to 58-65/100. Reduced bench confidence.
 - SMCI: REJECTED — class action lawsuit (alleged $2.5B China server diversions), revenue miss, $7.5B net debt. Not adding.
 - `research_source: websearch_fallback`
+
+**Friday May 8 pre-market (/pre-market check — Day 30 session):**
+- ES futures: ~+0.74% (~7,365 est. vs May 7 close ~7,311) | NQ futures: ~28,599 est.
+- Cautiously bullish pre-NFP positioning. Trump signal (May 7 AH): "has seen the number and is happy" → implies NFP April beat vs +165K consensus.
+- ADP April +109K (above consensus). March NFP: +178K (prior).
+- ⚠️ **Iran escalation:** US and Iran "exchanged fire" on May 8. Peace deal "hit hard reality." Tehran anti-aircraft/explosions reported. WTI oil re-elevated. Peace deal optimism from May 5–7 fading → geopolitical risk premium returning. Raises distribution day risk for today's session.
+- ⚠️ **AVGO -4% pre-market:** OpenAI $18B chip deal financing snag (The Information). Sector headwind — XLK sentiment pressure.
+- Distribution days: **4/25 UNCHANGED** (no new session yet today). ⚠️ ONE AWAY from "Uptrend Under Pressure" (5/25 threshold).
+- ⚠️ **DISTRIBUTION DAY #5 RISK TODAY:** If S&P 500 closes ≥-0.20% on elevated volume = state change to 🟡 UNDER PRESSURE. Iran escalation + NFP uncertainty + AVGO drag = elevated risk. Prepare hedge candidates (SH, SQQQ) mentally if state changes.
+- NFP April 8:30 AM ET — NO NEW ENTRIES TODAY.
+- ⚠️ Alpaca blocked day 32 (403 "Host not in allowlist"). All execution impossible.
+- Market state: 🟢 Confirmed Uptrend Day 30. No state change yet. Monitor closely today.
+- `research_source: websearch_fallback`

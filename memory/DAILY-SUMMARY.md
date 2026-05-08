@@ -875,3 +875,34 @@ Actions today:
 Tomorrow (Fri May 8): NFP release — NO NEW ENTRIES. Watch for dist day #5 risk.
 Next entry window: Week of May 11 (Alpaca unblocked + uptrend intact)
 Watchlist: AVGO most actionable (score 72→need 75+; buy zone $406.75–$427.09)
+
+---
+## 2026-05-08 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-05-08 (Fri — NFP Day)
+Market: 🟢 Confirmed Uptrend Day 30 | Futures: ES ~+0.74% (~7,365 est.) NQ ~28,599 est.
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 open positions)
+Alpaca: ❌ BLOCKED Day 32 (403 Host not in allowlist) — all execution impossible
+
+⚠️ KEY ABORT GATES TODAY:
+  ⛔ NFP gate — April NFP 8:30 AM ET; NO new entries today regardless
+  ⛔ Alpaca API blocked day 32 — execution impossible regardless
+  ⚠️ DIST DAY RISK: 4/25 active; if today closes ≥-0.20% on elevated volume = dist day #5 = state change to UNDER PRESSURE
+
+Overnight catalysts:
+  MU: Mizuho PT raised to $740 (from $545). HBM4 2026 supply SOLD OUT under binding contracts. 3–5yr customer deals. May 7 actual close $678.30. Status: 🔴 EXTENDED +24.3% above pivot. No change.
+  AVGO ⚠️: The Information — OpenAI $18B "Project Nexus" chip deal hits financing snag (Microsoft won't sign purchase agreement). AVGO -4% pre-market; May 8 intraday low $406.30 = AT/BELOW $406.75 pivot. Score drops est. 65-68/100 (below 75 threshold). DEMOTED: Primary → Bench. Flags: catalyst_negative, thesis_risk. Monitor pivot at /market-check.
+  STX: No new overnight catalyst. TD Cowen raised PT $850 (from $500). No base. Unchanged.
+  IRAN: US-Iran "exchanged fire" May 8. Peace deal "hit hard reality." Oil re-elevated. ⚠️ Geopolitical risk resurgence.
+  NFP: April consensus +165K (prev +178K March). ADP +109K. Trump signal: "happy with the number." NOT YET RELEASED (6 AM CT).
+
+Watchlist ready: NONE (NFP gate + Alpaca blocked + no setup at trigger)
+Watchlist watching: NONE (AVGO demoted to bench on negative catalyst)
+Watchlist bench: AVGO ⚠️ (thesis risk; pivot test; score <70), MU 🔴 (extended +24%), STX 🔴 (no base), AMD 🔴 (66/100 no base), GOOGL 🟡 (elevated bench — pending score)
+Removed today: AVGO demoted Primary→Bench (OpenAI deal financing snag; score drops to est. 65-68/100)
+
+Key catalyst today: NFP April (7:30 AM CT) + Iran re-escalation risk
+Plan: NO ENTRIES — NFP gate + Alpaca blocked. Monitor dist day count today. If market closes ≥-0.20% on elevated volume → state change to UNDER PRESSURE; prepare hedge candidates SH/SQQQ for next week. AVGO pivot watch at /market-check.
+Next entry window: Week of May 11 (need: Alpaca unblocked + uptrend intact ≤4 dist days + score ≥75)
+research_source: websearch_fallback
