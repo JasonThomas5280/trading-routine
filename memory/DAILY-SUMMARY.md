@@ -906,3 +906,42 @@ Key catalyst today: NFP April (7:30 AM CT) + Iran re-escalation risk
 Plan: NO ENTRIES — NFP gate + Alpaca blocked. Monitor dist day count today. If market closes ≥-0.20% on elevated volume → state change to UNDER PRESSURE; prepare hedge candidates SH/SQQQ for next week. AVGO pivot watch at /market-check.
 Next entry window: Week of May 11 (need: Alpaca unblocked + uptrend intact ≤4 dist days + score ≥75)
 research_source: websearch_fallback
+
+---
+
+## 2026-05-08 10:00 CT [market-check]
+
+📈 Market-check 2026-05-08 10:00 AM CT
+Market: 🟢 Confirmed Uptrend Day 30 | Dist days: 4/25 (⚠️ ONE AWAY from Under Pressure) | NOT a dist day today
+Circuit breakers: NONE ACTIVE
+
+🚫 ABORT GATES FIRED (2):
+  ⛔ NFP gate — April NFP +115K (vs +62-65K consensus, BEAT); macro event day; no new entries
+  ⛔ Alpaca blocked day 32 — 403 "Host not in allowlist"; all execution impossible
+
+📊 NFP April Result:
+  +115K jobs (BEAT vs 62-65K consensus) | Unemployment 4.3% (steady) | Wages +0.3% MoM (in line)
+  March revised +185K (from +178K). Labor market: resilient, not overheating. Goldilocks read.
+
+📉 Market intraday (11:00 AM ET):
+  S&P 500 +0.41% (~7,341 est.) | Nasdaq +0.66% | Dow +0.37% | Russell 2000 -1.63% ⚠️
+  Dist day #5 risk from pre-market did NOT materialize. Count stays 4/25. ✅
+
+Actions taken:
+  [No entries — NFP gate + Alpaca blocked day 32]
+  [No exits — 0 open positions]
+
+Watchlist status:
+  MU 🔴 EXTENDED ($707.44 intraday; +29.5% above ~$546 pivot; `climax_top_risk_flag` CRITICAL++)
+  AVGO ⚠️ BENCH ($418.82; pivot test from $406.30 HELD; score 65-68/100 fails; vol +16.9% fails)
+  STX 🔴 NO BASE | AMD 🔴 66/100 reject | GEV 🔴 bench | GOOGL 🟡 elevated bench (score TBD)
+  0 ready | 6 watching/bench | 0 removed today
+
+Open positions: 0 | Total deployed: 0% | Cash: 100%
+Weekly trade count: 0 of 3 used (week closes at 0)
+PDT count: 0/3
+
+Next: /eod-review 3:15 PM CT — confirm dist day count, AVGO close vs $406.75 pivot, MU blowoff pattern
+Entry window: Week of May 11 (contingent: Alpaca unblocked + uptrend ≤4 dist days + score ≥75)
+
+research_source: websearch_fallback

@@ -3390,3 +3390,125 @@ None. No positions.
 ### New candidates flagged
 
 None. Thin universe. GOOGL elevated bench — canslim-screener when APIs restore.
+
+---
+
+## 2026-05-08 — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 blocked — day 32; Alpha Vantage: blocked; Perplexity: blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 30 | 4/25 dist days (⚠️ one away from Under Pressure) | No state change
+**Circuit breakers:** NONE ACTIVE | Equity: ~$2,500 est. | 0 positions | 0/3 weekly trades
+
+### Abort gate result
+
+**⛔ GATE 1 — NFP MACRO EVENT:** April NFP +115K released at 7:30 AM CT (8:30 AM ET). Largest monthly macro release. Per TRADING-STRATEGY.md "Never enter during: days with major macro data releases before 7:30 AM CT." NFP gate ACTIVE. **No new entries all day.**
+
+**⛔ GATE 2 — ALPACA API BLOCKED DAY 32:** 403 "Host not in allowlist." All order execution impossible. Hard halt from TRADING-STRATEGY.md: "Alpaca API down → Halt all activity."
+
+All other gates: CLEAR (market state ✅, research ✅ (websearch_fallback), daily CB ✅, weekly CB ✅, drawdown ✅, weekly trades 0/3 ✅, positions 0/4 ✅, cash 100% ✅).
+
+→ ABORT to Step 6. No trades executed.
+
+### NFP April 2026 result
+
+| Metric | Actual | Consensus | vs Consensus |
+|---|---|---|---|
+| Nonfarm payrolls | +115K | +62-65K | SIGNIFICANT BEAT (+77%) |
+| March revision | +185K | +178K prior | Upward revision |
+| Unemployment | 4.3% | 4.3% | In line |
+| Avg hourly earnings | +0.3% MoM | +0.3% | In line |
+| Avg workweek | 34.3 hrs | — | Edged up 0.1 hr |
+
+**Interpretation:** Strong labor market — beating consensus by ~77% while wages stay controlled. No wage-inflation re-acceleration. Market read: Goldilocks (strong growth, contained inflation). Bullish for continued risk-on environment. No near-term rate cut urgency but also no hawkish shock.
+
+**Sector breakdown:** Health care +37K, Transportation/warehousing +30K, Retail +22K. Federal government -9K (DOGE-era cuts continuing), Information -13K, Manufacturing -2K. Broad-based strength outside government drag.
+
+### Market reaction (10:00 AM CT = 11:00 AM ET)
+
+| Index | Change | Level est. |
+|---|---|---|
+| S&P 500 | +0.41% | ~7,341 est. |
+| Nasdaq | +0.66% | ~25,807 est. |
+| Dow | +0.37% | ~49,682 est. |
+| Russell 2000 | -1.63% | — |
+
+**Distribution day:** NOT CONFIRMED — UP day (+0.41%). Count: **4/25 UNCHANGED.**
+
+**⚠️ Russell 2000 -1.63% divergence:** Third consecutive session of small caps underperforming large caps (May 5: RUT +1.39%; May 7: RUT -1.74%; May 8: RUT -1.63%). Large-cap concentration increasing. Institutional rotation into large-cap defensives/quality while small caps sell off = potential risk-off under the surface. NOT a state-change trigger today, but pattern warrants monitoring Monday.
+
+### Watchlist trigger evaluation (informational — no execution possible)
+
+**MU — 🔴 CRITICALLY EXTENDED**
+- May 7 actual close: $646.63 (NOTE: prior estimate $678.30 appears wrong; using live WebSearch data)
+- May 8 pre-market: $671.01 (+3.80%)
+- May 8 intraday (10:39 AM ET): **$707.44**
+- vs ~$546 pivot: **+29.5% EXTENDED** (chase limit is 5%)
+- Volume pace: substantially elevated (Fitch upgrade momentum + NFP beat risk-on)
+- `climax_top_risk_flag` CRITICAL++ — +9.4% gain TODAY ALONE on top of multi-week extension. Potential blowoff top. Signs: Mizuho $740 PT raise (Wall Street chasing late), stock up 70% in 2026, stock split speculation. Classic O'Neil climax top indicators. BENCH ONLY. Wait for base formation (~4-6 weeks).
+
+**AVGO — 🔴 BENCH (stays bench; pivot test held)**
+- May 8 intraday: $418.82 (range: $406.30 low → $426.49 high)
+- Pivot: $406.75 | Buy zone: $406.75–$427.09
+- Price gate: ✅ PASSES (+3.0% from pivot, within buy zone)
+- Volume: 22.79M vs ADV 19.49M = **+16.9% — FAILS** (+40% required)
+- Score: **65-68/100 — FAILS** (<75 threshold; OpenAI deal financing snag weakened N-letter)
+- Pivot test from $406.30 low: HELD (above pivot at /market-check time) → **stays BENCH** per pre-market instruction
+- Additional aborts: Alpaca blocked + NFP gate = 4 gates fail simultaneously
+- Thesis note: Broader AI chip thesis (META $300B+, hyperscaler ASIC demand) intact; OpenAI deal is one deal. If deal clarifies favorably in coming weeks AND score re-scores ≥75 with live APIs → reconsider for primary list.
+
+**STX — 🔴 NO BASE**
+- No new overnight catalyst. TD Cowen raised PT $850 (from $500) — stock exceeds avg analyst PT; extended.
+- Status unchanged: 🔴 NO BASE (needs 4-5 more weeks). Target base formation: ~May 25–June 6. Re-evaluate late May.
+
+**AMD — 🔴 BENCH (66/100 structural reject)**
+- No new catalyst. Score 66/100 (GAAP A-letter fail: FY2023 -36.9% Xilinx amortization). No valid base post-gap.
+- No change. Re-evaluate: week of June 9.
+
+**GEV — 🔴 BENCH (58-65/100, base forming)**
+- No new catalyst. BNP downgrade stands. Score est. 58-65/100.
+- No change. Monitor XLI sector performance next week.
+
+**GOOGL — 🟡 ELEVATED BENCH (score TBD)**
+- No change. Needs canslim-screener with live APIs. Massive float = S-letter headwind.
+- Priority: Score when Alpha Vantage + Alpaca restore.
+
+### Mid-morning position health check
+
+0 open positions → sell-rules-engine SKIPPED. No Rule 1 or Rule 3 intraday triggers to evaluate.
+
+### Bench promotion check
+
+| Symbol | Status | Distance to Pivot | Action |
+|---|---|---|---|
+| MU | 🔴 EXTENDED +29.5% | N/A (above zone) | No change — bench; wait for base |
+| AVGO | 🟡 BENCH — pivot test held | +3.0% from $406.75 pivot | No change — stays bench |
+| AMD | 🔴 66/100 no base | N/A | No change |
+| GEV | 🔴 58-65/100 forming | N/A | No change |
+| GOOGL | 🟡 Elevated bench | TBD | No change |
+
+No promotions. No demotions.
+
+### Distribution day check
+
+- Today (May 8): S&P 500 +0.41% → **NOT a distribution day**. Count stays at **4/25**.
+- Pre-market dist day risk (from AVGO drag + Iran + NFP uncertainty) did NOT materialize — NFP beat drove risk-on.
+- ⚠️ Still 4/25: ONE more dist day → "Uptrend Under Pressure." Must remain vigilant next week.
+
+### Circuit breaker summary
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily loss -3% | −$75 on $2,500 | ✅ CLEAR — $0 loss (no positions) |
+| Weekly loss -6% | −$150 on $2,500 | ✅ CLEAR — $0 week P&L |
+| Drawdown -12% HWM | −$300 from $2,500 HWM | ✅ CLEAR — $2,500 est. (at HWM) |
+| PDT count | 3 of 3 rolling 5 | ✅ CLEAR — 0 day trades |
+
+### Priorities for /eod-review (3:15 PM CT today) and /pre-market Monday May 11
+
+1. **Confirm AVGO close vs $406.75 pivot at /eod-review** — if below → REMOVE (failed base); if above → stays bench
+2. **Confirm distribution day status at /eod-review** — 4/25 should remain if market holds gains
+3. **MU: watch for potential blowoff top formation** — if gap-up then reversal today = climax top confirmation; note at /eod-review
+4. **⚠️ Alpaca API is critical path:** Week 5+ of blockage. No trades possible until resolved. Resolve BEFORE Monday's entry window.
+5. **Monday pre-market:** Full universe scan. GOOGL needs canslim-screener. New sector leaders? XLI/XLE gaining vs XLK per RRG — scan XLI/XLE names.
+6. **Russell 2000 divergence:** If small caps continue underperforming large caps 3rd/4th session Monday → elevated caution; consider tightening entry criteria.
+
