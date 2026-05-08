@@ -6,7 +6,7 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## Week of 2026-05-04 to 2026-05-08 (Current)
+## ⚠️ ARCHIVED — Week of 2026-05-04 to 2026-05-08 — STALE — Rebuild via /weekly-prep on Sunday 2026-05-10
 
 **Built:** 2026-05-03 (Sun) — `/weekly-prep` | **Refreshed:** 2026-05-08 (Fri) — `/pre-market` | `research_source: websearch_fallback` (Perplexity + Alpaca both blocked — IP allowlist; Alpaca day 32)
 **Market direction at build time:** 🟢 Confirmed Uptrend Day 22 (SPY ~$723.30 NEW ATH May 1; 2/25 distribution days; follow-through day 2026-04-08)

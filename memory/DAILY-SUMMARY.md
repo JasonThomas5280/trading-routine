@@ -974,3 +974,46 @@ Circuit breakers: NONE ✅ | PDT: 0/3 ✅ | Weekly trades: 0/3 (week closed)
 
 Tomorrow: /pre-market Mon May 11 — full universe scan, AVGO re-score, Alpaca status check
 `research_source: websearch_fallback`
+
+---
+## 2026-05-08 20:38 CT [clickup-placeholder]
+
+### Week ending 2026-05-08
+
+## Week ending 2026-05-08 (Fri) — FireLit Swing CAN SLIM Weekly Review
+
+**Account:** Alpaca paper | **Equity:** $2,500.00 (HWM) | **Weekly return:** 0.00% | **SPY:** +1.49% | **Alpha:** −1.49%
+
+---
+
+### Performance Summary
+- Starting equity: $2,500.00 | Ending equity: $2,500.00
+- Trades taken: **0** (3rd consecutive 0-trade week)
+- Winners/Losers: N/A | W:L ratio: N/A
+- Root cause: Alpaca API blocked Day 25–32 (all 5 sessions). 0 setups scored ≥75. NFP macro gate Fri.
+
+### Rule Adherence: 100/100
+- 0 violations. All gates honored: Alpaca-block halt, NFP gate, conviction floor (AMD 66/100, AVGO 65–68/100), price gate (MU 34% extended).
+
+### Market Direction: CLEAN
+- Confirmed Uptrend Day 22→30. Dist days 2/25→4/25.
+- All 5 daily calls correct. ONE dist day away from Under Pressure.
+- Russell 2000 underperformed 3 consecutive sessions — breadth narrowing.
+
+### Watchlist at Close
+- MU: +34% above pivot (blowoff) BENCH | AVGO: 65–68/100 BENCH | AMD: 66/100 REJECTED | NVDA: removed
+
+### 3 Lessons
+1. Infrastructure: Alpaca 32-day block requires Jason to contact Alpaca support NOW.
+2. Strategy: canslim-screener held AMD gate at 66/100 vs. +20% narrative. System worked.
+3. Market: May 7 bearish ATH-reversal = institutional distribution. 4/25 is tipping point.
+
+### Proposed Rule Changes
+- Proposal 5: API-down SLA (escalate after 30 days + research backup broker)
+- Proposal 6: Pre-market dist-day-5 protocol checklist auto-append at 4/25
+
+### Next Week
+- 4/25 dist days — ELEVATED RISK. SPY +7.2% above 50d MA.
+- Focus: XLK (AVGO, GOOGL), XLC (GOOGL), XLI (GEV)
+- NVDA earnings blackout fires ~May 13–14
+- 0 positions | $2,500 cash | 3/3 slots | DISCIPLINED
