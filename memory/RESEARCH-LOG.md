@@ -3606,3 +3606,123 @@ Pattern: Institutional rotation OUT of small caps INTO large-cap quality/tech. N
 6. **MU base timeline** — Clock starts now for 4-6 week base watch (~June 9-20 earliest re-evaluation).
 
 `research_source: websearch_fallback` | Alpaca blocked day 32 | All data estimated via web sources
+
+---
+
+## 2026-05-10 (Sun) — /weekly-prep (4:00 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 33; Perplexity: 403 blocked; Alpha Vantage: 403 blocked; all data via native WebSearch. `research_source: websearch_fallback` on all inputs.)
+**Market direction:** 🟢 Confirmed Uptrend Day 32 | 4/25 distribution days | ⚠️ ONE AWAY FROM UNDER PRESSURE
+
+---
+
+### Market Direction Summary (Step 1)
+
+| Metric | Value | Source |
+|---|---|---|
+| SPY May 8 close (corrected) | $737.62 | WebSearch (Polymarket/SPY levels substack) |
+| S&P 500 May 8 close (corrected) | 7,398.93 | WebSearch |
+| SPY 50-day SMA | $711.26 | WebSearch (Barchart technical analysis) |
+| SPY above 50d MA | +3.71% | Calculated |
+| QQQ 50-day SMA | $617.31 | WebSearch |
+| QQQ 200-day SMA | $605.90 | WebSearch |
+| QQQ May 8 close est. | ~$705 | Prior tracking (websearch_fallback) |
+| QQQ above 50d MA | +14.2% est. | Calculated |
+| Distribution days (25-session trailing) | 4/25 (Apr 23, Apr 28, May 4, May 7) | Prior tracking confirmed |
+| Most recent FTD | 2026-04-08 (+2.55%, vol 94M vs 70M prior) | Prior tracking |
+| Market state | 🟢 Confirmed Uptrend | Rubric-compliant |
+
+**DATA CORRECTION:** Prior /eod-review May 8 logged S&P 500 at 7,337.11 (+0.36%) — websearch_fallback undercount confirmed. Actual close: 7,398.93 (+0.83%), SPY $737.62. Pattern: websearch_fallback has ±$4-8 SPY / ±60pt S&P systematic undercount on up-days (lag in data aggregation). Flag: add +0.5-1.0% buffer to future websearch_fallback down-day close estimates.
+
+---
+
+### Market Thesis (Step 2 — websearch fallback)
+
+- SPY +3.71% above 50d MA (moderating from +6-7% in prior weeks — MA caught up as rally matured)
+- Bull consensus: Goldman Sachs $7,600 YE target; Morgan Stanley near double-digits; Oppenheimer $8,100
+- S&P 500 at 7,399 = already 97% of Goldman's year-end target with 7+ months remaining — valuation stretched
+- April was best month since 2020 (S&P +10.4%, Nasdaq +15.3%); May seasonality historically weaker ("Sell in May")
+- RSI/breadth concerns: XLK +3%+ on May 8 while 9/11 sectors negative — extreme large-cap concentration
+- Russell 2000: 3 consecutive sessions underperforming large caps — breadth narrowing
+- Iran/Hormuz: peace deal "hit hard reality" May 8; re-escalation risk persists → oil volatility
+- NVDA earnings May 20 AH (est. revenue $78.8B +78.6% YoY; EPS $1.77 +118.5% YoY) — sector catalyst for mid-May
+
+---
+
+### Sector Leadership (Step 3 — websearch fallback)
+
+| Rank | ETF | Sector | 4-wk RS est. | Direction | Notes |
+|---|---|---|---|---|---|
+| 1 | XLK | Technology | ~+10-12% | RRG LAGGING ⚠️ | Trailing math still #1; semis +38% April; XLK +3%+ May 8. Forward momentum declining. |
+| 2 | XLC | Communication | ~+8-10% | Improving | Mag-7 Q1 beats dominant; GOOGL 77/100; AMD surge. |
+| 3 | XLI | Industrials | ~+5-7% | RRG LEADING | AI data center power; GEV Q1 beat + guidance raise; consistent leadership. |
+| 4 | XLE | Energy | ~+3-5% | RRG LEADING | Iran/UAE oil volatility net-positive; re-escalation risk. |
+| 5 | XLF | Financials | ~+3-4% | Mixed | RRG #10 prior week; Q1 earnings solid but relative underperformance. |
+| 6-11 | XLV/XLY/XLB/XLP/XLU/XLRE | Others | Lagging | — | Defensive + rate-sensitive lagging growth sectors. |
+
+**Top 3 this week: XLK, XLC, XLI** (same as last week; XLK RRG warning persists)
+**Bottom 3 (avoid):** XLY, XLRE, XLP
+**Blacklisted sectors:** None
+
+---
+
+### Universe Scan (Steps 4+5 — build-universe.sh blocked; manual websearch)
+
+**Scan approach:** Both Alpaca (403) and Alpha Vantage (403) blocked → build-universe.sh failed. Manual universe built from known XLK/XLC/XLI constituents. Earnings calendar from websearch (AV blocked).
+
+| Filter stage | Count | Notes |
+|---|---|---|
+| Seeds from top-3 sectors (XLK, XLC, XLI) | ~35 manually identified | Manual websearch; full ETF constituent list unavailable |
+| Price $10-$500 filter | ~28 remaining | GEV excluded (est. >$500/share); MU included (within range at ~$546 pivot area) |
+| ADV ≥500K | ~28 remaining | All large/mid-cap constituents pass |
+| Earnings blackout (≤10 trading days) | ~24 remaining | NVDA removed (blackout May 13; earnings May 20 AH) |
+| A-letter pre-filter (EPS growth ≥25%) | ~15 remaining | Eliminated: NFLX (rev +16% fail), CAT, HON, RTX (EPS growth <25%) |
+| canslim-screener scored | 6 (GOOGL, AVGO, GEV, META, NFLX, MU) | NFLX, MU scored via analysis then rejected |
+| Passed ≥75 with valid base | **0** | 4th consecutive week |
+| Passed ≥75 score (base still forming) | **1** (GOOGL 77/100) | Watchlist-grade; not tradeable |
+
+**Rejection breakdown:**
+- NFLX: C-letter fail (revenue +16% < 25%; one-time $2.8B breakup fee inflated EPS; organic growth insufficient)
+- MU: Price gate fail (climax top: $746.81 vs ~$546 pivot = +36.8% extended; `climax_top_risk_flag` CRITICAL++)
+- GEV: Conviction 61/100 (short public history since Apr 2024 spin; A-letter capped at 7/15)
+- AVGO: Conviction 67/100 (XLK sector RRG lagging penalty −3 on L-letter; large float 0 on S-float; FY2023 revenue growth ~8% below 25% threshold; `gaap_eps_yoy_unconfirmed`); price extended +5.74% above $406.75 pivot
+- META: Conviction ~45/100 (base forming 8-9 months; still in distribution phase; no base completed)
+- AMD: Conviction 66/100 (A-letter GAAP FY2023 −36.9% Xilinx amortization); no valid base post-earnings gap
+
+---
+
+### Scores (Step 5)
+
+| Symbol | Score | C | A | N | S | L | I | Base | Verdict | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| GOOGL | **77/100** | 20 | 10 | 15 | 10 | 15 | 7 | 0 | WATCHLIST | No valid base (2 weeks post-earnings; needs 4-6wk flat base ~$395-400). Price $395.75 = +15.6% above ~$342 original pivot. Next trigger: flat base completion + pivot ~$400. `edgar_data_unavailable`. |
+| AVGO | **67/100** | 15 | 10 | 14 | 5 | 7 | 6 | 10 | REJECT | Score below 75. Price $430 = 5.74% above pivot (buy zone expired). XLK sector lagging penalty. `gaap_eps_yoy_unconfirmed`. |
+| GEV | **~61/100 est.** | 15 | 7 | 12 | 5 | 10 | 7 | 5 | REJECT | Short history A-letter cap. Base forming (not yet confirmed). |
+| META | **~45/100 est.** | 20 | TBD | 10 | 3 | 10 | 7 | 0 | REJECT | No base. 8-9 month distribution phase. Capex anxiety ($135B) limiting institutional appetite. |
+| NFLX | **<50/100** | 0 | TBD | 10 | TBD | TBD | TBD | 0 | REJECT | C-letter hard fail (revenue +16% < 25%). Disqualified at pre-filter. |
+| MU | **est. 72-76/100** | 20 | 15 | 13 | 8 | 12 | 8 | 5 | REJECT | Price gate fail (climax top +36.8% extended; 5% buy zone long expired). |
+
+---
+
+### Calendar risks for week of May 11-15 (Step 7 inputs)
+
+| Date | Event | Risk Level | Agent action |
+|---|---|---|---|
+| Tue May 12 | CPI (April) — "red-hot" expected (energy-driven) | 🔴 HIGH | ⛔ No entries before CPI. If hot → possible dist day #5 → Under Pressure protocol |
+| Wed May 13 | PPI (April) | 🟡 MEDIUM | Monitor for secondary inflation confirmation |
+| Wed May 13 | NVDA earnings blackout STARTS (≤5 trading days before May 20 AH) | 🔴 HARD RULE | NVDA absolutely off limits |
+| Thu May 14 | Retail Sales (April) + NY Fed Williams speech | 🟡 MEDIUM | No entries before Retail Sales |
+| Fri May 15 | Powell last day as Fed chair; Warsh confirmation vote | 🟡 MEDIUM | Potential volatility; be cautious |
+| Week | NVDA earnings May 20 AH (after this week) | 🟡 MEDIUM | XLK sector catalyst coming; may shift sector RS |
+
+---
+
+### Data quality notes
+
+- SPY/QQQ MAs: Barchart confirmed via websearch — reliable (SPY 50d: $711.26; QQQ 50d: $617.31)
+- Sector 4-week returns: Estimated from narrative data (no clean ETF bar data available); error margin ±2-3%
+- Stock prices: AVGO May 8 close $430.00 confirmed (StockAnalysis.com). GOOGL $395.75 confirmed.
+- Volume data: All volume metrics estimated or from prior tracking; ±15-20% error margin (no Alpaca live data)
+- Alpaca API: 403 "Host not in allowlist" — Day 33 consecutive. `⚠️ ALPACA_BLOCKED`
+- `research_source: websearch_fallback` on ALL data this week
+

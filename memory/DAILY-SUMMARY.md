@@ -1017,3 +1017,18 @@ Tomorrow: /pre-market Mon May 11 — full universe scan, AVGO re-score, Alpaca s
 - Focus: XLK (AVGO, GOOGL), XLC (GOOGL), XLI (GEV)
 - NVDA earnings blackout fires ~May 13–14
 - 0 positions | $2,500 cash | 3/3 slots | DISCIPLINED
+
+---
+## 2026-05-10 21:27 CT [clickup-placeholder]
+
+📋 Week prep 2026-05-10
+Market: 🟢 Confirmed Uptrend Day 32 (Dist: 4/25 ⚠️ ONE AWAY, SPY vs 50MA: +3.71%, SPY $737.62)
+DATA CORRECTION: May 8 actual S&P 500 = 7,398.93 (prior estimate 7,337.11 was low)
+Top sectors: XLK (+10-12% 4wk) > XLC (+8-10%) > XLI (+5-7%) | XLK RRG LAGGING
+Watchlist primary: NONE — 0 confirmed tradeable setups (4th consecutive week)
+Score >=75 no base: GOOGL 77/100 (needs 4-6wk flat base ~$380-400)
+Bench: AVGO 67/100 (below threshold + extended), GEV 61/100, META 45/100 base forming, MU climax top
+Removed: NVDA (blackout May 13 + China=0), NFLX (C-letter +16% rev fail), AMD 66/100 no base, STX no base
+Calendar: CPI Tue May 12 (dist day #5 risk), PPI Wed, NVDA blackout May 13, Retail Sales Thu, Powell last day Fri
+Entry plan Mon: NONE (Alpaca blocked Day 33, 0 setups, CPI risk)
+Hedge: If dist day #5 fires -> SH 25% portfolio ($625)
