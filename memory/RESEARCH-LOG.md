@@ -3786,3 +3786,61 @@ Pattern: Institutional rotation OUT of small caps INTO large-cap quality/tech. N
 
 **NO ENTRIES THIS SESSION.** Alpaca blocked + zero setups + Iran geopolitical shock + pre-CPI caution. Cash preservation is correct posture.
 
+---
+
+## 2026-05-11 — /market-check (10:00 AM CT)
+
+**Research source:** websearch_fallback (Alpaca 403 blocked Day 35; Perplexity 403 blocked; AV blocked — all primary data unavailable)
+**Market direction:** 🟢 Confirmed Uptrend Day 33 — 4/25 dist days | ⚠️ dist day #5 risk elevated (Iran peace deal collapse; pre-CPI caution)
+
+### Abort gates
+
+| Gate | Status |
+|---|---|
+| Market state | ✅ 🟢 Confirmed Uptrend — passes |
+| Research degraded | ✅ websearch_fallback (NOT DEGRADED — WebSearch available) — passes |
+| Daily -3% circuit breaker | ✅ $0 P&L (no positions) — CLEAR |
+| Weekly -6% circuit breaker | ✅ $0 WTD — CLEAR |
+| Drawdown -12% HWM | ✅ $0 drawdown from $2,500 HWM — CLEAR |
+| Weekly trade count | ✅ 0/3 used — CLEAR |
+| Position count | ✅ 0/4 — CLEAR |
+| Cash buffer | ✅ 100% cash — CLEAR |
+| **⛔ Alpaca API execution** | **BLOCKED Day 35 (403 Host not in allowlist) — all order execution + live price/volume data impossible. HALT.** |
+
+### Market data (10:00 AM CT via websearch_fallback)
+
+| Index | Intraday | Notes |
+|---|---|---|
+| S&P 500 | −0.12% | Below −0.20% dist day threshold — NOT a dist day intraday |
+| Nasdaq | −0.34% | Tech weak on Iran/oil drag |
+| Dow | Flat | |
+| Russell 2000 | +0.76% | Small caps resilient — reversal from 3-session underperformance |
+| Brent Oil | ~$105.33 | Iran peace deal collapsed; Hormuz largely closed — market absorbing shock |
+
+**Distribution day #5:** NOT triggered intraday (−0.12% < −0.20% threshold). Monitor /eod-review close.
+
+### Watchlist status
+
+**Primary watchlist: EMPTY — 0 confirmed tradeable setups (4th consecutive week).** No 🟢 READY items to evaluate.
+
+| Symbol | Level | Pivot | Status | Notes |
+|---|---|---|---|---|
+| GOOGL | $400.71 (open $397, high $402, low $396.36) | ~$395-400 (est. new flat base forming) | 🟡 WATCHLIST — no valid base | 77/100; at estimated new pivot zone; thesis intact; needs more weeks for base completion |
+| AVGO | ~$430 intraday (range $414-$435) | $406.75 | 🔴 BENCH | 67/100 (< 75 threshold); extended; intraday low $414 briefly within 2% of pivot ($414.89 threshold) but score gate fails — no promotion possible |
+| MU | est. $762+ | ~$546 | 🔴 BENCH — climax top | +39% extended; JEDEC conference May 12-13 potential exhaustion catalyst |
+| META | ~$610 est. | TBD (base forming) | 🔴 BENCH | Base formation ongoing |
+
+### Overnight gap check
+0 open positions — skipped.
+
+### Position health check (intraday sell-rules-engine)
+0 open positions — sell-rules-engine: SKIPPED.
+
+### Bench promotions / demotions
+- **AVGO:** Intraday low $414 briefly touched within 2% of $406.75 pivot ($414.89 threshold). However: score 67/100 < 75 threshold — cannot be promoted to tradeable primary regardless of price action. BENCH unchanged. Monitor: if AVGO stabilizes in $406-427 zone AND score refreshes to ≥75 → promote.
+- **MU, META:** No change.
+- **GOOGL:** Already on WATCHLIST (77/100). No change.
+
+### Actions taken
+**NONE.** Abort: Alpaca API blocked Day 35 (403) + primary watchlist empty.
+
