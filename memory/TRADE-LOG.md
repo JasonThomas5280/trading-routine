@@ -52,7 +52,8 @@ For SELL entries, additionally log:
 
 ## Weekly Trade Count (rolling)
 
-**Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri; next week starts Mon May 11)
+**Week of 2026-05-11:** 0 new positions opened (max 3/week) ← CURRENT WEEK (reset Mon May 11; Alpaca blocked Day 34; zero tradeable setups)
+**Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)
 **Week of 2026-04-28:** 0 new positions opened (max 3/week) — CLOSED Fri May 1 (Alpaca API blocked entire week; 0/3 used)
 **Week of 2026-04-21:** 0 new positions opened (max 3/week)
 

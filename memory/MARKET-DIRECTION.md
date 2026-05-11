@@ -8,8 +8,8 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-10 (Sun) — `/weekly-prep`
-**Confirmed Uptrend days:** 32 (since follow-through day 2026-04-08; counting through weekend to Monday open)
+**Last updated:** 2026-05-11 (Mon) — `/pre-market`
+**Confirmed Uptrend days:** 33 (since follow-through day 2026-04-08)
 **Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) ⚠️ ONE AWAY FROM UNDER PRESSURE
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
@@ -349,7 +349,24 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 | 2026-05-07 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; dist day #4 added) | /eod-review 3:15 PM CT. S&P 500 ~7,311 est. (−0.38%) = DISTRIBUTION DAY #4 confirmed — new intraday ATH $736.12 then bearish reversal; Amazon + AVGO/MU semiconductor selling; oil bounced from $91.73 WTI low to settle $94.81 (Brent $100.06); Russell 2000 −1.74% = broad institutional distribution; magnitude −0.38% > −0.20% threshold; vol ratio elevated confidence (bearish reversal from ATH = institutional selling pattern; Alpaca blocked day 31 — vol ratio unconfirmed). QQQ ~$696.01 essentially flat — NOT a dist day. Dist count 4/25 — ⚠️ ONE AWAY from 5-day Under Pressure threshold. Uptrend Day 29 intact (4/25 < 5 threshold, SPY well above 50d MA ~$684 est. at +6.9%). 0 open positions. NFP May 8 — no new entries tomorrow. Alpaca blocked day 31. `research_source: websearch_fallback`. |
 | 2026-05-08 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; close confirmed; Uptrend Day 30 confirmed) | /eod-review 3:15 PM CT. S&P 500 7,337.11 (+0.36% actual close); Nasdaq 25,806.20 (+0.66%); QQQ ~$705.09 (+1.29%). NOT a distribution day (UP day). Dist count 4/25 UNCHANGED. XLK +3%+ drove index gains while 9 of 11 sectors declined (large-cap tech concentration). AVGO ~$428 close — ABOVE $406.75 pivot (stays bench; score 65-68/100 fails threshold). MU ~$732 est. close (range $658.80-$742.15 intraday; +34% extended above ~$546 pivot; `climax_top_risk_flag` CRITICAL++; blowoff top risk). 0 open positions. Alpaca API blocked day 32. NFP gate expired (clears Monday). Next entry window: Week of May 11. `research_source: websearch_fallback`. |
 | 2026-05-08 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; dist day risk resolved positive) | /market-check 10:00 AM CT. ABORT GATES: (1) NFP gate — April NFP +115K vs 62-65K consensus (MASSIVE BEAT; released 7:30 AM CT); no new entries today. (2) Alpaca blocked day 32 (403 "Host not in allowlist"). No trades. NFP result: +115K (March revised +185K); unemployment 4.3% steady; wages +0.3% MoM. Market reaction: S&P 500 +0.83% (actual: 7,398.93; prior websearch estimate 7,337.11 was an undercount — corrected 2026-05-10), Nasdaq +0.83%+, Russell 2000 -1.63%. NOT a distribution day (UP day). Dist count 4/25 UNCHANGED. Russell 2000 divergence (small caps -1.63% vs large caps positive) = rotational caution signal; not a state-change trigger. AVGO $418.82 intraday → closed $430.00 (+4.23% May 8; up from $412.56 May 7); scored 67/100 2026-05-10 /weekly-prep (REJECT — below threshold + extended). GOOGL $395.75 close (+29.48% 30-day momentum); scored 77/100 WATCHLIST (no valid base). MU $746.81 est. — climax top BENCH. 0 positions. sell-rules-engine SKIPPED. Uptrend Day 30 intact. `research_source: websearch_fallback`. |
+| 2026-05-11 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; pre-market; Iran deal collapse) | /pre-market 2026-05-11. ES −0.08%, NQ −0.09%. Trump rejected Iran peace proposal ("totally unacceptable") → Brent $105.33 (+$4), WTI $99.85 (+$4.43). Strait of Hormuz largely closed. Dist count 4/25 UNCHANGED — no new distribution day (market not yet open). ⚠️ Elevated dist day #5 risk today + CPI tomorrow. Alpaca blocked Day 34. 0 positions. Uptrend Day 33. `research_source: websearch_fallback`. |
 | 2026-05-10 | CONFIRMED UPTREND → CONFIRMED UPTREND (no change; Sunday /weekly-prep; corrected May 8 data) | /weekly-prep 2026-05-10. SPY May 8 actual close $737.62 (S&P 500 7,398.93); 50-day MA $711.26; SPY above 50d MA +3.71%. QQQ 50d SMA $617.31; 200d SMA $605.90. 4/25 dist days UNCHANGED. Uptrend Day 32 (weekend count). Scores: GOOGL 77/100 WATCHLIST (no base); AVGO 67/100 REJECT (sector lagging + price extended); GEV ~61/100 REJECT (short history); NFLX REJECT C-letter; META base forming (45/100). 0 tradeable setups — 4th consecutive week. ⚠️ CPI Tuesday May 12 = primary risk catalyst for dist day #5. NVDA blackout starts ~May 13. Fed chair transition (Warsh). Research: Alpaca/AV/Perplexity all blocked Day 33 — full websearch_fallback. `research_source: websearch_fallback`. |
+
+**Monday May 11 pre-market (/pre-market check — Day 33 session):**
+- ES futures: 7,413.25 (−0.08%) | NQ futures: 29,306.75 (−0.09%) — slightly negative, surprisingly contained given oil shock
+- **🔴 IRAN PEACE DEAL COLLAPSE (overnight):** Trump rejected Iran's counterproposal ("totally unacceptable"). Netanyahu: conflict "is not over." Strait of Hormuz largely closed. Brent crude +$4.04 (+3.99%) to $105.33; WTI +$4.43 (+4.64%) to $99.85. Reverses last week's oil decline on ceasefire optimism.
+- Oil spike driving inflation risk → delays 2H 2026 rate cuts. Treasury yields moving higher. Tech + consumer discretionary leading pre-market losses. Chipmakers under pressure.
+- Asian shares mixed. No circuit breakers (0 open positions).
+- **⚠️ DISTRIBUTION DAY #5 RISK:** Iran oil shock + pre-CPI session = two consecutive sessions of elevated risk. If S&P closes ≥−0.20% today ON elevated volume → dist day #5 → STATE CHANGE TO 🟡 UPTREND UNDER PRESSURE. Prepare SH/SQQQ hedge protocol.
+- **⚠️ CPI tomorrow May 12 (7:30 AM CT):** April CPI — treat as NFP-level macro event gate. No new entries until after release. Hot CPI (energy-driven) = additional dist day risk + Under Pressure catalyst.
+- ⛔ Alpaca blocked Day 34 (403). Perplexity blocked (403). research_source: websearch_fallback.
+- 0 open positions → sell-rules-engine: SKIPPED
+- GOOGL: $400.80 (consolidating at est. new pivot zone $395-400; no valid flat base yet; thesis intact)
+- AVGO: ~$430 (extended; Apollo/Blackstone $35B financing deal = positive; score 67/100 — bench)
+- GEV: ~$1,042 → **REMOVED (price > $500 ceiling)**
+- MU: $762.85 pm (+2.15%; climax top BENCH)
+- Market state: 🟢 Confirmed Uptrend Day 33. 4/25 dist days. No state change yet — MONITOR CLOSE.
+- `research_source: websearch_fallback`
 
 **Thursday May 7 pre-market (/pre-market check — Day 29 session):**
 - ES futures: +1.19% | NQ futures: +1.47% — strong bullish open expected. US-Iran peace deal optimism → crude oil plunging, bond yields falling. AMD post-earnings +16% (May 6); SMCI +17-20% AH (margin recovery + EPS beat on Q3); broad AI infrastructure rally.

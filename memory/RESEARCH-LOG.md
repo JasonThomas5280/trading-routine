@@ -3726,3 +3726,63 @@ Pattern: Institutional rotation OUT of small caps INTO large-cap quality/tech. N
 - Alpaca API: 403 "Host not in allowlist" — Day 33 consecutive. `⚠️ ALPACA_BLOCKED`
 - `research_source: websearch_fallback` on ALL data this week
 
+
+---
+
+## 2026-05-11 — /pre-market
+
+**Research source:** websearch_fallback (Alpaca 403 blocked Day 34; Perplexity 403 blocked; both primary data sources unavailable)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 33 — elevated risk (4/25 dist days; Iran peace deal collapse overnight)
+**Sector leaders (top 3):** XLK, XLC, XLI (carry from weekly-prep; NOT refreshed today — Alpaca/AV blocked)
+**Sector laggards (bottom 3):** XLY, XLRE, XLP (carry)
+
+### Overnight catalysts — market
+
+- **🔴 IRAN PEACE DEAL COLLAPSE:** Trump rejected Iran's counterproposal over the weekend ("totally unacceptable"). Netanyahu: conflict "is not over." Strait of Hormuz largely closed. Brent crude +$4.04 (+3.99%) to $105.33; WTI +$4.43 (+4.64%) to $99.85. Reverses last week's peace optimism that drove market rallies (oil had briefly hit $91-92 WTI on ceasefire hopes).
+- **ES futures: 7,413.25 (−0.08%)** vs May 8 close est. 7,398.93 | **NQ futures: 29,306.75 (−0.09%)**. Futures surprisingly contained given oil shock; Asian shares mixed.
+- Tech + consumer discretionary leading premarket losses. Chipmakers under early pressure.
+- Treasury yields moving higher — bond market reassessing inflation expectations.
+- Oil-driven inflation risk may delay 2H 2026 rate cuts that equities had been pricing.
+- **⚠️ DISTRIBUTION DAY #5 RISK TODAY:** 4/25 dist days (one away from Under Pressure). Oil shock = elevated risk of -0.20%+ close today. If confirmed → state change to 🟡 Uptrend Under Pressure → NO new long entries; activate SH/SQQQ hedge protocol.
+- **⚠️ DOUBLE RISK EVENT: CPI (April) tomorrow May 12.** Two consecutive sessions of elevated dist day risk. Iran oil spike embeds additional energy CPI pressure → hot CPI more likely → cascading sell risk Tue.
+
+### Overnight catalysts — watchlist names
+
+- **GOOGL ($400.80):** No new negative catalyst. Q1 thesis intact (Cloud +63%, EPS $5.11). Price consolidating at estimated new pivot zone ($395-400). Still no valid flat base (needs more weeks). Thesis intact — 🟡 WATCHLIST unchanged.
+- **AVGO (~$430):** Apollo Global + Blackstone in talks for ~$35B private credit financing deal — POSITIVE. Addresses prior `openai_deal_financing_snag` concern. Price unchanged from Fri close ($430). Still extended +5.74% above $406.75 pivot ($427.09 buy zone ceiling). Score 67/100 unchanged. 🔴 BENCH unchanged.
+- **GEV (~$1,042):** ⚠️ PRICE DISQUALIFICATION — $1,042 exceeds $500 price ceiling per TRADING-STRATEGY.md ("price $10–$500"). Hard disqualify. **REMOVED from bench.** (Note was flagged in watchlist — confirmed today.)
+- **MU ($762.85 pre-market, +2.15%):** New 245TB Micron 6600 ION SSD shipments started. No thesis change. +39.7% extended above ~$546 pivot. `climax_top_risk_flag` CRITICAL++. 🔴 BENCH — DO NOT TOUCH.
+- **META (est. ~$610 area):** No new catalyst from search. Base formation continues. 🔴 BENCH unchanged.
+
+### Buy-zone status
+
+| Symbol | Last | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | $400.80 | ~$395-400 (est. new flat base forming) | At zone | 🟡 WATCHLIST — no valid base completed; needs more weeks |
+| AVGO | ~$430 | $406.75 | +5.74% extended | 🔴 BENCH — extended + score < 75 |
+| MU | ~$762.85 pm | ~$546 | +39.7% extended | 🔴 BENCH — climax top |
+| META | ~$610 est. | TBD (base forming) | N/A | 🔴 BENCH — no base |
+| GEV | ~$1,042 | N/A | HARD DISQUALIFY | 🔴 REMOVED — price > $500 ceiling |
+
+### Open positions overnight check
+
+- **0 open positions.** Sell-rules-engine: SKIPPED.
+
+### Circuit breaker check
+
+- Account equity est. $2,500 (no trades placed, at HWM)
+- Daily loss today: $0 (market not yet open)
+- Weekly loss: $0
+- Drawdown from HWM: $0
+- **Circuit breakers: ALL CLEAR**
+
+### Abort gates
+
+1. ⛔ Alpaca API blocked Day 34 (403 "Host not in allowlist") — all execution impossible
+2. ⛔ Zero tradeable setups — no primary watchlist names pass all entry gates
+3. ⚠️ Elevated dist day risk (4/25 → potential #5 today + CPI tomorrow)
+
+### Entry plan
+
+**NO ENTRIES THIS SESSION.** Alpaca blocked + zero setups + Iran geopolitical shock + pre-CPI caution. Cash preservation is correct posture.
+

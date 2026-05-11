@@ -1032,3 +1032,20 @@ Removed: NVDA (blackout May 13 + China=0), NFLX (C-letter +16% rev fail), AMD 66
 Calendar: CPI Tue May 12 (dist day #5 risk), PPI Wed, NVDA blackout May 13, Retail Sales Thu, Powell last day Fri
 Entry plan Mon: NONE (Alpaca blocked Day 33, 0 setups, CPI risk)
 Hedge: If dist day #5 fires -> SH 25% portfolio ($625)
+
+---
+## 2026-05-11 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-05-11
+Market: 🟢 Confirmed Uptrend Day 33 — ⚠️ ELEVATED RISK | Futures: ES 7,413.25 (−0.08%) NQ 29,306.75 (−0.09%)
+Open positions: 0 | Circuit breakers: NONE | Alpaca: BLOCKED Day 34 (403)
+Overnight gaps: N/A — 0 open positions
+Watchlist ready: NONE (zero tradeable setups)
+Watchlist watching: GOOGL 🟡 ($400.80, consolidating at est. $395-400 pivot zone; no valid base yet)
+Removed: GEV 🔴 (HARD DISQUALIFY — price $1,042 > $500 ceiling per TRADING-STRATEGY.md)
+Bench: AVGO 🔴 ($430, extended +5.74%/score 67/100; BUT Apollo/Blackstone $35B financing news = positive, clears openai_deal_financing_snag), MU 🔴 (climax top $762.85 pm), META 🔴 (base forming)
+Key catalyst today: 🔴 IRAN PEACE DEAL COLLAPSE — Trump rejected Iran proposal "totally unacceptable"; Brent +$4 to $105.33, WTI +$4.43 to $99.85. Strait of Hormuz largely closed. Oil-driven inflation risk. Chipmakers + tech under premarket pressure.
+Key catalyst tomorrow: ⚠️ CPI (April) 7:30 AM CT May 12 — treat as NFP gate. No new entries before CPI. Hot print → potential dist day #5 → Under Pressure state change.
+⚠️ DIST DAY #5 RISK: 4/25 dist days currently (1 away from Under Pressure). Elevated risk today from oil shock AND tomorrow from CPI. If dist day #5 occurs: NO new longs; evaluate SH/SQQQ $625 hedge immediately.
+research_source: websearch_fallback | Perplexity 403 blocked
+Plan: NO entries — Alpaca blocked + zero tradeable setups + geo risk + pre-CPI caution. Monitor S&P close for dist day #5.
