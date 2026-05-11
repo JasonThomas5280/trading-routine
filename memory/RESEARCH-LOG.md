@@ -3844,3 +3844,82 @@ Pattern: Institutional rotation OUT of small caps INTO large-cap quality/tech. N
 ### Actions taken
 **NONE.** Abort: Alpaca API blocked Day 35 (403) + primary watchlist empty.
 
+
+---
+
+## 2026-05-11 — /eod-review
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 35; Perplexity: blocked; Alpha Vantage: blocked; all data via native WebSearch)
+**Close:** SPY est. ~$739.02 (+0.19%) | QQQ est. ~$712.00 (+0.10%)
+**Distribution days:** 4 of 25 trailing sessions (today: NO new dist day — UP day)
+**Market state:** 🟢 Confirmed Uptrend Day 33 (no state change; transitioned today: no)
+**Positions held:** 0
+**Actions today:** NONE
+
+### Market close data
+
+| Index / Asset | Close | Change | Notes |
+|---|---|---|---|
+| S&P 500 | 7,412.84 | +0.19% NEW ATH | Third straight record close; absorbed Iran oil spike |
+| Nasdaq | 26,274.13 | +0.10% NEW ATH | Tech held up despite VIX +7%; semis led |
+| Russell 2000 | 2,868.58 | +0.26% NEW ATH | Small caps bounced after 3 straight sessions underperforming large caps |
+| Dow | 49,704.47 | +0.19% | Broad market positive |
+| SPY est. | ~$739.02 | +0.19% | From $737.62 May 8 actual close |
+| QQQ est. | ~$712.00 | +0.10% | From ~$711.23 May 8 close |
+| Brent crude | ~$108-109 est. | +~3% | Iran war premium persisting — Strait of Hormuz largely closed; Trump rejection of peace deal |
+| WTI crude | ~$102-104 est. | +~3% | Tracking Brent |
+| 10Y Treasury | 4.41% | +4.6 bps | Yield creeping up (oil inflation premium) |
+| VIX | ~17-18 est. | +7% | Anxiety spike into close; market held gains despite |
+
+### Distribution day check
+
+- S&P 500: +0.19% — **UP day → NOT a distribution day** (cannot be dist by definition)
+- Dist count: **4/25 UNCHANGED** (Apr 23, Apr 28, May 4, May 7)
+- ⚠️ Market digested Iran war oil shock (+3% Brent) and still set new ATHs — institutional sponsorship remains strong
+
+### Sell-rules-engine results
+
+**SKIPPED — 0 open positions.** No sell verdicts possible. No stop adjustments needed.
+
+### Portfolio-level checks
+
+| Check | Status |
+|---|---|
+| Distribution day cluster (≥6) | 4/25 — CLEAR (2 below trigger) |
+| Hedge entry trigger | NOT triggered — state remains Confirmed Uptrend (no change to Under Pressure or Correction) |
+| Follow-through day exit (hedge unwind) | N/A — no hedge position held |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | $0 P&L (no positions) — CLEAR |
+| Weekly -6% | $0 week-to-date — CLEAR |
+| Drawdown -12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades (rolling 5 sessions) — CLEAR |
+| Alpaca API | ❌ **403 blocked Day 35** — all execution halted |
+
+### Weekly trade counter
+
+**Week of May 11:** 0 new positions opened (0/3 used). No change.
+
+### Watchlist EOD status
+
+| Symbol | Approx Close | vs Pivot | Notes |
+|---|---|---|---|
+| GOOGL | ~$400-403 est. | +~4% above ~$395-400 new est. pivot zone | 77/100 WATCHLIST; thesis intact; no new catalyst; base still forming — NOT ready |
+| AVGO | ~$430-435 est. | +5.6-7.1% above $406.75 pivot | 67/100 BENCH; extended; OpenAI financing snag RESOLVED (Apollo/Blackstone $35B private credit deal); still above buy zone ceiling |
+| MU | ~$750+ est. | +37%+ above ~$546 pivot | `climax_top_risk_flag` CRITICAL++; JEDEC conference May 12-13; blowoff pattern; DO NOT TOUCH |
+| NVDA | Off limits | — | Earnings blackout effective Wed May 13 (≤5 trading days before May 20 AH) |
+| META | ~$610 est. | — | No base; distribution phase; bench until June 7 re-score |
+
+### Tomorrow's key watch items
+
+- **⚠️ CPI (April) — Tuesday May 12, 7:30 AM CT (MACRO GATE):** No new entries before release. If CPI hot (oil-driven energy surge) → dist day #5 likely → STATE CHANGES TO UPTREND UNDER PRESSURE → activate hedge protocol (SH/SQQQ at 25% = ~$625 position). Consensus: CPI expected elevated; risk is to the upside given Brent $108-109.
+- **PPI — Wednesday May 13** (additional inflation read)
+- **NVDA blackout starts Wed May 13** — confirm and log
+- **Retail Sales — Thursday May 14**
+- **Powell last day as Fed chair — Friday May 15** (Warsh transition; market expectations update)
+
+**P&L today:** $0.00 (0%)
+**Equity:** $2,500.00 (at HWM)

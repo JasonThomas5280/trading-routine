@@ -1064,3 +1064,22 @@ Watchlist: GOOGL $400.71 (at est. new pivot zone $395-400; 77/100; no base — W
 Open positions: 0 | Weekly trades: 0/3
 ⚠️ Monitor /eod-review close: if S&P ≥−0.20% → dist day #5 → state change to UPTREND UNDER PRESSURE → no new longs; activate SH/SQQQ hedge protocol
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-05-11 20:22 CT [clickup-placeholder]
+
+📊 EOD 2026-05-11 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 4/25 (market: 🟢 Confirmed Uptrend Day 33)
+
+Close: S&P 500 7,412.84 (+0.19% NEW ATH) | Nasdaq 26,274.13 (+0.10% NEW ATH) | Russell 2000 +0.26% NEW ATH
+Oil: Brent ~$108-109 (+3%) | VIX +7% | 10Y yield 4.41% (+4.6bps)
+Iran war oil shock absorbed — market hit new ATHs. Semis + energy led.
+
+Actions today: NONE (Alpaca blocked Day 35; 0 positions; sell-rules-engine SKIPPED)
+Dist day #5: NOT triggered (UP day — cannot be distribution by definition)
+
+Tomorrow: ⚠️ CPI (April) 7:30 AM CT — MACRO GATE. No entries before release.
+  → Hot CPI = dist day #5 → Uptrend Under Pressure → SH/SQQQ hedge at 25% (~$625)
+  → Cool CPI = risk-on; continue holding cash, watch GOOGL base formation ($77/100)
+NVDA blackout starts Wed May 13 (≤5 days to May 20 AH earnings).
