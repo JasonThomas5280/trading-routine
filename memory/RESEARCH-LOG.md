@@ -3986,4 +3986,114 @@ Pattern: Institutional rotation OUT of small caps INTO large-cap quality/tech. N
 - Saudi Aramco: Hormuz disruption could persist to mid-2027 → embedded inflation risk for rest of 2026
 
 **P&L today:** $0.00 (0%)
+
+---
+
+## 2026-05-12 — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — **Day 36**; Perplexity: 403 blocked; Alpha Vantage: blocked; all data via native WebSearch)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 34 | ⚠️ 4/25 distribution days | **⚠️ DIST DAY #5 RISK ACTIVE**
+**Open positions:** 0 | **Weekly trades used:** 0/3 | **Day trades:** 0/3
+
+### CPI April 2026 Results (released 7:30 AM CT — data now available)
+
+| Metric | Actual | Consensus | Assessment |
+|---|---|---|---|
+| Headline CPI MoM | +0.6% | +0.6% | In-line |
+| Headline CPI YoY | **+3.8%** | +3.7% | ⚠️ HOT — beat to upside |
+| Core CPI MoM | +0.4% | +0.3% | ⚠️ HOT |
+| Core CPI YoY | +2.8% | +2.7% | ⚠️ HOT |
+| Energy MoM | +3.8% | — | Iran/Hormuz primary driver |
+| Food MoM | +0.5% | — | Elevated |
+
+**Verdict:** Hot print on both headline and core. Energy component (Iran/Hormuz) accounts for 40%+ of monthly increase. Rate-cut expectations pushed further out. Market selling off on the data.
+
+### Abort gates — TWO FIRING
+
+| Gate | Status |
+|---|---|
+| Market state ≠ Confirmed Uptrend | ✅ CLEAR — still 🟢 Confirmed Uptrend (state change decision at EOD close) |
+| Research unavailable | ✅ CLEAR — websearch_fallback active |
+| Daily circuit breaker (−3%) | ✅ CLEAR ($0 P&L, 0 positions) |
+| Weekly circuit breaker (−6%) | ✅ CLEAR ($0 P&L) |
+| Drawdown halt (−12%) | ✅ CLEAR (equity $2,500 at HWM) |
+| Weekly trade count (3/3 used) | ✅ CLEAR (0/3 used) |
+| Position count (4/4) | ✅ CLEAR (0/4) |
+| Cash buffer (<10%) | ✅ CLEAR (100% cash) |
+| **Alpaca API blocked** | ⛔ **FIRES** — Day 36 (403 "Host not in allowlist") — ALL execution impossible |
+| **Primary watchlist empty** | ⛔ **FIRES** — 0 confirmed tradeable setups (4th consecutive week) |
+
+No trades possible on either gate firing independently.
+
+### Intraday market conditions (10:00 AM CT)
+
+| Index | Intraday | Est. Price | Dist Day Risk |
+|---|---|---|---|
+| S&P 500 | **−0.50%** (~−38 pts) | ~7,375 est. | ⚠️ **THRESHOLD EXCEEDED** (−0.20% trigger) |
+| SPY | −0.34% | $734.01 (range $733.54–$737.54) | Volume unconfirmed (Alpaca blocked) |
+| Nasdaq | **−0.92%** (~−270 pts) | ~26,032 est. | ⚠️ Rate fear / tech selling |
+| Dow | −0.11% | ~49,650 est. | Relatively contained |
+
+**⚠️ DISTRIBUTION DAY #5 RISK:** S&P 500 down −0.50% intraday (exceeds −0.20% threshold). Hot CPI = elevated volume catalyst (institutional re-pricing of rate-cut timeline). If S&P closes ≥−0.20% → DIST DAY #5 → **STATE CHANGE TO 🟡 UPTREND UNDER PRESSURE**. Decision at /eod-review.
+
+Under Pressure protocol (activate if dist day #5 confirmed at close):
+- No new long entries immediately
+- Enter SH or SQQQ at 25% portfolio ($625 position) — SH preferred for account size
+- Tighten all open position stops to 7% immediately (0 positions currently — N/A)
+
+### Watchlist trigger evaluation
+
+**Primary watchlist — EMPTY (0 items)**
+No 🟢 READY names to evaluate. Skip trigger loop.
+
+**WATCHLIST names (informational only — entry gates all blocked regardless):**
+
+| Symbol | Price | Pivot | Distance | Conviction | Verdict |
+|---|---|---|---|---|---|
+| GOOGL | $388.64 (range $388.47–$397.44) | $395–400 est. | −$6 to −$11 from pivot | 77/100 ✅ | 🔴 BELOW PIVOT — no entry. Note: intraday HIGH $397.44 briefly touched est. pivot zone lower bound; pulled back sharply on CPI. No valid base formed. |
+| AVGO | $428.43 (range $425.05–$433.65) | $406.75 | +5.35% ABOVE (>5% ceiling) | 67/100 ❌ | 🔴 EXTENDED + BELOW THRESHOLD |
+| MU | ~$762-780 est. | ~$546 | +39-43% ABOVE | est. 72-76/100 ❌ | 🔴 CLIMAX TOP BENCH |
+| META | ~$610 est. | no pivot | no base | ~45/100 ❌ | 🔴 BASE FORMING |
+
+### Mid-morning position health check
+
+**0 open positions** → sell-rules-engine: **SKIPPED**
+
+### Bench promotion check
+
+| Symbol | Today High | Pivot | Verdict |
+|---|---|---|---|
+| GOOGL | $397.44 (briefly touched est. pivot zone lower bound) | $395–400 est. | ❌ NO PROMOTION — intraday high touched $395+ zone but price pulled back −$9 on CPI; no valid base formed; est. 2-4 more weeks to complete. |
+| AVGO | $433.65 | $406.75 | ❌ BENCH UNCHANGED (67/100; extended above buy zone) |
+| MU | ~$775+ est. | ~$546 | ❌ CLIMAX TOP BENCH UNCHANGED |
+| META | ~$610 | no pivot | ❌ BENCH UNCHANGED |
+
+**No promotions.**
+
+### Late-week catalyst: Trump-Xi Summit (May 14-15)
+
+- Trump + Wall Street CEOs traveling to Beijing
+- "Board of Trade" + "Board of Investment" frameworks under discussion
+- Potential US energy (LNG/oil) → China tariff removal deal
+- Boeing aircraft + soybean purchases likely
+- China investors pricing in trade-detente extension
+- If signals strong Friday → tech/risk-on rally → potential GOOGL base acceleration
+- If summit disappoints or Iran escalates → additional distribution pressure next week
+
+### NVDA blackout confirmed
+
+NVDA blackout STARTS May 13 (≤5 trading days before May 20 AH earnings). Already removed from watchlist (China market share = ZERO; score ~60-65/100). Confirmed blocked through May 20.
+
+### Result: NO ENTRIES — BOTH PRIMARY ABORT GATES ACTIVE
+
+**Alpaca blocked Day 36 + watchlist empty → no trades possible.**
+
+### Carry-forward for /eod-review (3:15 PM CT)
+
+1. **⚠️ PRIMARY CALL: Dist day #5.** If S&P 500 closes ≥−0.20%, confirm dist day #5 → STATE CHANGE to 🟡 Uptrend Under Pressure → no new long entries; SH hedge protocol (blocked on Alpaca).
+2. GOOGL: Monitor close vs. $395-400 pivot zone. Intraday high $397.44 is notable proximity signal even though no base yet.
+3. Nasdaq −0.92% intraday — well above −0.20% threshold; likely qualifies as QQQ dist day signal.
+4. Check volume patterns: hot CPI catalyst + Nasdaq −0.92% = elevated institutional volume highly probable.
+
+**P&L today:** $0.00 (0%) | **Equity est.:** $2,500
 **Equity:** $2,500.00 (at HWM)

@@ -1102,3 +1102,37 @@ Key catalysts today:
   Trump Beijing May 14-15 + Wall St CEOs: potential late-week risk-on catalyst
   Iran ceasefire on life support; Saudi Aramco: Hormuz won't normalize until 2027
 Plan: NO ENTRIES. CPI gate + Alpaca blocked Day 36. Monitor EOD for dist day #5 close.
+
+---
+
+📈 Market-check 2026-05-12 10:00 AM CT
+Market: 🟢 Confirmed Uptrend Day 34 | ⚠️ DIST DAY #5 RISK — S&P 500 −0.50% intraday on HOT CPI
+Circuit breakers: NONE (0 positions, 0 P&L)
+
+CPI April 2026 actual: Headline +3.8% YoY (cons. +3.7% — HOT) | Core +2.8% YoY (cons. +2.7% — HOT) | Energy +3.8% MoM (Iran/Hormuz driver)
+
+Abort gates fired:
+  ⛔ Alpaca API blocked Day 36 (403) — ALL execution impossible
+  ⛔ Primary watchlist EMPTY — 0 tradeable setups (4th consecutive week)
+
+Actions taken:
+  No new entries — both primary abort gates active
+  No sells — 0 open positions
+  sell-rules-engine: SKIPPED (no positions)
+
+Intraday snapshot:
+  S&P 500: −0.50% (~7,375) | SPY: $734.01 (range $733.54–$737.54)
+  Nasdaq: −0.92% (~26,032) | Dow: −0.11%
+  GOOGL: $388.64 (intraday high $397.44 briefly touched est. pivot zone $395-400; pulled back on CPI; no base — WATCHLIST unchanged)
+  AVGO: $428.43 (range $425.05–$433.65; extended; bench; 67/100)
+
+⚠️ CRITICAL FLAG: If S&P 500 closes ≥−0.20% today → DIST DAY #5 → STATE CHANGE TO 🟡 UPTREND UNDER PRESSURE
+  Under Pressure protocol: No new long entries | Enter SH hedge $625 (25% portfolio) — blocked on Alpaca
+
+Late-week catalyst: Trump-Xi summit Beijing May 14-15 (trade detente, energy deal, Boeing) — potential Friday risk-on
+NVDA: Blackout starts tomorrow May 13 (≤5 days before May 20 AH earnings)
+
+Watchlist status: 0 ready | 1 watching (GOOGL 77/100) | 3 bench | 0 removed today
+Open positions: 0 | Deployed: 0% | Cash: 100%
+Weekly trade count: 0/3 used
+Next check: /eod-review 3:15 PM CT — STATE CHANGE DETERMINATION
