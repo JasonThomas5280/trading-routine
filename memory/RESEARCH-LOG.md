@@ -4097,3 +4097,103 @@ NVDA blackout STARTS May 13 (≤5 trading days before May 20 AH earnings). Alrea
 
 **P&L today:** $0.00 (0%) | **Equity est.:** $2,500
 **Equity:** $2,500.00 (at HWM)
+
+---
+
+## 2026-05-12 — /eod-review
+
+**Close:** SPY est. ~$735.30 (−0.50%) | QQQ est. ~$706.22 (−0.81%)
+**S&P 500:** ~7,375 est. (−0.50% from 7,412.84 May 11 ATH) | Nasdaq: ~26,032 est. (−0.92%)
+**Distribution days:** 5 of 25 trailing sessions (today: **YES — DIST DAY #5 CONFIRMED** — triggered state change)
+**Market state:** 🟡 **UPTREND UNDER PRESSURE** — **STATE CHANGED TODAY** (from 🟢 Confirmed Uptrend; triggered by dist day #5; Uptrend Day 34 at transition)
+**Positions held:** 0
+**Sell-rules-engine:** SKIPPED — 0 open positions
+**Actions today:** NONE (Alpaca API blocked Day 37; 0 positions; state change = no new entries)
+**Circuit breakers:** NONE (all clear; $0 P&L; 0% deployed)
+**P&L today:** $0.00 (0.00%)
+**P&L week (May 11–12):** $0.00 (0.00%)
+**Equity:** $2,500.00 (at high-water mark)
+
+### Actual close data (EOD)
+
+| Index/ETF | Close | vs. Prev | Notes |
+|---|---|---|---|
+| S&P 500 | ~7,375 est. | −0.50% | DIST DAY #5; Nasdaq worst hit; Dow relatively contained |
+| Nasdaq | ~26,032 est. | −0.92% | Tech/chips led decline |
+| QQQ | ~$706.22 est. | −0.81% | Range: $696.66–$712.76 |
+| SPY | ~$735.30 est. | −0.50% | Range: $731.83–$738.05; above 50d MA $711.26 |
+| Dow | ~49,600 est. | −0.21% | Relatively resilient |
+| Brent crude | $107.99 | +3.6% | Iran/Hormuz premium; Hormuz uncertainty driving energy CPI |
+| Volume (NYSE+Nasdaq) | 21.4B | vs. 18B 20-sess avg (+18.9%) | Elevated — confirms institutional distribution on down day |
+
+`research_source: websearch_fallback` | Alpaca API blocked Day 37 (403 "Host not in allowlist")
+
+### Distribution day analysis
+
+- S&P 500 May 12: ~−0.50% → **DISTRIBUTION DAY #5 CONFIRMED**
+  - Magnitude: −0.50% > −0.20% threshold ✅
+  - Volume: 21.4B vs 18B 20-session avg (+18.9%) ✅ — elevated above prior UP day (May 11)
+  - Catalyst: April CPI +3.8% YoY (3-yr high); Core +2.8% YoY; energy component Iran/Hormuz +3.8% MoM
+- **Distribution count: 5/25** (Apr 23, Apr 28, May 4, May 7, May 12)
+- **5/25 = "Uptrend Under Pressure" threshold crossed** — STATE CHANGED
+
+### State change: 🟢 → 🟡
+
+- **From:** Confirmed Uptrend (Day 34)
+- **To:** Uptrend Under Pressure
+- **Trigger:** 5th distribution day in 25 sessions
+- **Agent behavior change — effective immediately:**
+  - NO new long entries
+  - Tighten stops on all open positions to 7% (N/A — 0 positions)
+  - Prepare hedge candidates: SH (~$57/share) or SQQQ (~$35/share)
+  - **DO NOT ENTER hedge yet** — strategy definition says "prepare but don't enter" at Under Pressure; enter only at Correction (6 dist days OR SPY closes below 50d MA on elevated volume)
+  - Note: With 0 long positions, inverse ETF = pure directional short bet, not a hedge. Additional reason to defer.
+  - Alpaca execution blocked (Day 37) — no action possible regardless
+
+### Sell-rules-engine results
+
+**SKIPPED — 0 open positions.** No verdicts generated.
+
+### Portfolio-level checks
+
+| Check | Status |
+|---|---|
+| Distribution cluster (≥6 days) | 5/25 — CLEAR (1 below 6-day trigger) |
+| Hedge entry trigger (state → Under Pressure) | TRIGGERED — but deferred: 0 longs + Alpaca blocked. Hedge candidates: SH/SQQQ. Enter IF Alpaca restores AND state transitions to Correction. |
+| Hedge unwind (FTD) | N/A — no hedge position held |
+| Laggard sell (RS < 85 at cluster) | N/A — 0 positions |
+
+### Circuit breaker summary
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily loss −3% | −$75 on $2,500 | ✅ CLEAR — $0 P&L (no positions) |
+| Weekly loss −6% | −$150 on $2,500 | ✅ CLEAR — $0 week P&L |
+| Drawdown −12% HWM | −$300 from $2,500 HWM | ✅ CLEAR — at HWM |
+| PDT count | 3 of 3 rolling 5 | ✅ CLEAR — 0 day trades |
+| Alpaca API | — | ❌ **BLOCKED Day 37** (403 "Host not in allowlist") |
+
+### Weekly trade counter
+
+**Week of May 11:** 0 new positions opened (0/3 used). No change.
+
+### Watchlist EOD status
+
+| Symbol | Approx Close | vs. Pivot | Status | Notes |
+|---|---|---|---|---|
+| GOOGL | ~$388-390 est. | ~−2 to −3% below est. pivot $395-400 | 🟡 WATCHLIST | 77/100; CPI selloff dragged price further below pivot zone; base formation ongoing; no valid entry |
+| AVGO | ~$428-430 est. | +5.2-5.7% above $406.75 pivot | 🔴 BENCH | 67/100 score; extended; Under Pressure state = no new entries regardless |
+| MU | ~$760-780 est. | +39-43% above ~$546 pivot | 🔴 BENCH — climax top | JEDEC conference ongoing; exhaustion pattern; DO NOT TOUCH |
+| META | ~$605-615 est. | no pivot | 🔴 BENCH | Base forming; no catalyst |
+| NVDA | Off limits | — | 🔴 BLACKOUT | Earnings blackout effective May 13; earnings ~May 20 AH |
+
+### Priorities for /pre-market tomorrow (May 13)
+
+1. **⚠️ STATE: UPTREND UNDER PRESSURE** — communicate clearly: zero new entries until state recovers (follow-through day)
+2. **PPI (April) — May 13 pre-mkt (8:30 AM ET / 7:30 AM CT):** Next key inflation read. If hot → potential dist day #6 → Correction protocol (sell weak positions RS < 85 — N/A with 0 positions; enter SH/SQQQ hedge if Alpaca restores)
+3. **Trump-Xi Beijing summit May 14-15:** Watch for trade-detente signals → possible positive catalyst late week (GOOGL/tech names)
+4. **NVDA blackout ACTIVE** — confirmed. No NVDA evaluation until after May 20 earnings.
+5. **Alpaca critical path:** Day 37 of blockage. Every day unresolved = another entry window missed. Under Pressure + blocked API = 100% cash preservation mode.
+6. **Recovery watch:** Under Pressure can reverse with a follow-through day (close +1.25%+ on elevated volume, day 4-7 of a rally attempt). Watch for bounce attempt if market stabilizes.
+
+`research_source: websearch_fallback` | Alpaca blocked Day 37 | All data estimated via web sources

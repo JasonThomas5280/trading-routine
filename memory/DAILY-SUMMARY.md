@@ -1136,3 +1136,17 @@ Watchlist status: 0 ready | 1 watching (GOOGL 77/100) | 3 bench | 0 removed toda
 Open positions: 0 | Deployed: 0% | Cash: 100%
 Weekly trade count: 0/3 used
 Next check: /eod-review 3:15 PM CT — STATE CHANGE DETERMINATION
+
+---
+## 2026-05-12 20:21 CT [clickup-placeholder]
+
+📊 EOD 2026-05-12 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+🚨 STATE CHANGE: Confirmed Uptrend → UPTREND UNDER PRESSURE
+Distribution days: 5 of 25 (dist day #5 triggered today)
+Driver: April CPI +3.8% YoY (3-yr high; Iran/Hormuz energy); S&P 500 -0.50% on elevated volume (21.4B vs 18B avg)
+Actions today: NONE (0 positions; Alpaca blocked Day 37)
+Sell-rules-engine: SKIPPED (0 open positions)
+Hedge: PREPARED (SH/SQQQ) -- NOT ENTERED (0 longs; Under Pressure = prepare, not enter)
+Circuit breakers: ALL CLEAR
+Tomorrow: PPI May 13 = dist day #6 / Correction risk. Trump-Xi summit May 14-15 = positive catalyst watch. NVDA blackout active. NO NEW ENTRIES.
