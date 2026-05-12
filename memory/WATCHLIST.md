@@ -8,10 +8,11 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## ⚠️ Week of 2026-05-11 to 2026-05-15 — CURRENT
 
-**Built:** 2026-05-10 (Sun) — `/weekly-prep` | **Refreshed:** 2026-05-11 (Mon) — `/pre-market` | `research_source: websearch_fallback`
-**Market direction at refresh:** 🟢 Confirmed Uptrend Day 33 | ⚠️ 4/25 dist days (1 away from Under Pressure) | ES −0.08%, NQ −0.09% pre-market | Iran peace deal collapsed → Brent $105.33 (+$4) → elevated dist day #5 risk today + CPI tomorrow May 12
-**SPY 50-day MA:** $711.26 | SPY above 50d MA: +3.71%
-**QQQ 50-day SMA:** $617.31 | QQQ above 50d MA: +14.2% | QQQ 200-day SMA: $605.90
+**Built:** 2026-05-10 (Sun) — `/weekly-prep` | **Refreshed:** 2026-05-12 (Tue) — `/pre-market` | `research_source: websearch_fallback`
+**Market direction at refresh:** 🟢 Confirmed Uptrend Day 34 | ⚠️ 4/25 dist days (1 away from Under Pressure) | ES −0.10%, NQ −0.30% pre-market | **⛔ CPI GATE: April CPI 7:30 AM CT today (consensus +3.7% YoY) — no new entries before release. Hot CPI = dist day #5 risk → Under Pressure state change.**
+**SPY 50-day MA:** $711.26 | SPY above 50d MA: est. +3.90%
+**QQQ 50-day SMA:** $617.31 | QQQ 200-day SMA: $605.90
+**Key catalyst today:** CPI April | Trump Beijing trip May 14-15 (Wall Street CEOs present — positive for risk-on late week)
 
 **Top sectors (4-week trailing RS, estimated — websearch fallback; Alpaca/AV blocked):**
 1. XLK Technology: ~+10-12% 4-week (semis dominated April ATH run; XLK +3%+ on May 8 alone)
@@ -55,7 +56,7 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 | Rank | Symbol | Conviction | Sector | Status | Next Trigger | Notes |
 |---|---|---|---|---|---|---|
-| W1 | GOOGL | **77/100** | XLC / Communication | 🟡 WATCHLIST — no valid base yet | Flat base forms ~$380-400 (est. 4-6 more weeks) | **Best setup in universe.** C:20 (GAAP EPS +82% YoY; Cloud +63% to $20B, AI backlog doubled $460B), N:15 (new 52wk high; Gemini AI; Pentagon AI contracts), L:15 (RS ≥95, XLC #2 sector), S:10 (float 12B shares headwind BUT active $70B buyback + volume surge 3-4× on Q1 break), A:10 (2 of 3 years ≥25%; FY2024 +12.5% below threshold; ROE 31.83% saves 5pts), I:7 (65.15% inst, quality increasing). Base:0 — original pivot ~$342 breakout on Apr 29 earnings; price now $400.80 (May 11) = 17.2% extended above original pivot. Post-breakout rally phase: consolidating near estimated new pivot zone $395-400. Next pivot est. $395-400. No earnings blackout (next: July 2026). Thesis intact — no new negative catalyst May 11. `research_source: websearch_fallback`. |
+| W1 | GOOGL | **77/100** | XLC / Communication | 🟡 WATCHLIST — no valid base yet | Flat base forms ~$380-400 (est. 3-5 more weeks) | **Best setup in universe.** C:20 (GAAP EPS +82% YoY; Cloud +63% to $20B, AI backlog doubled $460B), N:15 (new 52wk high; Gemini AI; Pentagon AI contracts), L:15 (RS ≥95, XLC #2 sector), S:10 (float 12B shares headwind BUT active $70B buyback + volume surge 3-4× on Q1 break), A:10 (2 of 3 years ≥25%; FY2024 +12.5% below threshold; ROE 31.83% saves 5pts), I:7 (65.15% inst, quality increasing). Base:0 — original pivot ~$342 breakout on Apr 29 earnings; **price May 12 pm: $385.81 (−0.73% overnight) = ~$9-14 below est. new pivot zone $395-400.** Post-breakout consolidation intact — still ~$9-14 below pivot, no negative catalyst. Surpassed NVIDIA in market cap. Exploring Japan bond market for AI infrastructure. Dividend $0.22 ex-date Jun 8. Thesis intact. No earnings blackout (next: July 2026). `research_source: websearch_fallback` May 12. |
 
 ---
 
@@ -63,10 +64,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 | Rank | Symbol | Conviction | Notes |
 |---|---|---|---|
-| 5 | AVGO | **67/100 ❌ BELOW THRESHOLD** | XLK/Semis. Scored 2026-05-10 /weekly-prep. C:15 (Q1 FY2026 revenue $19.3B +29% YoY, AI semis +106% YoY; non-GAAP EPS $2.05 +9% vs est.; GAAP YoY unconfirmed — VMware amortization; `gaap_eps_yoy_unconfirmed`), A:10 (FY2023 revenue growth ~8% = below 25% threshold; ROE 33.37% = +5), N:14 (within 5% of 52wk high +AI ASIC traction), S:5 (float >500M = 0; volume May 8 ~+41% above ADV ✅; buyback unconfirmed = 0), L:7 (RS ≥95 individual but XLK sector RRG lagging quadrant = −3), I:6, Base:10 (Stage 2 flat base $406.75 pivot valid). Total: 67/100. Entry rejected: (1) score < 75 threshold; (2) price $430 = +5.74% above $406.75 pivot — above 5% buy zone ceiling ($427.09). **Re-score conditions:** XLK sector recovers to RRG improving/leading quadrant (adds 8pts to L-letter) + price pulls back to $406-427 buy zone + GAAP EPS YoY confirmed ≥40%. With those changes: estimated 75-80/100 TRADEABLE. `sector_momentum_warning`. ~~`openai_deal_financing_snag`~~ — **RESOLVED 2026-05-11:** Apollo Global + Blackstone in talks for ~$35B private credit financing deal (positive catalyst). May 11 price: ~$430 unchanged. Earnings June 3 ✅. |
+| 5 | AVGO | **67/100 ❌ BELOW THRESHOLD** | XLK/Semis. Scored 2026-05-10 /weekly-prep. C:15 (Q1 FY2026 revenue $19.3B +29% YoY, AI semis +106% YoY; non-GAAP EPS $2.05 +9% vs est.; GAAP YoY unconfirmed — VMware amortization; `gaap_eps_yoy_unconfirmed`), A:10 (FY2023 revenue growth ~8% = below 25% threshold; ROE 33.37% = +5), N:14 (within 5% of 52wk high +AI ASIC traction), S:5 (float >500M = 0; volume May 8 ~+41% above ADV ✅; buyback unconfirmed = 0), L:7 (RS ≥95 individual but XLK sector RRG lagging quadrant = −3), I:6, Base:10 (Stage 2 flat base $406.75 pivot valid). Total: 67/100. Entry rejected: (1) score < 75 threshold; (2) price **~$432 (May 12 pm)** = +6.2% above $406.75 pivot — above 5% buy zone ceiling ($427.09). **Re-score conditions:** XLK sector recovers to RRG improving/leading quadrant + price pulls back to $406-427 + GAAP EPS YoY confirmed ≥40%. `sector_momentum_warning`. OpenAI deal financing snag RESOLVED (Apollo/Blackstone $35B deal confirmed). Earnings June 3 ✅. |
 | ~~6~~ | ~~GEV~~ | ~~**~61/100**~~ | ~~XLI/Power Infrastructure~~ | **🔴 REMOVED 2026-05-11 — HARD DISQUALIFICATION: price $1,042 > $500 ceiling (TRADING-STRATEGY.md "price $10–$500"). Confirmed at /pre-market May 11.** Was flagged as risk in weekly-prep. Cannot add back until price splits or rule amended. |
 | 7 | META | **~45/100 ❌ NO BASE — base forming** | XLC/Communication. Q1 2026: Revenue $56B +33% YoY (strong C-letter ✅). BUT: -9% AH reaction on capex raise ($135B — "capex anxiety"). Stock $609.70 May 8 (down from ATH $796.25 Aug 2025 = -23.4% correction). ~8-9 month base formation underway. Float 2.5B+ shares. Still in distribution phase — institutional selling ongoing. **Estimated 4-6 more weeks to base completion.** C-letter ~20 (if GAAP EPS grows ≥80% YoY). Blocked by: S-letter (huge float), A-letter (need to verify FY2023/2024/2025 annual growth vs. 25% threshold), no valid base. Re-score at /weekly-prep June 7. |
-| 8 | MU | **est. 72-76/100 ❌ PRICE GATE FAILS — CLIMAX TOP** | XLK/Memory. Score borderline but irrelevant: price $746.81 est. vs ~$546 pivot = **+36.8% extended** — catastrophically outside the 5% buy zone. `climax_top_risk_flag` CRITICAL++. Classic blowoff top pattern: HBM4 supply sold out 2026-2027; JEDEC conference May 12-13; institutional chasing. **DO NOT TOUCH.** Wait for base formation: estimated 4-8 weeks for proper cup-with-handle or flat base to form in $640-750 range. Re-score when price consolidates near a new pivot. Earnings ~July 1 ✅. |
+| 8 | MU | **est. 72-76/100 ❌ PRICE GATE FAILS — CLIMAX TOP** | XLK/Memory. Score borderline but irrelevant: price **~$762-780 est. (May 12 pm)** vs ~$546 pivot = **+39-43% extended** — catastrophically outside the 5% buy zone. `climax_top_risk_flag` CRITICAL++. **JEDEC memory conference May 12-13 = additional bullish narrative catalyst** (AI memory shortage, HBM4 demand, DRAM prices forecast +125% FY2026 per Gartner). Analyst $510 PT vs $775+ price = dramatically wrong; price run is parabolic. **DO NOT TOUCH.** Wait for base formation: estimated 6-10 weeks. Re-score when price consolidates near a new pivot. Earnings ~July 1 ✅. `research_source: websearch_fallback`. |
 
 ---
 
@@ -99,11 +100,18 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 - If CPI beats consensus to the downside (cool) → risk-on; monitor for volume confirmation
 - If CPI is hot → potential distribution day #5 → state change protocol above
 
-**Monday May 11:**
-- Alpaca API check at /pre-market (Day 34 test). Confirm blocked or restored.
-- No entries expected (no tradeable setups; macro risk building ahead of CPI Tue)
-- Monitor: GOOGL (is it consolidating tightly near $380-400? Is a flat base forming?)
-- Monitor: AVGO (is it pulling back to $406-427 buy zone?)
+**Monday May 11 — COMPLETED:**
+- Alpaca API: Still blocked Day 35 (403). Confirmed at /pre-market.
+- New ATHs: S&P 500 7,412.84 / Nasdaq 26,274.13 / Russell 2000 2,868.58. NOT a dist day (UP day).
+- GOOGL: ~$400.80 close → $385.81 pm May 12 (consolidating near est. pivot zone $395-400 — base formation ongoing ✅)
+- AVGO: ~$430-432 (extended; thesis intact; bench unchanged)
+
+**Tuesday May 12 (today):**
+- ⛔ CPI gate 7:30 AM CT — no new entries before data
+- Alpaca: Still blocked Day 36 (403)
+- Watch CPI print: hot → dist day #5 risk → Under Pressure protocol; cool/in-line → uptrend continues
+- JEDEC memory conference ongoing (MU bullish narrative; irrelevant — climax top bench)
+- Trump Beijing trip (May 14-15): monitor for tech/tariff deal signals late week
 
 **Wednesday May 13:**
 - NVDA earnings blackout STARTS (≤5 trading days before May 20 AH) — confirm and note

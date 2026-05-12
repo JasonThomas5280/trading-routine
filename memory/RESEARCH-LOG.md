@@ -3922,4 +3922,68 @@ Pattern: Institutional rotation OUT of small caps INTO large-cap quality/tech. N
 - **Powell last day as Fed chair — Friday May 15** (Warsh transition; market expectations update)
 
 **P&L today:** $0.00 (0%)
+
+---
+
+## 2026-05-12 (Tue) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — **day 36**; Perplexity: 403 blocked; Alpha Vantage: blocked; all data via native WebSearch)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 34 | ⚠️ 4/25 distribution days (ONE away from Under Pressure) | **⛔ CPI GATE ACTIVE**
+**Sector leaders (4-week trailing RS, est.):** XLK Technology (#1) | XLC Communication (#2) | XLI Industrials (#3)
+**⚠️ SECTOR ROTATION:** XLK still in RRG LAGGING quadrant. All XLK entries carry `sector_momentum_warning`.
+
+### Macro events
+
+| Event | Time CT | Impact |
+|---|---|---|
+| April CPI | 7:30 AM CT | ⛔ MACRO GATE — no entries before release. Consensus: Headline +0.6% MoM / +3.7% YoY; Core +0.3% MoM / +2.7% YoY. Hot = dist day #5 risk → state change to Under Pressure. |
+| Trump Beijing (May 14-15) | — | Trump + Wall Street CEOs meeting Xi Jinping. "Board of Trade" framework for US-China trade. Potential late-week positive for tech/risk-on. |
+| PPI | Tomorrow May 13 pre-mkt | Additional inflation read |
+| NVDA blackout | Starts ~May 13 | ≤5 trading days before May 20 AH earnings — confirm at /market-check |
+
+### Overnight catalysts
+
+| Symbol | Catalyst | Thesis Impact | Action |
+|---|---|---|---|
+| GOOGL | Price $385.81 (−0.73% overnight). Surpassed NVIDIA in market cap. Alphabet exploring Japan bond market to fund AI ops. Cash dividend $0.22, ex-date Jun 8. No negative catalyst. | **POSITIVE** — large institutional vote of confidence in AI capex story. Consolidating below est. pivot zone $395-400. Base formation continuing. | Watchlist status UNCHANGED (🟡 WATCHLIST — no base yet) |
+| AVGO | ~$432 pre-market. Apollo/Blackstone $35B private credit deal confirmed (OpenAI snag resolved). No new negative catalyst. Score 67/100 (below threshold). +6.2% above $406.75 pivot. | No thesis change. Extended above buy zone. | Bench status UNCHANGED |
+| MU | ~$762-780 est. pre-market. JEDEC memory conference May 12-13 ongoing (HBM4, AI memory shortage narrative — DRAM prices forecast +125% FY2026). Bernstein buy rating, $510 PT (dramatically wrong vs price). Up 11 of last 15 sessions. | `climax_top_risk_flag` CRITICAL++. Blowoff top pattern. | BENCH — DO NOT TOUCH |
+| IRAN | Ceasefire "on life support" (Trump). No new military escalation overnight. Saudi Aramco CEO: Hormuz won't normalize until 2027 if disruption persists beyond mid-June. | Oil Brent est. ~$105-108 range. Elevated energy component → inflationary pressure on CPI. | Monitor CPI print |
+
+### Buy-zone readiness (May 12 pre-market)
+
+| Symbol | Price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | $385.81 | $395-400 (est.) | −$9 to −$14 (−2.3% to −3.5% BELOW pivot) | 🔴 BELOW PIVOT — no entry |
+| AVGO | ~$432 | $406.75 | +6.2% ABOVE (>5% buy zone ceiling $427.09) | 🔴 EXTENDED — no entry |
+| MU | ~$762-780 | ~$546 | +39-43% ABOVE | 🔴 CLIMAX TOP — BENCH |
+| META | ~$610 est. | no pivot | no base formed | 🔴 BASE FORMING |
+
+**🟢 READY names: ZERO** | **🟡 WATCHING: ZERO** | **Primary watchlist empty (5th consecutive week)**
+
+### Open positions — overnight check
+
+*0 open positions — gap check SKIPPED*
+
+### Circuit breakers
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | ✅ CLEAR ($0 P&L) |
+| Weekly −6% | ✅ CLEAR ($0 P&L) |
+| Drawdown −12% | ✅ CLEAR (equity $2,500 at HWM) |
+| PDT | ✅ CLEAR (0/3 day trades) |
+| Alpaca API | ⛔ BLOCKED Day 36 (403 "Host not in allowlist") |
+
+### Abort gates active today
+
+1. ⛔ **CPI MACRO GATE** — no new entries before 7:30 AM CT CPI release
+2. ⛔ **Alpaca API blocked** — Day 36 (403); all execution impossible regardless
+
+### Risks
+
+- Hot CPI (energy component from Iran/Hormuz) → dist day #5 → state change to Uptrend Under Pressure → activate SH/SQQQ hedge at $625 (25% portfolio)
+- Saudi Aramco: Hormuz disruption could persist to mid-2027 → embedded inflation risk for rest of 2026
+
+**P&L today:** $0.00 (0%)
 **Equity:** $2,500.00 (at HWM)

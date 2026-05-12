@@ -1083,3 +1083,22 @@ Tomorrow: ⚠️ CPI (April) 7:30 AM CT — MACRO GATE. No entries before releas
   → Hot CPI = dist day #5 → Uptrend Under Pressure → SH/SQQQ hedge at 25% (~$625)
   → Cool CPI = risk-on; continue holding cash, watch GOOGL base formation ($77/100)
 NVDA blackout starts Wed May 13 (≤5 days to May 20 AH earnings).
+
+---
+## 2026-05-12 11:11 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-12
+Market: 🟢 Confirmed Uptrend Day 34 | ⚠️ 4/25 dist days (1 away from Under Pressure)
+Futures: ES −0.10% | NQ −0.30% (pre-CPI caution)
+Open positions: 0 | Circuit breakers: NONE
+⛔ ABORT GATES: (1) CPI MACRO GATE — April CPI 7:30 AM CT; NO entries before. Hot = dist day #5 → UNDER PRESSURE + SH/SQQQ hedge $625. (2) Alpaca blocked Day 36 (403).
+Overnight gaps: N/A (no open positions)
+Watchlist ready: ZERO — 5th consecutive week of 0 tradeable setups
+Key catalysts today:
+  CPI April 7:30AM CT: consensus +3.7% YoY (hot scenario: state change)
+  GOOGL $385.81 pm (-0.73%): no neg catalyst; base forming, ~$9-14 below est. pivot $395-400
+  AVGO ~$432: extended above pivot; bench
+  MU ~$762-780: JEDEC conf today; climax top; DO NOT TOUCH
+  Trump Beijing May 14-15 + Wall St CEOs: potential late-week risk-on catalyst
+  Iran ceasefire on life support; Saudi Aramco: Hormuz won't normalize until 2027
+Plan: NO ENTRIES. CPI gate + Alpaca blocked Day 36. Monitor EOD for dist day #5 close.
