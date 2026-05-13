@@ -1150,3 +1150,18 @@ Sell-rules-engine: SKIPPED (0 open positions)
 Hedge: PREPARED (SH/SQQQ) -- NOT ENTERED (0 longs; Under Pressure = prepare, not enter)
 Circuit breakers: ALL CLEAR
 Tomorrow: PPI May 13 = dist day #6 / Correction risk. Trump-Xi summit May 14-15 = positive catalyst watch. NVDA blackout active. NO NEW ENTRIES.
+
+---
+## 2026-05-13 11:34 CT [clickup-placeholder]
+
+Pre-market 2026-05-13
+Market: Confirmed Uptrend (CORRECTED) | Futures: ES -0.38% NQ -0.62%
+Open positions: 0 | Circuit breakers: NONE | Alpaca: BLOCKED Day 38
+DATA CORRECTION: May 12 actual close S&P 7,400.96 (-0.16%) = NOT a dist day. Prior /eod-review estimated -0.50% was wrong. Dist count 4/25. State REMAINS Confirmed Uptrend Day 35.
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE (GOOGL below pivot; AVGO 67/100 score gate fails)
+Watching: AVGO ~$419.30 (+3.1% above $406.75 pivot — in zone; score fails)
+Removed this session: NVDA blackout starts today (May 20 AH earnings)
+Key catalysts today: PPI April 8:30 AM ET (dist day #5 risk); Cisco Q3 AH; Trump-Xi summit starts May 14-15
+GOOGL overnight: SpaceX Project Suncatcher + Googlebook AI laptop + $700B AI infra 2026 — thesis intact
+Plan: NO entries — PPI gate + Alpaca blocked + no tradeable setups. Monitor PPI close for dist day #5.

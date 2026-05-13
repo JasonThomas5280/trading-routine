@@ -4197,3 +4197,93 @@ NVDA blackout STARTS May 13 (≤5 trading days before May 20 AH earnings). Alrea
 6. **Recovery watch:** Under Pressure can reverse with a follow-through day (close +1.25%+ on elevated volume, day 4-7 of a rally attempt). Watch for bounce attempt if market stabilizes.
 
 `research_source: websearch_fallback` | Alpaca blocked Day 37 | All data estimated via web sources
+
+---
+
+## 2026-05-13 (Wed) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 38; Perplexity: 403 blocked; Alpha Vantage: blocked; all data via native WebSearch)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 35 | **4/25 distribution days** | ⚠️ DATA CORRECTION: May 12 actual S&P 500 close = 7,400.96 (−0.16%), NOT the estimated −0.50%. Prior /eod-review state change to Under Pressure was INCORRECT. State reverts to 🟢 Confirmed Uptrend.
+**Sector leaders (4-week trailing RS, estimated):** XLK Technology #1 | XLC Communication #2 | XLI Industrials #3 | XLE Energy #4
+**⚠️ SECTOR ROTATION ALERT:** XLK RRG LAGGING quadrant carries — all XLK entries remain `sector_momentum_warning`.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Host not in allowlist (Day 38) | No live quotes, no order execution |
+| Alpaca data API | ❌ 403 same error | No bars, no volume confirmation |
+| Alpha Vantage | ❌ blocked | No fundamentals pull |
+| Perplexity | ❌ 403 blocked | No research synthesis |
+| Native WebSearch | ✅ functional | All data via fallback |
+| ClickUp | ✅ (placeholder mode) | Appending to DAILY-SUMMARY.md |
+
+### Open positions — overnight gap check
+
+**No open positions.** Gap check skipped.
+
+### Overnight catalysts — open positions
+
+None. No open positions.
+
+### Overnight catalysts — watchlist names
+
+| Symbol | Catalyst | Thesis Impact | Action |
+|---|---|---|---|
+| GOOGL | SpaceX Project Suncatcher partnership (orbital data centers for cloud); Googlebook AI laptop unveiled; $700B AI infra spend 2026 (+77% vs 2025); Waymo recall 3,791 robotaxis (minor) | All POSITIVE (SpaceX, AI laptop, AI infra scale). Waymo recall = minor autonomous vehicle headwind, no revenue impact to core cloud/ads. **Thesis intact.** | WATCHLIST unchanged. Price $387.35 May 12 close; ~$379-387 May 13 pm range (soft on weak futures). ~$8-13 below $395-400 pivot zone. No base formed yet. 🔴 BELOW PIVOT. |
+| AVGO | No overnight catalyst. Price pullback from ~$432 (May 12 close est.) to ~$419.30 (−3.6%) on weak futures + tech selling continuation | Neutral — pullback constructive (returning toward buy zone after extended period). Score 67/100 unchanged. STILL BELOW THRESHOLD. | Bench status unchanged. 🟡 WATCHING (price in zone; score fails). |
+| MU | JEDEC memory conference May 12-13 (AI memory shortage narrative; HBM4 demand; DRAM price forecast +125% FY2026) | Bullish narrative ONLY — irrelevant; price +39%+ above pivot. `climax_top_risk_flag` CRITICAL++. DO NOT TOUCH. | Bench unchanged. |
+
+### Market overnight check
+
+| Indicator | Level | vs Prior | Notes |
+|---|---|---|---|
+| ES futures (S&P) | −0.38% | vs May 12 close 7,400.96 | Weak open expected; inflation + tech headwinds |
+| NQ futures (Nasdaq) | −0.62% | vs prior | Nasdaq underperforming S&P; tech distribution |
+| Macro today (8:30 AM ET) | PPI April 2026 | March was +4.0% YoY | First full tariff-regime print; watch goods ex-food/energy, steel/metals |
+| Oil (Brent) | ~$108 est. | Elevated | Iran/Hormuz premium persists |
+| Geopolitical | Iran stalemate | Ongoing | Strait of Hormuz largely closed; no new overnight escalation |
+| Trump-Xi summit | May 14-15 Beijing | Upcoming | Wall Street CEOs present; potential tech/trade positive catalyst |
+
+**Market thesis:** Weak open expected. PPI at 8:30 AM ET is today's decisive event — hot reading raises dist day #5 risk (close ≥−0.20% on elevated volume → Under Pressure). State is currently 🟢 Confirmed Uptrend (corrected from erroneous Under Pressure). No new entries before PPI regardless. Alpaca blocked Day 38 — no execution possible.
+
+### Buy-zone readiness
+
+| Symbol | Last Price | Pivot | Distance | Status | Notes |
+|---|---|---|---|---|---|
+| GOOGL | $387.35 (May 12 close) | $395-400 est. | −2.1 to −3.2% below pivot | 🔴 BELOW PIVOT | Thesis intact; overnight catalysts positive; no base yet; stay WATCHLIST |
+| AVGO | ~$419.30 (May 13 pm) | $406.75 | +3.1% above pivot | 🟡 WATCHING | In buy zone but 67/100 < 75 threshold; score gate fails |
+| MU | ~$760-780 est. | ~$546 pivot | +39-43% extended | 🔴 BENCH — climax top | DO NOT TOUCH |
+| META | ~$605-615 est. | No pivot | — | 🔴 BENCH — base forming | 45/100; estimated 4-6 more weeks |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L (no positions) — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 38 — HALT ALL ENTRIES per TRADING-STRATEGY.md |
+
+**No standard circuit breakers active. Alpaca blockage = sole execution halt (Day 38 consecutive).**
+
+### Abort gates for today's session
+
+| Gate | Status |
+|---|---|
+| Market state | 🟢 Confirmed Uptrend — CLEAR (corrected from prior erroneous Under Pressure) |
+| PPI macro gate (8:30 AM ET) | ⛔ ACTIVE — no new entries before PPI data release |
+| NVDA blackout | ⛔ ACTIVE — earnings blackout starts today, runs through May 20 AH |
+| Alpaca API | ⛔ 403 blocked Day 38 — no execution possible |
+| Watchlist tradeable setups | ⛔ ZERO confirmed (GOOGL below pivot + no base; AVBO score < 75) |
+
+### Carry-forward priorities (/market-check 10:00 AM CT)
+
+1. **PPI result (8:30 AM ET):** Determine dist day #5 risk for today's session. Hot PPI = elevated risk of close ≥−0.20% → Under Pressure (genuine this time). Cool/in-line = uptrend continues. Confirm at /eod-review.
+2. **Cisco AH (4:30 PM ET):** Q3 FY26 results — guide $15.4-15.6B rev, $1.02-1.04 EPS. AI orders milestone (~$5B FY target). Read-through for XLK networking sector.
+3. **Trump-Xi summit May 14-15:** Watch for US-China tech/trade signals. Positive deal framework → potential GOOGL/tech catalyst. Negative → GOOGL XLC pressure.
+4. **AVGO re-score trigger:** Price pulling back toward $406.75 pivot (now at $419.30 = +3.1%). If price reaches $415 or below and a fresh canslim-screener run (when AV restores) yields ≥75 → promote to Primary.
+5. **Alpaca critical path:** Day 38. Without API restoration, every valid setup remains untradeable. Urgent.
+
+`research_source: websearch_fallback` | Alpaca blocked Day 38 | Perplexity blocked | All data via WebSearch
