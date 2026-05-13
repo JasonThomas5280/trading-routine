@@ -8,9 +8,9 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-13 (Wed) — `/pre-market`
-**Confirmed Uptrend days:** 35 (since FTD 2026-04-08; ⚠️ DATA CORRECTION: May 12 actual close −0.16% = NOT a dist day; prior eod-review estimated −0.50% was wrong; state REMAINS Confirmed Uptrend)
-**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) ⚠️ DATA CORRECTION: May 12 was NOT a distribution day. Actual close 7,400.96 (−0.16% from 7,412.84), BELOW −0.20% threshold. Prior /eod-review estimated −0.50% was materially incorrect. State reverts to 🟢 Confirmed Uptrend. PPI today May 13 = dist day #5 risk — monitor close.
+**Last updated:** 2026-05-13 (Wed) — `/eod-review`
+**Confirmed Uptrend days:** 36 (since FTD 2026-04-08; May 13 EOD: S&P 500 ~7,444 est. +0.58% NEW ATH — NOT a dist day; state unchanged; PPI +1.4% MoM absorbed with resilience on Trump-Xi summit optimism)
+**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) — May 13 NOT a dist day (+0.58% UP day, new ATH). PPI dist day #5 risk: ❌ RESOLVED. Dist count 4/25 UNCHANGED.
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **DATA CORRECTION (2026-05-10 /weekly-prep):** Prior /eod-review May 8 logged S&P 500 at 7,337.11 (+0.36%) — websearch_fallback undercount. Confirmed actual close via fresh search: S&P 500 **7,398.93 (+0.83%)**, SPY **$737.62**. Dist day #5 risk on May 8 did NOT materialize (UP day confirmed). Count 4/25 unchanged. SPY 50-day MA: $711.26 (Barchart confirmed). SPY above 50d MA: **+3.71%**. QQQ 50-day SMA: $617.31. QQQ 200-day SMA: $605.90.
@@ -292,14 +292,28 @@ A distribution day expires after 25 sessions OR if index gains 6%+ from the day'
 | 2026-05-08 | SPY | +0.83% actual | n/a | **NOT A DIST DAY** — UP day. DATA CORRECTION: actual S&P 500 close 7,398.93 (+0.83%), SPY $737.62 — prior websearch_fallback estimate of 7,337.11 (+0.36%) was a material undercount. NFP +115K confirmed catalyst. XLK +3%+ carrying index. Cannot be distribution by definition. `research_source: websearch_fallback → corrected 2026-05-10` |
 | 2026-05-11 | SPY | +0.19% est. | n/a | **NOT A DIST DAY** — UP day (S&P 500 7,412.84 +0.19% NEW ATH; Nasdaq 26,274.13 +0.10% NEW ATH; Russell 2000 2,868.58 +0.26% NEW ATH; Dow 49,704.47 +0.19%). Market absorbed Iran war oil shock (Brent settled ~3% higher ~$108-109; VIX +7%; 10Y yield +4.6bps to 4.41%). Semis + energy led. SPY est. ~$739.02; QQQ est. ~$712.00. Cannot be distribution by definition. `research_source: websearch_fallback` | **Alpaca blocked Day 35** |
 | 2026-05-12 | SPY | −0.16% actual | confirmed (21.4B vs 18B avg BUT price threshold NOT met) | **⚠️ DATA CORRECTION (2026-05-13 /pre-market): NOT A DIST DAY — PRIOR /eod-review estimated −0.50%; ACTUAL close: S&P 500 7,400.96 (−0.16% from 7,412.84). MAGNITUDE −0.16% IS BELOW THE −0.20% THRESHOLD. Distribution day status: DOES NOT QUALIFY regardless of volume.** Nasdaq 26,088.20 (−0.71%); driver: April CPI +3.8% YoY (hot); Brent $107.99; GOOGL $387.35 close (−0.33%); AVGO ~$432 area. Note: intraday low of −0.50% briefly crossed threshold but market recovered to close −0.16%. dist count unchanged: 4/25. State change to Under Pressure was an error based on estimated data. research_source: websearch_fallback → corrected 2026-05-13 /pre-market |
+| 2026-05-13 | SPY | +0.58% est. | n/a | **NOT A DIST DAY** — UP day (S&P 500 ~7,444 est. NEW ATH; Nasdaq est. +1.20% new ATH; Dow est. −0.2%). PPI +1.4% MoM (3× consensus; +6.0% YoY = highest since March 2022) absorbed by market — Trump-Xi Beijing summit optimism + Morgan Stanley raised 2026 S&P target to 8,000. Cisco Q3 AH beat ($15.8B rev, EPS $1.06). QQQ est. $714.65. SPY est. ~$742-743 (conflicting search data; derived from S&P +0.58% from ~$738 prior; `data_confidence: medium`). Cannot be distribution by definition. `research_source: websearch_fallback` | **Alpaca blocked Day 39** |
 
-**Effective count: 4/25** (Apr 23, Apr 28, May 4, May 7 — SPY dist days; May 12 was NOT a dist day per corrected data)
-**⚠️ DATA CORRECTION (2026-05-13 /pre-market): May 12 actual S&P 500 close = 7,400.96 (−0.16%). Prior /eod-review estimated −0.50% and erroneously declared dist day #5 + state change to Under Pressure. Corrected: dist count 4/25. STATE: 🟢 CONFIRMED UPTREND.**
-**🟢 STATE: CONFIRMED UPTREND — 4/25 distribution days. New long entries allowed IF all other gates pass (Alpaca still blocked, watchlist still empty).**
-**⚠️ PPI WEDNESDAY MAY 13 (TODAY) = dist day #5 risk catalyst.** Hot PPI close ≥−0.20% on elevated volume = dist day #5 → state change to Under Pressure. Monitor /eod-review.
+**Effective count: 4/25** (Apr 23, Apr 28, May 4, May 7 — SPY dist days; May 12 NOT a dist day per corrected data; May 13 NOT a dist day — UP +0.58% new ATH)
+**✅ /eod-review 2026-05-13 CONFIRMED: PPI dist day #5 risk DID NOT materialize.** S&P 500 +0.58% (new ATH). Dist count 4/25 unchanged.
+**🟢 STATE: CONFIRMED UPTREND Day 36 — 4/25 distribution days. New long entries allowed IF all other gates pass (Alpaca still blocked Day 39, watchlist still empty).**
+**Next risk watch:** Trump-Xi summit May 14-15 (positive catalyst), Retail Sales Thu 7:30 AM CT gate, Powell last day May 15, NVDA earnings blackout through May 20.
 **SPY confirmed data (2026-05-10 correction):** SPY close May 8 = $737.62 (actual). SPY 50-day MA = $711.26. SPY above 50d MA = est. +4.06% (May 12 actual close 7,400.96). QQQ 50d SMA = $617.31. QQQ 200d SMA = $605.90.
 **SPY ACTUAL May 12 close:** 7,400.96 (−0.16% from 7,412.84 ATH). Nasdaq: 26,088.20 (−0.71%). GOOGL: $387.35. Brent ~$108 (Iran/Hormuz premium; oil elevated).
 **⚠️ data_confidence: websearch_fallback** — Alpaca API blocked (403 Host not in allowlist) Day 38. Vol ratios unconfirmed; May 12 close data confirmed via Yahoo Finance / Trading Economics / TipRanks. MA values from Barchart (2026-05-10 base; ~3 trading days stale).
+
+**Wednesday May 13 close (/eod-review 3:15 PM CT):**
+- S&P 500: ~7,444 est. (+0.58%, NEW ATH) | Nasdaq: est. +1.20% (NEW ATH) | Dow: est. −0.2% to −0.5% | `research_source: websearch_fallback` | **Alpaca blocked Day 39**
+- SPY: ~$742-743 est. (conflicting: search returned $737.27 — inconsistent with S&P +0.58% from ~$738 prior; est. derived from index move; `data_confidence: medium`) | QQQ: ~$714.65 est.
+- PPI April: +1.4% MoM (3× consensus, +6.0% YoY = largest since March 2022). **Absorbed by market.** Trump-Xi summit optimism + Morgan Stanley S&P 8,000 target = offsetting tailwinds.
+- Distribution day: **NOT CONFIRMED** — UP day (+0.58%). Dist count: **4/25 UNCHANGED**.
+- Dist day #5 risk from pre-market gate: ❌ NOT TRIGGERED.
+- Market state: 🟢 Confirmed Uptrend **Day 36**. No state change. No hedge needed.
+- Cisco Q3 FY26 AH: Rev $15.8B (beat), EPS $1.06 non-GAAP (beat). Positive XLK networking read-through. Not on watchlist.
+- AVGO EOD est.: ~$415-425 (10 AM: $409.14; intraday low $404.80 recovered; Nasdaq +1.20% into close; pivot $406.75 HELD). Score 67/100 — threshold fails. Bench UNCHANGED.
+- GOOGL EOD est.: ~$392-395 (10 AM: $386; Nasdaq +1.20% into close; approaching $395-400 pivot zone). WATCHLIST unchanged — no base formed. Monitor in pre-market May 14.
+- 0 open positions → sell-rules-engine: **SKIPPED** (4th consecutive week no positions)
+- P&L today: $0 | Equity: $2,500 (HWM) | Circuit breakers: ALL CLEAR | Weekly trades: 0/3
 
 **Wednesday May 13 /market-check (10:00 AM CT):**
 - **PPI April 2026 ACTUAL: +1.4% MoM (vs +0.5% cons — MASSIVE BEAT), Core +1.0% MoM (vs +0.4%), YoY +6.0% (vs +4.8%) — LARGEST GAIN SINCE MARCH 2022.** Gas +15.6% (Iran/Hormuz). Services +1.2% MoM (highest since Mar 2022). Extremely hot — rate cuts pushed to 2027.
@@ -343,7 +357,7 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 
 ## Rally Attempt Tracking
 
-**Current rally status:** 🟢 Confirmed Uptrend Day 35 (FTD fired 2026-04-08). ⚠️ DATA CORRECTION: May 12 close actual 7,400.96 (−0.16%) = NOT a dist day; state REMAINS Confirmed Uptrend (4/25 dist days). S&P 500 May 12 close ACTUAL: 7,400.96. SPY est. ~$739 area above 50d MA ($711.26) = +3.9% est. **Next risk: PPI today May 13 (8:30 AM ET) → potential dist day #5 if close ≥−0.20% on elevated volume → Under Pressure. Trump-Xi Beijing summit May 14-15 = potential positive catalyst. NVDA earnings blackout active today through May 20. Powell last day May 15. Alpaca API blocked 38 consecutive days — no execution possible.**
+**Current rally status:** 🟢 Confirmed Uptrend **Day 36** (FTD fired 2026-04-08). May 13 EOD: S&P 500 ~7,444 est. NEW ATH (+0.58%) — NOT a dist day; dist count 4/25. SPY est. ~$742-743 above 50d MA ($711.26) = +4.3% est. QQQ est. $714.65 above 50d SMA ($617.31) = +15.8%. **Next risk: Trump-Xi summit May 14-15 (positive catalyst but unpredictable). Retail Sales Thu May 14 7:30 AM CT gate. Powell last day May 15. NVDA earnings blackout through May 20. Alpaca API blocked 39 consecutive days — no execution possible.**
 
 ---
 

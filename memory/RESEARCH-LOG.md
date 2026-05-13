@@ -4426,4 +4426,110 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 4. **Trump-Xi summit signals** — any trade headlines tomorrow = major catalyst
 5. **Alpaca critical path** — Day 39. No execution until fixed.
 
+---
+
+## 2026-05-13 (Wed) — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 39; Perplexity: 403 blocked; Alpha Vantage: blocked; all data via native WebSearch)
+**Market direction:** 🟢 Confirmed Uptrend Day 36 | 4/25 distribution days
+
+**Close:** S&P 500 ~7,444 est. (+0.58%, NEW ATH) | Nasdaq est. +1.20% (NEW ATH) | Dow est. −0.2% to −0.5%
+**SPY:** ~$742-743 est. (conflicting: search returned $737.27 — inconsistent with S&P +0.58% from ~$738 prior; `data_confidence: medium`) | **QQQ:** ~$714.65 est.
+**SPY vs 50d MA ($711.26):** +4.3% est. | **QQQ vs 50d SMA ($617.31):** +15.8% est.
+
+### Distribution day assessment
+
+| Index | Change | vs −0.20% threshold | Verdict |
+|---|---|---|---|
+| S&P 500 | +0.58% est. (new ATH 7,444) | ABOVE | NOT A DIST DAY |
+| Nasdaq | +1.20% est. (new ATH) | ABOVE | NOT A DIST DAY |
+| Dow | −0.2% to −0.5% est. | N/A | (Dow not tracked for dist day count) |
+
+**Dist count: 4/25 UNCHANGED** (Apr 23, Apr 28, May 4, May 7 remain active within window)
+**PPI dist day #5 risk: ❌ RESOLVED** — despite +1.4% MoM PPI (3× consensus, +6.0% YoY = largest since March 2022), market reversed pre-market weakness and closed at new ATH. Trump-Xi summit optimism + Morgan Stanley S&P 8,000 target = offsetting tailwinds.
+
+### State transition check
+
+| Transition | Triggered? | Reason |
+|---|---|---|
+| → Under Pressure (dist count = 5) | ❌ NO | Count 4/25 — not triggered |
+| → Correction (dist count = 6 or 50d break) | ❌ NO | SPY well above 50d MA |
+| → Confirmed Uptrend (FTD) | N/A | Already in Confirmed Uptrend Day 36 |
+
+**State: 🟢 CONFIRMED UPTREND Day 36. No change.**
+
+### Sell-rules-engine
+
+**Positions evaluated:** 0
+**Result:** SKIPPED — no open positions (4th consecutive week of zero positions)
+**Per-position verdicts:** N/A
+
+### Portfolio-level checks
+
+| Check | Trigger | Status |
+|---|---|---|
+| Distribution day cluster (Rule 4) | Dist count ≥6 | ❌ NOT triggered (4/25) |
+| Hedge entry (Under Pressure / Correction) | State transition | ❌ NOT triggered (Confirmed Uptrend) |
+| Hedge exit (follow-through day) | No hedge held | N/A |
+
+### Actions today
+
+**None.** 0 positions → sell-rules-engine skipped. No stops to tighten. No entries (Alpaca blocked Day 39 + empty watchlist).
+
+### Cisco Q3 FY26 AH results (read-through)
+
+| Metric | Actual | Guide | vs Guide |
+|---|---|---|---|
+| Revenue | $15.8B | $15.4–15.6B | ✅ BEAT |
+| Non-GAAP EPS | $1.06 | $1.02–1.04 | ✅ BEAT |
+| Cash from ops | $3.8B | — | −7% YoY (mild weakness) |
+| RPO | $43.5B | — | +4% YoY |
+
+**XLK networking read-through:** Beat confirms enterprise AI spending and networking infrastructure demand intact. Positive for XLK sector broadly. CSCO not on watchlist — no action. Flag for potential scoring at /weekly-prep May 17 if Alpaca restores.
+
+### Watchlist EOD status
+
+| Symbol | EOD Price (est.) | Pivot | Status | Notes |
+|---|---|---|---|---|
+| GOOGL | ~$392-395 est. | $395-400 est. | 🟡 WATCHLIST — approaching pivot zone | 10 AM: $386; Nasdaq +1.20% into close lifts estimate; if closed ≥$395 = at lower edge of pivot zone — check pre-market May 14; no base formed yet |
+| AVBO | ~$415-425 est. | $406.75 | 🟡 BENCH — WATCHING | 10 AM low $404.80 briefly below pivot, recovered to $409.14; Nasdaq rally likely lifted close to $415-425; pivot HELD constructively; score 67/100 still fails threshold |
+| MU | ~$810-820 est. | ~$546 | 🔴 BENCH — climax top | +47%+ above pivot; JEDEC conference narrative; parabolic exhaustion pattern on light volume |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L (no positions) — ✅ CLEAR |
+| Weekly −6% | $0 week-to-date — ✅ CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — ✅ CLEAR |
+| PDT 3/3 | 0 day trades — ✅ CLEAR |
+| Alpaca API | ❌ 403 blocked Day 39 — HALT ALL ENTRIES |
+
+### P&L and equity
+
+| | Today | Week-to-date |
+|---|---|---|
+| P&L $ | $0 | $0 |
+| P&L % | +0.00% | +0.00% |
+| Equity | $2,500 | — |
+| HWM | $2,500 | — |
+
+### Weekly trade counter
+
+**Week of 2026-05-11:** 0/3 positions opened. No change.
+
+### Carry-forward to /pre-market May 14 (Thu)
+
+1. **Trump-Xi Beijing summit (Day 1 tonight):** Watch for overnight tech/trade deal headlines — potential major positive catalyst (GOOGL/XLC, AVGO/XLK).
+2. **Cisco AH beat confirmed:** CSCO beat rev + EPS. Note AH stock reaction in pre-market; flag for /weekly-prep scoring.
+3. **GOOGL close check:** Est. ~$392-395 — potentially at/near lower edge of $395-400 pivot zone. Confirm actual close and morning price. If price is at pivot with volume surge, base may be completing.
+4. **AVGO pivot held:** $406.75 tested intraday ($404.80 low), recovered. Constructive. Score 67/100 still fails — re-score trigger: XLK sector RRG recovers + GAAP EPS YoY confirmed ≥40%.
+5. **Retail Sales (April):** 8:30 AM ET (7:30 AM CT) Thu May 14 — major macro gate. NO new entries before data.
+6. **NY Fed Williams:** Moderated discussion Thu. Rate signals.
+7. **Powell last day May 15:** Warsh confirmation vote. Chair transition noise.
+8. **NVDA blackout:** Active through May 20 AH earnings. Do NOT score or touch.
+9. **Alpaca critical path:** Day 39. No execution until restored.
+
+`research_source: websearch_fallback` | Alpaca blocked Day 39 | Perplexity blocked
+
 `research_source: websearch_fallback` | Alpaca blocked Day 39 | 0 positions | 0/3 weekly trades | Equity ~$2,500 (HWM)

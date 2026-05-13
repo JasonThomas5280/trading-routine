@@ -1183,3 +1183,23 @@ Open positions: 0 (100% cash) | Weekly trades: 0/3 | Equity: ~$2,500 (HWM)
 Tonight: Cisco Q3 FY26 earnings AH (4:30 PM ET) — XLK read-through
 Tomorrow: Trump-Xi Beijing summit Day 1 — potential tech/trade catalyst | Retail Sales 8:30 AM CT gate
 Next check: /eod-review 3:15 PM CT
+
+---
+
+📊 EOD 2026-05-13 | Equity $2,500 (+$0.00 day, $0.00 week)
+Open: 0 positions, 100% cash
+Distribution days: 4 of 25 (market: 🟢 Confirmed Uptrend Day 36)
+Close: S&P 500 ~7,444 est. (+0.58% NEW ATH) | Nasdaq est. +1.20% (NEW ATH) | QQQ ~$714.65 est.
+⚠️ PPI April: +1.4% MoM (3× consensus, +6.0% YoY) — ABSORBED. NOT a dist day. Market resilient.
+Actions today:
+  • 0 open positions → sell-rules-engine: SKIPPED
+  • No entries (Alpaca blocked Day 39 + empty watchlist)
+  • Cisco Q3 AH: Rev $15.8B / EPS $1.06 (beat) — positive XLK read-through; not on watchlist
+Watchlist:
+  • GOOGL: est. ~$392-395 (approaching $395-400 pivot zone; no base yet; check pre-market)
+  • AVBO: est. ~$415-425 (pivot $406.75 held constructively on intraday test; score 67/100 fails)
+Tomorrow (May 14 Thu):
+  • Trump-Xi Beijing summit Day 1 — watch overnight tech/trade deal headlines
+  • Retail Sales 7:30 AM CT gate — no entries before data
+  • GOOGL: check actual close vs $395-400 pivot zone
+⚠️ Alpaca API blocked Day 39 — NO execution until restored. All capital in cash ($2,500).
