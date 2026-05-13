@@ -4287,3 +4287,143 @@ None. No open positions.
 5. **Alpaca critical path:** Day 38. Without API restoration, every valid setup remains untradeable. Urgent.
 
 `research_source: websearch_fallback` | Alpaca blocked Day 38 | Perplexity blocked | All data via WebSearch
+
+---
+
+## 2026-05-13 (Wed) — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 39; Perplexity: 403 blocked; Alpha Vantage: blocked; all data via native WebSearch)
+**Market direction:** 🟢 Confirmed Uptrend Day 35 | 4/25 distribution days
+**PPI gate:** PPI April released 7:30 AM CT (8:30 AM ET) — gate NOW CLEARED post-release
+
+---
+
+### Abort gate evaluation
+
+| Gate | Status | Detail |
+|---|---|---|
+| Market state | ✅ CLEAR | 🟢 Confirmed Uptrend (corrected from erroneous Under Pressure) |
+| Research unavailable | ✅ CLEAR | websearch_fallback functional — not DEGRADED |
+| Daily circuit breaker | ✅ CLEAR | $0 P&L (0 positions) |
+| Weekly circuit breaker | ✅ CLEAR | $0 week P&L |
+| Drawdown halt | ✅ CLEAR | $0 drawdown from $2,500 HWM |
+| Weekly trade count | ✅ CLEAR | 0/3 used |
+| Position count | ✅ CLEAR | 0/4 positions |
+| Cash buffer | ✅ CLEAR | 100% cash |
+| **Alpaca API** | **⛔ ABORT — DAY 39** | 403 "Host not in allowlist" — Day 39 consecutive. No quotes, no orders. All trading halted per TRADING-STRATEGY.md. |
+| Primary watchlist | ⛔ ABORT | 0 confirmed tradeable setups (4th consecutive week) |
+
+→ **ABORT to summary. No trades executed. Evaluation is informational only.**
+
+---
+
+### PPI April 2026 — actual result
+
+| Metric | Actual | Consensus | vs Consensus |
+|---|---|---|---|
+| PPI MoM | **+1.4%** | +0.5% | 🔴 MASSIVE BEAT (3× consensus) |
+| Core PPI MoM | **+1.0%** | +0.4% | 🔴 BEAT (2.5× consensus) |
+| PPI YoY | **+6.0%** | +4.8% | 🔴 BEAT — largest gain since March 2022 |
+| Goods | +2.0% MoM | — | Gasoline +15.6% (Iran/Hormuz driver) |
+| Services | +1.2% MoM | — | Biggest service-PPI gain since March 2022 |
+
+**Interpretation:** Extremely hot. Iran/Hormuz oil shock working through supply chain. Rate-cut timeline pushed further out. Fed on hold all of 2026 — consensus now leaning toward zero cuts FY2026. Negative for rate-sensitive sectors (Dow -0.56% intraday). BUT: market resilient — Nasdaq +0.69% at 11:00 AM ET on Trump-Xi summit optimism + Morgan Stanley 8,000 S&P target raise.
+
+---
+
+### Market conditions (10:00 AM CT = 11:00 AM ET)
+
+| Index / ETF | Intraday | Range | vs. Prior Close | Dist Day? |
+|---|---|---|---|---|
+| S&P 500 | ~7,401–7,413 est. | 7,395–7,415 est. | flat to +0.17% | NO (positive or flat) |
+| Nasdaq | ~26,267 est. | — | +0.69% (+179 pts) | NO (UP day) |
+| Dow | ~49,427 est. | — | −0.56% (−277 pts) | N/A (tracks SPY for dist day count) |
+| SPY | ~$738.70 | $735.47–$740.20 | ~flat (vs $739.02 est. prior close) | NO (positive/flat) |
+
+**Key driver:** Market absorbing extremely hot PPI with resilience. Nasdaq outperforming (tech + communication services buying). Dow dragged by rate-sensitive financials/industrials. Trump-Xi Beijing summit starts tomorrow May 14 — Wall Street optimism on potential US-China tech/trade framework deal. Morgan Stanley raised 2026 S&P year-end target to 8,000 (from 7,800). 
+
+**Distribution day #5 assessment (real-time):** S&P 500 currently flat to +0.17% — WELL ABOVE the -0.20% threshold. Current trajectory = **NOT a distribution day.** Dist count remains 4/25. But day is early; PPI shock + Dow weakness = tail risk. Confirm at /eod-review.
+
+---
+
+### Watchlist trigger evaluation
+
+**Primary watchlist:** EMPTY — 0 confirmed 🟢 READY items. No trigger evaluation to run.
+
+**Watchlist names (informational):**
+
+| Symbol | Intraday Price | Pivot | Price Gate | Volume | Score | Trigger? |
+|---|---|---|---|---|---|---|
+| GOOGL | ~$386.00 (range $379.72–$387.17) | $395–400 est. | ❌ BELOW PIVOT (−2.2 to −3.7%) | N/A | 77/100 ✅ | 🔴 NO — below pivot, no base |
+| AVGO | $409.14 (range $404.80–$416.21) | $406.75 | ✅ IN ZONE (+0.59%) | Unconfirmed (Alpaca blocked) | 67/100 ❌ | 🔴 NO — conviction fails + Alpaca blocked |
+
+**AVGO pivot proximity note:** AVGO has pulled back from $419.30 prev close to $409.14 current = −2.42%. Now at +0.59% above $406.75 pivot — within 1% of pivot. Day range low $404.80 briefly breached pivot on the downside (−0.48% below pivot at low) then recovered. **Pivot holding (barely).** This constructive pullback to pivot is exactly the base-building behavior that would support a future re-score upgrade. If pivot holds at EOD, monitor for 2-3 sessions of consolidation near pivot. Re-score when AV API restores.
+
+**GOOGL thesis check:** SpaceX Project Suncatcher + Googlebook AI laptop + $700B AI infra 2026 catalysts overnight remain positive. No negative catalyst. Price $386 is -2.2% below even the low end of the estimated new pivot zone ($395). No base formed. Setup remains: WATCHLIST — weeks away from actionable.
+
+---
+
+### Mid-morning position health check
+
+0 open positions → sell-rules-engine: **SKIPPED**
+
+No Rule 1 (-7% hard stop) or Rule 3 (50-MA break) intraday triggers to evaluate.
+
+---
+
+### Bench promotion check
+
+| Symbol | Distance to Pivot | Promotion trigger (within 2%)? | Action |
+|---|---|---|---|
+| AVGO | +0.59% above $406.75 | ✅ Within 2% (already on bench as WATCHING) | No change — in zone but score 67/100 fails. Pivot test holding constructively. Status: 🟡 WATCHING unchanged. |
+| MU | +47.6% above ~$546 pivot ($806.14 intraday) | N/A (critically extended) | No change — climax top BENCH. Volume 23.53M vs ADV 53.64M = +44% of ADV (light). Parabolic run continues. |
+| META | — | No (no pivot yet, base forming) | No change — base forming est. 4-6 more weeks |
+| GOOGL | −2.2 to −3.7% below $395-400 est. pivot | No (below pivot) | No change — WATCHLIST; no base formed |
+
+**No promotions. No demotions.**
+
+---
+
+### MU climax top escalation
+
+MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs ADV 53.64M.
+- vs $546 pivot: **+47.6% EXTENDED** (buy zone ceiling is $573 = +5%)
+- Stock opened up +5.33% — JEDEC memory conference bullish narrative continuing
+- Volume actually BELOW average (23.5M vs 53.6M ADV) = light volume but price still running
+- This is exactly the exhaustion pattern: price running on light volume = distribution near top
+- `climax_top_risk_flag` CRITICAL++ → unchanged. Bench only. Wait for base (est. 6-10 more weeks from ATH).
+
+---
+
+### Circuit breaker summary
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — ✅ CLEAR |
+| Weekly −6% | $0 week-to-date — ✅ CLEAR |
+| Drawdown −12% HWM | $0 drawdown — ✅ CLEAR |
+| PDT 3/3 | 0 day trades — ✅ CLEAR |
+| Alpaca API | ❌ 403 Day 39 — HALT ALL ENTRIES |
+
+---
+
+### Key events to monitor today
+
+| Event | Time CT | Significance |
+|---|---|---|
+| PPI April 2026 | ✅ Released 7:30 AM CT | +1.4% MoM (hot); market absorbed with resilience |
+| Trump-Xi Beijing summit | May 14–15 starts TOMORROW | Potential tech/trade deal catalyst; explains Nasdaq resilience today |
+| Cisco Q3 FY26 earnings | 3:30 PM CT today (AH) | Guide $15.4-15.6B rev, $1.02-1.04 EPS; AI orders read-through for XLK |
+| Dist day #5 decision | /eod-review 3:15 PM CT | S&P must close ≥-0.20% on volume. Current trajectory: NOT a dist day. |
+
+---
+
+### Carry-forward priorities (/eod-review 3:15 PM CT today)
+
+1. **Confirm dist day #5 or not.** Current trajectory (flat to +0.17%) says NO. But hot PPI + Dow weakness = watch intraday.
+2. **Cisco Q3 earnings AH** — note result for /pre-market May 14 (XLK read-through)
+3. **AVGO close vs $406.75 pivot** — if closes below pivot → base potentially failed; note for pre-market
+4. **Trump-Xi summit signals** — any trade headlines tomorrow = major catalyst
+5. **Alpaca critical path** — Day 39. No execution until fixed.
+
+`research_source: websearch_fallback` | Alpaca blocked Day 39 | 0 positions | 0/3 weekly trades | Equity ~$2,500 (HWM)
