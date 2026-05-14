@@ -1238,3 +1238,14 @@ Watchlist status: 0 ready | 1 watching (GOOGL) | 3 bench (AVGO/META/MU) | 0 remo
 Open positions: 0 | Total deployed: 0% | Cash: ~100% ($2,500)
 Weekly trade count: 0 of 3 used
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-05-14 20:19 CT [clickup-placeholder]
+
+📊 EOD 2026-05-14 | Equity ~$2,500 (+0.00% day, +0.00% week)
+Open: 0 positions, ~100% cash
+Distribution days: 4/5 (market: 🟢 Confirmed Uptrend Day 37 — NO CHANGE)
+SPY est. ~$748 (+0.77% new ATH) | QQQ est. ~$720 (+0.82% new ATH)
+Actions today: NONE — 0 positions evaluated; sell-rules-engine skipped
+⚠️ Alpaca API blocked Day 40 — all execution halted; research-only mode
+Tomorrow watchlist: GOOGL (77/100, $395-400 pivot zone — needs vol surge + base confirm + Alpaca restore)

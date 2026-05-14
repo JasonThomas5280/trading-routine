@@ -46,13 +46,13 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-05-13 /eod-review — 0 open positions; Alpaca API blocked Day 39; S&P 500 ~7,444 est. +0.58% new ATH; dist count 4/25 unchanged; Confirmed Uptrend Day 36)*
+*(Updated 2026-05-14 /eod-review — 0 open positions; Alpaca API blocked Day 40; SPY est. ~$748 new ATH close (+0.77%); S&P 500 ~7,468 est. (+0.32%); dist count 4/25 unchanged; Confirmed Uptrend Day 37)*
 
 ---
 
 ## Weekly Trade Count (rolling)
 
-**Week of 2026-05-11:** 0 new positions opened (max 3/week) ← CURRENT WEEK (reset Mon May 11; Alpaca blocked Day 39; zero tradeable setups; /eod-review May 13 — 0/3 used; S&P 500 new ATH, dist count 4/25 unchanged, uptrend intact)
+**Week of 2026-05-11:** 0 new positions opened (max 3/week) ← CURRENT WEEK (reset Mon May 11; Alpaca blocked Day 40; zero tradeable setups; /eod-review May 14 — 0/3 used; SPY new ATH est. ~$748, dist count 4/25 unchanged, Confirmed Uptrend Day 37 intact)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)
 **Week of 2026-04-28:** 0 new positions opened (max 3/week) — CLOSED Fri May 1 (Alpaca API blocked entire week; 0/3 used)
 **Week of 2026-04-21:** 0 new positions opened (max 3/week)

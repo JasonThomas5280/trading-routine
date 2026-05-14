@@ -4673,3 +4673,30 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 **No bench promotions.** No bench demotions. No new candidates identified.
 
 `research_source: websearch_fallback` | Alpaca blocked Day 40 | 0 positions | 0/3 trades this week | Equity ~$2,500 (HWM)
+
+## 2026-05-14 (Thu) — /eod-review (3:15 PM CT)
+
+**Close:** SPY est. ~$748 (+0.77%) | QQQ est. ~$720-721 (+0.82%) | S&P 500 est. ~7,468 (+0.32% new ATH)
+**Distribution days:** 4 of 5 trailing 25 sessions (today: NOT a dist day — UP day, new ATH vicinity)
+**Market state:** 🟢 Confirmed Uptrend Day 37 (no state change)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED (0 open positions)
+  - No BUY / SELL / TIGHTEN actions
+**Circuit breakers:** none (Alpaca block is execution halt, not financial circuit breaker)
+**P&L today:** $0.00 (0.00%) — no positions
+**Equity:** ~$2,500 est. (HWM; Alpaca blocked Day 40 — live balance unconfirmable)
+
+**Market drivers (websearch_fallback):**
+- US-China trade summit Day 1 (Geneva): Trump-Xi met with Mag-7 CEOs present; semi trade deal optimism → Nasdaq/S&P 500 new ATHs
+- Retail Sales April +0.5% MoM (in-line; no inflation shock; gate clean)
+- Cisco rally boosted Communication sector; oil WTI ~$107 (US-Iran deal signed)
+- Dow edged slightly negative intraday on oil/consumer goods pressure; S&P 500 + Nasdaq diverged UP
+
+**Watchlist status (no changes from /market-check):**
+- GOOGL 77/100 ✅ — watching; no base confirmed; vol below avg; Alpaca blocked
+- AVBO 67/100 ❌ — score gate fails; remains bench
+- MU — climax top extended; DO NOT TOUCH
+
+**Alpaca status:** ❌ Blocked Day 40 — 403 "Host not in allowlist." No execution possible.
+`research_source: websearch_fallback` | Perplexity blocked | 0/3 weekly trades | 0 open positions
