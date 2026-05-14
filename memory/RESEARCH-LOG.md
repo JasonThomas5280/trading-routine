@@ -4613,3 +4613,63 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 5. **Alpaca critical path:** Day 40 consecutive blockage. Every single valid setup remains untradeable.
 
 `research_source: websearch_fallback` | Alpaca blocked Day 40 | Perplexity blocked | 0 positions | 0/3 weekly trades | Equity ~$2,500 (HWM)
+
+## 2026-05-14 (Thu) — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 40; Perplexity: blocked; all data via WebSearch)
+**Market direction:** 🟢 Confirmed Uptrend Day 37 | 4/25 dist days | NOT a dist day (UP day, new ATH)
+
+### Abort gates
+
+| Gate | Status |
+|---|---|
+| Market state | ✅ CLEAR — Confirmed Uptrend Day 37 |
+| Research unavailable | ✅ CLEAR — websearch_fallback functional (not DEGRADED) |
+| Daily circuit breaker | ✅ CLEAR — no positions, account UP with market |
+| Weekly circuit breaker | ✅ CLEAR — 0/3 trades used this week |
+| Drawdown halt | ✅ CLEAR — no drawdown from HWM |
+| Weekly trade count | ✅ CLEAR — 0/3 used |
+| Position count | ✅ CLEAR — 0 open positions |
+| Cash buffer | ✅ CLEAR — ~100% cash |
+| **EXECUTION GATE** | ⛔ **BLOCKED — Alpaca API blocked Day 40 (403). No orders possible.** |
+
+### Macro gate clearance
+
+**Retail Sales April 2026 (released 8:30 AM ET):** +0.5% MoM in-line with estimates, +4.9% YoY. Slowdown from revised +1.6% March. Excluding gas: +0.3%. No inflation shock. Gate CLEARED. Market absorbed data cleanly — SPY making new ATH intraday.
+
+### Market intraday (10:00 AM CT)
+
+| Indicator | Level | Notes |
+|---|---|---|
+| SPY | ~$747.76 (high $747.84 new ATH) | UP day — NOT a dist day. Dist count 4/25 UNCHANGED. |
+| QQQ | ~$720.16 (range $713.97–$720.46) | New ATH. Nasdaq leading. |
+| GOOG (Class C proxy) | ~$400.37 (range $381.58–$400.00) | Slightly below May 13 close $402.62. Volume 18.16M vs avg 20.99M (86% of avg — BELOW, not a surge) |
+| Trump-Xi Day 1 | Positive signal | Mag-7 CEOs with Trump; semi trade optimism |
+
+### Watchlist trigger evaluation
+
+**Primary watchlist:** ZERO entries — nothing to evaluate.
+
+**GOOGL (W1 — WATCHING CLOSELY, 77/100):**
+- Est. pivot zone: $395–$400 | Current price: ~$400.37 (GOOG proxy; est. near par with GOOGL)
+- Price gate: ✅ Above pivot, within 5% buy zone upper (~$420)
+- Volume gate: ❌ FAILS — 18.16M vs 20.99M avg = 86% of ADV (need ≥29.4M for +40% surge)
+- Base pattern: ❌ UNCONFIRMED — canslim-screener blocked (Alpaca feeds unavailable)
+- Alpaca: ❌ BLOCKED Day 40
+- **Result: NO TRIGGER.** Volume below average, base unconfirmed, execution blocked. Status unchanged: 🟡 WATCHING CLOSELY.
+
+### Position health check (sell-rules-engine)
+
+**0 open positions → SKIPPED.**
+
+### Bench review
+
+| Symbol | Status | Change |
+|---|---|---|
+| AVGO | $421.68 pre-mkt est. (+3.1% on Trump-Xi optimism); in buy zone $406.75–$427.09; score **67/100 < 75 threshold** | NO CHANGE — score gate fails |
+| META | Still forming base (~4-6 more weeks per prior estimate) | NO CHANGE |
+| MU | Climax-top extended; ~$762-780 est. | NO CHANGE — DO NOT TOUCH |
+
+**No bench promotions.** No bench demotions. No new candidates identified.
+
+`research_source: websearch_fallback` | Alpaca blocked Day 40 | 0 positions | 0/3 trades this week | Equity ~$2,500 (HWM)

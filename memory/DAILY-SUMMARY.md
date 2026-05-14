@@ -1217,3 +1217,24 @@ Watchlist watching: GOOGL (price 402.62 crossed est. pivot 395-400 on May 13; no
 Removed: NONE
 Key catalyst today: Retail Sales 8:30 AM ET | NY Fed Williams | Trump-Xi summit Day 1 | Powell last day tomorrow
 Plan: NO ENTRIES - Alpaca blocked Day 40 + no confirmed setups. Monitor GOOGL if Alpaca restores (canslim-screener needed to confirm base first).
+
+---
+## 2026-05-14 10:00 CT [market-check]
+
+📈 Market-check 2026-05-14 10:00 CT
+Market: 🟢 Confirmed Uptrend Day 37 | 4/25 dist days (UNCHANGED) | Circuit breakers: NONE
+Retail Sales gate: CLEARED (+0.5% MoM in-line; no shock)
+SPY ~$747.76 new ATH | QQQ ~$720.16 new ATH — UP day, not a dist day
+
+Actions taken:
+  • No new entries — Alpaca API blocked Day 40 (403 "Host not in allowlist")
+  • No sells — 0 open positions
+  • sell-rules-engine: SKIPPED (0 positions)
+
+Watchlist status: 0 ready | 1 watching (GOOGL) | 3 bench (AVGO/META/MU) | 0 removed
+  GOOGL: price ~$400.37 near pivot $395-400 but vol BELOW avg (18.16M vs 20.99M ADV) — no trigger
+  AVGO: pre-mkt $421.68 (in buy zone); score 67/100 fails threshold — bench
+
+Open positions: 0 | Total deployed: 0% | Cash: ~100% ($2,500)
+Weekly trade count: 0 of 3 used
+Next check: /eod-review 3:15 PM CT

@@ -8,17 +8,17 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-14 (Thu) — `/pre-market`
-**Confirmed Uptrend days:** 36 (since FTD 2026-04-08; May 13 EOD: S&P 500 ~7,444 est. +0.58% NEW ATH — NOT a dist day; state unchanged; PPI +1.4% MoM absorbed with resilience on Trump-Xi summit optimism)
-**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) — May 13 NOT a dist day (+0.58% UP day, new ATH). Dist count 4/25 UNCHANGED.
-**May 14 pre-market:** ES +0.25%, NQ +0.79% — Trump-Xi summit Day 1 (Mag-7 CEOs present; semi trade deal optimism). ⛔ Retail Sales gate 7:30 AM CT. No dist day expected (positive futures).
+**Last updated:** 2026-05-14 (Thu) — `/market-check` 10:00 AM CT
+**Confirmed Uptrend days:** 37 (since FTD 2026-04-08; May 14 intraday: SPY new ATH $747.84, UP day — NOT a dist day)
+**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) — May 14 NOT a dist day (UP day, new ATH). Dist count 4/25 UNCHANGED.
+**May 14 intraday (10:00 AM CT):** SPY ~$747.76 (high $747.84 new ATH, 52-wk high); QQQ ~$720.16 (range $713.97-$720.46, new ATH). Trump-Xi summit Day 1 (Mag-7 CEOs present, semi trade deal optimism). Retail Sales April +0.5% MoM in-line — no shock, gate cleared. GOOG ~$400.37 (slightly below $402.62 May 13 close; session volume 18.16M vs 20.99M avg = BELOW average — no vol surge). Market clearly UP, dist count unchanged. `research_source: websearch_fallback` | Alpaca blocked Day 40.
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **DATA CORRECTION (2026-05-10 /weekly-prep):** Prior /eod-review May 8 logged S&P 500 at 7,337.11 (+0.36%) — websearch_fallback undercount. Confirmed actual close via fresh search: S&P 500 **7,398.93 (+0.83%)**, SPY **$737.62**. Dist day #5 risk on May 8 did NOT materialize (UP day confirmed). Count 4/25 unchanged. SPY 50-day MA: $711.26 (Barchart confirmed). SPY above 50d MA: **+3.71%**. QQQ 50-day SMA: $617.31. QQQ 200-day SMA: $605.90.
 
 **⚠️ SECTOR ROTATION ALERT (updated 2026-05-10):** XLK still ranks #1 by trailing 4-week math (~+10-12%; semis dominated April + XLK +3%+ on May 8 alone). XLC #2 (~+8-10%). XLI #3 (~+5-7% — RRG leading quadrant). XLE #4. However: XLK continues in RRG LAGGING quadrant — forward momentum rotating to XLI/XLE. Flag ALL XLK entries with `sector_momentum_warning`. Watch: if XLK drops below #3 by trailing 4-week RS, institute XLK blackout for new entries. GOOGL scored ≥75 (77/100) in XLC this week — XLC sector health strong.
 
-**⚠️ ALPACA API BLOCKED — Day 32 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+**⚠️ ALPACA API BLOCKED — Day 40 consecutive.** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
 
 **Thursday May 7 close (/eod-review):**
 - S&P 500: ~7,311 est. (−0.38% from ~7,338.89 May 6 close; hit NEW intraday ATH $736.12 before reversing) | Nasdaq: ~25,637 est. (−0.13%) | Dow: −313.62 pts (−0.63%) | Russell 2000: −1.74% | `research_source: websearch_fallback` | **Alpaca blocked day 31**
