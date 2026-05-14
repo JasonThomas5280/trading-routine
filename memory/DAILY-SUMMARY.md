@@ -1203,3 +1203,17 @@ Tomorrow (May 14 Thu):
   • Retail Sales 7:30 AM CT gate — no entries before data
   • GOOGL: check actual close vs $395-400 pivot zone
 ⚠️ Alpaca API blocked Day 39 — NO execution until restored. All capital in cash ($2,500).
+
+---
+## 2026-05-14 11:13 CT [clickup-placeholder]
+
+Pre-market 2026-05-14
+Market: Confirmed Uptrend Day 36 | Futures: ES +0.25% NQ +0.79%
+Open positions: 0 | Circuit breakers: NONE | Alpaca: BLOCKED Day 40
+Overnight gaps: NONE (0 positions)
+Catalyst: Trump-Xi summit Day 1 - Mag-7 CEOs with Trump in Beijing; semi trade deal optimism. Retail Sales gate 7:30 AM CT.
+Watchlist ready: NONE
+Watchlist watching: GOOGL (price 402.62 crossed est. pivot 395-400 on May 13; no base confirmed; score 77/100; RSI 82.94 overbought) | AVBO (pm 421.68 in buy zone; score 67/100 fails; Seaport downgrade vs Citi 500 PT raise)
+Removed: NONE
+Key catalyst today: Retail Sales 8:30 AM ET | NY Fed Williams | Trump-Xi summit Day 1 | Powell last day tomorrow
+Plan: NO ENTRIES - Alpaca blocked Day 40 + no confirmed setups. Monitor GOOGL if Alpaca restores (canslim-screener needed to confirm base first).

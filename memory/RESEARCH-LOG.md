@@ -4533,3 +4533,83 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 `research_source: websearch_fallback` | Alpaca blocked Day 39 | Perplexity blocked
 
 `research_source: websearch_fallback` | Alpaca blocked Day 39 | 0 positions | 0/3 weekly trades | Equity ~$2,500 (HWM)
+
+---
+
+## 2026-05-14 (Thu) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 40; Perplexity: 403 blocked; Alpha Vantage: blocked; all data via native WebSearch)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 36 | 4/25 distribution days
+**Sector leaders (4-week trailing RS est.):** XLK Technology #1 | XLC Communication #2 | XLI Industrials #3
+**⚠️ SECTOR ROTATION:** XLK still in RRG LAGGING quadrant; XLI forward momentum strengthening. `sector_momentum_warning` active on all XLK entries.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 Day 40 | No quotes, no order execution |
+| Perplexity | ❌ 403 | Websearch fallback |
+| Alpha Vantage | ❌ 403 | No fundamentals pull |
+| Native WebSearch | ✅ functional | All data via fallback |
+
+### Open positions — overnight gap check
+
+**0 open positions.** Gap check skipped.
+
+### Market overnight check
+
+| Indicator | Level | vs Prior | Notes |
+|---|---|---|---|
+| ES futures (S&P) | +0.25% | vs 7,444 close | ~7,463 est. |
+| NQ futures (Nasdaq) | +0.79% | vs new ATH | Tech outperforming — Trump-Xi summit tech CEO presence |
+| Macro today | Retail Sales (April) 8:30 AM ET (7:30 AM CT) | — | ⛔ GATE: no entries before data |
+| NY Fed Williams | moderated discussion | — | Rate signals |
+| Trump-Xi summit | Day 1 | — | NVDA/Tesla/Apple CEOs with Trump in Beijing; semi trade deal optimism |
+
+**Market thesis:** Positive open expected. Nasdaq leading. Trump-Xi summit with Mag-7 CEOs = powerful bullish signal for tech/semis trade. No negative overnight macro shocks. Retail Sales data is the only gate. After data, path is open — but Alpaca blocked Day 40 prevents any execution.
+
+### Overnight catalysts — watchlist names
+
+| Symbol | Catalyst | Thesis Impact | Action |
+|---|---|---|---|
+| GOOGL | **DATA CORRECTION:** May 13 actual close = **$402.62** (vs /eod-review est. ~$392-395). Nasdaq +1.20% to new ATH drove GOOGL +4%+ on the session. Trump-Xi summit optimism + AI infra thesis ($700B 2026 capex confirmed). JP Morgan raised PT to $460. RSI 82.94 = technically overbought. May 14 early: ~$400.37. | **POSITIVE — price crossed above estimated pivot zone $395-400.** No volume confirmation (Alpaca blocked). No formal base pattern confirmed (need canslim-screener). Thesis fully intact. RSI overbought is a caution flag, not a sell signal in Confirmed Uptrend. | 🟡 WATCHING CLOSELY — update buy-zone status in WATCHLIST.md |
+| AVGO | Seaport Global downgrade to Neutral (mild negative). Citi raised PT $475→$500, keeps Buy — "Best Chip Name in 2026". Trump-Xi summit = direct semi trade deal catalyst. May 13 close: ~$409.14 (down −2.4% from May 12 $419.30 on broad session). May 14 premarket: **$421.68** (+3.1% from close). Earnings June 3 confirmed. | **NEUTRAL-TO-POSITIVE.** Seaport downgrade countered by Citi upgrade and Trump-Xi tailwind. Price back in buy zone premarket. Score 67/100 UNCHANGED — still fails threshold. No entry. | 🟡 WATCHING — within buy zone; score fails; Alpaca blocked |
+| MU | Trump-Xi summit = positive for semi supply/demand (chip trade deal signals). $810-820 est. close May 13. | **IRRELEVANT** — +47%+ above $546 pivot; climax top territory; parabolic run on light volume. Do NOT touch regardless. | 🔴 BENCH — climax top |
+| NVDA | ⛔ BLACKOUT through May 20 AH. CEO Jensen Huang reportedly WITH Trump at summit. Post-blackout catalyst pipeline building. | Noted for /weekly-prep post-May 20. | ⛔ BLACKOUT |
+
+### Buy-zone readiness (pre-market, WebSearch prices)
+
+| Symbol | Last Price | Pivot | Distance | Status | Notes |
+|---|---|---|---|---|---|
+| GOOGL | ~$400.37 (May 14 early) | $395-400 est. | ~0-1.3% above pivot | 🟡 WATCHING CLOSELY | Price crossed pivot zone on May 13 close ($402.62); no volume confirmation; no formal base; RSI overbought; score 77/100 ✅; Alpaca blocked |
+| AVGO | $421.68 (pm) | $406.75 | +3.7% | 🟡 WATCHING | Within buy zone; score 67/100 ❌; Seaport downgrade; Citi $500 PT bullish; earnings June 3; Alpaca blocked |
+| MU | ~$810-820 est. | ~$546 | +47.6% | 🔴 EXTENDED | Climax top; parabolic; do not touch |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L (no positions) — ✅ CLEAR |
+| Weekly −6% | $0 week-to-date — ✅ CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — ✅ CLEAR |
+| PDT 3/3 | 0 day trades — ✅ CLEAR |
+| Alpaca API | ❌ 403 blocked Day 40 — HALT ALL ENTRIES |
+
+**No circuit breakers active. Alpaca block (Day 40) remains sole execution halt.**
+
+### Entry plan today (Thu May 14)
+
+**⛔ NO ENTRIES POSSIBLE.**
+- Alpaca API blocked Day 40
+- Retail Sales gate 7:30 AM CT (post-data window opens but Alpaca blocked regardless)
+- No watchlist setups pass all entry gates (GOOGL: no base confirmed; AVBO: score fails)
+
+### Carry-forward to /market-check 10:00 AM CT
+
+1. **Retail Sales (April):** Post-data assessment. If hot (>+0.5% MoM) = inflation concern → watch for potential dist day. If in-line or soft = uptrend continues cleanly.
+2. **GOOGL $402.62 close:** KEY — this is the most important data point. Price crossed the $395-400 estimated pivot zone yesterday. Canslim-screener needed urgently to confirm: (a) flat base validity, (b) base duration ≥5 weeks, (c) volume on breakout day (once Alpaca unblocks). If base confirmed + Alpaca restores → GOOGL becomes primary entry #1.
+3. **Trump-Xi summit Day 1 developments:** Monitor for specific semiconductor/AI deal announcements. Any AVGO or tech company named in deals = boost to conviction.
+4. **NY Fed Williams:** Rate guidance signals. Hawkish surprise = watch for potential dist day.
+5. **Alpaca critical path:** Day 40 consecutive blockage. Every single valid setup remains untradeable.
+
+`research_source: websearch_fallback` | Alpaca blocked Day 40 | Perplexity blocked | 0 positions | 0/3 weekly trades | Equity ~$2,500 (HWM)

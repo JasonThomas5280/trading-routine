@@ -8,9 +8,10 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-13 (Wed) — `/eod-review`
+**Last updated:** 2026-05-14 (Thu) — `/pre-market`
 **Confirmed Uptrend days:** 36 (since FTD 2026-04-08; May 13 EOD: S&P 500 ~7,444 est. +0.58% NEW ATH — NOT a dist day; state unchanged; PPI +1.4% MoM absorbed with resilience on Trump-Xi summit optimism)
-**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) — May 13 NOT a dist day (+0.58% UP day, new ATH). PPI dist day #5 risk: ❌ RESOLVED. Dist count 4/25 UNCHANGED.
+**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) — May 13 NOT a dist day (+0.58% UP day, new ATH). Dist count 4/25 UNCHANGED.
+**May 14 pre-market:** ES +0.25%, NQ +0.79% — Trump-Xi summit Day 1 (Mag-7 CEOs present; semi trade deal optimism). ⛔ Retail Sales gate 7:30 AM CT. No dist day expected (positive futures).
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
 **DATA CORRECTION (2026-05-10 /weekly-prep):** Prior /eod-review May 8 logged S&P 500 at 7,337.11 (+0.36%) — websearch_fallback undercount. Confirmed actual close via fresh search: S&P 500 **7,398.93 (+0.83%)**, SPY **$737.62**. Dist day #5 risk on May 8 did NOT materialize (UP day confirmed). Count 4/25 unchanged. SPY 50-day MA: $711.26 (Barchart confirmed). SPY above 50d MA: **+3.71%**. QQQ 50-day SMA: $617.31. QQQ 200-day SMA: $605.90.
