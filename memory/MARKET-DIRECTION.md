@@ -6,11 +6,12 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND**
+**Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-15 (Fri) — `/market-check` 10:00 AM CT
-**Confirmed Uptrend days:** 38 (since FTD 2026-04-08) — ⚠️ UNDER PRESSURE INTRADAY (S&P down ~1.1% at 11AM ET; Trump-Xi summit NO DEAL catalyst; tech selling)
-**Distribution days (last 25 sessions):** 4 confirmed (Apr 23, Apr 28, May 4, May 7) + ⚠️ POTENTIAL DIST DAY #5 TODAY (May 15 down ~1.1% at 11AM ET; magnitude threshold ✅; volume unconfirmed — Alpaca blocked; CONFIRM AT /eod-review. If volume ≥ May 14 → STATE CHANGES TO UPTREND UNDER PRESSURE → no new longs; activate SH/SQQQ hedge at $625/25% portfolio when Alpaca unblocks)
+**Last updated:** 2026-05-15 (Fri) — `/eod-review` 3:15 PM CT
+**⚠️ STATE CHANGE TODAY:** 🟢 Confirmed Uptrend (Day 38) → 🟡 Uptrend Under Pressure | Trigger: Distribution Day #5 confirmed at close
+**Rules now active:** NO new long entries | Reduce exposure on weakness | Evaluate SH/SQQQ hedge ~$625 (25% of $2,500) when Alpaca unblocks
+**Distribution days (last 25 sessions):** 5 confirmed (Apr 23, Apr 28, May 4, May 7, May 15) ⚠️ AT 5/25 THRESHOLD — 1 more = "Market in Correction"
 **May 15 pre-market:** ES futures 7,521.75 (~+0.7% vs ~7,468 May 14 close); NQ futures 29,750.75 (~+0.6%); Dow futures 50,109. Broadly flat after ATHs. Powell last day (Warsh confirmed — orderly transition). April Industrial Production data at 8:15 AM ET (not a hard entry gate; consensus +0.3% MoM). `research_source: websearch_fallback` | Alpaca blocked Day 41.
 **DATA CORRECTION (2026-05-15 /market-check):** May 14 S&P 500 actual close = **7,501.24** (NOT ~7,468 as estimated in /eod-review). First-ever close above 7,500. New ATH confirmed. Our websearch_fallback estimate was low by ~0.44%.
 **May 14 intraday (10:00 AM CT):** SPY ~$747.76 (high $747.84 new ATH, 52-wk high); QQQ ~$720.16 (range $713.97-$720.46, new ATH). Trump-Xi summit Day 1 (Mag-7 CEOs present, semi trade deal optimism). Retail Sales April +0.5% MoM in-line — no shock, gate cleared. GOOG ~$400.37 (slightly below $402.62 May 13 close; session volume 18.16M vs 20.99M avg = BELOW average — no vol surge). Market clearly UP, dist count unchanged. `research_source: websearch_fallback` | Alpaca blocked Day 40.
@@ -20,7 +21,17 @@
 
 **⚠️ SECTOR ROTATION ALERT (updated 2026-05-10):** XLK still ranks #1 by trailing 4-week math (~+10-12%; semis dominated April + XLK +3%+ on May 8 alone). XLC #2 (~+8-10%). XLI #3 (~+5-7% — RRG leading quadrant). XLE #4. However: XLK continues in RRG LAGGING quadrant — forward momentum rotating to XLI/XLE. Flag ALL XLK entries with `sector_momentum_warning`. Watch: if XLK drops below #3 by trailing 4-week RS, institute XLK blackout for new entries. GOOGL scored ≥75 (77/100) in XLC this week — XLC sector health strong.
 
-**⚠️ ALPACA API BLOCKED — Day 42 consecutive (market-check May 15).** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+**⚠️ ALPACA API BLOCKED — Day 43 consecutive (/eod-review May 15).** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+
+**Friday May 15 close (/eod-review, 3:15 PM CT):**
+- S&P 500: **7,408.50** (−1.24% from 7,501.24 May 14 ATH close; −92.74 pts) | Nasdaq: **26,225.14** (−1.54%) | Dow: −537.29 pts (−1.07%) | `research_source: websearch_fallback` | **Alpaca blocked Day 43**
+- SPY: est. ~$739 close (high $743.46, low $737.96) | QQQ: **$709.96** close
+- SPY volume: **41.9M** vs May 14's **28.2M** = +48% higher ✅ → **DISTRIBUTION DAY #5 CONFIRMED**
+- SPY 50d MA: ~$711 est. | SPY above 50d MA: ~+3.9% (NOT breaking 50d — no Correction trigger)
+- Catalysts: Trump-Xi Geneva summit NO MAJOR DEALS; 30yr Treasury yield 5.117% (highest since May 2025); 10yr yield 4.573%; Intel −6%, AMD −5.7%, MU −6.6%, NVDA −4.4%, Cerebras −10%
+- **⚠️ STATE CHANGE: → 🟡 UPTREND UNDER PRESSURE** (5th dist day confirmed; dist count now 5/25)
+- Hedge queued: SH/SQQQ at ~$625 (25% portfolio) — CANNOT EXECUTE until Alpaca unblocks
+- 0 open positions → sell-rules-engine SKIPPED
 
 **Friday May 15 intraday (/market-check, 10:00 AM CT):**
 - S&P 500: ~7,418 est. (−1.1% from actual May 14 close 7,501.24; down ~81 pts at 11AM ET) | Nasdaq: tech-led selling | `research_source: websearch_fallback` | **Alpaca blocked Day 42**

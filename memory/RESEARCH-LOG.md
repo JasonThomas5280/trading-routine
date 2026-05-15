@@ -4861,3 +4861,82 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 ⚠️ KEY RISK GOING INTO /eod-review: If S&P closes ≥−0.2% today on elevated volume = DIST DAY #5 = STATE CHANGE. Monitor at 3:15 PM CT.
 
 `research_source: websearch_fallback` | Alpaca blocked Day 42 | 0 positions | 0/3 trades this week | Equity ~$2,500 (HWM)
+
+---
+
+## 2026-05-15 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 43; Perplexity: blocked; all data via native WebSearch)
+**Close:** SPY est. ~$739 (high $743.46, low $737.96, −1.24%) | QQQ $709.96 (−1.40% est.) | S&P 500 **7,408.50** (−1.24% from 7,501.24 May 14 ATH) | Nasdaq 26,225.14 (−1.54%) | Dow −537.29 pts (−1.07%)
+**Distribution days:** ✅ **5 of 5 threshold — DISTRIBUTION DAY #5 CONFIRMED** (trailing 25 sessions; today: S&P −1.24% ✅ magnitude; SPY volume 41.9M vs May 14's 28.2M = +48% higher ✅ volume)
+**Market state:** 🟡 **Uptrend Under Pressure** — ⚠️ **STATE CHANGED TODAY** from 🟢 Confirmed Uptrend (was Day 38 since FTD 2026-04-08) | Trigger: dist day #5 confirmed
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED — 0 open positions
+  - TIGHTEN: none — no positions
+  - SELL: none — no positions
+  - HEDGE EVAL: SH/SQQQ entry triggered by state change (Under Pressure = hedge eligible); ~$625 position (25% of $2,500 est.) | **CANNOT EXECUTE — Alpaca blocked Day 43** | Queue as first action when API unblocks
+**Circuit breakers:** NONE (100% cash; $0 P&L; 0 day trades)
+**P&L today:** $0.00 (0.00%) — 100% cash, no positions
+**Equity:** ~$2,500.00 est. (Alpaca blocked — cannot confirm live)
+**Weekly trade count:** 0 of 3 used (week of 2026-05-11) — week CLOSED; counter resets Monday May 18
+
+### Distribution Day #5 — classification rationale
+
+- **Magnitude:** S&P 500 −1.24% (well above −0.2% threshold) ✅
+- **Volume:** SPY 41.9M vs May 14's 28.2M = +48% higher ✅ CONFIRMED
+- **Catalyst quality:** Trump-Xi Geneva summit NO MAJOR DEALS (market had priced in tech/semi deal); 30yr Treasury yield 5.117% (highest since May 2025); broad-based tech selloff
+- **Sector damage:** Intel −6%, AMD −5.7%, MU −6.6%, NVDA −4.4%, Cerebras −10% | XLK −0.9%, XLC −0.8%
+- **SPY 50d MA:** ~$711 est. — SPY above by ~+3.9% (NOT a 50d MA break; no Correction trigger yet)
+- **Data confidence:** websearch_fallback | volume data from marketchameleon / tipranks sources
+- **Expiry:** ~25 sessions from May 15, 2026 → approximately **2026-06-19**
+
+### Distribution Day log (active)
+
+| # | Date | Trigger | Expires |
+|---|---|---|---|
+| 1 | Apr 23 | Software selloff (IBM, SFDC, NOW) | 2026-06-01 |
+| 2 | Apr 28 | OpenAI revenue miss; chips −3–5% | 2026-06-03 |
+| 3 | May 4 | Iran missiles at UAE; oil spike | 2026-06-08 |
+| 4 | May 7 | Oil reversal; Amazon/semi selling; intraday ATH reversal | 2026-06-12 |
+| 5 | May 15 | Trump-Xi no deal; 30yr yield 5.117%; tech selloff | ~2026-06-19 |
+
+**5/25 active — AT THRESHOLD. Next dist day = "Market in Correction."**
+
+### State change: Uptrend Under Pressure — rules activated
+
+1. **NO new long entries** until state returns to Confirmed Uptrend (requires FTD reset)
+2. **Hedge entry:** SH or SQQQ eligible at max 25% (~$625) — queued; waiting for Alpaca unblock
+3. **Existing positions:** Tighten stops to 7% (currently 0 positions — protocol noted for next position)
+4. **Sell weakness:** If any long position breaks below 50d MA on volume → SELL immediately
+5. **Recovery trigger:** Follow-through day (day 4–7 of rally attempt, +1.25% on higher volume) → return to Confirmed Uptrend
+
+### Sell-rules-engine
+
+**SKIPPED — 0 open positions.** No verdicts to execute.
+
+### Watchlist EOD verdicts
+
+| Symbol | Close (est.) | Status | Verdict |
+|---|---|---|---|
+| GOOGL | ~$389–393 est. (below pivot) | 77/100 est. | 🔴 BELOW PIVOT — price falling away; market now Under Pressure; NO ENTRY gate blocked |
+| AVGO | ~$430–435 est. | 67/100 < 75 threshold | 🔴 SCORE FAILS — market now Under Pressure adds 2nd block |
+| MU | Climax extended | DO NOT TOUCH | 🔴 BENCH — climax top risk unchanged |
+
+### Circuit breaker summary
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily loss −3% | −$75 on $2,500 | ✅ CLEAR — $0 loss (no positions) |
+| Weekly loss −6% | −$150 on $2,500 | ✅ CLEAR — $0 week P&L |
+| Drawdown −12% HWM | −$300 from $2,500 HWM | ✅ CLEAR — $2,500 est. (at HWM) |
+| PDT count | 3 of 3 rolling 5 | ✅ CLEAR — 0 day trades |
+
+### Monday May 18 priorities (/pre-market 6 AM CT)
+
+1. ⚠️ **MARKET STATE = UPTREND UNDER PRESSURE** — NO new long entries. State check first thing.
+2. **HEDGE:** If Alpaca finally unblocks → evaluate SH/SQQQ entry (~$625/25% portfolio). SH = SPY inverse (less volatile, preferred over SQQQ in moderate correction). Run score check + PDT check before placing.
+3. **Alpaca API — Day 44+** — Must resolve before any execution. Contact Alpaca support if still blocked.
+4. **Distribution day vigilance:** 5/25 — one more = Correction. Watch Monday's volume closely. If down ≥0.2% on elevated volume → state change to Correction → sell weakest positions (none currently), go full hedge.
+5. **GOOGL, AVBO** — re-evaluate if APIs restore; Under Pressure state blocks entry regardless.
+6. **Follow-through watch:** If market rallies back strongly from today's selloff, watch for FTD (4–7 days into rally attempt, +1.25% on volume). Today (May 15) could be Rally Attempt Day 1 if it was a meaningful low.

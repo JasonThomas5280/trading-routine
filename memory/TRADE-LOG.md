@@ -46,13 +46,13 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-05-14 /eod-review — 0 open positions; Alpaca API blocked Day 40; SPY est. ~$748 new ATH close (+0.77%); S&P 500 ~7,468 est. (+0.32%); dist count 4/25 unchanged; Confirmed Uptrend Day 37)*
+*(Updated 2026-05-15 /eod-review — 0 open positions; Alpaca API blocked Day 43; SPY est. ~$739 close (−1.24%); S&P 500 7,408.50 (−1.24% from 7,501.24 ATH); QQQ $709.96 (−1.40%); dist count 5/25 ⚠️ STATE CHANGE TO UPTREND UNDER PRESSURE — Day 38 final before transition; no new long entries until state recovers; hedge SH/SQQQ queued at $625/25% when Alpaca unblocks)*
 
 ---
 
 ## Weekly Trade Count (rolling)
 
-**Week of 2026-05-11:** 0 new positions opened (max 3/week) ← CURRENT WEEK — FINAL (reset Mon May 11; Alpaca blocked all week Day 41 by Fri close; zero tradeable setups; /pre-market May 15 — 0/3 used; ES futures 7,521 pre-mkt; dist count 4/25 unchanged; Confirmed Uptrend Day 38)
+**Week of 2026-05-11:** 0 new positions opened (max 3/week) ← WEEK CLOSED (reset Mon May 11; Alpaca blocked all week Day 43 by Fri /eod-review; zero tradeable setups; 0/3 trades used; market state changed to Uptrend Under Pressure on final day)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)
 **Week of 2026-04-28:** 0 new positions opened (max 3/week) — CLOSED Fri May 1 (Alpaca API blocked entire week; 0/3 used)
 **Week of 2026-04-21:** 0 new positions opened (max 3/week)

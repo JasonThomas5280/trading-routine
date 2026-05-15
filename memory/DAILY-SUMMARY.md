@@ -1285,3 +1285,34 @@ Open positions: 0 | ~100% cash | 0/3 weekly trades used
 ⚠️ CRITICAL at /eod-review 3:15 PM: Confirm if May 15 = dist day #5 → if yes, STATE CHANGES TO UPTREND UNDER PRESSURE → no new longs; SH/SQQQ hedge $625 when Alpaca unblocks
 Alpaca API: ❌ BLOCKED Day 42 — execution impossible
 Next check: /eod-review 3:15 PM CT
+
+---
+
+## 📊 EOD 2026-05-15 | Equity ~$2,500.00 est. ($0.00 / 0.00% day, 0.00% week)
+
+**⚠️ STATE CHANGE: 🟢 Confirmed Uptrend → 🟡 Uptrend Under Pressure**
+
+Open: 0 positions | 100% cash
+Distribution days: **5 of 5** → threshold hit → state change triggered
+Market: S&P 500 7,408.50 (−1.24%) | Nasdaq 26,225.14 (−1.54%) | Dow −537 pts (−1.07%)
+Catalyst: Trump-Xi Geneva NO MAJOR DEALS; 30yr yield 5.117% (multi-month high); broad tech selloff (NVDA −4.4%, AMD −5.7%, MU −6.6%, Intel −6%)
+
+**Actions today:**
+- sell-rules-engine: SKIPPED (0 positions)
+- TIGHTEN: none
+- SELL: none
+- HEDGE QUEUED: SH/SQQQ ~$625 (25%) when Alpaca unblocks (Day 43 blocked)
+
+**Rules now active:**
+- ⛔ NO new long entries (Under Pressure gate)
+- 1 more distribution day = "Market in Correction"
+- Hedge SH/SQQQ eligible — execute at first Alpaca reconnect
+
+**Alpaca API:** ❌ Blocked Day 43 — 403 "Host not in allowlist." All execution halted.
+**Research source:** websearch_fallback | Perplexity blocked
+
+Tomorrow (Mon May 18):
+- State check first | No long entries
+- Resolve Alpaca API block (Day 44 if unresolved)
+- If Alpaca restores → place SH hedge order
+- Watch for dist day #6 (triggers Correction state)
