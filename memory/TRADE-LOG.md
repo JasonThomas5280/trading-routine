@@ -52,7 +52,7 @@ For SELL entries, additionally log:
 
 ## Weekly Trade Count (rolling)
 
-**Week of 2026-05-11:** 0 new positions opened (max 3/week) ← CURRENT WEEK (reset Mon May 11; Alpaca blocked Day 40; zero tradeable setups; /eod-review May 14 — 0/3 used; SPY new ATH est. ~$748, dist count 4/25 unchanged, Confirmed Uptrend Day 37 intact)
+**Week of 2026-05-11:** 0 new positions opened (max 3/week) ← CURRENT WEEK — FINAL (reset Mon May 11; Alpaca blocked all week Day 41 by Fri close; zero tradeable setups; /pre-market May 15 — 0/3 used; ES futures 7,521 pre-mkt; dist count 4/25 unchanged; Confirmed Uptrend Day 38)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)
 **Week of 2026-04-28:** 0 new positions opened (max 3/week) — CLOSED Fri May 1 (Alpaca API blocked entire week; 0/3 used)
 **Week of 2026-04-21:** 0 new positions opened (max 3/week)

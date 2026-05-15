@@ -8,9 +8,10 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-14 (Thu) — `/eod-review` 3:15 PM CT
-**Confirmed Uptrend days:** 37 (since FTD 2026-04-08; May 14 EOD: SPY est. ~$748 new ATH close, UP day — NOT a dist day)
-**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) — May 14 NOT a dist day (UP day, new ATH). Dist count 4/25 UNCHANGED.
+**Last updated:** 2026-05-15 (Fri) — `/pre-market` 6:00 AM CT
+**Confirmed Uptrend days:** 38 (since FTD 2026-04-08; May 14 EOD new ATH; May 15 pre-market futures +0.7% ES / +0.6% NQ — positive open expected)
+**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) — UNCHANGED. May 15 has not traded yet.
+**May 15 pre-market:** ES futures 7,521.75 (~+0.7% vs ~7,468 May 14 close); NQ futures 29,750.75 (~+0.6%); Dow futures 50,109. Broadly flat after ATHs. Powell last day (Warsh confirmed — orderly transition). April Industrial Production data at 8:15 AM ET (not a hard entry gate; consensus +0.3% MoM). `research_source: websearch_fallback` | Alpaca blocked Day 41.
 **May 14 intraday (10:00 AM CT):** SPY ~$747.76 (high $747.84 new ATH, 52-wk high); QQQ ~$720.16 (range $713.97-$720.46, new ATH). Trump-Xi summit Day 1 (Mag-7 CEOs present, semi trade deal optimism). Retail Sales April +0.5% MoM in-line — no shock, gate cleared. GOOG ~$400.37 (slightly below $402.62 May 13 close; session volume 18.16M vs 20.99M avg = BELOW average — no vol surge). Market clearly UP, dist count unchanged. `research_source: websearch_fallback` | Alpaca blocked Day 40.
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 

@@ -4699,4 +4699,75 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 - MU — climax top extended; DO NOT TOUCH
 
 **Alpaca status:** ❌ Blocked Day 40 — 403 "Host not in allowlist." No execution possible.
+
+---
+
+## 2026-05-15 (Fri) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked Day 41; Perplexity: 403 blocked; all data via native WebSearch)
+**Market direction pull:** 🟢 Confirmed Uptrend Day 38 | 4/25 distribution days
+**Sector leaders (4-week trailing RS):** XLK Technology (#1) | XLC Communication (#2) | XLI Industrials (#3)
+**Sector rotation note:** XLK still RRG lagging quadrant — `sector_momentum_warning` active on all XLK entries.
+
+### Overnight market check
+
+| Indicator | Level | vs Prior Close | Notes |
+|---|---|---|---|
+| ES futures (S&P 500) | 7,521.75 | ~+0.7% vs ~7,468 May 14 close | Broadly unchanged after record highs; positive open expected |
+| NQ futures (Nasdaq 100) | 29,750.75 | ~+0.6% | Tech steady; opened at 29,568 |
+| Dow futures | 50,109.00 | Flat–slightly positive | |
+| Powell / Fed transition | Today: Powell's last day | Warsh confirmed | Kevin Warsh confirmed as next Fed chair; Powell stays on Board of Governors. Orderly transition — low surprise risk. |
+| Macro today | April Industrial Production & Capacity Utilization (Fed release, ~8:15 AM ET) | — | Not a hard gate but monitor for deviation. Consensus: IP ~+0.3% MoM |
+| Oil | ~$107 WTI (US-Iran deal signed yesterday) | Elevated but stable | No new Hormuz escalation overnight |
+
+**Market thesis:** Flat-to-slightly-positive open expected. Futures barely moved after S&P 500 + Nasdaq ATHs May 14 (Confirmed Uptrend Day 37). Powell last day creates mild headline noise but Warsh confirmation removes the key uncertainty. Distribution count 4/25 (one away from Under Pressure — unchanged). No state change.
+
+### Overnight gap check on open positions
+
+**No open positions — gap check N/A.**
+
+### Catalyst scan — open positions
+
+**No open positions — skipped.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Catalyst | Thesis Impact | Action |
+|---|---|---|---|
+| GOOGL | ⚠️ USA TODAY lawsuit (May 12 8-K, "very substantial damages"); UK lawsuit alleging display advertising dominance abuse; EU regulatory scrutiny ongoing. Counter: 45 analysts Strong Buy, avg PT raised to $427.89 (from ~$375). JP Morgan PT $460 (raised May 13). Q1 cloud +63%, AI backlog doubled — thesis structural. | Antitrust suits are chronic for GOOGL — existing overhang, not new thesis-breaker. Near-term headline risk may limit breakout volume. Monitoring item. No removal warranted. | 🟡 WATCHING CLOSELY — unchanged. Monitor antitrust headlines at /market-check. |
+| AVGO | Wells Fargo raised PT to $545 from $430 (Overweight) — new Street high among recent actions. Citi Buy $500 PT. May 14 intraday range $413.51–$442.13 (wide swing; net direction unclear without Alpaca). Seaport Global downgrade (Neutral) still overhang from May 13. Score 67/100 — below 75 threshold. | Positive PT upgrade trajectory. Setup constructive. Score gate still fails (67/100 vs 75 required). GAAP EPS YoY still unconfirmed. No change to status. | 🟡 WATCHING — bench, unchanged. Re-score trigger: GAAP EPS confirmed ≥40% YoY + XLK sector RRG recovery. |
+
+### Buy-zone readiness
+
+| Symbol | Last Price (est.) | Pivot | Distance | Pre-Mkt Volume | Status |
+|---|---|---|---|---|---|
+| GOOGL | ~$403 est. (near May 13 $402.62 close; May 14 ≈$400-403 range) | ~$395-400 est. (base not formally confirmed) | ~0-2% above est. pivot zone | N/A (Alpaca blocked) | 🟡 WATCHING CLOSELY — no vol confirmation; RSI ~83 overbought; base unconfirmed; antitrust overhang |
+| AVGO | ~$420-442 range May 14 | $406.75 | +3–9% above pivot (wide range) | N/A (Alpaca blocked) | 🟡 WATCHING — score gate fails (67/100) |
+| MU | Climax top | — | Catastrophically extended | — | 🔴 DO NOT TOUCH |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | $0 P&L (no positions) — CLEAR |
+| Weekly -6% | $0 week-to-date — CLEAR |
+| Drawdown -12% HWM | $0 drawdown — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ **403 blocked Day 41 — HALT ALL ENTRIES** |
+
+**No financial circuit breakers active. Alpaca block is the sole execution halt.**
+
+### Entry plan today
+
+**NO ENTRIES.** Reasons:
+1. Alpaca API blocked Day 41 — no execution possible
+2. End of week (Fri) — weekly trade count 0/3 (moot given Alpaca block)
+3. Powell/Warsh transition day — mild headline risk; reduce new-entry willingness per TRADING-STRATEGY.md (Fed events)
+4. GOOGL: antitrust headline overhang, RSI overbought, no volume confirmation, base unconfirmed
+5. AVGO: score 67/100 below 75 threshold
+6. Zero confirmed tradeable setups — 5th consecutive week
+
+### Result: NO ENTRIES — Alpaca API blocked Day 41. End of week. No valid setups cleared all gates.
+
+**research_source: websearch_fallback**
 `research_source: websearch_fallback` | Perplexity blocked | 0/3 weekly trades | 0 open positions

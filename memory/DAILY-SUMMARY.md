@@ -1249,3 +1249,24 @@ SPY est. ~$748 (+0.77% new ATH) | QQQ est. ~$720 (+0.82% new ATH)
 Actions today: NONE — 0 positions evaluated; sell-rules-engine skipped
 ⚠️ Alpaca API blocked Day 40 — all execution halted; research-only mode
 Tomorrow watchlist: GOOGL (77/100, $395-400 pivot zone — needs vol surge + base confirm + Alpaca restore)
+
+---
+## 2026-05-15 11:09 CT [clickup-placeholder]
+
+test
+
+---
+## 2026-05-15 11:10 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-15 (Fri)
+Market: 🟢 Confirmed Uptrend Day 38 | 4/25 dist days | Futures: ES 7,521.75 (+0.7%) NQ 29,750.75 (+0.6%)
+Open positions: 0 | Circuit breakers: NONE
+Alpaca API: ❌ BLOCKED Day 41 — NO EXECUTION POSSIBLE
+Overnight gaps: NONE (no open positions)
+Watchlist ready (🟢): NONE — zero confirmed setups (5th consecutive week)
+Watchlist watching (🟡):
+  GOOGL 77/100 ~$402-403 est. | above est. pivot; RSI ~83 overbought | ⚠️ new antitrust: USA TODAY lawsuit (May 12 8-K) + UK display ad lawsuit — monitoring, NOT thesis-breaker
+  AVGO 67/100 bench | Wells Fargo PT $430→$545 (Overweight) overnight | score gate fails (67<75)
+Removed: NONE today
+Key catalyst: Powell LAST DAY (Warsh confirmed — orderly transition) | April IP 8:15 AM ET | US-China summit Day 2
+Plan: NO ENTRIES — Alpaca blocked Day 41 + end of week + Powell transition day + zero setups cleared all gates. Cash preservation correct.
