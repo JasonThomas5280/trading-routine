@@ -6,7 +6,11 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ⚠️ Week of 2026-05-11 to 2026-05-15 — CURRENT
+## ⚠️ ARCHIVED — Week of 2026-05-11 to 2026-05-15 | Rebuild via /weekly-prep on Sunday 2026-05-17
+
+> **Status:** STALE as of 2026-05-15 /weekly-review. Market state changed to 🟡 Uptrend Under Pressure. Full watchlist rebuild required Sunday /weekly-prep. Under Pressure posture: no new long entries; evaluate hedge (SH/SQQQ $625) first; then rebuild watchlist with defensive-posture filter (only names that would be actionable in a confirmed uptrend recovery — keep the pipeline warm for the follow-through day).
+
+## ⚠️ Week of 2026-05-11 to 2026-05-15 — ARCHIVED
 
 **Built:** 2026-05-10 (Sun) — `/weekly-prep` | **Refreshed:** 2026-05-15 (Fri) — `/market-check` 10:00 AM CT | `research_source: websearch_fallback`
 **Market direction at refresh:** 🟢 Confirmed Uptrend Day 38 ⚠️ UNDER PRESSURE INTRADAY | 4/25 dist days + POTENTIAL DIST DAY #5 | May 14 ACTUAL close S&P 7,501.24 (corrected from ~7,468 est.) | May 15 S&P down ~1.1% intraday (11AM ET) on Trump-Xi NO DEAL catalyst | **NO NEW ENTRIES: Alpaca blocked Day 42 + market down + zero setups. Potential dist day #5 — confirm at /eod-review. If confirmed → Under Pressure → hedge protocol activates.**

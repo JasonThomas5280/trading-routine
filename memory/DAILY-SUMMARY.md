@@ -1316,3 +1316,52 @@ Tomorrow (Mon May 18):
 - Resolve Alpaca API block (Day 44 if unresolved)
 - If Alpaca restores → place SH hedge order
 - Watch for dist day #6 (triggers Correction state)
+
+---
+## 2026-05-15 20:40 CT [clickup-placeholder]
+
+### Week ending 2026-05-15
+
+## Week ending 2026-05-15 (Fri) — Weekly Review
+
+**Context:** Week 4. Alpaca API blocked Day 33–43. Zero trades executed (4th consecutive). S&P 500 hit ATH 7,501.24 on May 14, then −1.24% distribution day on May 15. **⚠️ STATE CHANGE: Confirmed Uptrend → Uptrend Under Pressure (dist day #5 confirmed).**
+
+---
+
+### Performance
+- Starting equity: $2,500.00 | Ending equity: $2,500.00
+- Weekly return: **0.00%** (vs S&P +0.13% = −0.13% alpha)
+- Trades: 0 | Winners: 0 | Losers: 0 | W:L ratio: N/A
+- Cumulative alpha drag since inception: ~−1.62%
+
+### Rule Adherence: **100/100**
+- Zero violations. GOOGL 77/100 correctly blocked (price below pivot zone + base:0 + antitrust). NVDA blackout honored. GEV disqualified (,042 > $500 ceiling). No entries after state change to Under Pressure.
+
+### Market Direction Accuracy: **CLEAN**
+- May 12: CPI hot (+3.8% YoY) — actual S&P −0.16% = NOT dist day ✅ (prior EOD est. −0.50% was wrong; corrected)
+- May 14: S&P 500 7,501.24 NEW ATH — NOT dist day ✅
+- May 15: S&P 500 −1.24%, SPY vol +48% → **DIST DAY #5 → STATE CHANGE** ✅
+- SPY 50d MA: ~$711. SPY +3.9% above — no Correction trigger.
+
+### Conviction Correlation
+- GOOGL 77/100 — FIRST name above conviction threshold in 5 weeks of operation. Gates blocked correctly (Base:0 + price/antitrust). System validation: WORKING.
+
+### Research: 0 days perplexity | 5 days websearch_fallback | 0 DEGRADED (4th straight week)
+
+### 3 Lessons
+1. **Execution:** Alpaca API blocked Day 43 — requires Jason to contact Alpaca support immediately. Account cannot trade.
+2. **Strategy:** GOOGL at 77/100 would be 87/100 with a base. Base:0 penalty is doing correct work — mid-run continuation is not a CAN SLIM setup.
+3. **Market:** Under Pressure driven by 30yr yield 5.117% (fiscal pressure) + Trump-Xi no deal — structural headwind, not a one-day event. Recovery requires rally + follow-through day.
+
+### Proposed Rule Changes
+- Proposal 7 (NEW): Antitrust N-letter discount −2 to −4pts on active material litigation
+- Proposal 8 (NEW): Manual web-UI execution backup for API-down hard stop execution
+- Proposals 1–6: Still pending Jason approval
+
+### Next Week (May 18–22)
+- **🟡 Under Pressure — NO new long entries**
+- Hedge: SH/SQQQ $625 → execute when Alpaca unblocks
+- NVDA earnings May 20 AH — key catalyst; blackout active
+- Watch for dist day #6 (= Market in Correction) or follow-through day (= recovery)
+- Book: 0 positions, $2,500 cash (HWM), all trade slots frozen
+- Emotional state: DISCIPLINED. Cash IS the position.

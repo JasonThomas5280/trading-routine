@@ -437,3 +437,142 @@ Status: **NEW — pending Jason approval.**
   - ⚠️ **CRITICAL: Alpaca API must be restored before Week 4 /pre-market.** If still blocked Monday, maintain full research-only mode — no execution workarounds.
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, **0% deployed**, **3/3 weekly trade slots available**. Three weeks of enforced cash. Capital at HWM.
 - **Emotional state check:** DISCIPLINED — holding the line on a third consecutive 0-trade week. The temptation to "do something" after watching AMD +20%, MU +34% above pivot, and the S&P hit ATHs without us is real. The counter-discipline: every one of those moves would have been a rule violation (Alpaca blocked = no execution; AMD at 66/100 = no entry; MU in blowoff = no chase). The market rewarded patience this week by not distributing hard. 4/25 is manageable. Capital is intact. The moment execution infrastructure clears and a ≥75-scoring setup hits pivot on volume, we're ready to act. Until then: research, maintain, wait.
+
+---
+
+## Week ending 2026-05-15 (Fri)
+
+> **Context:** Week 4 of live operation. Alpaca API continued 403 "Host not in allowlist" — Day 33 through Day 43 (all 5 sessions). Perplexity + Alpha Vantage both blocked (same IP allowlist issue). All research via WebSearch fallback for the fourth consecutive week. Zero trades executed. S&P 500 hit a **new all-time high of 7,501.24 on May 14** (+1.35% Tue–Thu mini-run) then reversed −1.24% on May 15 (Trump-Xi Geneva summit: no major deals; bond yields spiked: 30yr 5.117%). Distribution day #5 confirmed at Friday's close → **⚠️ STATE CHANGE: 🟢 Confirmed Uptrend Day 38 → 🟡 Uptrend Under Pressure.** Dist count now 5/25. No open positions. Sell-rules-engine skipped all week. Hedge (SH/SQQQ $625) queued pending Alpaca API restore.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon May 12 open — 100% cash, carry-in from Week 3)
+- Ending equity: $2,500.00 (Fri May 15 close — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 May 8 close 7,398.93 → May 15 close 7,408.50 = **+0.13%** = **−0.13% alpha**)
+- S&P 500 intraweek peak: 7,501.24 on May 14 (new ATH, +1.38% above week start). We missed the round-trip entirely.
+- Trades taken: **0** (max 3/week, used 0 — **fourth consecutive 0-trade week**)
+- Winners: 0 (avg N/A)
+- Losers: 0 (avg N/A)
+- Winner:loser ratio: N/A
+- Largest winner: N/A
+- Largest loser: N/A
+- **Cumulative alpha drag since inception (5 weeks):** ~−1.62% vs. SPY (Week 1: ~0%, Week 2: ~0%, Week 3: −1.49%, Week 4: −0.13%)
+- **Root causes of zero trades (ranked):**
+  1. Alpaca API 403 blocked all 5 sessions (Day 33–43) — execution hard-halted per TRADING-STRATEGY.md
+  2. GOOGL (77/100 — only name above conviction threshold): price fell below estimated pivot zone on May 15 distribution day; antitrust litigation risk (USA TODAY 8-K May 12); Base:0 (no classical O'Neil base pattern — straight-up continuation, not a consolidation breakout)
+  3. State change to Under Pressure on May 15 (end of day) — would have gated any new longs regardless of API status
+  4. NVDA in earnings blackout (May 13–20 ≤5 trading days before May 20 AH)
+  5. GEV hard-disqualified: $1,042 price > $500 ceiling per TRADING-STRATEGY.md
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any −7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries on Alpaca-blocked sessions? **NO** — rule honored all 5 sessions, 4th consecutive week
+- NVDA earnings blackout honored? **YES** — no NVDA evaluation or entry attempts May 13–15
+- GEV price-ceiling disqualification correct? **YES** — $1,042 >> $500 max; removed cleanly at /pre-market May 11
+- GOOGL 77/100 correctly blocked? **YES** — score gate passed but three other gates failed simultaneously (price/base/antitrust). No "close enough" override attempted.
+- Any new-entry attempts after state changed to Under Pressure? **NO** — state change confirmed at /eod-review May 15; no entries queued post-transition
+- Circuit breakers triggered? **NONE**
+  - Daily −3%: never (no P&L)
+  - Weekly −6%: never
+  - PDT count: 0 of 3
+  - Drawdown from HWM: 0% ($2,500 = HWM)
+- **Adherence score: 100/100** *(Fourth consecutive perfect score — no trades = no violations. Score remains structurally uninformative until execution is restored. Behavioral note: GOOGL at 77/100 was the first conviction-passing name in 5 weeks. The system correctly blocked it on secondary gates rather than rationalizing entry. That restraint is real adherence.)*
+
+### Market Direction Accuracy
+
+- Our M state at week start: **🟢 Confirmed Uptrend Day 33** (4/25 dist days — "one away" warning active from Week 3 review)
+- Our M state at week end: **🟡 Uptrend Under Pressure** (5/25 dist days — state change May 15)
+- Distribution day tracking (all 5 sessions):
+  - **May 11 (Mon):** No dist day logged. Session unremarkable. Count: 4/25 unchanged.
+  - **May 12 (Tue):** CPI April +3.8% YoY ("hot"). /eod-review estimated S&P −0.50% (potential dist day). **Actual close: 7,400.96 (−0.16%)** — corrected via data cross-check. **NOT a dist day** (−0.16% < −0.20% threshold). WebSearch over-estimated bearishness. Count: 4/25 unchanged. ✅ Correct (after data correction).
+  - **May 13 (Wed):** PPI + Cisco earnings. No dist day. Count: 4/25 unchanged. ✅
+  - **May 14 (Thu):** S&P 500 7,501.24 **NEW ATH** (+1.35%). Trump-Xi summit Day 1 (semi trade deal optimism). **NOT a dist day** (strongly up day). Count: 4/25 unchanged. ✅
+  - **May 15 (Fri):** S&P 500 7,408.50 (−1.24% from 7,501.24 ATH). SPY volume 41.9M vs. 28.2M prior (+**48%** above prior session). Trump-Xi: NO MAJOR DEALS. Bond yields: 30yr 5.117%. Tech sector: Intel −6%, AMD −5.7%, MU −6.6%, NVDA −4.4%. **DIST DAY #5 CONFIRMED** → **STATE CHANGE: Uptrend Under Pressure.** ✅
+- SPY 50-day MA: ~$711 est. all week. SPY ~3.9–5.2% above 50d MA — no Correction trigger fired.
+- State transition timing: **CLEAN** — correctly called on confirmed data at Friday EOD, not speculatively earlier. Week 3 review predicted "one distribution day away from Under Pressure" — Week 4 delivered it exactly.
+- Data error note: May 12 EOD estimate was −0.50% (potential dist day) vs. actual −0.16% (not a dist day). WebSearch ±0.3–0.5% error on index-close estimates can misclassify near-threshold sessions. State management was correct (count held at 4/25 once corrected); but the intraday estimating error is a recurring websearch_fallback quality issue.
+- Accuracy verdict: **CLEAN** — all M calls correct for 4th consecutive week. State transition correctly executed.
+
+### Sector Performance
+
+- Sectors we traded: **NONE** (no trades executed)
+- Sector RS call accuracy this week:
+  - **XLK Technology:** Trailing 4-week #1 ✓ — but `sector_momentum_warning` validated. May 15: XLK led the selloff (Intel −6%, AMD −5.7%, NVDA −4.4%, Cerebras −10%). The RRG lagging quadrant flag from Week 3 proved accurate — the sector that "led" on trailing 4-week math became the worst sector on the first major distribution day.
+  - **XLC Communication Services:** #2 trailing RS ✓. GOOGL −2%+ on May 15 distribution. XLC weakening.
+  - **XLI Industrials:** #3 trailing RS ✓. Held relatively better on May 15. RRG leading quadrant signal intact.
+  - **XLE Energy:** #4 trailing RS. Bond yield spike (30yr 5.117%) = indirect headwind for energy valuations.
+  - **XLU / XLF:** Bottom-tier trailing RS — defensives underperformed until the sell-off began; XLU may strengthen in Under Pressure regime.
+- Sector rotation warning **validated:** XLK was flagged as RRG lagging since /weekly-prep May 10. It underperformed on the key distribution day. Forward sector ranking: XLI likely moves up in any recovery; XLK needs to prove it can hold 50d MA on the next test.
+- Sectors to blacklist: **None** (no 2-consecutive-fail trade history — still zero trades)
+- No sector-specific blacklist triggers possible until we have actual trade P&L data.
+
+### Conviction Correlation
+
+- Trades with conviction ≥85: 0 — N/A
+- Trades with conviction 75–85: 0 — N/A
+- Trades below 75: 0 correctly blocked
+- **First conviction threshold crossing this cycle:** GOOGL 77/100 (C:20 A:10 N:15 L:15 S:10 I:7 Base:0) — first name above 75 in 5 weeks of operation. This is a meaningful milestone: the screener found a qualifying name. The secondary gates correctly blocked entry (price below pivot zone + base:0 + antitrust + Alpaca blocked). Score gate validation: WORKING. Secondary gate validation: WORKING.
+- Pipeline note: AVGO was re-scored at 67/100 (/weekly-prep May 10) — rejected on A-letter (FY2023 revenue +8%, below 25% threshold) and S-letter (float >500M) despite strong C-letter (AI revenue +106% YoY). Wells Fargo raised PT to $545 on May 15 pre-market — institutional validation, but does not fix the A-letter structural issue.
+- Pattern: **No closed-trade data.** Score discrimination is functioning correctly for the 4th consecutive week.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked all week — IP allowlist, Day 33–43)
+- Sessions on websearch_fallback: **~10** (all sessions throughout the week)
+- Sessions DEGRADED: **0** (WebSearch consistently available)
+- Research source for trades placed: N/A
+- Quality assessment (4th consecutive websearch_fallback week):
+  - **Price estimation error (systematic):** May 12 /eod-review estimated S&P −0.50% (potential dist day); actual −0.16%. May 14 pre-market estimated prior close at ~7,468; actual May 14 close was 7,501.24 (−0.44% undercount). WebSearch has a recurring tendency to underestimate index closes on up-market days and overestimate bearishness on volatile days. Error range: ±0.3–0.5% on index closes.
+  - **Volume data:** Zero Alpaca-confirmed volume checks all week. All volume assessments based on sector selling magnitude and qualitative descriptions ("tech sector broad selloff," "SPY volume +48% vs prior"). This is sufficient for state-change calls but insufficient for individual-stock entry volume checks.
+  - **RESEARCH-LOG.md gap:** No May 11–15 pre-market entries logged in RESEARCH-LOG.md. All May 11–15 research captured in MARKET-DIRECTION.md and WATCHLIST.md instead. This is a process gap — the research log should be updated at each /pre-market even if there's nothing tradeable. Next week: enforce RESEARCH-LOG.md updates at every session regardless of action taken.
+
+### Lessons
+
+**Lesson 1 — Infrastructure: Alpaca API blocked 43 consecutive days with no resolution. The system cannot trade while the executor is locked.**
+Four operational weeks, zero trades, $0 P&L. The S&P 500 ran from ~$698 (April 8 FTD) to 7,501.24 (May 14 ATH) = +7.4% uptrend that this account could not participate in. Cumulative opportunity cost is real. Importantly: the API is not "intermittently flaky" — it has returned 403 "Host not in allowlist" on every single call for 43 consecutive trading days. This is a permanent infrastructure block that requires human action (Jason contacting Alpaca support). No code fix resolves a server-side IP allowlist rejection.
+**Required action:** Jason must contact Alpaca support immediately with: (1) account number, (2) API key PK7N46M65LLJZTRF35BKX7GJD6, (3) base URL https://paper-api.alpaca.markets, (4) exact error "403 Host not in allowlist." Request IP allowlisting for the server running this agent. This is the single highest-priority item in the entire system.
+
+**Lesson 2 — Strategy: GOOGL at 77/100 shows the screener finds real setups. The Base:0 penalty is doing important work.**
+GOOGL's conviction score would be **87/100** with a confirmed base pattern (+10 bonus). The stock went from $342 (April 29 earnings gap-up) to $402 by May 13 — a straight-line move without consolidation. CAN SLIM requires a base (cup-with-handle, flat base, double bottom, or HTF) because it is the consolidation phase that shakes out weak holders and builds the power for the next move. Entering a stock mid-run with no base is chasing — even at 77/100, it's not a proper setup. The Base:0 score correctly identifies this. The lesson: monitor GOOGL for base formation. If it consolidates for 3–6 weeks around the $390–400 zone, forms a valid handle, and Alpaca API is restored — that is the entry point (likely at 87/100).
+
+**Lesson 3 — Market: The Under Pressure trigger arrived exactly as predicted; the mechanism (bond yields + geopolitical disappointment) creates a durable headwind, not a one-day technical event.**
+The May 15 distribution day was driven by: (a) 30-year Treasury yield at 5.117% (highest since May 2025 — structural fiscal pressure), (b) Trump-Xi Geneva summit ended with NO MAJOR TRADE DEALS (geopolitical sentiment reversal from optimistic May 14 entry into the summit). These are not one-day events. Bond yield pressure at 5%+ is a sustained valuation multiple headwind for high-P/E tech stocks. The XLK sector's −2.6%+ on May 15 validates the RRG lagging signal that was flagged since /weekly-prep May 10. Recovery to Confirmed Uptrend will require: (1) bond yields retreating below 4.75%, OR (2) a series of strong economic prints that justify current valuations, OR (3) a positive NVDA earnings catalyst (May 20) that resets the AI-capex narrative. Until one of these conditions materializes, Under Pressure is the correct state.
+
+### Proposed Rule Changes
+
+**Proposals 1–6 from prior weeks:** ALL still pending Jason approval. Most operationally urgent:
+- **Proposal 1** (Alpaca API health check at /pre-market Step 0) — critical for Day 44+
+- **Proposal 5** (API-down escalation SLA) — now at 43 days, this is overdue
+- **Proposal 6** (Dist Day #5 protocol checklist at count=4/25) — this week proved its value: we knew the trigger, executed the transition cleanly. But the SH/SQQQ order still can't be placed. The checklist should include a "hedge pending Alpaca restore" flag.
+
+**Proposal 7 — NEW: Antitrust / major-litigation N-letter discount (−2 to −4 pts).**
+When a watchlist name files an 8-K for a material lawsuit (like GOOGL's USA TODAY lawsuit May 12), apply a −2 to −4 pt discount to the N-letter score and flag `⚠️ ACTIVE_MATERIAL_LITIGATION`. Rationale: N-letter measures "new catalyst driving the story." Active major litigation is a competing narrative that dilutes the positive N-thesis and introduces binary outcome risk. GOOGL's N:15 may more accurately be N:11–13 when chronic antitrust exposure (USA TODAY, UK display ads, EU scrutiny) is factored. The discount should be proportional to case severity: flagship product threatens (e.g., Search/Chrome breakup) = −4; peripheral damages suit = −2.
+Status: **NEW — pending Jason approval.**
+
+**Proposal 8 — NEW: Manual Alpaca web-UI execution backup protocol.**
+With 43 consecutive days of API blockage, the strategy needs a documented human-in-the-loop fallback: if API is blocked AND a −7% hard stop fires on an open position, Jason manually places the sell order via Alpaca's web UI or mobile app. This preserves the hard-stop rule even when the API is down. Protocol outline: (a) Agent flags `⚠️ MANUAL_EXECUTION_REQUIRED` in ClickUp/DAILY-SUMMARY.md with order details (symbol, qty, limit/market), (b) Jason executes within 15 minutes during market hours, (c) Agent logs the fill in TRADE-LOG.md as `execution_source: manual_web_ui`. This does NOT fix the quote data problem — it only ensures stop-loss execution survives API outages.
+Status: **NEW — pending Jason approval.**
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🟡 Uptrend Under Pressure (5/25 dist days; Apr 23, Apr 28, May 4, May 7, May 15 active). **NO new long entries.** SPY ~+3.9% above 50d MA (~$711 est.) — not at Correction territory yet. One more dist day (#6) = 🔴 Market in Correction → sell all weak positions, deploy SH/SQQQ hedge. Recovery path: a follow-through day (rally attempt day 4–7 closing +1.25%+ on higher volume) would reset to Confirmed Uptrend. Most likely resolution window: week of May 26 (post-NVDA earnings digestion + Memorial Day). Not guaranteed.
+- **NVDA earnings May 20 AH:** The week's primary market catalyst. Q1 FY2027 expectations: Data Center growth, sovereign AI deals, China headwind offset. A massive beat (Data Center >$30B+) could ignite a follow-through attempt and signal recovery. A miss or guidance miss → potential dist day #6 → Correction. Blackout active through May 20; do NOT touch NVDA regardless of intraday moves. Re-score immediately post-earnings.
+- **Hedge execution (immediate priority):** The moment Alpaca API unblocks, place SH or SQQQ order at ~$625 (25% of $2,500). Under Pressure protocol requires this. SH (−1× S&P) is preferred for this account size (less leverage decay risk than SQQQ). If SQQQ is chosen, size accordingly at same $625 notional.
+- **Sectors in focus:**
+  1. **DEFENSIVE POSTURE — no new longs in any sector** until state recovers
+  2. Monitor XLI (RRG leading quadrant — best relative strength if market stabilizes)
+  3. Watch GOOGL base development ($390–400 zone): if forms valid 3-week handle → potential 87/100 score candidate for the next Confirmed Uptrend
+  4. Watch AVBO: Wells Fargo PT raise to $545 is institutional validation; needs A-letter repair (GAAP FY2023 +8% vs. 25% required) before score can clear 75. Not tradeable this week regardless.
+- **Calendar risks:**
+  - ⚠️ **NVDA earnings May 20 AH** — single biggest market event of the week. Handle as a binary catalyst; do not trade it. Re-score post-results.
+  - **AVBO earnings June 3** — 19 days out; no blackout yet
+  - **MU earnings ~July 1** — no blackout; price in blowoff territory still (~$762-780 est.); do not touch
+  - **Macro:** Watch 30-year Treasury yield. If 5.117% holds or rises → sustained headwind for tech valuations. Watch for any FOMC speaker commentary on rates path.
+  - **Dist day #6 risk:** One more distribution day → Market in Correction. Full hedge (inverse ETF) + cash protocol activates. Be ready.
+- **RESEARCH-LOG.md gap:** Enforce /pre-market entries in RESEARCH-LOG.md every session next week, even in research-only mode. The May 11–15 gap is a process failure.
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, **0% deployed**, **3/3 weekly trade slots available** (but Under Pressure = 0 trade slots usable for longs). Capital at HWM. Hedge slot open.
+- **Emotional state check:** DISCIPLINED and CORRECTLY POSITIONED. The state transition to Under Pressure is not a failure — we called it two weeks early and executed the protocol correctly (0 new longs, hedge queued). 5 weeks of 0 trades with capital perfectly intact at $2,500. The next phase is patient waiting: watch for the follow-through day, resolve Alpaca API, and be ready to deploy when the market confirms a new uptrend. No revenge entries. No "I'll just put 10% in something safe." Cash IS the position in Under Pressure. The playbook is the playbook. Execute it.
