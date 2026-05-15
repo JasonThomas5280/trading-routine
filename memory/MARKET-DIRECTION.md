@@ -8,10 +8,11 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND**
 
-**Last updated:** 2026-05-15 (Fri) — `/pre-market` 6:00 AM CT
-**Confirmed Uptrend days:** 38 (since FTD 2026-04-08; May 14 EOD new ATH; May 15 pre-market futures +0.7% ES / +0.6% NQ — positive open expected)
-**Distribution days (last 25 sessions):** 4 effective (Apr 23, Apr 28, May 4, May 7) — UNCHANGED. May 15 has not traded yet.
+**Last updated:** 2026-05-15 (Fri) — `/market-check` 10:00 AM CT
+**Confirmed Uptrend days:** 38 (since FTD 2026-04-08) — ⚠️ UNDER PRESSURE INTRADAY (S&P down ~1.1% at 11AM ET; Trump-Xi summit NO DEAL catalyst; tech selling)
+**Distribution days (last 25 sessions):** 4 confirmed (Apr 23, Apr 28, May 4, May 7) + ⚠️ POTENTIAL DIST DAY #5 TODAY (May 15 down ~1.1% at 11AM ET; magnitude threshold ✅; volume unconfirmed — Alpaca blocked; CONFIRM AT /eod-review. If volume ≥ May 14 → STATE CHANGES TO UPTREND UNDER PRESSURE → no new longs; activate SH/SQQQ hedge at $625/25% portfolio when Alpaca unblocks)
 **May 15 pre-market:** ES futures 7,521.75 (~+0.7% vs ~7,468 May 14 close); NQ futures 29,750.75 (~+0.6%); Dow futures 50,109. Broadly flat after ATHs. Powell last day (Warsh confirmed — orderly transition). April Industrial Production data at 8:15 AM ET (not a hard entry gate; consensus +0.3% MoM). `research_source: websearch_fallback` | Alpaca blocked Day 41.
+**DATA CORRECTION (2026-05-15 /market-check):** May 14 S&P 500 actual close = **7,501.24** (NOT ~7,468 as estimated in /eod-review). First-ever close above 7,500. New ATH confirmed. Our websearch_fallback estimate was low by ~0.44%.
 **May 14 intraday (10:00 AM CT):** SPY ~$747.76 (high $747.84 new ATH, 52-wk high); QQQ ~$720.16 (range $713.97-$720.46, new ATH). Trump-Xi summit Day 1 (Mag-7 CEOs present, semi trade deal optimism). Retail Sales April +0.5% MoM in-line — no shock, gate cleared. GOOG ~$400.37 (slightly below $402.62 May 13 close; session volume 18.16M vs 20.99M avg = BELOW average — no vol surge). Market clearly UP, dist count unchanged. `research_source: websearch_fallback` | Alpaca blocked Day 40.
 **Most recent follow-through day:** 2026-04-08 (SPY +2.55%, volume 94M vs 70M prior = higher-volume confirmation)
 
@@ -19,7 +20,18 @@
 
 **⚠️ SECTOR ROTATION ALERT (updated 2026-05-10):** XLK still ranks #1 by trailing 4-week math (~+10-12%; semis dominated April + XLK +3%+ on May 8 alone). XLC #2 (~+8-10%). XLI #3 (~+5-7% — RRG leading quadrant). XLE #4. However: XLK continues in RRG LAGGING quadrant — forward momentum rotating to XLI/XLE. Flag ALL XLK entries with `sector_momentum_warning`. Watch: if XLK drops below #3 by trailing 4-week RS, institute XLK blackout for new entries. GOOGL scored ≥75 (77/100) in XLC this week — XLC sector health strong.
 
-**⚠️ ALPACA API BLOCKED — Day 40 consecutive (EOD May 14).** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+**⚠️ ALPACA API BLOCKED — Day 42 consecutive (market-check May 15).** 403 "Host not in allowlist." All order execution impossible. All live price/volume checks impossible. Research-only mode — no execution until API restored.
+
+**Friday May 15 intraday (/market-check, 10:00 AM CT):**
+- S&P 500: ~7,418 est. (−1.1% from actual May 14 close 7,501.24; down ~81 pts at 11AM ET) | Nasdaq: tech-led selling | `research_source: websearch_fallback` | **Alpaca blocked Day 42**
+- SPY intraday: high $742.71, low $737.96 (well below May 14's ~$748+ actual close)
+- GOOG: high $399.10, low $392.73, current ~$389.78 (13.81M vol vs 17.92M avg = 77% of avg — below average)
+- Catalyst: Trump-Xi Geneva summit ended with **NO MAJOR DEALS**; tech stocks "starting to break down" per analysts; Powell last day (Warsh confirmed — orderly transition, no surprise)
+- XLK: −0.9% (top sector but down); XLC: −0.8%; XLU/XLF: most negative
+- Distribution day: **⚠️ POTENTIAL DIST DAY #5** — magnitude −1.1% (✅ above −0.2% threshold); volume UNCONFIRMED (Alpaca blocked). Must confirm volume at close.
+- Dist count: **4/25 confirmed + 1 pending** — IF May 15 close ≥−0.2% on elevated volume → 5/25 → STATE CHANGE TO UPTREND UNDER PRESSURE
+- Circuit breakers: all CLEAR (no positions; $0 P&L)
+- **Actions taken:** NONE — Alpaca blocked Day 42; no watchlist triggers; GOOGL below pivot zone on no volume; AVBO score fails
 
 **Thursday May 14 close (/eod-review):**
 - S&P 500: ~7,468 est. (+0.32% from ~7,444 May 13 close; new ATH) | Nasdaq: est. +0.82% | Dow: slightly negative (Cisco rally + oil WTI ~$107 US-Iran deal) | `research_source: websearch_fallback` | **Alpaca blocked day 40**

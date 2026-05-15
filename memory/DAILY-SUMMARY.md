@@ -1270,3 +1270,18 @@ Watchlist watching (🟡):
 Removed: NONE today
 Key catalyst: Powell LAST DAY (Warsh confirmed — orderly transition) | April IP 8:15 AM ET | US-China summit Day 2
 Plan: NO ENTRIES — Alpaca blocked Day 41 + end of week + Powell transition day + zero setups cleared all gates. Cash preservation correct.
+
+---
+## 2026-05-15 10:00 CT [clickup-placeholder]
+
+📈 Market-check 2026-05-15 10:00 AM CT
+Market: 🟢 Confirmed Uptrend Day 38 ⚠️ DIST DAY #5 RISK (S&P −1.1% intraday; Trump-Xi NO DEAL; vol unconfirmed — Alpaca blocked) | Circuit breakers: NONE
+DATA CORRECTION: May 14 actual S&P close = 7,501.24 (first-ever above 7,500; prior est. ~7,468 was −0.44% low)
+Actions taken:
+  No new entries — zero watchlist triggers; GOOGL below pivot zone on below-avg vol; AVGO score 67/100 fails; Alpaca blocked Day 42
+  sell-rules-engine: SKIPPED (0 open positions)
+Watchlist status: 0 ready, 1 watching (GOOGL 77/100 — demoted from WATCHING CLOSELY; price below pivot), 0 bench changes
+Open positions: 0 | ~100% cash | 0/3 weekly trades used
+⚠️ CRITICAL at /eod-review 3:15 PM: Confirm if May 15 = dist day #5 → if yes, STATE CHANGES TO UPTREND UNDER PRESSURE → no new longs; SH/SQQQ hedge $625 when Alpaca unblocks
+Alpaca API: ❌ BLOCKED Day 42 — execution impossible
+Next check: /eod-review 3:15 PM CT

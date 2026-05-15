@@ -4771,3 +4771,93 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 
 **research_source: websearch_fallback**
 `research_source: websearch_fallback` | Perplexity blocked | 0/3 weekly trades | 0 open positions
+
+---
+
+## 2026-05-15 (Fri) — /market-check (10:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 42; Perplexity: blocked; all data via WebSearch)
+**Market direction:** 🟢 Confirmed Uptrend Day 38 ⚠️ UNDER PRESSURE INTRADAY | potential dist day #5
+
+### Abort gates
+
+| Gate | Status |
+|---|---|
+| Market state | ✅ CLEAR — Confirmed Uptrend Day 38 (state not yet formally changed; intraday only) |
+| Research unavailable | ✅ CLEAR — websearch_fallback functional |
+| Daily circuit breaker (-3%) | ✅ CLEAR — 0 P&L (no positions) |
+| Weekly circuit breaker (-6%) | ✅ CLEAR — 0 week-to-date |
+| Drawdown halt (-12% HWM) | ✅ CLEAR — $0 drawdown |
+| Weekly trade count | ✅ CLEAR — 0/3 |
+| Position count | ✅ CLEAR — 0 open positions |
+| Cash buffer | ✅ CLEAR — ~100% cash |
+| **EXECUTION GATE** | ⛔ **BLOCKED — Alpaca API blocked Day 42 (403). No orders possible.** |
+
+### DATA CORRECTION — May 14 actual close
+
+| Index | Prior Estimate | Actual Close | Delta |
+|---|---|---|---|
+| S&P 500 | ~7,468 est. | **7,501.24** (new ATH — first above 7,500) | +0.44% underestimate |
+| SPY | ~$748 est. | **~$750.22 est.** (implied by S&P 500 ratio) | Upward revision |
+
+### Market intraday (10:00 AM CT / 11:00 AM ET)
+
+| Indicator | Level | Notes |
+|---|---|---|
+| S&P 500 | ~7,418 est. (−1.1% / −81 pts) | Down sharply from 7,501.24 ATH May 14 close |
+| SPY intraday | High $742.71 / Low $737.96 | Well below prior close |
+| Nasdaq / QQQ | Down ~1%+ (tech leading losses) | "Tech stocks starting to break down" — analysts |
+| XLK | −0.9% | Semis + tech under pressure |
+| XLC | −0.8% | GOOGL, META, NFLX selling |
+| XLU / XLF | Most negative | Defensive/financial rotation |
+| GOOG | ~$389.78 (range $392.73–$399.10) | 13.81M vol vs 17.92M avg (77%); BELOW avg; BELOW pivot zone |
+| AVGO | ~$430.40 (range $430.40–$432.50) | Above buy zone ceiling $427.09; score 67/100 fails |
+| Catalyst | Trump-Xi Geneva summit: **NO MAJOR DEALS** | Key negative — market had priced in tech/semi deal optimism |
+| Powell last day | Warsh confirmed | Orderly transition; low surprise risk |
+
+### ⚠️ DISTRIBUTION DAY #5 RISK
+
+| Factor | Assessment |
+|---|---|
+| Magnitude | −1.1% (✅ well above −0.2% threshold) |
+| Volume | ❌ UNCONFIRMED — Alpaca blocked; cannot compare to May 14 volume |
+| Catalyst quality | Strong: Trump-Xi no deal + tech breakdown narrative |
+| Data confidence | websearch_fallback — probability HIGH but not confirmed |
+
+**Action required:** `/eod-review` MUST confirm or deny. If dist day #5 confirmed:
+- State → 🟡 UPTREND UNDER PRESSURE
+- No new long entries until state recovers
+- Evaluate SH/SQQQ hedge: ~$625 position (25% of $2,500) when Alpaca unblocks
+- Tighten all open stops to 7% (currently 0 positions — protocol noted for when positions exist)
+
+### Watchlist trigger evaluation
+
+**Primary watchlist:** ZERO entries — nothing to evaluate.
+
+**GOOGL (W1 — WATCHING, 77/100):**
+- Pivot zone: ~$395–$400 est. | Current: ~$389.78 (GOOG proxy)
+- Price gate: ❌ FAILS — price BELOW pivot zone (−1.3% to −2.6% below $395–$400 est.)
+- Volume gate: ❌ FAILS — 13.81M vs 17.92M avg (77%; need ≥25.1M for +40% surge)
+- Base pattern: ❌ UNCONFIRMED — canslim-screener blocked; DOWN day = potential base damage
+- Alpaca: ❌ BLOCKED Day 42
+- **Result: NO TRIGGER.** Price falling away from pivot. Status downgraded: 🟡 WATCHING (from WATCHING CLOSELY)
+
+### Position health check (sell-rules-engine)
+
+**0 open positions → SKIPPED.**
+
+### Bench review
+
+| Symbol | Price (est.) | Status | Change |
+|---|---|---|---|
+| AVGO | ~$430.40 (range $430.40–$432.50) | Score 67/100 < 75 threshold; above buy zone ceiling $427.09 | NO CHANGE — score fails |
+| META | Still forming base | ~4+ more weeks | NO CHANGE |
+| MU | Climax top extended | DO NOT TOUCH | NO CHANGE |
+
+**No bench promotions. No bench demotions.** AVGO holding above buy zone despite market selloff — constructive relative strength but score gate still fails.
+
+### Result: NO ENTRIES — Alpaca API blocked Day 42 + market selling off + zero watchlist triggers.
+
+⚠️ KEY RISK GOING INTO /eod-review: If S&P closes ≥−0.2% today on elevated volume = DIST DAY #5 = STATE CHANGE. Monitor at 3:15 PM CT.
+
+`research_source: websearch_fallback` | Alpaca blocked Day 42 | 0 positions | 0/3 trades this week | Equity ~$2,500 (HWM)
