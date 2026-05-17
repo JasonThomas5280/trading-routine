@@ -44,6 +44,104 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ## Entries (appended chronologically)
 
+---
+
+## 2026-05-17 (Sun) — /weekly-prep (4:00 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 44; Perplexity: 403 blocked; Alpha Vantage: 403 blocked — ALL THREE PRIMARY SOURCES BLOCKED. 5th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | 5/25 distribution days | NO new long entries
+**Uptrend days:** N/A — Under Pressure state active since May 15
+
+### Data source status
+
+| Source | Status | Impact |
+|---|---|---|
+| Alpaca API | ❌ 403 "Host not in allowlist" — Day 44 | Cannot execute orders; cannot pull live bars/quotes/volume |
+| Alpha Vantage | ❌ 403 blocked (same IP allowlist issue) | Cannot pull EARNINGS, OVERVIEW, ETF_PROFILE |
+| Perplexity | ❌ 403 blocked | Cannot run N-letter research queries |
+| WebSearch | ✅ Available | All data sourced from here — elevated estimation error (±3-8% on prices, volume unconfirmed) |
+| build-universe.sh | ❌ Cannot run | Requires both Alpaca + Alpha Vantage |
+
+**Data degradation flag:** `all_primary_sources_blocked` — Scores based on websearch data should carry ±5-8pt uncertainty on technical letters (S, L, base pattern). Fundamental letters (C, A) more reliable from websearch.
+
+### Market data pulled (websearch_fallback)
+
+| Metric | Value | Source confidence |
+|---|---|---|
+| SPY close (May 15) | $739.17 | High (confirmed via multiple searches) |
+| SPY 50-day SMA | $688.48 | High (Barchart/AltIndex confirmed) |
+| SPY 200-day SMA | $672.78 | High |
+| SPY vs 50d MA | +7.3% | Computed |
+| SPY vs 200d MA | +9.9% | Computed |
+| QQQ close (May 15) | $709.96 | High (from eod-review May 15) |
+| QQQ 50-day SMA | $637.70 | Medium (AltIndex/Barchart estimates) |
+| QQQ 200-day SMA | $618.40 | Medium |
+| Distribution days | 5/25 | High (confirmed from eod-review May 15) |
+| Most recent FTD | Apr 8, 2026 | High |
+| NVDA price (May 15) | $225.32 | High |
+| NVDA ATH | $235.74 (May 14) | High |
+| GOOGL price (May 15) | ~$390-402 | Medium (range) |
+| VRT price (May 15) | $370.94 | High |
+| GS price (May 15) | $948.47 | High |
+| AVGO price (May 17) | $422-439 | Medium |
+
+### Sector 4-week RS ranking (Apr 17 → May 15)
+
+| Rank | Sector | ETF | Est. 4-wk Return | RRG Status | New entries? |
+|---|---|---|---|---|---|
+| 1 | Communication Services | XLC | ~+12-15% | Approaching leading | YES (when market recovers) |
+| 2 | Industrials | XLI | ~+8-12% | Leading quadrant | YES (when market recovers) |
+| 3 | Energy | XLE | ~+5-8% | Neutral-to-improving | YES (when market recovers) |
+| 4 | Technology | XLK | ~+6-9% | Lagging quadrant ⚠️ | **BLACKOUT — sector momentum fail** |
+| 5 | Financials | XLF | ~+4-6% | Weakening | Watch only |
+| Bottom 3 | XLP, XLU, XLRE | — | Negative to flat | — | Avoid |
+
+**Key sector change from prior week:** XLK drops from #1 to #4. May 15 selloff (Intel −6%, AMD −5.7%, MU −6.6%, NVDA −4.4%) was the confirmation of the RRG lagging signal we've had since May 10. XLC moves to #1 on GOOGL +22%+ 30-day strength. XLE enters top-3 on oil/energy fundamentals (Iran risk, supply discipline).
+
+### Universe scan stats
+
+| Stage | Count | Notes |
+|---|---|---|
+| Initial seed (top-3 ETF constituents) | N/A | build-universe.sh blocked (Alpaca + AV both down) |
+| Targeted WebSearch scan | 8 names | GOOGL, AVGO, NVDA, VRT, META, AMD, GS, PWR |
+| Pre-filtered (price ceiling >$500) | -1 | GS ($948 — disqualified) |
+| Pre-filtered (earnings blackout ≤5d) | -1 | NVDA (May 20 AH earnings) |
+| Remaining scored | 6 | GOOGL, AVGO, VRT, META, AMD, PWR |
+| Passed conviction ≥75 | **1** | GOOGL (77/100) |
+| Passed all entry gates | **0** | Market Under Pressure blocks all longs |
+| Bench (pipeline candidates) | 4 | NVDA (post-blackout), VRT, AVGO, META |
+
+### Rejection breakdown
+
+| Symbol | Score | Primary rejection reason | Secondary reason |
+|---|---|---|---|
+| GS | N/A | Price ceiling: $948 > $500 | N/A |
+| NVDA | Blackout | Earnings blackout May 13-20 | Re-score May 21 |
+| AVGO | 63/100 ❌ | Conviction below threshold | XLK sector blackout |
+| META | ~45-55/100 ❌ | No valid base + conviction below threshold | Large float |
+| AMD | 66/100 ❌ | A-letter: GAAP FY2023 EPS −36.9% | No base post-earnings gap |
+| PWR | ~55-60/100 ❌ | A-letter: annual EPS growth 17.3% < 25% | — |
+| VRT | est. 55-75/100 ⚠️ | Insufficient GAAP data (A-letter unconfirmed) | No valid base |
+| GOOGL | 77/100 ✅ | Market state (Under Pressure) | Base:0 (forming) |
+
+### Key catalysts to watch for recovery signal
+
+- **NVDA May 20 AH**: Best single shot at FTD this week. Beat = potential market recovery.
+- **H200 China clearance**: If confirmed on NVDA call, restores China revenue thesis → score could reach 82-90/100.
+- **FOMC minutes May 20**: Dovish tilt = growth stock tailwind.
+- **VRT formal score**: Needed when data sources restore. Could be 72-80/100 if A-letter passes.
+- **GOOGL base watch**: Needs 3-5 more weeks of consolidation at $387-405. Target pivot: $403-405.
+
+### ClickUp summary
+
+Sent via `bash scripts/clickup.sh message` — output routed to `memory/DAILY-SUMMARY.md` (placeholder mode: CLICKUP_CHANNEL_ID unset).
+
+### Process gap note
+
+**RESOLVED:** Per WEEKLY-REVIEW May 15 lesson, RESEARCH-LOG.md was not updated for May 11-15 sessions. This entry fills the gap for the Sunday /weekly-prep. Pre-market entries must be appended at every session going forward, even in research-only mode.
+
+---
+
 ## 2026-05-05 (Tue) — /pre-market (6:00 AM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — day 26; Perplexity: 403 blocked; Alpha Vantage: blocked; all data via native WebSearch)

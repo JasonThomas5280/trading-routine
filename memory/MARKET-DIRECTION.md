@@ -8,8 +8,34 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-15 (Fri) — `/eod-review` 3:15 PM CT
-**⚠️ STATE CHANGE TODAY:** 🟢 Confirmed Uptrend (Day 38) → 🟡 Uptrend Under Pressure | Trigger: Distribution Day #5 confirmed at close
+**Last updated:** 2026-05-17 (Sun) — `/weekly-prep` 4:00 PM CT
+**⚠️ STATE REMAINS:** 🟡 Uptrend Under Pressure | No change from May 15 /eod-review | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (pending Alpaca restore)
+**SPY (May 15 close):** $739.17 | 50-day SMA: **$688.48** (+7.3% above) | 200-day SMA: **$672.78** (+9.9% above) — NOT in Correction territory
+**QQQ (May 15 close):** $709.96 | 50-day SMA: **$637.70** (+11.3% above) | 200-day SMA: **$618.40** (+14.8% above)
+**Distribution days (last 25 sessions):** **5/25** (Apr 23, Apr 28, May 4, May 7, May 15) | ⚠️ ONE MORE = 🔴 Market in Correction
+**Most recent FTD:** 2026-04-08 (Day 40+ — aging; uptrend base weakening)
+**Recovery path:** NVDA earnings May 20 AH + FOMC minutes May 20 = primary binary catalyst. Strong NVDA beat + H200 China clearance confirmed → potential FTD Day 4-7 of rally attempt (est. May 21-22). Fails → dist day #6 → Correction.
+**⚠️ NVDA H200 CHINA CLEARANCE:** May 15 headlines report H200 chips cleared for China export (likely as part of Trump-Xi summit trade framework). Contradicts May 5 CEO "China = zero" disclosure. Must confirm via NVDA May 20 earnings call. If confirmed → NVDA score could jump to 82-90/100 post-blackout. Monitor closely.
+**Sector rankings (4-week RS, Apr 17 → May 15) — UPDATED:**
+1. 🥇 **XLC (Communication Services)** — GOOGL +22%+ in 30 days, META AI theme, Cloud +63%. New #1 (was #2)
+2. 🥈 **XLI (Industrials)** — RRG "Leading" quadrant; VRT +30% Q1 revenue; power/AI infra dominant. #2 (was #3)
+3. 🥉 **XLE (Energy)** — Oil $100-107 (Iran/Hormuz + US-Iran deal friction); supply discipline; XOM FCF. New #3 (replaces XLK)
+4. ⚠️ **XLK (Technology)** — Demoted to #4 (was #1). RRG "Lagging" quadrant confirmed; May 15 worst sector day (-2.6%); 5 consecutive weeks of `sector_momentum_warning`. **XLK blackout for new entries until confirmed leading quadrant recovery.**
+5. XLF (Financials) — stable; GS $948/share (price disqualified); Q1 ROE 19.8%
+**Bottom 3:** XLP, XLU, XLRE — avoid
+**Week ahead (May 18-22) — KEY CATALYSTS:**
+- **⚠️ NVDA earnings Wed May 20 AH** — $78-79B revenue expected ($1.78 EPS). H200 China clearance + Blackwell ramp. Binary event. Do NOT trade into it.
+- **FOMC minutes Wed May 20** — Rate path signals. Dovish lean = positive for growth valuations.
+- **Home Depot (HD) Tue May 19** — Housing/construction proxy. Consumer spending signal.
+- **Walmart (WMT) Thu May 21** — Consumer health ($400B revenue co.). AI inventory thesis.
+- **U of Michigan Sentiment Fri May 22** — Consumer confidence trend.
+**⚠️ ALPACA API BLOCKED — Day 44 consecutive** (/weekly-prep May 17). 403 "Host not in allowlist." All execution impossible. All live price/volume checks impossible. Research-only mode.
+`research_source: websearch_fallback` | Perplexity: 403 blocked | Alpha Vantage: 403 blocked
+
+---
+
+**[PRIOR STATUS — 2026-05-15 (Fri) /eod-review]**
+**⚠️ STATE CHANGE:** 🟢 Confirmed Uptrend (Day 38) → 🟡 Uptrend Under Pressure | Trigger: Distribution Day #5 confirmed at close
 **Rules now active:** NO new long entries | Reduce exposure on weakness | Evaluate SH/SQQQ hedge ~$625 (25% of $2,500) when Alpaca unblocks
 **Distribution days (last 25 sessions):** 5 confirmed (Apr 23, Apr 28, May 4, May 7, May 15) ⚠️ AT 5/25 THRESHOLD — 1 more = "Market in Correction"
 **May 15 pre-market:** ES futures 7,521.75 (~+0.7% vs ~7,468 May 14 close); NQ futures 29,750.75 (~+0.6%); Dow futures 50,109. Broadly flat after ATHs. Powell last day (Warsh confirmed — orderly transition). April Industrial Production data at 8:15 AM ET (not a hard entry gate; consensus +0.3% MoM). `research_source: websearch_fallback` | Alpaca blocked Day 41.

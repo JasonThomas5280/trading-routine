@@ -1365,3 +1365,34 @@ Tomorrow (Mon May 18):
 - Watch for dist day #6 (= Market in Correction) or follow-through day (= recovery)
 - Book: 0 positions, $2,500 cash (HWM), all trade slots frozen
 - Emotional state: DISCIPLINED. Cash IS the position.
+
+---
+## 2026-05-17 21:14 CT [clickup-placeholder]
+
+📋 Week prep 2026-05-17
+Market: 🟡 UPTREND UNDER PRESSURE (Dist: 5/25, SPY vs 50MA: +7.3%, vs 200MA: +9.9%)
+⚠️ NO NEW LONG ENTRIES until market recovers | Hedge: SH/SQQQ 25 queued (Alpaca Day 44 blocked)
+
+Top sectors (4-wk trailing RS):
+1. XLC Communication (+12-15%) — GOOGL +22%+ in 30d
+2. XLI Industrials (+8-12%) — RRG leading; AI power infra (VRT)
+3. XLE Energy (+5-8%) — oil 00-107; supply discipline
+⚠️ XLK demoted to #4 — sector blackout for new entries
+
+Watchlist primary (score ≥75, entry gated):
+1. $GOOGL (77/100) — base FORMING at $387-405; pivot ~$403-405 when complete; entry needs FTD + base + Alpaca
+
+Bench (pipeline):
+$NVDA (blackout → re-score May 21; H200 China clearance = potential 80-90/100)
+$VRT (new; est. 55-75/100; AI power infra XLI leader; needs formal score)
+$AVGO (63/100 ❌; June 3 earnings; XLK blackout)
+$META (base forming; re-score June 7)
+
+Calendar risks:
+⚠️ NVDA earnings Wed May 20 AH — $79B rev expected — BINARY market catalyst
+FOMC minutes Wed May 20
+HD Tue May 19 | WMT Thu May 21 | U of Mich Sentiment Fri May 22
+
+Entry plan Mon: NONE (Under Pressure). Watch NVDA for FTD setup May 21.
+Hedge plan: 1st order on Alpaca restore = SH at $625 (25% portfolio)
+research_source: websearch_fallback | Alpaca Day 44 | AV blocked | Perplexity blocked
