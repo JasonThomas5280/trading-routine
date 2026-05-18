@@ -5206,3 +5206,36 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 Key watch: Does Monday session CLOSE as a non-distribution day (near-flat/up)? Confirming dist count holds at 5/25.
 NVDA blackout: no action until May 21 /pre-market post-earnings re-score.
 
+
+---
+
+## 2026-05-18 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: ❌ 403 blocked Day 46 | Perplexity: ❌ 403 | Alpha Vantage: ❌ 403)
+**Market direction:** 🟡 Uptrend Under Pressure — UNCHANGED | 5/25 dist days + potential #6 UNCONFIRMED
+
+**Close:** SPY ~$737 est. (−0.29%) | QQQ ~$702.72 est. (−1.02%) | S&P 500 ~7,386 est. (−0.30%) | Nasdaq ~26,083 est. (−0.54%) | Dow +0.19%
+**Distribution days:** 5/25 confirmed + POTENTIAL #6 today (magnitude −0.30% ✅; volume UNCONFIRMED — Alpaca Day 46 blocked)
+**Market state:** 🟡 Uptrend Under Pressure (no state change; cannot confirm dist day #6 without volume)
+**⚠️ Rally attempt status:** Day 1 = May 15 (SPY low $737.96) — AT RISK OF RESET. SPY est. close ~$737 ≈ May 15 low. Intraday today likely undercut (opened −1%+). Confirm at /pre-market May 19: if SPY close < $737.96 confirmed → new Day 1 = May 18; FTD window shifts May 22–27.
+**Positions held:** 0
+**Actions today:**
+  - NONE — 0 positions; sell-rules-engine SKIPPED; Alpaca blocked Day 46; market Under Pressure (no long entries)
+  - Hedge SH/SQQQ $625 (25% portfolio) remains queued — cannot execute until Alpaca restored
+**Circuit breakers:** NONE — all clear ($0 P&L, 0 positions)
+**P&L today:** $0 (0%)
+**P&L week:** $0 (0%)
+**Equity:** ~$2,500 est. (no deployed capital; paper account)
+
+**Key catalysts today:**
+- Iran: Trump "won't be anything left" — peace talks stalled; Brent oil ~$108; 10yr yield >4.60%
+- Semis continued Friday weakness; XLC + Financials led; Tech lagged
+- NVDA earnings update (material): H200 China clearance constrained (15% revenue-share, no material revenue yet); $4.5B H20 writedown; ~$8B H20 Q2 loss expected. FTD catalyst from NVDA WEAKENED.
+
+**Tomorrow's watch (May 19):**
+- HD earnings AM ($3.41 EPS / $41.5B rev est.) — consumer proxy; slight YoY decline expected
+- NVDA blackout continues (earnings May 20 AH)
+- Confirm May 18 volume: if SPY vol > 41.9M → dist day #6 → STATE CHANGE TO 🔴 CORRECTION
+- Confirm rally attempt reset: if SPY May 18 close confirmed < $737.96 → reset to Day 1 = May 18
+- SH hedge: FIRST order when Alpaca unblocks (still highest priority)
+- WMT earnings Thu May 21; FOMC minutes Wed May 20

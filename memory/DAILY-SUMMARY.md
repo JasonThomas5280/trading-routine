@@ -1424,3 +1424,20 @@ Watchlist: 0 ready | 2 watching (GOOGL base wk3, VRT no formal score) | 2 blocke
 Open positions: 0 (0% deployed) | Weekly trades: 0/3
 Key watch: NVDA earnings Wed May 20 AH (FTD vs Correction binary) | HD earnings Tue May 19 AM
 Next: /eod-review 3:15 PM CT
+
+---
+## 2026-05-18 20:21 CT [clickup-placeholder]
+
+📊 EOD 2026-05-18 | Equity ~$2,500 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 5/25 confirmed + ⚠️ POTENTIAL #6 UNCONFIRMED (volume blocked — Alpaca Day 46)
+Market: 🟡 Uptrend Under Pressure (NO state change; #6 requires volume confirmation)
+⚠️ Rally attempt: AT RISK of reset — SPY ~$737 est. ≈ May 15 low $737.96; likely undercut intraday
+
+Actions today:
+  • NONE — 0 positions; market gated; Alpaca blocked Day 46
+  • Hedge SH $625 / 25% still queued (first order on Alpaca restore)
+
+NVDA update (material): H200 China constrained; $4.5B writedown; ~$8B Q2 rev loss. FTD thesis WEAKENED.
+
+Tomorrow: HD earnings AM (consumer proxy) | Confirm dist day #6 volume | Confirm rally attempt reset | NVDA blackout through May 20 AH

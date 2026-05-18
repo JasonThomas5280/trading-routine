@@ -8,7 +8,7 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-18 (Mon) — `/pre-market` 6:00 AM CT
+**Last updated:** 2026-05-18 (Mon) — `/eod-review` 3:15 PM CT
 **⚠️ OVERNIGHT CATALYST — MOODY'S DOWNGRADE:** Moody's downgraded US sovereign debt AAA → Aa1 (Fitch already did in 2023; Moody's is the last of the big 3). Cited rising debt + interest costs. S&P initially fell >1% then recovered to +0.09% by Monday close; Dow +0.32%; Nasdaq +0.02%. 10yr yield spiked above 4.5%. Market largely shrugged off the downgrade — no dist day #6 confirmed (UP day recovery to near flat = NOT a distribution day). QQQ pre-market early: $700.08 (−1.39% from $709.96 Fri close) — but recovered by session end.
 **⚠️ STATE REMAINS:** 🟡 Uptrend Under Pressure | No change | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (pending Alpaca restore)
 **Rally attempt tracking:** Day 1 = May 15 (low $737.96 SPY); FTD window = Days 4-7 = May 20-25. NVDA earnings May 20 AH is primary FTD catalyst.
@@ -34,6 +34,18 @@
 - **U of Michigan Sentiment Fri May 22** — Consumer confidence trend.
 **⚠️ ALPACA API BLOCKED — Day 44 consecutive** (/weekly-prep May 17). 403 "Host not in allowlist." All execution impossible. All live price/volume checks impossible. Research-only mode.
 `research_source: websearch_fallback` | Perplexity: 403 blocked | Alpha Vantage: 403 blocked
+
+**Monday May 18 close (/eod-review, 3:15 PM CT):**
+- S&P 500: ~7,386 est. (−0.30% from 7,408.50 May 15 close; "just under 7,400" per StoneX/multiple sources) | Nasdaq: ~26,083 est. (−0.54%) | Dow: ~+96 pts (+0.19%) | `research_source: websearch_fallback` | **Alpaca blocked Day 46**
+- SPY est. close: ~$737 (−0.29%) | QQQ est. close: ~$702.72 (−1.02%; range today $699.62–$712.07)
+- Drivers: Iran conflict escalating (Trump "won't be anything left"; peace talks stalled); 10yr yield above 4.60% (highest in a year); oil Brent ~$108; semis continuing Friday weakness; XLC + Financials led; Tech lagged
+- **Distribution day check:** Magnitude: ~−0.30% ✅ (exceeds −0.20% threshold) | Volume vs May 15's 41.9M: ⚠️ UNCONFIRMED (Alpaca blocked Day 46). High-volatility intraday range (opened −1%+ on Moody's downgrade, recovered, faded into close) suggests elevated volume — but CANNOT CONFIRM.
+- **Verdict: POTENTIAL dist day #6 — volume UNCONFIRMED.** State unchanged at 🟡 Under Pressure. If confirmed at /pre-market May 19 → dist count 6/25 → 🔴 **STATE CHANGE TO MARKET IN CORRECTION.**
+- **⚠️ Rally attempt status:** Day 1 (May 15 low $737.96 SPY) MAY BE UNDERCUT. SPY est. close ~$737 ≈ May 15 intraday low $737.96. Intraday low today likely ~$730-$733 (opened −1%+). If confirmed undercut → rally attempt RESET; new Day 1 = May 18; FTD window shifts to May 22-27.
+- **NVDA earnings update (material change):** H200 China "clearance" is constrained — 15% US revenue-share, no material revenue yet; $4.5B H20 inventory writedown; ~$8B H20 revenue loss expected Q2. Earnings expected: $1.74 EPS / $78.76B revenue. Beat probability REDUCED vs pre-market thesis. FTD catalyst from NVDA is weakened.
+- 0 open positions → sell-rules-engine SKIPPED
+- Hedge: SH/SQQQ $625 still queued — Alpaca Day 46 blocked; cannot execute
+- Circuit breakers: ALL CLEAR ($0 P&L; 0 positions) | Equity est. $2,500
 
 ---
 
