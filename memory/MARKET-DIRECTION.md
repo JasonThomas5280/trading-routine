@@ -8,8 +8,11 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-17 (Sun) — `/weekly-prep` 4:00 PM CT
-**⚠️ STATE REMAINS:** 🟡 Uptrend Under Pressure | No change from May 15 /eod-review | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (pending Alpaca restore)
+**Last updated:** 2026-05-18 (Mon) — `/pre-market` 6:00 AM CT
+**⚠️ OVERNIGHT CATALYST — MOODY'S DOWNGRADE:** Moody's downgraded US sovereign debt AAA → Aa1 (Fitch already did in 2023; Moody's is the last of the big 3). Cited rising debt + interest costs. S&P initially fell >1% then recovered to +0.09% by Monday close; Dow +0.32%; Nasdaq +0.02%. 10yr yield spiked above 4.5%. Market largely shrugged off the downgrade — no dist day #6 confirmed (UP day recovery to near flat = NOT a distribution day). QQQ pre-market early: $700.08 (−1.39% from $709.96 Fri close) — but recovered by session end.
+**⚠️ STATE REMAINS:** 🟡 Uptrend Under Pressure | No change | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (pending Alpaca restore)
+**Rally attempt tracking:** Day 1 = May 15 (low $737.96 SPY); FTD window = Days 4-7 = May 20-25. NVDA earnings May 20 AH is primary FTD catalyst.
+**Alpaca API — Day 45** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
 **SPY (May 15 close):** $739.17 | 50-day SMA: **$688.48** (+7.3% above) | 200-day SMA: **$672.78** (+9.9% above) — NOT in Correction territory
 **QQQ (May 15 close):** $709.96 | 50-day SMA: **$637.70** (+11.3% above) | 200-day SMA: **$618.40** (+14.8% above)
 **Distribution days (last 25 sessions):** **5/25** (Apr 23, Apr 28, May 4, May 7, May 15) | ⚠️ ONE MORE = 🔴 Market in Correction

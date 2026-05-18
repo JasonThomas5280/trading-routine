@@ -5038,3 +5038,96 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 4. **Distribution day vigilance:** 5/25 — one more = Correction. Watch Monday's volume closely. If down ≥0.2% on elevated volume → state change to Correction → sell weakest positions (none currently), go full hedge.
 5. **GOOGL, AVBO** — re-evaluate if APIs restore; Under Pressure state blocks entry regardless.
 6. **Follow-through watch:** If market rallies back strongly from today's selloff, watch for FTD (4–7 days into rally attempt, +1.25% on volume). Today (May 15) could be Rally Attempt Day 1 if it was a meaningful low.
+
+---
+
+## 2026-05-18 — /pre-market
+
+**Research source:** websearch_fallback (Alpaca: 403 Day 45 | Perplexity: 403 | Alpha Vantage: 403)
+**Market direction:** 🟡 Uptrend Under Pressure (5/25 dist days) — NO new long entries
+**Sector leaders (top 3):** XLC (Communication Services), XLI (Industrials), XLE (Energy)
+**Sector laggards:** XLP, XLU, XLRE | XLK blackout (lagging quadrant)
+
+### Overnight catalyst: Moody's US sovereign downgrade
+
+- **MOODY'S AAA → Aa1**: Moody's became the last major rating agency to strip US of AAA rating (Fitch did it in 2023). Cited rising debt + interest cost trajectory. Market initially sold off >1% Monday but recovered; S&P ended +0.09%, Dow +0.32%, Nasdaq +0.02%. NOT a distribution day (up close = cannot be dist). Dist count remains 5/25.
+- **10yr Treasury yield:** Spiked but had already been at 4.573% (May 15); downgrade reinforces elevated yield environment. No surprise shock.
+- **QQQ pre-market early reading:** $700.08 (−1.39% from $709.96 Fri close) — recovered during session.
+- **No major economic data today (May 18).** HD earnings tomorrow (Tue May 19 AM) is next scheduled catalyst.
+- **NQ overnight Asia:** Tight range 29,222–29,403 (above Friday's range = accumulation pattern). Constructive.
+
+### Gap check — open positions
+
+**No open positions. Skip.**
+
+### Catalyst scan — open positions
+
+**No open positions. Skip.**
+
+### Catalyst scan — primary watchlist
+
+**GOOGL (W1 — 77/100):**
+- Pre-market Blue Ocean ATS: ~$393.52 (−0.82%). May 18 session: High $399.83 / Low $392.79 / Close est. $395.21.
+- Volume: ~20.31M vs 25.37M avg (80% of avg = below average; base building constructive).
+- No GOOGL-specific negative catalyst. Moody's = macro headwind only.
+- POSITIVE: Berkshire Hathaway (Buffett) reportedly increased stake in Alphabet (I-letter improving).
+- Base status: Flat base week 3 of estimated 3-5 total. Price range ~$387-403 confirming. Needs pivot breakout at $403-405 on volume ≥+40% above avg.
+- Distance from pivot: −2.0% to −2.5% (~$395 vs $404 pivot est.). Would classify 🟡 WATCHING if base were complete.
+- Entry gate: CLOSED (Under Pressure + base incomplete). No action.
+- Antitrust: USA TODAY lawsuit + UK display ad case + EU proceedings ongoing. No new escalation.
+
+**NVDA (B1 — EARNINGS BLACKOUT through May 20 AH):**
+- Consensus: $78B revenue / $1.77 EPS / Data Center ~$73B. Some sell-side desks model $79-80B+.
+- Q2 guide consensus: ~$86B — must beat or reads as deceleration.
+- H200 China: Commerce Dept approved 10 Chinese companies (Alibaba, Tencent, ByteDance, JD.com etc.) for up to 750K H200 chips = potential $26B revenue upside. HOWEVER: actual deliveries = 0 to date. Street treating China revenue = zero until Jensen confirms real shipment timing in dollars on the May 20 call.
+- Key metrics for May 20 call: Q1 revenue vs $78B, Q2 guide vs $86B, gross margin, China shipment timeline.
+- Binary event: Beat + H200 China guide confirmed + Q2 ≥$86B → potential FTD trigger May 21 (Day 5 of rally attempt). Any miss or soft Q2 guide → dist day #6 → Correction.
+- Re-score: /pre-market May 21. BLACKOUT continues today and tomorrow.
+
+**VRT (B2 — est. 55-75/100, needs formal score):**
+- Multiple analyst upgrades in May: RBC Capital $435 (from $356), BofA $440 (from $370), Barclays $412 (from $345), Citi $414 street-high.
+- Q1 2026: Revenue $2.65B (+30% YoY), Americas +53%, adj. EPS $1.17 (+83% YoY). Beats consensus.
+- Price: $370.94 (unchanged). YTD +127%. Earnings: July 29 (73 days out — safe).
+- Analyst upgrades reinforce thesis; institutional interest clearly increasing (I-letter positive).
+- No negative catalysts. XLI sector #2 (RRG leading).
+- Needs formal canslim-screener when Alpaca + AV restore. FY2023 GAAP clarity is the key A-letter unknown.
+- Status: No change. Watching.
+
+**AVGO (B3 — 63/100, XLK blackout):** No scan needed. Dual block: score gate + XLK sector blackout. Earnings June 3 (safe). Re-evaluate when XLK recovers to top-3 AND GAAP data confirms.
+
+**META (B4 — est. 45-55/100):** Base forming. Re-score June 7. No scan needed.
+
+### Market overnight check
+
+- ES/NQ: Friday session was −1.26% ES / −1.56% NQ. Overnight Asia NQ tight range (accumulation pattern).
+- QQQ pre-market: $700.08 (−1.39% from $709.96 Fri close). Recovered during Monday session.
+- Moody's downgrade the key overnight event. 10yr yield above 4.5% (already 4.573% Fri).
+- Week calendar: HD Tue May 19 AM | NVDA+FOMC mins Wed May 20 AH | WMT Thu May 21 AM | UMich Sentiment Fri May 22.
+- No distribution day today (Monday ended near flat = up close, cannot be dist day). Dist count remains 5/25.
+- Rally attempt: Day 1 = May 15 (SPY low $737.96). FTD window: Days 4-7 = May 20-25. NVDA May 21 gap-up = primary FTD candidate.
+
+### Buy-zone readiness (May 18 — Alpaca blocked, using WebSearch data)
+
+| Symbol | Est. Price | Pivot | Distance | Vol vs Avg | Status |
+|---|---|---|---|---|---|
+| GOOGL | ~$395 | ~$404 | −2.3% | ~80% avg | 🟡 WATCHING (entry gated) |
+| NVDA | N/A (blackout) | TBD post-earnings | — | — | ⛔ BLACKOUT |
+| VRT | $370.94 | needs formal score | — | — | 🟡 WATCHING (no formal score) |
+
+### Circuit breaker check
+
+**Alpaca blocked — cannot pull live account data.** Using known state:
+- No open positions → $0 daily P&L → daily −3% circuit breaker: ✅ CLEAR
+- Weekly P&L: $0 (new week started May 18) → weekly −6% circuit breaker: ✅ CLEAR
+- Account HWM: $2,500 est. → drawdown −12% circuit breaker: ✅ CLEAR
+- PDT count: 0 of 3 (new week, reset) → PDT gate: ✅ CLEAR
+- **NO CIRCUIT BREAKERS ACTIVE**
+
+### Action items for /market-check (10:00 AM CT)
+
+1. Verify Monday closes as non-distribution (up close = clear; if somehow reversal → dist #6 = Correction declared)
+2. Watch HD pre-earnings reports tonight (Tue May 19 AM) — consumer spending proxy
+3. If Alpaca unblocks: FIRST order = SH ~$625 (25% portfolio, Under Pressure hedge protocol)
+4. NVDA blackout continues — no action on NVDA today or tomorrow
+5. GOOGL: no entry. Monitor base progression. Pivot $403-405 breakout needed.
+

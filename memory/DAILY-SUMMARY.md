@@ -1396,3 +1396,19 @@ HD Tue May 19 | WMT Thu May 21 | U of Mich Sentiment Fri May 22
 Entry plan Mon: NONE (Under Pressure). Watch NVDA for FTD setup May 21.
 Hedge plan: 1st order on Alpaca restore = SH at $625 (25% portfolio)
 research_source: websearch_fallback | Alpaca Day 44 | AV blocked | Perplexity blocked
+
+---
+
+🌅 Pre-market 2026-05-18
+Market: 🟡 Under Pressure (5/25 dist days) | Futures: QQQ pre-mkt $700.08 (−1.39% vs Fri); ES/NQ recovered; Monday closed near flat
+Open positions: 0 | Circuit breakers: NONE ACTIVE
+Overnight event: ⚠️ MOODY'S DOWNGRADED US AAA → Aa1 (macro headwind; market shrugged off — Monday ended +0.09% S&P / NOT a dist day; 5/25 unchanged)
+Overnight gaps: none (0 open positions)
+Watchlist ready: NONE (entry gate CLOSED — Under Pressure)
+Watchlist watching: 🟡 GOOGL ~$395 (−2.3% from $404 pivot; base wk 3; incomplete) | 🟡 VRT $370.94 (analyst upgrades; no formal score yet)
+Removed: none
+Key catalyst today: None (HD earnings Tue May 19 AM is next)
+Key this week: ⚠️ NVDA earnings Wed May 20 AH — beat+China guide = potential FTD May 21; miss = dist #6 = Correction
+Plan: NO entries — Under Pressure state active. Hedge SH ~$625 queued (Alpaca Day 45 still blocked). NVDA blackout through May 20 AH. Watch dist day #6 vigilance.
+research_source: websearch_fallback | Alpaca: 403 Day 45 | Perplexity: 403 | AV: 403
+

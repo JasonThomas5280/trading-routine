@@ -8,6 +8,13 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## Week of 2026-05-18 to 2026-05-22
 
+**Pre-market refresh:** 2026-05-18 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 45 | Perplexity 403 | AV 403)
+**Overnight catalyst:** Moody's US downgrade AAA→Aa1. Market opened -1%+ then recovered to near flat. NOT a dist day (UP day). Dist count unchanged 5/25. QQQ pre-market: $700.08 (−1.39%). FTD rally attempt tracking: Day 1 = May 15, FTD window May 20-25.
+**Buy-zone updates (pre-market May 18):**
+- GOOGL: est. pre-market ~$393-395. Distance from $403-405 pivot: ~−2.0% to −2.5%. Base wk 3 of 3-5. Volume May 18: ~20M vs 25M avg = constructive (below avg). **No GOOGL-specific catalyst.** Berkshire increased GOOGL stake (I-letter positive). Status: 🟡 WATCHING (unchanged — entry gated by Under Pressure + incomplete base).
+- NVDA: EARNINGS BLACKOUT through May 20 AH. H200 China: 10 companies approved (Alibaba, Tencent, ByteDance, JD.com) for 750K chips = potential $26B revenue. Deliveries still at zero. Key May 20 metrics: Q1 revenue vs $78B consensus, Q2 guide vs $86B consensus, gross margin, China shipment timing. Re-score May 21.
+- VRT: Analyst upgrades in May: RBC $435, BofA $440, Barclays $412, Citi $414 (street-high). No negative catalysts. AI data center thesis intact and strengthening. Price unchanged $370.94. Needs formal score on Alpaca/AV restore. **Status: Positive momentum on thesis.**
+
 **Built:** 2026-05-17 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: 403 Day 44, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via native WebSearch)
 
 **Market direction:** 🟡 Uptrend Under Pressure (5/25 dist days) | **NO NEW LONG ENTRIES**

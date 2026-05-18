@@ -52,6 +52,7 @@ For SELL entries, additionally log:
 
 ## Weekly Trade Count (rolling)
 
+**Week of 2026-05-18:** 0 new positions opened so far (max 3/week) | Market: Under Pressure — NO new long entries | Alpaca Day 45 blocked | Hedge SH $625 queued
 **Week of 2026-05-11:** 0 new positions opened (max 3/week) ← WEEK CLOSED (reset Mon May 11; Alpaca blocked all week Day 43 by Fri /eod-review; zero tradeable setups; 0/3 trades used; market state changed to Uptrend Under Pressure on final day)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)
 **Week of 2026-04-28:** 0 new positions opened (max 3/week) — CLOSED Fri May 1 (Alpaca API blocked entire week; 0/3 used)
