@@ -5131,3 +5131,78 @@ MU intraday: $806.14 (range $779.47–$815.19), +5.33% today, volume 23.53M vs A
 4. NVDA blackout continues — no action on NVDA today or tomorrow
 5. GOOGL: no entry. Monitor base progression. Pivot $403-405 breakout needed.
 
+---
+
+## /market-check — 2026-05-18 10:00 AM CT
+
+`research_source: websearch_fallback` | Alpaca: ❌ BLOCKED Day 45 (403) | Perplexity: 403 | AV: 403
+
+### Abort gate summary
+
+| Gate | Result |
+|---|---|
+| Market state | ❌ HIT — 🟡 Uptrend Under Pressure (5/25 dist days) → NO new long entries |
+| Research DEGRADED | ✅ Clear — websearch_fallback functional |
+| Daily CB -3% | ✅ Clear — $0 P&L, 0 positions |
+| Weekly CB -6% | ✅ Clear — 0/3 trades used |
+| Drawdown -12% | ✅ Clear — no deployed capital |
+| Weekly trade count | ✅ Clear — 0/3 |
+| Position count | ✅ Clear — 0/4 |
+| Cash buffer | ✅ Clear — 100% cash |
+
+**Gate 1 triggered. Skipped all long-entry evaluation.**
+
+### Intraday market conditions (10:00 AM CT, websearch_fallback)
+
+- S&P 500: ~7,406 (−0.03%) | Nasdaq: ~26,129 (−0.37%) | Dow: +0.25%
+- Monday May 18: Opened −1%+ on Moody's downgrade, recovered to near flat (no dist day #6)
+- Dist count: 5/25 UNCHANGED — UP day, cannot be distribution
+- Rally attempt: Day 2 of 7 (Day 1 = May 15). FTD window opens May 20 (Day 4).
+- SPY: above 50d MA (~$688) by ~+7.3% — NOT in Correction territory
+
+### Watchlist evaluation (all gated by Under Pressure — no trigger checks needed)
+
+| Symbol | Status | Notes |
+|---|---|---|
+| GOOGL (W1) | 🟡 WATCHING | Below pivot $403-405. Base week 3. No volume surge. Entry gated by Under Pressure. |
+| NVDA (B1) | ⛔ BLACKOUT | Through May 20 AH. H200 China + Q1 revenue the binary. Re-score /pre-market May 21. |
+| VRT (B2) | 🟡 WATCHING | No formal score yet. No pivot defined. Alpaca + AV needed. |
+| AVGO (B3) | 🔴 BLOCKED | 63/100 score + XLK blackout. No change. |
+| META (B4) | 🟡 WATCHING | Base forming. Re-score June 7. |
+
+### Position health check
+
+0 open positions → SKIPPED (sell-rules-engine not needed)
+
+### Bench promotions / demotions
+
+- NVDA: ⛔ Blackout — cannot evaluate proximity to pivot
+- VRT: No formal pivot defined — cannot evaluate 2% rule. No change.
+- AVGO: Score gate + XLK blackout both active. No change.
+- META: Base forming. Re-score June 7. No change.
+- **No promotions or demotions.**
+
+### Hedge status
+
+- SH (−1× S&P) at ~$625 / 25% portfolio: QUEUED — cannot execute (Alpaca Day 45 blocked)
+- SH remains highest-priority order on Alpaca restore
+
+### Upcoming catalysts
+
+| Date | Event | Implication |
+|---|---|---|
+| Tue May 19 AM | HD earnings ($3.41 EPS / $41.5B rev est.) | Consumer spending proxy; slight YoY EPS decline expected on soft housing |
+| Wed May 20 AH | NVDA Q1 earnings + FOMC minutes | Binary event: beat + H200 China confirmed → FTD candidate (Day 4); miss → dist day #6 → Correction |
+| Thu May 21 AM | WMT earnings | Consumer health signal |
+| Fri May 22 | U of Michigan Sentiment | Confidence trend |
+
+### Actions taken
+
+- NONE — market Under Pressure + Alpaca blocked
+- SH hedge remains queued at $625 / 25% portfolio
+
+### Next: /eod-review 3:15 PM CT
+
+Key watch: Does Monday session CLOSE as a non-distribution day (near-flat/up)? Confirming dist count holds at 5/25.
+NVDA blackout: no action until May 21 /pre-market post-earnings re-score.
+

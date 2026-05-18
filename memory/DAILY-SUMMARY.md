@@ -1412,3 +1412,15 @@ Key this week: ⚠️ NVDA earnings Wed May 20 AH — beat+China guide = potenti
 Plan: NO entries — Under Pressure state active. Hedge SH ~$625 queued (Alpaca Day 45 still blocked). NVDA blackout through May 20 AH. Watch dist day #6 vigilance.
 research_source: websearch_fallback | Alpaca: 403 Day 45 | Perplexity: 403 | AV: 403
 
+
+---
+## 2026-05-18 15:05 CT [clickup-placeholder]
+
+📈 Market-check 2026-05-18 10:00 AM CT
+Market: Uptrend Under Pressure (5/25 dist days) | Circuit breakers: NONE
+Actions: No entries — gate: Under Pressure. No sells — 0 positions. SH hedge ($625/25%) queued — Alpaca blocked Day 45.
+Intraday: S&P ~7,406 (-0.03%), Nasdaq -0.37%, Dow +0.25%. Mon opened -1%+ on Moody's, recovered — no dist day #6. Dist count 5/25 unchanged.
+Watchlist: 0 ready | 2 watching (GOOGL base wk3, VRT no formal score) | 2 blocked (AVGO score/XLK, NVDA blackout)
+Open positions: 0 (0% deployed) | Weekly trades: 0/3
+Key watch: NVDA earnings Wed May 20 AH (FTD vs Correction binary) | HD earnings Tue May 19 AM
+Next: /eod-review 3:15 PM CT
