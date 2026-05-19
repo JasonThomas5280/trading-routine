@@ -8,11 +8,12 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## Week of 2026-05-18 to 2026-05-22
 
+**Market-check:** 2026-05-19 10:00 AM CT — `/market-check` | `research_source: websearch_fallback` | Alpaca Day 47 blocked | **All entry gates blocked (Under Pressure)**
 **Pre-market refresh:** 2026-05-19 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 47 | Perplexity 403 | AV 403)
 **May 18 confirmed:** S&P 7,403.05 (−0.07%) | SPY low $734.23 < May 15 low $737.96 → rally attempt RESET. New Day 1 = May 18. FTD window = May 21, 22, 26, 27. Dist day #6 NOT triggered (volume 19.3M vs 48.93M avg). Dist count: **5/25 unchanged.**
 **Futures:** ES −0.41%, NQ −0.30%. Crude oil higher (Iran stalled). QQQ pre-market ~$700. Dist day #6 risk if S&P closes ≥−0.20% on above-avg volume today.
 **Buy-zone updates (pre-market May 19):**
-- GOOGL: $396.94 pre-market. Distance from $403-405 pivot: ~−1.5%. **POSITIVE CATALYST: Google-Blackstone AI cloud JV (compute-as-a-service) announced overnight; GOOGL +~1% pre-market.** Google I/O kicks off today — AI product announcements expected all day. N-letter strengthening. Base: wk 3 of 3-5 still forming. Status: 🟡 WATCHING — positive catalyst but entry gated by Under Pressure + incomplete base.
+- GOOGL: $396.94 pre-market → **$398.80 at 10 AM CT** (11 AM ET). Distance from $403-405 pivot: ~−1.0 to −1.5%. Google I/O Day 1 underway (AI product announcements). Mizuho raised PT to $460. N-letter intact/strengthening. Base: wk 3 of 3-5 still forming. Status: 🟡 WATCHING — below pivot; no volume trigger; entry gated by Under Pressure + incomplete base + Alpaca blocked.
 - NVDA: EARNINGS BLACKOUT through May 20 AH. Pre-market: +$4.71 (~$230, at/near ATH). Earnings tomorrow: $1.78 EPS / $79.2B rev est. (+120%/+79.5% YoY). H200 China: US has export licenses; China has NOT approved imports. Re-score May 21 /pre-market.
 - VRT: **INVESTOR CONFERENCE today (May 19-20, Greenville SC) — starts 2:30 PM ET.** Management strategic updates + financial outlook. May provide GAAP FY2023 clarity for formal score. Stock ~$335-370 range. AI data center thesis intact (+115% YTD). Status: 🟡 WATCHING — conference catalyst; formal score pending.
 

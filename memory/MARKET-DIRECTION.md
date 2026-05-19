@@ -8,7 +8,7 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-19 (Tue) — `/pre-market` 6:00 AM CT
+**Last updated:** 2026-05-19 (Tue) — `/market-check` 10:00 AM CT
 **STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (pending Alpaca restore)
 **Alpaca API — Day 47** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
 
@@ -45,6 +45,16 @@
 - **U of Michigan Sentiment Fri May 22** — Consumer confidence trend.
 **⚠️ ALPACA API BLOCKED — Day 44 consecutive** (/weekly-prep May 17). 403 "Host not in allowlist." All execution impossible. All live price/volume checks impossible. Research-only mode.
 `research_source: websearch_fallback` | Perplexity: 403 blocked | Alpha Vantage: 403 blocked
+
+**Tuesday May 19 intraday (/market-check, 10:00 AM CT):**
+- S&P 500: est. −0.30 to −0.55% at 11AM ET (~7,381–7,365) | Nasdaq: −0.55% | SPY est. ~$735–737 | `research_source: websearch_fallback` | **Alpaca blocked Day 47**
+- Drivers: AI infra stocks continuing pullback; Iran peace talks (Trump called off planned attack; negotiations underway — geopolitical risk easing, BULLISH); oil Brent still ~$108; HD earnings in-line/slight miss ($41.8B revenue ✅, adj. EPS $3.43 vs $3.56 prior yr, comp sales +0.6%, guidance reaffirmed — neutral consumer signal); Fed rate cut delay signals (BofA: no cuts until H2 2027)
+- **⚠️ DIST DAY #6 RISK ACTIVE:** Magnitude > −0.20% ✅ threshold met. Volume: UNCONFIRMED (Alpaca blocked Day 47). May 18 volume was 19.3M (39% of avg) — any normal today's volume exceeds that floor. **HIGH PROBABILITY of dist day #6 at close → 🔴 Market in Correction. /eod-review MUST confirm.**
+- GOOGL: $398.80 (below $403-405 pivot by ~1.0-1.5%; 🟡 WATCHING unchanged — no buy trigger; Mizuho target raised to $460)
+- NVDA: $221.12 (−1.33% from May 18 close $222.32; blackout active through May 20 AH; 120% EPS / 80% rev growth expected; consensus "Strong Buy" / avg PT $275; binary event tomorrow — do NOT trade into)
+- Abort gates: Under Pressure → ALL LONG ENTRIES BLOCKED | Alpaca blocked → no execution regardless
+- Actions: NONE | sell-rules-engine: SKIPPED (0 positions) | Bench: no promotions (NVDA blackout; VRT conf 2:30 PM ET; AVGO/META below threshold)
+- Weekly trade count: 0/3 (week of May 18-22) | Equity est. $2,500
 
 **Monday May 18 close (/eod-review, 3:15 PM CT):**
 - S&P 500: ~7,386 est. (−0.30% from 7,408.50 May 15 close; "just under 7,400" per StoneX/multiple sources) | Nasdaq: ~26,083 est. (−0.54%) | Dow: ~+96 pts (+0.19%) | `research_source: websearch_fallback` | **Alpaca blocked Day 46**

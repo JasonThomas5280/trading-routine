@@ -1,5 +1,32 @@
 
 ---
+## 2026-05-19 10:00 CT [market-check]
+
+📈 Market-check 2026-05-19 10:00 AM CT
+Market: 🟡 Under Pressure (5/25 dist days) | Circuit breakers: NONE | Alpaca: ❌ BLOCKED Day 47
+
+Actions taken:
+  • No new entries — gate: Uptrend Under Pressure (all longs blocked) + Alpaca blocked (no execution)
+  • sell-rules-engine: SKIPPED (0 open positions)
+
+Intraday snapshot (11 AM ET):
+  • S&P 500 est. −0.30 to −0.55% (~7,365–7,381) | Nasdaq −0.55% | SPY est. ~$735–737
+  • ⚠️ DIST DAY #6 RISK: magnitude ✅ (>−0.20%); volume UNCONFIRMED (Alpaca blocked; vs May 18 floor 19.3M)
+  • HD Q1 earnings: revenue $41.8B (in-line), adj. EPS $3.43 (slight miss vs $3.56 prior), comp sales +0.6%, guidance reaffirmed → neutral consumer signal
+  • Iran: Trump called off planned attack; peace negotiations underway → geopolitical risk easing
+  • GOOGL $398.80: below $403-405 pivot → 🟡 WATCHING unchanged (no trigger)
+  • NVDA $221.12: earnings blackout active through May 20 AH (120% EPS / 80% rev est.)
+
+Watchlist status: 1 primary-watching (GOOGL), 2 bench (NVDA, VRT), 2 below-threshold (AVGO, META)
+Open positions: 0 (100% cash) | Weekly trades: 0 of 3 used
+
+⚠️ CRITICAL watch for /eod-review 3:15 PM CT:
+  • Dist day #6 volume confirmation — if triggered → 🔴 STATE CHANGE to Market in Correction
+  • NVDA earnings May 20 AH — binary: beat = FTD candidate May 21; miss = dist day #6 accelerator / Correction confirmed
+
+Next: /eod-review 3:15 PM CT
+
+---
 ## 2026-05-06 15:15 CT [eod-review]
 
 📊 EOD 2026-05-06 | Equity ~$2,500 (+0.00% day, +0.00% week)
