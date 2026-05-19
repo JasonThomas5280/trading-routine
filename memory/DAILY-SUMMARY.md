@@ -1441,3 +1441,26 @@ Actions today:
 NVDA update (material): H200 China constrained; $4.5B writedown; ~$8B Q2 rev loss. FTD thesis WEAKENED.
 
 Tomorrow: HD earnings AM (consumer proxy) | Confirm dist day #6 volume | Confirm rally attempt reset | NVDA blackout through May 20 AH
+
+---
+## 2026-05-19 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-05-19
+Market: 🟡 Under Pressure (5/25 dist days) | Futures: ES −0.41%, NQ −0.30%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+
+✅ May 18 CONFIRMED: S&P 7,403.05 (−0.07%) — dist day #6 NOT triggered (vol 19.3M vs 48.93M avg, magnitude below −0.20% threshold). Dist count 5/25 UNCHANGED.
+⚠️ Rally attempt RESET: SPY intraday low $734.23 < May 15 low $737.96. New Day 1 = May 18. FTD window = May 21-27.
+
+Watchlist ready: none (Under Pressure gates all longs)
+Watchlist watching:
+  • 🟡 GOOGL $396.94 | Pivot $403-405 (−1.5%) | POSITIVE: Google-Blackstone AI cloud JV + Google I/O Day 1. N-letter strengthening. Base wk 3.
+  • 🟡 VRT ~$335-370 | Investor conference today (May 19-20). May clarify GAAP FY2023 for formal score.
+  • ⛔ NVDA ~$230 pre-market | Earnings blackout through May 20 AH. Re-score May 21.
+Removed: none
+
+Key catalyst today: Google I/O + VRT investor conference 2:30 PM ET. HD print in-line (no market impact). Dist day #6 risk if S&P closes ≥−0.20% on above-avg vol.
+⚠️ FOMC minutes tomorrow (May 20) — no new entries Wednesday morning.
+
+Plan: NO entries today. Under Pressure + Alpaca Day 47 blocked. Watch for dist day #6 signal and VRT/GOOGL conference catalysts. SH hedge $625 queued first on Alpaca restore.

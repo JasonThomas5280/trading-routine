@@ -8,16 +8,27 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-18 (Mon) — `/eod-review` 3:15 PM CT
-**⚠️ OVERNIGHT CATALYST — MOODY'S DOWNGRADE:** Moody's downgraded US sovereign debt AAA → Aa1 (Fitch already did in 2023; Moody's is the last of the big 3). Cited rising debt + interest costs. S&P initially fell >1% then recovered to +0.09% by Monday close; Dow +0.32%; Nasdaq +0.02%. 10yr yield spiked above 4.5%. Market largely shrugged off the downgrade — no dist day #6 confirmed (UP day recovery to near flat = NOT a distribution day). QQQ pre-market early: $700.08 (−1.39% from $709.96 Fri close) — but recovered by session end.
-**⚠️ STATE REMAINS:** 🟡 Uptrend Under Pressure | No change | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (pending Alpaca restore)
-**Rally attempt tracking:** Day 1 = May 15 (low $737.96 SPY); FTD window = Days 4-7 = May 20-25. NVDA earnings May 20 AH is primary FTD catalyst.
-**Alpaca API — Day 45** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
+**Last updated:** 2026-05-19 (Tue) — `/pre-market` 6:00 AM CT
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (pending Alpaca restore)
+**Alpaca API — Day 47** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
+
+**✅ MAY 18 CONFIRMED (resolves /eod-review uncertainty):**
+- S&P 500: 7,403.05 (−0.07%) | SPY high $741.40, low $734.23 | Volume 19.3M vs 48.93M avg (39% of avg)
+- **Dist day #6 NOT triggered:** Magnitude −0.07% (below −0.20% threshold) + volume well below average. Dist count stays **5/25**.
+- **Rally attempt RESET:** SPY intraday low $734.23 < May 15 low $737.96 → May 15 rally attempt undercut. New Day 1 = May 18. **New FTD window = May 21 (Thu), May 22 (Fri), May 26 (Tue), May 27 (Wed).** [May 25 = Memorial Day, closed.]
+
+**May 19 pre-market:**
+- ES futures: −0.41% | NQ futures: −0.30% | QQQ pre-market: ~$700 | Crude oil higher (Iran/Hormuz stalled)
+- GOOGL: +~1% overnight (Google-Blackstone AI cloud JV + Google I/O Day 1)
+- NVDA: +$4.71 pre-market (~$230), at/near ATH ahead of tomorrow's Q1 FY2027 earnings AH
+- **⚠️ Dist day #6 risk today:** If S&P closes ≥−0.20% on above-average volume → 🔴 Market in Correction
+
 **SPY (May 15 close):** $739.17 | 50-day SMA: **$688.48** (+7.3% above) | 200-day SMA: **$672.78** (+9.9% above) — NOT in Correction territory
 **QQQ (May 15 close):** $709.96 | 50-day SMA: **$637.70** (+11.3% above) | 200-day SMA: **$618.40** (+14.8% above)
 **Distribution days (last 25 sessions):** **5/25** (Apr 23, Apr 28, May 4, May 7, May 15) | ⚠️ ONE MORE = 🔴 Market in Correction
-**Most recent FTD:** 2026-04-08 (Day 40+ — aging; uptrend base weakening)
-**Recovery path:** NVDA earnings May 20 AH + FOMC minutes May 20 = primary binary catalyst. Strong NVDA beat + H200 China clearance confirmed → potential FTD Day 4-7 of rally attempt (est. May 21-22). Fails → dist day #6 → Correction.
+**Most recent FTD:** 2026-04-08 (Day 47+ — aging)
+**Rally attempt:** Day 2 of new attempt (Day 1 = May 18). FTD window opens May 21. NVDA earnings May 20 AH = primary binary FTD catalyst.
+**Recovery path:** NVDA strong beat + H200 China clearance timeline confirmed + volume surge → FTD May 21-22. Miss/soft guide → dist day #6 → Correction.
 **⚠️ NVDA H200 CHINA CLEARANCE:** May 15 headlines report H200 chips cleared for China export (likely as part of Trump-Xi summit trade framework). Contradicts May 5 CEO "China = zero" disclosure. Must confirm via NVDA May 20 earnings call. If confirmed → NVDA score could jump to 82-90/100 post-blackout. Monitor closely.
 **Sector rankings (4-week RS, Apr 17 → May 15) — UPDATED:**
 1. 🥇 **XLC (Communication Services)** — GOOGL +22%+ in 30 days, META AI theme, Cloud +63%. New #1 (was #2)

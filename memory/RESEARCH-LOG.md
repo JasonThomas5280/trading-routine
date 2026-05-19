@@ -5239,3 +5239,111 @@ NVDA blackout: no action until May 21 /pre-market post-earnings re-score.
 - Confirm rally attempt reset: if SPY May 18 close confirmed < $737.96 → reset to Day 1 = May 18
 - SH hedge: FIRST order when Alpaca unblocks (still highest priority)
 - WMT earnings Thu May 21; FOMC minutes Wed May 20
+
+---
+
+## 2026-05-19 (Tue) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: ❌ 403 blocked Day 47 | Perplexity: ❌ 403 | Alpha Vantage: ❌ 403)
+**Market direction pull:** 🟡 Uptrend Under Pressure | 5/25 dist days | NO new long entries
+**Alpaca Day 47** — all execution and live data unavailable
+
+### Data source status
+
+| Source | Status |
+|---|---|
+| Alpaca API | ❌ 403 "Host not in allowlist" — Day 47 |
+| Alpha Vantage | ❌ 403 blocked |
+| Perplexity | ❌ 403 blocked |
+| WebSearch | ✅ functional (elevated estimation error ±3-8%) |
+
+### May 18 close CONFIRMED (resolves /eod-review uncertainty)
+
+| Metric | Confirmed value | Notes |
+|---|---|---|
+| S&P 500 | 7,403.05 | −0.07% from May 15 close 7,408.50 |
+| Nasdaq | 26,090.73 | −0.51% |
+| Dow | +160 pts | +0.37% |
+| SPY intraday high | $741.40 | |
+| SPY intraday low | $734.23 | **< May 15 low $737.96 → rally attempt RESET** |
+| SPY volume | 19.3M vs 48.93M avg | 39% of average — well below average |
+
+**Distribution day #6 check (May 18):** Magnitude −0.07% → BELOW the −0.20% threshold. **NOT a distribution day.** Dist count stays 5/25.
+
+**Rally attempt RESET CONFIRMED:** SPY May 18 low $734.23 < May 15 low $737.96. May 15 rally attempt IS undercut. **New Day 1 = May 18 (Mon).** New FTD window = Days 4-7 = May 21 (Thu), May 22 (Fri), May 26 (Tue), May 27 (Wed). [May 25 = Memorial Day, markets closed.]
+
+### Open positions — overnight gap check
+
+**No open positions.** Gap check skipped.
+
+### Overnight catalysts — open positions
+
+None. Skipped.
+
+### Overnight catalysts — primary watchlist
+
+**GOOGL (W1, 77/100):**
+- ✅ **POSITIVE CATALYST:** Google + Blackstone announced joint AI cloud venture offering compute-as-a-service (TPU on demand). GOOGL up ~+1% overnight pre-market.
+- ✅ Google I/O developer conference kicks off TODAY (May 19) — potential for AI product announcements (Gemini 2.0+, AI Overviews, Android AI).
+- Price: $396.94 pre-market. Distance from $403-405 pivot: ~−1.5% below pivot.
+- Base: Week 3 of 3-5 needed. Still forming. Entry requires base completion + market state recovery.
+- **N-letter impact:** Blackstone JV = new revenue stream / new product = strengthens N-letter. Potential score improvement when formally re-scored.
+- **Status: 🟡 WATCHING — positive catalyst pull-forward, but entry gated by Under Pressure + incomplete base. No action.**
+
+### Overnight catalysts — bench
+
+**NVDA (B1, earnings blackout through May 20 AH):**
+- Pre-market: +$4.71 (~$230). Stock at/near ATH ahead of tomorrow's earnings. Bullish pre-earnings posture.
+- Earnings tomorrow AH (May 20): $1.78 EPS est. (+120% YoY), $79.2B revenue est. (+79.5% YoY).
+- H200 China: US has export licenses; Chinese regulators have NOT approved H200 imports. Revenue from China = 0 for Q1 (as expected). Key call item: Q2 guidance on China revenue timeline.
+- **Still in blackout. No action.** Re-score at /pre-market May 21.
+
+**VRT (B2, est. 55-75/100):**
+- **INVESTOR CONFERENCE May 19-20** (Greenville, SC) — starts today. Management strategic updates, financial outlook, innovations, market trends. 2:30 PM ET start today.
+- Potential for GAAP FY2023 EPS disclosure (the key missing data point for formal score). Monitor conference readouts.
+- Stock range: ~$335-370 per websearch (some spread — price data unreliable without Alpaca).
+- AI data center thesis intact: +115% YTD reported.
+- **No score change yet. Watch for press releases from conference. Re-score when formal data available.**
+
+**HD (not on watchlist — general market signal):**
+- Reported Q1 2026 AH May 18: Adj EPS $3.43 (slight YoY decline from $3.45), revenue $41.77B (+5% YoY). Full-year guidance maintained (2.5-4.5% revenue growth, adj EPS +4%).
+- In-line print. No market catalyst. Consumer spending stable but not accelerating. Housing proxy = constructive but not bullish.
+
+### Market overnight check
+
+- **ES futures:** −0.41% (pointing to ~7,373 S&P 500 open)
+- **NQ futures:** −0.30%
+- **QQQ pre-market:** ~$700 area
+- **Crude oil:** Higher — Iran/Hormuz stalled. Brent ~$108.
+- **Geopolitical:** Iran peace talks stalled. 10yr yield remains elevated (>4.60%). Headwinds for risk assets.
+- **HD earnings:** In-line/slight beat. Not a market catalyst.
+- **⚠️ Dist day #6 risk today:** If S&P closes down ≥0.20% on above-average volume → dist day #6 → 🔴 Market in Correction. With ES −0.41% open, monitor volume through session. If dist day #6 triggers: → liquidate any positions (none), → fully deploy SH hedge (when Alpaca unblocks), → no new long entries until FTD.
+
+### Buy-zone readiness (pre-market)
+
+| Symbol | Est. Pre-market | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$396.94 | $403-405 | −1.5% below pivot | 🟡 WATCHING — positive catalyst; entry gated by Under Pressure + base incomplete |
+| NVDA | ~$230 | TBD post-earnings | BLACKOUT | ⛔ EARNINGS BLACKOUT — re-score May 21 |
+| VRT | ~$335-370 | TBD formal score | No formal score | 🟡 WATCHING — investor conference today; formal score needed |
+
+All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
+
+### Circuit breaker check
+
+- Daily P&L: $0 → NO trigger (−3% threshold)
+- Weekly P&L: $0 → NO trigger (−6% threshold)
+- Drawdown from HWM: $0 → NO trigger (−12% threshold)
+- PDT rolling 5-session: 0 of 3 → NO trigger
+- **Circuit breakers: NONE ACTIVE**
+
+### Today's key watch items (/market-check 10:00 AM CT)
+
+- Monitor SPY volume vs 48.93M avg. If S&P closes ≥−0.20% on high volume → dist day #6 → Correction state change.
+- GOOGL: watch Google I/O announcements for AI product catalysts (could tighten base or pull price toward $403 pivot).
+- VRT: investor conference starts 2:30 PM ET — watch for press releases.
+- NVDA earnings blackout — no action until tomorrow /pre-market.
+- FOMC minutes tomorrow (May 20) at 1:00 PM CT — **do not enter new positions Wednesday morning** per rules.
+- **No entries today.** Market Under Pressure gating all longs. Alpaca blocked (Day 47).
+
+### Result: NO ENTRIES — Under Pressure state + Alpaca Day 47 blocked + no actionable setups.

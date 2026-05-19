@@ -8,12 +8,13 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## Week of 2026-05-18 to 2026-05-22
 
-**Pre-market refresh:** 2026-05-18 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 45 | Perplexity 403 | AV 403)
-**Overnight catalyst:** Moody's US downgrade AAA→Aa1. Market opened -1%+ then recovered to near flat. NOT a dist day (UP day). Dist count unchanged 5/25. QQQ pre-market: $700.08 (−1.39%). FTD rally attempt tracking: Day 1 = May 15, FTD window May 20-25.
-**Buy-zone updates (pre-market May 18):**
-- GOOGL: est. pre-market ~$393-395. Distance from $403-405 pivot: ~−2.0% to −2.5%. Base wk 3 of 3-5. Volume May 18: ~20M vs 25M avg = constructive (below avg). **No GOOGL-specific catalyst.** Berkshire increased GOOGL stake (I-letter positive). Status: 🟡 WATCHING (unchanged — entry gated by Under Pressure + incomplete base).
-- NVDA: EARNINGS BLACKOUT through May 20 AH. H200 China: 10 companies approved (Alibaba, Tencent, ByteDance, JD.com) for 750K chips = potential $26B revenue. Deliveries still at zero. Key May 20 metrics: Q1 revenue vs $78B consensus, Q2 guide vs $86B consensus, gross margin, China shipment timing. Re-score May 21.
-- VRT: Analyst upgrades in May: RBC $435, BofA $440, Barclays $412, Citi $414 (street-high). No negative catalysts. AI data center thesis intact and strengthening. Price unchanged $370.94. Needs formal score on Alpaca/AV restore. **Status: Positive momentum on thesis.**
+**Pre-market refresh:** 2026-05-19 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 47 | Perplexity 403 | AV 403)
+**May 18 confirmed:** S&P 7,403.05 (−0.07%) | SPY low $734.23 < May 15 low $737.96 → rally attempt RESET. New Day 1 = May 18. FTD window = May 21, 22, 26, 27. Dist day #6 NOT triggered (volume 19.3M vs 48.93M avg). Dist count: **5/25 unchanged.**
+**Futures:** ES −0.41%, NQ −0.30%. Crude oil higher (Iran stalled). QQQ pre-market ~$700. Dist day #6 risk if S&P closes ≥−0.20% on above-avg volume today.
+**Buy-zone updates (pre-market May 19):**
+- GOOGL: $396.94 pre-market. Distance from $403-405 pivot: ~−1.5%. **POSITIVE CATALYST: Google-Blackstone AI cloud JV (compute-as-a-service) announced overnight; GOOGL +~1% pre-market.** Google I/O kicks off today — AI product announcements expected all day. N-letter strengthening. Base: wk 3 of 3-5 still forming. Status: 🟡 WATCHING — positive catalyst but entry gated by Under Pressure + incomplete base.
+- NVDA: EARNINGS BLACKOUT through May 20 AH. Pre-market: +$4.71 (~$230, at/near ATH). Earnings tomorrow: $1.78 EPS / $79.2B rev est. (+120%/+79.5% YoY). H200 China: US has export licenses; China has NOT approved imports. Re-score May 21 /pre-market.
+- VRT: **INVESTOR CONFERENCE today (May 19-20, Greenville SC) — starts 2:30 PM ET.** Management strategic updates + financial outlook. May provide GAAP FY2023 clarity for formal score. Stock ~$335-370 range. AI data center thesis intact (+115% YTD). Status: 🟡 WATCHING — conference catalyst; formal score pending.
 
 **Built:** 2026-05-17 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: 403 Day 44, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via native WebSearch)
 
