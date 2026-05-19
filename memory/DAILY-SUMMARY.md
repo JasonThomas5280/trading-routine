@@ -1491,3 +1491,30 @@ Key catalyst today: Google I/O + VRT investor conference 2:30 PM ET. HD print in
 ⚠️ FOMC minutes tomorrow (May 20) — no new entries Wednesday morning.
 
 Plan: NO entries today. Under Pressure + Alpaca Day 47 blocked. Watch for dist day #6 signal and VRT/GOOGL conference catalysts. SH hedge $625 queued first on Alpaca restore.
+
+---
+## 2026-05-19 20:21 CT [clickup-placeholder]
+
+📊 EOD 2026-05-19 | Equity ~$2,500 (+0% day, +0% week)
+
+⚠️ STATE CHANGE: 🔴 MARKET IN CORRECTION (was: Uptrend Under Pressure)
+Trigger: Distribution Day #6 at May 19 close (est.) — dist count now 6/25
+
+Market close:
+• S&P 500: 7,353.61 (-0.67%) | Nasdaq: 25,870.71 (-0.84%) | Dow: -0.65%
+• 30yr Treasury: 5.198% (19yr high) — bond rout deepening on Iran inflation fears
+• 3rd consecutive losing session
+
+Open positions: 0 | Cash: 100%
+Sell-rules-engine: SKIPPED (0 positions)
+
+Actions today: NONE
+• SH/SQQQ hedge $625/25% — queued, Alpaca Day 48 blocked (FIRST ORDER on restore)
+• No long entries (Correction state active)
+
+Rally attempt: Day 1 = May 19 (reset again). FTD window: May 22-28.
+NVDA earnings May 20 AH = binary FTD catalyst.
+
+Circuit breakers: NONE ACTIVE
+
+Tomorrow: NVDA AH (beat+>87B guide = FTD cand. May 22; miss = more dist days). FOMC minutes 1PM CT (no entries Wed AM). WMT Thu AM.

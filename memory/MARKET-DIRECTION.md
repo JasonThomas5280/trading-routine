@@ -6,45 +6,62 @@
 
 ## Current Status
 
-**Status:** 🟡 **UPTREND UNDER PRESSURE**
+**Status:** 🔴 **MARKET IN CORRECTION**
 
-**Last updated:** 2026-05-19 (Tue) — `/market-check` 10:00 AM CT
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (pending Alpaca restore)
-**Alpaca API — Day 47** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
+**Last updated:** 2026-05-19 (Tue) — `/eod-review` 3:15 PM CT
+**STATE:** 🔴 Market in Correction | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 queued (Alpaca Day 48 blocked — HIGHEST PRIORITY on restore)
+**Alpaca API — Day 48** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
 
-**✅ MAY 18 CONFIRMED (resolves /eod-review uncertainty):**
+**⚠️ STATE CHANGE: 🟡 Uptrend Under Pressure → 🔴 MARKET IN CORRECTION**
+**Trigger:** Distribution Day #6 confirmed (estimated) at May 19 close. Dist count 6/25 hits the Correction threshold.
+**Effective:** 2026-05-19 EOD. All new long entries blocked. Sell weakness. Hedge with SH/SQQQ when Alpaca restores.
+
+**✅ MAY 19 CLOSE (confirmed via websearch_fallback):**
+- S&P 500: **7,353.61** (−0.67% from May 18's 7,403.05) | Nasdaq: **25,870.71** (−0.84%) | Dow: **49,375.46** (−0.65%)
+- SPY est. close: **~$733.75** (range today $733.39–$741.42; low $733.39)
+- QQQ est. close: **~$699.95** (−0.84% from May 18 est. ~$705.88)
+- 30yr Treasury yield: **5.198%** (highest since 2007 — 19-year high) | 10yr yield: **4.687%**
+- Drivers: Bond rout deepening on Iran war inflation fears; 3rd straight losing session; semis mixed; 62% of global fund managers expect 30yr yield to hit 6%
+- **Distribution day #6 (May 19):** Magnitude −0.67% >> −0.20% threshold ✅ | Volume vs May 18's 19.3M: **EST. ABOVE** (major macro catalyst — 30yr yield at 19yr high driving significant selling; Alpaca blocked Day 48 so volume unconfirmed, but near-certainty given session character). `volume_confirmed: estimated`
+- **Dist count → 6/25 → 🔴 MARKET IN CORRECTION threshold hit**
+
+**✅ MAY 18 CONFIRMED (resolved /pre-market May 19):**
 - S&P 500: 7,403.05 (−0.07%) | SPY high $741.40, low $734.23 | Volume 19.3M vs 48.93M avg (39% of avg)
-- **Dist day #6 NOT triggered:** Magnitude −0.07% (below −0.20% threshold) + volume well below average. Dist count stays **5/25**.
-- **Rally attempt RESET:** SPY intraday low $734.23 < May 15 low $737.96 → May 15 rally attempt undercut. New Day 1 = May 18. **New FTD window = May 21 (Thu), May 22 (Fri), May 26 (Tue), May 27 (Wed).** [May 25 = Memorial Day, closed.]
+- **Dist day #6 NOT triggered on May 18:** Magnitude −0.07% (below −0.20% threshold). Dist count stayed 5/25.
+- **Rally attempt RESET (May 18):** SPY low $734.23 < May 15 low $737.96. New Day 1 = May 18.
 
-**May 19 pre-market:**
-- ES futures: −0.41% | NQ futures: −0.30% | QQQ pre-market: ~$700 | Crude oil higher (Iran/Hormuz stalled)
-- GOOGL: +~1% overnight (Google-Blackstone AI cloud JV + Google I/O Day 1)
-- NVDA: +$4.71 pre-market (~$230), at/near ATH ahead of tomorrow's Q1 FY2027 earnings AH
-- **⚠️ Dist day #6 risk today:** If S&P closes ≥−0.20% on above-average volume → 🔴 Market in Correction
+**Rally attempt status (May 19):**
+- May 18 rally attempt Day 1 low: $734.23. Today's SPY low: $733.39 < $734.23 → **RALLY ATTEMPT RESET AGAIN.**
+- **New Day 1 = May 19 (today).** New FTD window = **May 22 (Day 4), May 26 (Day 5), May 27 (Day 6), May 28 (Day 7).** [May 25 = Memorial Day, closed]
+- **Primary FTD catalyst: NVDA Q1 FY2027 earnings May 20 AH** — beat + guidance > $87B → possible FTD candidate May 22. Miss → additional distribution, deeper Correction.
 
-**SPY (May 15 close):** $739.17 | 50-day SMA: **$688.48** (+7.3% above) | 200-day SMA: **$672.78** (+9.9% above) — NOT in Correction territory
-**QQQ (May 15 close):** $709.96 | 50-day SMA: **$637.70** (+11.3% above) | 200-day SMA: **$618.40** (+14.8% above)
-**Distribution days (last 25 sessions):** **5/25** (Apr 23, Apr 28, May 4, May 7, May 15) | ⚠️ ONE MORE = 🔴 Market in Correction
-**Most recent FTD:** 2026-04-08 (Day 47+ — aging)
-**Rally attempt:** Day 2 of new attempt (Day 1 = May 18). FTD window opens May 21. NVDA earnings May 20 AH = primary binary FTD catalyst.
-**Recovery path:** NVDA strong beat + H200 China clearance timeline confirmed + volume surge → FTD May 21-22. Miss/soft guide → dist day #6 → Correction.
-**⚠️ NVDA H200 CHINA CLEARANCE:** May 15 headlines report H200 chips cleared for China export (likely as part of Trump-Xi summit trade framework). Contradicts May 5 CEO "China = zero" disclosure. Must confirm via NVDA May 20 earnings call. If confirmed → NVDA score could jump to 82-90/100 post-blackout. Monitor closely.
-**Sector rankings (4-week RS, Apr 17 → May 15) — UPDATED:**
-1. 🥇 **XLC (Communication Services)** — GOOGL +22%+ in 30 days, META AI theme, Cloud +63%. New #1 (was #2)
-2. 🥈 **XLI (Industrials)** — RRG "Leading" quadrant; VRT +30% Q1 revenue; power/AI infra dominant. #2 (was #3)
-3. 🥉 **XLE (Energy)** — Oil $100-107 (Iran/Hormuz + US-Iran deal friction); supply discipline; XOM FCF. New #3 (replaces XLK)
-4. ⚠️ **XLK (Technology)** — Demoted to #4 (was #1). RRG "Lagging" quadrant confirmed; May 15 worst sector day (-2.6%); 5 consecutive weeks of `sector_momentum_warning`. **XLK blackout for new entries until confirmed leading quadrant recovery.**
-5. XLF (Financials) — stable; GS $948/share (price disqualified); Q1 ROE 19.8%
+**SPY technical levels (est. as of May 19):**
+- SPY close: ~$733.75 | 50-day SMA: ~$689 est. (above by ~+6.5%) | 200-day SMA: ~$673 est. (above by ~+9.0%)
+- **NOT breaking 50-day MA** — Correction triggered by dist count (6/25), NOT by 50d MA break
+**QQQ technical levels (est.):**
+- QQQ close: ~$699.95 | 50-day SMA: ~$638 est. (above by ~+9.7%) | 200-day SMA: ~$618 est. (above by ~+13.3%)
+
+**Distribution days (last 25 sessions):** **6/25** (Apr 23, Apr 28, May 4, May 7, May 15, May 19) | 🔴 CORRECTION STATE ACTIVE
+**Most recent FTD:** 2026-04-08 (aging — Day 49+)
+**State change log:** May 19 — 🟡 Under Pressure → 🔴 Correction (dist day #6, 30yr yield 5.198%)
+
+**Sector rankings (4-week RS — carry-forward from May 15, update at /weekly-prep):**
+1. 🥇 **XLC (Communication Services)** — GOOGL +22%+ in 30 days, META AI theme. New #1.
+2. 🥈 **XLI (Industrials)** — VRT +30% Q1 revenue; power/AI infra dominant.
+3. 🥉 **XLE (Energy)** — Oil/Iran thesis; Brent ~$108; supply discipline.
+4. ⚠️ **XLK (Technology)** — Blackout active; RRG "Lagging" quadrant; 5+ consecutive weeks `sector_momentum_warning`.
+5. XLF (Financials) — stable but trailing.
 **Bottom 3:** XLP, XLU, XLRE — avoid
-**Week ahead (May 18-22) — KEY CATALYSTS:**
-- **⚠️ NVDA earnings Wed May 20 AH** — $78-79B revenue expected ($1.78 EPS). H200 China clearance + Blackwell ramp. Binary event. Do NOT trade into it.
-- **FOMC minutes Wed May 20** — Rate path signals. Dovish lean = positive for growth valuations.
-- **Home Depot (HD) Tue May 19** — Housing/construction proxy. Consumer spending signal.
-- **Walmart (WMT) Thu May 21** — Consumer health ($400B revenue co.). AI inventory thesis.
-- **U of Michigan Sentiment Fri May 22** — Consumer confidence trend.
-**⚠️ ALPACA API BLOCKED — Day 44 consecutive** (/weekly-prep May 17). 403 "Host not in allowlist." All execution impossible. All live price/volume checks impossible. Research-only mode.
-`research_source: websearch_fallback` | Perplexity: 403 blocked | Alpha Vantage: 403 blocked
+
+**Week of May 18-22 — REMAINING KEY CATALYSTS:**
+- **⚠️ NVDA earnings Wed May 20 AH** — $78B revenue / $1.78 EPS consensus. H200 China + Blackwell ramp. DO NOT TRADE INTO. Re-score /pre-market May 21. Binary FTD catalyst.
+- **FOMC minutes Wed May 20 1PM CT** — Rate path signals. No entries Wed morning (FOMC gate).
+- **Walmart (WMT) Thu May 21 AM** — Consumer health signal.
+- **U of Michigan Sentiment Fri May 22** — Consumer confidence.
+- **⚠️ Correction rules now active:** No new longs. SH/SQQQ hedge highest priority on Alpaca restore.
+
+**⚠️ ALPACA API BLOCKED — Day 48 consecutive.** 403 "Host not in allowlist." All execution impossible. Hedge still queued.
+`research_source: websearch_fallback` | Perplexity: ❌ 403 | Alpha Vantage: ❌ 403
 
 **Tuesday May 19 intraday (/market-check, 10:00 AM CT):**
 - S&P 500: est. −0.30 to −0.55% at 11AM ET (~7,381–7,365) | Nasdaq: −0.55% | SPY est. ~$735–737 | `research_source: websearch_fallback` | **Alpaca blocked Day 47**

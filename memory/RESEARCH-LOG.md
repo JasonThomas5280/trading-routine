@@ -5347,3 +5347,54 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 - **No entries today.** Market Under Pressure gating all longs. Alpaca blocked (Day 47).
 
 ### Result: NO ENTRIES — Under Pressure state + Alpaca Day 47 blocked + no actionable setups.
+
+
+---
+
+## 2026-05-19 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: ❌ 403 blocked Day 48 | Perplexity: ❌ 403 | Alpha Vantage: ❌ 403)
+**Market direction:** 🔴 **MARKET IN CORRECTION** — ⚠️ STATE CHANGED from 🟡 Uptrend Under Pressure
+
+**Close:** SPY ~$733.75 est. (−0.67%) | QQQ ~$699.95 est. (−0.84%) | S&P 500 **7,353.61** (−0.67%) | Nasdaq **25,870.71** (−0.84%) | Dow 49,375.46 (−0.65%)
+**Distribution days:** **6/25** — DIST DAY #6 CONFIRMED (est.) | Trigger: magnitude −0.67% >> −0.20% ✅; volume vs May 18's 19.3M: EST. ABOVE (30yr yield at 19yr high = major macro catalyst; volume unconfirmed — Alpaca Day 48 blocked)
+**Distribution day log:** Apr 23 ✅ | Apr 28 ✅ | May 4 ✅ | May 7 ✅ | May 15 ✅ | **May 19 ✅ (est.)**
+**Market state:** 🔴 **MARKET IN CORRECTION** (transitioned TODAY — dist count 6/25 hit threshold)
+**State change rules now active:** NO new long entries | Sell weak positions (0 held) | Hedge with SH/SQQQ — queued $625 / 25% portfolio, Alpaca blocked Day 48
+**Rally attempt:** Day 1 = May 19 (RESET AGAIN — today's SPY low $733.39 < May 18 low $734.23). New FTD window = May 22 (Day 4), May 26 (Day 5), May 27 (Day 6), May 28 (Day 7). [May 25 = Memorial Day closed]
+
+**Positions held:** 0
+**Sell-rules-engine:** SKIPPED — 0 open positions
+
+**Actions today:**
+  - NONE — 0 positions; sell-rules-engine skipped
+  - SH/SQQQ hedge $625 / 25% portfolio STILL QUEUED — Alpaca blocked Day 48. HIGHEST PRIORITY when Alpaca restores.
+  - No new long entries (Correction state active)
+
+**Circuit breakers:** NONE — all clear ($0 P&L; 0 positions; equity unchanged)
+**P&L today:** $0 (0%)
+**P&L week:** $0 (0%)
+**Equity:** ~$2,500 est. (no deployed capital; paper account)
+
+**Key drivers today:**
+- Bond rout deepening: 30yr Treasury yield 5.198% (19-year high) on Iran war inflation fears
+- 10yr yield 4.687% (highest since Jan 2025)
+- 3rd consecutive losing session for S&P 500
+- Semis mixed but under pressure (semis index fell >1% early, retraced)
+- 62% of global fund managers expect 30yr yield to hit 6%
+
+**SPY/QQQ vs 50-day MA (est.):**
+- SPY ~$733.75 vs 50d MA ~$689 → +6.5% above (NOT a 50d MA break; Correction is dist-day driven)
+- QQQ ~$699.95 vs 50d MA ~$638 → +9.7% above
+
+**Tomorrow's watch (May 20):**
+- **⚠️ NVDA Q1 FY2027 earnings AH (May 20)** — $78B revenue / $1.78 EPS consensus; $87B Q2 guidance expected. Binary event:
+  - BEAT + guidance >$87B → potential FTD candidate May 22 (Day 4). Watch for SPY +1.25%+ on volume. Re-score NVDA post-blackout at /pre-market May 21.
+  - MISS / soft guide → additional dist day risk; deeper Correction; SH hedge even more critical
+- **FOMC minutes 1PM CT (May 20)** — NO new entries Wednesday morning (FOMC gate). Rate path signals.
+- WMT earnings Thu May 21 AM — consumer health signal
+- **Alpaca API restore** — SH/SQQQ $625 hedge is FIRST order the moment execution resumes
+- Confirm today's SPY volume at /pre-market May 20 if data becomes available (dist day #6 currently estimated)
+
+**Weekly trade count:** 0/3 (week of May 18-22) | 0 trades taken | Market in Correction — no entries
+
