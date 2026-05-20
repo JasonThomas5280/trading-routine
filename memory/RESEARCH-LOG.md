@@ -5398,3 +5398,80 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 
 **Weekly trade count:** 0/3 (week of May 18-22) | 0 trades taken | Market in Correction — no entries
 
+---
+
+## 2026-05-20 (Wed) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 49; Perplexity: 403 blocked; Alpha Vantage: 403 blocked — ALL THREE PRIMARY SOURCES BLOCKED. 6th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🔴 Market in Correction | 6/25 distribution days | NO new long entries
+**State change note:** Correction confirmed at May 19 EOD (dist day #6 estimated). Rally attempt Day 1 = May 19 (SPY low $733.39). FTD window: May 22 (Day 4), May 26-28 (Days 5-7). May 25 = Memorial Day (closed).
+
+### Data source status
+
+| Source | Status | Impact |
+|---|---|---|
+| Alpaca API | ❌ 403 — Day 49 | No execution, no live quotes/bars/volume |
+| Alpha Vantage | ❌ 403 blocked | No EARNINGS, OVERVIEW endpoints |
+| Perplexity | ❌ 403 blocked | Using WebSearch fallback for all research |
+| WebSearch | ✅ Available | All data sourced via WebSearch; ±3-8% estimation error on prices |
+
+### Overnight market check (websearch_fallback)
+
+| Indicator | Level | vs Prior | Notes |
+|---|---|---|---|
+| ES futures (S&P) | ~7,363 | ~+0.13% vs May 19 close 7,353.61 | Marginally positive implied open |
+| NQ futures (Nasdaq 100) | ~28,877 | −0.16% | Slight Nasdaq underperformance |
+| Oil Brent | ~$108-111 est. | Elevated | Iran/US tensions persisting; no resolution overnight |
+| 30yr Treasury yield | ~5.198% | Carry-forward | Bond rout ongoing — 19-year high; no overnight relief |
+| 10yr Treasury yield | ~4.687% | Carry-forward | Elevated; rate hike probability rising |
+| Rate hike pricing | 20% Oct / 30% Dec | New data | Hawkish shift under Fed Chair Warsh |
+
+**FOMC gate active:** FOMC minutes release today at 1 PM CT (2 PM ET) — Powell's final meeting (April 29-30). Market pricing 20% Oct hike / 30% Dec hike. Minutes critical for rate path signals. NO new entries before 1 PM CT (FOMC rule). Moot point — market in Correction blocks all longs regardless.
+
+### Overnight catalysts affecting watchlist
+
+| Symbol | Catalyst | Thesis Impact | Status |
+|---|---|---|---|
+| GOOGL | Google I/O Day 2 today (May 20) — technology-focused presentations starting 8 AM ET. Features: Gemini 3, AI-Android 17, AI smart glasses. Wall Street reaction positive (BofA reaffirmed Buy/$430 PT, avg PT $427.89, 63 analysts Strong Buy). Pre-market price: ~$386-388 (high $401.50 / low $386.12 range during May 20 session). | **POSITIVE — N-letter thesis strengthening.** Google I/O AI showcase reinforces new product catalyst. No negative news. | 🟡 WATCHING — base continues forming; price below $403-405 pivot; entry gated by Correction + Alpaca |
+| VRT | Investor conference Day 2 starts 8 AM ET today — technology-focused presentations (Day 1 was strategy/financial yesterday). $15B backlog, 20.4% adj op margin confirmed. No new formal guidance issued yet (monitoring). | **NEUTRAL-TO-POSITIVE.** Conference continues; watching for any formal FY2026 GAAP guidance that would unlock A-letter score. | 🟡 WATCHING — formal score still pending; GAAP data needed |
+| NVDA | **⛔ EARNINGS BLACKOUT — reports AH today.** Consensus: $1.78 EPS (+120% YoY) / $79.2B revenue (+79.5% YoY). Q2 guidance consensus ~$87.7B. 90% Polymarket beat probability. Blackwell architecture ramping faster than expected; 81% AI accelerator market share. China headwind: H20 restricted (effectively zero China market share; $4.5B H20 writedown). Key metric: gross margin direction + Q2 guidance threshold. | **BINARY EVENT.** Beat + Q2 guide >$87B → FTD candidate May 22 (Day 4 of rally attempt). Miss/soft guide → dist day risk → deeper Correction. | ⛔ BLACKOUT — re-score /pre-market May 21 |
+
+### Open positions — overnight gap check
+
+**0 open positions → gap check SKIPPED.**
+
+### Buy-zone readiness (all entries blocked — Correction state)
+
+| Symbol | Est. Price | Pivot | Distance | Status | Notes |
+|---|---|---|---|---|---|
+| GOOGL | ~$386-388 | ~$403-405 | ~−3.9 to −4.2% | 🟡 WATCHING | Below pivot; base week 4 of 3-5 needed; I/O positive but no buy trigger; Correction blocks entry |
+| VRT | ~$335-370 est. | TBD (formal score needed) | N/A | 🟡 WATCHING | Conference Day 2; no trade until GAAP confirmed + Alpaca restored + Correction lifts |
+| NVDA | ~$225-230 est. | TBD (post-blackout re-score) | N/A | ⛔ BLACKOUT | Re-score May 21 post-earnings |
+
+### Circuit breaker check
+
+- **Alpaca Day 49 blocked** — cannot pull live account equity
+- **Estimated equity:** $2,500 (zero trades since inception, zero P&L)
+- **Daily loss:** $0 (0%) → -3% circuit breaker: **NOT ACTIVE**
+- **Weekly loss:** $0 (0%) → -6% circuit breaker: **NOT ACTIVE**
+- **Drawdown from HWM:** $0 (0%) → -12% circuit breaker: **NOT ACTIVE**
+- **PDT count:** 0/3 → **NOT ACTIVE**
+- **Status: ALL CIRCUIT BREAKERS CLEAR**
+
+### Plan for session
+
+- **FOMC gate** — no entries before 1 PM CT (moot; Correction blocks all longs)
+- **Market in Correction** — NO new long entries regardless of other gates
+- **Hedge queued** — SH ~$625/25% portfolio (FIRST order when Alpaca restores; Day 49)
+- **NVDA AH tonight** — binary market event:
+  - Beat + Q2 guide >$87B → potential FTD May 22 (Day 4). Assess at /pre-market May 21.
+  - Miss/soft → dist day risk May 21; deeper Correction; hedge priority unchanged
+- **WMT earnings Thu May 21 AM** — consumer health signal; dist day risk
+- Actions today: **NONE** (Correction + Alpaca blocked + FOMC gate)
+
+### Risks
+
+- FOMC minutes at 1 PM CT — hawkish signals likely (rate hike pricing increasing); negative for growth stocks
+- Iran/oil elevated (~$108-111 Brent) — bond rout driver persisting
+- NVDA miss scenario = additional distribution, deeper drawdown on rally attempt
+

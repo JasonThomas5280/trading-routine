@@ -8,10 +8,15 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## Week of 2026-05-18 to 2026-05-22
 
+**Pre-market refresh:** 2026-05-20 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 49 | Perplexity 403 | AV 403) | **All entry gates blocked (Correction)**
 **Market-check:** 2026-05-19 10:00 AM CT — `/market-check` | `research_source: websearch_fallback` | Alpaca Day 47 blocked | **All entry gates blocked (Under Pressure)**
 **Pre-market refresh:** 2026-05-19 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 47 | Perplexity 403 | AV 403)
 **May 18 confirmed:** S&P 7,403.05 (−0.07%) | SPY low $734.23 < May 15 low $737.96 → rally attempt RESET. New Day 1 = May 18. FTD window = May 21, 22, 26, 27. Dist day #6 NOT triggered (volume 19.3M vs 48.93M avg). Dist count: **5/25 unchanged.**
 **Futures:** ES −0.41%, NQ −0.30%. Crude oil higher (Iran stalled). QQQ pre-market ~$700. Dist day #6 risk if S&P closes ≥−0.20% on above-avg volume today.
+**Buy-zone updates (pre-market May 20):**
+- GOOGL: ~$386-388 pre-market (range $386.12-$401.50 on May 20). Distance from $403-405 pivot: ~−3.9 to −4.2%. Google I/O Day 2 underway (technology-focused presentations, Gemini 3, AI-Android 17). BofA Buy/$430 PT reaffirmed. N-letter strengthening. Base: wk 4 of 3-5 forming. Status: 🟡 WATCHING — below pivot; no buy trigger; Correction blocks all entries.
+- NVDA: **EARNINGS AH TONIGHT.** $1.78 EPS / $79.2B revenue consensus (+120%/+79.5% YoY). 90% Polymarket beat probability. Blackwell ramping faster than expected. China: H20 restricted (zero market share). Binary FTD catalyst. Status: ⛔ BLACKOUT — re-score /pre-market May 21.
+- VRT: Investor conference Day 2 today (technology presentations 8 AM ET). Conference may provide FY2026 guidance/GAAP clarity needed for A-letter. Stock ~$335-370 est. Status: 🟡 WATCHING — conference ongoing; formal score pending; no entry (Correction + Alpaca blocked).
 **Buy-zone updates (pre-market May 19):**
 - GOOGL: $396.94 pre-market → **$398.80 at 10 AM CT** (11 AM ET). Distance from $403-405 pivot: ~−1.0 to −1.5%. Google I/O Day 1 underway (AI product announcements). Mizuho raised PT to $460. N-letter intact/strengthening. Base: wk 3 of 3-5 still forming. Status: 🟡 WATCHING — below pivot; no volume trigger; entry gated by Under Pressure + incomplete base + Alpaca blocked.
 - NVDA: EARNINGS BLACKOUT through May 20 AH. Pre-market: +$4.71 (~$230, at/near ATH). Earnings tomorrow: $1.78 EPS / $79.2B rev est. (+120%/+79.5% YoY). H200 China: US has export licenses; China has NOT approved imports. Re-score May 21 /pre-market.

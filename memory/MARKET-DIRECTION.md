@@ -8,13 +8,25 @@
 
 **Status:** 🔴 **MARKET IN CORRECTION**
 
-**Last updated:** 2026-05-19 (Tue) — `/eod-review` 3:15 PM CT
-**STATE:** 🔴 Market in Correction | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 queued (Alpaca Day 48 blocked — HIGHEST PRIORITY on restore)
-**Alpaca API — Day 48** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
+**Last updated:** 2026-05-20 (Wed) — `/pre-market` 6:00 AM CT
+**STATE:** 🔴 Market in Correction | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 queued (Alpaca Day 49 blocked — HIGHEST PRIORITY on restore)
+**Alpaca API — Day 49** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
 
 **⚠️ STATE CHANGE: 🟡 Uptrend Under Pressure → 🔴 MARKET IN CORRECTION**
 **Trigger:** Distribution Day #6 confirmed (estimated) at May 19 close. Dist count 6/25 hits the Correction threshold.
 **Effective:** 2026-05-19 EOD. All new long entries blocked. Sell weakness. Hedge with SH/SQQQ when Alpaca restores.
+
+**✅ MAY 20 PRE-MARKET (/pre-market 6:00 AM CT):**
+- ES futures: ~7,363 (~+0.13% implied vs May 19 close 7,353.61) | NQ: ~28,877 (−0.16%)
+- Oil: Brent ~$108-111 (Iran tensions persisting; no overnight resolution)
+- FOMC minutes at 1 PM CT today — rate hike probability rising (20% Oct / 30% Dec under Warsh). Gate active: no entries before 1 PM CT. Moot — Correction blocks all longs.
+- **NVDA earnings AH today** — $1.78 EPS / $79.2B revenue consensus. 90% beat probability. Binary FTD catalyst: beat + Q2 guide >$87B = potential FTD May 22 (Day 4). Miss = deeper Correction.
+- GOOGL: Google I/O Day 2 (technology presentations 8 AM ET). Pre-market ~$386-388, pivot ~$403-405 (−3.9% below). No negative catalysts. 🟡 WATCHING.
+- VRT: Investor conference Day 2 today (tech presentations 8 AM ET). No new guidance yet.
+- **Rally attempt: Day 2 today (Day 1 = May 19, SPY low $733.39)**
+- **FTD window: May 22 (Day 4), May 26 (Day 5), May 27 (Day 6), May 28 (Day 7)**
+- **Alpaca Day 49 still blocked.** Hedge SH $625 queued — FIRST ORDER on restore.
+- Open positions: 0 | Actions: NONE | Circuit breakers: ALL CLEAR | `research_source: websearch_fallback`
 
 **✅ MAY 19 CLOSE (confirmed via websearch_fallback):**
 - S&P 500: **7,353.61** (−0.67% from May 18's 7,403.05) | Nasdaq: **25,870.71** (−0.84%) | Dow: **49,375.46** (−0.65%)

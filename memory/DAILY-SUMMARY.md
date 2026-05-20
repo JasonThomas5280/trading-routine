@@ -1518,3 +1518,18 @@ NVDA earnings May 20 AH = binary FTD catalyst.
 Circuit breakers: NONE ACTIVE
 
 Tomorrow: NVDA AH (beat+>87B guide = FTD cand. May 22; miss = more dist days). FOMC minutes 1PM CT (no entries Wed AM). WMT Thu AM.
+
+---
+## 2026-05-20 11:13 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-20
+Market: 🔴 IN CORRECTION (6/25 dist days) | Futures: ES ~7,363 (~+0.13%) NQ ~28,877 (−0.16%)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: N/A — 0 positions
+Alpaca: BLOCKED Day 49 | Perplexity: ❌ | AV: ❌ | research_source: websearch_fallback
+Watchlist ready (🟢): NONE — all entries blocked (Correction)
+Watchlist watching (🟡): GOOGL ~$386-388 (pivot $403-405, −4%); VRT conf Day 2 (score TBD)
+Removed: —
+FOMC gate: ACTIVE — minutes at 1PM CT (no entries Wed AM; moot given Correction)
+Key catalyst today: ⚠️ NVDA earnings AH — $1.78 EPS / $79.2B rev consensus; 90% beat prob; binary FTD trigger
+Plan: NO entries. Hedge SH $625 queued — FIRST order when Alpaca restores (Day 49). Watch NVDA AH for FTD setup May 22.
