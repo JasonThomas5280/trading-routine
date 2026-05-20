@@ -46,13 +46,13 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-05-19 /eod-review — 0 open positions; Alpaca API blocked Day 48; SPY est. ~$733.75 close (−0.67%); S&P 500 7,353.61 (−0.67%); QQQ est. ~$699.95 (−0.84%); dist count 6/25 — DIST DAY #6 CONFIRMED (est., volume vs May 18's 19.3M: above given macro catalyst); **⚠️ STATE CHANGE → 🔴 MARKET IN CORRECTION**; rally attempt RESET AGAIN (Day 1 = May 19, SPY low $733.39); SH/SQQQ hedge queued $625/25% — Alpaca Day 48 blocked, HIGHEST PRIORITY on restore)*
+*(Updated 2026-05-20 /eod-review — 0 open positions; Alpaca API blocked Day 49; SPY est. ~$736.10 close (+0.32%); S&P 500 est. ~7,377 (+0.32%); QQQ est. ~$703.80 (+0.55%); dist count 6/25 UNCHANGED — **🔴 MARKET IN CORRECTION** state active; NOT a distribution day (UP day); rally attempt Day 2 (Day 1 = May 19, SPY low $733.39); FTD window: May 22 (Day 4), May 26-28; NVDA Q1 FY2027 earnings AH pending confirmation at /pre-market May 21; SH/SQQQ hedge queued $625/25% — Alpaca Day 49 blocked, HIGHEST PRIORITY on restore; `research_source: websearch_fallback`)*
 
 ---
 
 ## Weekly Trade Count (rolling)
 
-**Week of 2026-05-18:** 0 new positions opened (max 3/week) | Market: 🔴 IN CORRECTION (state changed May 19 EOD) — NO new long entries | Alpaca Day 48 blocked | Hedge SH $625 queued (highest priority) | P&L week: $0 (0%) | /eod-review May 19: dist count 6/25 → Correction; rally attempt reset Day 1=May 19; FTD window May 22-28; NVDA earnings May 20 AH (binary FTD catalyst)
+**Week of 2026-05-18:** 0 new positions opened (max 3/week) | Market: 🔴 IN CORRECTION — NO new long entries | Alpaca Day 49 blocked | Hedge SH $625 queued (highest priority) | P&L week: $0 (0%) | /eod-review May 20: dist count 6/25 UNCHANGED; rally attempt Day 2 (Day 1=May 19 SPY low $733.39); FTD window May 22 (Day 4)-May 28 (Day 7); NVDA Q1 FY2027 earnings AH results pending /pre-market May 21; FOMC minutes hawkish (absorbed); WMT earnings Thu May 21 AM (next dist day risk)
 **Week of 2026-05-11:** 0 new positions opened (max 3/week) ← WEEK CLOSED (reset Mon May 11; Alpaca blocked all week Day 43 by Fri /eod-review; zero tradeable setups; 0/3 trades used; market state changed to Uptrend Under Pressure on final day)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)
 **Week of 2026-04-28:** 0 new positions opened (max 3/week) — CLOSED Fri May 1 (Alpaca API blocked entire week; 0/3 used)

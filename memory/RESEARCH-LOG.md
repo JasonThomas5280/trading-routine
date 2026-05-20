@@ -5475,3 +5475,80 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 - Iran/oil elevated (~$108-111 Brent) — bond rout driver persisting
 - NVDA miss scenario = additional distribution, deeper drawdown on rally attempt
 
+
+---
+
+## 2026-05-20 (Wed) — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: ❌ 403 blocked — Day 49; Perplexity: ❌ 403; Alpha Vantage: ❌ 403)
+**Market direction pull:** 🔴 Market in Correction | 6/25 distribution days | NO new long entries
+**Positions held:** 0 | **Actions today:** NONE | **sell-rules-engine:** SKIPPED (0 positions)
+
+### Close snapshot
+
+| Metric | Value | Source confidence |
+|---|---|---|
+| S&P 500 close | est. ~7,377 (+0.32% from 7,353.61) | Medium (websearch_fallback) |
+| SPY est. close | ~$736.10 | Medium |
+| QQQ est. close | ~$703.80 (+0.55%) | Medium |
+| Nasdaq | est. +0.55% | Medium |
+| Dow | +0.16% | Medium |
+| Russell 2000 | −1.01% (breadth divergence, 3rd consecutive session) | Medium |
+| Distribution day today | NO — UP day (+0.32%), cannot be distribution | High |
+| Dist count | 6/25 UNCHANGED | High |
+| Market state | 🔴 MARKET IN CORRECTION — no change | High |
+| Rally attempt | Day 2 (Day 1 = May 19, SPY low $733.39) | High |
+| FTD window | May 22 (Day 4), May 26 (D5), May 27 (D6), May 28 (D7) | High |
+| SPY vs 50d MA | ~$736 vs ~$692 est. = +6.3% above (NOT breaking 50d) | Medium |
+| Equity | $2,500 (HWM; 0 P&L since inception) | High |
+| Alpaca API | ❌ 403 "Host not in allowlist" — Day 49 | Confirmed |
+
+### Key events today
+
+**FOMC minutes (1 PM CT / 2 PM ET):**
+- Powell's final meeting (April 29-30) minutes released under new Chair Warsh
+- Tone: **HAWKISH** — 4 dissents (1 for cut, 3 rejecting easing bias)
+- FOMC members increasingly signaling openness to rate hikes, not just holds
+- Market absorbed hawkish minutes (still closed UP +0.32%)
+- Rate hike probability: 20% Oct / 30% Dec (Warsh framework)
+
+**NVDA Q1 FY2027 earnings AH:**
+- Conference call at 5 PM ET — results NOT yet released at 3:15 PM CT /eod-review
+- Pre-result consensus: $78.8B revenue / $1.77 EPS (+78-120% YoY)
+- Q2 guidance key: consensus $87B, Goldman $87.7B, whisper $90B+
+- Beat + Q2 guide >$87B → **FTD candidate May 22 (Day 4)** — upgrade from Correction to Uptrend
+- Miss/soft guide → additional distribution day May 21 → deeper Correction
+- **Action:** Full re-score at /pre-market May 21 post-AH results
+
+**WMT earnings tomorrow (Thu May 21 AM):**
+- Consumer health signal; potential distribution day risk if miss
+
+### Watchlist status
+
+| Symbol | Price est. | Pivot | Status | Notes |
+|---|---|---|---|---|
+| GOOGL | ~$388-390 | ~$403-405 | 🟡 WATCHING | ~3.5% below pivot; Google I/O AI positive; base forming week 4/5; Correction blocks entry |
+| NVDA | ~$220 intraday | TBD post-earnings | ⛔ BLACKOUT → re-score | Earnings AH tonight; re-score /pre-market May 21 |
+| VRT | ~$335-370 est. | TBD (GAAP needed) | 🟡 WATCHING | Investor conference complete; formal score pending data restore |
+| SH (hedge) | ~$25 est. | N/A | ⚠️ QUEUED $625 | FIRST ORDER when Alpaca restores; Correction hedge |
+
+### Circuit breakers
+
+- Daily P&L: $0 (0%) → -3% breaker: **NOT ACTIVE**
+- Weekly P&L: $0 (0%) → -6% breaker: **NOT ACTIVE**
+- Drawdown from HWM: $0 (0%) → -12% breaker: **NOT ACTIVE**
+- PDT count: 0/3 → **NOT ACTIVE**
+- **ALL CIRCUIT BREAKERS CLEAR**
+
+### EOD summary
+
+**Close:** SPY ~$736.10 (+0.32%) | QQQ ~$703.80 (+0.55%)
+**Distribution days:** 6/25 (today: NO new dist day — UP day)
+**Market state:** 🔴 Market in Correction (NO state change today)
+**Positions held:** 0
+**Actions today:** NONE
+**Circuit breakers:** None
+**P&L today:** $0 (0%)
+**Equity:** $2,500.00
+
+**Tomorrow's watch:** NVDA AH results (binary FTD/continuation catalyst) | WMT earnings AM (consumer health) | Rally attempt Day 3 — need 4 more UP days (Day 4 = FTD eligible)

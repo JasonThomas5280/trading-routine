@@ -1562,3 +1562,28 @@ Watchlist:
 
 Open positions: 0 (100% cash) | Weekly trades: 0 of 3 used
 Next: /eod-review 3:15 PM CT (post-close + post-FOMC + post-NVDA earnings)
+
+---
+## 2026-05-20 15:15 CT [eod-review]
+
+📊 EOD 2026-05-20 | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 CORRECTION — no change today)
+Rally attempt: Day 2 (Day 1 = May 19 SPY low $733.39) | FTD window: May 22/26/27/28
+
+Actions today:
+  • NO new entries (Correction + Alpaca Day 49 blocked)
+  • sell-rules-engine: SKIPPED — 0 open positions
+  • Hedge SH $625 queued — FIRST ORDER on Alpaca restore
+  • FOMC minutes (1 PM CT): HAWKISH — rate hike openness; market absorbed (+0.32%)
+  • NVDA Q1 FY2027 earnings AH: results pending (conf call 5 PM ET)
+
+Close: SPY ~$736 (+0.32%) | QQQ ~$704 (+0.55%) | Russel 2000 −1.01% (breadth divergence)
+NOT a distribution day. 6/25 count unchanged.
+
+Tomorrow (Thu May 21):
+  • ⚠️ WMT earnings AM — consumer health signal; dist day risk if miss
+  • ⚠️ NVDA AH results will be known — /pre-market re-score mandatory
+  • Beat + Q2 guide >$87B → FTD candidate May 22 (Day 4)
+  • Miss/soft → dist day May 21 risk; deeper Correction
+  • Alpaca restore: SH $625 hedge = FIRST execution priority
