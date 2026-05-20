@@ -1533,3 +1533,32 @@ Removed: —
 FOMC gate: ACTIVE — minutes at 1PM CT (no entries Wed AM; moot given Correction)
 Key catalyst today: ⚠️ NVDA earnings AH — $1.78 EPS / $79.2B rev consensus; 90% beat prob; binary FTD trigger
 Plan: NO entries. Hedge SH $625 queued — FIRST order when Alpaca restores (Day 49). Watch NVDA AH for FTD setup May 22.
+
+---
+## 2026-05-20 15:10 CT [clickup-placeholder]
+
+📈 Market-check 2026-05-20 10:00 AM CT
+Market: 🔴 IN CORRECTION (6/25 dist days) | Alpaca: ❌ Day 49 blocked | FOMC minutes 1 PM CT
+Circuit breakers: NONE
+
+Actions taken:
+  • No new entries — gate: Market in Correction (ALL longs blocked)
+  • Hedge SH $625 queued — Alpaca Day 49 blocked (FIRST ORDER on restore)
+  • sell-rules-engine: SKIPPED (0 open positions)
+
+Intraday snapshot (11 AM ET, websearch_fallback):
+  • S&P 500 +0.32% | Nasdaq +0.55% | Dow +0.16% | Russell 2000 −1.01% (breadth divergence)
+  • QQQ open $700.11, range $695.27–$706.49 | SPY est. ~$736
+  • Rally attempt Day 2 (Day 1 = May 19 SPY low $733.39) | FTD window: May 22 (Day 4)
+
+Watchlist:
+  • GOOGL $388.85 (−2.04%) — 3.6% below $403-405 pivot; 🟡 WATCHING; no trigger
+  • NVDA $220.61 (−0.77%) — BLACKOUT; earnings AH tonight ($1.78/$79.2B cons; whisper >$80B; Q2 >$86.6B for rally)
+  • VRT — Conference Day 2 ongoing; no guidance surfaced; insufficient_data_flag unchanged
+
+⚠️ BINARY CATALYST TONIGHT — NVDA earnings AH:
+  Beat + Q2 >$86.6B → FTD candidate May 22 → potential Correction→Uptrend recovery
+  Miss/soft guide → deeper Correction; possible additional distribution
+
+Open positions: 0 (100% cash) | Weekly trades: 0 of 3 used
+Next: /eod-review 3:15 PM CT (post-close + post-FOMC + post-NVDA earnings)

@@ -28,6 +28,20 @@
 - **Alpaca Day 49 still blocked.** Hedge SH $625 queued — FIRST ORDER on restore.
 - Open positions: 0 | Actions: NONE | Circuit breakers: ALL CLEAR | `research_source: websearch_fallback`
 
+**Wednesday May 20 intraday (/market-check, 10:00 AM CT):**
+- S&P 500: est. +0.32% (~7,377) | Nasdaq: +0.55% | Dow: +0.16% | Russell 2000: −1.01% (breadth divergence) | `research_source: websearch_fallback` | **Alpaca blocked Day 49**
+- QQQ: open $700.11, range $695.27–$706.49 | SPY est. ~$736 (+0.32% from $733.75 May 19 close)
+- **Abort gates: 🔴 Correction (6/25 dist days) → ALL LONG ENTRIES BLOCKED. Alpaca Day 49 → no execution possible. Both gates fired.**
+- FOMC minutes 1 PM CT today → gate active (moot given Correction)
+- **Rally attempt: Day 2 (Day 1 = May 19, SPY low $733.39)** — UP day today counts toward rally attempt; FTD window unchanged: May 22 (Day 4), May 26, 27, 28.
+- Russell 2000 −1.01% breadth divergence (small caps lagging; AI/large-cap narrative driving today's positive S&P/Nasdaq action)
+- GOOGL: $388.85 (−2.04%); 3.6% below $403-405 pivot → 🟡 WATCHING unchanged; no trigger
+- NVDA: $220.61 (−0.77%), range $217.91–$224.48; **BLACKOUT through AH tonight.** Consensus: $1.78 EPS / $79.2B revenue (+120%/+79.5% YoY). "Whisper" >$80B revenue. Q2 guide >$86.6B needed for meaningful rally. Options pricing 8-10% swing. **Binary FTD catalyst tonight.**
+- VRT: Investor conference Day 2 (tech presentations since 8 AM ET). No formal guidance numbers surfaced. `insufficient_data_flag` unchanged.
+- Hedge SH $625: still queued; Alpaca Day 49 blocked; FIRST ORDER on restore.
+- Bench: no promotions/demotions. All status unchanged.
+- Actions: NONE | sell-rules-engine: SKIPPED (0 positions) | Weekly trade count: 0/3 | Equity est. $2,500
+
 **✅ MAY 19 CLOSE (confirmed via websearch_fallback):**
 - S&P 500: **7,353.61** (−0.67% from May 18's 7,403.05) | Nasdaq: **25,870.71** (−0.84%) | Dow: **49,375.46** (−0.65%)
 - SPY est. close: **~$733.75** (range today $733.39–$741.42; low $733.39)

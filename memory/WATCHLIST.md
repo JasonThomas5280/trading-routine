@@ -8,6 +8,7 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## Week of 2026-05-18 to 2026-05-22
 
+**Market-check:** 2026-05-20 10:00 AM CT — `/market-check` | `research_source: websearch_fallback` | Alpaca Day 49 blocked | **All entry gates blocked (Correction)** | S&P +0.32% / Nasdaq +0.55% / Russell 2000 −1.01% | Rally attempt Day 2 | NVDA earnings AH tonight (binary FTD catalyst) | GOOGL $388.85 (−2.04%, 3.6% below pivot, WATCHING unchanged) | NVDA BLACKOUT ($220.61) | VRT conf Day 2 ongoing | No promotions/demotions | 0 positions | Hedge SH $625 queued (Alpaca blocked)
 **Pre-market refresh:** 2026-05-20 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 49 | Perplexity 403 | AV 403) | **All entry gates blocked (Correction)**
 **Market-check:** 2026-05-19 10:00 AM CT — `/market-check` | `research_source: websearch_fallback` | Alpaca Day 47 blocked | **All entry gates blocked (Under Pressure)**
 **Pre-market refresh:** 2026-05-19 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 47 | Perplexity 403 | AV 403)
