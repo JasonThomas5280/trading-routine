@@ -8,9 +8,23 @@
 
 **Status:** 🔴 **MARKET IN CORRECTION**
 
-**Last updated:** 2026-05-20 (Wed) — `/eod-review` 3:15 PM CT
-**STATE:** 🔴 Market in Correction | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 queued (Alpaca Day 49 blocked — HIGHEST PRIORITY on restore)
-**Alpaca API — Day 49** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
+**Last updated:** 2026-05-21 (Thu) — `/pre-market` 6:00 AM CT
+**STATE:** 🔴 Market in Correction | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 queued (Alpaca Day 50 blocked — HIGHEST PRIORITY on restore)
+**Alpaca API — Day 50** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
+
+**✅ MAY 21 PRE-MARKET (/pre-market 6:00 AM CT):**
+- **⚠️ DATA CORRECTION: May 20 S&P 500 actual close = 7,432.97 (+1.08%)** (vs our estimate ~7,377 / +0.32% — websearch_fallback undercount by ~0.76%). Nasdaq actual: 26,270.36 (+1.54%). SPY est. close: ~$743 (+1.08% from $733.75). Driven by Iran "final stages" peace talks (Trump) + pre-NVDA optimism + oil WTI −5.66% to ~$96, Brent −5.63% to ~$101-102.
+- **NVDA Q1 FY2027 BLOCKBUSTER BEAT (AH May 20):** Revenue $81.6B (+85% YoY) vs $79.2B cons. ✅ | EPS $1.87 non-GAAP vs $1.76-1.78 cons. ✅ | Data Center $75.2B (+92% YoY) RECORD ✅ | Q2 guidance $91.0B ±2% excl. China vs $87.3B cons. ✅ | $80B additional buyback | Dividend $0.01 → $0.25 (25×). China (H20): confirmed zero — US export controls permanent. Stock reaction: MUTED (sell-the-news). NVDA trading $216-227 May 21 (flat vs May 20 close ~$221). Beat 4 of last 5 post-earnings sessions closed lower — pattern confirmed.
+- **WMT Q1 FY2027 AM beat (May 21):** EPS $0.61 vs $0.58 (+5.7%) ✅ | Revenue $163.98B vs $164.43B (−0.27%) ❌ thin miss. eCommerce +22%, advertising +50%, comps +4.5%. Consumer health: POSITIVE overall. Not a dist day catalyst.
+- **Oil/Iran:** WTI ~$96 (−5.66%), Brent ~$101 (−5.63%). Trump: "final stages" Iran negotiations. Major inflation/geopolitical risk reduction. Treasury yields expected to pull back.
+- ES futures: ~+0.09% (flat) | NQ futures: ~+0.69% | 66% prob S&P opens UP (Polymarket)
+- **Rally attempt: Day 3 (today May 21).** Day 1 = May 19 (SPY low $733.39). Day 2 = May 20 (+1.08% STRONG). FTD window UNCHANGED: **May 22 (Day 4), May 26 (Day 5), May 27 (Day 6), May 28 (Day 7).** [May 25 = Memorial Day, closed]
+- **FTD probability: MODERATE-HIGH.** Needs +1.25%+ S&P on higher volume. Oil drop + Iran de-escalation + NVDA beat + WMT constructive = bullish backdrop. Risk: NVDA sell-the-news (stock muted), ES only +0.09%.
+- U of Michigan Consumer Sentiment (Fri May 22) — key dist day risk or FTD confirmation data point.
+- GOOGL: ~$387-388 pre-market, pivot ~$403-405 (~−4%). Google I/O concluded. BofA $430 PT. Base wk 5 forming. 🟡 WATCHING — no change.
+- VRT: ~$324 overnight (flat). Investor conference produced no formal guidance. 🟡 WATCHING — unchanged.
+- 0 open positions → sell-rules-engine: SKIPPED | Hedge SH $625 queued (Alpaca Day 50 blocked)
+- Circuit breakers: ALL CLEAR | Equity: $2,500 (HWM) | `research_source: websearch_fallback`
 
 **⚠️ STATE CHANGE: 🟡 Uptrend Under Pressure → 🔴 MARKET IN CORRECTION**
 **Trigger:** Distribution Day #6 confirmed (estimated) at May 19 close. Dist count 6/25 hits the Correction threshold.

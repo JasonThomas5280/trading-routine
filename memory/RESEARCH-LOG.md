@@ -5542,13 +5542,95 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 
 ### EOD summary
 
-**Close:** SPY ~$736.10 (+0.32%) | QQQ ~$703.80 (+0.55%)
-**Distribution days:** 6/25 (today: NO new dist day — UP day)
+**Close:** SPY ~$743 (+1.08% actual — CORRECTED at /pre-market May 21) | QQQ ~$708 (+1.54% actual) | S&P 500: 7,432.97 | Nasdaq: 26,270.36
+**Distribution days:** 6/25 (today: NO new dist day — UP day; actual +1.08%)
 **Market state:** 🔴 Market in Correction (NO state change today)
 **Positions held:** 0
 **Actions today:** NONE
 **Circuit breakers:** None
 **P&L today:** $0 (0%)
 **Equity:** $2,500.00
+
+---
+
+## 2026-05-21 (Thu) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 50; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | 6/25 distribution days | NO new long entries
+**Rally attempt:** Day 3 (Day 1 = May 19, SPY low $733.39) | FTD window: May 22 (Day 4) through May 28 (Day 7)
+
+### Data source status
+
+| Source | Status |
+|---|---|
+| Alpaca API | ❌ 403 "Host not in allowlist" — Day 50 consecutive |
+| Alpha Vantage | ❌ 403 blocked |
+| Perplexity | ❌ 403 blocked |
+| WebSearch | ✅ Available (sole data source) |
+
+### DATA CORRECTION — May 20 close
+
+| Metric | Prior estimate | Actual (confirmed) | Delta |
+|---|---|---|---|
+| S&P 500 close | ~7,377 (+0.32%) | **7,432.97 (+1.08%)** | +55.97 pts / +0.76% undercount |
+| Nasdaq close | ~25,870+0.55% est. | **26,270.36 (+1.54%)** | +0.99% undercount |
+| SPY est. close | ~$736 | **~$743** | Significant |
+| Driver (missed) | Partial | Iran "final stages" peace talks (Trump announced late session) + oil WTI −5.66% to ~$96 | Market rallied harder than morning estimate |
+
+### Overnight catalysts
+
+| Symbol | Catalyst | Thesis Impact | Action |
+|---|---|---|---|
+| NVDA | Q1 FY2027 BEAT: $81.6B rev (+85% YoY) vs $79.2B, EPS $1.87 vs $1.78, Data Center $75.2B (+92%, RECORD), Q2 guide $91.0B ±2% excl. China vs $87.3B cons. $80B buyback. Div $0.01→$0.25. China H20: CONFIRMED ZERO permanently. | **POSITIVE for AI capex/market thesis. NEGATIVE for NVDA score N-letter (China = no new market).** Beat massive but stock MUTED ($216-227 range May 21 — sell-the-news; 4 of 5 post-earnings sessions closed lower). Score est. 72-82/100. Needs new base + Alpaca restore for full canslim-screener. | 🟡 WATCH — re-score when Alpaca+AV restore. No entry until FTD + base. |
+| WMT | Q1 FY2027: EPS $0.61 vs $0.58 (+5.7%) ✅. Revenue $163.98B vs $164.43B (−0.27%) ❌ thin miss. eCommerce +22%, advertising +50%, comps +4.5%. | **POSITIVE — consumer health broadly intact. Thin revenue miss is not a thesis-breaker.** No dist day risk from WMT alone. | No watchlist impact. Market signal: consumer resilient. |
+| Oil/Iran | WTI −5.66% (~$96); Brent −5.63% (~$101). Trump: "final stages" Iran negotiations. | **MAJOR POSITIVE** — inflation concerns easing; Treasury yields expected to retreat from 30yr high of 5.198%. Macro tailwind for equities. | Bullish for FTD probability. |
+| GOOGL | BofA $430 PT reaffirmed after Google I/O. No negative catalysts. Pre-market ~$387. | No change to thesis. Base wk 5 forming. | 🟡 WATCHING unchanged. |
+| VRT | Overnight ~$324 (flat). Investor conference (May 19-20) produced no formal guidance numbers. | No change to thesis. `insufficient_data_flag` unchanged. | 🟡 WATCHING unchanged. |
+
+### Market overnight check
+
+| Indicator | Level | vs Prior | Notes |
+|---|---|---|---|
+| ES futures (S&P) | ~+0.09% | Essentially flat | 66% Polymarket prob of UP open |
+| NQ futures (Nasdaq) | ~+0.69% | Modest positive | Nvidia beat partially supporting semis |
+| Oil (WTI) | ~$96 | −5.66% (prior ~$101-102) | Iran "final stages" talks = inflation tailwind |
+| Oil (Brent) | ~$101 | −5.63% | Major regime change from $108 |
+| Treasury yields | Likely lower | Off 30yr high 5.198% | Not confirmed — inferred from oil drop + Iran |
+| Iran situation | "Final stages" | Improving | Geopolitical risk premium reducing |
+
+**FTD assessment:** MODERATE-HIGH probability for May 22 (Day 4). Needed: S&P +1.25%+ on volume > today. Backdrop: oil drop, Iran talks, NVDA beat, consumer positive (WMT). Risk: NVDA muted, ES only +0.09%, U of Michigan sentiment Fri (potential volatility).
+
+### Overnight gap check on open positions
+
+**No open positions — gap check skipped.**
+
+### Buy-zone readiness
+
+| Symbol | Pre-mkt price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$387-388 | ~$403-405 | ~−4.0% | 🟡 WATCHING — no trigger; entry gated by Correction + base incomplete |
+| NVDA | ~$216-227 | TBD (base forming) | N/A | 🟡 WATCH — post-earnings consolidation; no valid base yet |
+| VRT | ~$324 | TBD (formal score needed) | N/A | 🟡 WATCHING — `insufficient_data_flag`; needs Alpaca+AV |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | $0 P&L (no positions) — CLEAR |
+| Weekly -6% | $0 week-to-date — CLEAR |
+| Drawdown -12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Market state | 🔴 Correction — NO new long entries |
+| Alpaca API | ❌ 403 blocked Day 50 — HALT ALL ENTRIES |
+
+### Pending watch items (carry to /market-check 10:00 AM CT)
+
+- **FTD watch (May 22, Day 4):** First FTD window opens tomorrow. Need S&P 500 +1.25%+ on higher volume. If confirmed → state flips to 🟢 Confirmed Uptrend → evaluate GOOGL (if base at $403-405 pivot) + re-score NVDA.
+- **Dist day risk:** WMT today + ongoing market reaction to NVDA. If S&P closes ≥−0.20% on elevated volume today → dist day #7 (no state change; still Correction at 6+; but extends aging).
+- **U of Michigan Sentiment (Fri May 22):** Key consumer confidence data — same day as potential FTD. A miss could kill a Day 4 rally.
+- **NVDA base watch:** If NVDA consolidates $210-230 range for 3+ weeks → new flat base forms → rescore when Alpaca restores.
+- **Alpaca API:** Day 50 — escalation continues. Still highest priority when resolved.
+
+### Result: NO ENTRIES — Market in Correction (6/25) + Alpaca API blocked Day 50. `research_source: websearch_fallback`
 
 **Tomorrow's watch:** NVDA AH results (binary FTD/continuation catalyst) | WMT earnings AM (consumer health) | Rally attempt Day 3 — need 4 more UP days (Day 4 = FTD eligible)

@@ -1587,3 +1587,37 @@ Tomorrow (Thu May 21):
   • Beat + Q2 guide >$87B → FTD candidate May 22 (Day 4)
   • Miss/soft → dist day May 21 risk; deeper Correction
   • Alpaca restore: SH $625 hedge = FIRST execution priority
+
+---
+## 2026-05-21 11:16 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-21 (Thu)
+Market: 🔴 CORRECTION (6/25 dist days) | ES +0.09% / NQ +0.69%
+Open positions: 0 | Circuit breakers: NONE | Alpaca: ❌ Day 50 blocked
+
+DATA CORRECTION: May 20 S&P actual +1.08% → 7,432.97 (est. was +0.32%); Nasdaq +1.54% → 26,270.36
+
+Overnight gaps: NONE (0 positions)
+
+NVDA Q1 FY2027 BEAT:
+  • Rev 1.6B (+85% YoY) vs 9.2B cons ✅
+  • EPS .87 vs .78 cons ✅
+  • Data Center 5.2B (+92% YoY, RECORD) ✅
+  • Q2 guide 1.0B ±2% excl. China vs 7.3B cons ✅
+  • 0B buyback + div /bin/bash.01→/bin/bash.25 (25×)
+  • China H20: CONFIRMED ZERO (permanent). Stock: MUTED 16-227 (sell-the-news)
+  • NVDA score: est. 72-82/100 — needs new base + Alpaca/AV restore
+
+WMT Q1: EPS /bin/bash.61 vs /bin/bash.58 ✅ | Rev 63.98B vs 64.43B ❌ (thin miss) | Consumer: POSITIVE
+
+Oil/Iran: WTI -5.66% (~$96) | Brent -5.63% (~$101) | Trump: 'final stages' Iran talks | Inflation tailwind
+
+Rally attempt: Day 3 | FTD window opens TOMORROW (May 22, Day 4) | Needs S&P +1.25%+ on higher vol
+
+Watchlist ready: NONE (all gated by Correction)
+Watchlist watching: GOOGL ~$387 (−4% from $403-405 pivot, base wk 5), NVDA (base forming, no pivot), VRT ~$324 (formal score pending)
+Removed: NONE
+
+Key catalyst today: U of Michigan Sentiment Fri May 22 (FTD companion or killer)
+
+Plan: NO entries — Correction active. Hedge SH $625 first order on Alpaca restore. Monitor for FTD May 22.
