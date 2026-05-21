@@ -26,6 +26,18 @@
 - 0 open positions → sell-rules-engine: SKIPPED | Hedge SH $625 queued (Alpaca Day 50 blocked)
 - Circuit breakers: ALL CLEAR | Equity: $2,500 (HWM) | `research_source: websearch_fallback`
 
+**Thursday May 21 intraday (/market-check, 10:00 AM CT):**
+- S&P 500: est. −0.36% (~7,406; −27pts from 7,432.97 actual May 20 close) | SPY est. ~$741.20 (−0.24%) | Oil WTI est. ~$101 (↑ sharply from pre-market $96) | `research_source: websearch_fallback` | **Alpaca blocked Day 50**
+- **⚠️ OIL REVERSAL — Iran hardline:** Iran Supreme Leader says enriched uranium must stay in Iran — contradicts Trump's "final stages" claim from pre-market. WTI ~$101 (+$5 from $96). Inflation risk back on table.
+- **WMT post-earnings: CAUTIONARY consumer signal.** −7.11% intraday on weak Q2 revenue guidance ($185.4B vs est. ~$185.5-186B; −0.5% miss). Consumer defensive sector −2.3%. Forward guidance cautious = tariff/macro headwinds being priced in.
+- **Distribution day #7 risk at close:** S&P est. −0.36% (>−0.20% threshold ✅). Volume unconfirmed (Alpaca blocked). Already in Correction (6/25) — no state change if confirmed, but dist count → 7/25. Confirm at /eod-review.
+- **Rally attempt Day 3 INTACT:** SPY est. ~$741 >> Day 1 low $733.39. FTD window opens tomorrow (Day 4 = May 22). FTD probability REDUCED vs pre-market MODERATE-HIGH (oil reversal + WMT guidance miss = weaker macro backdrop).
+- Abort gates: 🔴 Correction → ALL LONG ENTRIES BLOCKED ✅ | Alpaca Day 50 → no execution possible ✅
+- GOOGL: $387.39 (range $382.90–$393.86; vol 31.74M vs 27.04M avg = +17.4% — below +40% threshold). 4.0–4.3% below $403–405 pivot. 🟡 WATCHING unchanged.
+- VRT: $324.21 (range $314.25–$331.45). Formal score pending (Alpaca + AV blocked). 🟡 WATCHING unchanged.
+- Bench check: GOOGL 4% below pivot (not within 2% → no promotion) | VRT pivot undefined → no promotion | NVDA no base → no promotion. No changes.
+- Actions: NONE | sell-rules-engine: SKIPPED (0 positions) | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+
 **⚠️ STATE CHANGE: 🟡 Uptrend Under Pressure → 🔴 MARKET IN CORRECTION**
 **Trigger:** Distribution Day #6 confirmed (estimated) at May 19 close. Dist count 6/25 hits the Correction threshold.
 **Effective:** 2026-05-19 EOD. All new long entries blocked. Sell weakness. Hedge with SH/SQQQ when Alpaca restores.

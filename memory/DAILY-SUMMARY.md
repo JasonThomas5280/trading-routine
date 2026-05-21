@@ -1621,3 +1621,29 @@ Removed: NONE
 Key catalyst today: U of Michigan Sentiment Fri May 22 (FTD companion or killer)
 
 Plan: NO entries — Correction active. Hedge SH $625 first order on Alpaca restore. Monitor for FTD May 22.
+
+---
+## 2026-05-21 10:00 CT [market-check]
+
+📈 Market-check 2026-05-21 10:00 AM CT
+Market: 🔴 IN CORRECTION (6/25 dist days) | Circuit breakers: NONE | Alpaca: ❌ BLOCKED Day 50
+
+Actions taken:
+  • No new entries — gates: 🔴 Correction (all longs blocked) + Alpaca Day 50 (no execution)
+  • sell-rules-engine: SKIPPED (0 open positions)
+
+Intraday snapshot (11 AM ET):
+  • S&P 500 est. −0.36% (~7,406) | SPY est. ~$741.20 (−0.24%) | Dow + Nasdaq also lower
+  • ⚠️ OIL REVERSAL: WTI ~$101 (↑ from pre-market $96) — Iran Supreme Leader says enriched uranium must stay in Iran; "final stages" narrative challenged
+  • ⚠️ WMT −7.11%: Q2 revenue guidance missed ($185.4B vs est. ~$185.5-186B; −0.5% miss) → consumer defensive sector −2.3% → CAUTIONARY consumer signal
+  • Dist day #7 risk at close: magnitude ✅ (−0.36% > −0.20%); volume unconfirmed (Alpaca blocked)
+  • Rally attempt Day 3 INTACT: SPY ~$741 >> Day 1 low $733.39; FTD window opens TOMORROW (May 22, Day 4)
+  • FTD probability REDUCED from pre-market MODERATE-HIGH: oil reversal + WMT guidance miss weaken macro backdrop
+
+Watchlist:
+  • GOOGL $387.39 (range $382.90–$393.86; vol 31.74M vs 27.04M avg = +17.4% — below +40% threshold; 4% below $403-405 pivot) → 🟡 WATCHING unchanged
+  • VRT $324.21 (range $314.25–$331.45; formal score pending) → 🟡 WATCHING unchanged
+  • No bench promotions (GOOGL 4% below pivot; VRT pivot undefined; NVDA no base)
+
+Open positions: 0 (100% cash, $2,500) | Weekly trades: 0 of 3 used
+Next check: /eod-review 3:15 PM CT
