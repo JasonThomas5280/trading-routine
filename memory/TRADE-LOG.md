@@ -46,13 +46,13 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-05-20 /eod-review — 0 open positions; Alpaca API blocked Day 49; SPY est. ~$736.10 close (+0.32%); S&P 500 est. ~7,377 (+0.32%); QQQ est. ~$703.80 (+0.55%); dist count 6/25 UNCHANGED — **🔴 MARKET IN CORRECTION** state active; NOT a distribution day (UP day); rally attempt Day 2 (Day 1 = May 19, SPY low $733.39); FTD window: May 22 (Day 4), May 26-28; NVDA Q1 FY2027 earnings AH pending confirmation at /pre-market May 21; SH/SQQQ hedge queued $625/25% — Alpaca Day 49 blocked, HIGHEST PRIORITY on restore; `research_source: websearch_fallback`)*
+*(Updated 2026-05-21 /eod-review — 0 open positions; Alpaca API blocked Day 51; SPY est. ~$739.70 close (−0.44%); S&P 500 est. ~7,400 (−0.44%); QQQ est. ~$707.20 (−0.50%); Russell 2000 +2.56% (breadth positive — small caps leading); dist count 6/25 UNCHANGED — **🔴 MARKET IN CORRECTION** state active; dist day #7 ESTIMATED (Apr 23 faded via 6% gain rule; net count unchanged); rally attempt Day 3 INTACT (SPY ~$739.70 >> Day 1 low $733.39); FTD window: May 22 (Day 4) TOMORROW, May 26-28; SH/SQQQ hedge queued $625/25% — Alpaca Day 51 blocked, HIGHEST PRIORITY on restore; `research_source: websearch_fallback`)*
 
 ---
 
 ## Weekly Trade Count (rolling)
 
-**Week of 2026-05-18:** 0 new positions opened (max 3/week) | Market: 🔴 IN CORRECTION — NO new long entries | Alpaca Day 50 blocked | Hedge SH $625 queued (highest priority) | P&L week: $0 (0%) | /pre-market May 21: DATA CORRECTION May 20 S&P actual +1.08% to 7,432.97; NVDA Q1 BEAT $81.6B/EPS$1.87/Q2 guide $91B (stock muted); WMT beat EPS/thin rev miss; oil WTI −5.66% (Iran "final stages"); rally attempt Day 3; FTD window May 22 (Day 4) through May 28 (Day 7); dist count 6/25 UNCHANGED; circuit breakers ALL CLEAR
+**Week of 2026-05-18:** 0 new positions opened (max 3/week) | Market: 🔴 IN CORRECTION — NO new long entries | Alpaca Day 51 blocked | Hedge SH $625 queued (highest priority) | P&L week: $0 (0%) | /eod-review May 21: S&P 500 est. ~7,400 (−0.44%); Russell 2000 +2.56% (breadth positive); dist day #7 estimated (Apr 23 fades; net count 6/25 unchanged); rally attempt Day 3 INTACT; FTD window opens TOMORROW May 22 (Day 4); U of Michigan Sentiment key catalyst Fri morning; circuit breakers ALL CLEAR
 **Week of 2026-05-11:** 0 new positions opened (max 3/week) ← WEEK CLOSED (reset Mon May 11; Alpaca blocked all week Day 43 by Fri /eod-review; zero tradeable setups; 0/3 trades used; market state changed to Uptrend Under Pressure on final day)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)
 **Week of 2026-04-28:** 0 new positions opened (max 3/week) — CLOSED Fri May 1 (Alpaca API blocked entire week; 0/3 used)

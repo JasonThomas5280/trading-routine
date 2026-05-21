@@ -1647,3 +1647,35 @@ Watchlist:
 
 Open positions: 0 (100% cash, $2,500) | Weekly trades: 0 of 3 used
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-05-21 15:15 CT [eod-review]
+
+📊 EOD 2026-05-21 | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction — UNCHANGED)
+
+Close data (websearch_fallback):
+  • S&P 500 est. ~7,400 (−0.44% from 7,432.97) | SPY ~$739.70 | QQQ ~$707.20 (−0.50%)
+  • Russell 2000 +2.56% ← BULLISH BREADTH DIVERGENCE (small caps outperform)
+  • Drivers: Iran Supreme Leader uranium hardline (oil +$2.86 to $101) | WMT −6.43% guidance miss | NVDA sell-the-news
+
+Actions today:
+  • sell-rules-engine: SKIPPED (0 open positions)
+  • Dist day #7 ESTIMATED (−0.44%; vol est. elevated; no state change)
+  • Apr 23 dist day FADED (+8% gain from $684.77 > 6% O'Neil rule) — net count 6/25 UNCHANGED
+  • Hedge SH $625: still queued (Alpaca Day 51 blocked — FIRST ORDER on restore)
+
+Rally attempt:
+  • Day 3 INTACT — SPY ~$739.70 >> Day 1 low $733.39 (not undercut)
+  • FTD window: May 22 (Day 4) TOMORROW | Needs S&P +1.25%+ on elevated volume
+  • FTD probability: LOW-MODERATE | U of Michigan Sentiment 7:30 AM CT = binary catalyst
+
+Tomorrow (May 22):
+  • U of Michigan Consumer Sentiment 7:30 AM CT — beat = FTD companion; miss = weakness
+  • GOOGL ~$387 (4% below $403-405 pivot) | NVDA consolidating (no base yet) | VRT watching
+  • If FTD: state → 🟢 Uptrend → evaluate GOOGL, re-score NVDA
+  • If no FTD: window shifts to May 26 (Day 5, post-Memorial Day)
+  • Memorial Day May 25 — markets closed
+
+Circuit breakers: NONE | Alpaca: ❌ Day 51 | `research_source: websearch_fallback`

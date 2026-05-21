@@ -5633,4 +5633,98 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 
 ### Result: NO ENTRIES — Market in Correction (6/25) + Alpaca API blocked Day 50. `research_source: websearch_fallback`
 
+---
+
+## 2026-05-21 (Thu) — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 51; Perplexity: blocked; Alpha Vantage: blocked)
+**Market direction pull:** 🔴 Market in Correction | 6/25 distribution days (unchanged)
+**Sector leaders (carry-forward):** XLC #1, XLI #2, XLE #3 | XLK: blackout (lagging)
+
+## 2026-05-21 — /eod-review
+
+**Close:** SPY ~$739.70 (−0.44%) | QQQ ~$707.20 (−0.50%) | S&P 500 est. ~7,400 | Russell 2000 **+2.56%** (bullish breadth divergence)
+**Distribution days:** 6/25 trailing 25 sessions (today: DIST DAY #7 ESTIMATED — Apr 23 FADES via 6% gain rule; net count unchanged)
+**Market state:** 🔴 Market in Correction (no state change — already in Correction at 6/25)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED (0 open positions)
+  - No buys, sells, or stop adjustments
+  - Apr 23 dist day FADED: SPY +8.0% from ~$684.77 Apr 23 close > 6% O'Neil fade rule → removed from count
+  - Dist day #7 ESTIMATED: S&P −0.44% on est. elevated volume (WMT −6.43% + sector rotation + Russell 2000 +2.56%)
+**Circuit breakers:** NONE
+**P&L today:** $0 ($0.00 / 0.00%)
+**Equity:** $2,500.00 (at HWM)
+
+### Market analysis
+
+| Index | Close (est.) | vs Prior | Notes |
+|---|---|---|---|
+| S&P 500 | ~7,400 | −0.44% | Exceeds −0.20% dist threshold; dist day #7 est. |
+| Nasdaq Composite | ~26,139 | −0.50% | Sell-the-news on NVDA |
+| Dow | ~−0.48% | | WMT −6.43% dragged Dow component |
+| Russell 2000 | +2.56% | ↑ | **BULLISH BREADTH DIVERGENCE** — small caps leading |
+| SPY | ~$739.70 | −0.44% | Above 50d MA ~$693 (+6.7%); rally attempt Day 1 low $733.39 NOT undercut |
+| QQQ | ~$707.20 | −0.50% | Above 50d SMA ~$639 |
+| WTI Oil | ~$101.14 | +$2.86 | Iran Supreme Leader hardline reversal |
+| 10yr Treasury | Rising | | Inflation risk back; yields up |
+
+### Drivers
+
+- **Iran Supreme Leader hardline:** Contradicted Trump's "final stages" claim — enriched uranium must stay in Iran. Oil +$2.86 to $101.14. Inflation/geopolitical risk premium returned.
+- **WMT −6.43%:** Q2 EPS guide $2.75-2.85 vs $2.91 expected. Tariff headwinds + consumer caution. Dow component → meaningful index drag. CAUTIONARY consumer signal for broader economy.
+- **NVDA sell-the-news:** Despite blockbuster beat ($81.6B rev, $1.87 EPS, Q2 guide $91B), stock hovered flat. Classic post-earnings sell-the-news. Q2 guidance missed "upper range of analyst estimates." Pattern confirmed (4 of last 5 post-earnings closed lower).
+- **Russell 2000 +2.56%:** Significant divergence — institutions rotating FROM large-cap tech/defensives INTO small caps. NOT a market collapse signal; a rotation signal. Historically this breadth divergence (small caps leading) is more often seen at market bottoms than at tops.
+
+### Distribution day #7 analysis
+
+| Factor | Assessment |
+|---|---|
+| Magnitude | −0.44% ✅ (exceeds −0.20% threshold) |
+| Volume vs May 20 (45M) | Estimated elevated — WMT institutional selling + sector rotation; `volume_confirmed: estimated` |
+| State change | NONE — already in Correction (6+); dist day #7 extends aging but doesn't change rules |
+| Apr 23 fade | ✅ CONFIRMED FADED — SPY +8.0% from $684.77 > 6% threshold; removed from active count |
+| Net dist count | 6/25 (Apr 28, May 4, May 7, May 15, May 19, May 21) |
+
+### Rally attempt status
+
+| Day | Date | Result | Notes |
+|---|---|---|---|
+| Day 1 | May 19 | SPY low $733.39 | Correction triggered (dist day #6) |
+| Day 2 | May 20 | +1.08% CONFIRMED | Strong — NVDA beat AH; oil drop |
+| Day 3 | May 21 | −0.44% | Down but did NOT undercut Day 1 low — INTACT |
+| **Day 4** | **May 22** | **FTD WINDOW OPENS** | Needs +1.25%+ S&P on higher volume than today |
+
+**FTD probability for May 22:** LOW-MODERATE. Positive: Russell 2000 +2.56% breadth support, U of Michigan Sentiment data tomorrow. Negative: Oil/yield headwinds, NVDA sell-the-news, WMT consumer caution.
+
+### Watchlist EOD status
+
+| Symbol | Close (est.) | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$387 | ~$403-405 | ~−4.0% | 🟡 WATCHING — no change; base wk 5 forming |
+| NVDA | ~$216-220 (flat) | TBD (no base) | N/A | 🟡 WATCHING — consolidation post-earnings; no valid base |
+| VRT | ~$324 | TBD | N/A | 🟡 WATCHING — `insufficient_data_flag` unchanged |
+
+### Tomorrow (May 22 — FTD window Day 4)
+
+- **U of Michigan Consumer Sentiment 7:30 AM CT** — consensus unknown; beat = bullish, miss = bearish
+- **FTD possibility:** S&P needs +1.25%+ on volume higher than today's estimated elevated level. HIGH BAR given today's institutional selling context.
+- **If FTD confirmed:** State → 🟢 Confirmed Uptrend → evaluate GOOGL (if pivot reached $403-405 + volume) + re-score NVDA post-consolidation
+- **If FTD fails (down day or <+1.25%):** Rally attempt Day 4 not a FTD candidate; window shifts to Day 5 (May 26 post-Memorial Day)
+- **Memorial Day May 25:** Markets closed. Next session after May 22 = May 26 (Day 5 FTD window).
+- **Alpaca API:** Day 51 blocked. Hedge SH $625 still queued as FIRST ORDER on restore.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | $0 P&L (no positions) — CLEAR |
+| Weekly -6% | $0 week-to-date — CLEAR |
+| Drawdown -12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Market state | 🔴 Correction — NO new long entries |
+| Alpaca API | ❌ 403 blocked Day 51 — HALT ALL ENTRIES |
+
+### Result: NO ACTIONS — 0 open positions. sell-rules-engine skipped. `research_source: websearch_fallback`
+
 **Tomorrow's watch:** NVDA AH results (binary FTD/continuation catalyst) | WMT earnings AM (consumer health) | Rally attempt Day 3 — need 4 more UP days (Day 4 = FTD eligible)
