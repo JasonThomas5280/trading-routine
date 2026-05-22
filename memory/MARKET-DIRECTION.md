@@ -8,13 +8,27 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-22 (Fri) — `/pre-market` 6:00 AM CT
+**Last updated:** 2026-05-22 (Fri) — `/market-check` 10:00 AM CT
 **STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 still queued (Alpaca Day 52 blocked — HIGHEST PRIORITY on restore)
 **Alpaca API — Day 52** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
 **⚠️ DATA CORRECTION: May 21 S&P 500 actual close = 7,445.72 (+0.17%)** (vs our estimate ~7,400/−0.44%). Nasdaq actual: 26,293.10 (+0.09%). SPY actual est. ~$744.57. May 21 was an UP day — NOT a distribution day.
 **⚠️ STATE CORRECTION: 🔴 Correction → 🟡 Uptrend Under Pressure.** May 21 NOT a dist day + Apr 23 removal (8% gain rule: SPY ~$744.57 >> $726.26 threshold ✅) → net dist count = **5/25** (Apr 28, May 4, May 7, May 15, May 19). 5/25 = Under Pressure, not Correction.
 **Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | Apr 23 REMOVED (8% gain rule) | May 21 NOT a dist day.
-**Rally attempt: Day 4 — FTD window OPEN (May 22, 26, 27, 28).** SPY ~$744.57 >> Day 1 low $733.39. FTD needs +1.25%+ S&P on higher volume. ES futures pre-market ~7,410 (−0.47% vs May 21 close) — NOT a FTD setup this morning. U of Michigan final May = 48.2 (near record low, unchanged from preliminary) — bearish consumer signal. **FTD probability today: LOW.**
+**Rally attempt: Day 4 PASSES — FTD NOT CONFIRMED (May 22).** S&P ~flat to +0.07% from May 21 close (SPY range $737.03–$744.87; far below +1.25% FTD threshold). SPY volume 43.33M < 48.66M avg (below average — no FTD even if S&P had gained enough). Rally attempt INTACT: SPY low $737.03 > Day 1 low $733.39. **FTD window: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7).** [May 25 = Memorial Day closed]
+**Catalysts May 22:** Iran/US talks show progress (Dow 300+ pt surge, fresh record); Brent +2.31% to ~$105; S&P up modestly. Rally optimism but short of FTD power move. No dist day (UP day).
+
+**✅ MAY 22 INTRADAY (/market-check 10:00 AM CT):**
+- S&P 500: ~flat/+0.07% est. from May 21 close 7,445.72 (SPY range $737.03–$744.87; opened lower on ES futures −0.47%, recovered to near-flat) | Dow: 300+ pts NEW RECORD | Nasdaq: +0.53% | Russell 2000: +0.93% | `research_source: websearch_fallback` | **Alpaca blocked Day 52**
+- **FTD DAY 4: NOT CONFIRMED.** S&P ~flat (well short of +1.25% = 7,538 threshold). SPY volume 43.33M vs 48.66M avg = **below average** (dual fail: magnitude + volume). Rally attempt INTACT: SPY low $737.03 >> Day 1 low $733.39.
+- **FTD window advances to: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7).** [May 25 = Memorial Day]
+- Catalyst: Iran/US talks progress (both sides signaling movement; sticking points remain — enriched uranium stockpile + Hormuz tolls). Dow record. Brent +2.31% to ~$105.
+- **Distribution day check (May 22):** UP day (Dow record; S&P flat-to-positive) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.**
+- Abort gates: 🟡 Under Pressure → ALL LONG ENTRIES BLOCKED ✅ | Alpaca Day 52 → no execution possible ✅
+- GOOGL: $387.66 close (range $383.02–$392.50); 3.8% below $403-405 pivot; vol UNCONFIRMED (search data artifact — 141.8K vs 27M avg unreliable). No buy trigger. 🟡 WATCHING unchanged.
+- VRT: $323.40–$331.30 (range $317.00–$330.31). No formal score, no pivot. 🟡 WATCHING unchanged.
+- NVDA: ~$219-222 (May 21 $219.51 close; no base formed). 🟡 BENCH unchanged.
+- 0 open positions → sell-rules-engine: **SKIPPED** | SH hedge $625 queued — Alpaca Day 52 BLOCKED
+- Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM)
 
 **✅ MAY 22 PRE-MARKET (/pre-market 6:00 AM CT):**
 - **⚠️ DATA CORRECTION: May 21 S&P 500 actual close = 7,445.72 (+0.17%)** (vs our estimate ~7,400/−0.44%). Nasdaq actual: 26,293.10 (+0.09%). SPY actual ~$744.57. May 21 was UP → NOT a dist day. `websearch_fallback` overestimated the decline.

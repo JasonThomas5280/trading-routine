@@ -1,5 +1,32 @@
 
 ---
+## 2026-05-22 10:00 CT [market-check]
+
+📈 Market-check 2026-05-22 10:00 AM CT
+Market: 🟡 Under Pressure (5/25 dist days) | Circuit breakers: NONE | Alpaca: ❌ BLOCKED Day 52
+
+Actions taken:
+  • No new entries — gate: Uptrend Under Pressure (all longs blocked) + Alpaca blocked (no execution)
+  • sell-rules-engine: SKIPPED (0 open positions)
+
+Intraday snapshot (11 AM ET / 30 min in):
+  • S&P 500 ~flat/+0.07% est. from May 21 close 7,445.72 | SPY range $737.03–$744.87 | Dow 300+ pts RECORD | Nasdaq +0.53% | Russell 2000 +0.93%
+  • Catalyst: Iran/US talks progress (both signaling movement; sticking points remain — enriched uranium + Hormuz tolls) | Brent +2.31% to ~$105
+  • ⚠️ FTD DAY 4: NOT CONFIRMED — S&P ~flat (need +1.25% = 7,538; got ~flat from 7,445.72). SPY volume 43.33M < 48.66M avg (below average). Dual fail.
+  • Rally attempt INTACT: SPY low $737.03 > Day 1 low $733.39. FTD window → May 26 (Day 5), May 27 (Day 6), May 28 (Day 7).
+  • Dist day check: UP day → CANNOT be dist. Dist count: 5/25 UNCHANGED.
+  • GOOGL $387.66 (range $383.02–$392.50): 3.8% below $403-405 pivot; no trigger → 🟡 WATCHING unchanged
+  • VRT $323-331 (no pivot defined): 🟡 WATCHING unchanged
+  • NVDA ~$219-222 (no base): 🟡 BENCH unchanged
+  • Bench promotions: NONE (GOOGL 3.8% below pivot; VRT no pivot; NVDA no base)
+
+Watchlist status: 1 primary-watching (GOOGL), 1 watching (VRT), 1 bench (NVDA) | 0 removed
+Open positions: 0 (100% cash) | Weekly trades: 0 of 3 used
+SH/SQQQ hedge: $625 queued — Alpaca Day 52 blocked — HIGHEST PRIORITY on restore
+
+Next: /eod-review 3:15 PM CT — dist day check | FTD watch close
+
+---
 ## 2026-05-22 06:00 CT [pre-market]
 
 🌅 Pre-market 2026-05-22
