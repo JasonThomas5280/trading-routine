@@ -1745,3 +1745,48 @@ Tomorrow (May 22):
   • Memorial Day May 25 — markets closed
 
 Circuit breakers: NONE | Alpaca: ❌ Day 51 | `research_source: websearch_fallback`
+
+---
+## 2026-05-22 20:38 CT [clickup-placeholder]
+
+### Week ending 2026-05-22
+
+## Weekly Review — Week ending 2026-05-22
+
+**Account:** Alpaca paper | **Capital:** $2,500 (HWM) | **Alpaca Day 53 blocked**
+
+### Performance
+- Starting equity: $2,500.00 | Ending: $2,500.00 | Weekly return: **0.00%** vs S&P **+0.88%** → **−0.88% alpha**
+- Trades: **0** (6th consecutive 0-trade week) | Cum. alpha drag: ~−2.5% vs SPY
+
+### Market State
+- Start: 🟡 Under Pressure (5/25) → May 19: 🔴 Correction (estimated dist day #6) → May 22 AM: 🟡 Under Pressure (May 21 corrected to UP +0.17%; Apr 23 fades → net 5/25)
+- End state: 🟡 **Uptrend Under Pressure** (5/25) | FTD Day 4 NOT confirmed (May 22 +0.37% vs +1.25% needed)
+- FTD window: **May 26 (D5), May 27 (D6), May 28 (D7)** — May 25 Memorial Day
+
+### Rule Adherence: 100/100 (no trades = no violations)
+
+### Key Events
+- May 19: 30yr Treasury 5.198% (19yr high) → S&P −0.67% → est. Correction
+- May 20: S&P +1.08% actual (est. was +0.32%) | NVDA Q1 blockbuster beat ($81.6B, EPS $1.87, Q2 guide $91B)
+- May 21: S&P +0.17% actual (est. was −0.44%) — WMT −6.43% masked real close
+- May 22: Dow 50,579 FRESH RECORD | Qatar/Iran mediation | Russell 2000 +0.93% | 8th straight weekly S&P gain
+
+### Watchlist
+- GOOGL: 77/100 ✅ — base wk 6-7; 3.5-4% below $403-405 pivot; entry pending FTD + base completion
+- VRT: est. 55-75/100 ⚠️ — formal score pending Alpaca+AV restore
+- NVDA: est. 72-82/100 ⚠️ — post-earnings consolidation; no base formed
+
+### Lessons
+1. Queued SH hedge (Day 8) would have created a whipsaw if Alpaca had been live — Correction trigger was estimated, reversed 3 days later. Fix: conditional hedge execution on estimated dist days (Proposal 9).
+2. websearch_fallback bearish bias on mixed-signal days (4 of 6 weeks with major index-close errors). Fix: dual-query EOD verification (Proposal 10).
+3. FTD setup going into next week is the strongest since April 8 — Iran peace progress, Dow record, Russell breadth broadening.
+
+### Proposals pending (all 10 now pending Jason review)
+Proposals 9 and 10 added this week. Most urgent: Proposal 1 (API health check), Proposal 5 (escalation SLA Day 53), Proposal 8 (manual execution backup).
+
+### Next Week
+- May 25: CLOSED (Memorial Day)
+- FTD window: May 26-28 | MODERATE-HIGH probability
+- On FTD + Alpaca restore: hedge SH $625 FIRST, then evaluate GOOGL at $403-405 pivot
+- Emotional state: DISCIPLINED — capital at HWM, playbook intact, waiting for the signal

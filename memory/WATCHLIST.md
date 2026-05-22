@@ -6,7 +6,9 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## Week of 2026-05-18 to 2026-05-22
+## ⚠️ ARCHIVED — Week of 2026-05-18 to 2026-05-22
+
+> **Archived week of May 18–22 — rebuild via /weekly-prep on Sunday May 25 (or Tue May 27 if pre-market May 26 triggers FTD).**
 
 **Market-check:** 2026-05-22 10:00 AM CT — `/market-check` | `research_source: websearch_fallback` | Alpaca Day 52 blocked | **All entry gates blocked (Under Pressure + Alpaca)** | S&P ~flat/+0.07% (SPY $737.03–$744.87); Dow 300+ pts NEW RECORD; Nasdaq +0.53%; Russell 2000 +0.93% | FTD Day 4 NOT confirmed (magnitude+volume both fail; short of +1.25% threshold) | Rally attempt INTACT (SPY low $737.03 > Day 1 low $733.39) | FTD window: May 26 (D5), May 27 (D6), May 28 (D7) | Dist count: 5/25 UNCHANGED (UP day) | GOOGL $387.66 (3.8% below pivot; 🟡 WATCHING unchanged) | VRT $323-331 (no pivot; 🟡 WATCHING unchanged) | NVDA ~$219-222 (no base; 🟡 BENCH unchanged) | 0 positions | Sell-rules-engine: SKIPPED | Actions: NONE
 **Pre-market refresh:** 2026-05-22 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 52 | Perplexity 403 | AV 403) | **All entry gates blocked (Under Pressure)** | ⚠️ DATA CORRECTION: May 21 actual S&P +0.17% to 7,445.72 (vs est. −0.44%/~7,400) — NOT a dist day; SPY actual ~$744.57 | ⚠️ STATE CORRECTION: 🔴 Correction → 🟡 Under Pressure (5/25 dist days; Apr 23 removed) | U of Michigan final May: ~48.2 (near record low; bearish consumer) | ES futures: ~7,410 (−0.47%) — NO FTD setup today | FTD probability today: LOW | FTD window: May 26 (D5), May 27 (D6), May 28 (D7) | GOOGL ~$387-388 (−4.0% below pivot; Waymo minor; dividend $0.22 June 8; 🟡 WATCHING) | VRT ~$323-331 (no news; 🟡 WATCHING) | NVDA pre-mkt $229.72 (vol 2.3× avg; constructive; 🟡 BENCH) | 0 positions | Actions: NONE

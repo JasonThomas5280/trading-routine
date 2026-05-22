@@ -576,3 +576,127 @@ Status: **NEW — pending Jason approval.**
 - **RESEARCH-LOG.md gap:** Enforce /pre-market entries in RESEARCH-LOG.md every session next week, even in research-only mode. The May 11–15 gap is a process failure.
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, **0% deployed**, **3/3 weekly trade slots available** (but Under Pressure = 0 trade slots usable for longs). Capital at HWM. Hedge slot open.
 - **Emotional state check:** DISCIPLINED and CORRECTLY POSITIONED. The state transition to Under Pressure is not a failure — we called it two weeks early and executed the protocol correctly (0 new longs, hedge queued). 5 weeks of 0 trades with capital perfectly intact at $2,500. The next phase is patient waiting: watch for the follow-through day, resolve Alpaca API, and be ready to deploy when the market confirms a new uptrend. No revenge entries. No "I'll just put 10% in something safe." Cash IS the position in Under Pressure. The playbook is the playbook. Execute it.
+
+---
+
+## Week ending 2026-05-22 (Fri)
+
+> **Context:** Week 6 of live operation. Alpaca API blocked Day 43–53 (all 5 sessions, still no resolution — Day 53 at Friday close). Perplexity + Alpha Vantage blocked same IP allowlist issue. All research via WebSearch fallback — **6th consecutive week of full fallback mode.** Zero trades executed. Market oscillated: started 🟡 Under Pressure (5/25 dist days), transitioned temporarily to 🔴 Correction on May 19 (dist day #6 estimated on 30yr yield at 19yr high + −0.67% S&P), then CORRECTED BACK to 🟡 Under Pressure on May 22 pre-market (May 21 actual close confirmed +0.17% → NOT a dist day; Apr 23 dist day faded via 8% gain rule → net dist count 5/25). S&P 500 +0.9% for the week (8th consecutive winning weekly gain). Dow 50,579.70 fresh record. Russell 2000 +0.93% Friday (breadth broadening). FTD Day 4 NOT confirmed (May 22 +0.37% vs +1.25% needed; SPY vol 43.33M < 48.66M avg). FTD window: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7). May 25 = Memorial Day.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon May 18 open — 100% cash, carry-in from Week 5)
+- Ending equity: $2,500.00 (Fri May 22 close — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 May 15 close 7,408.50 → May 22 close 7,473.47 = **+0.88%** → **−0.88% alpha**)
+- Dow +2.1% (fresh record 50,579.70) | Nasdaq +0.5% | Russell 2000 +0.93% (Fri)
+- Trades taken: **0** (max 3/week, used 0 — **sixth consecutive 0-trade week**)
+- Winners: 0 (avg N/A) | Losers: 0 (avg N/A) | W:L ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Cumulative alpha drag since inception (6 weeks): approx. −2.5% vs SPY**
+- **Root causes of zero trades:**
+  1. Alpaca API 403 "Host not in allowlist" — Day 43–53. Execution hard-halted per TRADING-STRATEGY.md.
+  2. Market state: Under Pressure → Correction (May 19) → Under Pressure (correction May 22 AM). No new long entries under any of these states.
+  3. GOOGL (77/100 — only conviction-passing name): price 3.5–4.0% below $403–405 pivot; base still forming (wk 6). No buy trigger.
+  4. VRT: formal score pending (GAAP A-letter data unavailable with AV blocked; est. 55-75/100 wide range).
+  5. NVDA: post-earnings consolidation; no base formed; score est. 72–82/100 pending live data.
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any −7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries during Correction or Under Pressure? **NO** — gates correctly honored all 5 sessions
+- Any entries on Alpaca-blocked sessions? **NO** — rule honored (6th consecutive week)
+- Any conviction-score workarounds? **NO** — no entries attempted
+- Circuit breakers triggered? **NONE** (daily −3%, weekly −6%, drawdown −12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(sixth consecutive perfect score — no trades = no violations. Structurally uninformative until execution infrastructure restores. The Under Pressure→Correction→Under Pressure oscillation created zero temptation to act — correct response: wait for data confirmation, wait for Alpaca.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🟡 Uptrend Under Pressure** (5/25 dist days)
+- M state at week end: **🟡 Uptrend Under Pressure** (5/25 dist days — net unchanged after oscillation)
+- Intermediate state: **🔴 Market in Correction** (May 19 EOD through May 22 AM, then data-corrected back to Under Pressure)
+
+| Date | EOD Estimate | Actual (confirmed) | Dist Day? | Running Count |
+|---|---|---|---|---|
+| May 18 (Mon) | ~−0.30% | ~−0.30% (est.) | Volume 19.3M < May 15's 41.9M → **NOT CONFIRMED** | 5/25 unchanged |
+| May 19 (Tue) | −0.67% | −0.67% confirmed | Vol est. elevated (19yr bond yield high; macro driver) → **DIST DAY #6** → 🔴 Correction | 6/25 |
+| May 20 (Wed) | +0.32% est. | **+1.08% ACTUAL** (corrected May 21 PM) | NOT a dist day (UP). NVDA blockbuster beat AH. | 6/25 unchanged |
+| May 21 (Thu) | −0.44% est. | **+0.17% ACTUAL** (corrected May 22 AM) | **CORRECTION: NOT a dist day.** Prior EOD estimate wrong by 0.61pp. Apr 23 fades (8% gain rule). | Net 5/25 |
+| May 22 (Fri) | +0.37% | +0.37% | NOT a dist day (UP). FTD not confirmed. | 5/25 unchanged |
+
+- Was Correction call on May 19 correct? **YES** — magnitude −0.67%, bond rout at 19yr high, vol estimated elevated. Correct on available data.
+- Was correction back to Under Pressure correct? **YES** — mechanically accurate once May 21 actual (+0.17%) arrived + Apr 23 faded.
+- Data quality issue (recurring): May 21 estimate was off by 0.61pp. This is the **4th major index-close estimation error in 6 weeks.** WMT −6.43% dominated websearch returns, masking the actual +0.17% S&P close driven by small-cap/Russell 2000 rotation (+2.56%).
+- Accuracy verdict: **CLEAN — all state calls correct on available data; oscillation corrected adaptively.** The system demonstrated proper self-correction.
+
+### Sector Performance
+
+- Sectors we traded: **NONE** (no trades executed)
+- Sector RS accuracy:
+  - **XLC Communication Services (#1):** Validated. GOOGL only conviction-passing name; XLC broadly positive week.
+  - **XLI Industrials (#2):** Validated. VRT WATCHING; power/AI infra narrative intact.
+  - **XLE Energy (#3):** Partially validated. Iran/Qatar peace mediation late week = oil risk premium compressing. May drop in rankings if Brent retreats below $95 post-deal.
+  - **XLK Technology (blackout):** Validated. NVDA post-earnings muted; semi sector subdued on distribution days.
+- Sectors to blacklist: **None** (no 2-consecutive-fail trade history — still zero trades taken)
+- Sectors for next week: XLC (GOOGL, approaching base completion), XLI (VRT, score pending)
+
+### Conviction Correlation
+
+- Trades ≥85: 0 — N/A | Trades 75–85: 0 — N/A | Sub-threshold: 0 correctly blocked
+- **GOOGL 77/100** (6th consecutive week as primary candidate): 3 independent gates blocking it simultaneously — market state, Base:0, Alpaca blocked. Score gate and secondary gates functioning.
+- **NVDA post-earnings 72–82/100:** Wide range due to websearch uncertainty. China H20 permanent zero = persistent N-letter drag (−5 pts). Full re-score awaits Alpaca+AV restore.
+- Pattern: **No closed-trade data.** Score discrimination functioning correctly for 6th consecutive week.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked Day 43–53; 6th consecutive 0-perplexity week)
+- Sessions on websearch_fallback: **~10** (all sessions)
+- Sessions DEGRADED: **0** (WebSearch consistently available)
+- Research source for trades placed: **N/A**
+- **Key error:** May 21 EOD estimated S&P −0.44% vs. actual +0.17% (0.61pp error). Root cause: WMT −6.43% narrative dominated search results; Russell 2000 +2.56% and Iran oil drop offset were harder to capture in a quick narrative search.
+- **Pattern confirmed (Week 6):** On days with one very large Dow component mover (±5%+), websearch_fallback systematically over-weights that component's direction in estimating the index. Requires a systematic fix (Proposal 10).
+
+### Lessons
+
+**Lesson 1 — Infrastructure/Protocol: The queued SH hedge (Day 8 of being queued at week-end) would have created a costly whipsaw if Alpaca had been working this week.**
+Under current protocol: Correction trigger May 19 → execute SH $625 immediately. Data correction May 22 → Under Pressure → protocol says exit hedge within 2 sessions of follow-through day. In practice: buy SH ~$17 on May 19, forced to evaluate selling May 22. Round-trip in 3 sessions = potential day-trade hit + spread cost on a hedge triggered by estimated (not confirmed) data. The infrastructure failure accidentally protected us from a protocol edge-case this week.
+Fix: When Correction state triggers on **estimated** (Alpaca-blocked, volume unconfirmed) data, flag hedge as `queued_pending_confirmation` and defer until next session's /pre-market verifies the volume data. Only execute immediately on confirmed volume data. See Proposal 9.
+
+**Lesson 2 — Research: websearch_fallback's bearish-narrative bias on mixed-signal days is now a confirmed, recurring pattern (4 of 6 weeks). Needs a systematic fix.**
+The pattern: when one large headline-grabbing mover (WMT −6.43%) dominates the session narrative, websearch returns overstate bearishness and underestimate the actual S&P close. The errors appear on UP days disguised as DOWN days (May 21: estimated −0.44%, actual +0.17%) — specifically on days with large cross-sector rotation (WMT down, Russell 2000 up) that doesn't show up cleanly in narrative-based searches.
+Fix: Add a second neutral query at EOD (`"S&P 500 closing price [date]"` for numeric confirmation) before recording any dist day. If the two queries disagree by >0.20pp on direction, log `dist_day_data_conflict` and defer state change to next /pre-market. See Proposal 10.
+
+**Lesson 3 — Market: The FTD setup going into next week is the best it's been since April 8.**
+S&P has won 8 straight weeks. Dist count stable at 5/25 — no new distribution since May 19 (3 sessions). Rally attempt Day 4 intact (SPY never undercut $733.39 Day 1 low). Iran/Qatar diplomatic progress and Dow 50,579 fresh record on May 22 = market wants to go higher. Russell 2000 +0.93% Friday = breadth broadening = institutional participation. The missing ingredient for a Confirmed Uptrend is one power-move day (+1.25%+ on above-avg volume). If Iran deal news or other macro catalyst arrives over Memorial Day weekend, May 26 or May 27 has the ingredients for the cleanest FTD signal since April 8. Be ready.
+
+### Proposed Rule Changes
+
+**Proposal 9 — NEW: Conditional hedge execution on estimated dist days.**
+When Correction state triggers based on estimated (not Alpaca-confirmed) volume data: tag hedge order as `queued_pending_confirmation`. Execute immediately only if Alpaca confirms volume. If Alpaca blocked, wait for next /pre-market data verification before executing the hedge. This prevents false-positive hedge whipsaw on rapid state oscillations driven by data quality issues.
+Status: **NEW — pending Jason approval.**
+
+**Proposal 10 — NEW: Dual-query EOD dist-day verification protocol.**
+Before recording any dist day or state change based on websearch data: run a second neutral query for the numeric index close (`"S&P 500 closing price [date]"`). If the two queries disagree by >0.20pp (enough to flip a dist day determination), log `dist_day_data_conflict` and defer state change to the next /pre-market. Do not change state on conflicting data from a single source.
+Rationale: 4 of 6 weeks have produced significant index-close estimation errors. The pattern is established; the fix is a systematic second-query check.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–8 from prior weeks:** ALL still pending Jason approval. Most urgent: Proposal 1 (API health check), Proposal 5 (escalation SLA — now Day 53), Proposal 8 (manual execution backup).
+
+### Next Week Setup
+
+- **Market direction thesis:** 🟡 Uptrend Under Pressure (5/25 dist days). **No new long entries** until FTD confirmed. SPY ~$747, est. +7.8% above 50d MA (~$693). Distribution stable since May 19 — no new dist days in 3 sessions. FTD window: **May 26 (Day 5), May 27 (Day 6), May 28 (Day 7)**. May 25 = Memorial Day (closed). **FTD probability: MODERATE-HIGH** — best setup since April 8. Catalysts: Iran/Qatar peace mediation, Dow fresh records, Russell 2000 breadth.
+- **Sectors in focus:**
+  1. XLC — GOOGL base wk 6-7 (target pivot $403–405 when wk 8-10 completes). Score 77/100 → est. 87/100 with base confirmation. Primary entry candidate post-FTD.
+  2. XLI — VRT formal score needed (canslim-screener run on Alpaca+AV restore). Est. 55-75/100.
+  3. XLE — Re-evaluate if Iran deal closes. Oil premium compression may drop XLE below top-3.
+- **Calendar risks:**
+  - May 25: Memorial Day — market CLOSED
+  - **May 26: FTD Day 5** (first window day; short trading week opens here)
+  - **May 27: FTD Day 6** | **May 28: FTD Day 7** (last window day)
+  - **AVGO earnings June 3** — 12 days out. Approaching earnings blackout (~May 28 = 4 days before). Score est. 62-67/100 (still below 75 threshold).
+  - **Bond market:** 30yr yield trajectory. Retreat below 4.9% = tech multiple expansion tailwind for FTD.
+  - **Iran deal:** If finalized over Memorial Day → gap-up open May 26 = potential FTD Day 5.
+- **Current book status:** 0 positions, 100% cash ($2,500.00), 0% deployed, 3/3 weekly trade slots available (0 longs until FTD; 1 hedge slot available post-Alpaca restore).
+- **Emotional state check:** DISCIPLINED. Six consecutive 0-trade weeks. Watching the S&P gain 8 straight weeks while holding $0 participation is uncomfortable — but the infrastructure failure (Day 53) is the dominant constraint, not the rubric. Capital at $2,500 HWM. The preparation is complete. The waiting is the work. When Alpaca restores AND FTD confirms AND GOOGL breaks $403–405 on volume: we enter without hesitation.
