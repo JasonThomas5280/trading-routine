@@ -46,6 +46,71 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-22 (Fri) — /pre-market (6:00 AM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 52; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. 6th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** (STATE CORRECTION from 🔴 Correction — see below) | NO new long entries
+
+### ⚠️ Data correction — May 21
+
+| Metric | Prior estimate | Actual confirmed | Error |
+|---|---|---|---|
+| S&P 500 May 21 close | ~7,400 (−0.44%) | **7,445.72 (+0.17%)** | −0.61 pp undercount |
+| Nasdaq May 21 close | ~26,139 (−0.50%) | **26,293.10 (+0.09%)** | −0.59 pp undercount |
+| SPY May 21 close est. | ~$739.70 | **~$744.57** | −$4.87 |
+| May 21 dist day? | Estimated YES (#7) | **NO — UP day** | State correction required |
+
+**State correction:** May 21 was +0.17% (UP) → NOT a distribution day. Apr 23 still removed via 8% gain rule (SPY ~$744.57 >> $726.26 threshold). Net dist count: **5/25** (Apr 28, May 4, May 7, May 15, May 19). 🔴 Correction → 🟡 **Uptrend Under Pressure.** No behavioral change (still no new long entries), but state recorded accurately.
+
+### Market overnight check (May 22)
+
+| Indicator | Level | vs May 21 close | Notes |
+|---|---|---|---|
+| ES futures (S&P) | ~7,410 | −0.47% (−35pts) | DOWN — no FTD setup |
+| NQ futures (Nasdaq) | 29,434.50 | −0.71% | DOWN |
+| U of Michigan Sentiment (final) | **~48.2** | vs April 49.8 (−3.2%) | Near record low; unchanged from preliminary; bearish |
+| 1-yr inflation expectations | ~4.5% | from 4.7% prelim | Slight improvement, still elevated |
+| FTD probability today (Day 4) | **LOW** | Need +1.25% (+93pts from close) | Not possible from −0.47% futures |
+| FTD window remaining | May 26 (Day 5), May 27 (Day 6), May 28 (Day 7) | — | May 25 = Memorial Day (closed) |
+
+**Overnight thesis:** Futures down on weak U of Michigan sentiment data (near record low 48.2). Consumers still buffeted by gasoline prices and tariffs. No positive catalyst. FTD not happening today. Rally attempt Day 4 INTACT (SPY ~$744.57 >> Day 1 low $733.39 — not undercut).
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Overnight catalyst | Thesis impact | Status |
+|---|---|---|---|
+| GOOGL | Waymo paused service in Atlanta, GA and San Antonio, TX (heavy rain/flooding). Dividend $0.22 announced (ex-date June 8). Google I/O AI search rollout still carrying positive press. | **No material thesis change.** Waymo is <5% of Alphabet valuation driver; pause is weather-related/temporary. Dividend is modest positive. Base forming intact. | 🟡 WATCHING — unchanged |
+| VRT | No material overnight news. Q1 results (+30% rev, +83% adj. EPS) still the dominant thesis. Investor conference output already digested. | No change. | 🟡 WATCHING — formal score pending Alpaca+AV restore |
+| NVDA (bench) | Pre-market: $229.72 (+$2-4 above May 21 range ~$216-227). Volume 10.4M vs 30d avg 4.6M (2.3×). Constructive post-earnings consolidation — muted reaction digest in progress. | Positive drift. Still no base formed. China H20 = confirmed zero (permanent). Score est. 72-82/100 pending live data. | 🟡 BENCH — needs base formation est. 2-4 weeks |
+
+### Buy-zone readiness
+
+| Symbol | Pre-mkt price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$387-388 | ~$403-405 | ~−4.0% | 🟡 WATCHING — below entry zone |
+| VRT | ~$323-331 | TBD (score pending) | N/A | 🟡 WATCHING — no pivot defined |
+| NVDA | $229.72 | TBD (base forming) | N/A | 🟡 BENCH — no base yet |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 52 — HALT ALL ENTRIES |
+
+**No circuit breakers active.** Alpaca block continues to be execution halt. Hedge SH $625 queued — FIRST ORDER on restore.
+
+### Result: NO ENTRIES — Under Pressure gate + Alpaca Day 52 block. Sell-rules-engine SKIPPED (0 positions).
+
+---
+
 ## 2026-05-17 (Sun) — /weekly-prep (4:00 PM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 44; Perplexity: 403 blocked; Alpha Vantage: 403 blocked — ALL THREE PRIMARY SOURCES BLOCKED. 5th consecutive week of full websearch_fallback mode.)

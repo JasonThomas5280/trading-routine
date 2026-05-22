@@ -1,5 +1,19 @@
 
 ---
+## 2026-05-22 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-05-22
+Market: 🟡 Under Pressure (5/25 dist days) ⚠️ STATE CORRECTION from 🔴 Correction | Futures: ES ~7,410 (−0.47%) NQ 29,434 (−0.71%)
+Open positions: 0 | Circuit breakers: NONE
+⚠️ DATA CORRECTION: May 21 S&P actual close = 7,445.72 (+0.17%) — NOT −0.44%. NOT a dist day. Dist count: 5/25.
+Overnight gaps: none (0 positions)
+Watchlist ready: none 🔴 (Under Pressure — all entries blocked)
+Watchlist watching: GOOGL 🟡 (~$388, −4% from $403-405 pivot) | VRT 🟡 (~$324-331, score pending) | NVDA bench 🟡 ($229.72 pm, no base yet)
+Removed: none
+Key catalyst today: U of Michigan Consumer Sentiment final — ~48.2 (near record low; bearish) | FTD window Day 4 open but probability LOW (futures −0.47%)
+Plan: NO entries — Under Pressure gate active + Alpaca Day 52 blocked. FTD watch: May 26/27/28. Hedge SH $625 queued (FIRST ORDER on Alpaca restore).
+
+---
 ## 2026-05-19 10:00 CT [market-check]
 
 📈 Market-check 2026-05-19 10:00 AM CT

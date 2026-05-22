@@ -6,13 +6,27 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION**
+**Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-21 (Thu) — `/eod-review` 3:15 PM CT
-**STATE:** 🔴 Market in Correction | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 queued (Alpaca Day 51 blocked — HIGHEST PRIORITY on restore)
-**Alpaca API — Day 51** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
-**Distribution days: 6/25** (Apr 28, May 4, May 7, May 15, May 19, May 21) — Apr 23 FADED (+8% gain rule). Net count unchanged.
-**Rally attempt: Day 3 INTACT** — FTD window opens TOMORROW May 22 (Day 4). SPY est. ~$739.70 >> Day 1 low $733.39. U of Michigan Sentiment Fri = FTD companion or killer.
+**Last updated:** 2026-05-22 (Fri) — `/pre-market` 6:00 AM CT
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 still queued (Alpaca Day 52 blocked — HIGHEST PRIORITY on restore)
+**Alpaca API — Day 52** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
+**⚠️ DATA CORRECTION: May 21 S&P 500 actual close = 7,445.72 (+0.17%)** (vs our estimate ~7,400/−0.44%). Nasdaq actual: 26,293.10 (+0.09%). SPY actual est. ~$744.57. May 21 was an UP day — NOT a distribution day.
+**⚠️ STATE CORRECTION: 🔴 Correction → 🟡 Uptrend Under Pressure.** May 21 NOT a dist day + Apr 23 removal (8% gain rule: SPY ~$744.57 >> $726.26 threshold ✅) → net dist count = **5/25** (Apr 28, May 4, May 7, May 15, May 19). 5/25 = Under Pressure, not Correction.
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | Apr 23 REMOVED (8% gain rule) | May 21 NOT a dist day.
+**Rally attempt: Day 4 — FTD window OPEN (May 22, 26, 27, 28).** SPY ~$744.57 >> Day 1 low $733.39. FTD needs +1.25%+ S&P on higher volume. ES futures pre-market ~7,410 (−0.47% vs May 21 close) — NOT a FTD setup this morning. U of Michigan final May = 48.2 (near record low, unchanged from preliminary) — bearish consumer signal. **FTD probability today: LOW.**
+
+**✅ MAY 22 PRE-MARKET (/pre-market 6:00 AM CT):**
+- **⚠️ DATA CORRECTION: May 21 S&P 500 actual close = 7,445.72 (+0.17%)** (vs our estimate ~7,400/−0.44%). Nasdaq actual: 26,293.10 (+0.09%). SPY actual ~$744.57. May 21 was UP → NOT a dist day. `websearch_fallback` overestimated the decline.
+- **⚠️ STATE CORRECTION: 🔴 Correction → 🟡 Uptrend Under Pressure.** Dist count corrects to 5/25 (Apr 28, May 4, May 7, May 15, May 19). Apr 23 still removed via 8% gain rule. No new long entries — same behavior as Correction at this count.
+- **U of Michigan Consumer Sentiment final May 2026: ~48.2** (unchanged from preliminary 48.2; near record low vs April 49.8). 1-year inflation expectations 4.5% (from 4.7% prelim). Consumer bearish — NO FTD catalyst from this data. `research_source: websearch_fallback`
+- **ES futures pre-market: ~7,410 (−0.47% vs May 21 close 7,445.72)** | NQ: 29,434.50 (−0.71%) | Futures pointing lower — FTD threshold requires +1.25% (+93pts) — **NOT achievable from this starting point without a major catalyst**
+- **FTD probability today: LOW.** Window remains open: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7). May 25 = Memorial Day (closed).
+- GOOGL: ~$387-388 pre-market. Distance from $403-405 pivot: ~−4.0%. Overnight: Waymo service paused Atlanta/San Antonio (minor, non-material). Dividend $0.22 ex-June 8 (routine). No thesis change. 🟡 WATCHING.
+- VRT: ~$323-331 range. No new overnight news (Q1 results already known). `insufficient_data_flag` unchanged. 🟡 WATCHING.
+- NVDA pre-market: $229.72 (vol 10.4M vs 30d avg 4.6M = 2.3× above avg). Constructive post-earnings drift. No new base formed. 🟡 BENCH WATCH.
+- 0 open positions → sell-rules-engine: SKIPPED | Hedge SH $625 queued — Alpaca Day 52 blocked
+- Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM) | `research_source: websearch_fallback`
 
 **✅ MAY 21 PRE-MARKET (/pre-market 6:00 AM CT):**
 - **⚠️ DATA CORRECTION: May 20 S&P 500 actual close = 7,432.97 (+1.08%)** (vs our estimate ~7,377 / +0.32% — websearch_fallback undercount by ~0.76%). Nasdaq actual: 26,270.36 (+1.54%). SPY est. close: ~$743 (+1.08% from $733.75). Driven by Iran "final stages" peace talks (Trump) + pre-NVDA optimism + oil WTI −5.66% to ~$96, Brent −5.63% to ~$101-102.

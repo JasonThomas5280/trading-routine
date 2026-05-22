@@ -52,7 +52,7 @@ For SELL entries, additionally log:
 
 ## Weekly Trade Count (rolling)
 
-**Week of 2026-05-18:** 0 new positions opened (max 3/week) | Market: 🔴 IN CORRECTION — NO new long entries | Alpaca Day 51 blocked | Hedge SH $625 queued (highest priority) | P&L week: $0 (0%) | /eod-review May 21: S&P 500 est. ~7,400 (−0.44%); Russell 2000 +2.56% (breadth positive); dist day #7 estimated (Apr 23 fades; net count 6/25 unchanged); rally attempt Day 3 INTACT; FTD window opens TOMORROW May 22 (Day 4); U of Michigan Sentiment key catalyst Fri morning; circuit breakers ALL CLEAR
+**Week of 2026-05-18:** 0 new positions opened (max 3/week) | Market: 🟡 UNDER PRESSURE (5/25 dist days) — ⚠️ STATE CORRECTION (was 🔴 Correction; May 21 actual +0.17% = NOT dist day; Apr 23 removed) | Alpaca Day 52 blocked | Hedge SH $625 queued (highest priority) | P&L week: $0 (0%) | /pre-market May 22: DATA CORRECTION — May 21 S&P actual 7,445.72 (+0.17%; NOT −0.44%); dist count 5/25; ES futures −0.47%; U of Michigan final ~48.2 (near record low); FTD probability LOW today; FTD window: May 26/27/28; circuit breakers ALL CLEAR
 **Week of 2026-05-11:** 0 new positions opened (max 3/week) ← WEEK CLOSED (reset Mon May 11; Alpaca blocked all week Day 43 by Fri /eod-review; zero tradeable setups; 0/3 trades used; market state changed to Uptrend Under Pressure on final day)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)
 **Week of 2026-04-28:** 0 new positions opened (max 3/week) — CLOSED Fri May 1 (Alpaca API blocked entire week; 0/3 used)
