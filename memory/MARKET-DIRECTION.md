@@ -8,14 +8,25 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-22 (Fri) — `/market-check` 10:00 AM CT
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 still queued (Alpaca Day 52 blocked — HIGHEST PRIORITY on restore)
-**Alpaca API — Day 52** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
+**Last updated:** 2026-05-22 (Fri) — `/eod-review` 3:15 PM CT
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 still queued (Alpaca Day 53 blocked — HIGHEST PRIORITY on restore)
+**Alpaca API — Day 53** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`
 **⚠️ DATA CORRECTION: May 21 S&P 500 actual close = 7,445.72 (+0.17%)** (vs our estimate ~7,400/−0.44%). Nasdaq actual: 26,293.10 (+0.09%). SPY actual est. ~$744.57. May 21 was an UP day — NOT a distribution day.
 **⚠️ STATE CORRECTION: 🔴 Correction → 🟡 Uptrend Under Pressure.** May 21 NOT a dist day + Apr 23 removal (8% gain rule: SPY ~$744.57 >> $726.26 threshold ✅) → net dist count = **5/25** (Apr 28, May 4, May 7, May 15, May 19). 5/25 = Under Pressure, not Correction.
 **Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | Apr 23 REMOVED (8% gain rule) | May 21 NOT a dist day.
 **Rally attempt: Day 4 PASSES — FTD NOT CONFIRMED (May 22).** S&P ~flat to +0.07% from May 21 close (SPY range $737.03–$744.87; far below +1.25% FTD threshold). SPY volume 43.33M < 48.66M avg (below average — no FTD even if S&P had gained enough). Rally attempt INTACT: SPY low $737.03 > Day 1 low $733.39. **FTD window: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7).** [May 25 = Memorial Day closed]
 **Catalysts May 22:** Iran/US talks show progress (Dow 300+ pt surge, fresh record); Brent +2.31% to ~$105; S&P up modestly. Rally optimism but short of FTD power move. No dist day (UP day).
+
+**✅ MAY 22 CLOSE (/eod-review 3:15 PM CT):**
+- S&P 500: **7,473.47** (+0.37% from 7,445.72 May 21 close) | Nasdaq: **26,343.97** (+0.19%) | Dow: **50,579.70** (+0.58%, FRESH RECORD) | Russell 2000: +0.93% | `research_source: websearch_fallback` | **Alpaca blocked Day 53**
+- SPY est. close: **~$747** (+0.40% from ~$744.57 May 21) | QQQ close: **$716.97** (+~1.00%) | SPY vol: **43.33M vs 48.66M avg = BELOW average**
+- **Weekly performance:** S&P +0.9% (8th straight winning week — longest run since late 2023) | Dow +2.1% (3rd positive week in 4) | Nasdaq +0.5% (7th win in 8 weeks)
+- Catalyst: Qatari diplomatic team flew to Tehran in coordination with US → Iran deal progress; Dow fresh record; broad breadth.
+- **Distribution day check (May 22):** UP day (+0.37%) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.**
+- **FTD DAY 4: NOT CONFIRMED.** S&P +0.37% (need +1.25% = 7,538.78) — far short. SPY vol 43.33M < 48.66M avg — below average. Dual fail (magnitude + volume). Rally attempt INTACT: SPY ~$747 >> Day 1 low $733.39.
+- **FTD window: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7).** May 25 = Memorial Day (market CLOSED).
+- 0 open positions → sell-rules-engine: **SKIPPED** | SH hedge $625 queued — Alpaca Day 53 BLOCKED
+- Circuit breakers: ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
 
 **✅ MAY 22 INTRADAY (/market-check 10:00 AM CT):**
 - S&P 500: ~flat/+0.07% est. from May 21 close 7,445.72 (SPY range $737.03–$744.87; opened lower on ES futures −0.47%, recovered to near-flat) | Dow: 300+ pts NEW RECORD | Nasdaq: +0.53% | Russell 2000: +0.93% | `research_source: websearch_fallback` | **Alpaca blocked Day 52**
@@ -527,9 +538,11 @@ A distribution day expires after 25 sessions OR if index gains 6%+ from the day'
 | 2026-05-20 | SPY | +1.08% actual | n/a | **NOT A DIST DAY** — UP day (S&P 500 ACTUAL 7,432.97 +1.08% CONFIRMED; Nasdaq 26,270.36 +1.54%; Dow +0.16%; Russell 2000 −1.01%). DATA CORRECTION from prior /eod-review estimate of +0.32%. FOMC minutes hawkish (absorbed). Rally attempt Day 2. NVDA Q1 FY2027 blockbuster beat AH. Cannot be distribution by definition. `research_source: websearch_fallback` | **Alpaca blocked Day 50** |
 | 2026-05-21 | SPY | −0.44% est. | est. elevated vs 45M May 20 | **⚠️ ESTIMATED — DIST DAY #7** (no state change — already in Correction; S&P 500 est. ~7,400 −0.44%; Russell 2000 +2.56% divergence; WMT −6.43% institutional selling; NVDA sell-the-news; Treasury yields up; Iran uranium hardline reverses "final stages" narrative; magnitude −0.44% > −0.20% threshold ✅; vol estimated elevated from WMT/rotation catalysts; Alpaca Day 51 blocked — vol ratio unconfirmed; `data_confidence: medium`; expires ~2026-06-26) |
 
-**Effective count: 6/25** (Apr 28, May 4, May 7, May 15, May 19, May 21 — SPY dist days) | 🔴 **CORRECTION STATE ACTIVE**
-**Apr 23 FADED** (2026-05-21: SPY +8.0% from Apr 23 close > 6% O'Neil fade rule). **May 12 NOT a dist day** (−0.16% < threshold). **May 13 NOT a dist day** (UP). **May 14 NOT a dist day** (UP ATH). **May 18 NOT confirmed** (vol below prior). **May 20 NOT a dist day** (UP +1.08% actual).
-**Dist day expiry:** Apr 28 ~Jun 3 | May 4 ~Jun 8 | May 7 ~Jun 12 | May 15 ~Jun 19 | May 19 ~Jun 24 | May 21 ~Jun 26. All 6 active through end of May.
+| 2026-05-22 | SPY | +0.37% | n/a | **NOT A DIST DAY** — UP day (S&P 500 7,473.47 +0.37%; Dow 50,579.70 FRESH RECORD; Russell 2000 +0.93%; breadth broadening). Cannot be distribution by definition. FTD Day 4 also NOT confirmed (magnitude +0.37% < +1.25% threshold; vol 43.33M < 48.66M avg). `research_source: websearch_fallback` | **Alpaca blocked Day 53** |
+
+**Effective count: 5/25** (Apr 28, May 4, May 7, May 15, May 19 — SPY dist days) | 🟡 **UPTREND UNDER PRESSURE**
+**Apr 23 FADED** (2026-05-21: SPY +8.0% from Apr 23 close > 6% O'Neil fade rule). **May 21 CORRECTED to NOT a dist day** (+0.17% actual per /pre-market May 22 data correction). **May 22 NOT a dist day** (UP +0.37%). **May 12 NOT a dist day** (−0.16% < threshold). **May 13 NOT a dist day** (UP). **May 14 NOT a dist day** (UP ATH). **May 18 NOT confirmed** (vol below prior). **May 20 NOT a dist day** (UP +1.08% actual).
+**Dist day expiry:** Apr 28 ~Jun 3 | May 4 ~Jun 8 | May 7 ~Jun 12 | May 15 ~Jun 19 | May 19 ~Jun 24. All 5 active through end of May.
 **SPY confirmed data:** SPY close May 8 = $737.62. 50-day MA = $711.26 (May 10 base). 50d MA est. May 20 ~$692 (extrapolated). QQQ 50d SMA ~$638 est. SPY above 50d MA est. +6.3%.
 **⚠️ data_confidence: websearch_fallback** — Alpaca API blocked (403 Host not in allowlist) Day 49. Vol ratios unconfirmed for all entries since Day 22. Price data confirmed via Yahoo Finance / Trading Economics / TipRanks where possible.
 
@@ -588,16 +601,16 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 
 ## Rally Attempt Tracking
 
-**Current rally status:** 🔴 **MARKET IN CORRECTION** — Rally Attempt **Day 3 INTACT** (Day 1 = May 19, 2026, SPY low $733.39)
-- **State change:** May 15 → 🟡 Under Pressure (dist day #5); May 19 → 🔴 Correction (dist day #6)
-- **FTD window:** **May 22 (Day 4) — TOMORROW**, May 26 (Day 5), May 27 (Day 6), May 28 (Day 7). [May 25 = Memorial Day — closed]
-- **Day 3 result (May 21):** SPY est. ~$739.70 (−0.44%) >> Day 1 low $733.39 → **rally attempt NOT invalidated.** Down Day 3 is NOT disqualifying — FTD window still open tomorrow.
-- **FTD probability for May 22:** LOW-MODERATE. Russell 2000 +2.56% today = breadth support. U of Michigan Consumer Sentiment (7:30 AM CT) = binary catalyst. Beat = FTD companion. Miss = further weakness, possible Day 1 undercut risk.
-- **SPY May 21 est. close:** ~$739.70 | 50d MA est. ~$693 | Above 50d MA: +6.7% est. (NOT breaking 50d — Correction by dist count, not 50d breach)
-- **QQQ May 21 est. close:** ~$707.20 | 50d SMA est. ~$639
-- **Most recent FTD:** 2026-04-08 (SPY +2.55%, vol 94M vs 70M prior — aging; Day 52+ old)
+**Current rally status:** 🟡 **UPTREND UNDER PRESSURE** — Rally Attempt **Day 4 PASSED** (not undercut; Day 1 = May 19, 2026, SPY low $733.39)
+- **State:** 🟡 Under Pressure (5/25 dist days; May 21 data-corrected to NOT a dist day)
+- **FTD window:** May 26 (Day 5), May 27 (Day 6), May 28 (Day 7). [May 25 = Memorial Day — closed]
+- **Day 4 result (May 22):** S&P +0.37% (far short of +1.25% FTD threshold) | SPY vol 43.33M < 48.66M avg (below average) → **NOT a FTD.** Rally attempt intact: SPY ~$747 >> Day 1 low $733.39.
+- **FTD probability for May 26+:** MODERATE-HIGH improving. Iran/Qatar mediation progress; Dow fresh records; Russell 2000 outperforming (breadth broadening); S&P 8th straight winning week. Missing ingredient: a power move day (+1.25%+ on above-avg volume). Watch for geopolitical catalyst (Iran deal finalization) to provide the ignition.
+- **SPY May 22 est. close:** ~$747 | 50d MA est. ~$693 | Above 50d MA: ~+7.8% est. (NOT breaking 50d)
+- **QQQ May 22 close:** $716.97 | 50d SMA est. ~$640
+- **Most recent FTD:** 2026-04-08 (SPY +2.55%, vol 94M vs 70M prior — aging; Day 53+ old)
 - **Previous rally attempts this cycle:** Day 1 = May 15; reset May 18. Day 1 = May 18; reset May 19. Current Day 1 = May 19.
-- **Alpaca API blocked 51 consecutive days — no execution possible.** Hedge SH $625 queued as FIRST ORDER on restore.
+- **Alpaca API blocked 53 consecutive days — no execution possible.** Hedge SH $625 queued as FIRST ORDER on restore.
 
 ---
 

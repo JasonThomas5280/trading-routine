@@ -111,6 +111,72 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-22 (Fri) — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 53; Perplexity: 403; Alpha Vantage: 403)
+**Market direction pull:** 🟡 Uptrend Under Pressure | 5/25 dist days | NO new long entries
+
+**Close:**
+
+| Index | Level | Change | Notes |
+|---|---|---|---|
+| S&P 500 | 7,473.47 | +0.37% (+27.75 pts) | 8th consecutive weekly gain; weekly +0.9% |
+| Nasdaq | 26,343.97 | +0.19% | Weekly +0.5% (7th win in 8 weeks) |
+| Dow | 50,579.70 | +0.58% | FRESH RECORD — 3rd positive week in 4; weekly +2.1% |
+| Russell 2000 | N/A | +0.93% | Breadth broadening — constructive |
+| SPY | ~$747 est. | +0.40% est. | Vol: 43.33M vs 48.66M avg = BELOW average |
+| QQQ | $716.97 | ~+1.00% est. | Vol: 36.42M |
+
+**Distribution days:** 5/25 trailing 25 sessions (today: NOT a dist day — UP day +0.37%)
+**Market state:** 🟡 Uptrend Under Pressure (transitioned today? NO — unchanged)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED (0 positions)
+  - No entries: gate = Under Pressure + Alpaca Day 53 blocked
+**Circuit breakers:** none
+**P&L today:** $0 (0.00%)
+**Equity:** $2,500.00 (HWM)
+
+### Distribution day check
+
+UP day (+0.37%) → CANNOT be distribution. Dist count: **5/25 UNCHANGED.** (Apr 28, May 4, May 7, May 15, May 19)
+
+### Follow-Through Day check (Rally Day 4)
+
+- S&P 500 close: 7,473.47 | Prior close: 7,445.72 | Gain: +0.37% (+27.75 pts)
+- FTD threshold: +1.25% = +93 pts → 7,538.78 target
+- **NOT a FTD — magnitude far short (+0.37% vs +1.25% required)**
+- SPY vol 43.33M < 48.66M avg — volume also below average (dual fail)
+- Rally attempt INTACT: SPY ~$747 >> Day 1 low $733.39 (not undercut)
+- **FTD window advances: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7)**
+- May 25 = Memorial Day — market CLOSED
+
+### Catalyst
+
+Iran/US: Qatari diplomatic team flew to Tehran in coordination with US to help broker agreement ending Iran War → Dow fresh record (+294 pts); Russell 2000 +0.93%; S&P 8th straight winning week. Breadth broadening = constructive backdrop for potential FTD next week.
+
+### Watchlist EOD status
+
+| Symbol | Est. Close | vs Pivot | Status |
+|---|---|---|---|
+| GOOGL | ~$387-390 est. | ~−3.5-4.0% below $403-405 | 🟡 WATCHING — base wk 6 forming; no trigger |
+| VRT | ~$323-335 est. | TBD | 🟡 WATCHING — score pending Alpaca+AV |
+| NVDA | ~$220-228 est. | TBD (no base) | 🟡 BENCH — base forming post-earnings |
+
+### Next week outlook
+
+- **May 25 (Mon): Memorial Day — market CLOSED**
+- **FTD window: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7)**
+- FTD requires: S&P +1.25%+ on volume > prior day
+- Conditions improving: Iran peace progress + Dow records + Russell 2000 breadth broadening
+- If FTD confirmed → state → 🟢 Confirmed Uptrend → GOOGL entry evaluation at $403-405 pivot
+- Alpaca Day 53 blocked remains highest priority — no execution possible until restored
+- Hedge SH $625: queued; FIRST ORDER on restore
+
+### Result: NO ENTRIES — Under Pressure gate + Alpaca Day 53 blocked. Sell-rules-engine SKIPPED (0 positions). Week closes 0/3 trades.
+
+---
+
 ## 2026-05-17 (Sun) — /weekly-prep (4:00 PM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 44; Perplexity: 403 blocked; Alpha Vantage: 403 blocked — ALL THREE PRIMARY SOURCES BLOCKED. 5th consecutive week of full websearch_fallback mode.)

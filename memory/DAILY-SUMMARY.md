@@ -1,5 +1,30 @@
 
 ---
+## 2026-05-22 15:15 CT [eod-review]
+
+📊 EOD 2026-05-22 (Fri) | Equity $2,500.00 (+$0.00 day, +$0.00 week)
+Open: 0 positions, 100% cash | Alpaca: ❌ BLOCKED Day 53
+
+S&P 500 7,473.47 (+0.37%) | Nasdaq 26,343.97 (+0.19%) | Dow 50,579.70 (+0.58% RECORD)
+Russell 2000 +0.93% | SPY vol 43.33M (below 48.66M avg) | QQQ $716.97
+Weekly: S&P +0.9% (8th straight winning week) | Dow +2.1% | Nasdaq +0.5%
+
+Distribution days: 5/25 (market: 🟡 Uptrend Under Pressure) | No new dist day today (UP +0.37%)
+FTD Day 4: NOT confirmed (+0.37% vs +1.25% needed; vol below avg)
+Rally attempt INTACT: SPY ~$747 >> Day 1 low $733.39
+
+Actions today:
+  • No entries — gate: Under Pressure + Alpaca Day 53 blocked
+  • sell-rules-engine: SKIPPED (0 positions)
+  • SH hedge $625: queued — still blocked
+
+Circuit breakers: NONE | Weekly trades: 0/3 | PDT: 0/3
+
+Tomorrow: May 25 = Memorial Day (CLOSED) | Next session: May 26 (FTD Day 5 window)
+Watching: GOOGL (~$387-390, −3.5% below $403-405 pivot, base wk 6) | VRT (watching) | NVDA (bench)
+Key for next week: Iran deal finalization = potential FTD ignition on May 26-28
+
+---
 ## 2026-05-22 10:00 CT [market-check]
 
 📈 Market-check 2026-05-22 10:00 AM CT
