@@ -8,6 +8,32 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
+**Last updated:** 2026-05-24 (Sun) — `/weekly-prep` 4:00 PM CT
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 54 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days in 3 sessions (May 20, 21, 22 all clean or corrected to UP/not-dist)
+**SPY:** ~$747 (May 22 close est.) | 50d MA: **$689** (+8.4% above) | 200d MA: **$676** (+10.5% above) | Not breaking 50d MA
+**QQQ:** $716.97 (May 22 close) | 50d SMA: **$638** (+12.4%) | 200d SMA: **$618** (+16.0%)
+**Rally attempt: Day 4 passed (not undercut). Day 1 = May 19 (SPY low $733.39)**
+**FTD window: May 26 (Day 5, Tue), May 27 (Day 6, Wed), May 28 (Day 7, Thu)** [May 25 Memorial Day — market CLOSED]
+**FTD probability: MODERATE-HIGH (~55-65%)** — Iran deal "largely negotiated" (Trump Sat May 24); Dow 50,579 fresh record; 8th straight weekly S&P gain; Russell 2000 breadth broadening; PCE/GDP data May 28 = potential catalyst
+**Sector rankings (4-week trailing RS, Apr 24 → May 22):**
+1. 🥇 **XLI (Industrials)** — +16% est.; AI power/cooling infra dominant (VRT, GE Aero); RRG leading quadrant
+2. 🥈 **XLC (Communication Services)** — GOOGL +24% 90d; AI cloud; strongest narrative; RS 95+
+3. 🥉 **XLE (Energy)** — Iran deal catalyst; Brent $100-105; supply discipline
+4. ⚠️ **XLK (Technology)** — BLACKOUT MAINTAINED (RRG lagging; NVDA muted post-earnings; sector_momentum_warning ongoing)
+5. XLV (Healthcare) — defensive rotation; +14% 4-wk; not CAN SLIM growth territory
+**Bottom 3:** XLU (worst sector in May; -4.9%), XLY (consumer discretionary lagging), XLRE
+**Blacklisted sectors:** None
+**Key events this week (May 26-30):**
+- May 25: Memorial Day — CLOSED
+- **May 26 (Tue): FTD Day 5** + Consumer Confidence data. Iran deal may open gap-up.
+- **May 27 (Wed): FTD Day 6** + New Home Sales + MRVL earnings AH + CRM (Salesforce) AH
+- **May 28 (Thu): FTD Day 7** + Q1 GDP 2nd estimate + PCE April (7:30 AM CT — KEY soft/hot signal) + COST + DELL AH
+- **May 29 (Fri):** End of FTD window. No FTD by here → reset if SPY undercuts $733.39
+- **AVGO earnings blackout starts May 28** (June 3 earnings ≤5 trading days out)
+**Dist day expiry watch:** Apr 28 expires ~Jun 2 ← first natural relief this cycle
+**Alpaca: Blocked Day 54** | `research_source: websearch_fallback` | Perplexity: ❌ | AV: ❌
+
 **Last updated:** 2026-05-22 (Fri) — `/eod-review` 3:15 PM CT
 **STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 still queued (Alpaca Day 53 blocked — HIGHEST PRIORITY on restore)
 **Alpaca API — Day 53** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`

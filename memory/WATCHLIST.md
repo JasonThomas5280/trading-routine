@@ -6,7 +6,101 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## Week of 2026-05-18 to 2026-05-22
+## ACTIVE — Week of 2026-05-26 to 2026-05-30
+
+**Built:** 2026-05-24 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: 403 Day 54, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + cached prior-week fundamentals)
+
+**Market direction:** 🟡 Uptrend Under Pressure (5/25 dist days) | **NO NEW LONG ENTRIES** until FTD confirmed
+**SPY:** ~$747 (May 22 est.) | 50d MA $689 (+8.4%) | 200d MA $676 (+10.5%)
+**QQQ:** $716.97 | 50d SMA $638 (+12.4%) | 200d SMA $618 (+16.0%)
+
+**Top sectors (4-week trailing RS, Apr 24 → May 22):**
+1. XLI Industrials: ~+16% (VRT, AI power/cooling; RRG leading quadrant)
+2. XLC Communication Services: ~+12-15% (GOOGL; AI cloud; RS 95+)
+3. XLE Energy: ~+8-12% (Iran deal catalyst; Brent elevated)
+4. ⚠️ XLK Technology: BLACKOUT — RRG lagging; sector_momentum_warning ongoing
+
+**Blacklisted sectors:** None
+**XLK status:** `sector_momentum_warning` → **blackout maintained** until RRG confirms leading/weakening quadrant
+
+**Universe scan:** DEGRADED — Alpaca + AV both blocked; cannot run `build-universe.sh`. Curated universe of 8 names based on sector research.
+**Candidates evaluated:** GOOGL, VRT, NVDA, AVGO, GE, META, DE, CCJ
+**Pre-filters:** CAT ($931 > $500 price ceiling — disqualified), GE (float >800M + A-letter spin-off history), DE (lagging sector momentum)
+**Passed conviction ≥75: 1** (GOOGL 77/100) | Entry gates passed: **0** (market Under Pressure)
+
+> **⚠️ 7th consecutive week with only 1 candidate above conviction threshold.** Rubric is working. Do NOT lower thresholds. This is information: the universe is thin in a transitioning market.
+
+---
+
+## ⚠️ UNDER PRESSURE POSTURE — NO NEW LONG ENTRIES
+
+**Entry gate:** ALL LONG ENTRIES BLOCKED (5/25 dist days → Under Pressure). Hedge SH/SQQQ $625 queued — FIRST ORDER on Alpaca restore.
+
+**This week's inflection: FTD window is open (May 26–28).**
+- If FTD confirmed → state flips to 🟢 Confirmed Uptrend → evaluate GOOGL immediately (base approaching wk 5)
+- If no FTD by May 28 → rally attempt window closes; monitor SPY $733.39 Day 1 low for undercut
+- If dist day #6 hits → 🔴 Correction again; no longs; full SH/SQQQ hedge
+
+---
+
+### Primary Watchlist (score ≥75 — watching for FTD confirmation + base completion)
+
+| Rank | Symbol | Conviction | Sector | Base / Setup | Pivot | Stop if Entered | Earnings | Buy-Zone Status | Notes |
+|---|---|---|---|---|---|---|---|---|---|
+| W1 | GOOGL | **77/100** ✅ | XLC / Communication | ⏳ FORMING flat base ($387-403 zone; **wk 4-5** — need 1-2 more wks for validity) | ~$404 (est., upon base completion) | entry × 0.93 (~$375) | Q2 ~July 2026 (~42d) | 🟡 WATCHING — 3.8% below $404 pivot; entry requires FTD confirmed + base wk 5-7 + vol ≥+40% + Alpaca restored | **Lead candidate for NEXT Confirmed Uptrend.** C:20 (GAAP EPS +81% YoY; Cloud +63%; net income $62.6B), A:10 (2 of 3 yrs ≥25%; ROE 31.83%), N:15 (near 52wk high; Gemini AI; Pentagon; $70B buyback), S:10 (float 12B headwind; buyback active; vol in base declining=constructive), L:15 (RS 95+; XLC #2 sector), I:7 (65%+ inst, increasing). Base:0 (forming wk 4-5; need wk 5-7). Score would be **87/100** with confirmed base. `cached_fundamentals` `research_source: websearch_fallback`. **First order on Alpaca restore: SH hedge $625. Second: GOOGL entry on FTD+base.** |
+
+---
+
+### Bench (below threshold or blocked — watching for base/score improvement)
+
+| Rank | Symbol | Score Est. | Sector | Status | Re-Score Trigger | Notes |
+|---|---|---|---|---|---|---|
+| B1 | NVDA | **~68/100** ⚠️ | XLK / Semis | 🟡 POST-EARNINGS consolidation wk 2 | Base completion (est. wk 4-6 from May 22) + Alpaca+AV restore | C:20 (+120% EPS YoY Q1 FY2027), A:15 (FY2024+FY2025+FY2026 all ≥25%), N:10 (near ATH but China H20 = zero permanently = no new market), S:5 (massive float; $80B buyback), L:10 (RS 90+; XLK sector NOT top-3 = no sector bonus), I:8, Base:0. Total ~68/100. With valid base (+10): **78/100** ✅ — passes. **China zero = permanent N-letter drag (-5pts vs prior).** Timeline: base formation est. wk 4-8 post-earnings (Jun 10-Jul 3 window). Entry pivot: TBD (depends on base shape). `research_source: websearch_fallback`. |
+| B2 | VRT | **65/100** ❌ | XLI / Industrials | 🟡 Early pullback from ATH; no valid base yet | AV restore (GAAP A-letter +5pts) + base formation (+10pts) → est. 80/100 | C:20 (adj. EPS +83% YoY Q1; GAAP caveat), A:7 (GAAP annual unconfirmed; PE history; FY2023 data unavailable — `insufficient_data_flag`), N:12 (AI data center cooling DOMINANT; near ATH; IG credit inaugural), S:3 (float 380-400M; no confirmed buyback), L:15 (RS likely 90+; XLI #1 sector), I:8 (IG rating opens new institutional buyer universe). Base:0. Total 65/100. Path: GAAP confirmed (+5) + base confirmed (+10) = **80/100** ✅. Earnings: July 29 (66 days — clear). `cached_fundamentals: adj_eps_only` `insufficient_data_flag: gaap_annual_fy2023_fy2024`. |
+| B3 | AVGO | **~63/100** ❌ | XLK / Technology | 🔴 A-letter fail + XLK sector blackout + **⚠️ EARNINGS BLACKOUT STARTS MAY 28** | XLK sector returns to top-3 + GAAP FY2023 revenue ≥25% confirmed + post-June 3 earnings | C:15 (AI revenue doubled YoY; GAAP EPS unconfirmed), A:10 (FY2023 revenue +8% BELOW 25% = A-letter structural fail; ROE saves +5), N:12 (near ATH; custom XPU AI chips; $73B backlog), S:5 (float >500M = 0; buyback est.), L:8 (RS strong but XLK sector #4 = no sector bonus), I:7, Base:10 (est. flat base). Score 63/100 — dual blockage: A-letter + XLK. **Earnings June 3: BLACKOUT starts May 28 (≤5 trading days).** Next re-score: week of June 9 post-earnings. Citi $500, Evercore $582 PT. `sector_momentum_warning`. |
+| B4 | META | **~45-55/100** ❌ | XLC / Communication | 🟡 Base forming (est. wk 20+ from May 2025 ATH correction) | Base completion + price data confirmed (agent search shows ~$300-320; prior watchlist showed $580-620 — ⚠️ DATA CONFLICT. Do NOT score until Alpaca+AV restore resolves.) | ⚠️ **PRICE DATA CONFLICT**: Prior watchlist (May 17) estimated $580-620 (ABOVE $500 price ceiling = would disqualify). New websearch shows $280-320 range. Conflict too large (>$200). HOLD VIA WATCHLIST — FULL RE-SCORE REQUIRED when Alpaca+AV restore to confirm actual price. If >$500: disqualified. If <$500: re-score. Do NOT enter on uncertain data. Float 2.5B+ = S-letter headwind regardless. |
+
+---
+
+### Entry Execution Plan — Week of May 26-30
+
+**Entry gate: ⛔ ZERO new long entries** (market = Uptrend Under Pressure; Alpaca Day 54)
+
+**FIRST order on Alpaca restore:** Buy SH (inverse S&P −1×) ~$625 / 25% portfolio (Under Pressure hedge protocol)
+- SH preferred over SQQQ (lower leverage decay for account size)
+- Sizing: $625 / SH current price (est. ~$16-18 range)
+
+**FTD confirmation triggers this week:**
+
+| Day | Gate | Bullish setup | Bearish scenario |
+|---|---|---|---|
+| Tue May 26 | **FTD Day 5** | Iran deal announcement → gap-up open ≥+1.25% on above-avg vol = **FTD confirmed** | No deal; flat-to-down = Day 5 not confirmed; window continues |
+| Wed May 27 | **FTD Day 6** | MRVL/CRM earnings beat + general momentum ≥+1.25% on vol | Earnings miss = dist day risk (would be #6 → Correction) |
+| Thu May 28 | **FTD Day 7 (LAST)** | PCE April soft → rate cut signals = FTD fuel | Hot PCE = dist day risk #6; AVGO blackout starts |
+| Fri May 29 | Window closes | If no FTD: rally attempt remains alive but watch for $733.39 SPY undercut | SPY closes below $733.39 = rally attempt reset |
+
+**If FTD confirmed this week:**
+→ State flips to 🟢 Confirmed Uptrend → Execute SH sell (hedge off) → Immediately evaluate GOOGL (base wk 5 = potentially valid flat base, min 5wk) → Re-score GOOGL with base data → If base confirmed + vol +40% + Alpaca restored → enter GOOGL via `trade-executor`
+
+**If dist day #6 hits this week:**
+→ 🔴 Market in Correction → No new longs → SH/SQQQ hedge highest priority → Cash preservation → Wait for new rally attempt + FTD
+
+---
+
+### Removed this week
+
+| Symbol | Reason |
+|---|---|
+| GE (GE Aerospace) | **Evaluated new; rejected.** Score ~43/100. A-letter: GE Aerospace spun off April 2024 — insufficient 3-year standalone GAAP history. Float ~860M shares (>500M = S-letter headwind). Score fails threshold even in best case. Fundamental story (orders +87%, revenue +25%) is strong but CAN SLIM rubric requires history. Re-evaluate after FY2026 full year report (est. Jan 2027) when 3-year track record exists. |
+| CAT (Caterpillar) | **DISQUALIFIED** — price $931 > $500 ceiling per TRADING-STRATEGY.md. Same rule as GS, GEV. |
+| DE (Deere) | **Sector laggard** — only +41% vs CAT +93% last 12 months; no CAN SLIM breakout setup. |
+| CCJ (Cameco) | **Rejected** — uranium mining cyclical. Not a CAN SLIM growth-earnings story. |
+
+---
+
+## ⚠️ ARCHIVED — Week of 2026-05-18 to 2026-05-22
+
+> **Archived week of May 18–22 — rebuild via /weekly-prep on Sunday May 25 (or Tue May 27 if pre-market May 26 triggers FTD).**
 
 **Market-check:** 2026-05-22 10:00 AM CT — `/market-check` | `research_source: websearch_fallback` | Alpaca Day 52 blocked | **All entry gates blocked (Under Pressure + Alpaca)** | S&P ~flat/+0.07% (SPY $737.03–$744.87); Dow 300+ pts NEW RECORD; Nasdaq +0.53%; Russell 2000 +0.93% | FTD Day 4 NOT confirmed (magnitude+volume both fail; short of +1.25% threshold) | Rally attempt INTACT (SPY low $737.03 > Day 1 low $733.39) | FTD window: May 26 (D5), May 27 (D6), May 28 (D7) | Dist count: 5/25 UNCHANGED (UP day) | GOOGL $387.66 (3.8% below pivot; 🟡 WATCHING unchanged) | VRT $323-331 (no pivot; 🟡 WATCHING unchanged) | NVDA ~$219-222 (no base; 🟡 BENCH unchanged) | 0 positions | Sell-rules-engine: SKIPPED | Actions: NONE
 **Pre-market refresh:** 2026-05-22 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 52 | Perplexity 403 | AV 403) | **All entry gates blocked (Under Pressure)** | ⚠️ DATA CORRECTION: May 21 actual S&P +0.17% to 7,445.72 (vs est. −0.44%/~7,400) — NOT a dist day; SPY actual ~$744.57 | ⚠️ STATE CORRECTION: 🔴 Correction → 🟡 Under Pressure (5/25 dist days; Apr 23 removed) | U of Michigan final May: ~48.2 (near record low; bearish consumer) | ES futures: ~7,410 (−0.47%) — NO FTD setup today | FTD probability today: LOW | FTD window: May 26 (D5), May 27 (D6), May 28 (D7) | GOOGL ~$387-388 (−4.0% below pivot; Waymo minor; dividend $0.22 June 8; 🟡 WATCHING) | VRT ~$323-331 (no news; 🟡 WATCHING) | NVDA pre-mkt $229.72 (vol 2.3× avg; constructive; 🟡 BENCH) | 0 positions | Actions: NONE

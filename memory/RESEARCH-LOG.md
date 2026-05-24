@@ -177,6 +177,116 @@ Iran/US: Qatari diplomatic team flew to Tehran in coordination with US to help b
 
 ---
 
+## 2026-05-24 (Sun) — /weekly-prep (4:00 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 54; Perplexity: 403 blocked; Alpha Vantage: 403 blocked — ALL THREE PRIMARY SOURCES BLOCKED. 7th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries
+
+### Data source status
+
+| Source | Status | Impact |
+|---|---|---|
+| Alpaca API | ❌ 403 "Host not in allowlist" — Day 54 | Cannot execute orders; cannot pull live bars/volume/quotes |
+| Alpha Vantage | ❌ 403 blocked (same IP allowlist issue) | Cannot pull EARNINGS, OVERVIEW, ETF_PROFILE |
+| Perplexity | ❌ 403 blocked | Cannot run N-letter research queries |
+| WebSearch | ✅ Available | All data sourced here; estimation error ±3-8% on prices; volume unconfirmed |
+
+### Market direction update
+
+| Metric | Value | Notes |
+|---|---|---|
+| S&P 500 (May 22 close) | 7,473.47 | 8th straight weekly gain; +0.9% week |
+| SPY | ~$747 est. | May 22 close estimate |
+| SPY 50d MA | $689 | SPY +8.4% above 50d MA |
+| SPY 200d MA | $676 | SPY +10.5% above 200d MA |
+| QQQ (May 22 close) | $716.97 | QQQ 50d SMA ~$638 (+12.4% above) |
+| Dist count | **5/25** | Apr 28, May 4, May 7, May 15, May 19 — all active |
+| FTD status | Not yet confirmed | Window: May 26 (Day 5), May 27 (Day 6), May 28 (Day 7) |
+| Rally attempt | Day 4 passed (intact) | Day 1 = May 19, SPY low $733.39 — NOT undercut |
+| Market state | 🟡 Under Pressure | NO new long entries |
+
+### Sector rankings (4-week trailing RS, Apr 24 → May 22)
+
+| Rank | Sector | Est. 4-wk return | Driver | CAN SLIM status |
+|---|---|---|---|---|
+| #1 | XLI Industrials | ~+16% | AI power/cooling infra; VRT; GE Aero; CAT | ✅ Focus sector |
+| #2 | XLC Communication Services | ~+12-15% | GOOGL AI cloud; RS 95+; search dominance | ✅ Focus sector |
+| #3 | XLE Energy | ~+8-12% | Iran deal pending; Brent $100-105 | ✅ Focus sector |
+| #4 | XLK Technology | ~+10-12% | XLK still RRG lagging; NVDA muted post-earnings | ⚠️ BLACKOUT |
+| #5 | XLV Healthcare | ~+14% | Defensive rotation; not growth territory | Skip |
+| Bottom | XLU, XLY, XLRE | Worst performers | XLU worst in May (-4.9%) | Avoid |
+
+`data_confidence: medium` — websearch_fallback sector data has ±3-5% error on trailing 4-week returns.
+
+### Universe scan stats
+
+| Metric | Value | Notes |
+|---|---|---|
+| Universe method | Curated websearch | `build-universe.sh` CANNOT run (Alpaca+AV blocked) |
+| Target sectors | XLI, XLC, XLE | Top 3 by 4-week RS |
+| Candidates evaluated | 8 | GOOGL, VRT, NVDA, AVGO, GE, META, DE, CCJ |
+| Pre-filter rejections | 2 | CAT (>$500 price ceiling), GE (float >800M + spin-off A-letter history) |
+| Earnings blackout | 0 this week | AVGO blackout starts May 28 (June 3 earnings) |
+| 50d ADV check | Skipped (Alpaca blocked) | All screened names well above 500K ADV threshold |
+| canslim-screener runs | 2 | GOOGL (websearch_fallback), VRT (websearch_fallback) |
+| Passed conviction ≥75 | **1** | GOOGL 77/100 |
+| Entry gates passed | **0** | Market Under Pressure → ALL longs blocked |
+
+### Rejection breakdown
+
+| Symbol | Score | Rejection reason |
+|---|---|---|
+| GOOGL | 77/100 ✅ | **Passes conviction gate.** Blocked by: market Under Pressure + base:0 (forming wk 4-5, need 5-7) + Alpaca blocked |
+| VRT | 65/100 ❌ | conviction_below_threshold: A-letter GAAP annual unconfirmed (PE history); float 380-400M reduces S-letter. Path to 80/100 exists when AV restores + base forms. |
+| NVDA | ~68/100 ❌ | conviction_below_threshold: No base post-earnings (wk 2 of est. 4-8); China H20 permanent zero reduces N-letter; XLK sector not top-3. With base: est. 78/100. |
+| AVGO | ~63/100 ❌ | conviction_below_threshold: A-letter structural fail (FY2023 revenue +8% < 25%); XLK sector blackout; earnings June 3 (blackout starts May 28). |
+| GE | ~43/100 ❌ | conviction_below_threshold: Insufficient 3-year standalone GAAP history (spin-off Apr 2024); float ~860M. |
+| META | ~45-55/100 ❌ | conviction_below_threshold + price_data_conflict: Prior watchlist $580-620 vs. websearch $280-320. Cannot score until Alpaca+AV resolve. |
+| DE | ~35/100 ❌ | Sector laggard; no CAN SLIM breakout setup; agricultural cycle slower than AI infra. |
+| CCJ | ~40/100 ❌ | Mining cyclical; commodity-driven earnings not CAN SLIM framework. |
+
+**7th consecutive week with only 1 name ≥75/100 (GOOGL). Universe is thin — market in transition. Do NOT lower conviction threshold.** This is the rubric working as designed. The correct posture is patience + watchfulness for FTD.
+
+### Key macro events this week
+
+| Day | Event | CAN SLIM relevance |
+|---|---|---|
+| May 25 (Mon) | Memorial Day — market CLOSED | — |
+| May 26 (Tue) | Consumer Confidence | FTD Day 5; sentiment beat = bullish; miss = caution |
+| May 26 (Tue) | Iran deal announcement (possible) | Gap-up = potential FTD Day 5 ignition |
+| May 27 (Wed) | New Home Sales (Apr) | Economic health signal |
+| May 27 (Wed) | MRVL earnings AH + CRM earnings AH | XLK catalyst (XLK blackout; monitor for sector impact) |
+| May 28 (Thu) | Q1 GDP 2nd estimate | Macro confidence; revision upward = bullish |
+| May 28 (Thu) | PCE April (7:30 AM CT) | **KEY** — soft PCE = rate cut signals = FTD fuel; hot PCE = dist day risk #6 |
+| May 28 (Thu) | COST + DELL earnings AH | Consumer + tech health signals |
+| May 28 | AVGO earnings blackout starts | AVGO enters ≤5d blackout (June 3 earnings); removed from evaluation |
+
+### Candidate watchlist status
+
+| Symbol | Pre-mkt/Last est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$387-390 (May 22) | ~$404 | ~−3.5-4.0% | 🟡 WATCHING — base wk 4-5; approaching validity |
+| VRT | ~$323-370 range | TBD (no valid base) | N/A | 🟡 WATCHING — score below threshold; base and AV needed |
+| NVDA | ~$215-228 (May 22) | TBD (forming base) | N/A | 🟡 BENCH — base wk 2; est. 4-6 more weeks |
+| AVGO | ~$410-425 est. | N/A (score fails) | N/A | 🟡 BENCH → BLACKOUT May 28 |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | 0% drawdown from $2,500 — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 54 — HALT ALL ENTRIES |
+
+### Result: NO ENTRIES — Under Pressure gate + Alpaca Day 54 blocked. Sell-rules-engine SKIPPED (0 positions). 3/3 weekly trade slots available but unusable. Watchlist rebuilt for week of May 26-30.
+
+**FIRST ORDER on Alpaca restore: SH $625 (25% portfolio hedge — Under Pressure protocol)**
+**SECOND ORDER on FTD confirmed + Alpaca restored: GOOGL entry at $403-405 pivot on vol ≥+40%**
+
+---
+
 ## 2026-05-17 (Sun) — /weekly-prep (4:00 PM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 44; Perplexity: 403 blocked; Alpha Vantage: 403 blocked — ALL THREE PRIMARY SOURCES BLOCKED. 5th consecutive week of full websearch_fallback mode.)
