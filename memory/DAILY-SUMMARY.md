@@ -1,5 +1,26 @@
 
 ---
+## 2026-05-25 10:00 CT [market-check — MEMORIAL DAY, MARKET CLOSED]
+
+📈 Market-check 2026-05-25 10:00 CT
+Market: 🟡 Uptrend Under Pressure | Circuit breakers: NONE
+Actions taken:
+  No new entries — gate: Market CLOSED (Memorial Day) + Under Pressure (5/25 dist days) + Alpaca Day 56 blocked
+  sell-rules-engine: SKIPPED (0 open positions)
+  SH hedge $625: QUEUED — awaiting Alpaca restore (Day 56 blocked, 403)
+
+Intelligence update:
+  • IRAN DEAL: S&P perpetual futures hit ATH on Hyperliquid — deal "largely negotiated," NOT signed. Brent ~$103.54, WTI ~$96.60 (declining).
+  • FTD Day 5 probability RAISED → HIGH (~70-80%). Target: S&P 7,566.74 / SPY ~$756.34 on above-avg vol.
+  • GOOGL $382.97 (base wk 7; no new catalysts; 58 analysts Strong Buy). Distance from $403-405 pivot: ~5%.
+  • CB Consumer Confidence Tue May 26 10 AM ET = key gate (beat = FTD fuel; miss = dist day #6 risk).
+
+Watchlist status: 1 primary (GOOGL 77/100), 3 bench (NVDA 68, VRT 65, AVGO 63)
+Open positions: 0 / 100% cash
+Weekly trade count: 0 of 3 used (week of May 26-30)
+Next check: /pre-market Tue May 26 6:00 AM CT (FTD Day 5 — critical inflection point)
+
+---
 ## 2026-05-22 15:15 CT [eod-review]
 
 📊 EOD 2026-05-22 (Fri) | Equity $2,500.00 (+$0.00 day, +$0.00 week)

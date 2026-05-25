@@ -8,14 +8,14 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-24 (Sun) — `/weekly-prep` 4:00 PM CT
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 54 blocked — HIGHEST PRIORITY on restore)
+**Last updated:** 2026-05-25 (Mon) — `/market-check` 10:00 AM CT (Memorial Day — market CLOSED)
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 56 blocked — HIGHEST PRIORITY on restore)
 **Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days in 3 sessions (May 20, 21, 22 all clean or corrected to UP/not-dist)
 **SPY:** ~$747 (May 22 close est.) | 50d MA: **$689** (+8.4% above) | 200d MA: **$676** (+10.5% above) | Not breaking 50d MA
 **QQQ:** $716.97 (May 22 close) | 50d SMA: **$638** (+12.4%) | 200d SMA: **$618** (+16.0%)
 **Rally attempt: Day 4 passed (not undercut). Day 1 = May 19 (SPY low $733.39)**
 **FTD window: May 26 (Day 5, Tue), May 27 (Day 6, Wed), May 28 (Day 7, Thu)** [May 25 Memorial Day — market CLOSED]
-**FTD probability: MODERATE-HIGH (~55-65%)** — Iran deal "largely negotiated" (Trump Sat May 24); Dow 50,579 fresh record; 8th straight weekly S&P gain; Russell 2000 breadth broadening; PCE/GDP data May 28 = potential catalyst
+**FTD probability: HIGH (~70-80%)** — RAISED from MODERATE-HIGH. S&P 500 perpetual futures hit ATH on Hyperliquid (Memorial Day) on Iran/Strait of Hormuz deal optimism. Oil declining (Brent ~$103.54, WTI ~$96.60 May 22 close). Iran deal NOT signed but framework "largely negotiated" (Trump May 23); deal expected "shortly." Risk: CB Consumer Confidence Tue 10 AM ET (UMich 44.8 near record low = potential CB miss → dist day #6 risk). FTD threshold: S&P 7,566.74 / SPY ~$756.34.
 **Sector rankings (4-week trailing RS, Apr 24 → May 22):**
 1. 🥇 **XLI (Industrials)** — +16% est.; AI power/cooling infra dominant (VRT, GE Aero); RRG leading quadrant
 2. 🥈 **XLC (Communication Services)** — GOOGL +24% 90d; AI cloud; strongest narrative; RS 95+
@@ -46,6 +46,17 @@
 - **NVDA ($214.28):** Post-earnings consolidation wk 3. No new news. Score ~68/100. 🟡 BENCH.
 - **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 55 blocked
 - **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 (reset — new week May 26-30) | Equity: $2,500 (HWM)
+
+**✅ MAY 25 INTRADAY (/market-check 10:00 AM CT — MEMORIAL DAY, MARKET CLOSED):**
+- **Market closed (Memorial Day).** No trading possible. No distribution days possible. Next session: **Tuesday May 26 = FTD Day 5 (first actionable day).**
+- **Alpaca: Day 56 blocked** (403 Host not in allowlist — confirmed via live test). Perplexity: 403. Alpha Vantage: 403. `research_source: websearch_fallback`
+- **Iran deal intelligence (MAJOR UPDATE):** S&P 500 perpetual futures hit ALL-TIME HIGH on Hyperliquid during Memorial Day trading as Trump's Strait of Hormuz deal framework generates strong risk-on sentiment. Deal still NOT officially signed — sticking points: Iranian uranium stockpile control, Strait supervision terms (Iranian media contradicting US). Trump: deal to be announced "shortly." Oil: Brent ~$103.54, WTI ~$96.60 (down from $108+ peak) on deal optimism = inflation relief = FTD fuel.
+- **FTD Day 5 probability RAISED: HIGH (~70-80%)** (from MODERATE-HIGH ~60-70%). Bull case: Iran deal signed before Tuesday open → gap-up 1.5-2.5% → FTD on volume. Bear case: deal stalls + CB Consumer Confidence miss (UMich 44.8 near record low is bearish comp for CB) → dist day #6 → 🔴 Correction.
+- **FTD threshold Tuesday:** S&P 7,473.47 × 1.0125 = **7,566.74** (+93 pts) on above-avg volume. SPY: ~$747 × 1.0125 = **~$756.34**. Achievable on Iran deal gap-up.
+- **GOOGL update:** $382.26-382.97 (holiday thin data). Antitrust appeal filed (no new negative). 58 analysts Strong Buy / avg PT $429. Base wk 7 forming. If FTD Tuesday + gap toward $390-395: approaching 2-3% from $403-405 pivot = WATCHING threshold tightening. Entry requires: FTD confirmed + Alpaca restored + base wk 7+ confirmed + vol ≥+40%.
+- **Abort gates:** Market CLOSED ✅ | Under Pressure ✅ | Alpaca Day 56 ✅ — ALL ENTRIES BLOCKED.
+- **Actions: NONE** | sell-rules-engine: SKIPPED (0 positions) | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+- **Tuesday priorities (in order):** (1) Check Iran deal signed/not → assess gap-up magnitude; (2) CB Consumer Confidence 10 AM ET = key FTD/dist signal; (3) FTD confirmed → state flip 🟢 → GOOGL evaluation; (4) Alpaca status (Day 57 attempt — restore is HIGHEST PRIORITY).
 
 **Last updated:** 2026-05-22 (Fri) — `/eod-review` 3:15 PM CT
 **STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 still queued (Alpaca Day 53 blocked — HIGHEST PRIORITY on restore)
