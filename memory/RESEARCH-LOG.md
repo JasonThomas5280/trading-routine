@@ -111,6 +111,55 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-25 (Mon) — /eod-review (3:15 PM CT) — MEMORIAL DAY: MARKET CLOSED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 57 confirmed; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries | Market CLOSED (Memorial Day)
+
+**Close:** SPY N/A — MARKET CLOSED | QQQ N/A — MARKET CLOSED
+*(Last cash close: SPY ~$747 est. / QQQ $717.54 confirmed — May 22, 2026)*
+**Distribution days:** 5/25 — UNCHANGED (Apr 28, May 4, May 7, May 15, May 19) — no dist days possible today
+**Market state:** 🟡 Uptrend Under Pressure — NO STATE CHANGE
+**Positions held:** 0
+**Actions today:** NONE — market closed
+**Circuit breakers:** NONE
+**P&L today:** $0.00 (+0.00%) — market closed
+**Equity:** $2,500.00 (at HWM)
+
+### Memorial Day futures intelligence (websearch_fallback)
+
+| Indicator | Level | vs May 22 close | Notes |
+|---|---|---|---|
+| ES/S&P Jun futures | **~7,534** (ATH level) | +0.81% from 7,473.47 | Only 32.7 pts (+0.43%) below FTD threshold 7,566.74 |
+| NQ/Nasdaq Jun futures | +1.4% est. | — | Constructive |
+| Iran deal | NOT signed | — | Rubio: "work in progress." Trump tempering expectations (NPR May 25). 60-day ceasefire framework largely negotiated; sticking points: uranium disposal, sanctions timing, Lebanon demands, Supreme Leader sign-off |
+| Brent crude | ~$103.54 | Declining | Inflation relief — FTD fuel |
+| WTI crude | ~$96.60 | Declining | — |
+| CB Consumer Confidence | Releases Tue May 26 10 AM ET | — | KEY gate: beat = FTD fuel; miss = potential dist day #6 risk |
+
+### FTD Day 5 assessment — Tuesday May 26
+
+**FTD threshold:** S&P 500 7,473.47 × 1.0125 = **7,566.74** | SPY **~$756.34**
+**ES futures holiday level:** ~7,534 → gap to threshold: **+32.7 pts (+0.43%)**
+**FTD probability: VERY HIGH (~80-85%)** ← raised from HIGH (~70-80%)
+
+- **Bull case (80-85% probability):** Iran deal announced before Tuesday open OR market gaps up on deal optimism → S&P clears 7,566.74 on above-avg volume → FTD Day 5 confirmed → state 🟡 → 🟢 Confirmed Uptrend → GOOGL entry opens
+- **Bear case (15-20% probability):** Iran deal stalls overnight + CB Consumer Confidence miss (UMich 44.8 near record low = bearish CB comp) → S&P can't hold → potential dist day #6 → 🔴 Correction
+
+### Sell-rules-engine results
+
+**0 open positions — sell-rules-engine SKIPPED.**
+
+### Tuesday May 26 action checklist (FTD Day 5)
+
+1. **Pre-market:** Check Iran deal signed/denied overnight → adjust FTD probability
+2. **10 AM ET:** CB Consumer Confidence print → beat = stay bullish; miss = watch for dist day
+3. **FTD watch:** S&P close ≥ 7,566.74 on above-avg volume → confirm state flip 🟢
+4. **Alpaca Day 58 test** → SH hedge $625 first order if still Under Pressure; GOOGL evaluation if FTD
+5. **AVGO blackout starts May 28** — no AVGO entries Thu/Fri this week
+
+---
+
 ## 2026-05-22 (Fri) — /pre-market (6:00 AM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 52; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. 6th consecutive week of full websearch_fallback mode.)

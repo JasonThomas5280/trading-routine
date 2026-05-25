@@ -46,12 +46,13 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-05-22 /eod-review — 0 open positions; Alpaca API blocked Day 53; SPY est. ~$747 close (+0.40%); S&P 500 7,473.47 (+0.37%); QQQ $716.97 (+~1.00%); Dow 50,579.70 FRESH RECORD; Russell 2000 +0.93% (breadth broadening — bullish for FTD); dist count **5/25** — **🟡 UPTREND UNDER PRESSURE** (state corrected from 🔴 Correction — May 21 actual was UP day +0.17%; May 21 NOT a dist day); dist count: Apr 28, May 4, May 7, May 15, May 19; FTD Day 4 NOT confirmed (S&P +0.37% vs +1.25% needed; vol below avg); rally attempt Day 4 INTACT (SPY ~$747 >> Day 1 low $733.39); FTD window: May 26 (D5), May 27 (D6), May 28 (D7) — May 25 Memorial Day closed; SH/SQQQ hedge queued $625/25% — Alpaca Day 53 blocked, HIGHEST PRIORITY on restore; S&P 8th straight weekly gain (+0.9%); `research_source: websearch_fallback`)*
+*(Updated 2026-05-25 /eod-review — MEMORIAL DAY, MARKET CLOSED — 0 open positions; Alpaca API blocked Day 57; SPY last close ~$747 (May 22); QQQ last close $717.54 confirmed (May 22); dist count **5/25** — **🟡 UPTREND UNDER PRESSURE**; dist count: Apr 28, May 4, May 7, May 15, May 19; ES futures hit ATH ~7,534 on holiday (+0.81% from May 22 close; 32.7 pts below FTD threshold 7,566.74); Iran deal NOT signed but framework "work in progress" (Rubio); FTD Day 5 probability: VERY HIGH (~80-85%) for Tuesday May 26; SH/SQQQ hedge queued $625/25% — HIGHEST PRIORITY on Alpaca restore; P&L: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; `research_source: websearch_fallback`)*
 
 ---
 
 ## Weekly Trade Count (rolling)
 
+**Week of 2026-05-25 (current — Tue-Fri, May 25 holiday):** 0/3 positions opened | Market: 🟡 Under Pressure (5/25 dist days) | First trading day = Tue May 26 (FTD Day 5) | Alpaca Day 57 blocked | FTD probability VERY HIGH (~80-85%) | ES futures ~7,534 ATH on Memorial Day | Iran deal NOT signed but framework nearly final | circuit breakers ALL CLEAR
 **Week of 2026-05-18 ← CLOSED:** 0/3 positions opened | Market: 🟡 Under Pressure (5/25 dist days) | S&P week +0.9% (8th straight winning week) | Dow week +2.1% RECORD | Alpaca Day 53 blocked entire week | Hedge SH $625 queued | P&L week: $0 (0%) | FTD Day 4 NOT confirmed (May 22 +0.37% vs +1.25% needed) | FTD window: May 26/27/28 | May 25 = Memorial Day (closed) | circuit breakers ALL CLEAR
 **Week of 2026-05-11:** 0 new positions opened (max 3/week) ← WEEK CLOSED (reset Mon May 11; Alpaca blocked all week Day 43 by Fri /eod-review; zero tradeable setups; 0/3 trades used; market state changed to Uptrend Under Pressure on final day)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)

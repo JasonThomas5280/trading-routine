@@ -1,5 +1,35 @@
 
 ---
+## 2026-05-25 15:15 CT [eod-review — MEMORIAL DAY, MARKET CLOSED]
+
+📊 EOD 2026-05-25 (Mon — Memorial Day) | Equity $2,500.00 ($0.00 day, $0.00 week) | MARKET CLOSED
+Open: 0 positions, 100% cash | Alpaca: ❌ BLOCKED Day 57 (403 "Host not in allowlist")
+
+Market CLOSED — no close data. Last cash session: May 22 (Fri).
+  SPY last close: ~$747 (May 22 est.) | QQQ last close: $717.54 (May 22 confirmed)
+Distribution days: 5/25 UNCHANGED (Apr 28, May 4, May 7, May 15, May 19)
+Market state: 🟡 Uptrend Under Pressure — NO STATE CHANGE
+
+Memorial Day futures intelligence:
+  ES/S&P Jun futures: ~7,534 ATH ← only 32.7 pts (+0.43%) below FTD threshold 7,566.74
+  NQ futures: +1.4% | Oil: Brent ~$103.54, WTI ~$96.60 (declining)
+  Iran deal: NOT signed (Rubio: "work in progress" — Trump tempering expectations)
+  FTD Day 5 probability RAISED to VERY HIGH (~80-85%)
+
+Actions today:
+  • sell-rules-engine: SKIPPED (0 open positions)
+  • No entries — market CLOSED + Under Pressure + Alpaca Day 57 blocked
+  • SH hedge $625: QUEUED — HIGHEST PRIORITY on Alpaca restore
+
+Circuit breakers: NONE | PDT: 0/3 | Weekly trades: 0/3 (week of May 26-30)
+
+Tomorrow (Tue May 26 = FTD Day 5):
+  Watching: GOOGL (77/100, base wk 7, ~$387-390, 4-5% below $403-405 pivot)
+  Key gates: (1) Iran deal confirmation; (2) CB Consumer Confidence 10 AM ET;
+             (3) S&P close ≥7,566.74 on above-avg volume → FTD → state 🟢 → entry window OPENS
+  Alpaca Day 58 restore attempt → SH hedge first; GOOGL eval if FTD
+
+---
 ## 2026-05-25 10:00 CT [market-check — MEMORIAL DAY, MARKET CLOSED]
 
 📈 Market-check 2026-05-25 10:00 CT
