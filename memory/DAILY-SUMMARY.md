@@ -1805,3 +1805,15 @@ FTD window: May 26 (D5), May 27 (D6), May 28 (D7) — FTD prob ~55-65%
 Calendar risks: PCE Apr May 28 7:30AM CT (KEY), GDP Q1 2nd est., MRVL/CRM/COST/DELL earnings, AVGO blackout starts May 28
 Entry plan May 26: FIRST = SH $625 hedge on Alpaca restore. SECOND = GOOGL on FTD+base+vol+Alpaca (4 gates must clear simultaneously). No exceptions.
 Alpaca blocked Day 54. 7th week websearch_fallback. Equity: $2,500 (HWM).
+
+---
+## 2026-05-25 11:14 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-25 (MEMORIAL DAY — MARKET CLOSED)
+Market: 🟡 Under Pressure (5/25 dist) | Futures: ES +0.35% / NQ +0.42% (Iran deal optimism)
+Open positions: 0 | Alpaca: BLOCKED Day 55 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+Watchlist watching: GOOGL ~$387-390 (4-5% below $403-405 pivot, base wk 6-7) | VRT $327.46 (score 65/100) | NVDA $214.28 (bench, score ~68/100)
+Weekend catalyst: Iran deal 'largely negotiated' (Trump Sat May 23); Axios May 24: 60-day ceasefire MOU, Hormuz reopening — NOT YET SIGNED. Sticking points: uranium, sanctions.
+FTD Day 5 (Tue May 26): prob MODERATE-HIGH (~60-70%). CB Consumer Confidence 10 AM ET = key secondary catalyst.
+Plan: no entries today (market closed + Under Pressure + Alpaca Day 55). Watch Tuesday for FTD + Iran deal announcement.

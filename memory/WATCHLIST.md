@@ -62,9 +62,13 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+**Pre-market refresh:** 2026-05-25 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 55 | Perplexity 403 | AV 403) | **MEMORIAL DAY — market CLOSED** | Iran deal "largely negotiated" (Trump Sat May 23); Axios: 60-day ceasefire MOU, Strait of Hormuz reopening — NOT YET SIGNED | ES futures +0.35% / NQ +0.42% | FTD Day 5 probability MODERATE-HIGH (~60-70%) for Tuesday | CB Consumer Confidence Tue 10 AM ET = key catalyst | GOOGL ~$383-390 est. (−4 to −5% below $403-405 pivot; base wk 6-7; 🟡 WATCHING) | VRT $327.46 (investor conference: rev guidance raised $13.5-14B FY2026; Roth $355 PT; score 65/100 unchanged; 🟡 WATCHING) | NVDA $214.28 (consolidation wk 3; score ~68/100; 🟡 BENCH) | 0 positions | Weekly trade count RESET: 0/3
+
+---
+
 ### Entry Execution Plan — Week of May 26-30
 
-**Entry gate: ⛔ ZERO new long entries** (market = Uptrend Under Pressure; Alpaca Day 54)
+**Entry gate: ⛔ ZERO new long entries** (market = Uptrend Under Pressure; Alpaca Day 55)
 
 **FIRST order on Alpaca restore:** Buy SH (inverse S&P −1×) ~$625 / 25% portfolio (Under Pressure hedge protocol)
 - SH preferred over SQQQ (lower leverage decay for account size)

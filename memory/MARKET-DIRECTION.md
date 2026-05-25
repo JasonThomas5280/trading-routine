@@ -34,6 +34,19 @@
 **Dist day expiry watch:** Apr 28 expires ~Jun 2 ← first natural relief this cycle
 **Alpaca: Blocked Day 54** | `research_source: websearch_fallback` | Perplexity: ❌ | AV: ❌
 
+**✅ MAY 25 PRE-MARKET (/pre-market 6:00 AM CT — MEMORIAL DAY, MARKET CLOSED):**
+- **Market closed today.** No trading. No new dist days possible. Next session: **Tuesday May 26 = FTD Day 5 (first actionable day).**
+- **Alpaca: Day 55 blocked** (403). Perplexity: 403. Alpha Vantage: 403. `research_source: websearch_fallback`
+- **Iran deal update (MAJOR CATALYST):** Trump Sat May 23 said deal "largely negotiated," to be announced "soon." Axios May 24 confirmed: 60-day ceasefire MOU; Strait of Hormuz reopening; Iran free to sell oil; nuclear enrichment suspension to be negotiated. Sticking points remain: enriched uranium disposal, sanctions timing, Supreme Leader sign-off. CNN: Marco Rubio "significant progress." Al Jazeera: US says deal agreed; Tehran says not fully agreed yet. **Deal not yet signed.** If signed before Tuesday market open → major gap-up catalyst; FTD Day 5 probability HIGH.
+- **ES/NQ futures (Sunday overnight):** ES June +0.35% (~7,491); NQ June +0.42%. Modest bullish lean on deal optimism. Market not pricing a fully done deal yet.
+- **FTD probability (Tue May 26 Day 5):** **MODERATE-HIGH (~60-70%)** — raised from prior estimate. Iran deal signing before open = potential 1.5-2.5%+ gap → FTD. No deal + Consumer Confidence miss = dist day #6 risk → 🔴 Correction. 
+- **Consumer Confidence (CB, Tue May 26 10 AM ET):** Releases same day as FTD window opens. UMich May final revised DOWN to 44.8 (from prelim 48.2 — near record low). CB Confidence separate methodology — watch: beat = FTD fuel; miss = dist day risk. Key gate: NO entries within first 30 min anyway.
+- **GOOGL ($382.97 weekend data — est. true ~$387-390):** No new material catalysts. Base wk 6-7 forming. Thesis intact. Antitrust: no developments. Distance from $403-405 pivot: ~4-5%. 🟡 WATCHING unchanged.
+- **VRT ($327.46):** Investor Conference (May 19-20) results absorbed — raised FY2026 rev guidance to $13.5B-$14.0B (+34% YoY), adj EPS $6.30-$6.40 (+51% YoY); Strategic Thermal Labs acquisition (liquid cooling); Roth $355 PT, Oppenheimer $353 PT. Score est. 65/100 unchanged (`insufficient_data_flag: GAAP FY2023`). 🟡 WATCHING.
+- **NVDA ($214.28):** Post-earnings consolidation wk 3. No new news. Score ~68/100. 🟡 BENCH.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 55 blocked
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 (reset — new week May 26-30) | Equity: $2,500 (HWM)
+
 **Last updated:** 2026-05-22 (Fri) — `/eod-review` 3:15 PM CT
 **STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Reduce exposure | Hedge SH/SQQQ $625 still queued (Alpaca Day 53 blocked — HIGHEST PRIORITY on restore)
 **Alpaca API — Day 53** (still blocked). Perplexity blocked. AV blocked. `research_source: websearch_fallback`

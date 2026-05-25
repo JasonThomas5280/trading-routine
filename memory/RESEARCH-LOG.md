@@ -46,6 +46,71 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-25 (Mon) — /pre-market (6:00 AM CT) — MEMORIAL DAY: MARKET CLOSED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 55; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. 7th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries | Market CLOSED today (Memorial Day)
+**Next session:** Tuesday May 26 = FTD Day 5 (first FTD window day)
+
+### Market overnight check (Memorial Day weekend)
+
+| Indicator | Level | vs May 22 close | Notes |
+|---|---|---|---|
+| ES futures (S&P Jun) | ~7,491 | +0.35% | Bullish lean — Iran deal optimism |
+| NQ futures (Nasdaq Jun) | ~29,574 est. | +0.42% | Constructive |
+| Iran deal | "Largely negotiated" (Trump Sat May 23) | — | 60-day ceasefire MOU per Axios May 24; Strait of Hormuz reopening; sticking points remain (uranium, sanctions) |
+| CB Consumer Confidence | Releases Tue May 26 10 AM ET | — | UMich May final revised DOWN to 44.8 (from prelim 48.2 = near record low); CB separate |
+| FTD probability (Tue Day 5) | **MODERATE-HIGH (~60-70%)** | Raised from 55-65% | Iran deal signing before open = gap-up potential FTD; no deal + bad conf = dist day #6 risk |
+
+**Overnight thesis:** Iran deal "largely negotiated" is the dominant overnight catalyst. Trump Saturday: deal to be announced "soon." Axios confirms 60-day ceasefire, Strait of Hormuz reopening. If signed before Tuesday open → potential 1.5-2.5%+ gap-up → FTD Day 5 confirmed. ES/NQ futures already +0.35-0.42% in anticipation but not fully pricing a signed deal. Consumer Confidence (CB) Tuesday 10 AM ET is the session's key secondary catalyst — beat = FTD fuel; miss = potential dist day #6 → Correction.
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Overnight catalyst | Thesis impact | Status |
+|---|---|---|---|
+| GOOGL | No material weekend catalysts. $382.97 weekend data (est. true ~$387-390 — thin weekend pricing). 52-wk high $408.61, pivot ~$403-405. Upcoming dividend $0.22 ex-June 8. All 58 analysts covering: Strong Buy. Base wk 6-7 forming. | **No thesis change.** Base forming intact. Iran deal gap-up on Tuesday could bring GOOGL meaningfully closer to pivot. | 🟡 WATCHING — 4-5% below pivot |
+| VRT | Investor Conference (May 19-20) fully digested: FY2026 rev guidance raised to $13.5B-$14.0B (+34% YoY), adj EPS $6.30-$6.40 (+51% YoY). Strategic Thermal Labs acquisition (liquid cooling for AI/HPC). New CPO appointed. Roth Capital raised PT $335→$355, Oppenheimer raised PT $330→$353. 22 analysts Buy / 1 Sell. $327.46 vs ATH $379.94. Earnings July 29. | **Positive — thesis strengthened.** Revenue guidance raise and acquisition deepen N-letter and execution credibility. Score still 65/100 (`insufficient_data_flag: GAAP FY2023` unresolved). Conference data doesn't break the setup; gap to 75 threshold still requires base confirmation (+10) + GAAP A-letter (+5). | 🟡 WATCHING — score 65/100; path to 80/100 exists |
+| NVDA (bench) | $214.28 close. Post-earnings consolidation wk 3. No new news. Base formation ongoing. Analyst consensus: 37 Buy / $296.57 avg PT. | No change. | 🟡 BENCH — base forming; score ~68/100 |
+
+### Buy-zone readiness
+
+| Symbol | Price (May 25 data) | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$383-390 est. | ~$403-405 | ~−4 to −5% | 🟡 WATCHING — below 3% READY threshold; Iran gap could help |
+| VRT | $327.46 | TBD (no valid base yet) | N/A | 🟡 WATCHING — no pivot defined; score 65/100 |
+| NVDA | $214.28 | TBD (base forming) | N/A | 🟡 BENCH — no base |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR (new week: May 26-30) |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR (reset: new week) |
+| Alpaca API | ❌ 403 blocked Day 55 — HALT ALL ENTRIES |
+
+**No circuit breakers active.** Alpaca block continues. Hedge SH $625: FIRST ORDER on restore.
+
+### Key events this week (May 26-30)
+
+| Date | Event | FTD/Dist day risk |
+|---|---|---|
+| **Tue May 26** | **FTD Day 5** + CB Consumer Confidence 10 AM ET + Iran deal potential announcement | Bullish: +1.25%+ gap on deal → FTD; Bearish: CB miss → dist day #6 |
+| **Wed May 27** | **FTD Day 6** + New Home Sales + MRVL earnings AH + CRM (Salesforce) AH | Earnings beat = potential catalyst |
+| **Thu May 28** | **FTD Day 7 (LAST)** + Q1 GDP 2nd estimate + **PCE April (CRITICAL — inflation signal)** + COST AH + DELL AH | Hot PCE = dist day risk; cool = FTD fuel; **AVGO blackout starts** |
+| **Fri May 29** | FTD window closes. No FTD by here → rally attempt alive but monitor $733.39 undercut | If SPY closes below $733.39 → rally attempt reset |
+
+### Result
+
+**NO ENTRIES** — market CLOSED (Memorial Day) | Under Pressure gate active | Alpaca Day 55 blocked. Sell-rules-engine SKIPPED (0 positions). Weekly trade count RESET: **0/3** (week of May 26-30).
+
+---
+
 ## 2026-05-22 (Fri) — /pre-market (6:00 AM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 52; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. 6th consecutive week of full websearch_fallback mode.)
