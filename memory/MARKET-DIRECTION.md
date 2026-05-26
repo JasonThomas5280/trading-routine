@@ -8,14 +8,27 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-26 (Tue) — `/market-check` 10:00 AM CT — **FTD DAY 5**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 59 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days added | FTD NOT YET CONFIRMED (intraday)
-**SPY:** $749.15–$752.13 range (current ~$751.19; +0.75% vs May 22 close ~$745.64) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA
-**QQQ:** $717.54 (May 22 close) | 50d SMA: **$638** | 200d SMA: **$618**
-**Rally attempt: Day 5 intact. Day 1 = May 19 (SPY low $733.39)**
-**FTD window: May 27 (Day 6, Wed), May 28 (Day 7, Thu)** [Today = Day 5 — NOT yet confirmed; window remains open for Weds/Thu if today closes short]
-**FTD probability (today at 11 AM ET): MODERATE (~35-45%)** — S&P 7,522.60 (+0.66%) at 11 AM ET. Gap to FTD threshold: 44 pts (+0.59% more needed). CB Consumer Confidence **93.1 vs 92.0 est → BEAT ✅** (FTD fuel; confirms consumer not collapsing). Iran deal NOT signed ("proceeding nicely" per Trump). Afternoon buying needed to clear 7,566.74. Alpaca: Day 59 blocked. `research_source: websearch_fallback`
+**Last updated:** 2026-05-26 (Tue) — `/eod-review` 3:15 PM CT — **FTD DAY 5 NOT CONFIRMED**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 60 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days today (UP day +0.61%) | FTD Day 5 NOT CONFIRMED (+0.61% < +1.25% threshold; 47.61 pts short)
+**SPY:** est. close ~$751.57 (+0.75% from ~$747 May 22 close) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA — clear by ~9%
+**QQQ:** est. close ~$725.36 (+1.17% from $716.97 May 22 close) | 50d SMA: **$638** | 200d SMA: **$618**
+**Rally attempt: Day 5 INTACT. Day 1 = May 19 (SPY low $733.39). SPY close >> Day 1 low.**
+**FTD window: May 27 (Day 6, Wed) + May 28 (Day 7, Thu) — LAST TWO CHANCES**
+**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 60**
+
+**✅ MAY 26 EOD (/eod-review 3:15 PM CT — FTD DAY 5 NOT CONFIRMED):**
+- **S&P 500:** 7,519.13 (+0.61% from 7,473.47 May 22 close) — **NEW RECORD CLOSE** (above prior ATH 7,501.24 on May 14) | Nasdaq: 26,656.18 (+1.17%) — record | Russell 2000: +1.77% | `research_source: websearch_fallback` | **Alpaca blocked Day 60**
+- **SPY est. close: ~$751.57** (+0.75% from ~$747 May 22 est.) | **QQQ est. close: ~$725.36** (+1.17% from $716.97 May 22 close)
+- **FTD Day 5: NOT CONFIRMED.** S&P 7,519.13 vs threshold 7,566.74 → gap 47.61 pts (+0.63% fell short). Breadth: Nasdaq +1.17%, Russell 2000 +1.77% — strong breadth, constructive. New S&P record close = rally continuation signal, but +1.25% power move NOT achieved.
+- **Distribution day check (May 26):** UP day (+0.61%) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.** State: **🟡 Under Pressure — NO CHANGE.**
+- **Rally attempt: Day 5 INTACT.** SPY ~$751.57 >> Day 1 low $733.39 (not undercut). Rally attempt advancing; new ATH S&P close = bullish but not FTD-quality.
+- **FTD window:** May 27 (Day 6, Wed) + May 28 (Day 7, Thu) — **TWO CHANCES REMAINING.** Day 6: New Home Sales + MRVL AH + CRM AH. Day 7: PCE April (KEY 7:30 AM CT) + COST/DELL AH + AVGO blackout starts.
+- **Iran deal:** NOT signed (markets rallied to records anyway on "proceeding nicely" tone + oil WTI ~$91 relief). Iran deal signing could be May 27-28 catalyst for final FTD push.
+- **GOOGL:** est. ~$386 (market cap ~$4.70T est.; base wk 7-8; 🟡 WATCHING unchanged). ~5% below $404 pivot; no buy trigger. Entry requires FTD + base completion + vol ≥+40% + Alpaca restored.
+- **0 open positions** → sell-rules-engine: **SKIPPED** | SH hedge $625 queued — Alpaca Day 60 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
 
 **✅ MAY 26 INTRADAY (/market-check 10:00 AM CT — FTD DAY 5):**
 - **S&P 500:** 7,522.60 (+0.66% from 7,473.47 May 22 close) at 11 AM ET | SPY range $749.15–$752.13 | Nasdaq: est. +0.85% (NQ pre-mkt was +0.98%) | `research_source: websearch_fallback` | **Alpaca blocked Day 59**

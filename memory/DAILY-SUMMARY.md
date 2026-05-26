@@ -1907,3 +1907,20 @@ Plan: no entries today (market closed + Under Pressure + Alpaca Day 55). Watch T
 **FTD window remaining:** May 27 (Day 6) + May 28 (Day 7)
 **Next check:** /eod-review 3:15 PM CT — confirm FTD at close or no FTD
 
+
+---
+## 2026-05-26 20:20 CT [clickup-placeholder]
+
+📊 EOD 2026-05-26 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 5/25 (market: 🟡 Uptrend Under Pressure — no change)
+Actions today: NONE
+-----
+S&P 500: 7,519.13 (+0.61%) NEW RECORD | Nasdaq: 26,656.18 (+1.17%) | RUT: +1.77%
+FTD Day 5: NOT CONFIRMED (+0.61% < +1.25% threshold; 47.61 pts short; new ATH close = constructive)
+Rally attempt: Day 5 intact (SPY >> $733.39 Day 1 low)
+Alpaca: ❌ Blocked Day 60 (403) — hedge SH $625 still queued
+-----
+Tomorrow (FTD Day 6 — May 27): New Home Sales + MRVL AH + CRM AH → catalysts for final FTD push
+GOOGL ~$386 (🟡 WATCHING — 4.4% below $404 pivot; base wk 7-8)
+⚠️ May 28 = FTD Day 7 (LAST DAY) + PCE April 7:30 AM CT + AVGO blackout starts

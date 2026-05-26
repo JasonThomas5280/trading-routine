@@ -6245,3 +6245,86 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 ### Result: NO ACTIONS — 0 open positions. sell-rules-engine skipped. `research_source: websearch_fallback`
 
 **Tomorrow's watch:** NVDA AH results (binary FTD/continuation catalyst) | WMT earnings AM (consumer health) | Rally attempt Day 3 — need 4 more UP days (Day 4 = FTD eligible)
+
+---
+
+## 2026-05-26 (Tue) — /eod-review (3:15 PM CT) — FTD DAY 5 NOT CONFIRMED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 60; Perplexity: 403; Alpha Vantage: 403. 8th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries
+
+### Close data
+
+| Indicator | May 26 close | vs May 22 close | Notes |
+|---|---|---|---|
+| S&P 500 | **7,519.13** | **+0.61%** | NEW RECORD CLOSE (above prior ATH 7,501.24 May 14) |
+| Nasdaq | **26,656.18** | **+1.17%** | Record close |
+| Russell 2000 | est. +1.77% | — | Breadth positive |
+| SPY | est. **~$751.57** | +0.75% | Computed from S&P % move vs ~$747 May 22 est. |
+| QQQ | est. **~$725.36** | +1.17% | $716.97 May 22 × 1.0117 |
+| Oil WTI | ~$91 | −5%+ | Iran deal optimism; inflation relief |
+| Iran deal | NOT signed | — | "Proceeding nicely" per Trump; markets rallied anyway |
+
+### Distribution day analysis (May 26)
+
+| Factor | Assessment |
+|---|---|
+| Magnitude | +0.61% (UP day) → CANNOT be a distribution day by definition |
+| Volume check | N/A — UP day |
+| State change | NONE |
+| Dist count | **5/25 UNCHANGED** (Apr 28, May 4, May 7, May 15, May 19) |
+
+### FTD status — Day 5 (May 26)
+
+| Metric | Value |
+|---|---|
+| FTD threshold | 7,566.74 (+1.25% from 7,473.47 May 22 close) |
+| Actual close | 7,519.13 (+0.61%) |
+| Gap to threshold | **47.61 pts — NOT CONFIRMED** |
+| Rally attempt | **Day 5 INTACT** — SPY ~$751.57 >> Day 1 low $733.39 |
+| Character | New record S&P close = bullish rally continuation; breadth strong (Nasdaq +1.17%, RUT +1.77%); insufficient for FTD power move |
+
+### Sell-rules-engine
+
+**SKIPPED — 0 open positions.**
+
+### Open position review
+
+**0 positions held.** No actions required. No stops to adjust. No exits to execute.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L (no positions) — CLEAR |
+| Weekly −6% | $0 week-to-date (first trading day of week) — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 60 — HALT ALL ENTRIES AND EXITS |
+
+### Watchlist EOD status
+
+| Symbol | Close est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$386 (mkt cap ~$4.70T / ~12.18B shares est.) | ~$404 | ~−4.4% | 🟡 WATCHING — base wk 7-8 forming; no trigger |
+| VRT | est. ~$328-335 (no Alpaca data) | TBD | N/A | 🟡 WATCHING — score 65/100 unchanged |
+| NVDA | est. ~$217-222 (no Alpaca data) | TBD | N/A | 🟡 BENCH — post-earnings consolidation |
+
+### Tomorrow (May 27 — FTD Day 6)
+
+- **New Home Sales (10 AM ET)** — housing demand signal; could move yields
+- **MRVL earnings AH** — semi bellwether; beat = FTD fuel for May 28
+- **CRM (Salesforce) earnings AH** — enterprise software health
+- **FTD threshold: 7,566.74** (unchanged — Day 1 low $733.39 not undercut)
+- **FTD probability Day 6:** Moderate — need Iran deal signing OR strong earnings catalysts to push S&P +1.25%+ on volume. Today's +0.61% new record close shows momentum but buyers didn't have the power move. May 27 needs additional catalyst: MRVL/CRM AH beats tonight providing overnight gap + Iran signing.
+- **Alpaca restore remains HIGHEST PRIORITY** — Day 60 blocked.
+
+**Close:** SPY ~$751.57 (+0.75%) | QQQ ~$725.36 (+1.17%)
+**Distribution days:** 5/25 (today: none — UP day)
+**Market state:** 🟡 Uptrend Under Pressure (no change)
+**Positions held:** 0
+**Actions today:** NONE
+**Circuit breakers:** none
+**P&L today:** $0.00 (0.00%)
+**P&L week:** $0.00 (0.00%)
+**Equity:** $2,500.00
