@@ -155,6 +155,75 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 1. **Pre-market:** Check Iran deal signed/denied overnight → adjust FTD probability
 2. **10 AM ET:** CB Consumer Confidence print → beat = stay bullish; miss = watch for dist day
 3. **FTD watch:** S&P close ≥ 7,566.74 on above-avg volume → confirm state flip 🟢
+
+---
+
+## 2026-05-26 (Tue) — /pre-market (6:00 AM CT) — FTD DAY 5
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 58; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. 8th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries until FTD confirmed
+**FTD window:** Today = Day 5 (first actionable day) | FTD threshold: S&P 7,566.74 / SPY ~$756.34
+
+### Market overnight check
+
+| Indicator | Level | vs May 22 close | Notes |
+|---|---|---|---|
+| ES futures (S&P Jun) | ~+0.54% | ~7,513 | Risk-on; Schwab confirms "Stocks Up Early on Iran Talks"; Polymarket 91% prob S&P opens higher |
+| NQ futures (Nasdaq Jun) | ~+0.98% | ~29,824 | NQ outperforming; NVDA ~$217.17 exp open |
+| Oil WTI | −5%+ | ~$91.40 est. | Trump May 26: Iran talks "proceeding nicely"; massive oil drop = inflation relief = FTD fuel |
+| Iran deal | NOT signed | — | Framework "proceeding nicely" per Trump. New attacks on Iran adding geopolitical strain per Dow futures (rose despite this). Framework still not final. |
+| CB Consumer Confidence | Releases today 10 AM ET | — | Higher gasoline prices expected to weigh; exact print unknown. KEY gate for /market-check. |
+| Kevin Warsh | Takes oath today | — | Schwab headline: "Warsh to Take Oath" — confirms orderly Fed transition |
+
+**FTD Day 5 probability: MODERATE (~55-65%)** ← REDUCED from VERY HIGH (~80-85%)
+- Starting point: S&P ~7,513 (+0.54% from 7,473.47). Gap to FTD threshold: +53.3 pts (+0.71% more needed in session).
+- Oil −5% is major bullish catalyst (inflation relief) — but Iran deal NOT signed (new attacks adding strain).
+- CB Consumer Confidence (10 AM ET) is the swing variable: beat = FTD fuel; miss = dist day #6 risk.
+- Market cannot gap directly to FTD threshold (+0.54% futures vs +1.25% needed) — needs session momentum.
+- Reduced from VERY HIGH because deal not signed + new Iran attacks signal more fragile diplomacy than expected.
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**0 open positions — SKIPPED.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Overnight catalyst | Thesis impact | Status |
+|---|---|---|---|
+| GOOGL | **Apple selected Google Gemini to power AI features including Siri upgrade** (positive N-letter catalyst — confirmed per search). Waymo freeze in 4 cities (minor, analysts called it "setback" but not material to GOOGL thesis — Waymo <5% of GOOGL revenue). 65 analysts Strong Buy, avg PT $429.12. Dividend $0.22 ex-June 8 (routine). Pre-market est. ~$388-392 (Alpaca blocked; +0.54% market lift from $387-390 base). | **No thesis change. Apple/Gemini deal STRENGTHENS N-letter.** Waymo freeze = minor noise. Base wk 7-8 forming. | 🟡 WATCHING — ~3-4% below $404 pivot |
+| VRT | No new overnight catalysts. $327.46 last close (May 22). Roth $355 / Oppenheimer $353 PT hikes (May 21-22) already captured. Earnings July 29 (64 days — clear). | No thesis change. Score 65/100 unchanged. | 🟡 WATCHING — score 65/100; path to 80/100 intact |
+| NVDA (bench) | NVDA targeting $200B processor market with China as key buyer (new market thesis — potential N-letter development). Expected open ~$217.17 (vs $215.33 close May 22 — +$1.84/+0.85%). Post-earnings consolidation wk 4. 61 analysts Strong Buy, avg PT $295.34. | **Potential positive N-letter development** (China $200B market) — but China H20 export ban is still in force, so this is aspirational unless restrictions ease. Cannot score this positively without confirmation. No change to 68/100. | 🟡 BENCH — base forming; score ~68/100 |
+
+### Buy-zone readiness
+
+| Symbol | Price est. | Pivot | Distance est. | Status |
+|---|---|---|---|---|
+| GOOGL | ~$389-392 est. | ~$404 | ~−3.0 to −3.8% | 🟡 WATCHING — outside 0-3% READY window; FTD + market continuation needed to close gap |
+| VRT | ~$328-332 est. | TBD (no valid base) | N/A | 🟡 WATCHING — no pivot defined; score 65/100 below threshold |
+| NVDA | ~$217 est. | TBD (base forming) | N/A | 🟡 BENCH — no base; score ~68/100 |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR (first trading day of new week) |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades in rolling 5 sessions — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 58 — HALT ALL ENTRIES |
+
+**No circuit breakers active.** Alpaca remains blocked. SH hedge $625: FIRST ORDER on restore.
+
+### Entry plan today
+
+- **NO ENTRIES** — Under Pressure gate active | Alpaca Day 58 blocked
+- **Watch at /market-check (10 AM CT):** CB Consumer Confidence print + FTD progress check
+- **FTD scenario:** If S&P closes ≥7,566.74 on above-avg volume today → state flip 🟢 → evaluate GOOGL immediately (base wk 7-8 = potentially valid flat base ≥5 wks) → full score + entry decision at /eod-review
+- **Dist day #6 scenario:** If CB miss + S&P closes ≤−0.20% on above-avg vol → 🔴 Correction → SH/SQQQ hedge highest priority
 4. **Alpaca Day 58 test** → SH hedge $625 first order if still Under Pressure; GOOGL evaluation if FTD
 5. **AVGO blackout starts May 28** — no AVGO entries Thu/Fri this week
 

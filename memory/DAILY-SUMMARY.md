@@ -1,5 +1,21 @@
 
 ---
+## 2026-05-26 06:00 CT [pre-market — FTD DAY 5]
+
+🌅 Pre-market 2026-05-26 (Tue — FTD Day 5)
+Market: 🟡 Uptrend Under Pressure (5/25 dist days) | Futures: ES +0.54% (~7,513) NQ +0.98% (~29,824)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 open positions)
+Watchlist ready: NONE 🟢 (all names >3% from pivot or below score threshold)
+Watchlist watching: GOOGL 🟡 (~$389-392 est., ~3-4% below $404 pivot; Apple/Gemini N-letter positive; thesis intact)
+Watching (bench): VRT 🟡 (score 65/100; no base; $328-332 est.) | NVDA 🟡 (score ~68/100; base forming; ~$217)
+Removed: None
+Key catalysts today: (1) CB Consumer Confidence 10 AM ET — beat = FTD fuel, miss = dist day #6 risk; (2) Iran deal "proceeding nicely" (Trump) — NOT signed; oil WTI −5%+; (3) Kevin Warsh takes Fed Chair oath — orderly transition; (4) FTD Day 5 (first window day)
+FTD probability: MODERATE (~55-65%) — reduced from VERY HIGH (deal not signed, futures +0.54% vs +1.25% threshold, new Iran attacks add strain)
+Plan: NO entries — Under Pressure gate active + Alpaca Day 58 blocked. Monitor FTD at /market-check 10 AM CT. FTD scenario: S&P ≥7,566.74 on above-avg vol = state flip 🟢, evaluate GOOGL. Dist day scenario: S&P ≤−0.20% on above-avg vol = dist day #6 → 🔴 Correction, SH/SQQQ hedge highest priority.
+Alpaca: ❌ BLOCKED Day 58 | research_source: websearch_fallback
+
+---
 ## 2026-05-25 15:15 CT [eod-review — MEMORIAL DAY, MARKET CLOSED]
 
 📊 EOD 2026-05-25 (Mon — Memorial Day) | Equity $2,500.00 ($0.00 day, $0.00 week) | MARKET CLOSED

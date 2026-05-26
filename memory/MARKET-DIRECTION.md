@@ -34,6 +34,20 @@
 **Dist day expiry watch:** Apr 28 expires ~Jun 2 ← first natural relief this cycle
 **Alpaca: Blocked Day 54** | `research_source: websearch_fallback` | Perplexity: ❌ | AV: ❌
 
+**✅ MAY 26 PRE-MARKET (/pre-market 6:00 AM CT — FTD DAY 5):**
+- **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days). NO new long entries until FTD confirmed.
+- **Alpaca: Day 58 blocked** (403). Perplexity: 403. Alpha Vantage: 403. `research_source: websearch_fallback`
+- **Futures:** ES +0.54% (~7,513); NQ +0.98% (~29,824). Polymarket: 91% prob S&P opens higher. Risk-on lean.
+- **Iran deal update:** NOT signed. Trump May 26: talks "proceeding nicely." New attacks on Iran (geopolitical strain). Oil WTI −5%+ (~$91 est.) = major inflation relief = FTD fuel. Framework still not finalized.
+- **CB Consumer Confidence (10 AM ET today):** KEY gate. Higher gasoline prices expected to weigh on sentiment. Print unknown. Beat = FTD fuel; miss = dist day #6 risk (→ 🔴 Correction).
+- **Kevin Warsh takes Fed Chair oath today** — orderly transition, no market surprise.
+- **FTD Day 5 probability: MODERATE (~55-65%)** ← REDUCED from VERY HIGH (~80-85%). Starting point +0.54% futures vs +1.25% FTD threshold needed. Deal not signed + new Iran attacks = more fragile diplomacy. Need session-level momentum AND CB beat.
+- **GOOGL:** ~$389-392 est. (~3-4% below $404 pivot). Apple/Gemini deal (N-letter positive). Waymo freeze (minor). 🟡 WATCHING unchanged.
+- **VRT:** ~$328-332 est. No new overnight catalysts. Score 65/100. 🟡 WATCHING unchanged.
+- **NVDA:** ~$217 est. China $200B market target (aspirational; H20 ban still in force). Score ~68/100. 🟡 BENCH.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 58 blocked
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM) | P&L: $0
+
 **✅ MAY 25 PRE-MARKET (/pre-market 6:00 AM CT — MEMORIAL DAY, MARKET CLOSED):**
 - **Market closed today.** No trading. No new dist days possible. Next session: **Tuesday May 26 = FTD Day 5 (first actionable day).**
 - **Alpaca: Day 55 blocked** (403). Perplexity: 403. Alpha Vantage: 403. `research_source: websearch_fallback`
