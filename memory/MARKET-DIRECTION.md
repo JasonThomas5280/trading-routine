@@ -8,14 +8,27 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-25 (Mon) — `/eod-review` 3:15 PM CT (Memorial Day — market CLOSED)
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 57 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days in 3 sessions (May 20, 21, 22 all clean or corrected to UP/not-dist) | No dist day possible today (market CLOSED)
-**SPY:** ~$747 (May 22 close est.) | 50d MA: **$689** (+8.4% above) | 200d MA: **$676** (+10.5% above) | Not breaking 50d MA
-**QQQ:** $717.54 (May 22 close — confirmed via search) | 50d SMA: **$638** (+12.4%) | 200d SMA: **$618** (+16.0%)
-**Rally attempt: Day 4 passed (not undercut). Day 1 = May 19 (SPY low $733.39)**
-**FTD window: May 26 (Day 5, Tue), May 27 (Day 6, Wed), May 28 (Day 7, Thu)** [May 25 Memorial Day — market CLOSED]
-**FTD probability: VERY HIGH (~80-85%)** — RAISED from HIGH (~70-80%). ES futures surged to 7,534 on Memorial Day (ATH level, only +32.7 pts / +0.43% below FTD threshold of 7,566.74). Iran deal still NOT signed but Rubio confirms "work in progress" / 60-day ceasefire framework nearly finalized; Strait of Hormuz reopening terms agreed in principle. Oil declining (Brent ~$103.54). Risk: CB Consumer Confidence Tue 10 AM ET; deal stalls overnight. FTD threshold: S&P 7,566.74 / SPY ~$756.34.
+**Last updated:** 2026-05-26 (Tue) — `/market-check` 10:00 AM CT — **FTD DAY 5**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 59 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days added | FTD NOT YET CONFIRMED (intraday)
+**SPY:** $749.15–$752.13 range (current ~$751.19; +0.75% vs May 22 close ~$745.64) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA
+**QQQ:** $717.54 (May 22 close) | 50d SMA: **$638** | 200d SMA: **$618**
+**Rally attempt: Day 5 intact. Day 1 = May 19 (SPY low $733.39)**
+**FTD window: May 27 (Day 6, Wed), May 28 (Day 7, Thu)** [Today = Day 5 — NOT yet confirmed; window remains open for Weds/Thu if today closes short]
+**FTD probability (today at 11 AM ET): MODERATE (~35-45%)** — S&P 7,522.60 (+0.66%) at 11 AM ET. Gap to FTD threshold: 44 pts (+0.59% more needed). CB Consumer Confidence **93.1 vs 92.0 est → BEAT ✅** (FTD fuel; confirms consumer not collapsing). Iran deal NOT signed ("proceeding nicely" per Trump). Afternoon buying needed to clear 7,566.74. Alpaca: Day 59 blocked. `research_source: websearch_fallback`
+
+**✅ MAY 26 INTRADAY (/market-check 10:00 AM CT — FTD DAY 5):**
+- **S&P 500:** 7,522.60 (+0.66% from 7,473.47 May 22 close) at 11 AM ET | SPY range $749.15–$752.13 | Nasdaq: est. +0.85% (NQ pre-mkt was +0.98%) | `research_source: websearch_fallback` | **Alpaca blocked Day 59**
+- **CB Consumer Confidence (10 AM ET release):** **93.1 vs 92.0 estimate → BEAT ✅** | Present Situation: 121.2 (−3.2); Expectations: 74.4 (+1.0) | Inflation worries persist but headline beat is a FTD fuel positive | Auto buying plans +6-month MA still rising | Beat is meaningful — market was expecting weakness due to UMich 44.8; CB uses different methodology and shows more resilience.
+- **FTD Day 5 status:** NOT YET CONFIRMED at 11 AM ET. S&P 7,522.60 vs threshold 7,566.74 → gap 44 pts (+0.59% more needed). SPY $751.19 vs threshold $756.34. Session still open — afternoon momentum or additional Iran deal catalyst could still deliver FTD.
+- **Iran deal:** NOT signed. Trump "proceeding nicely." Oil WTI −5%+ (~$91) = inflation relief in market pricing.
+- **GOOGL:** $378.26–$384.94 range (current ~$378.68 GOOG class C; est. GOOGL Class A ~$379–385). **WEAK** — down vs May 22 close ~$383. 5.0–6.2% below $404 pivot. No buy trigger. Base wk 7–8 forming.
+- **VRT:** No intraday data (Alpaca blocked). 🟡 WATCHING unchanged (score 65/100).
+- **NVDA:** ~$217 est. (no intraday data). 🟡 BENCH unchanged (score ~68/100).
+- **Abort gates:** 🟡 Under Pressure → ALL LONG ENTRIES BLOCKED ✅ | Alpaca Day 59 → no execution possible ✅
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 59 BLOCKED
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM) | P&L: $0
+- **Actions: NONE** | If FTD confirms at close (S&P ≥7,566.74 on above-avg vol) → state flips 🟢 → immediate GOOGL evaluation at /eod-review
 **Sector rankings (4-week trailing RS, Apr 24 → May 22):**
 1. 🥇 **XLI (Industrials)** — +16% est.; AI power/cooling infra dominant (VRT, GE Aero); RRG leading quadrant
 2. 🥈 **XLC (Communication Services)** — GOOGL +24% 90d; AI cloud; strongest narrative; RS 95+

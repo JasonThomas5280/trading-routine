@@ -229,6 +229,99 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-26 (Tue) — /market-check (10:00 AM CT) — FTD DAY 5
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 59; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries until FTD confirmed
+**FTD window:** Today = Day 5 | FTD threshold: S&P 7,566.74 / SPY ~$756.34 | **FTD NOT YET CONFIRMED at 11 AM ET**
+
+### Abort gates (checked first)
+
+| Gate | Status | Result |
+|---|---|---|
+| Market state | 🟡 Under Pressure (5/25 dist days) | ⛔ ALL LONG ENTRIES BLOCKED |
+| Research source | `websearch_fallback` (not DEGRADED) | ✅ PASS |
+| Daily circuit breaker (−3%) | $0 P&L — CLEAR | ✅ PASS |
+| Weekly circuit breaker (−6%) | $0 week-to-date — CLEAR | ✅ PASS |
+| Drawdown halt (−12%) | $0 drawdown from $2,500 HWM — CLEAR | ✅ PASS |
+| Weekly trade count | 0/3 — CLEAR | ✅ PASS |
+| Position count | 0/4 — CLEAR | ✅ PASS |
+| Cash buffer | 100% cash — CLEAR | ✅ PASS |
+| Alpaca API | ❌ 403 blocked Day 59 | ⛔ NO EXECUTION POSSIBLE |
+
+**Two gates fired (Under Pressure + Alpaca Day 59). All entries and exits blocked. Proceeding to monitoring-only mode.**
+
+### Overnight gap follow-up
+
+**0 open positions — gap check SKIPPED.**
+
+### Key market data at 10 AM CT (11 AM ET)
+
+| Indicator | Level | Notes |
+|---|---|---|
+| S&P 500 | 7,522.60 (+0.66% vs May 22 close 7,473.47) | Well short of FTD threshold (+1.25% = 7,566.74) |
+| SPY intraday | $749.15–$752.13 (current ~$751.19) | FTD threshold: $756.34 — gap: −$5.15 (−0.68% more needed) |
+| **CB Consumer Confidence (10 AM ET)** | **93.1 vs 92.0 estimate → BEAT ✅** | Present Situation: 121.2; Expectations: 74.4; Inflation worries persist but headline beat confirms consumer resilience. FTD fuel. |
+| Oil WTI | ~$91.40 est. (−5%+ vs prior) | Iran "proceeding nicely"; inflation relief in market |
+| Iran deal | NOT signed | Framework "proceeding nicely" per Trump; sticking points remain |
+| GOOGL (GOOG class C proxy) | $378.26–$384.94 range (~$378.68 current) | **WEAK — down vs May 22 close ~$383. 5–6% below $404 pivot.** |
+| Alpaca API | 403 Day 59 | Blocked |
+
+### FTD Day 5 assessment
+
+- **Current S&P:** 7,522.60 → gap to FTD: **+44.14 pts (+0.59% more needed from 11 AM)**
+- **CB beat (93.1 vs 92.0):** Positive catalyst; market responding constructively
+- **Iran deal not signed:** Limits gap-up catalyst; "proceeding nicely" is progress but not a market-moving announcement yet
+- **FTD probability for today:** **MODERATE (~35-45%)** — Market needs to accelerate meaningfully in the afternoon. Achievable if afternoon buying resumes or Iran deal news breaks. Session still open.
+- **Confirm at /eod-review:** If S&P closes ≥7,566.74 on above-avg volume → FTD confirmed → state flip 🟢 → evaluate GOOGL immediately
+
+### Watchlist trigger check (all BLOCKED by Under Pressure gate)
+
+| Symbol | Status | Price (current) | Pivot | Trigger | Action |
+|---|---|---|---|---|---|
+| GOOGL (W1) | 🟡 WATCHING | ~$379–385 (WEAK; down vs May 22) | ~$404 | 5–6% below pivot; NO | BLOCKED — Under Pressure + no trigger |
+| VRT (B2) | 🟡 WATCHING | ~$328–332 est. | TBD (no valid base) | No pivot defined | BLOCKED — Under Pressure + score 65/100 |
+| NVDA (B1) | 🟡 BENCH | ~$217 est. | TBD (base forming) | No base | BLOCKED — Under Pressure + score ~68/100 |
+
+**Watchlist status: 0 primary ready, 1 watching (GOOGL), 2 bench (VRT, NVDA)**
+
+### Intraday position health check
+
+**0 open positions — sell-rules-engine SKIPPED. No Rule 1 / Rule 3 triggers to evaluate.**
+
+### Bench promotion check
+
+| Symbol | Current vs Pivot | Within 2% threshold? | Action |
+|---|---|---|---|
+| GOOGL | ~$379–385 vs $404 pivot = 4.7–6.2% below | ❌ NO | No promotion; actually WIDENING gap today |
+| VRT | No defined pivot | N/A | No change |
+| NVDA | No defined base/pivot | N/A | No change |
+
+**No promotions or demotions. All watchlist statuses unchanged.**
+
+### GOOGL note — today's weakness
+
+GOOGL/GOOG trading ~$378–385 (down from May 22 close ~$383). The Apple/Gemini deal announced pre-market was a positive N-letter catalyst, yet price is showing intraday weakness. Possible causes: general rotation out of mega-cap into smaller caps on Iran deal optimism; technical supply zone near prior close. Base formation continues (wk 7–8). No thesis damage — still 5–6% below $404 pivot, well outside entry window. Status unchanged: 🟡 WATCHING.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 59 — HALT ALL ENTRIES |
+
+### Result: NO ACTIONS
+
+- 0 positions entered | 0 positions exited | sell-rules-engine: SKIPPED (0 positions)
+- Abort gates fired: Under Pressure + Alpaca Day 59
+- FTD status: PENDING — monitoring at /eod-review (3:15 PM CT)
+- `research_source: websearch_fallback`
+
+---
+
 ## 2026-05-22 (Fri) — /pre-market (6:00 AM CT)
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 52; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. 6th consecutive week of full websearch_fallback mode.)

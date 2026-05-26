@@ -1884,3 +1884,26 @@ Watchlist watching: GOOGL ~$387-390 (4-5% below $403-405 pivot, base wk 6-7) | V
 Weekend catalyst: Iran deal 'largely negotiated' (Trump Sat May 23); Axios May 24: 60-day ceasefire MOU, Hormuz reopening — NOT YET SIGNED. Sticking points: uranium, sanctions.
 FTD Day 5 (Tue May 26): prob MODERATE-HIGH (~60-70%). CB Consumer Confidence 10 AM ET = key secondary catalyst.
 Plan: no entries today (market closed + Under Pressure + Alpaca Day 55). Watch Tuesday for FTD + Iran deal announcement.
+
+---
+
+## 📈 Market-check 2026-05-26 10:00 AM CT — FTD DAY 5
+
+**Market:** 🟡 Uptrend Under Pressure (5/25 dist days) | **Circuit breakers:** NONE
+
+**Actions taken:**
+- No new entries — abort gate: Under Pressure (5/25 dist days) + Alpaca Day 59 blocked
+
+**Market snapshot (11 AM ET):**
+- S&P 500: 7,522.60 (+0.66%) — FTD threshold 7,566.74 (+1.25%) — NOT YET CONFIRMED (44 pts short)
+- CB Consumer Confidence: 93.1 vs 92.0 est → **BEAT ✅** (FTD fuel)
+- Iran deal: NOT signed ("proceeding nicely")
+- Oil WTI: ~$91 (−5%+ = inflation relief)
+- GOOGL: ~$379–385 (WEAK; 5–6% below $404 pivot; 🟡 WATCHING unchanged)
+
+**Watchlist status:** 0 ready | 1 watching (GOOGL) | 2 bench (VRT, NVDA) | 0 removed
+**Open positions:** 0 | Total deployed: 0%
+**Weekly trade count:** 0/3 used
+**FTD window remaining:** May 27 (Day 6) + May 28 (Day 7)
+**Next check:** /eod-review 3:15 PM CT — confirm FTD at close or no FTD
+
