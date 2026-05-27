@@ -46,6 +46,104 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-27 (Wed) — /pre-market (6:00 AM CT) — FTD DAY 6
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 61; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries until FTD confirmed
+**FTD window:** Today = Day 6 | FTD threshold: S&P ~7,613 (7,519.13 × 1.0125) | **LAST TWO CHANCES: Day 6 (today) + Day 7 (May 28 Thu)**
+
+### Market overnight check
+
+| Indicator | Level | vs May 26 close | Notes |
+|---|---|---|---|
+| ES futures (S&P Jun) | 7,564.75 (+0.37%) | +28 pts vs 7,519.13 | Below FTD threshold ~7,613 by ~48 pts; need +0.88% more in session |
+| NQ futures (Nasdaq Jun) | +0.49–1.03% est. | — | Multiple sources; semis/MU momentum driving outperformance |
+| Polymarket | 61% prob open higher | — | Moderate conviction vs Tuesday's 91% |
+| Oil WTI | Declining (est.) | — | Iran deal optimism; inflation positive |
+| Iran deal | NOT signed | — | Trump May 27: "close to finalizing" with "strong inspections." Sticking points: nuclear enrichment, Strait supervision, Lebanese proxies. Araghchi "unsure if deal imminent." |
+| MU (Micron) | +5% premarket (~$929 est.) | +5% vs $884.91 | Q2 FY2026: $23.9B rev (+196% YoY vs $18.7B guide), EPS $12.07 (+756%). UBS PT $535→$1,625. HBM4 sold out. $1T market cap. MASSIVE AI memory/semis tailwind. |
+| NVDA | ~$214 AH indicated | −$1.03 AH | Minor post-session slip. Taiwan $150B/yr investment. No thesis change. |
+| GOOGL | ~$388-392 est. | Ref. May 26 close $388.76 | EU DMA fine risk (new overhang). No positive catalysts overnight. |
+
+**FTD Day 6 probability: MODERATE-LOW (~30-40%)**
+- ES at 7,564.75 (+0.37%) needs additional +48 pts during session to reach ~7,613 FTD threshold
+- MU/semis momentum is a tailwind; Iran deal not signed caps gap potential
+- Polymarket 61% (vs Tuesday's 91%) — market not pricing FTD today
+- MRVL + CRM earnings AH tonight → not relevant for today's FTD; could fuel May 28 Day 7
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**0 open positions — SKIPPED.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Overnight catalyst | Thesis impact | Status |
+|---|---|---|---|
+| GOOGL | EU Digital Markets Act fine risk (new overhang). May 26 close: $388.76 (high $389.26, low $382.60). 65 analysts Strong Buy. Base wk 8 forming. | **Mild negative** — EU fine risk is a known recurring overhang; not model-breaking. Base intact. Distance from $404 pivot: ~3.7%. No thesis change. | 🟡 WATCHING — ~3.7% below $404 pivot |
+| VRT | No new overnight catalysts. May 26 range $327.42–$343.31. TD Cowen PT $387. Earnings July 29 (73 days — clear). | No thesis change. Score 65/100 unchanged. | 🟡 WATCHING — score 65/100 below threshold |
+| NVDA (bench) | −$1.03 AH (~$214.30 indicated). Taiwan $150B/yr investment. Post-earnings consolidation wk 5. | No score change. China H20 = zero still permanent N-letter drag. ~68/100. | 🟡 BENCH — consolidating; no base yet |
+| MU (NOT on watchlist) | +18% May 26, +5% premarket. $23.9B rev (+196%), EPS $12.07 (+756%), UBS PT $1,625. | NOT tradeable (>$500 ceiling; climax top). SECTOR INDICATOR — validates AI memory thesis broadly. | SECTOR INDICATOR — no action |
+
+### Tonight's earnings (AH today — potential May 28 Day 7 FTD fuel)
+
+| Ticker | Consensus | Watch |
+|---|---|---|
+| MRVL | Rev $2.40B (+27% YoY); EPS ~$0.80 | Beat = semis + AI custom chip momentum |
+| CRM (Salesforce) | Rev $11.05B (+12.5%); EPS $3.12 (+21%); 8.7% options swing | Down 32% YTD = low bar; beat = software/AI cloud confirmation; miss = tech headwind |
+
+### Buy-zone readiness
+
+| Symbol | Price est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$388-392 (May 26 close $388.76) | ~$404 | ~−3.0 to −3.7% | 🟡 WATCHING |
+| VRT | ~$327-335 est. | TBD (no valid base) | N/A | 🟡 WATCHING — score 65/100 |
+| NVDA | ~$214-215 est. | TBD (base forming) | N/A | 🟡 BENCH |
+
+### New Home Sales (April 2026) — releasing today 10 AM ET
+
+- March print: +7.4% MoM to 682K; beat = FTD fuel; miss = headwind; check at /market-check
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 61 — HALT ALL ENTRIES |
+
+**No circuit breakers active.** SH hedge $625 queued — FIRST ORDER on Alpaca restore.
+
+### AVGO blackout
+
+**AVGO earnings blackout starts TOMORROW (May 28)** — June 3 earnings ≤5 trading days. Already bench-only; no action needed today.
+
+### Entry plan
+
+- **NO ENTRIES** — Under Pressure gate + Alpaca Day 61 both blocked
+- **Watch at /market-check:** New Home Sales 10 AM ET + FTD progress (S&P must close ≥7,613)
+- **FTD Day 6 scenario:** S&P closes ≥7,613 on above-avg vol → state flip 🟢 → GOOGL evaluation at /eod-review
+- **Dist day #6 risk:** S&P ≤−0.20% on above-avg vol → 🔴 Correction → SH/SQQQ priority
+- **Tonight:** MRVL + CRM AH → analyze at /pre-market May 28 for Day 7 implications
+
+### FTD window tracker
+
+| Day | Status | Threshold | Notes |
+|---|---|---|---|
+| Day 5 (May 26, Tue) | ❌ NOT CONFIRMED | 7,566.74 | +0.61% vs +1.25% needed |
+| **Day 6 (May 27, Wed)** | **⏳ TODAY** | **~7,613** | ES +0.37%; needs +0.88% more in session |
+| Day 7 (May 28, Thu) | Pending | TBD from today's close | LAST CHANCE; PCE April 7:30 AM CT + GDP 2nd estimate |
+| May 29 (Fri) | Window closes | — | No FTD → rally attempt alive; monitor $733.39 SPY |
+
+`research_source: websearch_fallback`
+
+---
+
 ## 2026-05-25 (Mon) — /pre-market (6:00 AM CT) — MEMORIAL DAY: MARKET CLOSED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 55; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. 7th consecutive week of full websearch_fallback mode.)

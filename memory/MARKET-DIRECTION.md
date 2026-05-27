@@ -8,14 +8,31 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-26 (Tue) — `/eod-review` 3:15 PM CT — **FTD DAY 5 NOT CONFIRMED**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 60 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days today (UP day +0.61%) | FTD Day 5 NOT CONFIRMED (+0.61% < +1.25% threshold; 47.61 pts short)
-**SPY:** est. close ~$751.57 (+0.75% from ~$747 May 22 close) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA — clear by ~9%
-**QQQ:** est. close ~$725.36 (+1.17% from $716.97 May 22 close) | 50d SMA: **$638** | 200d SMA: **$618**
-**Rally attempt: Day 5 INTACT. Day 1 = May 19 (SPY low $733.39). SPY close >> Day 1 low.**
-**FTD window: May 27 (Day 6, Wed) + May 28 (Day 7, Thu) — LAST TWO CHANCES**
-**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 60**
+**Last updated:** 2026-05-27 (Wed) — `/pre-market` 6:00 AM CT — **FTD DAY 6**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 61 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days today possible | FTD Day 5 NOT CONFIRMED (+0.61% < +1.25% threshold); **FTD Day 6 TODAY — threshold ~7,613**
+**SPY:** est. ~$753-756 (pre-market; ES 7,564.75 +0.37%) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA — clear by ~9%
+**QQQ:** est. ~$726-728 (pre-market) | 50d SMA: **$638** | 200d SMA: **$618**
+**Rally attempt: Day 6 INTACT. Day 1 = May 19 (SPY low $733.39). ES futures >> Day 1 low.**
+**FTD window: Day 6 (today May 27) + Day 7 (May 28 Thu) — LAST TWO CHANCES | FTD Day 6 probability: MODERATE-LOW (~30-40%)**
+**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 61**
+
+**✅ MAY 27 PRE-MARKET (/pre-market 6:00 AM CT — FTD DAY 6):**
+- **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days). NO new long entries until FTD confirmed.
+- **Alpaca: Day 61 blocked** (403). Perplexity: 403. Alpha Vantage: 403. `research_source: websearch_fallback`
+- **Futures:** ES 7,564.75 (+0.37% vs 7,519.13 May 26 close); NQ +0.49–1.03% est. Polymarket: 61% prob S&P opens higher.
+- **FTD threshold today (Day 6):** ~7,613 (7,519.13 × 1.0125). Gap from current ES: ~48 pts. Need +0.88% more in session. **Probability: MODERATE-LOW (~30-40%).**
+- **Iran deal:** NOT signed. Trump "close to finalizing" with "strong inspections." Araghchi "unsure if imminent." Sticking points: nuclear enrichment, Strait supervision, Lebanese proxies. Oil declining = inflation positive.
+- **MU (Micron) — major sector event (NOT tradeable):** +18% May 26, +5% premarket (~$929). Q2 FY2026: $23.9B rev (+196% YoY vs $18.7B guide), EPS $12.07 (+756%). UBS PT $535→$1,625. HBM4 sold out. $1T market cap. AI/semis tailwind — price >$500 ceiling; climax top; SECTOR INDICATOR only.
+- **MRVL + CRM earnings AH tonight** — not relevant for today's FTD; potential fuel for May 28 Day 7 (LAST CHANCE).
+- **New Home Sales (April):** Releases today 10 AM ET (check at /market-check).
+- **GOOGL:** ~$388-392 est. (May 26 close $388.76). EU DMA fine risk (overhang). Base wk 8. ~3.7% below $404 pivot. 🟡 WATCHING unchanged.
+- **VRT:** ~$327-335 est. No new catalysts. Score 65/100. 🟡 WATCHING unchanged.
+- **NVDA:** ~$214 AH indicated (−$1.03). Score ~68/100. 🟡 BENCH unchanged.
+- **AVGO earnings blackout starts TOMORROW (May 28)** — June 3 ≤5 trading days. Already bench-only.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 61 BLOCKED
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM) | P&L: $0
+- **Actions: NONE**
 
 **✅ MAY 26 EOD (/eod-review 3:15 PM CT — FTD DAY 5 NOT CONFIRMED):**
 - **S&P 500:** 7,519.13 (+0.61% from 7,473.47 May 22 close) — **NEW RECORD CLOSE** (above prior ATH 7,501.24 on May 14) | Nasdaq: 26,656.18 (+1.17%) — record | Russell 2000: +1.77% | `research_source: websearch_fallback` | **Alpaca blocked Day 60**

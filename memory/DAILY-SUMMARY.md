@@ -1924,3 +1924,19 @@ Alpaca: ❌ Blocked Day 60 (403) — hedge SH $625 still queued
 Tomorrow (FTD Day 6 — May 27): New Home Sales + MRVL AH + CRM AH → catalysts for final FTD push
 GOOGL ~$386 (🟡 WATCHING — 4.4% below $404 pivot; base wk 7-8)
 ⚠️ May 28 = FTD Day 7 (LAST DAY) + PCE April 7:30 AM CT + AVGO blackout starts
+
+---
+## 2026-05-27 11:20 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-27
+Market: 🟡 Under Pressure (5/25 dist days) | Futures: ES +0.37% (7,564.75) NQ +0.49-1.03%
+Open positions: 0 | Circuit breakers: NONE | Alpaca: Day 61 blocked
+Overnight gaps: none (0 positions)
+FTD Day 6: threshold ~7,613 | need +0.88% in session | probability MODERATE-LOW (~30-40%)
+Iran deal: NOT signed (Trump 'close to finalizing') | Oil declining = inflation positive | Polymarket 61%
+MU BLOWOUT: +18% May 26 | Q2 rev +196% YoY | UBS PT 1625 | HBM4 sold out | Sector indicator only (>500 ceiling)
+Watchlist ready: NONE (all entries blocked)
+Watching: GOOGL ~388-392 (~3.7% below 404 pivot; base wk 8) | VRT ~327-335 (score 65) | NVDA ~214 bench
+Key catalysts today: New Home Sales 10AM ET | MRVL+CRM earnings AH (Day 7 fuel)
+AVGO blackout starts TOMORROW (May 28)
+Plan: NO entries. Watch FTD at close (~7,613). Analyze MRVL+CRM AH at pre-market May 28 (Day 7 = LAST CHANCE).
