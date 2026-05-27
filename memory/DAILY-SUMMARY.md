@@ -1940,3 +1940,25 @@ Watching: GOOGL ~388-392 (~3.7% below 404 pivot; base wk 8) | VRT ~327-335 (scor
 Key catalysts today: New Home Sales 10AM ET | MRVL+CRM earnings AH (Day 7 fuel)
 AVGO blackout starts TOMORROW (May 28)
 Plan: NO entries. Watch FTD at close (~7,613). Analyze MRVL+CRM AH at pre-market May 28 (Day 7 = LAST CHANCE).
+
+---
+## 2026-05-27 10:00 CT [/market-check — FTD Day 6]
+
+📈 Market-check 2026-05-27 10:00 AM CT
+Market: 🟡 Uptrend Under Pressure (5/25 dist days) | Circuit breakers: NONE
+FTD Day 6: ❌ NOT CONFIRMED — S&P 7,546 (+0.36% vs +1.25% threshold; 67 pts short) | Volume ~21.88M vs 48.11M avg (45% — dual failure)
+Actions taken: No new entries — ALL LONG ENTRIES BLOCKED (Under Pressure + Alpaca Day 61 blocked)
+Sell-rules-engine: SKIPPED (0 open positions)
+Watchlist:
+  GOOGL ~$388.88 (base wk 8-9; ~3.8% below $404 pivot; 🟡 WATCHING unchanged; no trigger)
+  VRT $328.92 (score 65/100; 🟡 BENCH unchanged)
+  NVDA $213.95 (🟡 BENCH unchanged)
+  Bench: no promotions (no symbol within 2% of defined pivot)
+  AVGO: earnings blackout starts TOMORROW May 28 — already bench-only; no action needed
+Catalysts overnight/AH: MRVL Q1 FY2027 AH (exp. $0.80 EPS / $2.40B rev +27% YoY) | CRM Q1 FY2027 AH (exp. $3.13 EPS / $11.06B rev; Agentforce ARR +169% YoY; stock -32% YTD)
+  New Home Sales April — NOT today; rescheduled to May 28 10 AM ET
+FTD window: ONE LAST DAY — May 28 (Day 7 Thu) | PCE April 7:30 AM CT is key gate
+  Soft PCE → rate cut signals → FTD fuel | Hot PCE → yields spike → dist day #6 risk → 🔴 Correction
+Open positions: 0 | Total deployed: 0% | Cash: 100%
+Weekly trade count: 0 of 3 used
+Next check: /eod-review 3:15 PM CT

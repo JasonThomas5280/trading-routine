@@ -8,14 +8,35 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-27 (Wed) — `/pre-market` 6:00 AM CT — **FTD DAY 6**
+**Last updated:** 2026-05-27 (Wed) — `/market-check` 10:00 AM CT — **FTD DAY 6 NOT CONFIRMED**
 **STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 61 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist days today possible | FTD Day 5 NOT CONFIRMED (+0.61% < +1.25% threshold); **FTD Day 6 TODAY — threshold ~7,613**
-**SPY:** est. ~$753-756 (pre-market; ES 7,564.75 +0.37%) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA — clear by ~9%
-**QQQ:** est. ~$726-728 (pre-market) | 50d SMA: **$638** | 200d SMA: **$618**
-**Rally attempt: Day 6 INTACT. Day 1 = May 19 (SPY low $733.39). ES futures >> Day 1 low.**
-**FTD window: Day 6 (today May 27) + Day 7 (May 28 Thu) — LAST TWO CHANCES | FTD Day 6 probability: MODERATE-LOW (~30-40%)**
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist day (UP day) | **FTD Day 6 NOT CONFIRMED — S&P 7,546 (+0.36%) vs threshold 7,613 — dual failure (magnitude + volume)**
+**SPY:** est. ~$754 (S&P 7,546 +0.36%) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA — clear by ~9.4%
+**QQQ:** est. ~$728 | 50d SMA: **$638** | 200d SMA: **$618**
+**Rally attempt: Day 6 INTACT. Day 1 = May 19 (SPY low $733.39). S&P 7,546 >> Day 1 low.**
+**FTD window: Day 7 ONLY (May 28 Thu) — LAST CHANCE | PCE April 7:30 AM CT + MRVL/CRM AH tonight as fuel**
 **Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 61**
+
+**✅ MAY 27 INTRADAY (/market-check 10:00 AM CT — FTD DAY 6 NOT CONFIRMED):**
+- **S&P 500:** 7,546 (+0.36% from 7,519.13 May 26 close) | SPY est. ~$754 | Nasdaq est. +0.4-0.7% | `research_source: websearch_fallback` | **Alpaca blocked Day 61**
+- **FTD Day 6: NOT CONFIRMED.** S&P 7,546 vs threshold 7,613 → gap **67 pts** (+0.89% fell short). SPY volume ~21.88M vs 48.11M avg = **~45% of average** — DUAL FAILURE: magnitude AND volume both fail.
+- **Distribution day check (May 27):** UP day (+0.36%) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.** State: **🟡 Under Pressure — NO CHANGE.**
+- **Rally attempt: Day 6 INTACT.** SPY est. ~$754 >> Day 1 low $733.39 (not undercut). Rally continuing but without FTD-power-move character.
+- **FTD window narrows to ONE LAST DAY: May 28 (Day 7 Thu) — FINAL CHANCE.**
+  - Catalysts available for Day 7: PCE April (7:30 AM CT — soft = FTD fuel; hot = dist day #6 risk); New Home Sales April (10 AM ET — delayed from today); COST+DELL AH; **MRVL + CRM AH tonight** → not relevant to today FTD but provide overnight gap fuel for tomorrow
+  - **AVGO earnings blackout starts TOMORROW May 28** (June 3 earnings ≤5 trading days) — already bench-only; no action
+- **New Home Sales April:** NOT released today — scheduled for **May 28** (Census Bureau confirmed)
+- **MRVL earnings AH tonight:** expectations $0.80 EPS / $2.40B rev (+26-27% YoY); stock ~$196. Beat + guidance = semis confidence → overnight gap for Day 7
+- **CRM earnings AH tonight:** expectations $3.13 EPS / $11.06B rev (+12.5% YoY); Agentforce ARR $800M (+169%); stock down 32% YTD. Beat = enterprise AI confidence → potential FTD fuel tomorrow
+- **GOOGL:** ~$388.88 (close ~flat from $388.76; base wk 8-9; ~3.8% below $404 pivot; EU DMA fine overhang; 🟡 WATCHING unchanged). No buy trigger — volume unconfirmed below average.
+- **VRT:** ~$328.92 (range $328.10-$329.47; flat; score 65/100 unchanged; 🟡 BENCH unchanged)
+- **NVDA:** ~$213.95 (range $212.00-$218.36; no new catalysts; 🟡 BENCH unchanged)
+- **Abort gates:** 🟡 Under Pressure → ALL LONG ENTRIES BLOCKED ✅ | Alpaca Day 61 → no execution possible ✅
+- **Bench promotion check:** No symbols within 2% of defined pivot. No promotions. No demotions.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 61 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+- **Actions: NONE**
+- **Tomorrow (May 28 — FTD Day 7 FINAL):** PCE April 7:30 AM CT (soft = bullish; hot = correction risk); New Home Sales April 10 AM ET; MRVL/CRM overnight reaction; COST+DELL AH; AVGO blackout starts. FTD threshold unchanged: S&P **7,613** / SPY **~$760** on above-avg volume.
 
 **✅ MAY 27 PRE-MARKET (/pre-market 6:00 AM CT — FTD DAY 6):**
 - **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days). NO new long entries until FTD confirmed.
