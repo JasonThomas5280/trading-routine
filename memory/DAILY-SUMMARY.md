@@ -1962,3 +1962,20 @@ FTD window: ONE LAST DAY — May 28 (Day 7 Thu) | PCE April 7:30 AM CT is key ga
 Open positions: 0 | Total deployed: 0% | Cash: 100%
 Weekly trade count: 0 of 3 used
 Next check: /eod-review 3:15 PM CT
+
+---
+
+## 2026-05-27 (Wed) — /eod-review — EOD Summary
+
+📊 EOD 2026-05-27 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 5 of 25 (market: 🟡 Uptrend Under Pressure — no change)
+FTD Day 6: NOT CONFIRMED — S&P 7,520.36 (+0.02%) vs threshold 7,613 (92.64 pts short; vol 40.24M < avg 47.82M — dual fail)
+Dow: 50,644.28 NEW RECORD (+0.36%) | Nasdaq: +0.07% (chip pullback) | S&P: +0.02%
+Actions today:
+  • NONE — 0 open positions; sell-rules-engine skipped; Alpaca Day 62 blocked
+Tomorrow (May 28 — FTD Day 7 LAST CHANCE):
+  • PCE April 7:30 AM CT (CRITICAL: soft = FTD fuel, hot = Correction trigger)
+  • MRVL + CRM AH tonight → overnight gap fuel if beats
+  • FTD threshold: S&P 7,614 / SPY ~$760 on above-avg volume
+  • Watching: GOOGL (base wk 9, $404 pivot, 3.7% away) if FTD confirms + Alpaca restores

@@ -6426,3 +6426,101 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 **P&L today:** $0.00 (0.00%)
 **P&L week:** $0.00 (0.00%)
 **Equity:** $2,500.00
+
+---
+
+## 2026-05-27 (Wed) — /eod-review (3:15 PM CT) — FTD DAY 6 NOT CONFIRMED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 62; Perplexity: 403; Alpha Vantage: 403. 9th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries
+**Sector leaders (carry-forward):** XLI #1, XLC #2, XLE #3 | XLK: blackout (RRG lagging) | No weekly update (Friday only)
+
+**DATA CORRECTION: QQQ May 26 actual close: $730.28** (vs our estimate $725.36 — +$4.92 / +0.68% undercount)
+
+### Close data
+
+| Indicator | May 27 close | vs May 26 close | Notes |
+|---|---|---|---|
+| S&P 500 | **7,520.36** | **+0.02%** (+1.23 pts) | Essentially flat; narrow gain |
+| Nasdaq | **26,674.73** | **+0.07%** | Chip pullback kept gains in check |
+| Dow | **50,644.28** | **+0.36%** | NEW RECORD — industrials/defensives led |
+| SPY | est. **~$751.72** | +0.02% | S&P ratio computation |
+| QQQ | est. **~$730.79** | +0.07% | $730.28 May 26 actual × 1.0007 |
+| SPY volume | 40.24M | vs avg 47.82M = **84% of avg** | Below average — no FTD character |
+| GOOGL | ~$388.88 (mkt-check data) | ~flat | Base wk 8-9; ~3.8% below $404 pivot; no trigger |
+| NVDA | ~$213.95 (mkt-check range $212-218) | chip pullback | No base; bench unchanged |
+| VRT | ~$328.92 (mkt-check data) | flat | Score 65/100 unchanged |
+
+### Distribution day analysis (May 27)
+
+| Factor | Assessment |
+|---|---|
+| Magnitude | +0.02% (UP day) → CANNOT be a distribution day by definition |
+| Volume check | N/A — UP day |
+| State change | NONE |
+| Dist count | **5/25 UNCHANGED** (Apr 28, May 4, May 7, May 15, May 19) |
+
+### FTD status — Day 6 (May 27)
+
+| Metric | Value |
+|---|---|
+| FTD threshold | 7,613 (+1.25% from 7,519.13 May 26 close) |
+| Actual close | 7,520.36 (+0.02%) |
+| Gap to threshold | **92.64 pts — NOT CONFIRMED** |
+| SPY volume | 40.24M vs avg 47.82M = **84% of avg** — below average |
+| Result | **DUAL FAILURE: magnitude AND volume** |
+| Rally attempt | **Day 6 INTACT** — SPY ~$751.72 >> Day 1 low $733.39 |
+| Market character | Dow record; Nasdaq +0.07%; chip pullback; narrow gain — NOT FTD character |
+
+### Sell-rules-engine
+
+**SKIPPED — 0 open positions.**
+
+### Open position review
+
+**0 positions held.** No actions required. No stops to adjust. No exits to execute.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L (no positions) — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 62 — HALT ALL ENTRIES AND EXITS |
+| **ALL CIRCUIT BREAKERS** | **CLEAR** |
+
+### Watchlist EOD status
+
+| Symbol | Close est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$388-389 | ~$404 | ~−3.7% | 🟡 WATCHING — base wk 8-9; EU DMA fine overhang; no trigger |
+| VRT | ~$328-330 | TBD | N/A | 🟡 WATCHING — score 65/100 unchanged; `insufficient_data_flag` |
+| NVDA | ~$212-215 | TBD | N/A | 🟡 BENCH — chip pullback day; no valid base formed |
+
+### Tomorrow (May 28 — FTD Day 7 ABSOLUTE LAST CHANCE)
+
+- **PCE April 7:30 AM CT** — MOST CRITICAL data point of the week
+  - Soft (below estimate): rate cut signals → risk-on → FTD fuel
+  - Hot (above estimate): yield spike → inflation fears → dist day #6 risk → 🔴 Correction
+- **New Home Sales April 10 AM ET** (rescheduled from today per Census Bureau)
+- **MRVL AH tonight** — guidance: FY2027 rev raised to ~$11B (+30% YoY), FY2028 ~$15B (+40% growth); data center 70%+ of revenue. If strong beat + guidance confirm → major semis confidence → overnight gap-up fuel for Day 7
+- **CRM AH tonight** — enterprise software health; Agentforce ARR tracking ($800M+169% benchmark)
+- **COST + DELL AH tomorrow** — additional sentiment
+- **AVGO blackout starts May 28** (June 3 earnings ≤5 trading days) — bench-only; no action
+- **FTD threshold:** S&P **7,614** (7,520.36 × 1.0125) / SPY ~**$760.10** on above-avg volume
+- **After Day 7 without FTD:** Window closes. State remains 🟡 Under Pressure. Rally attempt remains technically intact (Day 1 low $733.39 not undercut). Next FTD requires new power-move session or a fresh rally attempt.
+- **If FTD confirmed tomorrow:** State → 🟢 Confirmed Uptrend → Alpaca MUST be restored → evaluate GOOGL (base wk 9+ / $404 pivot / vol ≥+40%) + SH hedge exit within 2 sessions
+
+### EOD summary
+
+**Close:** SPY ~$751.72 (+0.02%) | QQQ ~$730.79 (+0.07%) | S&P 500: 7,520.36 | Nasdaq: 26,674.73 | Dow: 50,644.28 (NEW RECORD)
+**Distribution days:** 5/25 (today: none — UP day +0.02%)
+**Market state:** 🟡 Uptrend Under Pressure (no change)
+**Positions held:** 0
+**Actions today:** NONE | sell-rules-engine: SKIPPED (0 positions)
+**Circuit breakers:** none
+**P&L today:** $0.00 (0.00%)
+**P&L week:** $0.00 (0.00%)
+**Equity:** $2,500.00 (HWM)

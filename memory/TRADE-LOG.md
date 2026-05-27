@@ -46,13 +46,13 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-05-26 /eod-review — 0 open positions; Alpaca API blocked Day 60; S&P close 7,519.13 (+0.61%) NEW RECORD — Nasdaq 26,656.18 (+1.17%) — Russell 2000 +1.77%; SPY est. close ~$751.57; QQQ est. close ~$725.36; dist count **5/25 UNCHANGED** — **🟡 UPTREND UNDER PRESSURE**; FTD Day 5 NOT CONFIRMED (+0.61% < +1.25% threshold; 47.61 pts short); FTD window: Day 6 May 27 + Day 7 May 28 remain open; rally attempt Day 5 INTACT (SPY >> $733.39 Day 1 low); SH/SQQQ hedge queued $625/25% — HIGHEST PRIORITY on Alpaca restore; P&L today: $0; P&L week: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; `research_source: websearch_fallback`)*
+*(Updated 2026-05-27 /eod-review — 0 open positions; Alpaca API blocked Day 62; S&P close 7,520.36 (+0.02%) — Nasdaq 26,674.73 (+0.07%) — Dow 50,644.28 NEW RECORD (+0.36%); SPY est. close ~$751.72; QQQ est. close ~$730.79 (QQQ May 26 actual corrected: $730.28); dist count **5/25 UNCHANGED** — **🟡 UPTREND UNDER PRESSURE**; FTD Day 6 NOT CONFIRMED (close 7,520.36 vs threshold 7,613 — 92.64 pts short; volume 40.24M < avg 47.82M — dual failure); FTD window: Day 7 May 28 ABSOLUTE LAST CHANCE; rally attempt Day 6 INTACT (SPY >> $733.39 Day 1 low); SH/SQQQ hedge queued $625/25% — HIGHEST PRIORITY on Alpaca restore; P&L today: $0; P&L week: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; `research_source: websearch_fallback`)*
 
 ---
 
 ## Weekly Trade Count (rolling)
 
-**Week of 2026-05-26 (current — Tue-Fri):** 0/3 positions opened | Market: 🟡 Under Pressure (5/25 dist days) | May 26 close: S&P 7,519.13 NEW RECORD (+0.61%) | FTD Day 5 NOT confirmed | FTD window: Day 6 May 27 + Day 7 May 28 | Alpaca Day 60 blocked | circuit breakers ALL CLEAR
+**Week of 2026-05-26 (current — Tue-Fri):** 0/3 positions opened | Market: 🟡 Under Pressure (5/25 dist days) | May 27 close: S&P 7,520.36 (+0.02%) | Dow 50,644.28 NEW RECORD | FTD Day 6 NOT confirmed (gap 92.64 pts; vol 40.24M < avg 47.82M — dual fail) | FTD window: Day 7 May 28 LAST CHANCE | Alpaca Day 62 blocked | circuit breakers ALL CLEAR
 **Week of 2026-05-18 ← CLOSED:** 0/3 positions opened | Market: 🟡 Under Pressure (5/25 dist days) | S&P week +0.9% (8th straight winning week) | Dow week +2.1% RECORD | Alpaca Day 53 blocked entire week | Hedge SH $625 queued | P&L week: $0 (0%) | FTD Day 4 NOT confirmed (May 22 +0.37% vs +1.25% needed) | FTD window: May 26/27/28 | May 25 = Memorial Day (closed) | circuit breakers ALL CLEAR
 **Week of 2026-05-11:** 0 new positions opened (max 3/week) ← WEEK CLOSED (reset Mon May 11; Alpaca blocked all week Day 43 by Fri /eod-review; zero tradeable setups; 0/3 trades used; market state changed to Uptrend Under Pressure on final day)
 **Week of 2026-05-04:** 0 new positions opened (max 3/week) ← CLOSED (Fri May 8 EOD — 0/3 used; Alpaca blocked all week + NFP gate Fri)

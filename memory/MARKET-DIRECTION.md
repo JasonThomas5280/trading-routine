@@ -8,14 +8,31 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-27 (Wed) — `/market-check` 10:00 AM CT — **FTD DAY 6 NOT CONFIRMED**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 61 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist day (UP day) | **FTD Day 6 NOT CONFIRMED — S&P 7,546 (+0.36%) vs threshold 7,613 — dual failure (magnitude + volume)**
-**SPY:** est. ~$754 (S&P 7,546 +0.36%) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA — clear by ~9.4%
-**QQQ:** est. ~$728 | 50d SMA: **$638** | 200d SMA: **$618**
-**Rally attempt: Day 6 INTACT. Day 1 = May 19 (SPY low $733.39). S&P 7,546 >> Day 1 low.**
-**FTD window: Day 7 ONLY (May 28 Thu) — LAST CHANCE | PCE April 7:30 AM CT + MRVL/CRM AH tonight as fuel**
-**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 61**
+**Last updated:** 2026-05-27 (Wed) — `/eod-review` 3:15 PM CT — **FTD DAY 6 NOT CONFIRMED (CLOSE)**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 62 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist day (UP +0.02%) | **FTD Day 6 NOT CONFIRMED — S&P 7,520.36 (+0.02%) vs threshold 7,613 — DUAL FAILURE (magnitude + volume below avg)**
+**SPY:** est. ~$751.72 (S&P 7,520.36 +0.02%) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA — clear by ~9.1%
+**QQQ:** est. ~$730.79 (+0.07%) | 50d SMA: **$638** | 200d SMA: **$618** | *QQQ May 26 actual: $730.28 (corrected from est. $725.36)*
+**Rally attempt: Day 6 INTACT. Day 1 = May 19 (SPY low $733.39). S&P 7,520.36 >> Day 1 low.**
+**FTD window: Day 7 ONLY (May 28 Thu) — ABSOLUTE LAST CHANCE | PCE April 7:30 AM CT + MRVL/CRM AH tonight as fuel**
+**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 62**
+
+**✅ MAY 27 EOD (/eod-review 3:15 PM CT — FTD DAY 6 NOT CONFIRMED):**
+- **S&P 500:** 7,520.36 (+0.02% from 7,519.13 May 26 close) | Nasdaq: 26,674.73 (+0.07%) | Dow: 50,644.28 (+0.36%, NEW RECORD) | `research_source: websearch_fallback` | **Alpaca blocked Day 62**
+- **SPY est. close: ~$751.72** | **QQQ est. close: ~$730.79** (+0.07% from $730.28 actual May 26 close)
+- **DATA CORRECTION: QQQ May 26 actual close: $730.28** (vs our estimate $725.36 — +$4.92 / +0.68% undercount)
+- **FTD Day 6: NOT CONFIRMED.** S&P 7,520.36 vs threshold 7,613 → gap **92.64 pts** short (+1.23% fell far short). SPY volume: 40.24M vs avg 47.82M = **84% of avg** — DUAL FAILURE: magnitude AND volume below average.
+- **Distribution day check (May 27):** UP day (+0.02%) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.** State: **🟡 Under Pressure — NO CHANGE.**
+- **Rally attempt: Day 6 INTACT.** SPY ~$751.72 >> Day 1 low $733.39 (not undercut). Market character: Dow leads (+0.36% record, industrials/defensives) while Nasdaq barely moved (+0.07%) — chip pullback (NVDA/semis lagging). Narrow, low-conviction gain. NOT FTD character.
+- **FTD window: Day 7 ONLY — May 28 (Thu) ABSOLUTE LAST CHANCE.**
+  - Threshold: S&P **7,614** (7,520.36 × 1.0125) / SPY **~$760.10** on above-avg volume
+  - Catalysts: PCE April 7:30 AM CT (CRITICAL — soft = FTD fuel; hot = dist day #6 risk → 🔴 Correction); New Home Sales April 10 AM ET; **MRVL AH tonight** (FY2027 rev guide raised ~$11B / FY2028 ~$15B — very bullish if confirmed) + **CRM AH tonight**
+  - COST + DELL AH tomorrow evening
+  - AVGO blackout starts May 28 (June 3 earnings ≤5 trading days) — bench-only, no action
+- **0 open positions** → sell-rules-engine: **SKIPPED** | SH hedge $625 queued — Alpaca Day 62 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
+- **Tomorrow (May 28 — FTD Day 7 ABSOLUTE LAST CHANCE):** PCE April 7:30 AM CT (soft = bullish; hot = Correction trigger); New Home Sales April 10 AM ET; MRVL+CRM AH reaction; COST+DELL AH. FTD threshold: S&P **7,614** / SPY **~$760** on above-avg volume. After Day 7 without FTD: window closes; state remains Under Pressure pending next rally attempt.
 
 **✅ MAY 27 INTRADAY (/market-check 10:00 AM CT — FTD DAY 6 NOT CONFIRMED):**
 - **S&P 500:** 7,546 (+0.36% from 7,519.13 May 26 close) | SPY est. ~$754 | Nasdaq est. +0.4-0.7% | `research_source: websearch_fallback` | **Alpaca blocked Day 61**
