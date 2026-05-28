@@ -8,19 +8,32 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-28 (Thu) — `/market-check` 10:00 AM CT — **FTD DAY 7 NOT CONFIRMED — WINDOW CLOSES TODAY**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 63 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | **⚠️ DIST DAY #6 RISK ELEVATED** — S&P −0.23% intraday (>−0.20% ✅); hot PCE + New Home Sales miss = likely elevated volume; /eod-review MUST confirm
-**SPY:** est. ~$750.18 (S&P ~7,503 May 28 intraday) | 50d MA: **$689** | 200d MA: **$676**
-**QQQ:** est. ~$728 est. | 50d SMA: **$638** | 200d SMA: **$618**
-**Rally attempt: Day 7 — FTD window CLOSES after today's close.** S&P 7,503 >> Day 1 low ~$733.39 SPY. Rally attempt SURVIVES if SPY holds above $733.39 at close.
-**FTD threshold: S&P 7,614 / SPY ~$760.10 on above-avg volume. Current S&P ~7,503 — gap ~111 pts (-1.47% below threshold). FTD IMPOSSIBLE today (market down).**
-**PCE April (7:30 AM CT): Core PCE 2.8% YoY (+0.4% MoM) — SLIGHTLY HOT (vs 2.7% est; above Fed 2% target; rate hike pricing for late 2026)**
-**New Home Sales April (10 AM ET): 622K vs 665K estimate → MISS −6.2% vs March, −11.3% YoY. South −9.8%, Midwest −25%. Bearish consumer/housing demand signal. Adding to dist day pressure.**
-**MRVL AH: beat ($0.80/$2.418B record) BUT stock -7.3% AH (~$204 vs ~$220 session) = sell-the-news. Semis drag on open.**
-**AVGO: ⛔ EARNINGS BLACKOUT ACTIVE** (June 3 earnings = 4 trading days). Bench-only.
-**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 63**
-**Close watchpoints: If S&P closes ≤−0.2% on above-avg vol → ⚠️ dist day #6 → 🔴 Correction state change at /eod-review. If S&P reverses to flat/up by close → state stays 🟡 Under Pressure. Rally attempt survives either way if SPY > $733.39.**
+**Last updated:** 2026-05-28 (Thu) — `/eod-review` 3:15 PM CT — **FTD WINDOW CLOSED — NO FTD THIS CYCLE — MARKET REVERSED TO NEW ATH**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 64 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | NO new dist day today (UP day +0.58%) | Apr 28 expires ~Jun 2-3 (next natural relief)
+**SPY:** est. ~$754.78 (S&P 7,563.63 close — new ATH) | 50d MA: **$689** | 200d MA: **$676**
+**QQQ:** est. ~$736 | 50d SMA: **$638** | 200d SMA: **$618**
+**Rally attempt: FTD window CLOSED (Day 7 passed, +0.58% < +1.25% threshold). Rally attempt technically INTACT — SPY est. ~$754.78 >> Day 1 low $733.39. No reset until Day 1 low undercut. Next FTD requires new power-move session or fresh rally attempt cycle.**
+**FTD: NOT CONFIRMED. S&P 7,563.63 < threshold 7,614. Gain +0.58% < +1.25% required. Window officially expired.**
+**Catalyst: SNOW +36.7% ($6B AWS deal + Q1 beat — best day ever). Iran ceasefire extended 60 days (oil relief). Market reversed intraday losses to new ATH.**
+**AVGO: ⛔ EARNINGS BLACKOUT ACTIVE** (June 3 earnings — 4 trading days). Bench-only.
+**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 64**
+
+**✅ MAY 28 EOD (/eod-review 3:15 PM CT — FTD DAY 7 WINDOW CLOSED — MARKET REVERSED TO NEW ATH):**
+- **S&P 500:** 7,563.63 (+0.58% from 7,520.36 May 27 close) — **NEW RECORD HIGH** | Nasdaq: 26,917.47 (+0.91%) — **NEW RECORD HIGH** | Dow: 50,668.97 (+0.05%) | `research_source: websearch_fallback` | **Alpaca blocked Day 64**
+- **SPY est. close: ~$754.78** (+0.58%) | **QQQ est. close: ~$736** (+0.91% Nasdaq proxy; Alpaca blocked, estimate only)
+- **Session narrative:** Market opened down (−0.23% at /market-check; PCE hot + MRVL sell-the-news drag) then REVERSED sharply to new ATH. Catalyst: SNOW +36.7% (largest-ever AWS deal $6B + Q1 beat — revived AI trade broadly). Iran ceasefire extended 60 days (geopolitical risk reduction). Classic reversal-day character.
+- **Distribution day check (May 28):** UP day (+0.58%) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.** State: **🟡 Under Pressure — NO CHANGE.**
+- **FTD Day 7: NOT CONFIRMED.** S&P 7,563.63 vs threshold 7,614 → gap **50.37 pts** (0.67% short). Gain +0.58% < +1.25% required. Volume: unconfirmed (Alpaca blocked Day 64) — likely elevated given new ATH + SNOW catalyst, but magnitude failure is definitive. **FTD window EXPIRES after this close.**
+- **Post-window assessment:** FTD opportunity for this rally attempt (Day 1 = May 19, SPY low $733.39) is EXPIRED. Rally attempt technically alive — SPY >> $733.39. No FTD in Days 4-7 means no state upgrade to Confirmed Uptrend this cycle. For new entries, need either (a) a new follow-through day beyond the formal window (less reliable per IBD) or (b) market makes new Day 1 low → restart fresh window → new FTD.
+- **0 open positions** → sell-rules-engine: **SKIPPED** | SH hedge $625 queued — Alpaca Day 64 BLOCKED
+- **Alpaca note:** Day 64 consecutive 403 "Host not in allowlist." Restore remains HIGHEST PRIORITY. Without Alpaca, no executions possible — hedge blocked, no entries possible even on FTD.
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
+- **COST + DELL AH tonight (post-market May 28):** Informational only — FTD window closed, no actionable entries before next FTD confirmation.
+  - COST (Costco): consumer spending health signal
+  - DELL: AI server/enterprise infra signal relevant for VRT thesis
+- **Tomorrow (May 29 — Fri):** End of week. Monitor for: (1) COST/DELL AH reaction; (2) Any volume follow-through above Apr 28 distribution day count (expires ~Jun 2-3); (3) GOOGL watchlist status — base wk 9-10; $404 pivot; ~4.3% away est.; (4) Market direction: if S&P makes new highs on volume → rally attempt extended but no formal FTD; if S&P gaps down and undercuts $733.39 SPY Day 1 low → new rally attempt Day 1; (5) Alpaca restore — critical.
 
 **✅ MAY 28 INTRADAY (/market-check 10:00 AM CT — FTD DAY 7 FINAL CHANCE — NOT CONFIRMED):**
 - **S&P 500:** ~7,503 (−0.23% from 7,520.36 May 27 close) | Nasdaq est. −0.3-0.5% | `research_source: websearch_fallback` | **Alpaca blocked Day 63**

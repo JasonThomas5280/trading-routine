@@ -2010,3 +2010,27 @@ Weekly trade count: 0 of 3 used
 Alpaca: Day 63 blocked (403) — HIGHEST PRIORITY on restore: SH hedge $625
 Close watchpoints: Dist day #6 confirmed → 🔴 Correction state change at /eod-review | S&P must hold above ~7,505 to avoid dist day trigger; SPY must hold above $733.39 to preserve rally attempt
 Next check: /eod-review 3:15 PM CT
+
+---
+
+📊 EOD 2026-05-28 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 5/25 (market: 🟡 Uptrend Under Pressure)
+FTD window: EXPIRED — Day 7 passed (+0.58% < +1.25% needed; S&P 7,563.63 < 7,614 target)
+Market reversed from -0.23% open to close +0.58% at new ATH (S&P 7,563.63 / Nasdaq 26,917.47)
+Catalyst: SNOW +36.7% ($6B AWS deal + beat); Iran ceasefire extended 60 days
+
+Actions today:
+  • sell-rules-engine: SKIPPED (0 positions)
+  • No buys, sells, or stop adjustments
+  • Dist day #6 risk NOT triggered (UP day +0.58%)
+  • Alpaca: BLOCKED Day 64 — SH/SQQQ hedge $625 still queued; HIGHEST PRIORITY on restore
+
+Tomorrow (Fri May 29):
+  • COST + DELL AH signals → watch for VRT thesis update (DELL AI server demand)
+  • Monitor SPY vs Day 1 low $733.39 — undercut = new rally attempt reset
+  • Apr 28 dist day expires ~Jun 2-3 (first natural relief)
+  • AVGO blackout through June 3 earnings
+  • Alpaca restore = CRITICAL (no executions possible until resolved)
+
+`research_source: websearch_fallback` | Perplexity: ❌ | AV: ❌ | Alpaca: ❌ Day 64

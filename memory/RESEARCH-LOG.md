@@ -6623,3 +6623,96 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 **P&L today:** $0.00 (0.00%)
 **P&L week:** $0.00 (0.00%)
 **Equity:** $2,500.00 (HWM)
+
+---
+
+## 2026-05-28 (Thu) — /eod-review (3:15 PM CT) — FTD Window Closed — Market Reversed to New ATH
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 64; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries | FTD window EXPIRED
+
+### Close data
+
+| Instrument | Close est. | Change | Notes |
+|---|---|---|---|
+| S&P 500 | 7,563.63 | +0.58% | **NEW ALL-TIME HIGH** |
+| Nasdaq Composite | 26,917.47 | +0.91% | **NEW ALL-TIME HIGH** |
+| Dow Jones | 50,668.97 | +0.05% | — |
+| SPY | ~$754.78 | +0.58% | Computed from S&P ratio vs May 27 $750.46 |
+| QQQ | ~$736 | est. +0.91% | Nasdaq Composite proxy; Alpaca blocked |
+| SPY volume | unconfirmed | vs avg ~47.82M | Alpaca blocked Day 64; likely above-avg given ATH session + SNOW catalyst |
+
+### Distribution day analysis (May 28)
+
+| Factor | Assessment |
+|---|---|
+| Magnitude | +0.58% (UP day) → CANNOT be a distribution day by definition |
+| Volume check | N/A — UP day |
+| State change | NONE |
+| Dist count | **5/25 UNCHANGED** (Apr 28, May 4, May 7, May 15, May 19) |
+
+### FTD status — Day 7 (May 28) — WINDOW CLOSES TODAY
+
+| Metric | Value |
+|---|---|
+| FTD threshold | 7,614 (+1.25% from 7,520.36 May 27 close) |
+| Actual close | 7,563.63 (+0.58%) |
+| Gap to threshold | **50.37 pts short — NOT CONFIRMED** |
+| Result | **MAGNITUDE FAILURE** (+0.58% < +1.25% required) |
+| Rally attempt | **INTACT** — SPY ~$754.78 >> Day 1 low $733.39 |
+| FTD window status | **EXPIRED** — Day 7 passed without FTD. No new formal window until fresh rally attempt cycle. |
+| Market character | Intraday reversal from -0.23% to +0.58% new ATH; SNOW +36.7% AI catalyst; Iran ceasefire extended — positive reversal but insufficient magnitude for FTD |
+
+### Session catalysts
+
+- **SNOW +36.7% (best day ever):** Q1 FY27 beat — product rev $1.33B (+34% YoY), total rev $1.39B (+33%), EPS $0.39 vs $0.32 est. $6B multi-year AWS deal (Graviton + AI infra). Revived AI data cloud / cloud spend narrative broadly.
+- **Iran ceasefire extended 60 days:** US-Iran agreed MOU extension to gradually restore energy exports from Persian Gulf. Oil relief = inflation tailwind.
+- **PCE hot (pre-market):** Core 2.8% YoY — headwind absorbed and overcome by session close.
+- **MRVL sell-the-news:** -7.3% drag at open (absorbed by SNOW/Iran).
+
+### Sell-rules-engine
+
+**SKIPPED — 0 open positions.**
+
+### Open position review
+
+**0 positions held.** No actions required. No stops to adjust. No exits to execute.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L (no positions) — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 64 — HALT ALL ENTRIES AND EXITS |
+| **ALL CIRCUIT BREAKERS** | **CLEAR** |
+
+### Watchlist EOD status
+
+| Symbol | Close est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$388-392 est. (mkt reversed; no live data) | ~$404 | ~3-4% below | 🟡 WATCHING — base wk 9-10; need FTD + Alpaca restore + vol ≥+40% + base completion |
+| VRT | ~$330-336 est. (no live data; market +0.58%) | TBD | N/A | 🟡 BENCH — score 65/100; `insufficient_data_flag`; watch DELL AH signal for VRT thesis |
+| NVDA | ~$214-218 est. | TBD | N/A | 🟡 BENCH — post-earnings consolidation; no valid base |
+| AVGO | ⛔ BLACKOUT | June 3 earnings | — | ⛔ No action until week of June 9 |
+
+### AH catalyst check (tonight — post-market May 28)
+
+| Ticker | Signal | Thesis impact |
+|---|---|---|
+| COST (Costco) AH | Consumer spending health signal | Market state indicator; COST not on watchlist |
+| DELL AH | AI server / enterprise infra signal | Relevant for VRT thesis validation (AI power demand) |
+
+### EOD summary
+
+**Close:** SPY ~$754.78 (+0.58%) | QQQ ~$736 (+0.91% est.) | S&P 500: 7,563.63 (NEW ATH) | Nasdaq: 26,917.47 (NEW ATH) | Dow: 50,668.97
+**Distribution days:** 5/25 (today: none — UP day +0.58%)
+**Market state:** 🟡 Uptrend Under Pressure (no change) | FTD window EXPIRED (Day 7 passed without FTD)
+**Positions held:** 0
+**Actions today:** NONE | sell-rules-engine: SKIPPED (0 positions)
+**Circuit breakers:** none
+**P&L today:** $0.00 (0.00%)
+**P&L week:** $0.00 (0.00%)
+**Equity:** $2,500.00 (HWM)
