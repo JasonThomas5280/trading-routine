@@ -46,6 +46,105 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-28 (Thu) — /pre-market (6:00 AM CT) — FTD DAY 7 FINAL CHANCE
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 63; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries
+**FTD window:** Today = Day 7 — ABSOLUTE LAST CHANCE | FTD threshold: S&P 7,614 (7,520.36 × 1.0125) / SPY ~$760.10 on above-avg volume
+
+### Market overnight check
+
+| Indicator | Level | vs May 27 close | Notes |
+|---|---|---|---|
+| ES futures (S&P Jun) | ~7,542 (+0.29%) | +22 pts vs 7,520.36 | Well below FTD threshold 7,614; need additional +72 pts (+0.96%) during session |
+| NQ futures (Nasdaq Jun) | est. +0.67–1.03% | — | Broad risk-on but dampened by MRVL sell-the-news |
+| PCE April (RELEASED 7:30 AM CT) | Core 2.8% YoY / +0.4% MoM | vs 2.7% est / +0.29% prior | **SLIGHTLY HOT** — above est. Fed rate hike late 2026 pricing. NOT soft PCE. Headwind for FTD. |
+| MRVL AH | ~$204 AH (~-7.3% vs ~$220 session) | -7.3% AH | Beat ($0.80 EPS / $2.418B rev / Q2 guide +35% YoY) BUT severe sell-the-news reaction. Semis drag. |
+| CRM AH | Flat AH | — | EPS $3.88 (+24% beat); Rev $11.13B (beat); FY27 guide slightly light. Stock little changed. Neutral. |
+| GOOGL pre-mkt | ~$383.79 (-0.27%) | vs ~$388.76 May 27 close | 5.0–5.5% below $404 pivot. Moved away. No new catalysts overnight. |
+| Bond yields | Spiking | 10yr ~4.60%+ | Rate hike narrative building on hot PCE; equity multiple headwind |
+
+**FTD Day 7 probability: LOW (~15-20%)**
+- ES +0.29% needs +0.96% more during session = significant rally from current levels required
+- PCE hot (core 2.8% vs 2.7% est) → bond yield spike → rate hike narrative = FTD headwind
+- MRVL -7.3% AH (semis sector drag at open) despite beats — market pricing perfection
+- CRM flat (neutral — no positive fuel)
+- FTD window CLOSES after today regardless
+
+**Distribution day #6 risk: MODERATE-ELEVATED (~30-35%)**
+- If hot PCE + MRVL drag pulls S&P ≤-0.2% on above-avg vol → dist day #6 → 🔴 Correction
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**0 open positions — SKIPPED.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Overnight catalyst | Thesis impact | Status |
+|---|---|---|---|
+| GOOGL | Pre-market ~$383.79 (-0.27% from ~$388.76 close). No new GOOGL-specific overnight news. EU DMA fine risk overhang persists. Base wk 9 forming ($383-404 zone). | **No change.** Moved slightly away from pivot (now ~5% below vs ~3.8% yesterday). Base formation intact. | 🟡 WATCHING — ~5% below $404 pivot |
+| VRT | No pre-market data (Alpaca blocked). Est. ~$328-332 (from May 27). No new catalysts. | No thesis change. Score 65/100 unchanged. | 🟡 BENCH — score 65/100 below threshold |
+| NVDA (bench) | No pre-market data (Alpaca blocked). Est. ~$213-215 (from May 27). No new news. | No score change. ~68/100. | 🟡 BENCH — consolidating; no base yet |
+| AVGO | **⛔ EARNINGS BLACKOUT STARTS TODAY** — June 3 earnings = 4 trading days. | **STATUS CHANGE: bench-only → BLACKOUT. No action permitted until after June 3 earnings + analysis.** | ⛔ BLACKOUT — next re-score week of June 9 |
+| MRVL (not on watchlist) | Beat on all metrics (EPS $0.80 / Rev $2.418B / Q2 guide +35%). Stock -7.3% AH → sell-the-news. | Sector indicator: AI custom chip demand intact. MRVL not tradeable (XLK sector blackout + score est. below 75). NOT adding to watchlist. | SECTOR INDICATOR — no action |
+
+### Tonight's earnings (AH today — post-window, informational only)
+
+| Ticker | Notes |
+|---|---|
+| COST (Costco) | May 28 AH — consumer spending health signal; no FTD relevance (window closes today) |
+| DELL | May 28 AH — AI server / enterprise infra signal; relevant for VRT thesis assessment |
+
+### Buy-zone readiness
+
+| Symbol | Price est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$383.79 pre-mkt (GOOG ~-0.27%) | ~$404 | ~−5.0 to −5.5% | 🟡 WATCHING |
+| VRT | ~$328-332 est. | TBD (no valid base) | N/A | 🟡 BENCH — score 65/100 |
+| NVDA | ~$213-215 est. | TBD (base forming) | N/A | 🟡 BENCH |
+| AVGO | ⛔ BLACKOUT | N/A | N/A | ⛔ No action until June 9 |
+
+### New Home Sales April — releasing today 10 AM ET
+
+- Prior: March 682K (+7.4% MoM). Beat = modest FTD fuel; miss = headwind. Check at /market-check.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 63 — HALT ALL ENTRIES |
+
+**No circuit breakers active.** SH hedge $625 queued — FIRST ORDER on Alpaca restore.
+
+### FTD window tracker — FINAL STATE
+
+| Day | Status | Threshold | Notes |
+|---|---|---|---|
+| Day 5 (May 26, Tue) | ❌ NOT CONFIRMED | 7,566.74 | +0.61% vs +1.25% needed |
+| Day 6 (May 27, Wed) | ❌ NOT CONFIRMED | ~7,613 | +0.02% — dual fail (magnitude + volume) |
+| **Day 7 (May 28, Thu)** | **⏳ TODAY — LAST CHANCE** | **7,614** | ES +0.29% pre-mkt. PCE hot. MRVL drag. LOW prob. |
+| After Day 7 | Window CLOSES | — | State stays Under Pressure. Rally attempt alive if SPY >$733.39. |
+
+### Entry plan
+
+- **NO ENTRIES** — Under Pressure gate + Alpaca Day 63 both blocked
+- **Watch at /market-check:** New Home Sales April 10 AM ET; S&P progress toward 7,614 FTD threshold
+- **FTD scenario (15-20%):** S&P closes ≥7,614 on above-avg vol → state flip 🟢 → GOOGL evaluation at /eod-review
+- **Dist day #6 scenario (30-35%):** S&P closes ≤-0.2% on above-avg vol → 🔴 Correction → SH/SQQQ highest priority
+- **Base case (~50%):** No FTD, no dist day → FTD window closes → state stays Under Pressure → monitor rally attempt ($733.39 SPY floor)
+
+`research_source: websearch_fallback`
+
+---
+
 ## 2026-05-27 (Wed) — /pre-market (6:00 AM CT) — FTD DAY 6
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 61; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)

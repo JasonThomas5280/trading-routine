@@ -8,14 +8,35 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-27 (Wed) — `/eod-review` 3:15 PM CT — **FTD DAY 6 NOT CONFIRMED (CLOSE)**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 62 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | No new dist day (UP +0.02%) | **FTD Day 6 NOT CONFIRMED — S&P 7,520.36 (+0.02%) vs threshold 7,613 — DUAL FAILURE (magnitude + volume below avg)**
-**SPY:** est. ~$751.72 (S&P 7,520.36 +0.02%) | 50d MA: **$689** | 200d MA: **$676** | Not breaking 50d MA — clear by ~9.1%
-**QQQ:** est. ~$730.79 (+0.07%) | 50d SMA: **$638** | 200d SMA: **$618** | *QQQ May 26 actual: $730.28 (corrected from est. $725.36)*
-**Rally attempt: Day 6 INTACT. Day 1 = May 19 (SPY low $733.39). S&P 7,520.36 >> Day 1 low.**
-**FTD window: Day 7 ONLY (May 28 Thu) — ABSOLUTE LAST CHANCE | PCE April 7:30 AM CT + MRVL/CRM AH tonight as fuel**
-**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 62**
+**Last updated:** 2026-05-28 (Thu) — `/pre-market` 6:00 AM CT — **FTD DAY 7 PRE-MARKET: LOW PROBABILITY**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 63 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | **FTD Day 7 FINAL CHANCE — LOW probability (~15-20%)** | Dist day #6 risk MODERATE-ELEVATED (~30-35%) if session closes ≤−0.2% on volume
+**SPY:** est. ~$751.72 (S&P 7,520.36 May 27 close) | 50d MA: **$689** | 200d MA: **$676**
+**QQQ:** est. ~$730.28 | 50d SMA: **$638** | 200d SMA: **$618**
+**Rally attempt: Day 7 (Day 1 = May 19, SPY low $733.39). ES pre-market ~7,542 (+0.29%) >> Day 1 low. INTACT.**
+**FTD threshold: S&P 7,614 / SPY ~$760.10 on above-avg volume. ES currently ~7,542 — needs +72 pts (+0.96%) additional gain to close FTD.**
+**PCE April (7:30 AM CT): Core PCE 2.8% YoY (+0.4% MoM) — SLIGHTLY HOT (vs 2.7% est; above Fed 2% target; rate hike pricing for late 2026)**
+**MRVL AH: beat ($0.80/$2.418B record) BUT stock -7.3% AH (~$204 vs ~$220 session) = sell-the-news. Semis drag on open.**
+**CRM AH: EPS $3.88 beat, rev $11.13B beat — FY27 guide slightly light — stock flat AH. Neutral.**
+**AVGO: ⛔ EARNINGS BLACKOUT STARTS TODAY** (June 3 earnings = 4 trading days). Already bench-only → BLACKOUT confirmed.
+**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 63**
+**Key risk today: If S&P closes ≤−0.2% on above-avg vol → dist day #6 → 🔴 Correction. After-window: If no FTD by close → FTD window CLOSES; state remains Under Pressure; rally attempt lives if SPY stays above $733.39.**
+
+**✅ MAY 28 PRE-MARKET (/pre-market 6:00 AM CT — FTD DAY 7 FINAL CHANCE):**
+- **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days). NO new long entries until FTD confirmed.
+- **Alpaca: Day 63 blocked** (403). Perplexity: 403. Alpha Vantage: 403. `research_source: websearch_fallback`
+- **ES futures: ~7,542 (+0.29% vs 7,520.36 May 27 close)** | NQ est. +0.67-1.03% | ES range 7,532.75–7,551.25
+- **PCE April (RELEASED 7:30 AM CT):** Core PCE 2.8% YoY (vs 2.7% est; prior 2.6%) → **SLIGHTLY HOT**. Core PCE MoM +0.4% (vs +0.29% prior) → acceleration. Energy-driven. Fed rate hike pricing for late 2026 increasing. Bond yields spiking. **NOT soft PCE** — the bearish scenario vs our pre-planned bull case. Headwind for FTD.
+- **MRVL AH earnings (May 27):** Q1 FY2027: Rev $2.418B record (+28% YoY) vs $2.40B est ✅; EPS $0.80 vs $0.75 est ✅; Q2 guide $2.7B (+35% YoY) ✅. Stock reaction: **-7.3% AH (~$204 vs ~$220 session close) = sell-the-news** ⚠️. Beat on all metrics but market pricing in perfection. Semis/AI drag expected at open.
+- **CRM AH earnings (May 27):** EPS $3.88 vs $3.12 est ✅ (+24%); Rev $11.13B vs $11.05B est ✅. FY27 guidance slightly below expectations ($45.9-46.2B). Stock: **flat AH**. Neutral.
+- **FTD Day 7 probability: LOW (~15-20%)**. Starting ES +0.29% (far below +1.25% threshold). PCE hot (headwind). MRVL -7.3% AH (semis drag). Dist day #6 risk if session closes ≤-0.2% on volume.
+- **AVGO: ⛔ BLACKOUT CONFIRMED TODAY** (June 3 earnings = 4 trading days). No action — already bench-only.
+- **GOOGL:** ~$383.79 pre-market (-0.27%; GOOG). Range May 27: $384.90-$393.88. ~5.0-5.5% below $404 pivot. Moved away from pivot. Base wk 9 forming. 🟡 WATCHING unchanged.
+- **New Home Sales April:** Releases today 10 AM ET — check at /market-check.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 63 BLOCKED
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM) | P&L: $0
+- **Actions: NONE**
+- **Close watchpoints:** FTD if S&P ≥7,614 on above-avg vol → 🟢 state flip. Dist day #6 if S&P ≤-0.2% on above-avg vol → 🔴 Correction. **After Day 7 without FTD: FTD window closes; state stays Under Pressure; rally attempt survives if SPY stays >$733.39.**
 
 **✅ MAY 27 EOD (/eod-review 3:15 PM CT — FTD DAY 6 NOT CONFIRMED):**
 - **S&P 500:** 7,520.36 (+0.02% from 7,519.13 May 26 close) | Nasdaq: 26,674.73 (+0.07%) | Dow: 50,644.28 (+0.36%, NEW RECORD) | `research_source: websearch_fallback` | **Alpaca blocked Day 62**

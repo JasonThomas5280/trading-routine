@@ -1979,3 +1979,19 @@ Tomorrow (May 28 — FTD Day 7 LAST CHANCE):
   • MRVL + CRM AH tonight → overnight gap fuel if beats
   • FTD threshold: S&P 7,614 / SPY ~$760 on above-avg volume
   • Watching: GOOGL (base wk 9, $404 pivot, 3.7% away) if FTD confirms + Alpaca restores
+
+---
+## 2026-05-28 11:13 CT [clickup-placeholder]
+
+Pre-market 2026-05-28 FTD DAY 7 FINAL CHANCE
+Market: Under Pressure (5/25 dist days) | ES futures +0.29% (~7,542) NQ +0.67-1.03%
+Open positions: 0 | Circuit breakers: NONE | Alpaca: Day 63 blocked
+PCE April (RELEASED 7:30 AM CT): Core 2.8% YoY / +0.4% MoM SLIGHTLY HOT vs 2.7% est. Rate hike pricing late 2026. Bond yields spiking. FTD headwind.
+MRVL AH: beat EPS 0.80/Rev 2.418B record/Q2 guide +35% BUT -7.3% AH sell-the-news. Semis drag at open.
+CRM AH: EPS 3.88 big beat / Rev 11.13B beat / FY27 guide slightly light. Flat AH. Neutral.
+AVGO: EARNINGS BLACKOUT STARTS TODAY (June 3 = 4 trading days)
+Watchlist ready: NONE (GOOGL ~5% below 404 pivot - away from entry zone)
+Watchlist watching: GOOGL ~383.79 pre-mkt / 404 pivot / base wk 9
+FTD Day 7 threshold: S&P 7614. ES 7542 needs +72pts (+0.96%). LOW probability 15-20%.
+Dist day 6 risk: MODERATE-ELEVATED 30-35%. Hot PCE + MRVL drag = downside risk.
+Plan: NO entries. Watch close: S&P >=7614 on vol = FTD confirmed (state flip green); S&P <=-0.2% on vol = dist day 6 (Correction). FTD window closes after today regardless. New Home Sales April 10 AM ET.
