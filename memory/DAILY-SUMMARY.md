@@ -1995,3 +1995,18 @@ Watchlist watching: GOOGL ~383.79 pre-mkt / 404 pivot / base wk 9
 FTD Day 7 threshold: S&P 7614. ES 7542 needs +72pts (+0.96%). LOW probability 15-20%.
 Dist day 6 risk: MODERATE-ELEVATED 30-35%. Hot PCE + MRVL drag = downside risk.
 Plan: NO entries. Watch close: S&P >=7614 on vol = FTD confirmed (state flip green); S&P <=-0.2% on vol = dist day 6 (Correction). FTD window closes after today regardless. New Home Sales April 10 AM ET.
+
+---
+## 2026-05-28 10:00 CT [market-check — FTD DAY 7 FINAL CHANCE]
+
+📈 Market-check 2026-05-28 10:00 AM CT
+Market: 🟡 Uptrend Under Pressure (5/25 dist days) | Circuit breakers: NONE
+FTD Day 7: NOT CONFIRMED — S&P ~7,503 (−0.23%); threshold 7,614; gap ~111 pts. FTD window CLOSES after today.
+⚠️ DIST DAY #6 RISK ELEVATED: −0.23% > −0.20% threshold ✅ + hot PCE + New Home Sales miss (622K vs 665K) = likely elevated volume. /eod-review must confirm.
+Actions taken: No new entries — abort gates active (Under Pressure + Alpaca Day 63 blocked)
+Watchlist status: 0 ready 🟢 | GOOGL 🟡 WATCHING (~$381-384 est.; ~5% below $404 pivot; base wk 9) | VRT 🟡 BENCH (65/100) | NVDA 🟡 BENCH (~68/100) | AVGO ⛔ BLACKOUT
+Open positions: 0 (0% deployed)
+Weekly trade count: 0 of 3 used
+Alpaca: Day 63 blocked (403) — HIGHEST PRIORITY on restore: SH hedge $625
+Close watchpoints: Dist day #6 confirmed → 🔴 Correction state change at /eod-review | S&P must hold above ~7,505 to avoid dist day trigger; SPY must hold above $733.39 to preserve rally attempt
+Next check: /eod-review 3:15 PM CT

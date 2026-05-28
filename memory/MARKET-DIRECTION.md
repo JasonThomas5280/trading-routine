@@ -8,19 +8,37 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-28 (Thu) — `/pre-market` 6:00 AM CT — **FTD DAY 7 PRE-MARKET: LOW PROBABILITY**
+**Last updated:** 2026-05-28 (Thu) — `/market-check` 10:00 AM CT — **FTD DAY 7 NOT CONFIRMED — WINDOW CLOSES TODAY**
 **STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 63 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | **FTD Day 7 FINAL CHANCE — LOW probability (~15-20%)** | Dist day #6 risk MODERATE-ELEVATED (~30-35%) if session closes ≤−0.2% on volume
-**SPY:** est. ~$751.72 (S&P 7,520.36 May 27 close) | 50d MA: **$689** | 200d MA: **$676**
-**QQQ:** est. ~$730.28 | 50d SMA: **$638** | 200d SMA: **$618**
-**Rally attempt: Day 7 (Day 1 = May 19, SPY low $733.39). ES pre-market ~7,542 (+0.29%) >> Day 1 low. INTACT.**
-**FTD threshold: S&P 7,614 / SPY ~$760.10 on above-avg volume. ES currently ~7,542 — needs +72 pts (+0.96%) additional gain to close FTD.**
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | **⚠️ DIST DAY #6 RISK ELEVATED** — S&P −0.23% intraday (>−0.20% ✅); hot PCE + New Home Sales miss = likely elevated volume; /eod-review MUST confirm
+**SPY:** est. ~$750.18 (S&P ~7,503 May 28 intraday) | 50d MA: **$689** | 200d MA: **$676**
+**QQQ:** est. ~$728 est. | 50d SMA: **$638** | 200d SMA: **$618**
+**Rally attempt: Day 7 — FTD window CLOSES after today's close.** S&P 7,503 >> Day 1 low ~$733.39 SPY. Rally attempt SURVIVES if SPY holds above $733.39 at close.
+**FTD threshold: S&P 7,614 / SPY ~$760.10 on above-avg volume. Current S&P ~7,503 — gap ~111 pts (-1.47% below threshold). FTD IMPOSSIBLE today (market down).**
 **PCE April (7:30 AM CT): Core PCE 2.8% YoY (+0.4% MoM) — SLIGHTLY HOT (vs 2.7% est; above Fed 2% target; rate hike pricing for late 2026)**
+**New Home Sales April (10 AM ET): 622K vs 665K estimate → MISS −6.2% vs March, −11.3% YoY. South −9.8%, Midwest −25%. Bearish consumer/housing demand signal. Adding to dist day pressure.**
 **MRVL AH: beat ($0.80/$2.418B record) BUT stock -7.3% AH (~$204 vs ~$220 session) = sell-the-news. Semis drag on open.**
-**CRM AH: EPS $3.88 beat, rev $11.13B beat — FY27 guide slightly light — stock flat AH. Neutral.**
-**AVGO: ⛔ EARNINGS BLACKOUT STARTS TODAY** (June 3 earnings = 4 trading days). Already bench-only → BLACKOUT confirmed.
+**AVGO: ⛔ EARNINGS BLACKOUT ACTIVE** (June 3 earnings = 4 trading days). Bench-only.
 **Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 63**
-**Key risk today: If S&P closes ≤−0.2% on above-avg vol → dist day #6 → 🔴 Correction. After-window: If no FTD by close → FTD window CLOSES; state remains Under Pressure; rally attempt lives if SPY stays above $733.39.**
+**Close watchpoints: If S&P closes ≤−0.2% on above-avg vol → ⚠️ dist day #6 → 🔴 Correction state change at /eod-review. If S&P reverses to flat/up by close → state stays 🟡 Under Pressure. Rally attempt survives either way if SPY > $733.39.**
+
+**✅ MAY 28 INTRADAY (/market-check 10:00 AM CT — FTD DAY 7 FINAL CHANCE — NOT CONFIRMED):**
+- **S&P 500:** ~7,503 (−0.23% from 7,520.36 May 27 close) | Nasdaq est. −0.3-0.5% | `research_source: websearch_fallback` | **Alpaca blocked Day 63**
+- **FTD Day 7: NOT CONFIRMED.** S&P 7,503 vs threshold 7,614 → gap **~111 pts** (−1.47% below threshold). Market DOWN — FTD mathematically impossible today. **FTD window CLOSES after today's close.**
+- **After window close:** FTD opportunity expires. State remains 🟡 Under Pressure. Rally attempt (Day 1 = May 19, SPY low $733.39) survives if SPY closes above $733.39. No reset required unless Day 1 low undercut.
+- **⚠️ DISTRIBUTION DAY #6 RISK:** Magnitude: S&P −0.23% > −0.20% threshold ✅. Volume: unconfirmed (Alpaca blocked Day 63). Catalysts for elevated volume today: hot PCE (core 2.8% vs 2.7% est) + New Home Sales miss (622K vs 665K est = −6.2%) + MRVL sell-the-news drag → **HIGH PROBABILITY of above-avg volume**. May 27 volume was 40.24M (already below avg 47.82M) — any macro data day typically exceeds holiday-week Tuesday. `volume_confirmed: estimated_elevated` | **If dist day #6 confirmed at /eod-review → 🔴 STATE CHANGE TO MARKET IN CORRECTION.**
+- **New Home Sales April (10 AM ET):** 622,000 vs 665,000 estimate → **MISS −6.2%** (vs 663,000 March; −11.3% YoY). South −9.8%, Midwest −25%, West only region up (+18.7%). Median price $422,500 (+8% vs March = affordability headwind). 9.4 months supply. **Bearish housing/consumer demand signal — adds to dist day pressure.**
+- **PCE April (7:30 AM CT):** Core PCE 2.8% YoY (vs 2.7% est; prior 2.6%) → hot. Core MoM +0.4% (vs +0.29% prior) → acceleration. Rate hike late 2026 probability rising. Bond yields spiking. Not FTD fuel.
+- **GOOGL:** est. ~$381-384 (pre-mkt ~$383.79; market down -0.23% additional = est. ~$381-384). ~5-5.5% below $404 pivot. Base wk 9 forming. 🟡 WATCHING unchanged.
+- **VRT:** no live data (Alpaca blocked). est. ~$324-330. Score 65/100. 🟡 BENCH unchanged.
+- **NVDA:** no live data (Alpaca blocked). est. ~$211-215. Score ~68/100. 🟡 BENCH unchanged.
+- **AVGO:** ⛔ BLACKOUT. No action.
+- **Abort gates:** 🟡 Under Pressure → ALL LONG ENTRIES BLOCKED ✅ | Alpaca Day 63 → no execution possible ✅
+- **Bench promotion check:** No symbol within 2% of defined pivot. No promotions. No demotions.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 63 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+- **Actions: NONE**
+- **Close watchpoints:** Dist day #6 if S&P closes ≤−0.2% on above-avg vol → 🔴 Correction state change at /eod-review. If reversal to flat/up: state stays 🟡 Under Pressure; FTD window simply closes. Rally attempt survives either way if SPY > $733.39.
 
 **✅ MAY 28 PRE-MARKET (/pre-market 6:00 AM CT — FTD DAY 7 FINAL CHANCE):**
 - **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days). NO new long entries until FTD confirmed.
