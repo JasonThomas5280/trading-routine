@@ -700,3 +700,132 @@ Status: **NEW — pending Jason approval.**
   - **Iran deal:** If finalized over Memorial Day → gap-up open May 26 = potential FTD Day 5.
 - **Current book status:** 0 positions, 100% cash ($2,500.00), 0% deployed, 3/3 weekly trade slots available (0 longs until FTD; 1 hedge slot available post-Alpaca restore).
 - **Emotional state check:** DISCIPLINED. Six consecutive 0-trade weeks. Watching the S&P gain 8 straight weeks while holding $0 participation is uncomfortable — but the infrastructure failure (Day 53) is the dominant constraint, not the rubric. Capital at $2,500 HWM. The preparation is complete. The waiting is the work. When Alpaca restores AND FTD confirms AND GOOGL breaks $403–405 on volume: we enter without hesitation.
+
+---
+
+## Week ending 2026-05-29 (Fri)
+
+> **Context:** Week 7 of live operation. Alpaca API blocked Day 58–67 (all 5 sessions — now 67 consecutive days / ~14 weeks, still no resolution). Perplexity + Alpha Vantage blocked same IP allowlist issue. All research via WebSearch fallback — 7th consecutive week of full fallback mode. Zero trades executed. Market: 🟡 Uptrend Under Pressure (5/25 dist days) unchanged all week. Short week — Monday May 26 = Memorial Day. FTD window expired: Days 5–7 (May 26, 27, 28) all failed to confirm. S&P made 9th consecutive weekly gain (+1.43%) and 7th consecutive daily winning session (May 29 ATH 7,580.06). Late FTD not triggered May 29 (+0.22% < +1.25% threshold). DELL Q1 FY2027 mega-beat (AI servers +757% YoY) confirmed AI capex cycle but VRT closed -0.62% on the news (relative weakness signal). PCE data correction: Core PCE actual 3.3% YoY (initial /pre-market stated 2.8% — corrected via CNBC cross-check). SH/SQQQ hedge queued Day 8 — still blocked by Alpaca.
+
+### Performance
+
+- Starting equity: $2,500.00 (Tue May 26 open — short week, Memorial Day Mon)
+- Ending equity: $2,500.00 (Fri May 29 close — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 May 22 close 7,473.47 → May 29 close 7,580.06 = **+1.43%** → **−1.43% alpha**)
+- Dow +1.22% | Nasdaq +1.24% | Russell 2000: est. +1.5%
+- Trades taken: **0** (max 3/week, used 0 — **seventh consecutive 0-trade week**)
+- Winners: 0 (avg N/A) | Losers: 0 (avg N/A) | Winner:loser ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Cumulative alpha drag since inception (7 weeks): approx. −3.93% vs SPY**
+- **Root causes of zero trades:**
+  1. Alpaca API 403 "Host not in allowlist" — Day 58–67 (all 4 sessions). Execution hard-halted per TRADING-STRATEGY.md.
+  2. Market state: 🟡 Uptrend Under Pressure (5/25 dist days) all week — NO new long entries permitted.
+  3. FTD window expired without confirmation (Days 5–7: May 26–28 all fell short of +1.25% threshold).
+  4. GOOGL (77/100 — only conviction-passing name): 3.3–3.5% below $404 pivot at week-end; base wk 11 intact but drift lower adding distance.
+  5. Memorial Day Monday — 4-session trading week.
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any -7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries during market "Under Pressure"? **NO** — gates correctly honored all 4 sessions
+- Any entries on Alpaca-blocked sessions? **NO** — rule honored (7th consecutive week)
+- Any conviction-score workarounds? **NO** — no entries attempted
+- FTD confirmation gate: correctly held (no state upgrade without confirmed +1.25%+ on above-avg vol)
+- Circuit breakers triggered? **NONE** (daily -3%, weekly -6%, drawdown -12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(seventh consecutive trivially-perfect score — no trades = no violations. Score remains structurally uninformative. Key behavioral note: no "late FTD exception" rationalization attempted on May 29's +0.22% despite ATH close — correct.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🟡 Uptrend Under Pressure** (5/25 dist days)
+- M state at week end: **🟡 Uptrend Under Pressure** (5/25 dist days — no change)
+
+| Date | S&P Close | Change | Dist Day? | FTD Check | Running Count |
+|---|---|---|---|---|---|
+| May 26 (Tue) | 7,519.13 | +0.61% | NO (UP) | Day 5: 7,519 vs 7,566.74 threshold — gap 47.6 pts. NOT confirmed. | 5/25 |
+| May 27 (Wed) | 7,520.36 | +0.02% | NO (UP) | Day 6: 7,520 vs 7,613 threshold — gap 92.6 pts AND vol 40.24M < 47.82M avg. DUAL FAIL. | 5/25 |
+| May 28 (Thu) | 7,563.63 | +0.58% | NO (UP) | Day 7: 7,563 vs 7,614 threshold — gap 50.4 pts. NOT confirmed. **FTD WINDOW EXPIRED.** | 5/25 |
+| May 29 (Fri) | 7,580.06 | +0.22% | NO (UP) | Post-window: 7,580 vs 7,658.67 late-FTD threshold — gap 78.6 pts. NOT a late FTD. | 5/25 |
+
+- Any missed distribution days? **None** — all 4 sessions were UP days.
+- FTD window management: **CLEAN** — correctly tracked all three window days, correctly noted expiry, correctly evaluated post-window late-FTD threshold on May 29.
+- Data quality note: PCE correction caught (Core PCE 3.3% YoY, not 2.8% as stated in initial /pre-market May 29 entry). Corrected via CNBC cross-check within same session. No state or watchlist decisions were made on the incorrect figure.
+- APR 28 dist day note: Day 21 of 25-session window on May 29. Expires Jun 2-3 → **dist count drops to 4/25** — first natural relief this cycle. No action yet; confirmed at next /pre-market.
+- Accuracy verdict: **CLEAN** — all M calls correct for 7th consecutive week. Rally attempt (Day 1 = May 19, SPY low $733.39) remains intact (SPY >> $733.39 every session).
+
+### Sector Performance
+
+- Sectors traded: **NONE** (no trades)
+- Sector RS rankings (4-week trailing, unchanged from /weekly-prep May 24):
+  1. **XLI Industrials** — #1, maintained. DELL AI servers +757% YoY confirms AI power/cooling capex cycle. VRT thesis intact despite VRT price relative weakness.
+  2. **XLC Communication Services** — #2, maintained. GOOGL -~$11 on May 29 (relative weakness vs +0.22% market) — watching.
+  3. **XLE Energy** — #3, maintained. Iran deal not signed (JD Vance "not there yet") — no catalysts.
+  4. **XLK Technology** — blackout maintained. MRVL -7.3% AH May 27 (sell-the-news despite beat) = semis perfection-pricing pattern.
+- **Notable sector event:** DELL +40% pre-market May 29 (Q1 FY2027: Rev +88% YoY, AI servers $16.1B +757% YoY) = strongest AI capex confirmation cycle. VRT faded -0.62% on that news. XLI thesis confirmed by earnings; individual names showing distribution-into-good-news behavior.
+- Sectors to blacklist: **None** (no 2-consecutive-fail trade history — still zero trades taken)
+- Sectors for next week: XLI (VRT proxy catalyst failure watch), XLC (GOOGL base integrity check June 2)
+
+### Conviction Correlation
+
+- Trades ≥85: 0 — N/A | Trades 75–85: 0 — N/A | Sub-threshold: 0 correctly blocked
+- **GOOGL 77/100** — 7th consecutive week as only conviction-passing name. Gates blocking: Under Pressure (M), Alpaca blocked (execution), 3.3% below pivot (price gate). All gates functioning.
+- **VRT 65/100** — held at bench correctly. GAAP A-letter data still unconfirmed. DELL beat confirmed thesis directionally but score didn't change (VRT relative price weakness is a new caution signal).
+- **NVDA ~68/100** — XLK blackout + no base + below threshold = no action. Correct.
+- **AVBO: ⛔ BLACKOUT** — June 3 earnings, 4 trading days. No evaluation attempted. Correct.
+- Pattern: Score discrimination functioning for 7th consecutive week. No threshold pressure.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked Day 58–67; 7th consecutive 0-perplexity week)
+- Sessions on websearch_fallback: **~12** (4 trading days × 3 routines, plus Memorial Day entry)
+- Sessions DEGRADED: **0** (WebSearch consistently available)
+- Research source for trades placed: **N/A**
+- Data quality this week:
+  - **PCE correction** (Core PCE 3.3% not 2.8%): Initial /pre-market May 29 entry stated 2.8% YoY; /pre-market correction confirmed via CNBC as 3.3% YoY. Error caught same-session via secondary query. No decisions contaminated.
+  - **FTD data accuracy**: All four sessions' S&P close estimates were within ±0.3% of later confirmed values based on cross-checks. No dist day misclassification this week (all UP days = margin irrelevant).
+  - **DELL/VRT reaction tracking**: WebSearch accurately captured DELL +40% pre-market, VRT gap-up open then fade to -0.62%. Qualitative accuracy good for narrative catalysts.
+
+### Lessons
+
+**Lesson 1 — Strategy: VRT's failure to react to its best possible proxy catalyst is a distribution signal the standard scoring system doesn't capture.**
+DELL reported AI servers +757% YoY — the single strongest possible confirmation for VRT's AI cooling/power thesis. VRT opened up on the news then faded to close -0.62% vs market +0.22%. In CAN SLIM methodology, when a stock cannot rally on its best news, it means institutional sellers are using the strength to exit. This is precisely the behavior that precedes a longer decline. VRT sits -17.7% from its ATH and scored 65/100 pre-DELL (below threshold). The DELL beat doesn't change the score, but the price reaction to it is new negative information. Fix: Propose Proposal 11 (proxy catalyst reaction test) — if a sector proxy catalyst fires and the watchlist stock underperforms the market, apply -3pts to L-letter immediately.
+
+**Lesson 2 — Market: The S&P is making 9 consecutive weekly gains and 7 consecutive daily ATHs without ever producing the +1.25% power move O'Neil requires for FTD confirmation. This is grinding distribution-into-strength, not a clean uptrend.**
+Every FTD opportunity in the Days 4–7 window (May 22, 26, 27, 28) fell short. The market keeps moving to new ATHs but in +0.2% to +0.6% increments, not the power-move sessions that confirm institutional conviction. SNOW's historic $6B AWS deal on May 28 (largest ever) was the highest-quality single-stock catalyst of the week and only moved the S&P +0.58%. This is a "grinding without leadership" uptrend — technically not a Correction, not a full Confirmed Uptrend. The Under Pressure classification is precise. No change needed to the methodology.
+
+**Lesson 3 — Execution: At 67 consecutive blocked days (~14 weeks), the Alpaca API blockage is no longer a temporary infrastructure issue — it is a structural operating environment constraint that has cost approx. -3.93% alpha drag since inception.**
+The account exists, capital is intact at $2,500 HWM, and the strategy is working correctly — but it cannot execute. Every lesson from every week points back to this single root-cause. The corrective action (Jason contacts Alpaca support with account number, API key, base URL, and "403 Host not in allowlist" error) has been pending since Week 1. This is the highest-priority non-automated task in the system.
+
+### Proposed Rule Changes
+
+**Proposal 11 — NEW: Proxy catalyst reaction test for AI-infrastructure sector stocks.**
+When a primary OEM or hyperscaler reports results that directly confirm a watchlist stock's thesis (e.g., DELL AI servers for VRT, AWS capex for NVDA, hyperscaler spend for AVGO), record the watchlist stock's relative performance vs. SPY on that day:
+- Outperforms SPY: L-letter confirmed, +2pts next scoring
+- In-line (±0.3%): no change
+- Underperforms SPY by >0.3%: flag `⚠️ PROXY_CATALYST_WEAK_REACTION`, apply −3pts to L-letter
+- Two consecutive weak reactions: automatic 2-week bench demotion regardless of sector RS ranking
+Rationale: VRT −0.62% vs SPY +0.22% on DELL +757% AI servers is a distribution signal not captured by the static scoring rubric. The proxy test makes this measurable and mechanical.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–10 from prior weeks:** ALL still pending Jason approval. Most operationally urgent:
+- **Proposal 1** (API health check at /pre-market Step 0) — Day 67, 14 weeks overdue
+- **Proposal 5** (API-down escalation SLA) — Day 67
+- **Proposal 8** (manual execution backup protocol) — needed for any -7% stop on active positions once entries resume
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🟡 Uptrend Under Pressure (5/25 dist days). **KEY MILESTONE: APR 28 DIST DAY EXPIRES JUN 2-3 (Mon/Tue)** → dist count drops to 4/25 — first natural relief this cycle. Combined with any FTD power-move day → 🟢 Confirmed Uptrend upgrade path opens. NO new long entries until state upgrades. FTD: any session with S&P +1.25%+ on above-avg volume qualifies — no "window" constraint now that the rally attempt Days 4–7 window has expired. Next new FTD opportunity = any sufficiently powerful day OR a new rally attempt (SPY undercuts $733.39 Day 1 low → Day 1 resets).
+- **Sectors in focus:**
+  1. **XLC (GOOGL)** — Reassess June 2. Base wk 11 — longest flat base watch of the cycle. Is the handle forming or is the base failing? Distance 3.3–3.5% from $404 pivot on May 29 close. If GOOGL can't hold $390+ on market ATHs, reassess base validity.
+  2. **XLI (VRT)** — Proxy catalyst reaction signal logged. Score 65/100 (below threshold). DELL beat confirmed thesis but VRT price showed distribution. Watch for stabilization at current levels vs. continued drift lower.
+  3. **XLK (NVDA)** — blackout maintained (RRG lagging). Base timeline: est. Jun 10–Jul 3 for cup formation. Score ~68/100 with base, 78/100 without XLK sector discount.
+- **Calendar risks:**
+  - ⚠️ **AVGO earnings: June 3 (Tue)** — bench-only until week of June 9. No evaluation, no action. Post-earnings re-score: Will GAAP EPS YoY finally confirm ≥25%? Will XLK sector return to top-3?
+  - **APR 28 dist day expiry: Jun 2-3** — confirm at /eod-review that session; dist count goes to 4/25.
+  - **FOMC:** No meeting until June (date TBD based on FOMC calendar). Monitor for speaker comments on rate path given hot PCE (3.3% core).
+  - **Iran deal:** Not signed. JD Vance "not there yet, but very close." If signed → potential gap-up FTD catalyst.
+  - **Alpaca restore: HIGHEST PRIORITY.** Day 67 → if SH hedge + GOOGL entry cannot be placed, any FTD confirmation is purely observational.
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, **3/3 weekly trade slots available** (0 longs until FTD confirmed). SH hedge $625 queued — blocked by Alpaca Day 67.
+- **Emotional state check:** DISCIPLINED. Seven consecutive 0-trade weeks. The grinding ATH market without a power-move FTD day is a test of patience, not a test of willpower — the rules correctly say wait. Capital is intact at $2,500 HWM. The moment Alpaca restores AND an FTD fires AND GOOGL clears $404 on +40%+ volume, execution is immediate with zero hesitation. The waiting is not passive — it is active preparation to act decisively when conditions align.

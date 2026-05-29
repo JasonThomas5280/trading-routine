@@ -2087,3 +2087,61 @@ GOOGL: ~$379.09 (-2.8% vs mkt up; ~6.2% below $404 pivot — moving away from pi
 VRT: $312.24 (-0.62% despite DELL AI mega-beat — faded gap-up open)
 NVDA: $216.24 | AVGO: BLACKOUT (June 3 earnings)
 Next week: Jun 2 = APR 28 dist day expires (dist count 4/25); Jun 3 = AVGO earnings; Alpaca restore HIGHEST PRIORITY
+
+---
+## 2026-05-29 20:44 CT [clickup-placeholder]
+
+### Week ending 2026-05-29
+
+## Week ending 2026-05-29
+
+**Account:** $2,500.00 (HWM unchanged) | **Trades this week:** 0/3 | **Alpha:** −1.43% vs S&P +1.43%
+**Market:** 🟡 Uptrend Under Pressure (5/25 dist days) | **Alpaca:** Blocked Day 67 (14 weeks)
+
+---
+
+### Performance
+- Weekly return: 0.00% vs S&P +1.43% = **−1.43% alpha**
+- Cumulative alpha drag (7 weeks): ~−3.93%
+- Root cause: Alpaca Day 67 blocked + Under Pressure gates + FTD window expired
+
+### Rule Adherence — 100/100
+- No trades = no violations (7th consecutive perfect week)
+- FTD confirmation gate held correctly — no state upgrade without +1.25%+ on above-avg vol
+
+### Market Direction
+- Under Pressure (5/25) — UNCHANGED all week
+- FTD Days 5–7 (May 26–28): ALL failed to confirm
+  - Day 5: +0.61% vs +1.25% needed
+  - Day 6: +0.02%, volume 40.24M < 47.82M avg (dual failure)
+  - Day 7: +0.58% vs +1.25% needed; FTD WINDOW EXPIRED
+  - May 29 post-window: +0.22% — NOT a late FTD
+- 5/25 dist days: APR 28 expires Jun 2-3 → drops to 4/25
+
+### Sectors
+- XLI #1 (DELL AI servers +757% YoY = AI capex confirmed)
+- XLC #2 (GOOGL -$11 on +0.22% market day — relative weakness watch)
+- XLE #3 (Iran deal unsigned)
+- XLK: blackout maintained
+
+### Watchlist Status
+- GOOGL 77/100: 3.3-3.5% below $404 pivot; base wk 11 — reassess June 2
+- VRT 65/100 bench: DELL mega-beat confirmed thesis BUT VRT -0.62% on the news (distribution signal)
+- NVDA ~68/100 bench: XLK blackout; no base yet
+- AVBO: ⛔ BLACKOUT (June 3 earnings)
+
+### Lessons
+1. VRT -0.62% on DELL +757% AI servers = distribution-into-good-news; propose proxy catalyst reaction test (Proposal 11)
+2. S&P 9 straight weekly wins without a single +1.25% power-move day = grinding distribution-into-strength; Under Pressure classification is precise
+3. Day 67 Alpaca blockage = -3.93% cumulative alpha drag; human escalation to Alpaca support remains #1 non-automated task
+
+### Proposed Rule Changes
+- Proposal 11: Proxy catalyst reaction test for AI-infra sector stocks. Pending Jason approval.
+
+### Next Week (Jun 2-6)
+- APR 28 dist day expires Jun 2-3 → dist count 4/25 (Confirmed Uptrend upgrade path opens)
+- AVBO earnings June 3 — bench-only through Jun 9 week
+- Alpaca restore: HIGHEST PRIORITY (Day 67 → Day 71+ by Fri)
+- FTD: any session S&P +1.25%+ on above-avg vol = 🟢 Confirmed Uptrend — immediate GOOGL evaluation
+- GOOGL base integrity check June 2 — still valid or failed?
+- /weekly-prep Sunday May 31 for fresh watchlist rebuild

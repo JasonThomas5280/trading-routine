@@ -6,6 +6,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-05-26 to 2026-05-30 — rebuild via /weekly-prep on Sunday May 31
+
+> **Archived week of May 26–30. This watchlist is stale. /weekly-prep on Sunday must perform a full rebuild — not a refresh.**
+
 ## ACTIVE — Week of 2026-05-26 to 2026-05-30
 
 **Built:** 2026-05-24 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: 403 Day 54, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + cached prior-week fundamentals)
