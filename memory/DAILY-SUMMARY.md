@@ -2034,3 +2034,26 @@ Tomorrow (Fri May 29):
   • Alpaca restore = CRITICAL (no executions possible until resolved)
 
 `research_source: websearch_fallback` | Perplexity: ❌ | AV: ❌ | Alpaca: ❌ Day 64
+
+---
+## 2026-05-29 11:14 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-05-29 — END OF WEEK
+Market: 🟡 Under Pressure (5/25 dist days) | ES ~flat | FTD window: EXPIRED
+Open positions: 0 | Circuit breakers: NONE | Alpaca: ❌ Day 65 blocked
+Overnight gaps: none (0 positions)
+
+🔥 OVERNIGHT: DELL Q1 FY2027 MASSIVE BEAT — AI infrastructure signal
+• Rev 3.84B (+88% YoY) vs 5.45B est | AI servers 6.1B (+757% YoY)
+• EPS .86 vs .94 est | FY2027 guide: 65-169B (vs 44B cons)
+• DELL +40% pre-market → DIRECTLY bullish for VRT thesis
+• COST Q3 beat: sales +11.6%, comp +9.8% ✅ consumer health
+
+⚠️ PCE DATA CORRECTION: Core PCE actual 3.3% YoY (prior entry: 2.8%). Headline 3.8%. Market absorbed → ATH anyway.
+
+Watchlist ready: NONE (Under Pressure gate)
+Watching: GOOGL 🟡 90.13 close (~3.5% below 04 pivot; base wk 10-11)
+Watching: VRT 🟡 12.29 close (gapping pre-mkt on DELL; score 65/100; thesis ↑)
+Removed: NONE
+
+Plan: NO new entries (Under Pressure + Alpaca Day 65). Monitor for late FTD (S&P ≥7,658 on vol — low prob). Apr 28 dist day expires Jun 2-3 → dist relief pathway. /weekly-review 3:30 PM CT. Alpaca restore = HIGHEST PRIORITY (Day 65).

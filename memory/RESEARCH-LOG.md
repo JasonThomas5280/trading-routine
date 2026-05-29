@@ -145,6 +145,80 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-29 (Fri) — /pre-market (6:00 AM CT) — FTD WINDOW EXPIRED — END OF WEEK
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 65; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries
+**FTD status:** Window CLOSED (expired after Day 7 May 28). No FTD this rally attempt (Day 1 = May 19, SPY low $733.39).
+
+### Market overnight check
+
+| Indicator | Level | vs May 28 close (7,563.63) | Notes |
+|---|---|---|---|
+| ES futures (S&P Jun) | ~flat (+0.02%) | ~+1.5 pts | DELL +40% pre-mkt is company-specific; not lifting broad indices |
+| NQ futures (Nasdaq Jun) | ~flat (−0.04% to +0.07%) | NQ ~30,070 | Steady after ATH close |
+| DELL AH / pre-mkt | **+18% AH → +40% pre-mkt** | — | ⬇️ **MASSIVE AI infrastructure signal.** Q1 FY2027 rev $43.84B (+88% YoY) vs $35.45B est. EPS $4.86 vs $2.94 est. AI-Optimized Servers $16.1B (+757% YoY). FY2027 guide raised: $165-169B rev, $17.90 adj EPS. AI backlog $43B. **Directly bullish for VRT thesis.** |
+| COST AH | Strong beat | — | Net sales +11.6% to $69.15B, EPS $4.93 (vs ~$4.28 est), comp sales +9.8%. Membership renewal 89.7%. ✅ POSITIVE consumer health signal. |
+| PCE April 2026 (May 28 release) | Headline +3.8% YoY, Core +3.3% YoY | — | ⚠️ **DATA CORRECTION**: prior pre-market entry (May 28) cited Core 2.8% YoY — actual CNBC-confirmed figure is **3.3% YoY** (highest since Nov 2023). Headline 3.8% highest since May 2023. Core MoM +0.2%, headline MoM +0.4% (slightly softer than 0.5% est). Market absorbed this and closed at NEW ATH anyway (SNOW catalyst + Iran ceasefire). |
+| GOOGL (GOOG class C) | $390.13 close May 28 | +0.33% on May 28 | ~3.5% below $404 pivot. 65 analysts Strong Buy, avg PT $429.12. Data center announcement. No new negative overnight. Base wk 10-11. |
+| VRT | $312.29 close May 28 | −2.34% May 28 | Range May 28: $307.30-$320.50. Pre-market gapping UP on DELL results. DELL-VRT confirmed AI infrastructure pair (DELL servers → VRT cooling/power). |
+| NVDA | $212.58 close May 28 | — | Vol 63.54M vs 171.11M avg (37% — very thin). XLK blackout. |
+| AVGO | ⛔ BLACKOUT | — | June 3 earnings = 3 trading days. Next re-score: week of June 9. |
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**0 open positions — SKIPPED.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Overnight catalyst | Thesis impact | Status change? |
+|---|---|---|---|
+| GOOGL | $390.13 close (+0.33%). No new negatives overnight. 65 analysts Strong Buy avg PT $429.12. Data center announcement (N-letter positive). | No change. ~3.5% below pivot. Flat base wk 10-11 intact. | NO CHANGE — 🟡 WATCHING |
+| VRT | Pre-market gapping UP significantly on DELL's $16.1B AI server quarter (+757% YoY). DELL+VRT confirmed as AI infrastructure pair. VRT backlog >$15B = 12-18 months forward revenue. | **THESIS ACCELERATING.** Score still 65/100 (Alpaca/AV blocked). Entry requires score gate + valid base + FTD. | NO SCORE CHANGE — 🟡 BENCH (thesis ↑) |
+| NVDA | $212.58 close. 37% of avg volume — thin consolidation. No news. | No change. XLK blackout maintained. | NO CHANGE — 🟡 BENCH |
+| AVGO | ⛔ BLACKOUT (June 3 earnings). | No action. | NO CHANGE — ⛔ BLACKOUT |
+
+### Buy-zone readiness
+
+| Symbol | Price (May 28 close) | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | $390.13 | ~$404 | −3.5% | 🟡 WATCHING — flat base wk 10-11, approaching valid entry zone |
+| VRT | $312.29 | TBD (no base) | N/A | 🟡 BENCH — gapping pre-mkt; score gate blocks entry |
+| NVDA | $212.58 | TBD | N/A | 🟡 BENCH — XLK blackout + no base |
+| AVGO | ⛔ BLACKOUT | — | — | ⛔ June 3 earnings |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 65 — HALT ALL ENTRIES |
+
+**No circuit breakers active.** SH hedge $625 queued — FIRST ORDER on Alpaca restore.
+
+### Key watchpoints today (May 29 — Friday)
+
+- **Late FTD scenario:** If S&P gains +1.25%+ on above-avg volume today → "late follow-through" (less reliable per IBD). DELL strength not lifting ES → probability LOW (~15%).
+- **No dist day risk** (ES flat pre-market → can't be a dist day at open).
+- **Apr 28 dist day expires ~Jun 2-3:** If no new dist days through today, dist count drops to 4/25 on Monday. Required for eventual Confirmed Uptrend upgrade (plus FTD needed).
+- **/weekly-review fires 3:30 PM CT today.**
+
+### Entry plan
+
+- **NO ENTRIES.** Under Pressure gate + Alpaca Day 65 both blocked.
+- **FIRST ORDER on Alpaca restore:** Buy SH ~$625 / 25% portfolio.
+
+`research_source: websearch_fallback`
+
+---
+
 ## 2026-05-27 (Wed) — /pre-market (6:00 AM CT) — FTD DAY 6
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 61; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)

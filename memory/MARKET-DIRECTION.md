@@ -8,16 +8,35 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-28 (Thu) — `/eod-review` 3:15 PM CT — **FTD WINDOW CLOSED — NO FTD THIS CYCLE — MARKET REVERSED TO NEW ATH**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 64 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | NO new dist day today (UP day +0.58%) | Apr 28 expires ~Jun 2-3 (next natural relief)
-**SPY:** est. ~$754.78 (S&P 7,563.63 close — new ATH) | 50d MA: **$689** | 200d MA: **$676**
+**Last updated:** 2026-05-29 (Fri) — `/pre-market` 6:00 AM CT — **FTD WINDOW EXPIRED — END OF WEEK — DELL +40% PRE-MKT (AI INFRASTRUCTURE MEGA-SIGNAL)**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 65 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | Apr 28 expires ~Jun 2-3 → first natural relief (dist count drops to 4/25)
+**SPY:** est. ~$754.78 (S&P 7,563.63 May 28 ATH close) | 50d MA: **$689** | 200d MA: **$676**
 **QQQ:** est. ~$736 | 50d SMA: **$638** | 200d SMA: **$618**
-**Rally attempt: FTD window CLOSED (Day 7 passed, +0.58% < +1.25% threshold). Rally attempt technically INTACT — SPY est. ~$754.78 >> Day 1 low $733.39. No reset until Day 1 low undercut. Next FTD requires new power-move session or fresh rally attempt cycle.**
-**FTD: NOT CONFIRMED. S&P 7,563.63 < threshold 7,614. Gain +0.58% < +1.25% required. Window officially expired.**
-**Catalyst: SNOW +36.7% ($6B AWS deal + Q1 beat — best day ever). Iran ceasefire extended 60 days (oil relief). Market reversed intraday losses to new ATH.**
-**AVGO: ⛔ EARNINGS BLACKOUT ACTIVE** (June 3 earnings — 4 trading days). Bench-only.
-**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 64**
+**Rally attempt: FTD window EXPIRED after Day 7 (May 28). Rally attempt INTACT — SPY >> $733.39 Day 1 low. Late FTD today possible but low probability (~15%). No state upgrade until FTD confirmed.**
+**FTD: NOT CONFIRMED this cycle. Next opportunity: late FTD today on big S&P move + above-avg vol (less reliable), OR new rally attempt after $733.39 Day 1 low undercut.**
+**⚠️ PCE DATA CORRECTION: Prior entry (May 28 pre-market) cited Core PCE 2.8% YoY. CNBC-confirmed actual: Core PCE 3.3% YoY (highest since Nov 2023). Headline +3.8% YoY. Market still closed at ATH (SNOW/Iran ceasefire overwhelmed PCE). Inflation narrative is more hawkish than prior entry reflected.**
+**AVGO: ⛔ EARNINGS BLACKOUT ACTIVE** (June 3 earnings — 3 trading days: May 29, Jun 2, Jun 3). Bench-only.
+**DELL Q1 FY2027 AH BEAT:** Rev +88% YoY, AI servers +757% YoY, +40% pre-mkt. Massive AI infra signal → bullish for VRT thesis.
+**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 65**
+
+**✅ MAY 29 PRE-MARKET (/pre-market 6:00 AM CT — FTD WINDOW EXPIRED — END OF WEEK):**
+- **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days). NO new long entries.
+- **Alpaca: Day 65 blocked** (403). Perplexity: 403. AV: 403. `research_source: websearch_fallback`
+- **ES futures: ~flat (+0.02%)** | NQ: ~flat (-0.04% to +0.07%) | NQ ~30,070. DELL +40% pre-mkt is company-specific; not lifting broad futures.
+- **DELL Q1 FY2027 MASSIVE BEAT (AH May 28):** Rev $43.84B (+88% YoY) vs $35.45B est. EPS $4.86 vs $2.94 est. AI-Optimized Servers $16.1B (+757% YoY). FY2027 guide raised to $165-169B rev, $17.90 adj EPS. AI backlog $43B. DELL +18% AH → **+40% pre-market**. **⬇️ DIRECTLY bullish for VRT thesis (DELL servers → VRT cooling/power). Confirms AI capex cycle accelerating.**
+- **COST Q3 FY2026 AH beat:** Net sales +11.6% to $69.15B, EPS $4.93, comp sales +9.8%, renewal 89.7%. ✅ Positive consumer signal.
+- **⚠️ PCE DATA CORRECTION:** Core PCE actual 3.3% YoY (not 2.8% as prior entry stated). Headline 3.8% YoY. Core MoM +0.2% (softer than feared). Market absorbed and made ATH anyway. Rate hike narrative building for late 2026.
+- **GOOGL:** $390.13 close May 28 (+0.33%). ~3.5% below $404 pivot. Base wk 10-11. 65 analysts Strong Buy, avg PT $429.12. No new negatives. 🟡 WATCHING unchanged.
+- **VRT:** $312.29 close May 28 (−17.7% from ATH $379.94). Pre-market gapping UP on DELL results. Score 65/100 unchanged (Alpaca/AV blocked). 🟡 BENCH (thesis ↑). DELL = VRT order pipeline confirmation.
+- **NVDA:** $212.58 close. Vol 37% avg. XLK blackout. 🟡 BENCH unchanged.
+- **AVGO:** ⛔ BLACKOUT (June 3 earnings — 3 trading days).
+- **Late FTD scenario:** S&P ≥7,658 (7,563.63 × 1.0125) on above-avg vol today = late follow-through. Probability LOW (~15%) — ES flat. Note at /eod-review if triggered.
+- **Apr 28 dist day expires Jun 2-3:** After expiry, dist count 4/25. Combined with an FTD = Confirmed Uptrend upgrade path.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 65 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+- **Actions: NONE**
+- **/weekly-review fires 3:30 PM CT today.** End-of-week postmortem.
 
 **✅ MAY 28 EOD (/eod-review 3:15 PM CT — FTD DAY 7 WINDOW CLOSED — MARKET REVERSED TO NEW ATH):**
 - **S&P 500:** 7,563.63 (+0.58% from 7,520.36 May 27 close) — **NEW RECORD HIGH** | Nasdaq: 26,917.47 (+0.91%) — **NEW RECORD HIGH** | Dow: 50,668.97 (+0.05%) | `research_source: websearch_fallback` | **Alpaca blocked Day 64**
