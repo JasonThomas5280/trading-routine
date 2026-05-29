@@ -6907,3 +6907,82 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 **P&L today:** $0.00 (0.00%)
 **P&L week:** $0.00 (0.00%)
 **Equity:** $2,500.00 (HWM)
+
+---
+
+## 2026-05-29 (Fri) — /eod-review (3:15 PM CT) — 9th Winning Week — Under Pressure Unchanged
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 67; Perplexity: 403; Alpha Vantage: 403.)
+**Market direction:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries
+
+### Close data
+
+| Instrument | Close | Change | Notes |
+|---|---|---|---|
+| S&P 500 | 7,580.06 | +0.22% | **NEW ALL-TIME HIGH** — 7th straight winning day |
+| Nasdaq Composite | 26,972.62 | +0.20% | **NEW ALL-TIME HIGH** |
+| Dow Jones | 51,032.46 | +0.72% | **NEW ALL-TIME HIGH** |
+| SPY | ~$756.44 | +0.22% | Computed from S&P ratio vs May 28 ~$754.78 |
+| QQQ | ~$737 | +0.20% | Nasdaq Composite proxy; Alpaca blocked |
+| GOOGL (GOOG class C) | ~$379.09 | ~−2.8% vs May 28 | High $383.85 / Low $376.59; underperforming market |
+| VRT | $312.24 | −0.62% | Prev $314.18; range $308–$319.58; faded DELL gap-up |
+| NVDA | $216.24 | est. flat/+0.1% | High $217.42 / Low $212.81 |
+
+### Distribution day analysis (May 29)
+
+- UP day (+0.22%) → **CANNOT be a distribution day.** No new distribution day.
+- Dist count: **5/25 UNCHANGED** (Apr 28, May 4, May 7, May 15, May 19)
+- Market state: **🟡 Uptrend Under Pressure — NO CHANGE**
+
+### Late FTD check (post-Day 7 window)
+
+| Metric | Value |
+|---|---|
+| Threshold (from May 28 close) | 7,563.63 × 1.0125 = **7,658.67** |
+| Actual close | 7,580.06 (+0.22%) |
+| Gap | **78.61 pts short — NOT CONFIRMED** |
+| FTD window | **EXPIRED** after May 28 Day 7 |
+| State change | NONE |
+
+### Sell-rules-engine
+
+**SKIPPED — 0 open positions.**
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 P&L — CLEAR |
+| Drawdown −12% HWM | $0 drawdown — CLEAR |
+| PDT 3/3 | 0 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 67 |
+| **ALL CIRCUIT BREAKERS** | **CLEAR** |
+
+### Watchlist EOD status
+
+| Symbol | Close | Pivot | Distance | Status |
+|---|---|---|---|---|
+| GOOGL | ~$379.09 (GOOG class C) | ~$404 | ~6.2% below | 🟡 WATCHING — moved AWAY from pivot; base weakening; reassess Jun 2 |
+| VRT | $312.24 | TBD | N/A | 🟡 BENCH — score 65/100; DELL thesis confirmed but VRT faded -0.62% despite AI catalyst |
+| NVDA | $216.24 | TBD | N/A | 🟡 BENCH — post-earnings consolidation; no valid base |
+| AVGO | ⛔ BLACKOUT | June 3 earnings | 2 trading days | ⛔ No action until week of Jun 9 |
+
+### Weekly summary (May 26–29)
+
+- **S&P 500:** +1.4% for the week — **9th consecutive winning week** (longest run since late 2023)
+- **All major averages at new all-time highs** on week's close
+- **0 trades executed** (Alpaca blocked Day 67 + market Under Pressure)
+- **DELL Q1 FY2027 mega-beat** absorbed: Rev +88% YoY, AI servers +757% YoY — confirms AI capex supercycle; VRT thesis intact but stock showed relative weakness
+- **FTD window expired** without confirmation — state stays 🟡 Under Pressure until next power-move session or fresh rally attempt
+
+### EOD summary
+
+**Close:** SPY ~$756.44 (+0.22%) | QQQ ~$737 (+0.20%) | S&P 500: 7,580.06 (NEW ATH) | Nasdaq: 26,972.62 (NEW ATH) | Dow: 51,032.46 (NEW ATH)
+**Distribution days:** 5/25 (today: none — UP day +0.22%)
+**Market state:** 🟡 Uptrend Under Pressure (no change) | Late FTD: NOT triggered
+**Positions held:** 0
+**Actions today:** NONE | sell-rules-engine: SKIPPED (0 positions)
+**Circuit breakers:** none
+**P&L today:** $0.00 (0.00%) | **P&L week:** $0.00 (0.00%)
+**Equity:** $2,500.00 (HWM)

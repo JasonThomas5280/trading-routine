@@ -8,17 +8,33 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-29 (Fri) — `/market-check` 10:00 AM CT — **END OF WEEK — UNDER PRESSURE HOLDS — NO FTD — APR 28 DIST DAY EXPIRES JUN 2-3**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 66 blocked — HIGHEST PRIORITY on restore)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | Apr 28 expires ~Jun 2-3 → first natural relief (dist count drops to 4/25)
-**SPY:** est. ~$754.78 (S&P 7,563.63 May 28 ATH close) | 50d MA: **$689** | 200d MA: **$676**
-**QQQ:** est. ~$736 | 50d SMA: **$638** | 200d SMA: **$618**
-**Rally attempt: FTD window EXPIRED after Day 7 (May 28). Rally attempt INTACT — SPY >> $733.39 Day 1 low. Late FTD today possible but low probability (~15%). No state upgrade until FTD confirmed.**
-**FTD: NOT CONFIRMED this cycle. Next opportunity: late FTD today on big S&P move + above-avg vol (less reliable), OR new rally attempt after $733.39 Day 1 low undercut.**
-**⚠️ PCE DATA CORRECTION: Prior entry (May 28 pre-market) cited Core PCE 2.8% YoY. CNBC-confirmed actual: Core PCE 3.3% YoY (highest since Nov 2023). Headline +3.8% YoY. Market still closed at ATH (SNOW/Iran ceasefire overwhelmed PCE). Inflation narrative is more hawkish than prior entry reflected.**
-**AVGO: ⛔ EARNINGS BLACKOUT ACTIVE** (June 3 earnings — 3 trading days: May 29, Jun 2, Jun 3). Bench-only.
-**DELL Q1 FY2027 AH BEAT:** Rev +88% YoY, AI servers +757% YoY, +40% pre-mkt. Massive AI infra signal → bullish for VRT thesis.
-**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 65**
+**Last updated:** 2026-05-29 (Fri) — `/eod-review` 3:15 PM CT — **END OF WEEK — UNDER PRESSURE HOLDS — 9TH STRAIGHT S&P WINNING WEEK — APR 28 DIST DAY EXPIRES JUN 2-3**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 67 blocked — HIGHEST PRIORITY on restore)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | Apr 28 expires Jun 2-3 (Mon/Tue) → first natural relief (dist count drops to 4/25)
+**SPY:** est. ~$756.44 (S&P 7,580.06 May 29 ATH close) | 50d MA: **$689** | 200d MA: **$676**
+**QQQ:** est. ~$737 | 50d SMA: **$638** | 200d SMA: **$618**
+**Rally attempt: FTD window EXPIRED after Day 7 (May 28). Rally attempt INTACT — SPY >> $733.39 Day 1 low. Late FTD NOT triggered May 29 (+0.22% < +1.25%; S&P 7,580.06 < 7,658.67 late-FTD threshold).**
+**FTD: NOT CONFIRMED this cycle. Next opportunity: new rally attempt after $733.39 Day 1 low undercut, OR a power-move session (+1.25%+ on above-avg vol) any subsequent day.**
+**⚠️ PCE CORRECTION STANDS: Core PCE actual 3.3% YoY (not 2.8%). Headline +3.8% YoY. Market continued to ATH despite hot PCE. Rate hike probability late 2026 rising.**
+**AVGO: ⛔ EARNINGS BLACKOUT ACTIVE** (June 3 earnings — 2 trading days: Jun 2, Jun 3). Bench-only until week of Jun 9.
+**DELL Q1 FY2027 confirmed: Rev +88% YoY, AI servers +757% YoY. VRT thesis intact but VRT closed red (-0.62% at $312.24) despite DELL gap-up open — faded into close.**
+**Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | P&L week: $0 | Alpaca: Blocked Day 67**
+
+**✅ MAY 29 EOD (/eod-review 3:15 PM CT — 9TH WINNING WEEK — UNDER PRESSURE UNCHANGED — NO LATE FTD):**
+- **S&P 500:** 7,580.06 (+0.22% from 7,563.63 May 28 ATH close) | **NEW ALL-TIME HIGH (7th straight winning day, 9th straight winning week)** | Nasdaq: 26,972.62 (+0.20%) | Dow: 51,032.46 (+0.72%) | `research_source: websearch_fallback` | **Alpaca blocked Day 67**
+- **SPY est. close: ~$756.44** (+0.22%) | **QQQ est. close: ~$737** (+0.20% Nasdaq proxy; Alpaca blocked)
+- **Session character:** Low-volatility grind to new ATH. S&P +1.4% for the week — 9th straight winning week. All major averages at new records. Under Pressure state valid — market strength without the FTD power-move confirmation required to upgrade.
+- **Distribution day check (May 29):** UP day (+0.22%) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.** State: **🟡 Under Pressure — NO CHANGE.**
+- **Late FTD check (post-Day 7 window):** Threshold: S&P **7,658.67** (7,563.63 × 1.0125) | Actual: 7,580.06 | Gap: **78.61 pts short — NOT CONFIRMED.** FTD window formally expired May 28. No state upgrade.
+- **APR 28 DIST DAY EXPIRY:** Day 21 of 25 today. **Expires Jun 2-3 (Mon/Tue next week)** → dist count drops to 4/25.
+- **GOOGL:** GOOG ~$379.09 close (high $383.85, low $376.59) — DOWN ~$11 from ~$390 May 28 despite market +0.22%. Moving AWAY from $404 pivot (~6.2% below). Relative weakness vs market. 🟡 WATCHING — base integrity weakening; reassess Jun 2.
+- **VRT:** $312.24 close (prev $314.18; range $308-$319.58) — DOWN -0.62% despite DELL AI mega-beat gap-up open. Faded into close. Score 65/100 unchanged. 🟡 BENCH — AI thesis confirmed by DELL but VRT showing relative weakness.
+- **NVDA:** $216.24 close (high $217.42, low $212.81). Post-earnings consolidation. 🟡 BENCH.
+- **AVGO:** ⛔ BLACKOUT (June 3 earnings — 2 trading days). No action.
+- **0 open positions** → sell-rules-engine: **SKIPPED** | SH hedge $625 queued — Alpaca Day 67 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
+- **Next week (Jun 2-6):** (1) **APR 28 DIST DAY EXPIRES Jun 2-3** → dist count 4/25; (2) **AVGO earnings June 3** — bench-only; (3) **Alpaca restore — HIGHEST PRIORITY** (Day 67 — ~14 weeks blocked); (4) FTD any day S&P +1.25%+ above-avg vol = 🟢 Confirmed Uptrend; (5) GOOGL reassess — base distance increasing; (6) /weekly-review 3:30 PM CT today.
 
 **✅ MAY 29 INTRADAY (/market-check 10:00 AM CT — END OF WEEK — NO FTD — UNDER PRESSURE HOLDS):**
 - **S&P 500:** ~7,576 est. (+0.16% from 7,563.63 May 28 ATH close) | Nasdaq: ~+0.20% | Dow: ~+0.13% | Russell 2000: ~+0.57% | `research_source: websearch_fallback` | **Alpaca blocked Day 66**

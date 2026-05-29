@@ -2071,3 +2071,19 @@ Weekly trade count: 0/3 used
 Key item: Apr 28 dist day expires Jun 2-3 → count drops 5→4/25 (first step toward Confirmed Uptrend upgrade)
 SH hedge $625 queued — FIRST ORDER on Alpaca restore (Day 66)
 Next check: /weekly-review 3:30 PM CT today
+
+---
+## 2026-05-29 20:22 CT [clickup-placeholder]
+
+📊 EOD 2026-05-29 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 5/25 (market: 🟡 Uptrend Under Pressure)
+Actions today:
+  • NONE — sell-rules-engine SKIPPED (0 positions)
+  • Alpaca blocked Day 67 (403) — all execution blocked
+Market: S&P 7,580.06 (+0.22%, NEW ATH, 9th straight winning week) | Nasdaq 26,972.62 (+0.20%, NEW ATH) | Dow 51,032.46 (+0.72%, NEW ATH)
+Late FTD: NOT triggered (+0.22% < +1.25%; 7,580.06 < 7,658.67 threshold)
+GOOGL: ~$379.09 (-2.8% vs mkt up; ~6.2% below $404 pivot — moving away from pivot)
+VRT: $312.24 (-0.62% despite DELL AI mega-beat — faded gap-up open)
+NVDA: $216.24 | AVGO: BLACKOUT (June 3 earnings)
+Next week: Jun 2 = APR 28 dist day expires (dist count 4/25); Jun 3 = AVGO earnings; Alpaca restore HIGHEST PRIORITY
