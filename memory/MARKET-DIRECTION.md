@@ -8,8 +8,8 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-29 (Fri) — `/pre-market` 6:00 AM CT — **FTD WINDOW EXPIRED — END OF WEEK — DELL +40% PRE-MKT (AI INFRASTRUCTURE MEGA-SIGNAL)**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 65 blocked — HIGHEST PRIORITY on restore)
+**Last updated:** 2026-05-29 (Fri) — `/market-check` 10:00 AM CT — **END OF WEEK — UNDER PRESSURE HOLDS — NO FTD — APR 28 DIST DAY EXPIRES JUN 2-3**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 66 blocked — HIGHEST PRIORITY on restore)
 **Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | Apr 28 expires ~Jun 2-3 → first natural relief (dist count drops to 4/25)
 **SPY:** est. ~$754.78 (S&P 7,563.63 May 28 ATH close) | 50d MA: **$689** | 200d MA: **$676**
 **QQQ:** est. ~$736 | 50d SMA: **$638** | 200d SMA: **$618**
@@ -19,6 +19,22 @@
 **AVGO: ⛔ EARNINGS BLACKOUT ACTIVE** (June 3 earnings — 3 trading days: May 29, Jun 2, Jun 3). Bench-only.
 **DELL Q1 FY2027 AH BEAT:** Rev +88% YoY, AI servers +757% YoY, +40% pre-mkt. Massive AI infra signal → bullish for VRT thesis.
 **Open positions: 0 | Equity: $2,500 (HWM) | P&L today: $0 | Alpaca: Blocked Day 65**
+
+**✅ MAY 29 INTRADAY (/market-check 10:00 AM CT — END OF WEEK — NO FTD — UNDER PRESSURE HOLDS):**
+- **S&P 500:** ~7,576 est. (+0.16% from 7,563.63 May 28 ATH close) | Nasdaq: ~+0.20% | Dow: ~+0.13% | Russell 2000: ~+0.57% | `research_source: websearch_fallback` | **Alpaca blocked Day 66**
+- **Session character:** Grinding higher near SPY $755. Iran deal: JD Vance "not there yet, but very close." No signed deal → no gap catalyst.
+- **Late FTD check:** Threshold: S&P **7,658.67** (7,563.63 × 1.0125) | Current: ~7,576 → gap **~83 pts** (+1.10% additional needed). Grinding day on no major catalyst. **Late FTD: NOT in progress. Probability VERY LOW (~5-10%). Window effectively closed.**
+- **Distribution day check (May 29):** UP day (+0.16%) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.**
+- **APR 28 DIST DAY EXPIRES JUN 2-3 (Mon/Tue):** After expiry → **4/25 dist days** — removes one hurdle on Confirmed Uptrend upgrade path.
+- **GOOGL:** Range $385.16-$391.87 (est. mid-session ~$390-391). ~3.3-3.5% below $404 pivot. Flat base wk 11 intact. No buy trigger. 🟡 WATCHING unchanged.
+- **VRT:** Gapping UP on DELL AI server mega-beat ($16.1B +757% YoY confirms AI infra cycle). No pivot; score 65/100. 🟡 BENCH (thesis ↑↑).
+- **NVDA:** ~$212 est. XLK blackout. 🟡 BENCH unchanged.
+- **AVGO:** ⛔ BLACKOUT (June 3 earnings — 3 trading days). No action.
+- **Bench promotion check:** GOOGL 3.3-3.5% below pivot (NOT within 2% → no promotion). No other symbols have defined pivots. No promotions or demotions.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 66 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+- **Actions: NONE**
+- **/weekly-review fires 3:30 PM CT today.** Next week: Jun 2 Apr 28 dist expiry (→4/25); Jun 3 AVBO earnings; Alpaca restore HIGHEST PRIORITY.
 
 **✅ MAY 29 PRE-MARKET (/pre-market 6:00 AM CT — FTD WINDOW EXPIRED — END OF WEEK):**
 - **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days). NO new long entries.

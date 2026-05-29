@@ -2057,3 +2057,17 @@ Watching: VRT 🟡 12.29 close (gapping pre-mkt on DELL; score 65/100; thesis �
 Removed: NONE
 
 Plan: NO new entries (Under Pressure + Alpaca Day 65). Monitor for late FTD (S&P ≥7,658 on vol — low prob). Apr 28 dist day expires Jun 2-3 → dist relief pathway. /weekly-review 3:30 PM CT. Alpaca restore = HIGHEST PRIORITY (Day 65).
+
+---
+## 2026-05-29 15:14 CT [clickup-placeholder]
+
+📈 Market-check 2026-05-29 10:00 AM CT
+Market: 🟡 Uptrend Under Pressure (5/25 dist days) | Circuit breakers: NONE
+Actions taken:
+  No new entries — abort gates: Under Pressure + Alpaca Day 66 blocked
+Watchlist status: 1 primary (GOOGL 🟡 WATCHING, wk 11 base, 3.3% below pivot), 3 bench (VRT thesis↑↑, NVDA, AVBO⛔), 0 removed
+Open positions: 0 | Deployed: 0% | Cash: 100%
+Weekly trade count: 0/3 used
+Key item: Apr 28 dist day expires Jun 2-3 → count drops 5→4/25 (first step toward Confirmed Uptrend upgrade)
+SH hedge $625 queued — FIRST ORDER on Alpaca restore (Day 66)
+Next check: /weekly-review 3:30 PM CT today

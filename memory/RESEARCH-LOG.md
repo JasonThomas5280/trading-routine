@@ -145,6 +145,123 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-05-29 (Fri) — /market-check (10:00 AM CT) — END OF WEEK — UNDER PRESSURE HOLDS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 66; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries
+**Abort gates fired:** Market = Under Pressure (primary) + Alpaca Day 66 (secondary). All trading halted.
+
+### Market overview (10:00 AM CT = 11:00 AM ET)
+
+| Index | Change | Notes |
+|---|---|---|
+| S&P 500 | ~+0.16% (~7,576 est.) | Grinding near SPY $755 — no power move |
+| Nasdaq | ~+0.20% | Steady after ATH close May 28 |
+| Dow | ~+0.13% | Narrow breadth |
+| Russell 2000 | ~+0.57% | Small-cap slight outperformance |
+
+**Session driver:** Iran deal negotiations (JD Vance: "not there yet, but very close" — deal NOT signed). No major US economic data scheduled today. No gap catalyst. Volume not elevated.
+
+### Late FTD assessment
+
+- **Threshold:** S&P 7,658.67 (7,563.63 × 1.0125) / SPY ~$764.47
+- **Current level:** ~7,576 (gap: ~83 pts = +1.10% more needed in session)
+- **Volume:** Not elevated — grinding day with no catalyst
+- **Verdict:** Late FTD **NOT in progress. VERY LOW probability (~5-10%).** Window effectively closed. No state upgrade possible today.
+
+### Abort gate evaluation
+
+| Gate | Status |
+|---|---|
+| Market state | ❌ ABORT — 🟡 Under Pressure (5/25 dist days) |
+| Research source | ✅ PASS — websearch_fallback active (not DEGRADED) |
+| Daily circuit breaker | ✅ PASS — $0 P&L |
+| Weekly circuit breaker | ✅ PASS — $0 week |
+| Drawdown halt | ✅ PASS — $0 from $2,500 HWM |
+| Weekly trade count | ✅ PASS — 0/3 used |
+| Position count | ✅ PASS — 0 of 4 |
+| Cash buffer | ✅ PASS — 100% cash |
+| Alpaca API | ❌ ABORT — 403 Day 66 |
+
+### Watchlist trigger evaluation (research-only — no execution possible)
+
+**Primary: GOOGL**
+- Range today: $385.16-$391.87 (est. mid-session ~$390-391, GOOG class C)
+- Pivot: ~$404 | Distance: ~3.3-3.5% below pivot
+- Trigger conditions NOT met: price NOT ≥ pivot ($391 < $404)
+- Base: wk 11 flat base forming — MATURE, constructive, approaching valid entry zone
+- Volume: unconfirmed (Alpaca blocked)
+- Score: 77/100 ✅ (would pass conviction gate; all other gates blocked by market state)
+- **VERDICT: NOT TRIGGERED.** Under Pressure blocks entry regardless. Continue watching.
+- Status: 🟡 WATCHING unchanged
+
+**Bench: VRT**
+- Pre-market / session: gapping UP significantly on DELL's Q1 FY2027 AI server beat ($16.1B +757% YoY)
+- DELL result directly confirms VRT's AI data center cooling/power backlog thesis
+- No defined pivot yet (base not formed after -17.7% pull from ATH $379.94)
+- Score: 65/100 (blocked by GAAP A-letter gap + no confirmed base)
+- **VERDICT: NOT TRIGGERABLE.** Score gate (65 < 75) + no pivot. Thesis ↑↑ — watch for base formation.
+- Status: 🟡 BENCH (thesis strengthening materially)
+
+**Bench: NVDA**
+- ~$212 est. (vol 37% avg on May 28 — very thin consolidation)
+- XLK sector blackout maintained
+- No new base formed post-earnings
+- Status: 🟡 BENCH unchanged
+
+**AVGO:** ⛔ BLACKOUT (June 3 earnings — 3 trading days). No analysis.
+
+### Position health check (intraday Rule 1 / Rule 3 scan)
+
+**0 open positions → sell-rules-engine: SKIPPED.**
+
+### Bench promotion check
+
+| Symbol | Today's price | Pivot | Distance | Action |
+|---|---|---|---|---|
+| GOOGL | ~$391 | ~$404 | −3.3% | NO PROMOTION — not within 2% |
+| VRT | Gapping up | TBD (no base) | N/A | NO PROMOTION — no pivot defined |
+| NVDA | ~$212 | TBD | N/A | NO PROMOTION — no base |
+| AVGO | ⛔ BLACKOUT | — | — | NO ACTION |
+
+No promotions or demotions.
+
+### Distribution day check
+
+- UP day (+0.16%) → CANNOT be a distribution day. Dist count: **5/25 UNCHANGED.**
+- **Week closes with 5/25 dist days** — no new dist days this week.
+
+### Forward-looking — key next-week events
+
+| Date | Event | Significance |
+|---|---|---|
+| Jun 2 (Mon) | **Apr 28 dist day expires** | Dist count → 4/25 ← KEY MILESTONE; first natural relief since May 19 |
+| Jun 3 (Tue) | AVGO earnings AH | Re-score available week of Jun 9; XLK sector watch |
+| Jun 2-3 | Iran deal potential signing | Could gap-up markets → FTD candidate if S&P gains +1.25%+ on vol |
+| Ongoing | Alpaca API restore | HIGHEST PRIORITY — Day 66 blocked; no execution without this |
+
+**Confirmed Uptrend upgrade path (post Jun 2):** dist count 4/25 (after Apr 28 expiry) + FTD from any rally attempt = 🟢 Confirmed Uptrend. GOOGL (base wk 12 by then) would be immediate entry candidate.
+
+### Circuit breaker summary
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 — CLEAR |
+| PDT 3/3 | 0/3 — CLEAR |
+| Alpaca API | ❌ 403 Day 66 — HALT ALL ENTRIES |
+
+### Actions taken
+
+- **NONE.** All trading halted by dual abort gates (Under Pressure + Alpaca Day 66).
+- SH hedge $625 queued — FIRST ORDER on Alpaca restore.
+- /weekly-review fires 3:30 PM CT today (end-of-week postmortem).
+
+`research_source: websearch_fallback`
+
+---
+
 ## 2026-05-29 (Fri) — /pre-market (6:00 AM CT) — FTD WINDOW EXPIRED — END OF WEEK
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 65; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
