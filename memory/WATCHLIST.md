@@ -6,9 +6,98 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ⚠️ ARCHIVED — Week of 2026-05-26 to 2026-05-30 — rebuild via /weekly-prep on Sunday May 31
+## ACTIVE — Week of 2026-06-02 to 2026-06-06
 
-> **Archived week of May 26–30. This watchlist is stale. /weekly-prep on Sunday must perform a full rebuild — not a refresh.**
+**Built:** 2026-05-31 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: 403 Day 68, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + cached prior-week fundamentals)
+
+**Market direction:** 🟡 Uptrend Under Pressure (5/25 dist days → 4/25 Jun 2 after Apr 28 expiry) | **NO NEW LONG ENTRIES** until FTD confirmed
+**SPY:** ~$756.44 (May 29 close) | **50d MA ~$740** (+2.2%) | **200d MA ~$722** (+4.7%) | ⚠️ Prior MA estimates corrected (50d was $689 — stale artifact)
+**QQQ:** ~$737 | **50d MA ~$712** (+3.5%) | **200d MA ~$683** (+7.9%)
+
+**Top sectors (4-week trailing RS, May 1 → May 29):**
+1. **XLK Technology: #1** ✅ — 52-week high $191, AI/semiconductor dominant. `sector_momentum_warning` **CLEARED** — XLK BLACKOUT **LIFTED**. ARM +177% YTD, XLK +~20% May. Sector bonus restored for XLK names.
+2. XLI Industrials: ~+8-12% — DELL AI servers +757% YoY confirms AI power/cooling cycle. VRT thesis confirmed but VRT price showing distribution.
+3. XLE Energy: ~+5-8% — oil held ~$90-100 despite Iran deal uncertainty. JD Vance "not there yet."
+4. ⚠️ **XLC Communication Services: DEMOTED to #4** — GOOGL -2.51% on May 29 ATH day (distribution into strength). XLC weakening. No sector bonus for XLC names.
+
+**Blacklisted sectors:** None
+**XLK status:** `sector_momentum_warning` CLEARED → **blackout LIFTED** (RRG confirmed leading/weakening via 52-week high price action)
+
+**Universe scan:** DEGRADED — Alpaca + AV both blocked; cannot run `build-universe.sh`. Curated universe of 5 names.
+**Candidates evaluated:** GOOGL, NVDA, DELL, ARM, MRVL
+**Pre-filtered out:** AVBO (⛔ earnings Jun 3 = 2 trading days blackout), AMD (A-letter GAAP FY2023 EPS -36.9%), GE (float >800M + insufficient GAAP history), META (price data conflict unresolved), VRT (65/100 carry, below threshold), CAT ($931 > $500 ceiling), GS ($948 > $500 ceiling)
+**Passed conviction ≥75: 0** — **ZERO for 8th consecutive week**
+**Entry gates passed: 0** (market Under Pressure = no entries)
+
+> **⚠️ 8th consecutive week with 0 candidates above conviction threshold.**
+> This is NOT a rubric failure — it is information. XLC sector demotion pushed GOOGL below threshold; no other name has valid base + A-letter quality combination. Market transitioning; do NOT lower threshold. Patience is the position.
+
+---
+
+## ⚠️ UNDER PRESSURE POSTURE — NO NEW LONG ENTRIES
+
+**Entry gate:** ALL LONG ENTRIES BLOCKED (Under Pressure; FTD not confirmed). SH/SQQQ hedge $625 queued — FIRST ORDER on Alpaca restore.
+
+**This week's inflection path:**
+- **Mon Jun 2:** APR 28 dist day expires → dist count 4/25 (still Under Pressure but one hurdle removed)
+- **Tue-Wed Jun 3:** AVBO earnings AH → if beat (consensus $2.40 EPS/$22.11B rev) → potential FTD power-move Jun 4
+- **Fri Jun 5:** NFP (96K est, unemployment 4.3%) → beat = FTD fuel; miss = dist day #6 risk → 🔴 Correction
+
+---
+
+### Primary Watchlist (score ≥75)
+
+**NONE this week.** Zero candidates above conviction threshold. See bench for near-threshold names.
+
+---
+
+### Bench (below threshold — watching for score improvement, base formation, or FTD trigger)
+
+| Rank | Symbol | Score | Sector | Status | Re-Score Trigger | Notes |
+|---|---|---|---|---|---|---|
+| B1 | DELL | **74/100** ⚠️ | XLK / AI Infra | 🟡 Post-earnings gap-up; no base yet | Alpaca+AV restore (A-letter GAAP confirmation) + 3-wk consolidation base | **NEW CANDIDATE — CLOSEST TO THRESHOLD.** Q1 FY2027: Rev $43.84B (+88% YoY), AI-Optimized Servers $16.1B (+757% YoY), EPS $4.86 vs $2.94 est. C:20 (EPS +90%+ YoY). A:7 (VMware amortization creates GAAP uncertainty — cannot confirm all 3 yrs ≥25%; ROE partial credit). N:15 (new ATH; AI server category genuinely new at this scale). S:10 (float headwind but massive volume on gap-up; institutional interest). L:15 (RS 95+; XLK #1 sector). I:7 (cached). Base:0 (earnings gap-up on May 29; need 3-wk consolidation post-gap). **Score would be 84/100 with confirmed base and A-letter AV data.** Pivot: est. $200-210 (consolidation zone above gap). Earnings: est. Aug/Sep (clear). `cached_fundamentals` `research_source: websearch_fallback`. |
+| B2 | NVDA | **72/100** ⚠️ | XLK / Semis | 🟡 Post-earnings consolidation wk 3; base forming | Base completion (est. Jun 10-Jul 3) + Alpaca+AV restore | C:20 (Q1 FY2027 EPS +85%+ YoY). A:15 (FY2024+FY2025+FY2026 all ≥25% GAAP). N:10 (near ATH but China H20 = zero permanently = no new market = -5pts). S:5 (massive float; $80B buyback). L:15 (RS 90+; XLK #1 sector — SECTOR BONUS **RESTORED**). I:7 (cached). Base:0 (consolidation wk 3; est. cup-with-handle Jun 10-Jul 3; pivot TBD). **Score with base: 82/100 ✅.** Price ~$211, ATH $235.74 (May 14). Earnings: ~Aug 2026 (clear). `research_source: websearch_fallback`. |
+| B3 | GOOGL | **72/100** ❌ | XLC / Communication | 🟡 **DEMOTED from Primary** — XLC sector now #4 | XLC returns to top-3 sector AND/OR base wk 5-7 completes without further distribution | **DEMOTED this week.** XLC demoted to #4 sector → L-letter drops 15→10 → score 77→72 (below threshold). Additionally: May 29 -2.51% on ATH market day = distribution into strength signal (Proposal 11 proxy-catalyst-style weakness). Base wk 11+ but now drifting from $403 pivot (currently $380.34 = -5.5% from ATH $402.62). For GOOGL to return to Primary: (a) XLC must return to top-3 sector, OR (b) GOOGL RS dramatically outperforms. C:20 (GAAP EPS +81% YoY). A:10 (2/3 yrs ≥25%; ROE 31.83%). N:15 (near 52-wk high; Gemini AI; antitrust flag noted). S:10 (float 12B headwind; buyback active). L:10 (RS 90+ =10pts; XLC not top-3 = 0 sector bonus). I:7. Base:0. Q2 earnings ~July 2026 (clear). `cached_fundamentals`. |
+| B4 | AVBO | **est. 63→~77/100** 🚫 | XLK / Technology | ⛔ **EARNINGS BLACKOUT TUE JUN 3** — No evaluation until week of Jun 9 | Post-Jun 3 earnings results + re-score Jun 9 | **HIGH-PRIORITY RE-SCORE TARGET.** Consensus: EPS $2.40, Rev $22.11B (+47% YoY), AI semis $10.7B (+140% YoY). If GAAP EPS confirms ≥40% YoY growth → C:20 (up from 15). XLK sector now #1 → L-letter sector bonus RESTORED (+5pts vs prior). Prior score 63/100 could reach **77-82/100** with: (a) confirmed GAAP EPS beat, (b) XLK sector bonus, (c) base formation post-earnings. This is the **HIGHEST-PROBABILITY entry candidate for June 9-13 window.** Earnings Jun 3: blackout until Jun 9. No action until then. Prior A-letter issue: FY2023 revenue +8% (below 25%) = structural drag. Monitor if Q2 guidance implies annual acceleration resolving A-letter. Citi $500, Evercore $582 PTs. |
+
+---
+
+### Entry Execution Plan — Week of Jun 2-6
+
+**Entry gate: ⛔ ZERO new long entries** (market = Uptrend Under Pressure; Alpaca Day 68; no FTD)
+
+**FIRST order on Alpaca restore:** Buy SH (inverse S&P −1×) ~$625 / 25% portfolio (Under Pressure hedge protocol)
+
+**FTD confirmation triggers this week:**
+
+| Day | Gate | Bullish setup | Bearish scenario |
+|---|---|---|---|
+| Mon Jun 2 | APR 28 dist expiry | Dist count → 4/25; ISM Mfg 53.3 est (beat = FTD fuel) | ISM miss = potential dist day #5 (of new 25-session window) |
+| Tue/Wed Jun 3 | AVBO earnings AH | Beat $2.40 EPS / $22.11B rev → potential FTD Jun 4 (+1.25%+ on vol) | Revenue miss → gap-down → dist day #6 risk → 🔴 Correction |
+| Thu Jun 4 | Post-AVBO reaction | Power move session on AI confidence → FTD confirmation | Sell-the-news repeat (MRVL, NVDA pattern) → no FTD |
+| Fri Jun 5 | **NFP** | Jobs +96K+ on lower unemployment → FTD possible | Sub-80K print → recession signal → dist day #6 → 🔴 Correction |
+
+**If FTD confirmed:**
+→ 🟢 Confirmed Uptrend → exit SH hedge → immediately re-score DELL (est. 84/100 with base) and NVDA (current 72/100 — still needs base) → if AVBO earnings beat confirmed + XLK sector bonus + base forming: AVBO re-score Jun 9 could be first entry → via `trade-executor`
+
+**If dist day #6 hits:**
+→ 🔴 Correction → no new longs → SH/SQQQ $625 hedge → full cash until next FTD
+
+---
+
+### Removed / Changed this week
+
+| Symbol | Reason |
+|---|---|
+| GOOGL W1 | **DEMOTED to Bench B3.** XLC sector demotion (#2 → #4) cuts L-letter 15→10 → conviction score 77→72 (below threshold). Additionally: -2.51% on May 29 ATH market day = distribution signal (Proxy Catalyst weakness test). Not removed entirely — fundamentals (C:20, A:10) still strong. Needs XLC sector recovery or exceptional RS to return to primary. |
+| NVDA B1 | Moved to B2. DELL added as B1 (closer to threshold, stronger C-letter EPS beat). |
+| META B4 | Removed — price data conflict persists (search shows $280-320, prior watch showed $580-620). Cannot score reliably without Alpaca. Float 2.5B+ = S-letter structural headwind regardless. Re-evaluate only when Alpaca restores and confirms actual price. |
+
+---
+
+## ⚠️ ARCHIVED — Week of 2026-05-26 to 2026-05-30 — rebuilt via /weekly-prep Sun May 31
+
+> **Archived week of May 26–30.**
 
 ## ACTIVE — Week of 2026-05-26 to 2026-05-30
 

@@ -6986,3 +6986,118 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 **Circuit breakers:** none
 **P&L today:** $0.00 (0.00%) | **P&L week:** $0.00 (0.00%)
 **Equity:** $2,500.00 (HWM)
+
+---
+
+## 2026-05-31 — /weekly-prep — Week of Jun 2-6 Setup
+
+**Timestamp:** 2026-05-31 (Sun) 4:00 PM CT
+**Routine:** `/weekly-prep`
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 68 | Perplexity: 403 | Alpha Vantage: 403 — all blocked)
+**Data confidence:** MEDIUM-LOW (WebSearch price estimates ±5%; fundamentals from cached prior-week data; MA values corrected via cross-check)
+
+### Market Direction Assessment
+
+| Metric | Value | Source |
+|---|---|---|
+| S&P 500 close (May 29) | 7,580.06 (9th straight winning week, 7th ATH day) | websearch confirmed |
+| SPY est. close | ~$756.44 | websearch |
+| SPY 50d MA | ~$740 | websearch (CORRECTION: prior est. $689 was stale) |
+| SPY 200d MA | ~$722 | websearch (CORRECTION: prior est. $676 was stale) |
+| QQQ est. close | ~$737 | websearch |
+| QQQ 50d MA | ~$712 | websearch (prior est. $638 — corrected) |
+| QQQ 200d MA | ~$683 | websearch (prior est. $618 — corrected) |
+| SPY vs 50d MA | +2.2% | computed |
+| QQQ vs 50d MA | +3.5% | computed |
+| Distribution days | 5/25 (Apr 28, May 4, May 7, May 15, May 19) → 4/25 Jun 2 | carried from EOD May 29 |
+| State | 🟡 Uptrend Under Pressure | confirmed |
+| Rally attempt | INTACT (SPY >> $733.39 Day 1 low) | confirmed |
+| FTD | NOT confirmed; next opportunity any session +1.25%+ on above-avg vol | confirmed |
+
+⚠️ **MA CORRECTION NOTE:** All prior weekly-prep estimates of SPY 50d MA (~$689-692) and 200d MA (~$676) were based on stale WebSearch data from earlier in the year. The 50-day MA catches up to price as the market grinds higher. Cross-check as of May 31 confirms SPY 50d ~$740, 200d ~$722. Less extended than previously thought — constructive for trend durability.
+
+### Sector Rankings (4-week trailing RS, May 1 → May 29)
+
+| Rank | Sector ETF | Est. 4-wk Return | Notes |
+|---|---|---|---|
+| 1 | XLK (Technology) | +~18-20% est. | 52-week high $191; AI/semis dominant; `sector_momentum_warning` CLEARED; blackout LIFTED |
+| 2 | XLI (Industrials) | +~8-12% est. | DELL AI servers +757% YoY confirms AI power/cooling cycle |
+| 3 | XLE (Energy) | +~5-8% est. | Oil held $90-100; Iran deal still pending (JD Vance "not there yet") |
+| 4 | XLC (Communication) | flat to -2% est. | GOOGL -2.51% on ATH day; sector demoted |
+| 5 | XLF (Financials) | +~4-6% est. | Higher-for-longer environment |
+| 6-11 | Others | below index | XLU worst; XLRE rate-sensitive |
+
+**Blacklisted sectors:** None
+**XLK blackout:** LIFTED — sector confirmed leading by price action (52-wk high)
+**XLC demotion impact:** GOOGL L-letter drops 15→10 → score 77→72 → below threshold → demoted to bench
+
+### Universe Scan Statistics
+
+- **Build-universe.sh:** BLOCKED (Alpaca + AV down Day 68) — degraded curated scan
+- **Universe targeted:** 5 names (GOOGL, NVDA, DELL, ARM, MRVL) + pre-filtered rejects
+- **Pre-filtered out (before scoring):**
+  - Earnings blackout (≤5d): AVBO (Jun 3 = 2 trading days) → 1 name
+  - A-letter GAAP fail (confirmed prior weeks): AMD (FY2023 EPS -36.9%) → 1 name
+  - Insufficient GAAP history / float issues: GE Aerospace → 1 name
+  - Price data conflict (cannot confirm price range): META → 1 name
+  - Below threshold carry: VRT (65/100) → 1 name
+  - Price ceiling >$500: CAT ($931), GS ($948) → 2 names
+  - **Total pre-filtered: 7 names**
+- **Scored: 5 names**
+
+### Conviction Scores
+
+| Symbol | Score | Pass | Key Rejection Reason |
+|---|---|---|---|
+| GOOGL | 72/100 | ❌ | XLC sector demoted to #4 → L-letter 15→10; base stress (-2.51% ATH day) |
+| NVDA | 72/100 | ❌ | No base yet (wk 3 post-earnings consolidation); with base +10 = 82/100 ✅ |
+| DELL | 74/100 | ❌ | A-letter uncertain (VMware amortization GAAP impact); 1pt below threshold |
+| ARM | 67/100 | ❌ | Annual revenue growth consistently <25% (A-letter structural); overbought RSI 76 |
+| MRVL | 57/100 | ❌ | A-letter chip cycle trough (FY2024 likely GAAP negative); sell-the-news earnings |
+
+**Passed conviction ≥75: 0** ← **8th consecutive week**
+
+### Rejection Breakdown
+
+| Rejection Type | Count |
+|---|---|
+| earnings_too_close | 1 (AVBO) |
+| conviction_below_threshold | 5 (GOOGL, NVDA, DELL, ARM, MRVL) |
+| A_letter_structural_fail | 2 (ARM revenue growth <25%; MRVL cycle trough) |
+| A_letter_GAAP_uncertain | 1 (DELL VMware amort.) |
+| sector_demotion | 1 (GOOGL XLC→#4) |
+| no_valid_base | 4 (NVDA, DELL, ARM, MRVL) |
+| pre_filter_price_ceiling | 2 (CAT, GS) |
+| pre_filter_earnings_blackout | 1 (AVBO) |
+| pre_filter_data_conflict | 1 (META) |
+
+### Data Quality Flags
+
+- `missing_data: ["bars_alpaca", "overview_alphavantage", "earnings_alphavantage", "catalyst_perplexity"]` — ALL primary sources blocked
+- `data_confidence: medium_low` — fundamentals from websearch narratives; price estimates ±5%
+- `cached_fundamentals: ALL` — all letter scores based on cached/prior-week data
+- `institutional_data_stale: ALL` — EDGAR not queried; I-letter capped at 7/10 max
+- `MA_correction: SPY_50d_$740_200d_$722_QQQ_50d_$712_200d_$683` — prior estimates corrected
+
+### Key Intelligence Gathered (WebSearch)
+
+1. **XLK sector restored to #1:** 52-week high $191.02 as of May 31; Zacks ETF Rank #1; NVDA, DELL, AVBO sector bonus restored. Prior `sector_momentum_warning` based on May 8-15 data is no longer valid.
+2. **GOOGL base failing:** May 29 close $380.34 (-2.51% on ATH day); ATH was $402.62 May 13; now 5.5% from ATH. Distribution into market strength = negative signal.
+3. **AVBO earnings June 3:** Consensus EPS $2.40 / Rev $22.11B (+47% YoY). AI semis $10.7B (+140%). Could be catalyst for FTD Jun 4 if beats. Re-score week of Jun 9.
+4. **DELL Q1 FY2027 mega-beat:** Rev +88% YoY ($43.84B), AI servers $16.1B (+757% YoY). EPS $4.86 vs $2.94 est. New highest-conviction bench candidate at 74/100.
+5. **Week ahead (Jun 2-6):** ISM Mfg Mon, ADP + ISM Services + AVBO earnings Wed, NFP Fri (96K est). FOMC Jun 16-17. Macro calendar is active — each release is a potential FTD or dist day trigger.
+
+### Regime Pattern (8-week scan history)
+
+| Week Ending | Passed ≥75 | Notes |
+|---|---|---|
+| Apr 24 | 0 | Week 1 — Alpaca blocked |
+| May 1 | 0 | AVBO 74/100 (1pt below); Alpaca blocked |
+| May 8 | 0 | AMD 66/100 (A-letter fail); Alpaca blocked |
+| May 15 | 1 | GOOGL 77/100 (first pass; entry gated by Under Pressure + no base) |
+| May 22 | 1 | GOOGL 77/100 (unchanged) |
+| May 29 | 1 | GOOGL 77/100 (unchanged; market FTD window expired) |
+| Jun 2-6 (scan) | 0 | GOOGL demoted (72/100); sector rotation; DELL closest at 74/100 |
+
+**Pattern:** Market has been in Under Pressure/Correction for 3+ weeks; rubric correctly reduces entry frequency as conditions deteriorate. 0 passes this week = correct signal. Watch for AVBO post-earnings Jun 9 as first potential 77-82/100 candidate in new XLK sector #1 environment.
+

@@ -8,8 +8,34 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-29 (Fri) — `/eod-review` 3:15 PM CT — **END OF WEEK — UNDER PRESSURE HOLDS — 9TH STRAIGHT S&P WINNING WEEK — APR 28 DIST DAY EXPIRES JUN 2-3**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 67 blocked — HIGHEST PRIORITY on restore)
+**Last updated:** 2026-05-31 (Sun) — `/weekly-prep` 4:00 PM CT — **WEEK OF JUN 2-6 — UNDER PRESSURE — XLK BLACKOUT LIFTED — APR 28 DIST EXPIRES JUN 2 → 4/25 — AVGO EARNINGS TUE JUN 3 — NFP FRI JUN 5**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 68 blocked (HIGHEST PRIORITY)
+**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | **APR 28 EXPIRES JUN 2 (Mon)** → dist count 4/25 after Monday close → one hurdle removed on Confirmed Uptrend path
+**SPY:** est. ~$756.44 (May 29 close) | **50d MA: ~$740** (+2.2%) | **200d MA: ~$722** (+4.7%) | ⚠️ MA CORRECTION: prior est. 50d $689/200d $676 were stale; updated via WebSearch cross-check
+**QQQ:** est. ~$737 (May 29 close) | **50d MA: ~$712** (+3.5%) | **200d MA: ~$683** (+7.9%)
+**Rally attempt INTACT** (SPY >> $733.39 Day 1 low May 19; FTD window expired Day 7 May 28; next FTD = any session S&P +1.25%+ on above-avg vol)
+**FTD: NOT CONFIRMED.** Post-window: any power-move day qualifies. Highest-probability sessions this week: Jun 3 AH AVBO earnings reaction (Jun 4 open), or Jun 5 NFP beat (96K est).
+**⚠️ XLK SECTOR BLACKOUT LIFTED:** XLK at 52-week high $191, +~20% in May. `sector_momentum_warning` CLEARED. XLK moves to #1 sector. NVDA + DELL + AVBO get sector bonus restored.
+**⚠️ XLC DEMOTED to #4:** GOOGL -2.51% on May 29 ATH day = distribution signal. XLC not in top-3. GOOGL L-letter drops from 15→10 → conviction score 77→72 (BELOW threshold).
+**AVGO: ⛔ EARNINGS BLACKOUT TUE JUN 3** — bench-only all week. Re-score week of Jun 9.
+**0 candidates pass conviction ≥75 — 8th consecutive week** | Highest near-threshold: DELL 74/100 (1pt below; A-letter VMware amort. uncertainty); NVDA 72/100 (base forming, est. Jun 10-Jul 3)
+**Open positions: 0 | Equity: $2,500 (HWM) | Alpaca: Blocked Day 68 | `research_source: websearch_fallback`**
+
+**✅ 2026-05-31 /weekly-prep (4:00 PM CT — WEEK OF JUN 2-6 SETUP):**
+- **Market state:** 🟡 Uptrend Under Pressure (5/25 dist days → 4/25 Jun 2 after Apr 28 expiry). NO new long entries.
+- **SPY ~$756.44** (May 29 ATH close) | 50d MA ~$740 (+2.2%) | 200d MA ~$722 (+4.7%) | QQQ ~$737 | 50d MA ~$712 (+3.5%) | 200d MA ~$683 (+7.9%)
+- **⚠️ MA CORRECTION:** Previous estimates (SPY 50d $689, 200d $676) were WebSearch data artifacts from months prior. Cross-check as of May 31 confirms SPY 50d ~$740, 200d ~$722 — the MA has caught up to price as market grinds higher. Less extended than previously estimated. Technically constructive.
+- **Sector rotation:** XLK #1 (52-wk high, +~20% May), XLI #2 (AI power/cooling, DELL +88% rev), XLE #3 (oil held despite Iran deal uncertainty). XLC demoted to #4 (GOOGL distribution signal May 29). XLU bottom.
+- **XLK blackout LIFTED** — RRG recovery confirmed by price action. Prior `sector_momentum_warning` CLEARED. NVDA and DELL now eligible for full L:15 sector bonus.
+- **GOOGL demoted to BENCH** — XLC demotion cuts L-letter from 15→10. Score 77→72 = below 75 threshold. Additionally: -2.51% on May 29 ATH day (distribution into strength), base wk 11+ showing stress. No longer primary watchlist candidate.
+- **AVBO earnings Jun 3:** Consensus $2.40 EPS ($2.36-2.54 range), $22.11B rev (+47% YoY). AI semiconductor $10.7B (+140% YoY). If beats = potential FTD catalyst Jun 4. XLK now top-3 = sector bonus restored post-earnings.
+- **Macro calendar Jun 2-6:** Mon: ISM Mfg PMI (53.3 est) | Wed Jun 3: ADP 116K est + ISM Services 53.8 est + **AVBO earnings AH** | Fri Jun 5: **NFP 96K est**, unemployment 4.3%. FOMC Jun 16-17 (no meeting this week).
+- **FTD path:** (1) Apr 28 dist expiry Mon Jun 2 → 4/25; (2) Strong AVBO beat Jun 3 → potential FTD Jun 4 power-move; (3) NFP beat Jun 5 → potential FTD. Any single session +1.25%+ S&P on above-avg vol = 🟢 Confirmed Uptrend upgrade.
+- **Dist day risks:** Mon ISM miss, Fri NFP weak → potential dist day #6. If #6 confirmed: 🔴 Correction.
+- **Actions: NONE** | sell-rules-engine: SKIPPED (0 positions) | Circuit breakers: ALL CLEAR | Weekly trades: 0/3 (reset Mon Jun 2) | Equity: $2,500 HWM | `research_source: websearch_fallback` | Alpaca Day 68 BLOCKED
+
+**Last updated (prior):** 2026-05-29 (Fri) — `/eod-review` 3:15 PM CT — **END OF WEEK — UNDER PRESSURE HOLDS — 9TH STRAIGHT S&P WINNING WEEK — APR 28 DIST DAY EXPIRES JUN 2-3**
+**STATE (prior):** 🟡 Uptrend Under Pressure | Rules: NO new long entries | Hedge SH/SQQQ $625 queued (Alpaca Day 67 blocked — HIGHEST PRIORITY on restore)
 **Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | Apr 28 expires Jun 2-3 (Mon/Tue) → first natural relief (dist count drops to 4/25)
 **SPY:** est. ~$756.44 (S&P 7,580.06 May 29 ATH close) | 50d MA: **$689** | 200d MA: **$676**
 **QQQ:** est. ~$737 | 50d SMA: **$638** | 200d SMA: **$618**

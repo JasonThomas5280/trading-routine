@@ -2145,3 +2145,18 @@ Next week: Jun 2 = APR 28 dist day expires (dist count 4/25); Jun 3 = AVGO earni
 - FTD: any session S&P +1.25%+ on above-avg vol = 🟢 Confirmed Uptrend — immediate GOOGL evaluation
 - GOOGL base integrity check June 2 — still valid or failed?
 - /weekly-prep Sunday May 31 for fresh watchlist rebuild
+
+---
+## 2026-05-31 21:21 CT [clickup-placeholder]
+
+📋 Week prep 2026-06-02
+Market: Uptrend Under Pressure → 4/25 dist days Mon Jun 2 (Apr 28 expires)
+SPY ~$756 | 50d MA ~$740 (+2.2%) | 200d MA ~$722 (+4.7%)
+XLK BLACKOUT LIFTED — 52-week high; XLC DEMOTED to #4 (GOOGL -2.51% on ATH day)
+Top sectors: XLK (#1 +~20% May), XLI (#2 AI infra), XLE (#3)
+FTD: NOT confirmed | any +1.25%+ on above-avg vol = Uptrend upgrade
+Watchlist primary: NONE (0 candidates ≥75 — 8th consecutive week)
+Bench: DELL 74/100 post-earnings gap; NVDA 72/100 base forming est Jun10-Jul3; GOOGL 72/100 demoted-XLC; AVBO BLACKOUT (re-score Jun 9, est 77-82/100)
+Calendar risks: Mon Jun2 ISM Mfg + APR28 dist expiry; Wed Jun3 ADP+ISM Svc+AVBO earnings AH; Fri Jun5 NFP 96K est (miss=dist#6→Correction)
+Entry plan Mon: ALL LONG ENTRIES BLOCKED (Under Pressure; Alpaca Day 68)
+Highest priority: Alpaca restore (Day 68 ~14wk blocked); AVBO Jun3 for potential FTD Jun4
