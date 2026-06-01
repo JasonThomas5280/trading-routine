@@ -7195,3 +7195,94 @@ Score revision: C:20 + A:15 + N:13-15 + S:5 + L:15 + I:7 + Base:0 = **75-77/100 
 `research_source: websearch_fallback`
 
 
+
+---
+
+## 2026-06-02 (Mon) — /market-check (10:00 AM CT) — ISM MFG PMI BEAT — IRAN SUSPENDED — OIL SURGE
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 70; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction:** 🟡 Uptrend Under Pressure | **Abort gate FIRED — no new entries**
+
+### Abort Gate Result
+
+| Gate | Status |
+|---|---|
+| Market state (Under Pressure) | 🔴 FIRED — NO new long entries |
+| Research degraded | CLEAR (WebSearch operational) |
+| Daily circuit breaker −3% | CLEAR ($0 P&L) |
+| Weekly circuit breaker −6% | CLEAR ($0 week-to-date) |
+| Drawdown −12% HWM | CLEAR ($0 drawdown) |
+| Weekly trade count (3 max) | CLEAR (0/3) |
+| Position count (4 max) | CLEAR (0 positions) |
+| Cash buffer (10% min) | CLEAR (100% cash) |
+| Alpaca API | 🔴 Day 70 blocked — no execution possible |
+
+**Result: ABORT GATE #1 HIT (Under Pressure). Skip to summary. No trades.**
+
+### Market Data (10:00 AM CT)
+
+| Indicator | Value | Notes |
+|---|---|---|
+| S&P 500 (intraday) | ~7,579 (≈flat) | Opening 7,579.33 vs 7,580.06 May 29 close |
+| FTD threshold | ~7,674 (×1.0125) | Gap ~95 pts — NOT IN PROGRESS |
+| ISM Mfg PMI (May) | **54%** ✅ BEAT | 53.3 est.; highest since May 2022; New Orders 56.8% |
+| Nasdaq | +0.1% est. | Computex tech lift (NVDA, AI names) |
+| Oil WTI | ~$94 (+8%) | Iran talks suspended |
+| Oil Brent | ~$97 (+7%) | Inflation risk resurgence |
+| Alpaca API | 403 — Day 70 | Host not in allowlist |
+
+### Key Events
+
+**ISM Manufacturing PMI May 2026: 54%** — Beat 53.3 estimate. Highest reading since May 2022. New Orders 56.8% (+2.7pts). 5th consecutive month of manufacturing expansion. Corresponds to ~2.2% annualized GDP growth. Constructive macro signal.
+
+**Iran talks suspended:** Iran suspended US negotiations citing Israel's Gaza/Lebanon actions (per Iran's Tasnim news agency). Oil WTI +8% to ~$94; Brent +7% to ~$97. Major headwind for equities — inflation risk reignited. Counteracts ISM beat.
+
+**FTD probability today: LOW (~10-15%)** — S&P essentially flat; oil shock overwhelms ISM beat; threshold ~95 pts above current level.
+
+**Distribution day risk today: MODERATE (~20-25%)** — oil surge → elevated transport/consumer sector selling; above-avg volume likely; S&P slightly negative heading into afternoon. If close ≤−0.20% on above-avg vol → new dist day (APR 28 expiry offset → stays 5/25). Confirm at /eod-review.
+
+### Watchlist Trigger Check (BLOCKED — Under Pressure)
+
+Primary watchlist: **NONE** (zero names above conviction threshold). No trigger evaluation required.
+
+### Position Health Check (Mid-Morning)
+
+**0 open positions — SKIPPED.** No sell-rules-engine evaluation needed.
+
+### Overnight Gap Follow-Up
+
+**0 open positions — SKIPPED.**
+
+### Bench Promotion Check
+
+| Symbol | Price | Pivot | Distance | Status | Action |
+|---|---|---|---|---|---|
+| DELL (B1) | ~$430.70 ATH | TBD (no base) | N/A | 🔴 NO BASE | No action — no defined pivot |
+| NVDA (B2) | $219.67 (+4.04%) | TBD (base forming) | N/A | 🔴 NO BASE | Provisional N-letter upgrade 72→75-77; formal re-score pending |
+| GOOGL (B3) | ~$376.34 (−1.05%) | ~$404 | 6.8% below | 🔴 SCORE BELOW 75 | Not within 2% of pivot; score below threshold |
+| AVBO (B4) | ⛔ BLACKOUT | — | — | ⛔ BLACKOUT | No action — earnings AH Jun 3 |
+
+**Promotions: NONE. Demotions: NONE.**
+
+**NVDA note:** $219.67 (+4.04%) on Computex announcements — Vera CPU (new data center CPU market), RTX Spark (new AI PC market), Vera Rubin platform. Provisional N-letter upgrade from 10→13-15 points (new markets beyond GPU). Provisional score revision: 72→75-77/100. WITH base completion (+10): ~85-87/100. **Base still forming (est. Jun 10-Jul 3) — no entry until base defined + FTD + Alpaca restore.** Formal re-score required when live data available.
+
+**GOOGL note:** $376.34 is 6.8% below $404 pivot, worsening from 5.9% at pre-market. Base wk 12+ showing continued stress. Not a demotion event yet, but trend is unfavorable.
+
+### ClickUp Summary
+
+📈 Market-check 2026-06-02 10:00 AM CT
+Market: 🟡 Under Pressure (5/25 dist days → 4/25 pending close) | Circuit breakers: NONE
+Actions taken: No new entries — gate: Uptrend Under Pressure + Alpaca Day 70 blocked
+ISM Mfg PMI May: 54% BEAT (53.3 est.) — highest since May 2022 ✅
+Iran talks suspended: Oil WTI +8% (~$94) — inflation risk resurgence ⚠️
+FTD probability today: LOW (~10-15%) | Dist day risk: MODERATE (~20-25%)
+NVDA: $219.67 (+4%) Computex — provisional score 72→75-77 (base still forming; no entry)
+DELL: ATH ~$430.70 Computex customer — score 74/100 (no base; no entry)
+GOOGL: ~$376.34 (−1%) — 6.8% below $404 pivot; score 72/100; bench only
+AVBO: ⛔ EARNINGS BLACKOUT (AH tomorrow Jun 3)
+Watchlist status: 0 ready (primary empty), 3 bench watching, 1 blackout (AVBO)
+Open positions: 0 | Deployed: 0% | Cash: 100%
+Weekly trade count: 0 of 3 used
+Next check: /eod-review 3:15 PM CT (confirm dist day outcome + APR 28 expiry)
+
+`research_source: websearch_fallback`

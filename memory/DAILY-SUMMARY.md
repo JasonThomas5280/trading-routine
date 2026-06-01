@@ -2174,3 +2174,19 @@ Bench: DELL 74/100 post-earnings gap; NVDA 72/100 base forming est Jun10-Jul3; G
 Calendar risks: Mon Jun2 ISM Mfg + APR28 dist expiry; Wed Jun3 ADP+ISM Svc+AVBO earnings AH; Fri Jun5 NFP 96K est (miss=dist#6→Correction)
 Entry plan Mon: ALL LONG ENTRIES BLOCKED (Under Pressure; Alpaca Day 68)
 Highest priority: Alpaca restore (Day 68 ~14wk blocked); AVBO Jun3 for potential FTD Jun4
+
+---
+## 2026-06-01 15:17 CT [clickup-placeholder]
+
+📈 Market-check 2026-06-02 10:00 AM CT
+Market: 🟡 Under Pressure (5/25 → 4/25 pending close) | Circuit breakers: NONE
+Actions: No new entries — gate: Under Pressure + Alpaca Day 70 blocked
+ISM Mfg PMI May: 54% BEAT (est. 53.3) — highest since May 2022 ✅
+Iran talks suspended: Oil WTI +8% (~$94) — inflation risk resurgence ⚠️
+FTD prob today: LOW (~10-15%) | Dist day risk: MODERATE (~20-25%)
+NVDA: $219.67 (+4%) Computex — provisional score 75-77 (no base; no entry)
+DELL: ATH ~$430.70 Computex customer — score 74/100 (no base; no entry)
+GOOGL: ~$376 (-1%) — 6.8% below $404 pivot; score 72/100; bench only
+AVBO: ⛔ BLACKOUT (earnings AH Jun 3)
+Watchlist: 0 ready | 3 bench | 1 blackout | Open positions: 0 | 0/3 trades used
+Next: /eod-review 3:15 PM CT (confirm dist day + APR 28 expiry)
