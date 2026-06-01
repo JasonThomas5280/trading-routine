@@ -7101,3 +7101,97 @@ All entries gated by 🟡 Uptrend Under Pressure: **NO NEW LONG ENTRIES.**
 
 **Pattern:** Market has been in Under Pressure/Correction for 3+ weeks; rubric correctly reduces entry frequency as conditions deteriorate. 0 passes this week = correct signal. Watch for AVBO post-earnings Jun 9 as first potential 77-82/100 candidate in new XLK sector #1 environment.
 
+---
+
+## 2026-06-02 (Mon) — /pre-market (6:00 AM CT) — NEW WEEK — APR 28 DIST EXPIRES TODAY
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 69; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. 9th consecutive week of full websearch_fallback mode.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 dist days → 4/25 after today's close** (APR 28 expires today) | NO new long entries
+
+### Market overnight check
+
+| Indicator | Level | vs May 29 close | Notes |
+|---|---|---|---|
+| ES futures (S&P Jun) | ~−0.26% | −20 pts vs S&P 7,580.06 | Slight negative open; oil/bond yields rising = headwind |
+| NQ futures (Nasdaq Jun) | ~−0.54% | — | Tech slightly underperforming S&P pre-open |
+| Oil / Bond yields | Rising | — | Headwind for equities; rate hike narrative building |
+| SPY (May 29 close) | ~$756.44 | 9th straight weekly gain | Near all-time high; market resilient but no FTD |
+| S&P Global Mfg PMI (May) | 55.3 | beat 53.8 est. (Apr: 54.5) | Already released; **constructive** — manufacturing expansion accelerating |
+| ISM Mfg PMI (May) | **Releases 10 AM ET today** | est. 53.3 | Beat = FTD fuel; miss = potential dist day |
+
+**FTD probability today: LOW (~8-12%)**
+- ES −0.26% starting point → needs +1.51% intraday swing to reach ~7,674 (7,580.06 × 1.0125)
+- Oil/yield headwind dampening risk appetite
+- ISM data at 10 AM ET is only meaningful catalyst today; even a strong print unlikely to drive 1.25%+ S&P move alone
+
+**Distribution day risk today: LOW-MODERATE (~15-20%)**
+- ES −0.26% pre-open → if sustained into close + volume elevated = potential dist day
+- If dist day fires today: Apr 28 expiry and new dist day offset = stays at 5/25 (no net improvement)
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**0 open positions — SKIPPED.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Overnight catalyst | Thesis impact | Status change? |
+|---|---|---|---|
+| DELL (B1) | **COMPUTEX CONFIRMATION:** DELL listed as Vera CPU customer (Jensen Huang keynote Jun 1). May 31 close ~$420.50 (range $402-$438 on May 31). UBS: cautious after "nearly doubling" in 2026. Susquehanna upgrade to Positive, PT $700 post-earnings. | **Thesis ↑** — Computex confirms AI server demand pipeline; DELL directly named as Vera CPU customer = AI infra leadership confirmed. Score 74/100 UNCHANGED (no base, A-letter unconfirmed). **No base formed** = no entry possible regardless. | NO SCORE CHANGE — 🔴 NO BASE (score 74/100; 1pt below threshold; base est. 3-4 wks from May 29 gap-up = late Jun) |
+| NVDA (B2) | **COMPUTEX MAJOR ANNOUNCEMENTS (Jun 1 keynote):** Vera CPU (data centers, full production; customers include Anthropic, OpenAI, xAI/SpaceX, Dell, Oracle, CoreWeave), RTX Spark superchip (AI PCs with Microsoft, Dell, HP, ASUS, Lenovo, MSI), Vera Rubin platform. Jensen Huang: "Nvidia has become an infrastructure company." May 31 close: ~$212.49 (range $211.13-$217.86). | **SIGNIFICANT N-letter improvement.** Prior N score: 10/20 (near ATH but China H20 = zero = no new market expansion). Computex adds: (1) new CPU market, (2) new AI PC market, (3) new infrastructure platform = NEW MARKETS beyond GPU. N-letter upgrade estimated +3-5pts → 13-15/20. **Provisional score revision: 72→75-77/100 with Computex N-letter credit** BUT: (a) formal re-score requires Alpaca+AV restore for live data, (b) base still not formed (est. Jun 10-Jul 3), (c) base confirms entry (+10pts → ~82-87/100). | **PROVISIONAL SCORE IMPROVEMENT FLAGGED** — 🟡 BENCH (base still required; formal score pending live data; no entry until base + FTD + Alpaca restore) |
+| GOOGL (B3) | No specific overnight news. May 29 est. close ~$380.34 (−2.51% on ATH day). Base wk 12 forming ($380-404 zone). Truist reiterates Buy, PT $430. 64 analysts Strong Buy, avg PT $430.72. Google Cloud $462B backlog. | No change. Score 72/100 (XLC #4 sector). | NO CHANGE — 🟡 BENCH (score below threshold; XLC #4) |
+| AVBO (B4) | **⛔ EARNINGS BLACKOUT — reports AH tomorrow Jun 3.** Consensus: EPS $2.40 ($2.36-$2.54 range), Rev $22.11B (+47% YoY), AI semis $10.7B (+140% YoY). | No action. Post-earnings re-score Jun 9. | NO CHANGE — ⛔ BLACKOUT (earnings Jun 3 AH) |
+
+### Buy-zone readiness
+
+| Symbol | Price est. | Pivot | Distance | Status | Notes |
+|---|---|---|---|---|---|
+| DELL | ~$420.50 (May 31 close) | TBD (no base) | N/A | 🔴 NO BASE | Gap-up from May 29; consolidation needed; est. pivot ~$400-420 once 3-wk base forms (late Jun) |
+| NVDA | ~$212.49 (May 31 close) | TBD (base forming) | N/A | 🔴 NO BASE | Base est. Jun 10-Jul 3; Computex N-letter provisionally improves score ~72→75-77; no entry until base + FTD |
+| GOOGL | ~$380 est. | ~$404 | ~−5.9% | 🔴 SCORE BELOW 75 | Score 72/100; XLC demoted; distance from pivot widening (was 3.5% May 28, now est. 5.9%) |
+| AVBO | ⛔ BLACKOUT | — | — | ⛔ BLACKOUT | Re-score Jun 9 post-earnings |
+
+### NVDA provisional score revision note
+
+**NVDA N-letter upgrade (pending formal re-score):**
+Prior N-letter score: 10/20 (near ATH = 10pts; China H20 = zero = no new market = 0 new market pts)
+Computex new markets added:
+- Vera CPU → entire data center CPU market (never existed for NVIDIA before) = NEW MARKET ✅
+- RTX Spark / N1X → AI PC market = NEW PRODUCT/NEW MARKET ✅
+- Vera Rubin platform → next-gen AI infrastructure = NEW PLATFORM ✅
+Revised N-letter estimate: 13-15/20 (near ATH 10 + new CPU/PC markets +3-5)
+Score revision: C:20 + A:15 + N:13-15 + S:5 + L:15 + I:7 + Base:0 = **75-77/100 provisional**
+**If base confirms (+10): 85-87/100** — strong conviction.
+`data_confidence: medium` | `formal_rescore_required: true` | `pending: alpaca_av_restore`
+
+### Key today (Jun 2)
+
+- **ISM Mfg PMI 10 AM ET:** Watch at /market-check. Miss (< 50 contraction) = dist day risk; beat (>53.3) = modest FTD fuel
+- **APR 28 dist day expires after today's close** → 4/25 (assuming no new dist day today)
+- **AVBO earnings tomorrow (Jun 3 AH):** $2.40 EPS / $22.11B rev consensus. Beat + guidance = FTD catalyst Jun 4.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L — CLEAR |
+| Weekly −6% | $0 week-to-date (RESET) — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0/3 (RESET) — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 69 — HALT ALL ENTRIES |
+
+**No circuit breakers active.** SH hedge $625 queued — FIRST ORDER on Alpaca restore.
+
+### Entry plan
+
+- **NO ENTRIES** — Under Pressure gate + Alpaca Day 69 both blocked
+- **Watch at /market-check (10 AM CT):** ISM Mfg PMI result; S&P progress; dist day risk check
+- **Tomorrow (Jun 3):** ADP employment 8:15 AM CT + ISM Services 10 AM ET + AVBO earnings AH → key day
+- **AVBO earnings watch (Jun 3 AH):** Beat on $2.40 EPS / $22.11B rev = potential FTD catalyst Jun 4
+
+`research_source: websearch_fallback`
+
+

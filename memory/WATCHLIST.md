@@ -93,6 +93,8 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 | NVDA B1 | Moved to B2. DELL added as B1 (closer to threshold, stronger C-letter EPS beat). |
 | META B4 | Removed — price data conflict persists (search shows $280-320, prior watch showed $580-620). Cannot score reliably without Alpaca. Float 2.5B+ = S-letter structural headwind regardless. Re-evaluate only when Alpaca restores and confirms actual price. |
 
+**Pre-market refresh:** 2026-06-02 6:00 AM CT — `/pre-market` | `research_source: websearch_fallback` (Alpaca Day 69 | Perplexity 403 | AV 403) | **NEW WEEK JUN 2-6 — APR 28 DIST EXPIRES TODAY → 4/25 AFTER CLOSE** | ES −0.26%; NQ −0.54% (oil/yields rising); ISM Mfg PMI 10 AM ET (53.3 est.; S&P Global PMI 55.3 beat) | **⚠️ NVDA COMPUTEX (Jun 1 keynote): Vera CPU full production + RTX Spark AI PC chip + Vera Rubin platform — N-letter significantly strengthened; formal re-score pending Alpaca+AV restore + base (est. Jun 10)** | DELL ~$420.50 (May 31 close; no base; score 74/100; DELL listed as Vera CPU customer; UBS caution after near-double in 2026; 🔴 NO BASE — no entry possible) | NVDA ~$212.49 (May 31; Computex bullish; base forming est. Jun 10; 72/100; 🔴 NO BASE) | GOOGL ~$380 est. (base wk 12; XLC #4; 72/100; 🔴 SCORE BELOW THRESHOLD) | AVBO ⛔ BLACKOUT (earnings AH Jun 3) | 0 positions | sell-rules-engine: SKIPPED | Actions: NONE | Circuit breakers: ALL CLEAR | Weekly trades: 0/3 (RESET) | Equity: $2,500 (HWM) | FTD probability today: LOW (~8-12%)
+
 ---
 
 ## ⚠️ ARCHIVED — Week of 2026-05-26 to 2026-05-30 — rebuilt via /weekly-prep Sun May 31

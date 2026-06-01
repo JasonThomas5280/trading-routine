@@ -1,5 +1,19 @@
 
 ---
+## 2026-06-02 06:00 CT [pre-market — NEW WEEK — APR 28 DIST EXPIRES TODAY]
+
+🌅 Pre-market 2026-06-02 (Mon — New Week)
+Market: 🟡 Uptrend Under Pressure (5/25 → 4/25 after today's close) | Futures: ES −0.26% NQ −0.54% (oil/yields rising)
+Open positions: 0 | Circuit breakers: NONE | Alpaca: ❌ Day 69 blocked
+Overnight gaps: NONE (0 open positions)
+⚠️ NVDA COMPUTEX: Vera CPU (full prod.), RTX Spark AI PC chip, Vera Rubin platform (Jun 1 keynote) — N-letter provisionally improves score 72→75-77/100; formal re-score pending Alpaca+AV restore + base formation
+Watchlist ready: NONE 🟢
+Watchlist watching: DELL 🔴 NO BASE (~$420.50 May 31; score 74/100; 1pt below threshold; base est. late Jun) | NVDA 🔴 NO BASE (~$212.49 May 31; provisional 75-77/100 w/ Computex; base est. Jun 10) | GOOGL 🔴 SCORE BELOW 75 (~$380 est.; 72/100; XLC #4; ~5.9% below $404 pivot) | AVBO ⛔ BLACKOUT (earnings AH Jun 3)
+Key catalyst today: ISM Manufacturing PMI 10 AM ET (53.3 est.; S&P Global PMI 55.3 beat = constructive backdrop); APR 28 dist day expires after close → 4/25
+Plan: NO entries — Under Pressure + Alpaca Day 69 blocked. Watch ISM at /market-check. FTD probability today LOW (~8-12%). Best FTD window this week: Jun 4 (post-AVBO earnings reaction) or Jun 5 (NFP 96K est.).
+research_source: websearch_fallback
+
+---
 ## 2026-05-26 06:00 CT [pre-market — FTD DAY 5]
 
 🌅 Pre-market 2026-05-26 (Tue — FTD Day 5)

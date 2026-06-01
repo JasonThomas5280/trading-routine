@@ -8,18 +8,35 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-05-31 (Sun) — `/weekly-prep` 4:00 PM CT — **WEEK OF JUN 2-6 — UNDER PRESSURE — XLK BLACKOUT LIFTED — APR 28 DIST EXPIRES JUN 2 → 4/25 — AVGO EARNINGS TUE JUN 3 — NFP FRI JUN 5**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 68 blocked (HIGHEST PRIORITY)
-**Distribution days: 5/25** (Apr 28, May 4, May 7, May 15, May 19) | **APR 28 EXPIRES JUN 2 (Mon)** → dist count 4/25 after Monday close → one hurdle removed on Confirmed Uptrend path
-**SPY:** est. ~$756.44 (May 29 close) | **50d MA: ~$740** (+2.2%) | **200d MA: ~$722** (+4.7%) | ⚠️ MA CORRECTION: prior est. 50d $689/200d $676 were stale; updated via WebSearch cross-check
-**QQQ:** est. ~$737 (May 29 close) | **50d MA: ~$712** (+3.5%) | **200d MA: ~$683** (+7.9%)
-**Rally attempt INTACT** (SPY >> $733.39 Day 1 low May 19; FTD window expired Day 7 May 28; next FTD = any session S&P +1.25%+ on above-avg vol)
-**FTD: NOT CONFIRMED.** Post-window: any power-move day qualifies. Highest-probability sessions this week: Jun 3 AH AVBO earnings reaction (Jun 4 open), or Jun 5 NFP beat (96K est).
-**⚠️ XLK SECTOR BLACKOUT LIFTED:** XLK at 52-week high $191, +~20% in May. `sector_momentum_warning` CLEARED. XLK moves to #1 sector. NVDA + DELL + AVBO get sector bonus restored.
-**⚠️ XLC DEMOTED to #4:** GOOGL -2.51% on May 29 ATH day = distribution signal. XLC not in top-3. GOOGL L-letter drops from 15→10 → conviction score 77→72 (BELOW threshold).
-**AVGO: ⛔ EARNINGS BLACKOUT TUE JUN 3** — bench-only all week. Re-score week of Jun 9.
-**0 candidates pass conviction ≥75 — 8th consecutive week** | Highest near-threshold: DELL 74/100 (1pt below; A-letter VMware amort. uncertainty); NVDA 72/100 (base forming, est. Jun 10-Jul 3)
-**Open positions: 0 | Equity: $2,500 (HWM) | Alpaca: Blocked Day 68 | `research_source: websearch_fallback`**
+**Last updated:** 2026-06-02 (Mon) — `/pre-market` 6:00 AM CT — **WEEK OF JUN 2-6 — APR 28 DIST EXPIRES TODAY → 4/25 AFTER CLOSE — NVDA COMPUTEX BULLISH — AVBO EARNINGS TOMORROW JUN 3 AH — ALPACA DAY 69 BLOCKED**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 69 blocked (HIGHEST PRIORITY)
+**Distribution days: 5/25 → 4/25 after today's close** (Apr 28 expires today; remaining: May 4, May 7, May 15, May 19) | 4/25 below Under Pressure threshold but FTD still required for Confirmed Uptrend
+**SPY:** est. ~$756.44 (May 29 close); ES futures −0.26% pre-mkt → slight negative open | **50d MA: ~$740** | **200d MA: ~$722**
+**QQQ:** est. ~$737 (May 29 close); NQ futures −0.54% pre-mkt | **50d MA: ~$712** | **200d MA: ~$683**
+**Rally attempt INTACT** (SPY >> $733.39 Day 1 low May 19; FTD = any session S&P +1.25%+ on above-avg vol)
+**FTD: NOT CONFIRMED.** Today LOW probability (~8-12%): ES −0.26%, needs +1.51% intraday swing; oil/yields rising. Best this week: Jun 4 (AVBO beat Jun 3 → reaction) or Jun 5 (NFP, 96K est).
+**⚠️ NVDA COMPUTEX (Jun 1-5, Taipei):** Jensen Huang keynote Jun 1 — Vera CPU (data centers, full production; customers: Anthropic, OpenAI, xAI, Dell, Oracle, CoreWeave), RTX Spark superchip (AI PCs w/ Microsoft, Dell, HP), Vera Rubin platform. Nvidia declared "infrastructure company." N-letter significantly strengthened. Formal re-score pending Alpaca+AV restore + base formation (est. Jun 10).
+**⚠️ XLC DEMOTED to #4:** GOOGL score 72/100 (below 75 threshold). No change from weekly-prep.
+**AVBO: ⛔ EARNINGS BLACKOUT** — reports AH tomorrow Jun 3. No action until Jun 9 re-score.
+**0 candidates pass conviction ≥75 — 8th consecutive week** | DELL 74/100 (no base; ~$420 May 31 close; UBS caution); NVDA 72/100 (Computex bullish N-letter; base forming est. Jun 10)
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 (RESET Mon Jun 2) | Alpaca: Blocked Day 69 | `research_source: websearch_fallback`**
+
+**✅ JUN 2 PRE-MARKET (/pre-market 6:00 AM CT — NEW WEEK — APR 28 DIST EXPIRES TODAY):**
+- **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days; APR 28 expires today → **4/25 after close**). NO new long entries.
+- **Alpaca: Day 69 blocked** (403 "Host not in allowlist"). Perplexity: 403. AV: 403. `research_source: websearch_fallback`
+- **ES futures: ~−0.26% vs May 29 close (S&P 7,580.06)** | NQ: ~−0.54%. Oil/bond yields rising = headwind. Slight negative open expected.
+- **ISM Manufacturing PMI (May): releases 10 AM ET today** (est. 53.3). Note: S&P Global US Mfg PMI May = 55.3 (beat 53.8 est. — constructive). ISM result unknown pre-open; beat = FTD fuel; miss = dist day risk.
+- **⚠️ NVDA COMPUTEX MAJOR CATALYST (Jun 1 keynote):** Vera CPU full production (data center customers: Anthropic, OpenAI, xAI, Dell, Oracle, CoreWeave); RTX Spark superchip (AI PCs with Microsoft, Dell, HP); Vera Rubin platform unveiled. Nvidia now "infrastructure company." **N-letter significantly strengthened — formal re-score pending Alpaca+AV restore + base (est. Jun 10).** NVDA price May 31 close: ~$212.49.
+- **DELL:** ~$420.50 close May 31 (range $402-$438 May 31). DELL listed as Vera CPU customer (Computex confirmation). UBS cautious after near-doubling in 2026. No base formed. Score 74/100 unchanged.
+- **GOOGL:** No specific overnight news. Est. ~$380 (−2.51% May 29). Base wk 12 forming. Score 72/100 (XLC #4). 🟡 BENCH unchanged.
+- **AVBO: ⛔ EARNINGS BLACKOUT** — reports AH tomorrow Jun 3. No action.
+- **FTD probability today: LOW (~8-12%)** — ES −0.26% starting point, needs +1.51% intraday to reach 7,674+ threshold; oil/yields headwind.
+- **Dist day risk today: LOW-MODERATE (~15-20%)** — if S&P closes ≤−0.20% on above-avg vol = new dist day (offsets Apr 28 expiry → stays at 5/25).
+- **APR 28 DIST EXPIRY after close:** 4/25 dist count (if no new dist day today) = below Under Pressure threshold BUT still need FTD for Confirmed Uptrend.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 69 BLOCKED
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 (RESET Mon Jun 2) | Equity: $2,500 (HWM) | P&L: $0
+- **Actions: NONE**
+- **Week inflection points:** (1) ISM Mfg today 10 AM ET; (2) ADP + ISM Services + AVBO earnings Jun 3; (3) Post-AVBO reaction Jun 4 (best FTD candidate); (4) NFP Jun 5 (96K est., 4.3% unemployment est.)
 
 **✅ 2026-05-31 /weekly-prep (4:00 PM CT — WEEK OF JUN 2-6 SETUP):**
 - **Market state:** 🟡 Uptrend Under Pressure (5/25 dist days → 4/25 Jun 2 after Apr 28 expiry). NO new long entries.
