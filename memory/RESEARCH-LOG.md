@@ -7286,3 +7286,87 @@ Weekly trade count: 0 of 3 used
 Next check: /eod-review 3:15 PM CT (confirm dist day outcome + APR 28 expiry)
 
 `research_source: websearch_fallback`
+
+## 2026-06-02 (Mon) — /eod-review (3:15 PM CT) — S&P NEW ATH — APR 28 DIST EXPIRES → 4/25 — AVBO EARNINGS AH
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 71; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction:** 🟡 Uptrend Under Pressure | Distribution days: **4/25** (APR 28 EXPIRED) | FTD still needed
+
+### Market Close Data
+
+| Indicator | Value | vs Prior Close | Notes |
+|---|---|---|---|
+| S&P 500 | **7,599.96** | +0.26% (+19.90 pts) | NEW ALL-TIME HIGH |
+| Nasdaq Composite | **27,086.81** | +0.42% | NEW ALL-TIME HIGH |
+| Dow Jones | **51,078.88** | +0.09% | |
+| SPY est. | **~$758.42** | +0.26% | Alpaca blocked — estimate |
+| QQQ est. | **~$741.42** | +0.42% | Alpaca blocked — estimate |
+| SPY 50d MA | **~$740** | — | SPY ~$758 = +2.5% above |
+| SPY 200d MA | **~$722** | — | SPY ~$758 = +5.0% above |
+| Oil WTI | **~$94** | +8% (Iran shock) | Market absorbed — constructive |
+| Volume (SPY) | unconfirmed | — | Alpaca blocked; likely avg+ given ATH |
+
+### Distribution Day Analysis
+
+- **Jun 2:** S&P +0.26% → UP day → **NOT a distribution day** ✅
+- **APR 28 dist day EXPIRES today** (Day 25 of 25 rolling window from Apr 28)
+- **New dist count: 4/25** (May 4, May 7, May 15, May 19) ✅
+- Previous count was 5/25. Natural relief — below the 5+ "Under Pressure" threshold now.
+- **State: 🟡 Uptrend Under Pressure — unchanged.** All 3 Confirmed Uptrend conditions needed: SPY > 50d MA ✅, <5 dist days ✅, FTD confirmed ❌.
+
+### FTD Check
+
+- S&P 7,599.96 vs FTD threshold **7,674.31** (7,580.06 × 1.0125) → gap **74.35 pts** → NOT FTD
+- +0.26% vs +1.25% needed — insufficient magnitude
+- Rally attempt INTACT: SPY ~$758.42 >> Day 1 low $733.39 (May 19)
+- **Best FTD windows remaining: Jun 4** (post-AVBO reaction) | **Jun 5** (NFP 96K est.)
+
+### Position Health Check
+
+**0 open positions — sell-rules-engine SKIPPED.**
+
+### Circuit Breaker Check
+
+| Breaker | Threshold | Today P&L | Status |
+|---|---|---|---|
+| Daily −3% | −$75 | $0 | ✅ CLEAR |
+| Weekly −6% | −$150 | $0 | ✅ CLEAR |
+| Drawdown −12% HWM | −$300 | $0 | ✅ CLEAR |
+
+**Equity: $2,500 (HWM) | P&L today: $0 | P&L week: $0 | Weekly trades: 0/3**
+
+### Watchlist / Bench Status
+
+| Symbol | Status | Score | Notes |
+|---|---|---|---|
+| AVBO (Broadcom) | ⛔ BLACKOUT | — | Earnings AH tonight Jun 2 → re-score eligible Jun 9 |
+| NVDA | 🟡 BENCH | 75-77 provisional | Base forming est. Jun 10-Jul 3; no pivot defined; no entry |
+| DELL | 🟡 BENCH | 74/100 | No base formed; ATH consolidation. No entry |
+| GOOGL | 🟡 BENCH | 72/100 | Score below 75 threshold (XLC #4); 6.8% below $404 pivot |
+
+**0 names above conviction ≥75 with defined pivot. No buy opportunities.**
+
+### AVBO Earnings Preview (AH Tonight Jun 2)
+
+- **Consensus:** $2.40 EPS (range $2.36-$2.54), $22.11B revenue (+47% YoY)
+- **AI semiconductor:** $10.7B est. (+140% YoY)
+- **Beat scenario:** FTD probability Jun 4 → HIGH. Score resumes Jun 9 (blackout lifts)
+- **Miss/guide-down scenario:** Dist day risk Jun 3 increases; potential FTD headwind
+
+### Actions Today
+
+- **BUY:** NONE
+- **SELL:** NONE
+- **STOP_ADJUST:** NONE
+- **HEDGE:** SH/SQQQ $625 queued — Alpaca Day 71 BLOCKED. No execution.
+
+### ClickUp EOD Summary (→ memory/DAILY-SUMMARY.md)
+
+📊 EOD 2026-06-02 | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions, 100% cash
+Distribution days: 4/25 ✅ (APR 28 expired — market: 🟡 Under Pressure, FTD needed)
+S&P 500: 7,599.96 (+0.26%) NEW ATH | Nasdaq: 27,086.81 (+0.42%) NEW ATH | Dow: 51,078.88 (+0.09%)
+Actions today: NONE (Alpaca blocked Day 71 + Under Pressure gate)
+AVBO earnings AH tonight → best FTD candidate Jun 4 if beat
+Tomorrow: ADP (8:15 AM ET est. 116K) + ISM Services (10 AM ET est. 53.8) + post-AVBO gap reaction
+Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | `research_source: websearch_fallback`

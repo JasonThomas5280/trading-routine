@@ -8,21 +8,35 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-06-02 (Mon) — `/market-check` 10:00 AM CT — **ISM MFG PMI 54% STRONG BEAT — IRAN TALKS SUSPENDED — OIL +7-8% — NVDA +4% COMPUTEX — ALPACA DAY 70 BLOCKED**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 70 blocked (HIGHEST PRIORITY)
-**Distribution days: 5/25 intraday → 4/25 expected after close** (Apr 28 expires today IF no new dist day; dist day risk MODERATE ~20-25% given oil surge + S&P flat-to-slightly-negative) | FTD still required for Confirmed Uptrend
-**SPY:** ~$756 est. (≈flat vs 7,580.06 prev close; S&P opening ~7,579) | ISM Mfg May 54% BEAT (53.3 est.) | **50d MA: ~$740** | **200d MA: ~$722**
-**QQQ:** ~$737 est. | Nasdaq +0.1% (Computex tech lift) | **50d MA: ~$712** | **200d MA: ~$683**
-**Rally attempt INTACT** (SPY >> $733.39 Day 1 low May 19; FTD = any session S&P +1.25%+ on above-avg vol)
-**FTD: NOT CONFIRMED.** Probability LOW (~10-15%): S&P flat; Iran talks suspended → oil +7-8% (WTI ~$94, Brent ~$97) = inflation headwind overwhelms ISM beat; FTD threshold ~7,674 (gap ~95 pts). Best windows: Jun 4 (AVBO beat reaction) or Jun 5 (NFP).
-**⚠️ IRAN TALKS SUSPENDED (Jun 2):** Iran suspended US negotiations citing Israel's Gaza/Lebanon actions. Oil WTI +8% to ~$94, Brent +7% to ~$97. Major inflation risk resurgence.
-**ISM MFG PMI MAY: 54%** — beat 53.3 est.; highest since May 2022; New Orders 56.8% (+2.7pts); 5th straight month manufacturing expansion.
-**NVDA +4.04% (~$219.67):** Computex Vera CPU + RTX Spark + Vera Rubin. N-letter provisional upgrade: 72→75-77/100. Base still forming (est. Jun 10-Jul 3). No entry.
-**DELL ATH ~$430.70:** Computex DELL-as-Vera-CPU-customer confirmed. Score 74/100 unchanged (no base). No entry.
-**GOOGL −1.05% (~$376.34):** 6.8% below $404 pivot. Continued deterioration. Score 72/100 unchanged. Bench only.
-**AVBO: ⛔ EARNINGS BLACKOUT** — reports AH tomorrow Jun 3. No action until Jun 9 re-score.
-**0 candidates pass conviction ≥75** | DELL 74/100 (no base); NVDA provisional 75-77/100 (no base — no entry until base + FTD + Alpaca restore)
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 70 | `research_source: websearch_fallback`**
+**Last updated:** 2026-06-02 (Mon) — `/eod-review` 3:15 PM CT — **S&P NEW ATH 7,599.96 (+0.26%) — APR 28 DIST EXPIRES → 4/25 — NO NEW DIST DAY — AVBO EARNINGS AH TONIGHT — ALPACA DAY 71 BLOCKED**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 71 blocked (HIGHEST PRIORITY)
+**Distribution days: 4/25** (May 4, May 7, May 15, May 19) — APR 28 EXPIRED ✅ | FTD still required for Confirmed Uptrend upgrade
+**SPY:** ~$758.42 est. (+0.26%) | S&P 7,599.96 (+0.26%, NEW ATH) | **50d MA: ~$740** (+2.5% above) | **200d MA: ~$722** (+5.0% above)
+**QQQ:** ~$741.42 est. (+0.42%) | Nasdaq 27,086.81 (+0.42%, NEW ATH) | **50d MA: ~$712** (+4.1% above) | **200d MA: ~$683** (+8.6% above)
+**Rally attempt INTACT** (SPY ~$758 >> $733.39 Day 1 low May 19) | FTD = any session S&P +1.25%+ on above-avg vol
+**FTD: NOT CONFIRMED.** Today +0.26% (need +1.25%). Best window: **Jun 4** (AVBO beat reaction tonight) or **Jun 5** (NFP 96K est.). Rally attempt survived oil shock — constructive.
+**⚠️ IRAN TALKS SUSPENDED (Jun 2):** Despite oil WTI +8% (~$94), market closed +0.26% to new ATH — resilience positive. NVDA tech leadership absorbed shock.
+**AVBO: ⛔ EARNINGS AH TONIGHT Jun 2** — Q2 FY2026 consensus $2.40 EPS / $22.11B rev (+47% YoY). AI semiconductor $10.7B (+140% YoY). Beat = FTD candidate Jun 4. Blackout lifts Jun 9 for re-score.
+**NVDA:** ~$219+ (Computex +4.04%). Provisional score 75-77/100. Base forming (est. Jun 10-Jul 3). No entry until base + FTD + Alpaca restore.
+**0 candidates pass conviction ≥75** | DELL 74/100 (no base); NVDA provisional 75-77/100 (no base); GOOGL 72/100 (score below threshold)
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 71 | `research_source: websearch_fallback`**
+
+**✅ JUN 2 EOD (/eod-review 3:15 PM CT — S&P NEW ATH — APR 28 DIST EXPIRES — 4/25 — NO DIST DAY — AVBO EARNINGS AH):**
+- **S&P 500:** 7,599.96 (+0.26% from 7,580.06 May 29 close) — **NEW ALL-TIME HIGH** | Nasdaq: 27,086.81 (+0.42%, NEW ATH) | Dow: 51,078.88 (+0.09%) | `research_source: websearch_fallback` | **Alpaca blocked Day 71**
+- **SPY est. close: ~$758.42** (+0.26%) | **QQQ est. close: ~$741.42** (+0.42%; Alpaca blocked — estimate only)
+- **Session character:** Market absorbed Iran talks suspension + oil +7-8% and still closed at new ATH. NVDA tech leadership drove Nasdaq. S&P +0.26% — constructive resilience but not FTD character.
+- **Distribution day check (Jun 2):** UP day (+0.26%) → CANNOT be a distribution day. ✅
+- **APR 28 DIST DAY EXPIRES:** Day 25 of 25 rolling window from Apr 28. No new dist day today → count drops from 5/25 to **4/25**. ✅ Remaining dist days: May 4, May 7, May 15, May 19.
+- **Dist count: 4/25 — BELOW "Under Pressure" threshold of 5+ ✅ — but FTD still needed for Confirmed Uptrend upgrade.**
+- **State: 🟡 Uptrend Under Pressure — NO STATE CHANGE.** Conditions for Confirmed Uptrend: (1) SPY above 50d MA ✅ (~$758 >> ~$740); (2) <5 dist days in 25 sessions ✅ (4/25); (3) Follow-through day ❌ (not confirmed). All three required.
+- **FTD check (Jun 2):** S&P 7,599.96 vs threshold 7,674.31 (7,580.06 × 1.0125) → gap **74.35 pts** → NOT FTD. (+0.26% vs +1.25% needed).
+- **Rally attempt INTACT:** SPY ~$758.42 >> Day 1 low $733.39. No undercut. Alive for next FTD opportunity.
+- **0 open positions** → sell-rules-engine: **SKIPPED** | SH hedge $625 queued — Alpaca Day 71 BLOCKED
+- **Hedge check:** State unchanged (🟡 Under Pressure, no fresh transition today) → no new hedge entry triggered. SH $625 remains queued pending Alpaca restore.
+- **AVBO (Broadcom) earnings AH tonight Jun 2:** Consensus $2.40 EPS / $22.11B rev (+47% YoY). AI semiconductor $10.7B (+140% YoY). EPS range $2.36-$2.54. Beat = potential FTD catalyst Jun 4. AVBO blackout active through Jun 8; re-score eligible Jun 9.
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
+- **Tomorrow (Jun 3):** ADP employment (est. 116K, 8:15 AM ET) + ISM Services (est. 53.8, 10 AM ET) + post-AVBO reaction (gap magnitude determines FTD probability Jun 4). Pre-market note: if AVBO beats big → upgrade FTD prob Jun 4 to HIGH; if miss/guide-down → dist day risk Jun 3 increases.
 
 **✅ JUN 2 INTRADAY (/market-check 10:00 AM CT — ISM MFG PMI BEAT — IRAN SUSPENDED — OIL SURGE — NVDA +4%):**
 - **S&P 500:** ~7,579 (≈flat vs 7,580.06 May 29 close; opening ~7,579.33) | Nasdaq est. +0.1% (Computex lift) | `research_source: websearch_fallback` | **Alpaca blocked Day 70**

@@ -2190,3 +2190,13 @@ GOOGL: ~$376 (-1%) — 6.8% below $404 pivot; score 72/100; bench only
 AVBO: ⛔ BLACKOUT (earnings AH Jun 3)
 Watchlist: 0 ready | 3 bench | 1 blackout | Open positions: 0 | 0/3 trades used
 Next: /eod-review 3:15 PM CT (confirm dist day + APR 28 expiry)
+
+---
+📊 EOD 2026-06-02 | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions, 100% cash
+Distribution days: 4/25 ✅ (APR 28 expired — market: 🟡 Under Pressure, FTD needed for upgrade)
+S&P 500: 7,599.96 (+0.26%) NEW ATH | Nasdaq: 27,086.81 (+0.42%) NEW ATH | Dow: 51,078.88 (+0.09%)
+Actions today: NONE (Alpaca blocked Day 71 + Under Pressure gate)
+AVBO earnings AH tonight → best FTD candidate Jun 4 if big beat
+Tomorrow: ADP 8:15 AM ET (est. 116K) + ISM Services 10 AM ET (est. 53.8) + post-AVBO reaction
+Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | research_source: websearch_fallback
