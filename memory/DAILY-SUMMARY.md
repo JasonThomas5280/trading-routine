@@ -2200,3 +2200,16 @@ Actions today: NONE (Alpaca blocked Day 71 + Under Pressure gate)
 AVBO earnings AH tonight → best FTD candidate Jun 4 if big beat
 Tomorrow: ADP 8:15 AM ET (est. 116K) + ISM Services 10 AM ET (est. 53.8) + post-AVBO reaction
 Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | research_source: websearch_fallback
+
+---
+
+🌅 Pre-market 2026-06-03
+Market: 🟡 Under Pressure (4/25 dist days) | Futures: ES +0.31% NQ +0.23%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE 🟢 (bench only: DELL 74/100 no-base; NVDA 72/100 no-base)
+Watchlist watching: DELL 🟡 BENCH | NVDA 🟡 BENCH
+Removed: GOOGL ❌ — $80B equity raise breaks S-letter thesis; score 72→~67/100; 7-13% below pivot
+Key catalyst today: AVGO earnings AH (consensus $2.40 EPS/$22.11B rev) → beat = FTD Jun 4 | ADP 8:15 AM ET (April 109K) | ISM Services 10 AM ET (April 53.6%; contraction risk)
+⚠️ JUN 2 EOD CORRECTION: "AVBO earnings AH tonight Jun 2" was premature — AVGO reports AH TONIGHT Jun 3. Jun 4 FTD thesis unchanged.
+Plan: no entries — Under Pressure + Alpaca Day 72 blocked. Watch AVGO result tonight. FTD windows: Jun 4 (AVGO beat) or Jun 5 (NFP). `research_source: websearch_fallback`

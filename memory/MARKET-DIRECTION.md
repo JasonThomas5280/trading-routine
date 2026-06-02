@@ -56,6 +56,22 @@
 - **Actions: NONE**
 - **/eod-review 3:15 PM CT:** Confirm dist day outcome (APR 28 expiry vs new dist day from oil shock). AVBO earnings AH tomorrow Jun 3 = next major catalyst. Best FTD windows: Jun 4 (AVBO beat reaction) or Jun 5 (NFP 96K est.).
 
+**✅ JUN 3 PRE-MARKET (/pre-market 6:00 AM CT — AVGO EARNINGS AH TONIGHT — GOOGL THESIS BROKEN):**
+- **Market state: 🟡 Uptrend Under Pressure** (4/25 dist days — Apr 28 expired Jun 2). NO new long entries.
+- **Alpaca: Day 72 blocked** (403 "Host not in allowlist"). Perplexity: 403. AV: 403. `research_source: websearch_fallback`
+- **⚠️ JUN 2 EOD CORRECTION:** "AVBO earnings AH TONIGHT (Jun 2)" was premature. AVGO (Broadcom) actually reports AH TONIGHT June 3. All prior plans for "Jun 4 FTD candidate on AVGO beat" remain valid — timing unchanged.
+- **ES futures: +0.31%** | NQ: +0.23% — modest positive lean. No overnight shock.
+- **ADP Employment May (8:15 AM ET today):** April was 109K. Est. ~116K. Result unknown at pre-market. Beat = modest FTD fuel; miss = cautious signal. Confirm at /market-check.
+- **ISM Services May (10:00 AM ET today):** April was 53.6%. Prediction markets showing contraction risk (vs est. 53.8). Key dist day risk gate. Confirm at /market-check.
+- **⚠️ AVGO earnings AH TONIGHT:** Consensus $2.40 EPS / $22.11B rev (+47% YoY), AI semiconductor $10.7B (+140% YoY). Beat = FTD catalyst Jun 4. Blackout lifts Jun 9 for re-score.
+- **⚠️ GOOGL THESIS BROKEN:** $80B equity raise announced Jun 1 ($40B ATM + $30B underwritten + $10B Berkshire @ $351.81/sh). Massively dilutive — contradicts buyback/S-letter thesis. Stock under pressure overnight. GOOGL REMOVED from bench (already 72/100 below threshold; now ~7-13% below $404 pivot; XLC still #4). No replacement candidates at this time.
+- **DELL:** ~$430 est. (ATH territory; no base; 74/100; 🟡 BENCH unchanged). **NVDA:** ~$219-223 est. (base forming; 72/100; 🟡 BENCH unchanged). Both need base formation + FTD + Alpaca restore before entry possible.
+- **FTD status:** NOT CONFIRMED. Best windows: Jun 4 (AVGO beat reaction) + Jun 5 (NFP 96K est.).
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 72 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+- **Actions: NONE**
+- **/market-check 10:00 AM CT:** Confirm ADP result + ISM Services + distribution day check + AVGO earnings prep.
+
 **✅ JUN 2 PRE-MARKET (/pre-market 6:00 AM CT — NEW WEEK — APR 28 DIST EXPIRES TODAY):**
 - **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days; APR 28 expires today → **4/25 after close**). NO new long entries.
 - **Alpaca: Day 69 blocked** (403 "Host not in allowlist"). Perplexity: 403. AV: 403. `research_source: websearch_fallback`

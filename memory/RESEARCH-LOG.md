@@ -7370,3 +7370,76 @@ Actions today: NONE (Alpaca blocked Day 71 + Under Pressure gate)
 AVBO earnings AH tonight → best FTD candidate Jun 4 if beat
 Tomorrow: ADP (8:15 AM ET est. 116K) + ISM Services (10 AM ET est. 53.8) + post-AVBO gap reaction
 Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | `research_source: websearch_fallback`
+
+---
+
+## 2026-06-03 (Wed) — /pre-market (6:00 AM CT) — AVGO EARNINGS AH TONIGHT — GOOGL THESIS BROKEN
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 72; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **4/25 distribution days** (Apr 28 expired Jun 2) | NO new long entries | FTD still needed for Confirmed Uptrend upgrade
+**CORRECTION to Jun 2 EOD:** "AVBO earnings AH TONIGHT (Jun 2)" was PREMATURE — AVGO actually reports June 3 AH (tonight). Confirmed via search: "Broadcom (AVGO) Q2 2026 Preview, Reports June 3." Jun 2 EOD note should have said "AH tomorrow Jun 3." Blackout continues through Jun 8; re-score eligible Jun 9.
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures (S&P Jun) | **+0.31%** | Modest positive lean. No large overnight shock. |
+| NQ futures (Nasdaq Jun) | **+0.23%** | Steady. GOOGL dilution headwind partially offset by AVGO earnings optimism. |
+| ISM Manufacturing May (Mon Jun 2) | **54%** — BEAT (vs 53.3 est.) | Already captured. Highest since May 2022. Constructive. |
+| ADP Employment May | Releases **8:15 AM ET today** | April was 109K. Prior est. ~116K. Result unknown pre-open. Beat = FTD fuel; miss = cautious signal. |
+| ISM Services May | Releases **10:00 AM ET today** | April was 53.6%. Prediction markets showing significant uncertainty (possible contraction risk). Key gate — check at /market-check. |
+| AVGO (Broadcom) earnings | **AH TONIGHT (Jun 3)** | Consensus: $2.40 EPS / $22.11B rev (+47% YoY). AI semiconductor $10.7B (+140% YoY). Beat = BEST FTD catalyst → Jun 4 power-move session. Blackout lifts Jun 9 for re-score. |
+| GOOGL overnight | **⚠️ MAJOR CATALYST — $80B equity raise (Jun 1)** | See catalyst scan below. Stock UNDER PRESSURE overnight. |
+
+**FTD status:** NOT CONFIRMED. Needs S&P +1.25%+ on above-avg vol. Best windows: Jun 4 (AVGO beat reaction) or Jun 5 (NFP 96K est.).
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**0 open positions — SKIPPED.**
+
+### Catalyst scan — watchlist names
+
+| Symbol | Overnight catalyst | Thesis impact | Status |
+|---|---|---|---|
+| DELL (B1) | No new Jun 3 overnight catalyst. Computex DELL-as-Vera-CPU-customer confirmation already logged Jun 2. Price ~$430 est. (ATH territory; no base formed). | No change. Score 74/100. No base = no entry possible. | 🟡 BENCH unchanged |
+| NVDA (B2) | NVDA dividend ex-date Jun 4 ($0.25/share — small, already announced). No new Jun 3 overnight news. Base forming est. Jun 10-Jul 3. Price ~$219-223 est. (Jun 2 close +4.04%). | No thesis change. Score 72/100 provisional. No base = no entry possible. | 🟡 BENCH unchanged |
+| GOOGL (B3) | **⚠️ THESIS BROKEN — $80 billion equity raise (announced Jun 1, 2026).** Structure: $40B at-the-market program (begins Q3 2026) + $30B underwritten (shares + mandatory convertible preferred) + $10B private placement to Berkshire Hathaway ($5B Class A @ $351.81/sh + $5B Class C @ $348.20/sh). Purpose: fund AI compute infrastructure ($180-190B annual capex). Stock reaction: NEGATIVE — "facing resistance" / dropping on dilution concerns. S-letter collapses (massive new share issuance = opposite of buyback narrative; $40B ATM = continuous selling pressure through Q3). Already at 72/100 (below 75 threshold). Score falls further: S-letter 10 → 0-5 → revised est. **65-70/100**. Berkshire buying is positive endorsement but $40B ATM overhang dominates near-term. Price: ~$352-376 est. (Berkshire Class A deal @ $351.81 as reference). Pivot: $404 → **now ~7-13% below pivot and moving away.** | **THESIS MATERIALLY CHANGED. Removing from bench.** $80B dilution directly contradicts S-letter supply/demand thesis. Already below conviction threshold. XLC sector #4 (no sector bonus). Stock moving away from pivot. | ❌ REMOVED from bench — reason: thesis broken by dilutive equity raise |
+| AVGO (B4) | **EARNINGS AH TONIGHT (Jun 3) — BLACKOUT ACTIVE.** No evaluation. Consensus: $2.40 EPS / $22.11B rev. | Blackout continues. Re-score Jun 9. | ⛔ BLACKOUT — no action until Jun 9 |
+
+### Buy-zone readiness
+
+| Symbol | Price est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| DELL | ~$430 | TBD (no base) | N/A | 🟡 BENCH — 74/100; no base |
+| NVDA | ~$219-223 | TBD (base forming) | N/A | 🟡 BENCH — 72/100; no base |
+| GOOGL | ~$352-376 est. | ~$404 | ~7-13% below | ❌ REMOVED — thesis broken |
+| AVGO | ⛔ BLACKOUT | N/A | N/A | ⛔ No action until Jun 9 |
+
+**Primary watchlist: EMPTY (8th/9th consecutive week with 0 names above conviction threshold)**
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L pre-market — CLEAR |
+| Weekly −6% | $0 week-to-date — CLEAR |
+| Drawdown −12% HWM | $0 drawdown from $2,500 HWM — CLEAR |
+| PDT 3/3 | 0/3 day trades — CLEAR |
+| Alpaca API | ❌ 403 blocked Day 72 — HALT ALL ENTRIES |
+
+**No circuit breakers active.** SH hedge $625 queued — FIRST ORDER on Alpaca restore.
+
+### Entry plan
+
+- **NO ENTRIES** — Under Pressure gate + Alpaca Day 72 both blocked
+- **Watch at /market-check (10:00 AM CT):** ADP result (est. 116K; released 8:15 AM ET); ISM Services May (est. contraction risk vs April 53.6%); distribution day check
+- **Tonight AVGO earnings:** $2.40 EPS / $22.11B rev — beat probability HIGH (GAAP EPS consensus); beat = Jun 4 FTD setup
+- **Friday NFP:** 96K est., 4.3% unemployment — second FTD window this week
+
+`research_source: websearch_fallback`
+
+---
