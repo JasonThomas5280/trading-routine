@@ -2213,3 +2213,27 @@ Removed: GOOGL ❌ — $80B equity raise breaks S-letter thesis; score 72→~67/
 Key catalyst today: AVGO earnings AH (consensus $2.40 EPS/$22.11B rev) → beat = FTD Jun 4 | ADP 8:15 AM ET (April 109K) | ISM Services 10 AM ET (April 53.6%; contraction risk)
 ⚠️ JUN 2 EOD CORRECTION: "AVBO earnings AH tonight Jun 2" was premature — AVGO reports AH TONIGHT Jun 3. Jun 4 FTD thesis unchanged.
 Plan: no entries — Under Pressure + Alpaca Day 72 blocked. Watch AVGO result tonight. FTD windows: Jun 4 (AVGO beat) or Jun 5 (NFP). `research_source: websearch_fallback`
+
+---
+## 2026-06-02 15:19 CT [clickup-placeholder]
+
+Market-check 2026-06-03 10:00 AM CT
+Market: Uptrend Under Pressure (4/25 dist days) | Circuit breakers: NONE
+
+KEY DATA - ADP MAY: 37,000 (MASSIVE MISS vs 116K est; prior Apr revised 109K to 60K; worst since Mar 2023)
+Market reaction: RISING on rate cut bets (Fed pivot narrative dominant)
+ISM Services May: PENDING (unconfirmed; Apr 53.6%; contraction risk flagged)
+AVGO earnings AH TONIGHT: .40 EPS / 2.11B rev consensus | beat = FTD Jun 4 | miss = dist day 6 risk
+
+Actions taken:
+  No new entries - ABORT GATE: Market Uptrend Under Pressure (gate 1)
+  Alpaca Day 73 blocked (gate 2) - no executions possible
+
+FTD status: NOT CONFIRMED | Threshold ~7,684 | Gap ~80+ pts | Today modest rally insufficient
+Dist count: 4/25 UNCHANGED | Jun 2 -0.14% (below threshold) | Jun 3 UP day - no dist day
+
+NFP JUN 5 RISK ELEVATED: ADP 37K miss -> NFP likely below 96K est; sub-80K = recession + dist day 6 risk -> Correction
+
+Watchlist: 0 primary | DELL 74/100 BENCH (no base) | NVDA 72/100 BENCH (no base) | AVGO BLACKOUT
+Open positions: 0 | Deployed: 0% | Cash: 100% | Weekly trades: 0/3
+Next: /eod-review 3:15 PM CT - confirm ISM Services + dist day + AVGO AH gap magnitude
