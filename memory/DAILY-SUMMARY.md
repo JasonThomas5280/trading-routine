@@ -2237,3 +2237,15 @@ NFP JUN 5 RISK ELEVATED: ADP 37K miss -> NFP likely below 96K est; sub-80K = rec
 Watchlist: 0 primary | DELL 74/100 BENCH (no base) | NVDA 72/100 BENCH (no base) | AVGO BLACKOUT
 Open positions: 0 | Deployed: 0% | Cash: 100% | Weekly trades: 0/3
 Next: /eod-review 3:15 PM CT - confirm ISM Services + dist day + AVGO AH gap magnitude
+
+---
+## 2026-06-02 20:22 CT [clickup-placeholder]
+
+📊 EOD 2026-06-03 | Equity $2,500 (0.00% day, 0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 4/25 (market: 🟡 Under Pressure — no change)
+Actions today: NONE (Alpaca Day 74 blocked + Under Pressure gate)
+⚠️ ISM Services May: UNCONFIRMED (released 10 AM ET — not yet indexed)
+⚠️ NFP Jun 5 risk: ADP 37K miss (worst since Mar 2023) → sub-80K print possible → dist #5 threat
+Tonight: AVGO earnings AH (5 PM ET, consensus $2.40 / $22.11B) — beat = FTD Jun 4 candidate; miss = dist #5 risk
+Tomorrow: Confirm ISM Services result + AVGO reaction + FTD check (need S&P +1.25%+ on vol) + Alpaca restore HIGHEST PRIORITY (Day 74)

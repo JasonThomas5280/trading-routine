@@ -8,20 +8,20 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-06-03 (Wed) — `/market-check` 10:00 AM CT — **ADP MAY 37K MASSIVE MISS — MARKET RISING (RATE CUT BETS) — AVGO EARNINGS AH TONIGHT — ALPACA DAY 73 BLOCKED**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 73 blocked (HIGHEST PRIORITY)
-**Distribution days: 4/25** (May 4, May 7, May 15, May 19) — NO new dist day Jun 2 (−0.14%, below −0.20% threshold) | NO dist day Jun 3 (UP day) | FTD still required for Confirmed Uptrend upgrade
-**SPY:** ~$758 est. | S&P last close ~7,589 est. (Jun 2 −0.14% from 7,599.96 Jun 1 ATH) | **50d MA: ~$740** (+2.5%) | **200d MA: ~$722** (+5.0%)
-**QQQ:** ~$741 est. | **50d MA: ~$712** (+4.1%) | **200d MA: ~$683** (+8.6%)
+**Last updated:** 2026-06-03 (Wed) — `/eod-review` 3:15 PM CT — **NO DIST DAY — MARKET UP ON RATE CUT BETS — FTD NOT CONFIRMED — AVGO EARNINGS AH TONIGHT — ALPACA DAY 74 BLOCKED**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 74 blocked (HIGHEST PRIORITY)
+**Distribution days: 4/25** (May 4, May 7, May 15, May 19) — NO new dist day Jun 2 (−0.14%) | NO dist day Jun 3 (UP day) | FTD still required for Confirmed Uptrend upgrade
+**SPY:** ~$760 est. | S&P est. close ~7,615 (+0.3-0.5% est. from 7,589 Jun 2) | **50d MA: ~$740** (+2.7%) | **200d MA: ~$722** (+5.4%)
+**QQQ:** ~$743 est. | **50d MA: ~$712** (+4.4%) | **200d MA: ~$683** (+8.8%)
 **Rally attempt INTACT** (SPY >> $733.39 Day 1 low May 19) | FTD = any session S&P +1.25%+ on above-avg vol
-**FTD: NOT CONFIRMED.** Today: market UP on rate cut bets but well short of ~7,684 (+1.25% threshold from ~7,589). Best window: **Jun 4** (AVGO beat reaction AH tonight) or **Jun 5** (NFP — risk after ADP 37K miss).
-**⚠️ ADP MAY 37K (MASSIVE MISS):** vs 116K est; prior April revised 109K→60K. Worst since Mar 2023. Rate cut bets surging. Market reaction: RISING (Yahoo Finance confirmed "bad news = good news" — Fed pivot narrative dominant).
-**⚠️ NFP RISK JUN 5:** After ADP 37K miss + April 109K→60K revision, NFP could print <80K. Sub-80K = recession signal + potential dist day #6 → 🔴 Correction.
-**AVGO: ⛔ EARNINGS AH TONIGHT Jun 3** — Q2 FY2026 consensus $2.40 EPS / $22.11B rev (+47% YoY). AVGO ATH $446.77 pre-earnings. Beat = FTD candidate Jun 4. Blackout lifts Jun 9 for re-score.
-**ISM Services May:** Unconfirmed (released 10 AM ET / 9 AM CT today; data not yet indexed; Apr was 53.6%; prediction markets flagged contraction risk). Confirm at /eod-review.
+**FTD: NOT CONFIRMED.** Jun 3 UP day on ADP miss/rate cut bets fell well short of ~7,684 threshold (+1.25% needed). **Best FTD window: Jun 4** (AVGO AH beat reaction — beat + guide = power-move catalyst) or **Jun 5** (NFP — high risk after ADP 37K miss).
+**⚠️ ISM Services May: UNCONFIRMED** — released 10 AM ET Jun 3 but not yet indexed in web search. April was 53.6%. Prediction markets flagged ~50/50 expansion/contraction. Employment sub-index in contraction 2 months. Market closed UP despite uncertainty — "bad news = good news" rate-cut narrative dominant.
+**⚠️ ADP MAY 37K (MASSIVE MISS):** vs 116K est; prior April revised 109K→60K. Worst since Mar 2023. Rate cut bets surging.
+**⚠️ NFP RISK JUN 5:** ADP 37K miss + April revision. Real risk of sub-80K. Sub-80K = dist day #6 candidate → 🔴 Correction.
+**AVGO: ⛔ EARNINGS AH TONIGHT Jun 3** — Q2 FY2026 consensus $2.40 EPS / $22.11B rev (+47% YoY). Reports 5 PM ET. Beat + guide = FTD Jun 4 candidate. Miss = dist day #5 risk Jun 4 (→ 5/25 = back to "full" Under Pressure). Blackout lifts Jun 9 for re-score.
 **NVDA:** ~$224 est. (Jun 1 close). Provisional score 75-77/100. Base forming (est. Jun 10-Jul 3). No entry until base + FTD + Alpaca restore.
 **0 candidates pass conviction ≥75** | DELL 74/100 (~$456 est., no base); NVDA provisional 75-77/100 (no base); AVGO ⛔ BLACKOUT
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 73 | `research_source: websearch_fallback`**
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 74 | `research_source: websearch_fallback`**
 
 **✅ JUN 3 INTRADAY (/market-check 10:00 AM CT — ADP 37K MISS — MARKET RISING — AVGO EARNINGS AH TONIGHT):**
 - **ADP May 2026: 37,000** (MASSIVE MISS vs est. 116K; prior April revised 109K → 60K) — worst monthly print since Mar 2023. Large employers (+500 employees) shed 3K jobs. Manufacturing −3K. `research_source: websearch_fallback` | **Alpaca blocked Day 73**
@@ -38,6 +38,22 @@
 - **Circuit breakers:** ALL CLEAR | P&L today: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
 - **Actions: NONE**
 - **/eod-review 3:15 PM CT:** Confirm ISM Services result + distribution day check + post-AVGO AH gap magnitude (FTD probability assessment for Jun 4).
+
+**✅ JUN 3 EOD (/eod-review 3:15 PM CT — NO DIST DAY — FTD NOT CONFIRMED — AVGO EARNINGS AH TONIGHT — ALPACA DAY 74):**
+- **S&P 500:** est. ~7,615 (+0.3-0.5% est. from 7,589 Jun 2 close) | Nasdaq: est. +0.3-0.5% | `research_source: websearch_fallback` | **Alpaca blocked Day 74**
+- **SPY est. close: ~$760** | **QQQ est. close: ~$743** (Alpaca blocked, estimates only — data confidence: LOW; web search unable to index Jun 3 close at 3:15 PM CT)
+- **Session character:** Market UP on ADP 37K miss = "bad news is good news" (Fed pivot narrative). Rate cut bets surged. Modest grind higher, not a power-move session. Rally continues but lacks FTD conviction.
+- **Distribution day check (Jun 3):** UP day (est. +0.3-0.5%) → CANNOT be a distribution day. ✅ Dist count: **4/25 UNCHANGED.** State: **🟡 Under Pressure — NO CHANGE.**
+- **FTD check (Jun 3):** S&P est. ~7,615 vs threshold ~7,684 (7,589 × 1.0125) → gap est. **~69 pts short** → **NOT FTD.** (+0.3-0.5% vs +1.25% needed). FTD window continues: Jun 4 (best candidate — AVGO AH tonight), Jun 5 (NFP).
+- **Rally attempt INTACT:** SPY ~$760 est. >> Day 1 low $733.39. No undercut.
+- **ISM Services May 2026:** UNCONFIRMED — released 10 AM ET but not indexed. April 53.6%. Cannot confirm expansion/contraction. Market remained UP through close = didn't trigger a reversal. Likely expansion OR market ignored modest miss. Flagged open item; confirm /pre-market Jun 4.
+- **AVGO earnings AH TONIGHT (5 PM ET):** Consensus $2.40 EPS / $22.11B rev (+47% YoY). AVGO ATH $446.77. Report not yet released at 3:15 PM CT. Beat + strong AI guide = FTD Jun 4 candidate. Miss/guide-down = dist day risk Jun 4 + bearish re-pricing. **HIGHEST CATALYST EVENT this week.**
+- **0 open positions** → sell-rules-engine: **SKIPPED** (EMPTY BATCH — 0 positions to evaluate) | SH hedge $625 queued — Alpaca Day 74 BLOCKED
+- **Hedge check:** State unchanged (🟡 Under Pressure, no fresh transition today) → no new hedge entry triggered. SH $625 remains queued pending Alpaca restore.
+- **Portfolio-level dist day cluster check:** dist count 4/25 — well below 6/25 trigger. No action.
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
+- **Tomorrow (Jun 4):** (1) Confirm ISM Services May result at /pre-market; (2) Monitor AVGO AH reaction — FTD confirmation requires S&P gap-up ≥+1.25% on above-avg vol; (3) Alpaca restore — Day 74 / HIGHEST PRIORITY; (4) Pre-market watchlist update post-AVGO.
 
 **✅ JUN 2 EOD (/eod-review 3:15 PM CT — S&P NEW ATH — APR 28 DIST EXPIRES — 4/25 — NO DIST DAY — AVBO EARNINGS AH):**
 - **S&P 500:** 7,599.96 (+0.26% from 7,580.06 May 29 close) — **NEW ALL-TIME HIGH** | Nasdaq: 27,086.81 (+0.42%, NEW ATH) | Dow: 51,078.88 (+0.09%) | `research_source: websearch_fallback` | **Alpaca blocked Day 71**

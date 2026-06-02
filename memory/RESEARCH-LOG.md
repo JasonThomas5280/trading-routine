@@ -7443,3 +7443,134 @@ Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | `research_source: websearch_f
 `research_source: websearch_fallback`
 
 ---
+
+## 2026-06-03 (Wed) — /market-check (10:00 AM CT) — ADP 37K MASSIVE MISS — MARKET RISING
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 73; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **4/25 distribution days** | NO new long entries
+
+### Market overview (10:00 AM CT = 11:00 AM ET)
+
+| Index | Change | Notes |
+|---|---|---|
+| S&P 500 | ~+0.3-0.5% est. (~7,610-7,630 est.) | Rising on ADP miss / rate-cut bets |
+| Nasdaq | ~+0.3-0.5% est. | Broad risk-on; AI names leading |
+| FTD check | NOT CONFIRMED | Threshold ~7,684 (7,589 × 1.0125); gap ~80+ pts |
+
+**ADP May 2026: 37,000** (MASSIVE MISS vs est. 116K; prior April revised 109K→60K) — worst since Mar 2023. Yahoo Finance confirmed: "Dow, S&P 500, Nasdaq rise as weak ADP jobs data reinforces growing Fed rate cut bets." Bad news = good news. Fed pivot narrative dominant.
+
+**ISM Services May 2026:** Released 10 AM ET / 9 AM CT — UNCONFIRMED (not yet indexed in web search). April was 53.6%. Prediction markets flagged ~50/50 expansion/contraction risk. Employment sub-index in contraction 2 months. Market remained UP = likely expansion OR market ignored modest miss. Flag: confirm at /eod-review or /pre-market Jun 4.
+
+**Distribution day check:** UP day → CANNOT be a dist day. Count: 4/25 UNCHANGED.
+
+**Abort gates:** 🟡 Under Pressure → ALL LONG ENTRIES BLOCKED ✅ | Alpaca Day 73 → no execution ✅
+
+### Catalyst scan — watchlist names
+
+| Symbol | Status | Notes |
+|---|---|---|
+| DELL | 🟡 BENCH — 74/100; no base | No new catalyst |
+| NVDA | 🟡 BENCH — 72/100; base forming | NVDA dividend ex-date Jun 4 ($0.25/sh — minor) |
+| AVGO | ⛔ BLACKOUT AH TONIGHT | Reports 5 PM ET. Consensus $2.40 EPS / $22.11B rev. Best FTD catalyst this week. |
+
+### Open positions / sell-rules-engine
+
+**0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 73 BLOCKED
+
+### Circuit breakers
+
+ALL CLEAR | P&L today: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+
+**Actions: NONE**
+
+`research_source: websearch_fallback`
+
+---
+
+## 2026-06-03 (Wed) — /eod-review (3:15 PM CT) — NO DIST DAY — FTD NOT CONFIRMED — AVGO AH TONIGHT
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 74; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **4/25 distribution days** | NO new long entries
+
+---
+
+**Close:** SPY ~$760 est. (+0.3-0.5% est.) | QQQ ~$743 est. (+0.3-0.5% est.)
+**S&P 500 est.:** ~7,615 (est. from 7,589 Jun 2 close; Alpaca blocked — web data not yet indexed at 3:15 PM CT)
+**Distribution days:** 4/25 (today: NO dist day — UP day) | Remaining: May 4, May 7, May 15, May 19
+**Market state:** 🟡 Uptrend Under Pressure (NO transition today — unchanged)
+**Positions held:** 0
+**Actions today:** NONE
+
+---
+
+### Step 1 — Market state assessment
+
+| Check | Result |
+|---|---|
+| Distribution day Jun 3 | ❌ UP day → NOT a dist day. Count stays 4/25. |
+| FTD check | ❌ NOT CONFIRMED. Est. +0.3-0.5% vs +1.25% threshold. Gap ~69 pts from 7,684. |
+| State change | NONE — 🟡 Under Pressure holds. |
+| Rally attempt | INTACT. SPY ~$760 >> Day 1 low $733.39. |
+| Dist count trajectory | 4/25: May 4 (expires ~Jun 30), May 7 (expires ~Jul 3), May 15 (expires ~Jul 9), May 19 (expires ~Jul 13). No near-term natural expiries. FTD is the only upgrade path. |
+
+**ISM Services May 2026 — UNCONFIRMED.** Released 10 AM ET Jun 3 but web search unable to index. April was 53.6%. Market closed UP through session — likely expansion print or market shrugged off a mild miss. If contraction (<50) → potential dist day risk would have reversed the rally. Market did not reverse. Working assumption: expansion. Confirm at /pre-market Jun 4.
+
+### Step 2 — Sell-rules-engine
+
+```json
+{
+  "batch_evaluated": 0,
+  "results": [],
+  "note": "0 open positions — evaluation skipped per protocol",
+  "market_level_triggers": {
+    "distribution_days": 4,
+    "state": "UPTREND_UNDER_PRESSURE"
+  }
+}
+```
+
+**VERDICT: SKIPPED — no positions to evaluate.**
+
+### Step 3 — Verdicts executed
+
+None. No positions.
+
+### Step 4 — Portfolio-level checks
+
+- **Distribution cluster (Rule 4):** dist count 4/25 — well below 6/25 trigger. No action.
+- **Hedge entry check:** State UNCHANGED (no transition today). SH hedge $625 remains queued. Cannot execute (Alpaca Day 74 blocked).
+- **FTD exit check (inverse ETF):** N/A — no hedge currently held.
+
+### Step 5 — Circuit breaker check
+
+| Breaker | Level | Status |
+|---|---|---|
+| Daily −3% | 0% ($0 P&L) | ✅ CLEAR |
+| Weekly −6% | 0% ($0 week P&L) | ✅ CLEAR |
+| Drawdown −12% HWM | 0% from $2,500 | ✅ CLEAR |
+| PDT 3/3 | 0/3 day trades | ✅ CLEAR |
+
+**No circuit breakers triggered.**
+
+### Step 6 — Weekly trade counter
+
+Week of Jun 2: **0/3 positions** opened. Jun 3: 0 new positions. Count: **0/3 — UNCHANGED.**
+
+### Step 7 — Tomorrow priorities (Jun 4)
+
+1. **AVGO AH tonight (5 PM ET):** Beat + strong AI guide = FTD Jun 4 candidate (need S&P gap-up ≥+1.25% on above-avg vol). Miss/guide-down = dist day risk Jun 4 → 5/25 → back to "full" Under Pressure threshold; potential dist day #6 path worsens.
+2. **ISM Services May result** — confirm at /pre-market Jun 4 (unconfirmed from today).
+3. **Alpaca restore — Day 74 / HIGHEST PRIORITY.** Without Alpaca: no entries, no hedge, no stops. SH $625 queued as FIRST ORDER.
+4. **NFP Jun 5:** After ADP 37K miss + April revised to 60K, real risk of sub-80K NFP. Sub-80K = recession signal + dist day #6 potential → 🔴 Correction.
+5. **Watchlist:** ZERO primary candidates. DELL 74/100 (no base), NVDA 72/100 (base forming). AVGO blackout through Jun 8; re-score Jun 9.
+
+---
+
+**P&L today:** +$0.00 (+0.00%)
+**P&L week:** +$0.00 (+0.00%)
+**Equity:** $2,500.00 (= HWM)
+**Circuit breakers:** ALL CLEAR
+
+`research_source: websearch_fallback`
+
+---
