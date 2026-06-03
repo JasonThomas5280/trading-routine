@@ -8,20 +8,20 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-06-04 (Thu) — `/pre-market` 6:00 AM CT — **AVGO BEAT +6% AH — ES FLAT/NEG — FTD NOT TRIGGERED — NFP TOMORROW JUN 5 — ALPACA DAY 75 BLOCKED**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 75 blocked (HIGHEST PRIORITY)
-**Distribution days: 4/25** (May 4, May 7, May 15, May 19) — NO new dist day Jun 2 (−0.14%) | NO dist day Jun 3 (UP day) | FTD still required for Confirmed Uptrend upgrade
-**SPY:** ~$760 est. | S&P est. close ~7,615 Jun 3 | **50d MA: ~$740** (+2.7%) | **200d MA: ~$722** (+5.4%)
-**QQQ:** ~$743 est. | **50d MA: ~$712** (+4.4%) | **200d MA: ~$683** (+8.8%)
+**Last updated:** 2026-06-04 (Thu) — `/market-check` 10:00 AM CT — **ISM SERVICES 54.5% BEAT — FTD NOT CONFIRMED — NFP CONS REVISED 65K TOMORROW — AVGO ~$505 NEW ATH — ALPACA DAY 76 BLOCKED**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 76 blocked (HIGHEST PRIORITY)
+**Distribution days: 4/25** (May 4, May 7, May 15, May 19) — NO dist day Jun 3 (UP day ✅) | Jun 4 TBD at EOD (flat/slight neg intraday) | FTD still required for Confirmed Uptrend upgrade
+**SPY:** ~$761 est. Jun 4 open | S&P est. close ~7,615 Jun 3 | **50d MA: ~$740** (+2.7%) | **200d MA: ~$722** (+5.4%)
+**QQQ:** ~$744 est. | **50d MA: ~$712** (+4.4%) | **200d MA: ~$683** (+8.8%)
 **Rally attempt INTACT** (SPY >> $733.39 Day 1 low May 19) | FTD = any session S&P +1.25%+ on above-avg vol
-**FTD: NOT CONFIRMED.** ES −0.14% Jun 4 pre-market → AVGO beat (+6% AH) did NOT power up broad futures. FTD probability today VERY LOW (~8-12%); need +1.39% intraday from ~7,615. **Best remaining FTD window: Jun 5 (NFP — elevated risk).**
-**⚠️ AVGO Q2 FY2026 BEAT:** EPS +1.49% surprise, Rev +0.52% surprise, stock +6.03% AH (Jun 3). AI semiconductor record. Post-earnings price est. ~$473 (new ATH territory). **Re-score eligible Jun 9 — est. 77–82/100 with base + XLK bonus. HIGH-PRIORITY target.**
-**⚠️ ISM Services May: UNCONFIRMED** — released Jun 3 10 AM ET, not indexed. Market UP Jun 3 → likely expansion or absorbed. Confirm at /market-check Jun 4.
-**⚠️ NFP RISK JUN 5 (TOMORROW, 7:30 AM CT):** ADP 37K miss + April revised 109K→60K. Real risk of sub-80K print. Sub-80K = recession signal + dist day #6 candidate → 🔴 Correction. **HIGHEST RISK EVENT remaining this week.**
-**NVDA:** $221.79 Jun 3 close. Dividend ex-date today ($0.25/sh). Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH.
-**DELL:** ~$456–461 est. (ATH). No new overnight news. Score 74/100. No base. 🟡 BENCH.
+**FTD: NOT CONFIRMED.** Market flat/slight neg Jun 4. AVGO stock-specific gain. FTD probability today VERY LOW (~8-12%); need +1.39% from ~7,615 → ~7,711. **Best remaining window: Jun 5 (NFP — binary event).**
+**✅ ISM Services May 2026: 54.5% CONFIRMED BEAT** (vs 53.8% est., prior 53.6%; 23rd straight expansion month). New Orders 57.3% (strong). Prices 71.3% (sticky inflation). Market absorbed well → NOT a dist day Jun 3 ✅.
+**⚠️ AVGO post-earnings:** Session $477.01 Jun 3 (range $475–$496). AH +6.03% → est. $505–510 Jun 4 open (new ATH). **Re-score Jun 9 — est. 77–82/100 + XLK bonus + base. HIGHEST-PRIORITY entry candidate.**
+**⚠️ NFP JUN 5 (TOMORROW 7:30 AM CT): CONSENSUS REVISED DOWN to ~65K** (from 96K; ADP 37K miss). Leading indicators: 110–150K possible. 65–110K = neutral/beat vs revised cons; sub-65K = miss → dist day #6 risk → 🔴 Correction. Risk is LOWER than feared but event still binary.
+**NVDA:** ~$222–225 est. Jun 4. Ex-div $0.25/sh today. Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH.
+**DELL:** ~$440–448 est. Jun 4 (−4.63% Jun 2 from ~$466 ATH; Jun 3 recovery partial). Score 74/100. No base. 🟡 BENCH.
 **0 candidates pass conviction ≥75** | DELL 74/100 (no base); NVDA 72/100 prov. (no base); AVGO re-score Jun 9
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 75 | `research_source: websearch_fallback`**
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 76 | `research_source: websearch_fallback`**
 
 **✅ JUN 4 PRE-MARKET (/pre-market 6:00 AM CT — AVGO BEAT +6% AH — FTD NOT TRIGGERED — NFP TOMORROW):**
 - **Market state: 🟡 Uptrend Under Pressure** (4/25 dist days). NO new long entries. `research_source: websearch_fallback` | **Alpaca blocked Day 75** | Perplexity 403 | AV 403
@@ -36,6 +36,21 @@
 - **Circuit breakers:** ALL CLEAR | P&L: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
 - **Actions: NONE**
 - **/market-check 10:00 AM CT:** Confirm ISM Services May + dist day check + AVGO price discovery + NFP outlook prep.
+
+**✅ JUN 4 INTRADAY (/market-check 10:00 AM CT — ISM 54.5% BEAT — FTD NOT CONFIRMED — NFP CONS 65K TOMORROW — ALPACA DAY 76):**
+- **Market state: 🟡 Uptrend Under Pressure** (4/25 dist days). NO new long entries. `research_source: websearch_fallback` | **Alpaca blocked Day 76** (403 confirmed live) | Perplexity 403 | AV 403
+- **Abort gates:** 🟡 Under Pressure → ALL LONG ENTRIES BLOCKED ✅ | Alpaca Day 76 → no execution possible ✅
+- **✅ ISM Services May 2026: 54.5%** (BEAT vs 53.8% est., prior 53.6%) — 23rd consecutive expansion month. New Orders 57.3% (+3.8 pts). Business Activity 57.7% (+1.8 pts). Prices 71.3% (+0.6 pts — highest since Aug 2022 = sticky services inflation signal). **Macro: bullish services growth; inflation caveat for Fed.** Market absorbed Jun 3 → NOT a dist day. Distribution count: **4/25 UNCHANGED ✅.**
+- **FTD check (Jun 4):** S&P est. flat/slight neg from ~7,615 Jun 3 close. FTD threshold: ~7,615 × 1.0125 = **~7,711**. Gap ~96 pts. AVGO +6% AH is stock-specific; did not lift broad futures (ES −0.14% pre-market). **FTD: NOT CONFIRMED. Probability VERY LOW (~8-12%).**
+- **AVGO price discovery (Jun 4):** Jun 3 session close $477.01 (range $475.41–$496.02; anticipatory buying pre-earnings). AH +6.03% → est. **$505–510 Jun 4 open** (new ATH). Confirms strong buy-side conviction on AI semis beat. Re-score Jun 9 blackout convention intact.
+- **NFP Jun 5 update:** Consensus REVISED DOWN to ~65K (from 96K prior, post ADP 37K miss). Leading indicators (ISM composite, Challenger cuts) suggest 110–150K possible. Risk profile: sub-65K = miss → bearish → dist day #6 risk → 🔴 Correction; 65–110K = matches/beats revised cons → neutral/positive; 110K+ = FTD fuel. **REDUCED risk vs prior "sub-80K on 96K" scenario. Still binary.**
+- **Watchlist triggers (primary):** ZERO primary items → no triggers evaluated. All bench items below threshold or no base.
+- **Bench promotion check:** DELL est. ~$440–448 (down from ATH post Jun 2 −4.63%; no base formed; no defined pivot) → NO promotion. NVDA ~$222–225 (base forming est. Jun 10; no defined pivot) → NO promotion. AVGO: re-score Jun 9 — no bench status change today.
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 76 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
+- **/eod-review 3:15 PM CT:** Confirm Jun 4 dist day outcome (UP/DOWN + volume check) + NFP final prep (scenario: beat vs miss) + AVGO Jun 4 closing price + Alpaca restore HIGHEST PRIORITY (Day 76).
 
 **✅ JUN 3 INTRADAY (/market-check 10:00 AM CT — ADP 37K MISS — MARKET RISING — AVGO EARNINGS AH TONIGHT):**
 - **ADP May 2026: 37,000** (MASSIVE MISS vs est. 116K; prior April revised 109K → 60K) — worst monthly print since Mar 2023. Large employers (+500 employees) shed 3K jobs. Manufacturing −3K. `research_source: websearch_fallback` | **Alpaca blocked Day 73**

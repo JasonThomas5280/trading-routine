@@ -1,5 +1,23 @@
 
 ---
+## 2026-06-04 10:00 CT [market-check — ISM 54.5% BEAT — FTD NOT CONFIRMED — NFP TOMORROW]
+
+📈 Market-check 2026-06-04 10:00 AM CT
+Market: 🟡 Uptrend Under Pressure (4/25 dist days) | Circuit breakers: NONE
+Actions taken: No new entries — gate: Under Pressure + Alpaca Day 76 blocked
+
+Key resolved:
+  ✅ ISM Services May 54.5% (BEAT vs 53.8% est.) — 23rd straight expansion month. NOT a dist day Jun 3.
+  ✅ Dist count: 4/25 UNCHANGED. Jun 4 dist day: TBD at EOD (flat/slight neg intraday).
+  ✅ AVGO post-earnings ~$505-510 Jun 4 est. (new ATH; AH +6.03%). Re-score Jun 9 → est. 77-82/100 HIGHEST priority.
+  ✅ NFP consensus REVISED to 65K (from 96K; leading indicators 110-150K). Binary event tomorrow.
+  ✅ FTD NOT confirmed (need ~7,711 from ~7,615; gap ~96 pts; prob VERY LOW ~8-12%).
+
+Watchlist status: 0 primary (threshold), 3 bench (DELL 74/no base, NVDA 72/no base, AVGO re-score Jun 9)
+Open positions: 0 | Cash: 100% ($2,500) | Weekly trade count: 0/3
+Next check: /eod-review 3:15 PM CT — dist day confirm + NFP prep + AVGO close
+
+---
 ## 2026-06-02 06:00 CT [pre-market — NEW WEEK — APR 28 DIST EXPIRES TODAY]
 
 🌅 Pre-market 2026-06-02 (Mon — New Week)
