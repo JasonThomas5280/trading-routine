@@ -7669,3 +7669,151 @@ Week of Jun 2: **0/3 positions** opened. Jun 3: 0 new positions. Count: **0/3 �
 `research_source: websearch_fallback`
 
 ---
+
+---
+
+## 2026-06-04 (Thu) — /eod-review (3:15 PM CT) — ⚠️ JUN 3 DIST DAY CORRECTION — 5/25 — NFP TOMORROW BINARY EVENT
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 77; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days (CORRECTED)** | NO new long entries
+
+---
+
+### Step 1 — Fresh market state (Jun 4 close)
+
+**⚠️ MAJOR CORRECTION — JUN 3 WAS A DISTRIBUTION DAY:**
+
+Prior Jun 3 /eod-review estimated S&P +0.3-0.5% (UP) based on 10 AM CT intraday data. Market was rising on ADP 37K miss (rate-cut narrative). Actual final close: **S&P −0.74%**. The market reversed midday when Iran launched missiles at Kuwait and Bahrain (geopolitical shock), oil WTI jumped +2.5% to $96.05, and the morning rally evaporated entirely. Confirmed by Motley Fool, TheStreet, LatestLY.
+
+| Index | Jun 3 Actual Close | Change | Dist Day? |
+|---|---|---|---|
+| S&P 500 | ~7,553 | −0.74% | ✅ YES (>0.2%, elevated vol) |
+| Nasdaq | ~26,873 | −0.89% | N/A (track SPY/S&P) |
+| Dow | ~50,693 | −1.21% | N/A |
+| Russell 2000 | n/a | −1.25% | N/A |
+| SPY | ~$753.95 | −0.74% | ✅ YES |
+
+**Jun 3 = DISTRIBUTION DAY #5. Dist count corrected: 4/25 → 5/25.**
+Remaining dist days in window: May 4, May 7, May 15, May 19, Jun 3.
+
+| Index | Jun 4 Close (est.) | Change | Dist Day? |
+|---|---|---|---|
+| S&P 500 | ~7,542 | −0.15% | ❌ NO (below 0.2%) |
+| SPY | ~$752.82 | −0.15% | ❌ NO |
+| QQQ | ~$732.35 | −0.50% | N/A (track S&P) |
+
+**Jun 4: NOT a distribution day.** S&P −0.15% < 0.2% threshold.
+
+**Distribution day count: 5/25** (May 4, May 7, May 15, May 19, Jun 3)
+**State: 🟡 Uptrend Under Pressure — NO STATE CHANGE** (was already Under Pressure at corrected 5/25)
+
+FTD check (Jun 4):
+- FTD threshold from Jun 3 actual close: 7,553 × 1.0125 = ~7,647
+- Jun 4 close ~7,542 = far below threshold (−105 pts)
+- **FTD: NOT CONFIRMED** — market was DOWN on Jun 4
+
+Rally attempt: SPY ~$752.82 >> Day 1 low $733.39 (May 19) → **INTACT**
+
+Data sources: Motley Fool (Jun 3 close confirmed), TheStreet (Jun 3), heygotrade.com (Jun 4 SPY −0.15%, QQQ −0.50%), Schwab ("Stocks Slightly Lower Early, but Chips Remain Hot" = Jun 4 post-AVGO)
+`research_source: websearch_fallback`
+
+---
+
+### Step 2 — Sell-rules-engine
+
+```json
+{
+  "batch_evaluated": 0,
+  "results": [],
+  "note": "0 open positions — evaluation skipped per protocol",
+  "market_level_triggers": {
+    "distribution_days": 5,
+    "distribution_days_corrected_from": 4,
+    "correction_note": "Jun 3 actual close S&P -0.74% confirmed as dist day; prior EOD estimate was wrong",
+    "state": "UPTREND_UNDER_PRESSURE"
+  }
+}
+```
+
+**VERDICT: SKIPPED — no positions to evaluate.**
+
+---
+
+### Step 3 — Verdicts executed
+
+None. No positions.
+
+---
+
+### Step 4 — Portfolio-level checks
+
+- **Distribution cluster (Rule 4):** dist count 5/25 — below 6/25 forced-reduction trigger. No action.
+- **Hedge entry check:** No state transition today (state was and remains Under Pressure). SH hedge $625 queued pending Alpaca restore. Cannot execute (Alpaca Day 77 blocked).
+- **FTD exit check (inverse ETF):** N/A — no hedge currently held.
+
+---
+
+### Step 5 — Circuit breaker check
+
+| Breaker | Level | Status |
+|---|---|---|
+| Daily −3% | 0% ($0 P&L) | ✅ CLEAR |
+| Weekly −6% | 0% ($0 week P&L) | ✅ CLEAR |
+| Drawdown −12% HWM | 0% from $2,500 | ✅ CLEAR |
+| PDT 3/3 | 0/3 day trades | ✅ CLEAR |
+
+**No circuit breakers triggered.**
+
+---
+
+### Step 6 — Weekly trade counter
+
+Week of Jun 2: **0/3 positions** opened. Jun 4: 0 new positions. Count: **0/3 — UNCHANGED.**
+
+---
+
+### Step 7 — Watchlist status (Jun 4 EOD)
+
+| Symbol | Score | Status | Jun 4 Est. | Notes |
+|---|---|---|---|---|
+| AVGO | 77-82/100 est. | ⛔ BLACKOUT through Jun 8 | ~$505–510 | Re-score Jun 9; highest-priority entry candidate |
+| DELL | 74/100 | 🟡 BENCH | ~$440–448 | No base, no defined pivot |
+| NVDA | 72/100 prov. | 🟡 BENCH | ~$220–222 | Ex-div today; base forming est. Jun 10 |
+
+Zero candidates pass conviction ≥75. No promotions or demotions.
+
+---
+
+### Step 8 — Tomorrow priorities (Jun 5)
+
+**NFP May 2026 — 7:30 AM CT — BINARY EVENT (HIGHEST RISK)**
+- Consensus: ~65K (revised down from 96K after ADP 37K miss + April revised to 60K)
+- Leading indicators: ISM composite, Challenger data suggest 110–150K possible
+- Scenario analysis:
+
+| NFP Print | Market Reaction | Dist Day Risk | FTD Probability | State Impact |
+|---|---|---|---|---|
+| <65K (MISS) | Bearish — recession fear | HIGH (6/25 risk) | NONE | 🔴 Correction if dist day confirmed |
+| 65–110K (NEUTRAL/BEAT) | Positive/rate-cut bets | LOW | LOW-MODERATE | Under Pressure unchanged |
+| 110K+ (STRONG BEAT) | Bullish — FTD fuel | NONE | HIGH | Potential 🟢 Confirmed Uptrend |
+
+FTD threshold from Jun 4 close (~7,542): 7,542 × 1.0125 = **~7,636**
+Need S&P +1.25%+ on above-average volume (guaranteed on NFP day = vol criteria easier to meet)
+
+**Alpaca restore — Day 77 / HIGHEST PRIORITY.** Without Alpaca: no entries even on FTD, no hedge execution, no stop orders.
+
+---
+
+**Close:** SPY ~$752.82 (−0.15%) | QQQ ~$732.35 (−0.50%)
+**Distribution days:** 5/25 corrected (was 4/25 — Jun 3 dist day missed in prior run)
+**Market state:** 🟡 Uptrend Under Pressure — UNCHANGED
+**Positions held:** 0
+**Actions today:** NONE
+**Circuit breakers:** NONE
+**P&L today:** +$0.00 (+0.00%)
+**P&L week:** +$0.00 (+0.00%)
+**Equity:** $2,500.00 (= HWM)
+
+`research_source: websearch_fallback`
+
+---

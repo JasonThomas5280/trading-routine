@@ -2284,3 +2284,25 @@ Removed: GOOGL (equity raise Jun 1)
 ISM Services May: UNCONFIRMED — confirm at /market-check
 Alpaca: BLOCKED Day 75 — HIGHEST PRIORITY restore
 Plan: NO entries. Under Pressure + Alpaca blocked. Monitor AVGO price discovery + NFP prep.
+
+---
+## 2026-06-03 20:26 CT [clickup-placeholder]
+
+📊 EOD 2026-06-04 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 5/25 ⚠️ CORRECTED (was 4/25 — Jun 3 dist day missed in prior run)
+Market: 🟡 Uptrend Under Pressure — UNCHANGED
+
+⚠️ JUN 3 CORRECTION: S&P closed −0.74% (not +0.3% as estimated). Iran missiles hit Kuwait/Bahrain midday; oil +2.5% to $96. Vol elevated. Jun 3 = DIST DAY #5. Prior EOD used 10 AM intraday high in error.
+
+Actions today: NONE (0 positions; Alpaca Day 77 blocked)
+Sell-rules-engine: SKIPPED (empty batch)
+
+Jun 4 close: SPY −0.15%, QQQ −0.50% → NOT a dist day (below 0.2% threshold)
+AVGO: ~$505–510 (chips hot; re-score Jun 9 — HIGHEST-PRIORITY candidate)
+Alpaca: BLOCKED Day 77 — CRITICAL PRIORITY restore
+
+TOMORROW — NFP May (7:30 AM CT) BINARY EVENT:
+  Consensus ~65K | Beat → FTD candidate (threshold ~7,636) → Uptrend upgrade
+  Miss <65K → dist day #6 risk → Market in Correction
+  Watching: AVGO re-score Jun 9 (est. 77–82/100)

@@ -8,20 +8,43 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-06-04 (Thu) — `/market-check` 10:00 AM CT — **ISM SERVICES 54.5% BEAT — FTD NOT CONFIRMED — NFP CONS REVISED 65K TOMORROW — AVGO ~$505 NEW ATH — ALPACA DAY 76 BLOCKED**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 76 blocked (HIGHEST PRIORITY)
-**Distribution days: 4/25** (May 4, May 7, May 15, May 19) — NO dist day Jun 3 (UP day ✅) | Jun 4 TBD at EOD (flat/slight neg intraday) | FTD still required for Confirmed Uptrend upgrade
-**SPY:** ~$761 est. Jun 4 open | S&P est. close ~7,615 Jun 3 | **50d MA: ~$740** (+2.7%) | **200d MA: ~$722** (+5.4%)
-**QQQ:** ~$744 est. | **50d MA: ~$712** (+4.4%) | **200d MA: ~$683** (+8.8%)
-**Rally attempt INTACT** (SPY >> $733.39 Day 1 low May 19) | FTD = any session S&P +1.25%+ on above-avg vol
-**FTD: NOT CONFIRMED.** Market flat/slight neg Jun 4. AVGO stock-specific gain. FTD probability today VERY LOW (~8-12%); need +1.39% from ~7,615 → ~7,711. **Best remaining window: Jun 5 (NFP — binary event).**
-**✅ ISM Services May 2026: 54.5% CONFIRMED BEAT** (vs 53.8% est., prior 53.6%; 23rd straight expansion month). New Orders 57.3% (strong). Prices 71.3% (sticky inflation). Market absorbed well → NOT a dist day Jun 3 ✅.
-**⚠️ AVGO post-earnings:** Session $477.01 Jun 3 (range $475–$496). AH +6.03% → est. $505–510 Jun 4 open (new ATH). **Re-score Jun 9 — est. 77–82/100 + XLK bonus + base. HIGHEST-PRIORITY entry candidate.**
-**⚠️ NFP JUN 5 (TOMORROW 7:30 AM CT): CONSENSUS REVISED DOWN to ~65K** (from 96K; ADP 37K miss). Leading indicators: 110–150K possible. 65–110K = neutral/beat vs revised cons; sub-65K = miss → dist day #6 risk → 🔴 Correction. Risk is LOWER than feared but event still binary.
-**NVDA:** ~$222–225 est. Jun 4. Ex-div $0.25/sh today. Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH.
-**DELL:** ~$440–448 est. Jun 4 (−4.63% Jun 2 from ~$466 ATH; Jun 3 recovery partial). Score 74/100. No base. 🟡 BENCH.
+**Last updated:** 2026-06-04 (Thu) — `/eod-review` 3:15 PM CT — **⚠️ JUN 3 DIST DAY CORRECTION (-0.74%) → 5/25 | JUN 4: SPY −0.15% NO DIST DAY | NFP TOMORROW 7:30 AM CT BINARY EVENT | ALPACA DAY 77 BLOCKED**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 77 blocked (HIGHEST PRIORITY)
+**Distribution days: 5/25** (May 4, May 7, May 15, May 19, Jun 3) — ⚠️ CORRECTION: Jun 3 WAS a dist day (actual close S&P −0.74%, not +0.3-0.5% as prior estimate; Iran missiles Kuwait/Bahrain, oil +2.5%) | Jun 4: S&P −0.15% → NOT dist day ✅ | FTD required for Confirmed Uptrend upgrade
+**SPY:** est. ~$752.82 Jun 4 close (−0.15%) | QQQ est. ~$732.35 (−0.50%) | S&P est. ~7,542 | **50d MA: ~$740** | **200d MA: ~$722**
+**QQQ:** est. ~$732.35 Jun 4 close | **50d MA: ~$712** | **200d MA: ~$683**
+**Rally attempt INTACT** (SPY ~$752.82 >> Day 1 low $733.39 May 19) | FTD threshold from Jun 4 close: ~7,542 × 1.0125 = **~7,636** (any session S&P +1.25%+ on above-avg vol)
+**FTD: NOT CONFIRMED.** Jun 4 market DOWN (SPY −0.15%, QQQ −0.50%). Not close to threshold. **CRITICAL: NFP Jun 5 (7:30 AM CT) — BINARY EVENT.** ≥65K = neutral/beat (possible FTD fuel); 110K+ = FTD candidate; <65K = dist day #6 risk → 🔴 **Market in Correction**.
+**⚠️ JUN 3 CORRECTION:** Prior EOD estimate was WRONG (+0.3-0.5% based on 10 AM intraday high). Actual: S&P −0.74% on geopolitical shock (Iran missile strikes Kuwait/Bahrain; oil WTI +2.5% to $96.05). Dist count corrected: **4/25 → 5/25**.
+**⚠️ AVGO:** est. ~$505–510 Jun 4 close (opened strong on AH beat; chips hot but broad QQQ −0.50%). Re-score Jun 9 — blackout convention intact. Est. 77–82/100. HIGHEST-PRIORITY entry candidate post-Jun 9.
+**NVDA:** est. ~$220–222 Jun 4 (ex-div $0.25/sh). Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH.
+**DELL:** est. ~$440–448 Jun 4. Score 74/100. No base. 🟡 BENCH.
 **0 candidates pass conviction ≥75** | DELL 74/100 (no base); NVDA 72/100 prov. (no base); AVGO re-score Jun 9
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 76 | `research_source: websearch_fallback`**
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 77 | `research_source: websearch_fallback`**
+
+**✅ JUN 4 EOD (/eod-review 3:15 PM CT — ⚠️ JUN 3 DIST DAY CORRECTION — DIST COUNT 5/25 — JUN 4 NO DIST DAY — NFP TOMORROW BINARY EVENT):**
+- **⚠️ JUN 3 DISTRIBUTION DAY — CORRECTION:** Prior /eod-review (Jun 3 3:15 PM CT) estimated S&P +0.3–0.5% (UP) based on 10 AM CT intraday data (ADP miss, rate-cut rally). Actual Jun 3 final close: **S&P −0.74%** (confirmed via Motley Fool, TheStreet, LatestLY). Market reversed midday on fresh geopolitical shock: **Iran launched missiles at Kuwait and Bahrain** (infrastructure damage, casualties). Oil WTI +2.5% to $96.05. Volume: elevated (macro shock + reversal day = above-average). **Jun 3 = DISTRIBUTION DAY #5.** Dist count corrected: **4/25 → 5/25.**
+- **Jun 3 actual close (corrected):** S&P 500 ~7,553 (−0.74% from 7,609.78 Jun 2) | Nasdaq −0.89% | Dow −1.21% | Russell 2000 −1.25% | SPY ~$753.95
+- **Dist days (corrected):** May 4, May 7, May 15, May 19, **Jun 3** = **5/25** | State: 🟡 Uptrend Under Pressure — **NO STATE CHANGE** (was already Under Pressure; 5/25 is exactly the threshold, not a new transition)
+- **Market state: 🟡 Uptrend Under Pressure** (5/25 dist days — corrected). NO new long entries. `research_source: websearch_fallback` | **Alpaca blocked Day 77** (403 confirmed) | Perplexity 403 | AV 403
+- **Jun 4 close (actual via search):** SPY −0.15% | QQQ −0.50% | S&P est. ~7,542 (−0.15% from corrected ~7,553) | SPY est. ~$752.82 | QQQ est. ~$732.35
+- **Distribution day check (Jun 4):** S&P −0.15% → BELOW 0.2% threshold → **NOT a distribution day** ✅ | Dist count: **5/25 UNCHANGED**
+- **FTD check (Jun 4):** FTD threshold from Jun 3 actual close (~7,553): 7,553 × 1.0125 = ~7,647. Jun 4 close ~7,542 → gap ~105 pts → **NOT FTD** (market DOWN). Window remains open.
+- **Rally attempt:** SPY ~$752.82 >> Day 1 low $733.39 May 19. **INTACT** — not undercut.
+- **AVGO Jun 4:** est. ~$505–510 close (opened strong on +6.03% AH earnings beat; chips hot per Schwab "Stocks Slightly Lower Early, but Chips Remain Hot"; QQQ −0.50% despite AVGO = broad tech weakness offset chip strength). Re-score Jun 9 blackout unchanged.
+- **NVDA Jun 4:** ex-div $0.25/sh today. Est. ~$220–222. Base forming est. Jun 10. 🟡 BENCH unchanged.
+- **0 open positions** → sell-rules-engine: **SKIPPED** (EMPTY BATCH) | SH hedge $625 queued — Alpaca Day 77 BLOCKED
+- **Hedge check:** No state transition today (state unchanged at Under Pressure) → no new hedge entry triggered. SH/SQQQ $625 queued pending Alpaca restore.
+- **Portfolio-level dist cluster:** 5/25 — below 6/25 forced-reduction trigger. No action.
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
+- **Tomorrow (Jun 5 — NFP 7:30 AM CT — BINARY EVENT):**
+  - Consensus: ~65K (revised down from 96K; ADP 37K miss). Leading indicators suggest 110–150K possible.
+  - **BEAT (65–110K):** Neutral/positive → market likely rallies → FTD candidate (threshold: ~7,636 from Jun 4 close ~7,542)
+  - **STRONG BEAT (110K+):** FTD fuel → potential 🟢 Confirmed Uptrend upgrade → AVGO entry evaluation begins Jun 9
+  - **MISS (<65K):** Dist day #6 risk → **🔴 Market in Correction** → sell any holdings, hedge evaluation
+  - High-volume day guaranteed (macro event) → volume confirmation easier for both dist day and FTD calls
+  - Alpaca restore — Day 77 → HIGHEST PRIORITY (without it: no entries even on FTD, hedge still blocked)
 
 **✅ JUN 4 PRE-MARKET (/pre-market 6:00 AM CT — AVGO BEAT +6% AH — FTD NOT TRIGGERED — NFP TOMORROW):**
 - **Market state: 🟡 Uptrend Under Pressure** (4/25 dist days). NO new long entries. `research_source: websearch_fallback` | **Alpaca blocked Day 75** | Perplexity 403 | AV 403
