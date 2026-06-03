@@ -2249,3 +2249,20 @@ Actions today: NONE (Alpaca Day 74 blocked + Under Pressure gate)
 ⚠️ NFP Jun 5 risk: ADP 37K miss (worst since Mar 2023) → sub-80K print possible → dist #5 threat
 Tonight: AVGO earnings AH (5 PM ET, consensus $2.40 / $22.11B) — beat = FTD Jun 4 candidate; miss = dist #5 risk
 Tomorrow: Confirm ISM Services result + AVGO reaction + FTD check (need S&P +1.25%+ on vol) + Alpaca restore HIGHEST PRIORITY (Day 74)
+
+---
+## 2026-06-03 11:13 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-04
+Market: 🟡 Uptrend Under Pressure (4/25 dist days) | Futures: ES −0.14% NQ −0.01%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+AVGO: ✅ BEAT Jun 3 AH — EPS +1.49% surprise / Rev +0.52% surprise / stock +6.03% AH. New ATH ~$473 est. Re-score Jun 9. Est. 77–82/100 HIGH-PRIORITY target.
+FTD today: VERY LOW (~8-12%) — ES flat/neg; AVGO did not lift broad futures; need +1.39% intraday
+Watchlist ready: NONE (all bench — no bases defined)
+Watching: DELL B1 (74/100 ~$456 no base) | NVDA B2 (72/100 ~$222 base Jun 10) | AVGO B4 (re-score Jun 9)
+Removed: GOOGL (equity raise Jun 1)
+⚠️ KEY RISK TOMORROW NFP Jun 5 7:30 AM CT: ADP 37K miss+Apr 60K = sub-80K risk = dist day #6 = 🔴 Correction
+ISM Services May: UNCONFIRMED — confirm at /market-check
+Alpaca: BLOCKED Day 75 — HIGHEST PRIORITY restore
+Plan: NO entries. Under Pressure + Alpaca blocked. Monitor AVGO price discovery + NFP prep.

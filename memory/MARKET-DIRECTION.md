@@ -8,20 +8,34 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-06-03 (Wed) — `/eod-review` 3:15 PM CT — **NO DIST DAY — MARKET UP ON RATE CUT BETS — FTD NOT CONFIRMED — AVGO EARNINGS AH TONIGHT — ALPACA DAY 74 BLOCKED**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 74 blocked (HIGHEST PRIORITY)
+**Last updated:** 2026-06-04 (Thu) — `/pre-market` 6:00 AM CT — **AVGO BEAT +6% AH — ES FLAT/NEG — FTD NOT TRIGGERED — NFP TOMORROW JUN 5 — ALPACA DAY 75 BLOCKED**
+**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 75 blocked (HIGHEST PRIORITY)
 **Distribution days: 4/25** (May 4, May 7, May 15, May 19) — NO new dist day Jun 2 (−0.14%) | NO dist day Jun 3 (UP day) | FTD still required for Confirmed Uptrend upgrade
-**SPY:** ~$760 est. | S&P est. close ~7,615 (+0.3-0.5% est. from 7,589 Jun 2) | **50d MA: ~$740** (+2.7%) | **200d MA: ~$722** (+5.4%)
+**SPY:** ~$760 est. | S&P est. close ~7,615 Jun 3 | **50d MA: ~$740** (+2.7%) | **200d MA: ~$722** (+5.4%)
 **QQQ:** ~$743 est. | **50d MA: ~$712** (+4.4%) | **200d MA: ~$683** (+8.8%)
 **Rally attempt INTACT** (SPY >> $733.39 Day 1 low May 19) | FTD = any session S&P +1.25%+ on above-avg vol
-**FTD: NOT CONFIRMED.** Jun 3 UP day on ADP miss/rate cut bets fell well short of ~7,684 threshold (+1.25% needed). **Best FTD window: Jun 4** (AVGO AH beat reaction — beat + guide = power-move catalyst) or **Jun 5** (NFP — high risk after ADP 37K miss).
-**⚠️ ISM Services May: UNCONFIRMED** — released 10 AM ET Jun 3 but not yet indexed in web search. April was 53.6%. Prediction markets flagged ~50/50 expansion/contraction. Employment sub-index in contraction 2 months. Market closed UP despite uncertainty — "bad news = good news" rate-cut narrative dominant.
-**⚠️ ADP MAY 37K (MASSIVE MISS):** vs 116K est; prior April revised 109K→60K. Worst since Mar 2023. Rate cut bets surging.
-**⚠️ NFP RISK JUN 5:** ADP 37K miss + April revision. Real risk of sub-80K. Sub-80K = dist day #6 candidate → 🔴 Correction.
-**AVGO: ⛔ EARNINGS AH TONIGHT Jun 3** — Q2 FY2026 consensus $2.40 EPS / $22.11B rev (+47% YoY). Reports 5 PM ET. Beat + guide = FTD Jun 4 candidate. Miss = dist day #5 risk Jun 4 (→ 5/25 = back to "full" Under Pressure). Blackout lifts Jun 9 for re-score.
-**NVDA:** ~$224 est. (Jun 1 close). Provisional score 75-77/100. Base forming (est. Jun 10-Jul 3). No entry until base + FTD + Alpaca restore.
-**0 candidates pass conviction ≥75** | DELL 74/100 (~$456 est., no base); NVDA provisional 75-77/100 (no base); AVGO ⛔ BLACKOUT
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 74 | `research_source: websearch_fallback`**
+**FTD: NOT CONFIRMED.** ES −0.14% Jun 4 pre-market → AVGO beat (+6% AH) did NOT power up broad futures. FTD probability today VERY LOW (~8-12%); need +1.39% intraday from ~7,615. **Best remaining FTD window: Jun 5 (NFP — elevated risk).**
+**⚠️ AVGO Q2 FY2026 BEAT:** EPS +1.49% surprise, Rev +0.52% surprise, stock +6.03% AH (Jun 3). AI semiconductor record. Post-earnings price est. ~$473 (new ATH territory). **Re-score eligible Jun 9 — est. 77–82/100 with base + XLK bonus. HIGH-PRIORITY target.**
+**⚠️ ISM Services May: UNCONFIRMED** — released Jun 3 10 AM ET, not indexed. Market UP Jun 3 → likely expansion or absorbed. Confirm at /market-check Jun 4.
+**⚠️ NFP RISK JUN 5 (TOMORROW, 7:30 AM CT):** ADP 37K miss + April revised 109K→60K. Real risk of sub-80K print. Sub-80K = recession signal + dist day #6 candidate → 🔴 Correction. **HIGHEST RISK EVENT remaining this week.**
+**NVDA:** $221.79 Jun 3 close. Dividend ex-date today ($0.25/sh). Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH.
+**DELL:** ~$456–461 est. (ATH). No new overnight news. Score 74/100. No base. 🟡 BENCH.
+**0 candidates pass conviction ≥75** | DELL 74/100 (no base); NVDA 72/100 prov. (no base); AVGO re-score Jun 9
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 75 | `research_source: websearch_fallback`**
+
+**✅ JUN 4 PRE-MARKET (/pre-market 6:00 AM CT — AVGO BEAT +6% AH — FTD NOT TRIGGERED — NFP TOMORROW):**
+- **Market state: 🟡 Uptrend Under Pressure** (4/25 dist days). NO new long entries. `research_source: websearch_fallback` | **Alpaca blocked Day 75** | Perplexity 403 | AV 403
+- **ES futures: −0.14%** | NQ: −0.01% — slight negative lean. AVGO beat (+6% AH) absorbed as stock-specific; did NOT power up broad futures. **FTD NOT triggered.**
+- **AVGO Q2 FY2026: CONFIRMED BEAT** — EPS +1.49% surprise, Rev +0.52% surprise, stock +6.03% AH. AI semiconductor revenue record confirmed. Positive call. Post-earnings est. ~$473 (new ATH territory). **Re-score Jun 9.** Est. 77–82/100 with base.
+- **FTD probability today: VERY LOW (~8-12%)** — ES −0.14%; threshold ~7,684; need +1.39% intraday from ~7,615. No broad macro catalyst today.
+- **ISM Services May: UNCONFIRMED** — market UP Jun 3 suggests expansion or absorbed. Confirm at /market-check.
+- **⚠️ NFP TOMORROW JUN 5 (7:30 AM CT): HIGHEST RISK EVENT.** ADP 37K + April 60K → downside bias vs 96K est. Sub-80K = dist day #6 risk → 🔴 Correction. Elevated caution.
+- **NVDA:** $221.79 close Jun 3. Dividend ex-date today ($0.25/sh). Base forming est. Jun 10. Score 72/100. 🟡 BENCH unchanged.
+- **DELL:** ~$456–461 est. No new overnight catalysts. Score 74/100. No base. 🟡 BENCH unchanged.
+- **0 open positions** → sell-rules-engine: SKIPPED | SH hedge $625 queued — Alpaca Day 75 BLOCKED
+- **Circuit breakers:** ALL CLEAR | P&L: $0 | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+- **Actions: NONE**
+- **/market-check 10:00 AM CT:** Confirm ISM Services May + dist day check + AVGO price discovery + NFP outlook prep.
 
 **✅ JUN 3 INTRADAY (/market-check 10:00 AM CT — ADP 37K MISS — MARKET RISING — AVGO EARNINGS AH TONIGHT):**
 - **ADP May 2026: 37,000** (MASSIVE MISS vs est. 116K; prior April revised 109K → 60K) — worst monthly print since Mar 2023. Large employers (+500 employees) shed 3K jobs. Manufacturing −3K. `research_source: websearch_fallback` | **Alpaca blocked Day 73**
