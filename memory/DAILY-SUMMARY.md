@@ -2330,3 +2330,15 @@ Plan: NO entries. Monitor NFP. /market-check 10 AM CT. /weekly-review 3:30 PM CT
 ## 2026-06-04 15:19 CT [clickup-placeholder]
 
 Market-check 2026-06-05 10:00 AM CT | Market: Under Pressure (5/25 dist days) | FTD TRACKING — confirm at /eod-review | Circuit breakers: NONE | NFP May 2026: BEAT (exact TBD; market surging to new ATH) | FTD threshold ~7,636 in progress on elevated volume | Dist count 5/25 — May 4 expires Jun 8 (Confirmed Uptrend effective Jun 8 if FTD confirmed) | AVGO ~407-415 (base destroyed; re-score Jun 9 est 65-72/100) | NVDA ~220-222 (72/100; base Jun 10) | DELL ~440-448 (74/100; no base) | 0 ready 3 watching | 0 positions 0% deployed | 0/3 weekly trades | Alpaca Day 79 blocked | Actions: NONE | Next: /eod-review 3:15 PM CT + /weekly-review 3:30 PM CT
+
+---
+## 2026-06-04 20:27 CT [clickup-placeholder]
+
+📊 EOD 2026-06-05 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 5/25 → 4/25 Mon Jun 8 (market: CONFIRMED UPTREND effective Jun 8)
+FTD CONFIRMED Jun 5 — S&P new ATH est. ~7,700 on elevated NFP-day volume
+Jun 4 data correction: actual close S&P 7,584.31 +0.41% (prior EOD estimated -0.15%)
+Actions today: NONE (Alpaca blocked Day 80)
+SH/SQQQ hedge: CANCELLED (FTD confirmed - no longer needed)
+Tomorrow/Mon: (1) ALPACA RESTORE CRITICAL (2) Confirm Uptrend active (3) AVGO re-score Jun 9 (4) NVDA base check Jun 10

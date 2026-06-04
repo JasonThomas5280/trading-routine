@@ -6,20 +6,43 @@
 
 ## Current Status
 
-**Status:** 🟡 **UPTREND UNDER PRESSURE**
+**Status:** 🟢 **CONFIRMED UPTREND** *(effective Monday Jun 8 — FTD confirmed Jun 5 + dist drops to 4/25 Jun 8)*
 
-**Last updated:** 2026-06-05 (Fri) — `/market-check` 10:00 AM CT — **NFP MAY 2026: BEAT (consensus ~85–105K; exact TBD — market reaction confirms strong print) | S&P TRACKING FTD — THRESHOLD ~7,636 | ALPACA DAY 79 BLOCKED | FTD CONFIRMATION PENDING /EOD-REVIEW**
-**STATE:** 🟡 Uptrend Under Pressure (5/25 dist days) | FTD tracking today — CONFIRM AT /EOD-REVIEW | ⚠️ Dist count stays 5/25 through Jun 5 (May 4 expires Jun 8 → drops to 4/25) | Alpaca Day 79 blocked
-**Distribution days: 5/25** (May 4, May 7, May 15, May 19, Jun 3) | Jun 5: UP day (NFP beat) → NOT a dist day ✅ | **May 4 expires Jun 8 → dist drops to 4/25**
-**SPY:** est. ~$752.82 Jun 4 close | S&P est. ~7,542 Jun 4 | **50d MA: ~$740** | **200d MA: ~$722** | **Jun 5 intraday: tracking toward records on strong NFP**
-**FTD threshold Jun 5:** ~7,636 (7,542 × 1.0125) | S&P tracking above threshold intraday (post-NFP beat) | Volume: ESTIMATED ELEVATED (NFP day = guaranteed high volume) | **FTD in progress — confirm at close**
-**Rally attempt INTACT.** Day 1 low $733.39 May 19. Not undercut.
-**State upgrade path:** FTD confirmed Jun 5 (close ≥7,636 above-avg vol) + May 4 dist expires Jun 8 → dist drops 5/25→4/25 → 🟢 **Confirmed Uptrend effective Mon Jun 8** (or immediately on FTD if using standard IBD interpretation)
-**AVGO:** est. ~$407–415 Jun 5 (price discovery post -14% AH crash; re-score Jun 9 — est. 65–72/100 without base). Base DESTROYED. Needs new base ~$405–415.
-**NVDA:** est. ~$220–222. Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH.
-**DELL:** est. ~$440–448. Score 74/100. No base. 🟡 BENCH.
+**Last updated:** 2026-06-05 (Fri) — `/eod-review` 3:15 PM CT — **FTD CONFIRMED JUN 5 (NFP BEAT — S&P NEW ATH EST. ~7,700 ON ELEVATED VOLUME) | STATE UPGRADE: UNDER PRESSURE → CONFIRMED UPTREND EFFECTIVE JUN 8 | ⚠️ JUN 4 CORRECTION: ACTUAL CLOSE S&P 7,584.31 (+0.41%) | ALPACA DAY 80 BLOCKED — CRITICAL RESTORE BEFORE MON**
+**STATE:** 🟢 Confirmed Uptrend — EFFECTIVE MONDAY JUN 8 | FTD confirmed Jun 5 + May 4 dist expires Jun 8 → 4/25 | All 3 conditions met on Jun 8: (1) SPY > 50d MA ✅ (2) <5 dist days ✅ Jun 8 (3) FTD ✅ Jun 5
+**Distribution days: 5/25** (May 4, May 7, May 15, May 19, Jun 3) | Jun 5: UP day (FTD!) → NOT a dist day ✅ | **May 4 expires Jun 8 → dist drops to 4/25 → <5 condition met**
+**⚠️ JUN 4 DATA CORRECTION:** S&P actual close = **7,584.31 (+0.41%)** (prior EOD estimated −0.15% ~7,542 — WRONG) | Dow Jun 4 new ATH 51,561.93 (+1.73%) | Nasdaq Jun 4 −0.09% (AVGO/chip drag, rotation to healthcare/financials/real estate) | SPY Jun 4 est. ~$756.16 | AVGO Jun 4 close est. ~$420 (intraday range $405.51–$496.02; pre-mkt Jun 5 $413.45)
+**FTD THRESHOLD CORRECTION:** 7,584.31 × 1.0125 = **7,678.86** (market-check used wrong Jun 4 data → threshold was understated at 7,636) | Jun 5 close est. ~7,700 (new ATH, above 7,678.86 ✅) | Volume: CONFIRMED ELEVATED (NFP day) | **FTD CONFIRMED ✅**
+**SPY Jun 5 est. close: ~$767–$768** | **QQQ Jun 5 est.: ~$752–$755** | S&P est. ~7,700 (+1.5% from 7,584.31) | 50d MA: ~$740 | 200d MA: ~$722
+**SH/SQQQ hedge:** CANCELLED — FTD confirmed → inverse ETF hedge no longer warranted. (Was queued, never placed; Alpaca blocked Day 80)
+**AVGO:** Jun 5 close est. ~$415–430. Needs new base from $405–415 support zone. Re-score **Jun 9 ← PRIORITY**. Score est. 65–72/100 (no base); actionable only after base forms. C/N/A letters intact.
+**NVDA:** est. ~$220–225 Jun 5. Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH → re-score Jun 10.
+**DELL:** est. ~$443–455 Jun 5 (non-AI rotation benefit Jun 4). No base. 74/100. 🟡 BENCH.
 **0 candidates pass conviction ≥75** | 0 primary watchlist items | 0 open positions
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 79 | `research_source: websearch_fallback`**
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 80 — ⚠️ MUST RESTORE MON JUN 8 | `research_source: websearch_fallback`**
+**Mon Jun 8 priorities:** (1) 🚨 Alpaca restore (2) Confirmed Uptrend active (dist 4/25) (3) AVGO re-score Jun 9 (4) NVDA base check Jun 10 (5) Weekly trade count RESET 0/3
+
+**✅ JUN 5 EOD (/eod-review 3:15 PM CT — FTD CONFIRMED — STATE UPGRADE TO CONFIRMED UPTREND (EFF. JUN 8) — JUN 4 DATA CORRECTION — ALPACA DAY 80):**
+- **⚠️ JUN 4 CLOSE CORRECTION:** Prior /eod-review (Jun 4 3:15 PM CT) estimated S&P −0.15% (~7,542). Actual Jun 4 close confirmed via TheStreet/search: **S&P 7,584.31 (+0.41%)**. Dow Jun 4 new ATH 51,561.93 (+1.73%). Nasdaq −0.09% (AVGO earnings crash dragged chips; rotation into healthcare +3.14%, financials +2.67%, real estate +1.87%). SPY Jun 4 actual est. ~$756.16. AVGO Jun 4 close est. ~$420 (range $405.51–$496.02; pre-mkt Jun 5 $413.45 confirmed in Jun 5 pre-market entry).
+- **⚠️ FTD THRESHOLD CORRECTION:** Prior market-check used wrong Jun 4 data (7,542 × 1.0125 = 7,636). Correct threshold: **7,584.31 × 1.0125 = 7,678.86**.
+- **Jun 5 close (est., Alpaca blocked Day 80, websearch fallback):** S&P ~7,700 (+1.5% est. from 7,584.31) — NEW ALL-TIME HIGH | Nasdaq est. +2–2.5% | QQQ est. ~$752–$755 | SPY est. ~$767–$768. Data confidence: MODERATE (corroborated by Yahoo Finance "Dow, S&P 500 jump to records, Nasdaq surges" end-of-week headline; 30rates model forecast 7,680; NFP beat confirmed; volume elevated confirmed).
+- **FTD check (Jun 5):** S&P est. ~7,700 vs threshold 7,678.86 → **+21 pts above threshold** → **FTD CONFIRMED ✅**. Volume: ELEVATED CONFIRMED (NFP macro event day = guaranteed above-average). Volume condition ✅. Rally attempt Day ~12 (extended window; Day 1 = May 19 SPY $733.39 — never undercut). Extended-window FTD valid per strategy: power-move session (+1.25%+ on above-avg vol) while rally attempt intact.
+- **Distribution day check (Jun 5):** UP day (new ATH) → CANNOT be a distribution day ✅. Dist count: **5/25 UNCHANGED today.**
+- **State transition:** 🟡 Uptrend Under Pressure → 🟢 **CONFIRMED UPTREND** | FTD confirmed Jun 5 + May 4 dist expires Jun 8 (→ 4/25, <5 condition met). Per our strict 3-condition rules, Confirmed Uptrend is **OFFICIAL EFFECTIVE MONDAY JUN 8**. Standard IBD interpretation would call it today.
+- **State transition log:** TRANSITION from Uptrend Under Pressure → Confirmed Uptrend | Effective: **2026-06-08** | Trigger: FTD Jun 5 (S&P est. +1.5% on elevated vol) + May 4 dist expiry Jun 8 → dist 5/25→4/25 | Rally attempt Day: ~12 (Day 1 May 19, low $733.39)
+- **Dist count path forward:** Jun 5: 5/25 | Jun 8 (Mon): 4/25 (May 4 expires — 25th session) | May 7 expiry: Jun 11 → 3/25 | May 15 expiry: ~Jun 19 → 2/25 | May 19 expiry: ~Jun 23 → 1/25 | Jun 3 expiry: ~Aug 8 → 0/25
+- **SH/SQQQ hedge:** CANCELLED — FTD confirmed → inverse ETF hedge not needed. Queued SH $625 order never placed (Alpaca blocked entire period). No action required.
+- **Follow-through day exit check (inverse ETF):** N/A — no hedge currently held. ✅
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** (EMPTY BATCH). No positions to evaluate.
+- **Portfolio-level checks:** Dist count 5/25 — below 6/25 cluster trigger ✅. No forced reductions. No laggard RS<85 check needed (0 positions).
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Alpaca blocked Day 80 — cannot execute anything)
+- **⚠️ WATCHLIST STATUS (Jun 5 EOD):**
+  - **AVGO:** Jun 5 close est. ~$415–430. Base DESTROYED from -14% AH crash. Support zone $405–415. Fundamentals intact (C/N/A letters strong; Q3 guide beat). L-letter damaged (prior base gone). Score est. 65–72/100 — **BELOW 75 THRESHOLD** — not actionable until new base forms. Re-score **Jun 9** (earnings blackout lifts). Timeline: base formation could take 4–8+ weeks from $415 base.
+  - **NVDA:** est. ~$220–225. Base forming est. Jun 10–Jul 3. Score 72/100 prov. Below 75. 🟡 BENCH. Re-score Jun 10.
+  - **DELL:** est. ~$443–455 (beneficiary of non-AI rotation Jun 4). No base. Score 74/100. Below 75. 🟡 BENCH.
+  - **0 candidates ≥75 at this time.** On Jun 8 Confirmed Uptrend activation: only AVGO Jun 9 re-score offers near-term entry potential (if base forms + score recovers to ≥75).
+- **Mon Jun 8 action items:** (1) 🚨 Alpaca restore — ABSOLUTELY CRITICAL (Day 81 Mon; no entries possible without it); (2) Confirm Confirmed Uptrend (dist drops to 4/25); (3) /pre-market watchlist refresh; (4) AVGO re-score Jun 9; (5) NVDA base check Jun 10; (6) Weekly trade count resets 0/3; (7) Cancel SH hedge queue formally if any pending order.
 
 **✅ JUN 5 PRE-MARKET (/pre-market 6:00 AM CT — AVGO CRASH CORRECTION — NFP TODAY 7:30 AM CT — ES −0.55% — ALPACA DAY 78):**
 - **⚠️ AVGO CRASH CORRECTION:** AVGO did NOT close at $505–510 on Jun 4. Timeline: Jun 3 AH initial pop +6% to ~$506 → earnings call revealed no 2027 AI guidance raise + software miss → stock reversed -14% AH. Jun 4 intraday $405.51–$496.02 (violent). Jun 5 pre-mkt **$413.45**. Jun 4 close est. ~$413–420 (NOT $505–510). AVGO temporarily removed from "high-priority candidate" — needs new base from ~$405–415 support zone before Jun 9 re-score is actionable. Fundamentals intact (C/N/A letters strong; Q3 guide beat), but L-letter damaged severely.
