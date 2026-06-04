@@ -141,6 +141,134 @@ NO entries. Under Pressure + Alpaca blocked. Monitor for:
 
 ---
 
+## 2026-06-05 (Fri) — /pre-market (6:00 AM CT) — NFP TODAY 7:30 AM CT — AVGO CORRECTION — BINARY EVENT
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 78; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | NO new long entries
+**FTD status:** NOT CONFIRMED. Rally attempt INTACT (SPY >> $733.39 Day 1 low May 19). FTD threshold from Jun 4 close (~7,542): ~7,636.
+
+---
+
+### ⚠️ CRITICAL DATA CORRECTION — AVGO
+
+Prior pre-market (Jun 4) estimated AVGO at "+6.03% AH → $505–510 Jun 4 open." **WRONG.**
+
+**Actual AVGO timeline:**
+- Jun 3 session close: $477.01
+- Jun 3 AH: Initial pop +6.03% to ~$506 (headline beat) → earnings call detail caused violent REVERSAL
+- Sell reason: Management did NOT raise 2027 AI revenue guidance (prior guide: "in excess of $100B"). Street had priced in an upgrade. Software division slight miss.
+- Jun 3 AH final: ~−14% from $477 close → ~$410–415
+- Jun 4 intraday range: $405.51 low – $496.02 high (violent, mean-reverting session)
+- Jun 4 close: est. ~$413–420 (NOT $505–510 as previously logged)
+- Jun 5 pre-market: **$413.45** (confirmed via multiple sources: Yahoo Finance, Robinhood, CNBC)
+
+**AVGO Q2 FY2026 actual results (released Jun 3 AH):**
+- Revenue: $22.19B (+48% YoY) vs $22.11B est → BEAT (minor)
+- Net profit: +88% YoY
+- Q3 guidance: $29.4B → BEAT vs $28.5B consensus
+- AI revenue Q3 guide: +200%+ growth
+- MISS: 2027 AI revenue guidance NOT raised (remained "in excess of $100B") — market catalyst for sell-off
+- Stock reaction: −14% AH → thesis intact but market punished for "not enough"
+
+**AVGO watchlist status CORRECTION:** Not 77–82/100 high-priority entry. Score reset pending Jun 9 re-score with:
+- L-letter DAMAGED: −14% post-earnings = weak relative strength vs market
+- Base DESTROYED: needs 3–4 weeks minimum from ~$405–415 support zone
+- XLK #1 sector bonus still applies
+- Fundamentals (C, A, N letters) remain strong
+- Revised est. score: **65–72/100** until base forms
+- Re-score date: Jun 9 (unchanged, but expectations reset)
+
+---
+
+### ⚠️ ADP DATA DISCREPANCY
+
+Our Jun 3 market-check logged: "ADP May 2026: 37,000 (MASSIVE MISS vs est. 116K)."
+Multiple WebSearch sources (CNBC, Fox Business, June 3 2026): "ADP May 2026: 122,000 — BEAT vs ~117K est."
+
+**Possible explanations:**
+1. Our Jun 3 WebSearch returned stale or incorrect data → ADP actual was 122K beat
+2. Naming confusion: the 122K figure could refer to ADP April data released IN May
+
+**Working resolution:** The 65K NFP consensus is consistent with our tracked ADP-37K narrative. Multiple sources now show ADP at 122K which would argue for higher NFP consensus (~96–127K). Both scenarios tracked below.
+**Flag:** `research_source: websearch_fallback` — ADP data uncertainty. Do NOT adjust hard targets based on this discrepancy alone.
+
+---
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures (Jun 5 pre-mkt) | **~7,530 (−0.55%)** | Negative lean driven by AVGO semi drag + NFP anxiety |
+| NQ futures (Jun 5 pre-mkt) | **~30,225 (−1.33%)** | Heavy negative — AVGO −14% post-earnings weighing on semis |
+| AVGO (Jun 5 pre-mkt) | **$413.45** | ⚠️ CORRECTION from $505–510 est. — see detail above |
+| NVDA | est. ~$220–222 | Base forming est. Jun 10. No new overnight catalysts. |
+| DELL | est. ~$440–448 | No new overnight news. Morgan Stanley upgraded to equal weight, $448 PT (prior underweight $170). Still no base. |
+| Oil / Iran | WTI elevated (~$92–96) | Iran Strait of Hormuz closure threatened (stopped talks with US). Ongoing geopolitical risk. |
+| NFP May 2026 | **RELEASING 7:30 AM CT TODAY** | See scenario table below. |
+
+**NFP scenario table (releases 7:30 AM CT — 1.5 hrs from now):**
+
+| Print | Interpretation | Market reaction | State implication |
+|---|---|---|---|
+| 110K+ | STRONG BEAT | Market likely surges → FTD candidate (need S&P +1.25%+ to ~7,636) | 🟢 Confirmed Uptrend if FTD volume confirms |
+| 65–110K | Matches/beats revised cons | Neutral to positive; FTD possible but not guaranteed | 🟡 Under Pressure continues; FTD window stays open |
+| <65K | MISS | Recession fear + dist day #6 candidate → | 🔴 Market in Correction (6/25 dist days) |
+
+**Pre-NFP FTD assessment:** FTD threshold from Jun 4 close ~7,542 = **~7,636** (×1.0125). ES −0.55% = ~7,530 pre-open. Would need +1.4%+ intraday surge on above-avg vol for FTD. Requires a strong NFP beat AND sustained buying.
+
+**Distribution day #6 risk:** If S&P closes ≤−0.2% on above-avg vol today (NFP miss scenario) → 6/25 dist days → **🔴 Market in Correction.** State change triggers: (1) sell any longs (0 positions, N/A), (2) evaluate SH/SQQQ hedge (blocked by Alpaca).
+
+---
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**No open positions — skipped.**
+
+### Catalyst scan — bench watchlist names
+
+**AVGO:** ⚠️ MAJOR REVISION — see correction above. Pre-market $413.45. No action until Jun 9 re-score. Setup destroyed — needs new base. Thesis operationally intact (AI semis record, Q3 guide beat, +200% AI rev growth) but market punished heavily. No buy-zone status until base forms.
+
+**DELL:** est. ~$440–448. No overnight catalysts. Morgan Stanley upgraded to equal weight $448 PT (from underweight $170) — confirms thesis but not overweight conviction. No base formed. 74/100, no change. 🟡 BENCH unchanged.
+
+**NVDA:** est. ~$220–222. No overnight catalysts. Dividend ex-date ($0.25/sh) was Jun 4. Base forming est. Jun 10–Jul 3. 72/100 unchanged. 🟡 BENCH unchanged.
+
+### Buy-zone readiness
+
+| Symbol | Est. Price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| AVGO | $413.45 | None (destroyed by -14% AH) | N/A | 🔴 NEEDS NEW BASE — re-score Jun 9 |
+| DELL | ~$440–448 | None (no base) | N/A | 🔴 NO BASE |
+| NVDA | ~$220–222 | None (forming) | N/A | 🔴 NO BASE (est. Jun 10) |
+
+**Primary watchlist:** ZERO names. 0/0 entries ready.
+
+### Circuit breaker check
+
+Alpaca blocked (Day 78) — cannot pull live account state.
+Prior confirmed state: Equity $2,500 (HWM), 0 positions, 0 P&L, weekly trades 0/3.
+Circuit breakers: **ALL CLEAR** (no active triggers).
+
+### Geopolitical risk
+
+Iran stopped nuclear talks with US (following Israeli attacks in Lebanon). Threatened Strait of Hormuz closure. WTI ~$92–96 elevated. Oil surge is inflation risk = headwind for Fed rate cut narrative = FTD headwind + dist day fuel if broad indices fall on data.
+
+### Plan for session
+
+NO entries. Under Pressure + Alpaca blocked (Day 78).
+1. **7:30 AM CT: NFP May 2026** — BINARY EVENT. Monitor immediately.
+   - Beat (110K+): FTD candidate. Update MARKET-DIRECTION.md at /market-check with state assessment.
+   - Miss (<65K): Dist day #6 risk → prepare 🔴 Correction state update at /eod-review.
+2. **10:00 AM CT: /market-check** — Confirm NFP result + dist day / FTD check + AVGO price discovery.
+3. **Alpaca restore — Day 78 — HIGHEST PRIORITY.** No trades possible without it.
+4. **AVGO correction:** Update WATCHLIST.md and MARKET-DIRECTION.md with corrected price data.
+5. **Weekly-review fires 3:30 PM CT today (Friday).** End-of-week postmortem.
+
+---
+
 ## 2026-05-28 (Thu) — /pre-market (6:00 AM CT) — FTD DAY 7 FINAL CHANCE
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 63; Perplexity: 403 blocked; Alpha Vantage: 403 blocked.)

@@ -2306,3 +2306,22 @@ TOMORROW — NFP May (7:30 AM CT) BINARY EVENT:
   Consensus ~65K | Beat → FTD candidate (threshold ~7,636) → Uptrend upgrade
   Miss <65K → dist day #6 risk → Market in Correction
   Watching: AVGO re-score Jun 9 (est. 77–82/100)
+
+---
+## 2026-06-04 11:17 CT [clickup-placeholder]
+
+Pre-market 2026-06-05 (NFP DAY)
+Market: Under Pressure (5/25 dist days) | Futures: ES -0.55% NQ -1.33%
+Open positions: 0 | Circuit breakers: NONE | Alpaca Day 78 BLOCKED
+Overnight gaps: none (0 positions)
+AVGO CORRECTION: -14% AH (not +6%) → 13.45 pre-mkt (was est. 05-510)
+  Q3 guide 9.4B BEAT; AI rev +200%; no 2027 update → market punished -14%
+  Score revised: est. 65-72/100 (base destroyed, L-letter damaged)
+  Re-score Jun 9 still valid but high-priority status SUSPENDED until new base
+Watchlist ready: NONE (0 primary; all bench missing bases)
+Watching: DELL 74/100 ~40-448 (no base) | NVDA 72/100 ~20 (base forming Jun 10)
+KEY CATALYST TODAY: NFP May 2026 at 7:30 AM CT (cons. 65K)
+  110K+ = FTD fuel (threshold 7,636) → possible Confirmed Uptrend upgrade
+  65-110K = neutral/positive → Under Pressure continues
+  <65K = dist day #6 → Market in Correction → SH hedge evaluation
+Plan: NO entries. Monitor NFP. /market-check 10 AM CT. /weekly-review 3:30 PM CT.
