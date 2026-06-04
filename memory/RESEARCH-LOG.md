@@ -141,6 +141,102 @@ NO entries. Under Pressure + Alpaca blocked. Monitor for:
 
 ---
 
+## 2026-06-05 (Fri) — /market-check (10:00 AM CT) — NFP MAY BEAT — FTD TRACKING — ALPACA DAY 79
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 79; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟡 Uptrend Under Pressure | **5/25 distribution days** | FTD tracking today — CONFIRM AT /EOD-REVIEW
+**FTD status:** IN PROGRESS — post-NFP surge tracking above threshold ~7,636 | Yahoo Finance: "Dow, S&P 500 jump to records, Nasdaq surges as stocks end 2026's first week with big gains"
+
+### NFP May 2026 result (released 7:30 AM CT)
+
+| Item | Result | Notes |
+|---|---|---|
+| NFP May 2026 | **BEAT** (exact number unconfirmed via WebSearch — data not yet indexed) | Multiple evidence signals: strong market reaction, S&P tracking new ATH, "big gains" headline |
+| April NFP (prior) | 115K (confirmed) | Context for May direction |
+| Consensus range | 85–105K (various estimates; revised from 65K after ADP 122K confirmation) | FactSet: 105K; JPMorgan/CNBC: 85K; our prior log: 65K |
+| ADP resolution | ADP May 2026 = **122K** (beat ~117K est) | Prior log 37K was a WebSearch artifact. 122K confirmed via multiple sources. |
+| Unemployment rate | TBD at /eod-review | April was 4.3% |
+
+**Pre-NFP futues:** ES −0.55%, NQ −1.33% → reversed sharply post-NFP beat → market tracking new ATH territory
+
+### FTD assessment (10 AM CT intraday)
+
+- **Threshold:** S&P ≥7,636 (7,542 Jun 4 close × 1.0125)
+- **Prior ATH:** 7,609.78 (Jun 2 close)
+- **"Jump to records"** = new ATH > 7,609.78 = at minimum +0.89% from 7,542
+- **"Big gains" / "Nasdaq surges"** = consistent with +1.25%+ (FTD magnitude)
+- **Volume:** ESTIMATED ELEVATED (NFP day = guaranteed macro event volume >> 50d avg)
+- **Assessment at 10 AM CT:** FTD TRACKING. Confirmation requires close ≥7,636 on above-avg vol. → **CONFIRM AT /EOD-REVIEW**
+
+### Distribution day check (Jun 5)
+
+- S&P UP (strong gains) → CANNOT be a distribution day ✅
+- Dist count: **5/25 UNCHANGED** (May 4, May 7, May 15, May 19, Jun 3)
+- **May 4 expiry:** 25th session = Jun 8 (Mon) → dist drops to **4/25**
+- State upgrade path: FTD confirmed Jun 5 + May 4 expires Jun 8 → 🟢 **Confirmed Uptrend effective Jun 8**
+
+### Abort gates check
+
+| Gate | Status |
+|---|---|
+| Market state | 🟡 Under Pressure → BLOCKED (FTD not yet confirmed; closes may flip at /eod-review) |
+| Alpaca blocked | Day 79 → BLOCKED (no execution possible) |
+| Research availability | `websearch_fallback` — DEGRADED but functional |
+| Daily circuit breaker | ALL CLEAR (0 P&L today) |
+| Weekly circuit breaker | ALL CLEAR (0 P&L week) |
+| Drawdown halt | ALL CLEAR (equity $2,500 = HWM) |
+| Weekly trade count | 0/3 — CLEAR |
+| Position count | 0 — CLEAR |
+| Cash buffer | 100% cash — CLEAR |
+
+**→ ALL LONG ENTRIES BLOCKED.** Would remain blocked even on FTD until Alpaca restores.
+
+### Watchlist triggers check
+
+**Primary watchlist:** ZERO items → no triggers to evaluate ✅
+
+### Bench promotion check
+
+| Symbol | Proximity to pivot | Action |
+|---|---|---|
+| AVGO | ~$407–415 (no pivot — base destroyed) | NO promotion |
+| DELL | ~$440–448 (no pivot — no base) | NO promotion |
+| NVDA | ~$220–222 (no pivot — base forming est. Jun 10) | NO promotion |
+
+**No promotions. No demotions.**
+
+### AVGO price discovery (Jun 5)
+
+- Jun 5 trading: ~$407–415 range (price discovery continues post -14% AH crash Jun 3)
+- Jun 4 intraday: $405.51–$496.02 (violent); closed ~$407 (per Stockanalysis data)
+- Fundamentals intact (Q2 beat, Q3 guide $29.4B beat, AI rev +200% Q3)
+- L-letter damaged (−14% post-earnings = weak relative strength)
+- Base: DESTROYED. Needs 3–4 weeks minimum from ~$405–415 support
+- Re-score Jun 9 (unchanged date) but HIGH-PRIORITY status suspended until base forms
+- Estimate on Jun 9 re-score: **65–72/100** (vs 77–82/100 pre-crash estimate)
+
+### Open positions check
+
+**0 open positions.** sell-rules-engine: SKIPPED.
+
+### If FTD confirmed at /eod-review — pipeline
+
+1. **Jun 8 (Mon):** May 4 dist expires → 4/25 → 🟢 Confirmed Uptrend (strict 3-condition check)
+2. **Jun 9 (Tue):** AVGO re-score (est. 65–72/100 without base — probably not actionable; but check)
+3. **Jun 10+:** NVDA base formation est. complete → re-score → if ≥75 + pivot + FTD volume → entry candidate
+4. **DELL:** 74/100 → needs base + Alpaca restore → est. 84/100 with base. Watch for consolidation completing.
+5. **Alpaca restore:** CRITICAL. No entries possible until restored. SH hedge $625 also queued.
+
+### Circuit breakers
+
+ALL CLEAR. P&L today: $0. P&L week: $0. Equity: $2,500 (HWM). Weekly trades: 0/3.
+
+### Actions
+
+**NONE.** All gates blocked (Under Pressure + Alpaca Day 79). FTD confirmation pending at /eod-review 3:15 PM CT.
+
+---
+
 ## 2026-06-05 (Fri) — /pre-market (6:00 AM CT) — NFP TODAY 7:30 AM CT — AVGO CORRECTION — BINARY EVENT
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 78; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)

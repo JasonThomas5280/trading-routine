@@ -8,19 +8,18 @@
 
 **Status:** 🟡 **UPTREND UNDER PRESSURE**
 
-**Last updated:** 2026-06-05 (Fri) — `/pre-market` 6:00 AM CT — **⚠️ AVGO CRASH CORRECTION: −14% AH (NOT +6%) → ~$413 Jun 5 pre-mkt (NOT $505–510) | NFP TODAY 7:30 AM CT BINARY EVENT | ES −0.55% NQ −1.33% | ALPACA DAY 78 BLOCKED**
-**STATE:** 🟡 Uptrend Under Pressure | Rules: NO new long entries | SH/SQQQ hedge $625 queued — Alpaca Day 78 blocked (HIGHEST PRIORITY)
-**Distribution days: 5/25** (May 4, May 7, May 15, May 19, Jun 3) | Jun 4: S&P −0.15% → NOT dist day ✅ | **Jun 5: NFP 7:30 AM CT — BINARY → miss = dist day #6 = 🔴 Correction**
-**SPY:** est. ~$752.82 Jun 4 close (−0.15%) | QQQ est. ~$732.35 (−0.50%) | S&P est. ~7,542 | **50d MA: ~$740** | **200d MA: ~$722**
-**QQQ:** est. ~$732.35 Jun 4 close | **50d MA: ~$712** | **200d MA: ~$683**
-**Futures (Jun 5 pre-mkt):** ES ~7,530 (−0.55%) | NQ ~30,225 (−1.33%) — AVGO semi-drag + NFP anxiety
-**Rally attempt INTACT** (SPY ~$752.82 >> Day 1 low $733.39 May 19) | FTD threshold from Jun 4 close ~7,542: **~7,636** (any session S&P +1.25%+ on above-avg vol)
-**FTD: NOT CONFIRMED.** Futures negative. **CRITICAL: NFP TODAY Jun 5 (7:30 AM CT) — BINARY EVENT.** 110K+ = FTD fuel; 65–110K = neutral/positive; <65K = dist day #6 → 🔴 **Market in Correction**.
-**⚠️ AVGO CORRECTION (Jun 5 /pre-market):** Previous estimate of "$505–510 Jun 4 close" was WRONG. AVGO reversed -14% AH after earnings call (no 2027 AI revenue raise; software slight miss). Jun 4 intraday range: $405.51–$496.02. Jun 5 pre-market: **$413.45**. Q3 guide $29.4B BEAT ($28.5B cons), AI rev +200% Q3 — operationally strong but "not enough" for market. L-letter DAMAGED. Base DESTROYED. Re-score Jun 9 (lower expectations — est. 65–72/100 until new base forms from ~$405–415 support).
-**NVDA:** est. ~$220–222 Jun 5 pre-mkt (ex-div Jun 4). Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH.
-**DELL:** est. ~$440–448. Score 74/100. No base. Morgan Stanley raised to equal weight $448 PT. 🟡 BENCH.
-**0 candidates pass conviction ≥75** | DELL 74/100 (no base); NVDA 72/100 prov. (no base); AVGO temporarily degraded ~65–72/100 (re-score Jun 9 but no longer high-priority until base forms)
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 78 | `research_source: websearch_fallback`**
+**Last updated:** 2026-06-05 (Fri) — `/market-check` 10:00 AM CT — **NFP MAY 2026: BEAT (consensus ~85–105K; exact TBD — market reaction confirms strong print) | S&P TRACKING FTD — THRESHOLD ~7,636 | ALPACA DAY 79 BLOCKED | FTD CONFIRMATION PENDING /EOD-REVIEW**
+**STATE:** 🟡 Uptrend Under Pressure (5/25 dist days) | FTD tracking today — CONFIRM AT /EOD-REVIEW | ⚠️ Dist count stays 5/25 through Jun 5 (May 4 expires Jun 8 → drops to 4/25) | Alpaca Day 79 blocked
+**Distribution days: 5/25** (May 4, May 7, May 15, May 19, Jun 3) | Jun 5: UP day (NFP beat) → NOT a dist day ✅ | **May 4 expires Jun 8 → dist drops to 4/25**
+**SPY:** est. ~$752.82 Jun 4 close | S&P est. ~7,542 Jun 4 | **50d MA: ~$740** | **200d MA: ~$722** | **Jun 5 intraday: tracking toward records on strong NFP**
+**FTD threshold Jun 5:** ~7,636 (7,542 × 1.0125) | S&P tracking above threshold intraday (post-NFP beat) | Volume: ESTIMATED ELEVATED (NFP day = guaranteed high volume) | **FTD in progress — confirm at close**
+**Rally attempt INTACT.** Day 1 low $733.39 May 19. Not undercut.
+**State upgrade path:** FTD confirmed Jun 5 (close ≥7,636 above-avg vol) + May 4 dist expires Jun 8 → dist drops 5/25→4/25 → 🟢 **Confirmed Uptrend effective Mon Jun 8** (or immediately on FTD if using standard IBD interpretation)
+**AVGO:** est. ~$407–415 Jun 5 (price discovery post -14% AH crash; re-score Jun 9 — est. 65–72/100 without base). Base DESTROYED. Needs new base ~$405–415.
+**NVDA:** est. ~$220–222. Base forming est. Jun 10. Score 72/100 prov. 🟡 BENCH.
+**DELL:** est. ~$440–448. Score 74/100. No base. 🟡 BENCH.
+**0 candidates pass conviction ≥75** | 0 primary watchlist items | 0 open positions
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 79 | `research_source: websearch_fallback`**
 
 **✅ JUN 5 PRE-MARKET (/pre-market 6:00 AM CT — AVGO CRASH CORRECTION — NFP TODAY 7:30 AM CT — ES −0.55% — ALPACA DAY 78):**
 - **⚠️ AVGO CRASH CORRECTION:** AVGO did NOT close at $505–510 on Jun 4. Timeline: Jun 3 AH initial pop +6% to ~$506 → earnings call revealed no 2027 AI guidance raise + software miss → stock reversed -14% AH. Jun 4 intraday $405.51–$496.02 (violent). Jun 5 pre-mkt **$413.45**. Jun 4 close est. ~$413–420 (NOT $505–510). AVGO temporarily removed from "high-priority candidate" — needs new base from ~$405–415 support zone before Jun 9 re-score is actionable. Fundamentals intact (C/N/A letters strong; Q3 guide beat), but L-letter damaged severely.
@@ -35,6 +34,24 @@
 - **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
 - **Actions: NONE**
 - **/market-check 10:00 AM CT:** Confirm NFP result + dist day / FTD check + AVGO price discovery + weekly-review 3:30 PM CT today
+
+**✅ JUN 5 INTRADAY (/market-check 10:00 AM CT — NFP MAY BEAT — FTD TRACKING — ALPACA DAY 79 — NOT A DIST DAY):**
+- **NFP May 2026 (7:30 AM CT):** BEAT vs consensus (85–105K range; exact unconfirmed — multiple sources show revised ADP 122K which would push consensus toward 96–127K; market reaction confirms beat). April: 115K. May appears in-range or above, consistent with labor market resilience.
+- **Market reaction (post-NFP, 10 AM CT):** S&P strongly up. Pre-market was ES −0.55% (AVGO drag + NFP anxiety) → post-NFP reversal to strong gains. Yahoo Finance end-of-week headline: "Dow, S&P 500 jump to records, Nasdaq surges as stocks end 2026's first week with big gains." FTD threshold ~7,636 (7,542 × 1.0125) appears to be tracking.
+- **FTD assessment (10 AM CT intraday):** S&P tracking toward potential FTD. Prior ATH 7,609.78 (Jun 2). "Jump to records" headline confirms new ATH (>7,609.78). "Big gains" language consistent with +1.25%+ needed for FTD. Volume: ESTIMATED ELEVATED (NFP = guaranteed high macro event vol). **FTD IN PROGRESS — CONFIRM AT /EOD-REVIEW.**
+- **Distribution day check (Jun 5):** UP day → CANNOT be a dist day ✅. Dist count: **5/25 UNCHANGED.**
+- **Dist count path:** 5/25 today. May 4 dist expires Jun 8 (25th session = Jun 8 Mon) → dist drops to **4/25**. Standard IBD would upgrade to Confirmed Uptrend on FTD day; our strict 3-condition rules (SPY > 50d MA ✅, <5 dist days — currently 5/25 = FAIL, FTD) means Confirmed Uptrend official on **Jun 8** (when May 4 expires → dist <5). Practically: if FTD confirmed today at /eod-review, we treat Jun 8 as effective Confirmed Uptrend date.
+- **Abort gates:** 🟡 Under Pressure (FTD not yet confirmed) → ALL LONG ENTRIES BLOCKED ✅ | Alpaca Day 79 → no execution possible regardless ✅
+- **Watchlist triggers (primary):** ZERO primary items → no triggers evaluated ✅
+- **Sell-rules-engine:** SKIPPED (0 open positions)
+- **Bench promotion check:** DELL est. ~$440–448 (no base, no pivot) → NO | NVDA est. ~$220–222 (no base, forming Jun 10) → NO | AVGO ~$407–415 (base destroyed, re-score Jun 9) → NO. **No promotions, no demotions.**
+- **AVGO price discovery (Jun 5):** Opened ~$407–415 after -14% AH crash Jun 3 and $405.51 low Jun 4. Price discovery ongoing. L-letter damaged severely. Re-score Jun 9 but expectations reset (est. 65–72/100 without base; need new base from $405–415 support before entry planning). Not high-priority until base forms.
+- **NVDA:** est. ~$220–222. Ex-div Jun 4 ($0.25/sh). Base forming est. Jun 10. 72/100 prov. 🟡 BENCH unchanged.
+- **DELL:** est. ~$440–448. No base. 74/100. Morgan Stanley equal weight $448. 🟡 BENCH unchanged.
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE**
+- **/eod-review 3:15 PM CT:** CONFIRM FTD (S&P close ≥7,636 on above-avg vol) + dist day check + AVGO close price discovery + Alpaca restore HIGHEST PRIORITY (Day 79) + /weekly-review 3:30 PM CT
+- **State upgrade trigger at /eod-review:** If S&P ≥7,636 on above-avg vol → FTD confirmed. Combined with May 4 expiry Mon Jun 8 → 🟢 Confirmed Uptrend effective Jun 8. Actions on confirmation: (1) AVGO Jun 9 re-score (est. 65–72/100 — needs base; probably not actionable yet); (2) DELL re-score (if base forms); (3) NVDA re-score when base completes ~Jun 10; (4) SH hedge queued — cancel on Confirmed Uptrend.
 
 **✅ JUN 4 EOD (/eod-review 3:15 PM CT — ⚠️ JUN 3 DIST DAY CORRECTION — DIST COUNT 5/25 — JUN 4 NO DIST DAY — NFP TOMORROW BINARY EVENT):**
 - **⚠️ JUN 3 DISTRIBUTION DAY — CORRECTION:** Prior /eod-review (Jun 3 3:15 PM CT) estimated S&P +0.3–0.5% (UP) based on 10 AM CT intraday data (ADP miss, rate-cut rally). Actual Jun 3 final close: **S&P −0.74%** (confirmed via Motley Fool, TheStreet, LatestLY). Market reversed midday on fresh geopolitical shock: **Iran launched missiles at Kuwait and Bahrain** (infrastructure damage, casualties). Oil WTI +2.5% to $96.05. Volume: elevated (macro shock + reversal day = above-average). **Jun 3 = DISTRIBUTION DAY #5.** Dist count corrected: **4/25 → 5/25.**

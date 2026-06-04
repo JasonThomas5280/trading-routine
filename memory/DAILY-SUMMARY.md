@@ -2325,3 +2325,8 @@ KEY CATALYST TODAY: NFP May 2026 at 7:30 AM CT (cons. 65K)
   65-110K = neutral/positive → Under Pressure continues
   <65K = dist day #6 → Market in Correction → SH hedge evaluation
 Plan: NO entries. Monitor NFP. /market-check 10 AM CT. /weekly-review 3:30 PM CT.
+
+---
+## 2026-06-04 15:19 CT [clickup-placeholder]
+
+Market-check 2026-06-05 10:00 AM CT | Market: Under Pressure (5/25 dist days) | FTD TRACKING — confirm at /eod-review | Circuit breakers: NONE | NFP May 2026: BEAT (exact TBD; market surging to new ATH) | FTD threshold ~7,636 in progress on elevated volume | Dist count 5/25 — May 4 expires Jun 8 (Confirmed Uptrend effective Jun 8 if FTD confirmed) | AVGO ~407-415 (base destroyed; re-score Jun 9 est 65-72/100) | NVDA ~220-222 (72/100; base Jun 10) | DELL ~440-448 (74/100; no base) | 0 ready 3 watching | 0 positions 0% deployed | 0/3 weekly trades | Alpaca Day 79 blocked | Actions: NONE | Next: /eod-review 3:15 PM CT + /weekly-review 3:30 PM CT
