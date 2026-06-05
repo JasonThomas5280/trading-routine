@@ -829,3 +829,137 @@ Status: **NEW — pending Jason approval.**
   - **Alpaca restore: HIGHEST PRIORITY.** Day 67 → if SH hedge + GOOGL entry cannot be placed, any FTD confirmation is purely observational.
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, **3/3 weekly trade slots available** (0 longs until FTD confirmed). SH hedge $625 queued — blocked by Alpaca Day 67.
 - **Emotional state check:** DISCIPLINED. Seven consecutive 0-trade weeks. The grinding ATH market without a power-move FTD day is a test of patience, not a test of willpower — the rules correctly say wait. Capital is intact at $2,500 HWM. The moment Alpaca restores AND an FTD fires AND GOOGL clears $404 on +40%+ volume, execution is immediate with zero hesitation. The waiting is not passive — it is active preparation to act decisively when conditions align.
+
+---
+
+## Week ending 2026-06-05 (Fri)
+
+> **Context:** Week 8 of live operation. Alpaca API blocked Day 69–79 (all 5 sessions — now 79 consecutive days / ~16 weeks). Perplexity + Alpha Vantage blocked same IP allowlist issue. All research via WebSearch fallback — 8th consecutive week of full fallback mode. Zero trades executed. Market: Started 🟡 Uptrend Under Pressure (5/25 dist days → briefly 4/25 on Jun 2 as Apr 28 dist expired), ended week 🔴 Market in Correction (6/25 dist days — Jun 5 = DIST DAY #6 confirmed Jun 8 via data correction). **This was the most data-error-prone week of operation.** Jun 5 EOD initially logged "FTD CONFIRMED, S&P +1.5% ATH" based on a misattributed Yahoo Finance headline (June 1 data mistaken for June 5). Actual Jun 5 close: S&P 7,446.24 (−1.82%, DIST DAY #6). AVGO -10.5% (2027 AI guidance not raised). NFP 172K beat → yield surge → tech/chips −8.1% (worst single-sector day since Liberation Day). GOOGL removed from bench (Jun 1 dilutive $80B equity raise). SH/SQQQ hedge triggered by Correction state but still blocked by Alpaca.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Jun 2 — 100% cash, carry-in from Week 7)
+- Ending equity: $2,500.00 (Fri Jun 5 — unchanged; 0 trades executed)
+- Weekly return: **0.00%**
+- SPY: S&P 7,580.06 (May 29) → 7,446.24 (Jun 5) = **−1.76%**
+- Alpha: **+1.76%** — ✅ **first positive-alpha week since inception** (cash preservation outperformed declining market)
+- Trades taken: **0** (max 3/week, used 0 — eighth consecutive 0-trade week)
+- Winners: 0 | Losers: 0 | Winner:loser ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Root causes of zero trades (ranked):**
+  1. Alpaca API 403 "Host not in allowlist" — Day 69–79. Execution hard-halted per TRADING-STRATEGY.md.
+  2. Market state: Under Pressure entire week (no new long entries) → Correction confirmed Jun 8 (no new long entries).
+  3. 0 candidates scored ≥75 this week. DELL 74/100 (no base), NVDA 72/100 (no base), AVBO 65–72 est. (base destroyed Jun 5 AH crash). No entry possible regardless of API status.
+  4. GOOGL removed Jun 3 pre-market (dilutive equity raise Jun 1 broke S-letter thesis).
+  5. Circuit breaker not triggered but Correction protocol: ALL new longs blocked.
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any -7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries during Under Pressure or Correction? **NO** — gates correctly honored all 5 sessions
+- Any entries on Alpaca-blocked sessions? **NO** — rule honored (8th consecutive week)
+- Any conviction-score workarounds? **NO** — DELL held at 74/100 reject all week (1 point below threshold, never bent)
+- AVGO earnings blackout honored? **YES** — no evaluation Jun 2/3 (≤5 trading days pre-earnings)
+- Circuit breakers triggered? **NONE** (daily −3%, weekly −6%, drawdown −12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(eighth consecutive perfect score — no trades = no violations. Score is structurally uninformative until execution infrastructure is restored. Behavioral note: DELL at 74/100 (one point below threshold) was held at reject despite being the closest setup in months. No threshold bending attempted.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🟡 Uptrend Under Pressure** (5/25 dist days)
+- M state at week end (confirmed): **🔴 Market in Correction** (6/25 dist days — confirmed Jun 8 via data correction)
+
+| Date | S&P Close | Change | Dist Day? | Running Count | Notes |
+|---|---|---|---|---|---|
+| Jun 2 (Mon) | 7,599.96 | +0.26% | NO — UP day | 4/25 | APR 28 dist day EXPIRES → 4/25. New ATH. ✅ |
+| Jun 3 (Wed) | 7,553.68 | −0.74% | **YES — DIST DAY #5** | 5/25 | Iran missiles at Kuwait/Bahrain (oil +2.5%). ADP 37K miss absorbed earlier but geopolitical shock reversal confirmed. ✅ |
+| Jun 4 (Thu) | 7,584.31 | +0.41% | NO — UP, below −0.20% threshold | 5/25 | Dow ATH 51,561.93. AVGO −14% AH (no 2027 guidance raise). ✅ |
+| Jun 5 (Fri) | 7,446.24 | **−1.82%** | **YES — DIST DAY #6 → 🔴 CORRECTION** | 6/25 | NFP 172K beat → yields surge → chips −8.1%. AVGO −10.5%. ⚠️ INITIALLY LOGGED INCORRECTLY AS FTD. |
+
+- **⚠️ CRITICAL DATA ERROR — Jun 5:** Initial /eod-review logged "FTD CONFIRMED, S&P ~+1.5% NEW ATH" based on Yahoo Finance headline "Dow, S&P 500 jump to records, Nasdaq surges." Actual close confirmed Jun 8 via TheStreet/CNBC cross-check: **S&P 7,446.24 (−1.82%)**. The Yahoo headline was from **June 1 (Monday)** — not June 5 (Friday). Websearch on NFP day retrieved a prior-week end-of-week summary. Error magnitude: ~3.3pp (estimated +1.5% vs actual −1.82%). State consequence: logged "Confirmed Uptrend effective Jun 8" when true state was Correction. Corrected Jun 8 at /market-check.
+- Jun 2 APR 28 expiry call: **CLEAN** — correctly tracked and confirmed at EOD.
+- Jun 3 dist day (#5): **CLEAN** — correctly identified geopolitical-shock reversal.
+- Jun 4 no dist day: **CLEAN** — correctly noted −0.15% est. vs confirmed +0.41% (AVGO AH crash dominated narrative but market closed up).
+- Jun 5 state call: **WRONG on available data.** Corrected Jun 8. This is the worst single-day data error of 8 weeks of operation.
+- Accuracy verdict: **3 of 4 sessions correct at the time. 1 critical failure (Jun 5). State corrected within 1 session on Jun 8.**
+
+### Sector Performance
+
+- Sectors traded: **NONE** (no trades)
+- Sector RS tracking this week:
+  - **XLK Technology:** Took the largest single-sector hit since Liberation Day. Chips −8.1% on Jun 5 (NFP yields + AVGO -10.5% = sector contagion). NVDA −5.6–5.84%, AVGO −10.5%. Prior `sector_momentum_warning` vindicated fully. XLK remains Correction-mode watch.
+  - **XLC Communication Services:** GOOGL removed Jun 3 (equity raise). Sector loses primary watchlist connection. XLC now tracking below top-3 candidates.
+  - **XLI Industrials:** Held relatively better. AI capex cycle narrative intact (DELL ATH territory). VRT est. ~$312→lower on chip selloff contagion.
+  - **XLE Energy:** Elevated with oil WTI ~$92–101 (Iran/Hormuz disruption persistent). Potentially entering top-3 again but Correction state blocks all entries regardless.
+- Sectors to blacklist: **None** (still zero trade history)
+- Next week focus: **NONE** — Correction state = no new entries in any sector.
+
+### Conviction Correlation
+
+- Trades ≥85: 0 — N/A
+- Trades 75–85: 0 — N/A
+- Sub-threshold correctly blocked:
+  - DELL: 74/100 all week (1 point below floor) — no entry attempted ✅
+  - NVDA: 72/100 (no base, below threshold) — no entry attempted ✅
+  - AVGO: score est. 65→est. 45–58 post-earnings crash — well below threshold ✅
+- **9th consecutive week with zero conviction-passing candidates in entry condition.** Zero candidates ≥75 since inception. Rubric is working as designed; the universe is thin in a Correction transitioning market.
+- Pattern: N/A (no closed-trade data)
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked Day 69–79 — 8th consecutive 0-perplexity week)
+- Sessions on websearch_fallback: **~15** (5 days × 3 routines per day)
+- Sessions DEGRADED: **0** (WebSearch consistently available as fallback)
+- Research source for trades placed: **N/A**
+- **Data quality this week — worst of 8 weeks:**
+  - **Jun 5 headline misattribution (critical):** Yahoo Finance end-of-week summary "Dow, S&P jump to records, Nasdaq surges" was from June 1 data, retrieved on June 5. No date stamp verified. Led to incorrect FTD confirmation (+1.5% estimated) when actual close was −1.82%. Rule: WebSearch headline queries on Fridays must include exact date in query string to avoid end-of-week summary confusion with current day.
+  - **ADP data conflict (resolved):** Initial log recorded ADP May = 37K (artifact). Corrected at Jun 5 pre-market to 122K (multiple sources confirmed). Demonstrates that single-source websearch numbers on macro data require cross-check.
+  - **Jun 4 AVGO close estimate:** Prior /eod-review estimated ~$505–510 (based on +6% AH from $477 close). Actual Jun 4 close ~$413–420 (violent intraday reversal from -14% AH during earnings call, confirmed Jun 5 pre-market at $413.45). Revenue beat but no 2027 AI guidance raise = violent post-call reversal. WebSearch captured pre-call narrative ("earnings beat") not post-call reality (stock reversing -14% on call content).
+
+### Lessons
+
+**Lesson 1 — Research: Friday end-of-week websearch queries retrieve prior-day headline summaries, not Friday closing data. This nearly caused a false state upgrade from Correction to Confirmed Uptrend.**
+The Yahoo Finance "jump to records" headline was a Monday June 1 end-of-week summary. Retrieved by a websearch on Friday June 5. The agent interpreted it as current-day data. Error: +3.3pp on S&P direction. Consequence: incorrectly logged FTD confirmed → state upgrade → SH hedge cancellation queued → next-week entries "open." None of this was acted on (Alpaca blocked), but if execution had been live, this error would have caused: (a) cancellation of SH hedge order (actually needed for Correction), (b) premature entry preparation for names below threshold. The infrastructure failure was protective in this exact case.
+Fix: **Before logging any FTD or dist day from websearch on NFP, FOMC, or CPI days, the query MUST include the date string explicitly** (e.g., "S&P 500 close June 5 2026"). Summative weekly headlines ("end week with gains," "stocks jump to records") must be treated as suspect until a date-specific close price is verified. This is Proposal 12.
+
+**Lesson 2 — Strategy: AVGO demonstrated that "guidance not raised" on an AI name at ATH = violent selloff, even on a quarter beat.**
+AVGO Q2 FY2026: Revenue +48% YoY, EPS beat, AI revenue +88% net income. Genuine beat. But: management did not raise 2027 AI revenue guidance beyond "in excess of $100B." Market punished −14% AH during the earnings call (initial pop +6% pre-call reversed). Jun 5 close: −10.5% from Jun 4. Base destroyed. Score est. now 45–58/100 — not actionable for weeks. The lesson: for AI-capex names at 52-week highs with massive institutional ownership, every earnings event is implicitly a "guidance needs to go higher" test. Missing the implicit raise = automatic distribution. When a name on the bench is approaching earnings, the scenario table must include "guidance not raised = violent selloff" not just "miss = selloff."
+Fix: Add to /pre-market earnings scenario tables: for any AI-capex name in bench (AVGO, NVDA, DELL), include a "no guidance raise (even on beat)" scenario and map its score impact explicitly.
+
+**Lesson 3 — Market: NFP good news = bad news dynamic is live in 2026. 172K jobs beat → yield surge → chips worst day since Liberation Day. Rate hike fears are a real market headwind.**
+NFP 172K (strong beat vs ~80K prior consensus) → 10-year yield surged → market sold growth/tech aggressively. S&P −1.82%. Chips −8.1%. This is textbook "rate hike fears override earnings growth." The "bad news = good news" pattern (ADP miss on Jun 3 = market up) and "good news = bad news" (NFP beat Jun 5 = market down) occurring in the same week. Implication: the market is caught between two competing narratives — AI capex growth (bullish) vs. sticky inflation/rate hikes (bearish for growth multiples). The side that wins each day is determined by which narrative the incoming data feeds. This is a Correction-state market. No new longs until FTD resolves the tug-of-war.
+
+### Proposed Rule Changes
+
+**Proposal 12 — NEW: Mandatory date-explicit query before logging any EOD state change (FTD or dist day).**
+Before confirming any FTD or distribution day at /eod-review, run a second query that includes the exact calendar date: e.g., `"S&P 500 close [Month Day Year]"` or `"stock market close [Month Day Year]"`. If the two queries disagree by >0.20pp or one returns a different date's data, log `data_conflict_unresolved` and defer state change to next /pre-market. This extends Proposal 10 (dual-query protocol from Week 6) to explicitly prevent calendar-attribution errors on end-of-week macro event days.
+Status: **NEW — pending Jason approval. Highest urgency of any pending proposal — directly caused Jun 5 state error.**
+
+**Proposal 13 — NEW: AVGO/NVDA/AI-name earnings scenario table must include "no guidance raise" scenario.**
+For any bench name approaching earnings (≤7 days), the /pre-market scenario table must include: Beat + guidance raised (bullish), Beat + guidance flat/no raise (violent sell scenario — flag base destruction risk), Miss (sell scenario). Currently the template only has "beat" and "miss." The "beat but no raise" scenario caused a -14% AH event that destroyed AVGO's base and will keep the score below 75 for 4–8+ weeks. Preventing this from being a surprise requires it to be pre-mapped.
+Status: **NEW — pending Jason approval.**
+
+**Proposal 14 — NEW: ADP / macro data single-source cross-check required.**
+Any macro data point (ADP, NFP, CPI, PCE, ISM) logged from a single websearch result must be cross-checked against at least one additional source before being logged as confirmed. The ADP 37K → 122K error (single artifact vs. multiple confirmed) is the prototype. Two independent sources agreeing = `data_confirmed`. Single source = `data_unconfirmed — cross-check required`.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–11 from prior weeks:** ALL still pending Jason approval. Priority ranking:
+1. **Proposal 12** (this week — date-explicit query) — HIGHEST, directly caused Jun 5 state error
+2. **Proposal 1** (API health check at /pre-market Step 0) — Day 79, 16 weeks overdue
+3. **Proposal 5** (API-down escalation SLA) — Day 79
+4. **Proposal 10** (dual-query EOD dist-day verification) — partly subsumes into Proposal 12
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🔴 Market in Correction (confirmed Jun 8 — 6/25 dist days: May 4, May 7, May 15, May 19, Jun 3, Jun 5). **ALL new long entries blocked.** SH/SQQQ hedge triggered — execute immediately on Alpaca restore (SH $625 / 25% portfolio). FTD path: Jun 5 was a DOWN day → not Day 1 of new rally attempt. If Jun 8 closes UP → Day 1 → FTD eligible Jun 12 (Day 4) earliest. May 4 dist expires Jun 8 → 5/25 after Jun 8 close (state remains Correction until FTD regardless).
+- **Sectors in focus:** NONE for new entries (Correction). Monitor for relative strength leaders that will be first candidates post-FTD: XLI (AI infra), XLK (chips only after FTD + base formation). Avoid XLC until sector recovers to top-3.
+- **Calendar risks:**
+  - ⚠️ **AVGO re-score Jun 9** — est. score 45–58/100 (base destroyed, guidance miss). Unlikely to reach ≥75 for 4–8+ weeks. Lower expectations significantly.
+  - **NVDA base check Jun 10** — score 72/100 prov. → est. 82/100 with base. Most actionable name post-FTD if base forms correctly.
+  - **Oil / Iran (Strait of Hormuz):** WTI ~$101.67, Brent ~$107.50 — "largest supply disruption in history" (IEA). Persistent inflation headwind. No resolution in sight. Supports Correction environment.
+  - **FOMC Jun 16–17** — rate hike risk elevated given NFP 172K + sticky inflation. No entries near this event.
+  - **Alpaca restore: Day 80+ — CRITICAL.** SH hedge cannot be placed. No entries possible even on FTD without execution.
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, **3/3 weekly trade slots available** (ALL blocked by Correction). SH hedge $625 queued — blocked Alpaca Day 79.
+- **Emotional state check:** DISCIPLINED and correctly positioned. Holding cash during a −1.76% S&P week produced +1.76% alpha — the first week where the strategy's conservative posture was rewarded. Eight consecutive 0-trade weeks while capital sits at $2,500 HWM. The Correction state is not frustrating; it is the system working as designed. The data error on Jun 5 is the real concern — that is fixable via Proposals 12–14. Capital is intact. Patience holds.

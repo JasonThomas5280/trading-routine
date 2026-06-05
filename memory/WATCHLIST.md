@@ -6,7 +6,9 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ACTIVE — Week of 2026-06-02 to 2026-06-06
+## ⚠️ ARCHIVED — Week of 2026-06-02 to 2026-06-06 — **STALE — rebuild via /weekly-prep on Sunday Jun 8**
+
+> **Archived week of Jun 2–6.** Market state changed to 🔴 CORRECTION (Dist Day #6 Jun 5 confirmed Jun 8). All primary candidates below threshold. AVGO base destroyed. GOOGL removed. DELL/NVDA below 75. Full rebuild required Sunday Jun 8 — do NOT use this list for entry decisions.
 
 **Built:** 2026-05-31 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: 403 Day 68, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + cached prior-week fundamentals)
 

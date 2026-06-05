@@ -2419,3 +2419,43 @@ Tomorrow (Mon Jun 8):
   5. NVDA base check Jun 10
   6. Weekly trades RESET 0/3
   7. Rally attempt: if SPY undercuts $733.39 → new Day 1 → FTD eligible Day 4–7
+
+---
+## 2026-06-05 20:39 CT [clickup-placeholder]
+
+WEEKLY REVIEW — Week ending 2026-06-05
+
+PERFORMANCE: $2,500 → $2,500 | Return: 0.00% | SPY: −1.76% | Alpha: +1.76% ✅ (first positive-alpha week — cash protection paid off) | Trades: 0 | Cumulative alpha drag: +0.00% net (down weeks erased prior drag)
+
+MARKET STATE END-OF-WEEK: 🔴 CORRECTION (Dist Day #6 confirmed Jun 8 — S&P Jun 5 actual −1.82% / 7,446.24)
+⚠️ CRITICAL DATA ERROR: Jun 5 EOD logged "FTD CONFIRMED +1.5% ATH" — WRONG. Yahoo Finance headline was from June 1 (prior Monday), not June 5. Corrected Jun 8.
+
+WEEK SUMMARY (Jun 2–5):
+• Mon Jun 2: S&P +0.26% (7,599.96 ATH) | APR 28 dist expires → 4/25
+• Wed Jun 3: S&P −0.74% (DIST #5 → 5/25) | Iran missiles at Kuwait/Bahrain | AVGO beat +6% AH → reversed −14% on call (no 2027 guidance raise)
+• Thu Jun 4: S&P +0.41% (Dow ATH) | AVGO jun4 est. ~$413–420 (crash from $477)
+• Fri Jun 5: S&P −1.82% (7,446.24 — DIST #6 → CORRECTION) | NFP 172K beat → yield surge → chips −8.1% (worst since Liberation Day) | AVGO −10.5% | NVDA −5.8%
+
+RULE ADHERENCE: 100/100 — 0 trades, 0 violations (8th consecutive)
+CANDIDATES ≥75: 0 (DELL 74, NVDA 72, AVGO est. 45–58 post-crash) — 9th consecutive week with zero actionable setups
+
+KEY LESSONS:
+1. Fri websearch on macro event days pulls prior-week end-of-week summaries, not current-day closes. Date-explicit queries required before any FTD/dist day call.
+2. AI-capex names at ATH require "guidance not raised" scenario in earnings table — AVGO −14% on call despite Q2 beat.
+3. NFP 172K good news = bad news (rate hike fears). "Bad news = good news" (ADP miss +market up) and "good news = bad news" (NFP beat + market down) in same week = Correction-state tug-of-war between AI capex vs. inflation narratives.
+
+PROPOSED RULE CHANGES (pending Jason approval):
+• Proposal 12: Mandatory date-explicit query before logging any FTD/dist day
+• Proposal 13: Add "no guidance raise" scenario to AI-name earnings tables
+• Proposal 14: Macro data cross-check required (single-source = unconfirmed)
+
+NEXT WEEK (Jun 8+):
+• State: 🔴 CORRECTION — no new longs
+• FIRST order on Alpaca restore: SH $625 (25% hedge)
+• FTD path: if Jun 8 closes UP → Day 1 → FTD eligible Jun 12 earliest
+• AVGO re-score Jun 9 (expect 45–58/100 — not actionable for weeks)
+• NVDA base check Jun 10 (est. 82/100 with base — best post-FTD candidate)
+• FOMC Jun 16–17 — rate hike risk elevated; no entries near this event
+• 🚨 Alpaca Day 79+ CRITICAL — SH hedge blocked, no entries possible
+
+WATCHLIST: ARCHIVED week of Jun 2–6. Rebuild via /weekly-prep Sunday Jun 8.
