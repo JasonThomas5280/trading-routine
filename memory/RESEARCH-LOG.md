@@ -8183,3 +8183,100 @@ Week of Jun 2: **0/3 positions** opened this week. Count: **0/3 — FINAL.** Res
 **⚠️ DATA CORRECTIONS THIS REVIEW:** Jun 4 S&P close corrected 7,542→7,584.31; FTD threshold corrected 7,636→7,678.86
 
 `research_source: websearch_fallback`
+
+---
+
+## 2026-06-08 (Mon) — /pre-market (6:00 AM CT) — CONFIRMED UPTREND DAY 1 — DIST 4/25 — ALPACA DAY 81
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 81; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🟢 CONFIRMED UPTREND | **4/25 distribution days** (May 4 expires today Jun 8 → drops from 5/25) | ENTRIES ALLOWED
+**FTD status:** CONFIRMED Jun 5 (S&P est. ~7,700 new ATH on elevated NFP-day volume). Effective today.
+
+### Market overnight check (Jun 7 Sunday into Jun 8 Monday)
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures | est. flat/slight negative | NQ −0.65% implies modest neg lean at open; no overnight positive catalyst |
+| NQ futures | ~30,195 (−0.65%) | Below Jun 5 close; modest pullback after record week |
+| Iran/Oil | WTI ~$101.67, Brent ~$107.50 | War ongoing; Strait of Hormuz still disrupted; IEA = "largest supply disruption in history" (10.5M bpd offline). Persistent inflation headwind. |
+| Market state | 🟢 Confirmed Uptrend — **DAY 1** | May 4 dist expires today → 4/25 → all 3 conditions met |
+
+**Open bias: slight negative lean** (NQ −0.65%; oil elevated ~$101 WTI = inflation headwind). Market direction Confirmed Uptrend → upside trend intact. No news to change state.
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**No open positions — skipped.**
+
+### Catalyst scan — bench names
+
+**AVGO:**
+- Post-earnings crash range: ~$415–420 est. (base forming from $405–415 support zone)
+- Q2 FY2026 results (Jun 3 AH): EPS $2.44 vs $2.40 est. (beat); Revenue $22.19B vs $22.27B est. (slight miss). AI rev $10.8B (+2× YoY). Q3 AI guide $16B (tripling). Market disappointed CEO didn't raise 2027 AI target ($100B) → stock −14% AH.
+- Earnings blackout convention lifts TODAY Jun 8 (5 trading days after Jun 3 report)
+- **Re-score TOMORROW Jun 9** — assess base formation progress + L-letter recovery
+- Score est. without base: **65–72/100** (below threshold) | with base (+10): **69–77/100** (borderline)
+- DA Davidson raised PT to $400 (Neutral). Citi $500, Evercore $582 from pre-crash still being revised.
+- 🟡 WATCHING — actionable ONLY if base forms AND score ≥75 confirmed
+
+**NVDA:**
+- Price range recent: ~$210.97–$221.60 (opening ~$213.91 per search data)
+- Base formation on track — est. completion Jun 10–Jul 3
+- Score 72/100 provisional → with base (+10) = **82/100 ✅** (above threshold when base completes)
+- China H20 = confirmed zero (permanent). N-letter: 10/15 (near ATH, Computex Vera/Rubin platform). $80B buyback + $0.25 div.
+- 🟡 BENCH — next check **Jun 10** (base completion assessment)
+- No new overnight catalysts
+
+**DELL:**
+- Price est. ~$400–440 (search data inconsistent — one source shows pre-mkt ~$400.12 −4.98%; Jun 5 est. was $443–455; UBS caution note "likely won't go further" after near-doubling in 2026)
+- Continued consolidation post-May 29 earnings gap-up; no base formed
+- Score 74/100 (A-letter: GAAP uncertainty from VMware amortization; needs AV confirm for 84/100)
+- 🟡 BENCH unchanged — not actionable until base forms + Alpaca/AV restore
+
+### Buy-zone readiness
+
+| Symbol | Est. Price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| AVGO | ~$415–420 | None (forming from $405 base) | N/A | 🔴 NO BASE — re-score Jun 9 |
+| NVDA | ~$213–216 | None (forming, est. Jun 10) | N/A | 🔴 NO BASE — check Jun 10 |
+| DELL | ~$400–440 | None (no base) | N/A | 🔴 NO BASE |
+
+**Watchlist ready: NONE** (0 names ≥75 + within 0–3% of pivot)
+
+### Circuit breaker check
+
+Alpaca blocked (Day 81) — cannot pull live account state.
+Prior confirmed: Equity $2,500 (HWM), 0 positions, 0 P&L. **Weekly trades: 0/3 (RESET Mon Jun 8)**
+Circuit breakers: **ALL CLEAR**
+
+### Key risks / macro this week
+
+- **Alpaca Day 81 — ABSOLUTELY CRITICAL:** No entry possible until restored. Confirmed Uptrend active but operationally dark.
+- **AVGO re-score Jun 9:** First potential near-term entry. Score path: need base from $405 + score ≥75. Borderline case.
+- **NVDA base check Jun 10:** Clean base completion → ~82/100 → first strong entry candidate in weeks
+- **Oil/Iran:** WTI ~$101; persistent inflation pressure; no resolution = Fed rate-cut odds declining
+- **FOMC Jun 16-17:** No meeting this week; proximity matters for entries later this week
+
+### Actions
+
+**NONE.** Confirmed Uptrend active → entries ALLOWED in principle, but:
+- 0 candidates ≥75/100 at this time
+- Alpaca Day 81 blocked (no execution possible regardless)
+- Next actionable candidate: AVGO Jun 9 re-score (if base forms + score ≥75) or NVDA Jun 10 (if base completes cleanly)
+
+---
+
+**Close:** N/A (pre-market only)
+**Distribution days:** 4/25 (May 4 expired Jun 8)
+**Market state:** 🟢 Confirmed Uptrend (Day 1 effective today)
+**Positions held:** 0
+**Actions today:** NONE (Alpaca Day 81 blocked)
+**Circuit breakers:** NONE
+**P&L today:** +$0.00
+**Equity:** $2,500.00 (= HWM)
+**Weekly trades:** 0/3 (reset)
+
+`research_source: websearch_fallback`

@@ -2342,3 +2342,22 @@ Jun 4 data correction: actual close S&P 7,584.31 +0.41% (prior EOD estimated -0.
 Actions today: NONE (Alpaca blocked Day 80)
 SH/SQQQ hedge: CANCELLED (FTD confirmed - no longer needed)
 Tomorrow/Mon: (1) ALPACA RESTORE CRITICAL (2) Confirm Uptrend active (3) AVGO re-score Jun 9 (4) NVDA base check Jun 10
+
+---
+## 2026-06-08 06:00 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-08
+Market: 🟢 CONFIRMED UPTREND Day 1 (dist 4/25 — May 4 expires today) | Futures: ES flat/slight neg; NQ −0.65%
+Open positions: 0 | Circuit breakers: NONE | Weekly trades: 0/3 RESET
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE — 0 names within buy zone (0 candidates ≥75)
+Watchlist watching: AVGO ~$415–420 re-score Jun 9 (est. 69–77/100 with base; borderline) | NVDA ~$213–216 base check Jun 10 (→ 82/100 if base ✅) | DELL ~$400–440 no base 74/100
+Removed: none
+Key catalyst: Iran WTI ~$101/Brent ~$107 (no resolution; inflation headwind) | NQ −0.65% overnight | AVGO earnings blackout lifts today
+⚠️ ALPACA DAY 81 — EXECUTION BLOCKED: entries allowed by market state but impossible without Alpaca
+Plan: NO entries today (0 ≥75; Alpaca blocked). Priorities: (1) Alpaca restore CRITICAL (2) AVGO re-score Jun 9 (3) NVDA base check Jun 10
+
+---
+## 2026-06-05 11:16 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-08 | Market: 🟢 CONFIRMED UPTREND Day 1 (dist 4/25) | Futures: NQ −0.65% slight neg | Iran WTI ~01 headwind | 0 positions | 0 ≥75 | AVGO re-score Jun 9 | NVDA base Jun 10 | ⚠️ Alpaca Day 81 blocked | Plan: NO entries (0 ≥75; Alpaca blocked) | Weekly trades 0/3 RESET

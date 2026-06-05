@@ -44,6 +44,19 @@
   - **0 candidates ≥75 at this time.** On Jun 8 Confirmed Uptrend activation: only AVGO Jun 9 re-score offers near-term entry potential (if base forms + score recovers to ≥75).
 - **Mon Jun 8 action items:** (1) 🚨 Alpaca restore — ABSOLUTELY CRITICAL (Day 81 Mon; no entries possible without it); (2) Confirm Confirmed Uptrend (dist drops to 4/25); (3) /pre-market watchlist refresh; (4) AVGO re-score Jun 9; (5) NVDA base check Jun 10; (6) Weekly trade count resets 0/3; (7) Cancel SH hedge queue formally if any pending order.
 
+**✅ JUN 8 PRE-MARKET (/pre-market 6:00 AM CT — CONFIRMED UPTREND DAY 1 — DIST 4/25 — NO ENTRIES YET — ALPACA DAY 81):**
+- **Market state: 🟢 CONFIRMED UPTREND** (dist **4/25** — May 4 dist day EXPIRES today Jun 8 as scheduled → drops 5/25 → 4/25 ✅; all 3 conditions met: SPY > 50d MA ✅, <5 dist days ✅, FTD Jun 5 ✅). First day entries ALLOWED per strategy — but 0 candidates ≥75/100 at this time.
+- **Futures:** NQ ~30,195 (−0.65%) | ES flat/slight negative (no positive catalyst) | Modest neg lean at open
+- **Alpaca: Day 81 blocked** (403 "Host not in allowlist") — CRITICAL RESTORE PRIORITY | Perplexity: 403 | AV: 403 | `research_source: websearch_fallback`
+- **Geopolitical/Oil:** Iran war ongoing — WTI ~$101.67/bbl, Brent ~$107.50/bbl (Strait of Hormuz still disrupted; IEA: "largest supply disruption in history"; 10.5M bpd offline). Persistent inflation headwind. No resolution in sight.
+- **AVGO:** ~$415–420 est. | Base forming from $405–415 support | Re-score **Jun 9** (blackout lifts today) | Score est. 65–72/100 without base → 69–77/100 with base (borderline; not high-priority until base confirmed)
+- **NVDA:** ~$213–216 est. (range $210.97–$221.60 recent; base forming) | Check **Jun 10** | 72/100 prov. → 82/100 with base ✅
+- **DELL:** ~$400–440 est. (data inconsistent; UBS caution after near-double in 2026; no base; 74/100)
+- **0 open positions** → sell-rules-engine: SKIPPED | SH/SQQQ hedge: CANCELLED (FTD confirmed Jun 5)
+- **Circuit breakers: ALL CLEAR** | P&L: $0 | Equity: $2,500 (HWM) | Weekly trades: **0/3 RESET** (Mon Jun 8)
+- **Actions: NONE** (0 candidates ≥75; Alpaca blocked — execution impossible regardless of state)
+- **Today's plan:** (1) 🚨 Alpaca restore (2) AVGO price check for Jun 9 re-score prep (3) NVDA base development watch (4) No entries until Alpaca restored + candidate ≥75
+
 **✅ JUN 5 PRE-MARKET (/pre-market 6:00 AM CT — AVGO CRASH CORRECTION — NFP TODAY 7:30 AM CT — ES −0.55% — ALPACA DAY 78):**
 - **⚠️ AVGO CRASH CORRECTION:** AVGO did NOT close at $505–510 on Jun 4. Timeline: Jun 3 AH initial pop +6% to ~$506 → earnings call revealed no 2027 AI guidance raise + software miss → stock reversed -14% AH. Jun 4 intraday $405.51–$496.02 (violent). Jun 5 pre-mkt **$413.45**. Jun 4 close est. ~$413–420 (NOT $505–510). AVGO temporarily removed from "high-priority candidate" — needs new base from ~$405–415 support zone before Jun 9 re-score is actionable. Fundamentals intact (C/N/A letters strong; Q3 guide beat), but L-letter damaged severely.
 - **⚠️ ADP DATA DISCREPANCY:** Our Jun 3 log recorded ADP May = 37K. Multiple WebSearch sources (CNBC, Fox Business) now show ADP May = 122K (beat). Reconciling: 37K may have been a WebSearch artifact; 122K consistent with Fox Business article URL "adp-jobs-report-may-2026-payrolls-increase-by-122000." If ADP was 122K, NFP consensus may be higher than our tracked 65K (possibly 96–127K range). **Flag: data uncertainty — track both scenarios at /market-check.**
