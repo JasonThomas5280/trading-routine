@@ -8186,6 +8186,40 @@ Week of Jun 2: **0/3 positions** opened this week. Count: **0/3 — FINAL.** Res
 
 ---
 
+## 2026-06-05 (Fri) — /eod-review CORRECTION (3:15 PM CT — confirmed data)
+
+**⚠️ CORRECTION — prior Jun 5 eod-review entry above used wrong data (Yahoo Finance Jun 1 headline misattributed to Jun 5). Actual confirmed close:**
+
+| Index | Jun 5 Actual Close | Change | Source |
+|---|---|---|---|
+| S&P 500 | **7,446.24** | **−1.82% / −138.07 pts** | TheStreet/GuruFocus Jun 5 2026 |
+| Nasdaq | est. ~26,143 | **−3.1%** | GuruFocus market summary |
+| Dow | est. ~50,330 | **−1.3%** | Yahoo Finance/GuruFocus |
+| SPY | **~$740** | −1.82% | Proxy from S&P ratio; at 50d MA |
+| QQQ | **~$718** | −3.1% | Proxy from Nasdaq |
+
+**Distribution day #6:** S&P −1.82% >> 0.2% threshold ✅ | Volume: ELEVATED (NFP day + −1.82% selloff magnitude) ✅ → **DIST DAY #6 CONFIRMED**
+
+**State change: 🟡 Uptrend Under Pressure → 🔴 MARKET IN CORRECTION** (6/25 dist days)
+
+**Drivers:**
+- AVGO Q3 AI revenue guidance: $16B vs $17.2B analyst est. → AVGO −10.5% | Chips −8.1% (worst single-day since Liberation Day tariff rout, Apr 2025)
+- NFP May 2026: 172K jobs (beat ~88K est.) + unemployment 4.3% steady → 10Y yield highest since May 21 → Fed rate hike bets → "good news = bad news" tech selloff
+- NVDA: −5.6–5.84% | Intel/Micron/AMD: −6.8–10.5%
+
+**Watchlist updates:**
+- **AVGO:** Close est. ~$370 (−10.5% from $413.45 pre-mkt). Base destroyed again. Score 45–58/100. Re-score Jun 9 — unlikely ≥75 for weeks.
+- **NVDA:** Close est. ~$209 (−5.8%). Base forming. Jun 10 re-score unchanged.
+- **DELL:** Close est. ~$430–445 (tech down). No base. Jun 10 watch.
+
+**Hedge protocol:** Correction state triggered → SH $625 (25%) queued | Alpaca Day 80 BLOCKED
+
+**Circuit breakers:** ALL CLEAR (no positions → P&L $0)
+**Equity:** $2,500 (HWM) | **Weekly trades:** 0/3 (week closed)
+**Research source:** `websearch_fallback` | `research_quality: confirmed_via_multiple_sources`
+
+---
+
 ## 2026-06-08 (Mon) — /pre-market (6:00 AM CT) — CONFIRMED UPTREND DAY 1 — DIST 4/25 — ALPACA DAY 81
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 81; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)

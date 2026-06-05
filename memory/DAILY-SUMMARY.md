@@ -2379,3 +2379,43 @@ Bench: AVGO ~$407–419 (no base), NVDA ~$213 (no base/Jun10), DELL ~$407–435 
 Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
 Rally attempt: Day 1 = Jun 8 if closes UP; FTD eligible Jun 12 earliest
 Next check: /eod-review 3:15 PM CT | Alpaca restore: CRITICAL Day 82
+
+---
+## 2026-06-05 15:15 CT [eod-review — DIST DAY #6 — CORRECTION STATE — CHIPS −8.1%]
+
+📊 EOD 2026-06-05 | Equity $2,500.00 (+$0.00 day, +$0.00 week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (May 4, May 7, May 15, May 19, Jun 3, Jun 5) → 🔴 MARKET IN CORRECTION
+STATE CHANGE: 🟡 Uptrend Under Pressure → 🔴 Market in Correction
+
+Market close (CONFIRMED):
+  • S&P 500:  7,446.24  −1.82% / −138 pts  ← DIST DAY #6
+  • Nasdaq:   −3.1%     (chips −8.1% worst since Liberation Day)
+  • Dow:      −1.3%
+  • SPY:      ~$740     (at 50d MA ~$740 on elevated volume)
+  • QQQ:      ~$718
+  • 10Y yld:  highest since May 21 (NFP 172K → Fed hike fears)
+
+Drivers: AVGO Q3 AI guidance $16B vs $17.2B est. → AVGO −10.5% | NFP 172K beat → yield surge
+Notable: NVDA −5.8% | AMD/Intel/Micron −6.8–10.5%
+
+Actions today:
+  • sell-rules-engine: SKIPPED (0 open positions — empty batch)
+  • SH hedge: TRIGGERED ($625 / 25%) — BLOCKED Alpaca Day 80 — queued for restore
+
+Watchlist:
+  AVGO ~$370 (−10.5%) | score est. 45–58/100 (guidance miss; not actionable for weeks)
+  NVDA ~$209 (−5.8%) | 72/100 prov. | base forming Jun 10 | BENCH
+  DELL ~$430–445    | 74/100       | no base              | BENCH
+
+Circuit breakers: NONE
+P&L today: +$0.00 | P&L week: +$0.00 | Equity: $2,500.00 (HWM)
+
+Tomorrow (Mon Jun 8):
+  1. 🚨 Alpaca restore — CRITICAL (Day 81)
+  2. Execute SH $625 hedge on restore
+  3. CORRECTION: no new longs until FTD
+  4. AVGO re-score Jun 9 (guidance miss; expect ≤65/100)
+  5. NVDA base check Jun 10
+  6. Weekly trades RESET 0/3
+  7. Rally attempt: if SPY undercuts $733.39 → new Day 1 → FTD eligible Day 4–7
