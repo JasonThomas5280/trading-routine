@@ -2361,3 +2361,21 @@ Plan: NO entries today (0 ≥75; Alpaca blocked). Priorities: (1) Alpaca restore
 ## 2026-06-05 11:16 CT [clickup-placeholder]
 
 🌅 Pre-market 2026-06-08 | Market: 🟢 CONFIRMED UPTREND Day 1 (dist 4/25) | Futures: NQ −0.65% slight neg | Iran WTI ~01 headwind | 0 positions | 0 ≥75 | AVGO re-score Jun 9 | NVDA base Jun 10 | ⚠️ Alpaca Day 81 blocked | Plan: NO entries (0 ≥75; Alpaca blocked) | Weekly trades 0/3 RESET
+
+---
+## 2026-06-05 15:17 CT [clickup-placeholder]
+
+📊 Market-check 2026-06-08 10:00 AM CT
+Market: 🔴 CORRECTION | Circuit breakers: NONE
+
+⚠️ CRITICAL STATE CORRECTION: Jun 5 S&P actual close ~7,536 (−0.63%) NOT +1.5% ATH. NFP 172K beat → yields surged → tech selloff = DIST DAY #6. Prior 'FTD confirmed Jun 5' entry was WRONG (cited Jun 1 Yahoo headline as Jun 5). Dist: 6/25 → 🔴 CORRECTION. May 4 expires after today's close → 5/25 but state REMAINS CORRECTION.
+
+Actions taken:
+  No new entries — CORRECTION state + Alpaca Day 82 blocked
+  [QUEUED] SH $625 / 25% portfolio hedge — FIRST order on Alpaca restore
+
+Watchlist: 0 ready, 0 primary, 3 bench (all entries blocked by CORRECTION)
+Bench: AVGO ~$407–419 (no base), NVDA ~$213 (no base/Jun10), DELL ~$407–435 (no base)
+Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+Rally attempt: Day 1 = Jun 8 if closes UP; FTD eligible Jun 12 earliest
+Next check: /eod-review 3:15 PM CT | Alpaca restore: CRITICAL Day 82

@@ -6,11 +6,12 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND** *(effective Monday Jun 8 — FTD confirmed Jun 5 + dist drops to 4/25 Jun 8)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 5 = Dist Day #6 — prior "FTD confirmed" entry was WRONG — see correction below)*
 
-**Last updated:** 2026-06-05 (Fri) — `/eod-review` 3:15 PM CT — **FTD CONFIRMED JUN 5 (NFP BEAT — S&P NEW ATH EST. ~7,700 ON ELEVATED VOLUME) | STATE UPGRADE: UNDER PRESSURE → CONFIRMED UPTREND EFFECTIVE JUN 8 | ⚠️ JUN 4 CORRECTION: ACTUAL CLOSE S&P 7,584.31 (+0.41%) | ALPACA DAY 80 BLOCKED — CRITICAL RESTORE BEFORE MON**
-**STATE:** 🟢 Confirmed Uptrend — EFFECTIVE MONDAY JUN 8 | FTD confirmed Jun 5 + May 4 dist expires Jun 8 → 4/25 | All 3 conditions met on Jun 8: (1) SPY > 50d MA ✅ (2) <5 dist days ✅ Jun 8 (3) FTD ✅ Jun 5
-**Distribution days: 5/25** (May 4, May 7, May 15, May 19, Jun 3) | Jun 5: UP day (FTD!) → NOT a dist day ✅ | **May 4 expires Jun 8 → dist drops to 4/25 → <5 condition met**
+**Last updated:** 2026-06-08 (Mon) — `/market-check` 10:00 AM CT — **⚠️ CRITICAL STATE CORRECTION: JUN 5 WAS NOT FTD. S&P ACTUALLY DOWN ~0.63% ON ELEVATED NFP VOLUME = DIST DAY #6 → CORRECTION | PRIOR JUN 5 EOD LOG USED WRONG YAHOO FINANCE HEADLINE (JUN 1 NOT JUN 5) | STATE: 🔴 MARKET IN CORRECTION | ALPACA DAY 82 BLOCKED | SH/SQQQ HEDGE TRIGGERED BUT BLOCKED**
+**STATE:** 🔴 Market in Correction | Dist day #6 confirmed Jun 5 (S&P ~−0.63% on elevated volume; NFP 172K beat → yield surge → tech selloff) | Prior "Confirmed Uptrend effective Jun 8" was based on WRONG DATA — corrected now
+**Distribution days: 6/25** (May 4, May 7, May 15, May 19, Jun 3, **Jun 5**) | Jun 5: DOWN ~0.63% on elevated NFP-day volume = DIST DAY #6 ✅ | May 4 expires after today Jun 8 close → **5/25 after close** BUT state remains Correction until FTD
+**⚠️ JUN 5 DATA CORRECTION (prior eod-review was WRONG):** S&P Jun 5 actual close: ~7,536 (−0.63% from 7,584.31) NOT ~7,700 ATH | NFP 172K actual (strong beat vs ~80K cons) → yields surged → TECH SELLOFF: S&P −0.63%, Nasdaq −1.13% to −1.8%, AVGO −4.95% | The "Yahoo Finance: Dow, S&P 500 jump to records, Nasdaq surges" headline cited in prior /eod-review was JUNE 1 (Monday) not June 5 — wrong date attribution in websearch_fallback mode → FTD claim was erroneous
 **⚠️ JUN 4 DATA CORRECTION:** S&P actual close = **7,584.31 (+0.41%)** (prior EOD estimated −0.15% ~7,542 — WRONG) | Dow Jun 4 new ATH 51,561.93 (+1.73%) | Nasdaq Jun 4 −0.09% (AVGO/chip drag, rotation to healthcare/financials/real estate) | SPY Jun 4 est. ~$756.16 | AVGO Jun 4 close est. ~$420 (intraday range $405.51–$496.02; pre-mkt Jun 5 $413.45)
 **FTD THRESHOLD CORRECTION:** 7,584.31 × 1.0125 = **7,678.86** (market-check used wrong Jun 4 data → threshold was understated at 7,636) | Jun 5 close est. ~7,700 (new ATH, above 7,678.86 ✅) | Volume: CONFIRMED ELEVATED (NFP day) | **FTD CONFIRMED ✅**
 **SPY Jun 5 est. close: ~$767–$768** | **QQQ Jun 5 est.: ~$752–$755** | S&P est. ~7,700 (+1.5% from 7,584.31) | 50d MA: ~$740 | 200d MA: ~$722
@@ -44,8 +45,26 @@
   - **0 candidates ≥75 at this time.** On Jun 8 Confirmed Uptrend activation: only AVGO Jun 9 re-score offers near-term entry potential (if base forms + score recovers to ≥75).
 - **Mon Jun 8 action items:** (1) 🚨 Alpaca restore — ABSOLUTELY CRITICAL (Day 81 Mon; no entries possible without it); (2) Confirm Confirmed Uptrend (dist drops to 4/25); (3) /pre-market watchlist refresh; (4) AVGO re-score Jun 9; (5) NVDA base check Jun 10; (6) Weekly trade count resets 0/3; (7) Cancel SH hedge queue formally if any pending order.
 
-**✅ JUN 8 PRE-MARKET (/pre-market 6:00 AM CT — CONFIRMED UPTREND DAY 1 — DIST 4/25 — NO ENTRIES YET — ALPACA DAY 81):**
-- **Market state: 🟢 CONFIRMED UPTREND** (dist **4/25** — May 4 dist day EXPIRES today Jun 8 as scheduled → drops 5/25 → 4/25 ✅; all 3 conditions met: SPY > 50d MA ✅, <5 dist days ✅, FTD Jun 5 ✅). First day entries ALLOWED per strategy — but 0 candidates ≥75/100 at this time.
+**⚠️ JUN 8 MARKET-CHECK (/market-check 10:00 AM CT — ⚠️ CRITICAL STATE CORRECTION: MARKET IN CORRECTION — JUN 5 DIST DAY #6 — FTD NEVER CONFIRMED — ALPACA DAY 82):**
+- **⚠️ CRITICAL STATE CORRECTION:** Prior /eod-review Jun 5 logged "FTD CONFIRMED, Confirmed Uptrend effective Jun 8." This was WRONG. WebSearch cross-check at market-check confirms: Jun 5 S&P actual close ~−0.63% on elevated volume (NFP 172K beat → yield surge → tech selloff). TheStreet: "S&P 500 falls on chip stock weakness." CNBC: "broad market index dropped 1%." The "jump to records, Nasdaq surges" Yahoo Finance headline cited was for JUNE 1 (Monday), not June 5 — date misattribution in websearch_fallback mode.
+- **Jun 5 corrected:** S&P ~7,536 (−0.63% from 7,584.31) | Nasdaq ~−1.13% to −1.8% | Volume: ELEVATED (NFP = guaranteed above-avg) → **DISTRIBUTION DAY #6** ✅
+- **Distribution count: 6/25** (May 4, May 7, May 15, May 19, Jun 3, Jun 5) → **🔴 STATE: MARKET IN CORRECTION**
+- **May 4 expiry today (Jun 8 = session 25/25):** After today's close → dist drops to **5/25** but state REMAINS CORRECTION (needs FTD to upgrade)
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | SH/SQQQ hedge triggered (Correction protocol) but Alpaca Day 82 BLOCKED
+- **Abort gates — ALL FIRED:** (1) Correction state → no long entries (2) Alpaca Day 82 → no execution possible
+- **Rally attempt status:** Jun 5 was DOWN → NOT Day 1. If Jun 8 closes UP from ~7,536: Day 1 of new rally attempt. FTD eligible: Day 4–7 from Day 1 (Jun 12–15 earliest if Day 1 = Jun 8). Prior rally attempt (Day 1 = May 19 SPY $733.39) technically intact on price (SPY never undercut $733.39), but Correction-state supersedes — need fresh FTD.
+- **Futures Jun 8 (from pre-market log):** NQ ~30,195 (−0.65%); ES flat/slight neg | No positive overnight catalyst | Oil WTI ~$101.67, Brent ~$107.50 (Strait of Hormuz disrupted — persistent inflation headwind)
+- **Watchlist triggers (primary):** ZERO primary items | 0 triggers evaluated ✅
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **Bench promotion check:** AVGO ~$407–419 (post-crash, no base; entries blocked by Correction regardless) | NVDA ~$213 (no base; entries blocked) | DELL ~$407–435 (no base; entries blocked) | **No promotions. No demotions.**
+- **SH/SQQQ hedge:** TRIGGERED by Correction state — hedge entry warranted at $625 / 25% portfolio (SH preferred over SQQQ for account size). BLOCKED: Alpaca Day 82. Order queued — FIRST execution on Alpaca restore.
+- **Mon Jun 8 action items:** (1) 🚨 Alpaca restore — Day 82 CRITICAL (2) Update/confirm Correction state (3) Queue SH $625 hedge for immediate execution on restore (4) AVGO re-score Jun 9 (fundamentals intact; need base before score can reach 75+) (5) NVDA base check Jun 10 (6) Weekly trades: 0/3 (reset) (7) Next FTD window: Day 1 = Jun 8 if closes UP → FTD eligible Jun 12 earliest
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 (reset) | Equity: $2,500 (HWM) | Weekly trades: 0/3 (reset)
+- **Actions: NONE** (Correction + Alpaca blocked)
+- `research_source: websearch_fallback` | Alpaca Day 82 | Perplexity 403 | AV 403
+
+**⚠️ JUN 8 PRE-MARKET (/pre-market 6:00 AM CT — NOTE: LOGGED INCORRECTLY AS CONFIRMED UPTREND — SEE MARKET-CHECK CORRECTION ABOVE):**
+- **Market state: 🟢 CONFIRMED UPTREND** *(⚠️ THIS WAS WRONG — CORRECTED AT MARKET-CHECK: STATE IS 🔴 CORRECTION)* (dist **4/25** — May 4 dist day EXPIRES today Jun 8 as scheduled → drops 5/25 → 4/25 ✅; all 3 conditions met: SPY > 50d MA ✅, <5 dist days ✅, FTD Jun 5 ✅). First day entries ALLOWED per strategy — but 0 candidates ≥75/100 at this time.
 - **Futures:** NQ ~30,195 (−0.65%) | ES flat/slight negative (no positive catalyst) | Modest neg lean at open
 - **Alpaca: Day 81 blocked** (403 "Host not in allowlist") — CRITICAL RESTORE PRIORITY | Perplexity: 403 | AV: 403 | `research_source: websearch_fallback`
 - **Geopolitical/Oil:** Iran war ongoing — WTI ~$101.67/bbl, Brent ~$107.50/bbl (Strait of Hormuz still disrupted; IEA: "largest supply disruption in history"; 10.5M bpd offline). Persistent inflation headwind. No resolution in sight.
