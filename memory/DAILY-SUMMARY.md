@@ -2459,3 +2459,8 @@ NEXT WEEK (Jun 8+):
 • 🚨 Alpaca Day 79+ CRITICAL — SH hedge blocked, no entries possible
 
 WATCHLIST: ARCHIVED week of Jun 2–6. Rebuild via /weekly-prep Sunday Jun 8.
+
+---
+## 2026-06-07 21:19 CT [clickup-placeholder]
+
+📋 Week prep 2026-06-07 | Market: 🔴 CORRECTION (Dist: 5/25; stays until FTD) | ⚠️ Jun 5 corrections: S&P 7,383.74 (−2.64%) | SPY 38 | 50d MA 12 (+3.7%) | Top sectors: XLE, XLI, XLF | XLK demoted (semis −4.2%) | Primary: NONE (0 candidates ≥75) | Bench: NVDA 65→75/100 (base est Jul 10-31), DELL 74→82-84/100 (base est Jun 30-Jul 15) | AVGO REMOVED (50d MA break, score 45-55) | Hedge: SH 25 QUEUED (Alpaca Day 83+ blocked) | CPI Wed Jun 10 BINARY EVENT (hot=dist; soft=FTD fuel) | FOMC Jun 16-17 next week | FTD path: Jun 8 up→Day1→FTD eligible Jun 12 | Entry Mon: NONE

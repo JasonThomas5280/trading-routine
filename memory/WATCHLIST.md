@@ -6,6 +6,83 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## 🔴 CORRECTION MODE — Week of 2026-06-09 to 2026-06-13 — NO NEW LONG ENTRIES
+
+**Built:** 2026-06-07 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: Day 83+ 403, Perplexity: 403, Alpha Vantage: 403 — all APIs blocked; all data via WebSearch)
+
+**Market direction:** 🔴 Market in Correction (5/25 dist days; May 4 expired Jun 8 → 5/25; state stays CORRECTION until FTD) | **ALL NEW LONG ENTRIES BLOCKED**
+**⚠️ JUN 5 DATA CORRECTIONS:** S&P actual close **7,383.74 (−2.64%)** | SPY **~$738.37** | 50d MA: **~$712** (+3.7%) | 200d MA: **~$681** (+8.4%) — prior entries had incorrect SPY MA estimates ($740)
+**QQQ:** ~$720-724 est. (Nasdaq −4.2% Jun 5) | 50d MA: ~$665 est.
+**Rally attempt:** May 19 Day 1 SPY $733.39 intact (Jun 5 $738 > $733.39) | Jun 5 was DOWN → NOT Day 1 | If Jun 8 closes UP → Day 1 → FTD eligible Jun 12+ (Fri)
+
+**Top sectors (4-week trailing RS, May 8 → Jun 5):**
+1. **XLE Energy: #1** — oil elevated (Iran/Hormuz, +26-27% YTD), persistent geopolitical premium. `research_source: websearch_fallback`
+2. **XLI Industrials: #2** — DELL +757% AI server rev, AI power/cooling cycle (VRT), infrastructure build-out.
+3. **XLF Financials: #3** — NFP 172K beat → higher-for-longer → bank NIM positive. Mixed short-term due to rate shock.
+4. **⚠️ XLK Technology: DEMOTED** — semis worst sector on Jun 5 (Nasdaq −4.2%, AVGO −7.9%, NVDA −6.2%, chips −8%+). 4-wk RS likely #4–6. **NO sector bonus for XLK names this week.**
+
+**Blacklisted sectors:** None (no 2-consecutive-fail trade history)
+
+**Universe scan:** DEGRADED — all APIs blocked. Cannot run build-universe.sh. Maintaining prior curated bench. No new universe scan possible this week.
+**Candidates evaluated in websearch_fallback mode:** NVDA, DELL, AVGO (removed), GOOGL (removed prior), META (unresolved price data conflict)
+**Passed conviction ≥75 (READY): 0** | **Entry gates passed: 0** (CORRECTION state blocks ALL new longs)
+**9th consecutive week with 0 actionable setups.** CORRECTION mode = correct response. Do NOT lower threshold.
+
+---
+
+## 🔴 CORRECTION POSTURE — NO NEW LONG ENTRIES — HEDGE MODE
+
+**Entry gate: ⛔ ALL LONG ENTRIES BLOCKED** (🔴 Correction — 5/25 dist days; state change only on FTD)
+
+**HEDGE:** SH (−1× S&P) **$625 / 25% portfolio** — QUEUED since Jun 5. **FIRST ORDER on Alpaca restore.**
+- SH preferred over SQQQ (lower leverage decay; account size $2,500)
+- At ~$17-18/share: ~35-37 shares
+- Stop on SH: exit on FTD confirmation (market upgrade to Confirmed Uptrend)
+
+**FTD Pathway — Week of Jun 9-13:**
+
+| Day | Gate | Bullish (FTD path) | Bearish |
+|---|---|---|---|
+| Mon Jun 8 | Day 1? | Closes UP from 7,383.74 → Day 1 → FTD window opens | Closes DOWN → rally attempt continues from May 19 |
+| **Wed Jun 10** | **⚠️ CPI May** | Soft CPI (<4.0% YoY) → rate cut hopes → FTD fuel | Hot CPI (+4.2%+ YoY) → yield spike → dist day risk → Correction deepens |
+| Thu Jun 11 | Technical | Strong follow-through on CPI relief | Energy/Iran geopolitical flare |
+| **Fri Jun 12** | **FTD candidate** | S&P +1.25%+ on above-avg vol = FTD → 🟢 Confirmed Uptrend | Miss = dist day #7+ → deeper correction |
+
+**If FTD confirmed this week:**
+→ 🟢 Confirmed Uptrend → cancel SH hedge → immediately re-score NVDA (est. 65/100 no base; needs base to hit 75+) and DELL → build entry plan for post-FTD breakouts → still need base formation on NVDA (est. Jul 10+) before entry possible
+
+**If no FTD by Jun 13:**
+→ Correction continues | FOMC Jun 16-17 (following week) — do NOT enter new longs Jun 15 before 1 PM CT | Next FTD window extends | SH hedge execution priority rises
+
+---
+
+### Primary Watchlist (score ≥75 — ready to trade on FTD)
+
+**NONE.** Zero candidates currently above conviction threshold without a valid base. Even with FTD, no entries until base formation completes.
+
+---
+
+### Bench (below threshold — building toward post-FTD entries)
+
+| Rank | Symbol | Score | Sector | Status | Base Est. Complete | Entry Score Est. | Notes |
+|---|---|---|---|---|---|---|---|
+| B1 | NVDA | **65/100** 🔴 | XLK / Semis | 🟡 Post-correction consolidation; base NOT formed | Jul 10–Jul 31 est. | **75/100 min with base** (barely passes; re-score Jul) | **⚠️ REVISED DOWN from 72/100.** Jun 5 actual close $205.10 (−6.2%). Support at $199.57. L-letter cut: XLK not top-3 sector (4-wk RS); I-letter capped (EDGAR stale). C:20 A:15 N:10 S:5 L:10 I:5 Base:0 = 65. With base (+10): 75. With XLK sector recovery (+5): 80. China H20 permanent zero still caps N at 10. `research_source: websearch_fallback`. Next action: check base progress at /pre-market when $205 holds as support. |
+| B2 | DELL | **74/100** ⚠️ | XLK / AI Infra | 🟡 Post-earnings consolidation; base NOT formed | Jun 30–Jul 15 est. | **82–84/100 with base + A-letter GAAP** | Q1 FY2027: Rev $43.84B (+88% YoY), AI-Opt Servers $16.1B (+757%), EPS $4.86 vs $2.94. Jun 5 est. ~$415–430 (broadly down with tech from ATH ~$465). L-letter: same XLK sector penalty as NVDA (no sector bonus). Score would be 82–84 with: base (+10) + A-letter GAAP confirmed (+3, VMware amort. resolved). Earnings: est. Aug/Sep (clear). XLK sector recovery needed for full L:15. `cached_fundamentals`. |
+
+---
+
+### Removed / Changed this week
+
+| Symbol | Reason |
+|---|---|
+| AVGO | **REMOVED from bench.** Jun 5 close $385.73 confirmed — stock broke BELOW 50-day MA (~$397–$422) on heavy volume (sector-wide distribution). This triggers the 50d MA break sell rule for any holder; as a bench candidate, the base is permanently destroyed (two separate crashes from ATH: Jun 3 AH −14% then Jun 5 −7.9%). Score est. 45–55/100 even WITH a base attempt. Do not re-evaluate until 6-week minimum base forms from ~$385 support area AND score re-confirms ≥75. Earliest re-evaluation: late July 2026. |
+| GOOGL | **REMOVED prior (Jun 3).** $80B dilutive equity raise. Score 65-70/100. XLC still #4-5 sector. No realistic path to 75+ in current regime. |
+| SH hedge | **ADDED as hedge candidate.** CORRECTION protocol → SH $625 / 25% portfolio → FIRST ORDER when Alpaca restores. Exit: FTD confirmation. |
+
+**Market-check note:** 2026-06-07 (Sun) | `research_source: websearch_fallback` | All APIs blocked Day 83+ | No actions possible | Correction + Alpaca blocked | Weekly trades: 0/3 RESET | Equity: $2,500 (HWM) | Circuit breakers: ALL CLEAR
+
+---
+
 ## ⚠️ ARCHIVED — Week of 2026-06-02 to 2026-06-06 — **STALE — rebuild via /weekly-prep on Sunday Jun 8**
 
 > **Archived week of Jun 2–6.** Market state changed to 🔴 CORRECTION (Dist Day #6 Jun 5 confirmed Jun 8). All primary candidates below threshold. AVGO base destroyed. GOOGL removed. DELL/NVDA below 75. Full rebuild required Sunday Jun 8 — do NOT use this list for entry decisions.

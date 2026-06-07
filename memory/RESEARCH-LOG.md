@@ -46,6 +46,82 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-07 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION — JUN 5 DATA CORRECTIONS — WEEK OF JUN 9-13 SETUP
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 83+ blocked; Perplexity: 403 blocked; Alpha Vantage: 403 blocked; network policy blocks ALL outbound HTTP. All data via native WebSearch tool.)
+**Market direction pull:** 🔴 Market in Correction | **5/25 distribution days** (May 4 expired Jun 8 close; May 7, May 15, May 19, Jun 3, Jun 5 active) | State REMAINS Correction until FTD | **ALL NEW LONG ENTRIES BLOCKED**
+
+### Scan statistics (weekly-prep)
+
+| Metric | Value | Notes |
+|---|---|---|
+| Universe targeted | 3 names | Degraded mode — all APIs blocked; cannot run build-universe.sh |
+| Names evaluated | NVDA, DELL, AVGO | Curated carry-forward from prior weeks |
+| Pre-filtered out | GOOGL (dilutive equity raise; score 65-70/100; XLC #4-5), META (price data conflict, float 2.5B+), AVGO (50d MA break Jun 5, score 45-55/100) | |
+| Passed conviction ≥75 | **0** | 9th consecutive week with zero actionable setups |
+| Entry gates passed | **0** | Correction state blocks all new longs |
+| Rejection breakdown | NVDA: no_valid_base (65/100 no base; 75/100 with base — minimum threshold only) | DELL: no_valid_base (74/100 no base; est. 82-84/100 with base) | AVGO: conviction_below_threshold + 50d_MA_break |
+
+### Market data corrections applied (vs. prior websearch_fallback estimates)
+
+| Item | Prior estimate | Actual (confirmed) | Source |
+|---|---|---|---|
+| S&P Jun 5 close | 7,446.24 (−1.82%) | **7,383.74 (−2.64%)** | Yahoo Finance "How major US stock indexes fared Friday 6/5/2026" |
+| Nasdaq Jun 5 | −3.1% to −4.2% est. | **25,709.43 (−4.2%)** | CNBC live blog |
+| SPY Jun 5 close | ~$740 | **~$738.37** | Derived from S&P 7,383.74 |
+| SPY 50d MA | ~$740 | **~$712** | Technical analysis (Investing.com, AltIndex) |
+| SPY 200d MA | ~$722 | **~$681** | Technical analysis |
+| SPY vs. 50d MA | "at 50d MA = sell signal" | **+3.7% ABOVE 50d MA** | Corrected |
+| AVGO Jun 5 close | ~$370 est. | **$385.73** | VantageMarkets, Motley Fool |
+| AVGO Jun 4 close | ~$413–420 est. | **$418.91** | VantageMarkets "dropped 12.59% on the session" |
+| NVDA Jun 5 close | ~$209 est. | **$205.10** | Search result citing Jun 5 data |
+
+### Sector analysis (4-week RS, May 8 → Jun 5)
+
+| Rank | Sector | Est. 4-wk Return | Key Driver |
+|---|---|---|---|
+| #1 | XLE Energy | ~+3–6% | Iran/Hormuz oil premium; WTI elevated; geopolitical supply risk |
+| #2 | XLI Industrials | ~+2–4% | DELL AI servers +757% YoY; AI power/cooling cycle (VRT) |
+| #3 | XLF Financials | ~+1–3% | NFP 172K beat → higher-for-longer → bank NIM benefit |
+| #4 | XLK Technology | ~−1% to flat | Jun 5 chips worst sector (−4.2% Nasdaq); AVGO, NVDA distribution |
+| Bottom | XLU, XLRE | Neg | Rate spike (NFP beat → 10Y yield up) crushes rate-sensitive sectors |
+
+`⚠️ XLK NOT in top-3 sectors this week — no sector bonus for NVDA/DELL on L-letter`
+
+### Canslim-screener results
+
+| Symbol | Score (no base) | Score (with base) | Base status | Entry eligible? | Notes |
+|---|---|---|---|---|---|
+| NVDA | 65/100 | 75/100 | Not formed — $205.10 Jun 5; support $199.57; est. completion Jul 10–31 | ❌ No (Correction + no base) | Revised down from 72/100; L-letter penalty (XLK #4 sector); I capped (stale). Barely passes at 75 with base. |
+| DELL | 74/100 | est. 82–84/100 | Not formed — ~$415–430 Jun 5 (post-ATH gap); est. completion Jun 30–Jul 15 | ❌ No (Correction + no base) | Strong C-letter (EPS +90%+ YoY); needs A-letter GAAP confirm + base |
+| AVGO | est. 45–55/100 | N/A | DESTROYED — 50d MA break Jun 5 ($385.73 vs 50d ~$397–$422) | ❌ No (score below threshold; 50d MA break) | Removed from bench. Re-evaluate earliest late July 2026. |
+
+### Week of Jun 9-13 macro calendar
+
+| Date | Event | Implication |
+|---|---|---|
+| Mon Jun 9 | Regular session | Jun 8 outcome (Day 1 of rally attempt?) feeds into this |
+| **Wed Jun 10** | **CPI May** | Headline est. +4.2% YoY (+0.5% MoM); Core est. +0.2% MoM. HOT = dist day risk; SOFT = FTD fuel |
+| Fri Jun 12 | U of Michigan Consumer Sentiment | Secondary indicator; FTD candidate date if Day 1 = Jun 8 |
+
+**Next week (Jun 16-17): FOMC.** No entries Jun 15 before 1 PM CT per strategy.
+
+### Watchlist changes
+
+- **AVGO: REMOVED from bench** (50d MA break on volume = structural breakdown; est. score 45-55/100)
+- **SH hedge: QUEUED** — first order on Alpaca restore; $625 / 25% portfolio
+- **Primary watchlist: EMPTY** — 0 candidates ≥75 ready to trade
+- **Bench: NVDA (B1, 65→75/100), DELL (B2, 74→82-84/100)**
+
+### Risks flagged for next week
+
+1. CPI Jun 10 — hot print = more distribution; could push count to 6/25 again → Correction deepens
+2. Alpaca API still blocked (Day 83+) — SH hedge cannot be placed; no entries possible regardless of state
+3. FOMC Jun 16-17 — no entries Jun 15 AM even if FTD confirmed this week
+4. Iran/Hormuz oil disruption — persistent inflation headwind; energy +18% YoY driving CPI above target
+
+---
+
 ## 2026-06-04 (Thu) — /pre-market (6:00 AM CT) — AVGO BEAT AH — FTD NOT TRIGGERED — NFP TOMORROW
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 75; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
