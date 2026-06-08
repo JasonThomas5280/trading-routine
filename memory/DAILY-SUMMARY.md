@@ -2497,3 +2497,19 @@ DELL: ~$394 (Jun 5 −6.55%). No base. Blocked by Correction.
 Watchlist ready: NONE | Watching: NVDA 🟡 DELL 🟡 | AVGO moved to watch-only
 Key catalyst: NVDA/LG partnership (base check tomorrow). FOMC Jun 16-17 (7 days).
 Plan: NO entries — Correction active. SH $625 FIRST order on Alpaca restore (Day 83). FTD window Jun 12 if Jun 8 = Day 1.
+
+---
+## 2026-06-08 15:15 CT [eod-review]
+
+📊 EOD 2026-06-08 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 5/25 (May 4 expired; market: 🔴 Correction — UNCHANGED)
+Rally attempt: Day 1 confirmed (Jun 8 S&P ~7,452 +0.93%)
+FTD: MISS — 6 pts short (7,452 vs 7,458.53) | +0.93% vs +1.25% required
+FTD window: Jun 12–15 (Day 4–7) | Rally low: 7,383.74
+Actions today: NONE — Correction + Alpaca Day 82 blocked
+SH/SQQQ hedge: QUEUED at $625 — execute first on Alpaca restore
+⚠️ CPI May 2026: Jun 10 @ 8:30 AM ET — binary event; no entries before data
+Semis: VanEck SMH +5% (Iran de-escalation); Russell 2000 −3.47% (small cap lagging)
+Tomorrow: AVGO re-score (blackout lifted Jun 8) | Light data day
+Upcoming: FOMC Jun 16–17 (Kevin Warsh) — no entries before 1 PM CT Jun 16

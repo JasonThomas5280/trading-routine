@@ -8447,3 +8447,92 @@ NO entries. Correction + Alpaca blocked.
 **Weekly trades:** 0/3
 
 `research_source: websearch_fallback`
+
+---
+
+## 2026-06-08 (Mon) — /eod-review (3:15 PM CT) — CORRECTION UNCHANGED | DAY 1 RALLY ATTEMPT | FTD MISS 6 PTS | ALPACA DAY 82
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 82; Perplexity: 403; Alpha Vantage: 403. All data via native WebSearch.)
+**Market direction:** 🔴 Market in Correction | **5/25 distribution days** (May 4 expired Jun 8 close)
+**FTD status:** NOT CONFIRMED. Day 1 rally attempt confirmed (Jun 8 +0.93%). FTD window: Jun 12–15 (Day 4–7). Rally low 7,383.74.
+
+### Market close data (Jun 8, 2026)
+
+| Index / ETF | Level | Change | Notes |
+|---|---|---|---|
+| S&P 500 | ~7,452 | +0.93% | From 7,383.74 Jun 5 |
+| SPY (est.) | ~$747 | +0.93% | Alpaca blocked — estimate |
+| QQQ (est.) | ~$716 | +1.44% Nasdaq | Range $704–$731 intraday |
+| Dow Jones | — | +0.58% | Modest gain |
+| Nasdaq Composite | — | +1.44% | Chip-led recovery |
+| Russell 2000 | — | −3.47% | ⚠️ Small cap lagging |
+| VanEck SMH (semis) | — | +5% | Iran de-escalation catalyst |
+
+**Catalyst:** Iran stated military operation vs. Israel ended (weekend). Middle East de-escalation → tech/semi relief rally. Trump signaled optimism on Iran deal. Chip stocks led recovery.
+
+**Volume:** UNCONFIRMED (Alpaca blocked). SMH +5% on geopolitical resolution = likely elevated vol in tech. Cannot confirm for FTD purposes.
+
+### Distribution day check
+
+- S&P +0.93% → UP day → CANNOT be distribution day ✅
+- **May 4 dist day expired at Jun 8 close** (session 25/25): 6/25 → **5/25**
+- Dist days remaining: May 7, May 15, May 19, Jun 3, Jun 5
+- No new dist day today ✅
+
+### FTD check
+
+- S&P ~7,452 vs threshold **7,458.53** (7,383.74 × 1.0125) → **6 pts short → NOT FTD**
+- +0.93% < +1.25% required → NOT FTD
+- **Day 1 of new rally attempt** — first UP day from Jun 5 low
+- FTD window: **Jun 12 (Day 4) — Jun 15 (Day 7)**
+
+### Sell-rules-engine
+
+SKIPPED — 0 open positions (empty batch)
+
+### Circuit breaker check
+
+- Alpaca blocked Day 82: cannot pull live account data
+- Prior confirmed: Equity $2,500 (HWM), 0 positions, 0 P&L
+- Today P&L: $0 | Week P&L: $0 | Equity: $2,500 (HWM)
+- Circuit breakers: **ALL CLEAR**
+
+### Macro calendar ahead
+
+| Date | Event | Risk |
+|---|---|---|
+| Jun 9 (Tue) | Light data day | Low — AVGO re-score, NVDA base watch |
+| Jun 10 (Wed) | ⚠️ CPI May 2026 @ 8:30 AM ET | BINARY — hot print = dist day + rally undercut risk |
+| Jun 12 (Fri) | FTD eligible Day 4 | Earliest FTD date from Jun 8 Day 1 |
+| Jun 15 (Mon) | FTD window closes (Day 7) | Last day for current FTD window |
+| Jun 16–17 | FOMC (Kevin Warsh) | No entries before 1 PM CT Jun 16 |
+
+### Watchlist status
+
+| Symbol | Est. Jun 8 Close | Score | Status |
+|---|---|---|---|
+| AVGO | ~$416–419 | 55/100 | NOT ACTIONABLE — re-score Jun 9 |
+| NVDA | ~$210–215 | 72/100 prov. | BENCH — base check Jun 10 (→ 82/100 with base) |
+| DELL | ~$393–400 | 74/100 | BENCH — no base |
+
+All blocked by Correction state regardless of score.
+
+### ⚠️ Date correction note
+
+Prior sessions wrote "Jun 9 pre-market" and "Jun 9 market-check" entries in memory files but were running on Jun 8 with incorrect date identification. Today IS Jun 8. Those entries contain valid Jun 8 morning/midday analysis, mislabeled as Jun 9.
+
+### Actions today
+
+**NONE.** Correction active. Alpaca blocked Day 82. 0 candidates ≥75.
+
+---
+
+**Close:** SPY est. ~$747 (+0.93%) | QQQ est. ~$716 (Nasdaq +1.44%)
+**Distribution days:** 5/25 (May 4 expired; May 7, May 15, May 19, Jun 3, Jun 5 remain)
+**Market state:** 🔴 Market in Correction (UNCHANGED — Day 1 rally attempt; FTD window Jun 12–15)
+**Positions held:** 0
+**Actions today:** NONE (Correction + Alpaca Day 82 blocked)
+**Circuit breakers:** NONE
+**P&L today:** $0.00
+**Equity:** $2,500.00 (= HWM)
+**Weekly trades:** 0/3 (Week of Jun 2–8 closes: 0 trades)
