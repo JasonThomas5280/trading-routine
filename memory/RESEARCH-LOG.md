@@ -8313,4 +8313,137 @@ Circuit breakers: **ALL CLEAR**
 **Equity:** $2,500.00 (= HWM)
 **Weekly trades:** 0/3 (reset)
 
+---
+
+## 2026-06-09 (Tue) — /pre-market (6:00 AM CT) — CORRECTION STATE — AVGO RE-SCORE — NVDA/LG CATALYST
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 83; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **5/25 distribution days** (May 4 expired Jun 8 → 5/25; state remains CORRECTION until FTD)
+**FTD status:** NOT CONFIRMED. Rally attempt: Jun 8 Day 1 if closed UP from 7,383.74. FTD eligible Jun 12 earliest (Day 4). Jun 8 close unconfirmed (Alpaca blocked).
+
+### ⚠️ JUN 5 CLOSE FINAL CORRECTION
+
+Prior logs (MARKET-DIRECTION.md) had Jun 5 S&P close as 7,446.24 (−1.82%). **WRONG — now fully confirmed.**
+
+**Confirmed via TheStreet, CNN Business, Yahoo Finance (multiple corroborating sources):**
+
+| Index | Jun 5 Close | Change |
+|---|---|---|
+| S&P 500 | **7,383.74** | **−2.64% / −200.57 pts** from Jun 4 close 7,584.31 |
+| Nasdaq Composite | **25,709.43** | **−4.18% / −1,121.53 pts** — worst day since Apr 2025 |
+| Dow Jones | **50,866.78** | −1.35% / −695.15 pts |
+| Phil SE Semiconductor | — | Worst single-day decline since March 2020; >$1T erased |
+
+**Individual stock declines Jun 5:** NVDA −6.2% | AVGO −13.3% | Intel/AMD/MU all −7.9%–13.3%
+
+**Implications:**
+- Dist Day #6 confirmed ✅ — state 🔴 Correction unchanged
+- FTD threshold revised: 7,383.74 × 1.0125 = **7,458.53** (easier bar vs prior estimate of ~7,603)
+- Rally attempt Day 1 = Jun 8 (if Jun 8 UP) or later
+
+### Market overnight check (Jun 9 pre-market)
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures | **−0.31%** | Modest negative continuation; no major catalyst |
+| NQ futures | **−0.88%** | Tech/semi overhang from Jun 5 selloff |
+| AVGO | **~$416.88 pre-mkt** (prior close $418.91) | Stable at post-crash level; no new catalyst |
+| NVDA | **~$207 est.** | Jensen Huang/LG Group partnership Jun 8 = positive N-letter catalyst |
+| DELL | **~$394 area** (Jun 5 close $394.39, −6.55%) | No new overnight news |
+| Iran/oil | WTI ~$101, Brent ~$107 | Strait of Hormuz disruption ongoing; persistent inflation headwind |
+| 10Y Treasury yield | Elevated (post-NFP 172K) | Rate hike fears; Fed unlikely to cut in 2026 |
+| FOMC | Jun 16–17 (7 days) | No entries before 1 PM CT on FOMC day |
+
+**Economic calendar Jun 9:** No major scheduled releases identified. Light data day.
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**No open positions — skipped.**
+
+### Catalyst scan — bench watchlist names
+
+**AVGO (re-score Jun 9 — blackout lifts today):**
+- Earnings blackout lifts today (5 sessions since Jun 3 AH)
+- Current est. price: ~$416.88 pre-market (vs $477.01 Jun 3 session close = −12.6% since earnings)
+- No new overnight catalysts
+- **FORMAL RE-SCORE (websearch_fallback, Alpaca/AV blocked):**
+  - C: 20 (Q2 FY2026 Rev $22.19B +48% YoY — BEAT; net income +88% YoY; GAAP EPS beat confirmed)
+  - A: 8 (FY2023 revenue +8% — structural A-letter issue; ROE ~38% saves +5pts)
+  - N: 10 (Q3 AI revenue guide +200% = strong catalyst; BUT 2027 AI guidance not raised = market disappointment; stock ~17% below $495 ATH = not at "new high"; partial credit)
+  - S: 5 (float >500M = 0pts structural; buyback program ongoing; volume declining in base = neutral)
+  - L: 5 (RS severely damaged: −13.3% Jun 5 reaction; est. RS 60–70 vs prior 90+; XLK #1 sector gives partial credit)
+  - I: 7 (institutional support intact: Citi $500 PT, Evercore $582 PT, Wells Fargo $545 PT — all maintained; quality holders not abandoning)
+  - Base: 0 (no base formed; needs 3–4 weeks minimum from $385–420 support zone)
+  - **Total: 55/100 — NOT ACTIONABLE (threshold 75)**
+  - With speculative base (+10): **65/100 — still below threshold**
+- **Verdict: AVGO demoted to watch-only.** No active bench position. Score path to ≥75 requires: (1) new base ~$385–420 support (est. 3–4 weeks min), (2) RS recovery to 80+, (3) 2027 AI guidance raise event OR stock price recovery near ATH. Re-score trigger: base formation confirmed + RS ≥80. Timeline: **late Jun/early Jul earliest**.
+- Citi $500 / Evercore $582 / Wells Fargo $545 PTs maintained — thesis intact long-term, not short-term actionable.
+- `research_source: websearch_fallback`
+
+**NVDA:**
+- Jensen Huang met LG Group Chairman Koo Kwang-mo Jun 8 (LG Twin Towers, Seoul): partnership for humanoid robots + AI data centers. LG Electronics-related stocks surged. Positive N-letter catalyst for NVDA.
+- Est. price: ~$207 area (Jun 5 close ~$209 est., −6.2% from ~$220)
+- Base formation: still tracking — check **Jun 10 tomorrow** (est. cup-with-handle or flat base completing)
+- Score: 72/100 provisional → **82/100 with base** ✅ — passes threshold
+- Entries blocked: Correction state + Alpaca blocked
+- 🟡 BENCH — base check tomorrow critical
+
+**DELL:**
+- Jun 5 close: **$394.39 (−6.55%)** from ATH $469.47 (Jun 1). Off ~16% from ATH in 4 sessions.
+- No overnight catalysts Jun 9.
+- Still no base formed. Needs 3+ weeks consolidation post-earnings-gap.
+- Score: 74/100 (A-letter GAAP confirmation still needed via AV restore)
+- Entries blocked: Correction state + Alpaca blocked + no base
+- 🟡 BENCH — watching for base formation
+
+### Buy-zone readiness
+
+| Symbol | Est. Price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| AVGO | ~$416.88 | None (destroyed; new base needed) | N/A | 🔴 WATCH ONLY — score 55/100, below threshold |
+| NVDA | ~$207 est. | None (forming — check Jun 10) | N/A | 🟡 BENCH — score 72→82 with base; entries blocked by Correction |
+| DELL | ~$394 est. | None (no base) | N/A | 🟡 BENCH — score 74/100; entries blocked by Correction |
+
+**Primary watchlist: ZERO.** No candidates ≥75/100 AND valid base AND Confirmed Uptrend.
+
+### Circuit breaker check
+
+Alpaca blocked (Day 83) — cannot pull live account state.
+Prior confirmed state: Equity $2,500 (HWM), 0 positions, 0 P&L, weekly trades 0/3.
+Circuit breakers: **ALL CLEAR** (no active triggers).
+
+### New candidates flagged
+
+None. All three bench names below entry threshold or blocked by Correction.
+**Next action:** NVDA base check Jun 10 — if base confirmed + score reaches 82/100, move to primary watchlist pending FTD confirmation.
+
+### Risks / key dates ahead
+
+- **Alpaca restore — Day 83 — HIGHEST PRIORITY.** SH hedge blocked, no executions possible.
+- **NVDA base check Jun 10.** If base forms → score 82/100 → first primary candidate in 9 weeks.
+- **FTD window Jun 12 earliest** (if Jun 8 = Day 1 of new rally). Any session S&P +1.25%+ on above-avg vol.
+- **FOMC Jun 16–17.** No new entries before 1 PM CT that day. Rate hike risk elevated (NFP 172K + core inflation).
+- **AVGO re-score watch:** Late Jun/early Jul when base forms from $385–420 support.
+
+### Plan for session
+
+NO entries. Correction + Alpaca blocked.
+1. 🚨 Alpaca restore — CRITICAL. FIRST order: SH $625 / 25% portfolio on restore.
+2. Jun 10: NVDA base check — primary candidate pipeline depends on this.
+3. Monitor for Jun 8 close confirmation (rally attempt Day 1 or further selling).
+4. FOMC Jun 16–17 — in planning window.
+5. AVGO watch: no action needed; next re-score trigger is base formation.
+
+---
+
+**Actions today:** NONE (Correction + Alpaca Day 83 blocked)
+**Circuit breakers:** NONE
+**P&L today:** +$0.00
+**Equity:** $2,500.00 (= HWM)
+**Weekly trades:** 0/3
+
 `research_source: websearch_fallback`

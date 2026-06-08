@@ -2459,3 +2459,18 @@ NEXT WEEK (Jun 8+):
 • 🚨 Alpaca Day 79+ CRITICAL — SH hedge blocked, no entries possible
 
 WATCHLIST: ARCHIVED week of Jun 2–6. Rebuild via /weekly-prep Sunday Jun 8.
+
+---
+## 2026-06-08 11:10 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-09
+Market: 🔴 CORRECTION (Dist 5/25) | Futures: ES −0.31% / NQ −0.88%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: N/A (0 positions)
+⚠️ JUN 5 CLOSE CORRECTED: S&P 7,383.74 (−2.64%) / Nasdaq 25,709.43 (−4.18%) — more severe than logged
+AVGO re-score (blackout lifts today): 55/100 — NOT ACTIONABLE. Watch-only; needs new base.
+NVDA: Jensen/LG partnership Jun 8 (pos catalyst). Base check Jun 10. 72→82/100 with base. Blocked by Correction.
+DELL: ~$394 (Jun 5 −6.55%). No base. Blocked by Correction.
+Watchlist ready: NONE | Watching: NVDA 🟡 DELL 🟡 | AVGO moved to watch-only
+Key catalyst: NVDA/LG partnership (base check tomorrow). FOMC Jun 16-17 (7 days).
+Plan: NO entries — Correction active. SH $625 FIRST order on Alpaca restore (Day 83). FTD window Jun 12 if Jun 8 = Day 1.
