@@ -8,7 +8,7 @@
 
 **Status:** 🔴 **MARKET IN CORRECTION** *(Jun 5 = Dist Day #6 confirmed; Jun 5 close CORRECTED to 7,383.74 −2.64%)*
 
-**Last updated:** 2026-06-09 (Tue) — `/pre-market` 6:00 AM CT — **⚠️ JUN 5 CLOSE FINAL CORRECTION: S&P 7,383.74 (−2.64%, NOT −1.82%) | Nasdaq 25,709.43 (−4.18%) | Phil Semi worst since Mar 2020 | STATE: 🔴 CORRECTION | Dist 5/25 (May 4 expired Jun 8) | ALPACA DAY 83 BLOCKED | SH/SQQQ QUEUED | ES −0.31% / NQ −0.88% pre-mkt | AVGO re-score 55/100 NOT ACTIONABLE | NVDA/LG partnership positive catalyst (entries still blocked)**
+**Last updated:** 2026-06-09 (Tue) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED | DAY 2 RALLY ATTEMPT (Day 1 = Jun 8 +0.93% confirmed) | Jun 8 FTD MISS: ~7,452 vs 7,458.53 threshold (6 pts short) | Dist 5/25 | ALPACA DAY 83 BLOCKED | ACTIONS: NONE | FTD WINDOW: Jun 12–15 (Day 4–7)**
 **STATE:** 🔴 Market in Correction | Dist day #6 confirmed Jun 5 (S&P **7,383.74 −2.64% / −200.57 pts** on elevated volume; NFP 172K beat → yield surge → "good news = bad news" tech/semi crash) | State: Correction unchanged
 **Distribution days: 5/25** (May 7, May 15, May 19, Jun 3, Jun 5) | May 4 expired Jun 8 close → **5/25** | State REMAINS CORRECTION until FTD confirmed
 **⚠️ JUN 5 CLOSE FINAL CORRECTION (Jun 9 /pre-market):** Confirmed via TheStreet, CNN Business, Yahoo Finance: S&P Jun 5: **7,383.74 (−2.64% / −200.57 pts)** | Nasdaq: **25,709.43 (−4.18%)** — worst Nasdaq day since Apr 2025 | Dow: **50,866.78 (−1.35%)** | Phil SE Semi: worst since Mar 2020 / >$1T erased | NVDA −6.2%, AVGO −13.3%, Intel/AMD/MU all −7.9%+ | Prior logs said −1.82%/7,446.24 — that estimate was understated | Dist Day #6 confirmed ✅ — state unchanged (Correction)
@@ -44,6 +44,28 @@
   - **DELL:** est. ~$443–455 (beneficiary of non-AI rotation Jun 4). No base. Score 74/100. Below 75. 🟡 BENCH.
   - **0 candidates ≥75 at this time.** On Jun 8 Confirmed Uptrend activation: only AVGO Jun 9 re-score offers near-term entry potential (if base forms + score recovers to ≥75).
 - **Mon Jun 8 action items:** (1) 🚨 Alpaca restore — ABSOLUTELY CRITICAL (Day 81 Mon; no entries possible without it); (2) Confirm Confirmed Uptrend (dist drops to 4/25); (3) /pre-market watchlist refresh; (4) AVGO re-score Jun 9; (5) NVDA base check Jun 10; (6) Weekly trade count resets 0/3; (7) Cancel SH hedge queue formally if any pending order.
+
+**✅ JUN 9 MARKET-CHECK (/market-check 10:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 2 RALLY ATTEMPT — ALPACA DAY 83 BLOCKED):**
+- **Abort gates — ALL FIRED:** (1) 🔴 Correction state → ALL long entries BLOCKED; (2) Alpaca Day 83 BLOCKED (403 "Host not in allowlist") → no execution possible
+- **JUN 8 CLOSE CONFIRMED (WebSearch):** S&P +0.93% → ~7,452 (from 7,383.74 Jun 5) | Dow +0.58% | Nasdaq QQQ range $704–$731 (volatile chip recovery) | Russell 2000 −3.47% (small cap lagging = mild risk-off signal within rally)
+- **Jun 8 = Day 1 of rally attempt CONFIRMED ✅** (UP day from Jun 5 low 7,383.74; low not undercut → rally attempt intact)
+- **FTD check (Jun 8):** S&P ~7,452 vs threshold **7,458.53** (7,383.74 × 1.0125) → **6 pts short → NOT FTD** (+0.93% vs +1.25% required). Volume unconfirmed (Alpaca blocked). NOT FTD ✅
+- **Jun 9 intraday (10 AM CT):** Pre-market ES −0.31% / NQ −0.88% → Day 2 of rally attempt → NOT FTD in progress | State CORRECTION unchanged
+- **Distribution day check (Jun 8):** UP day (+0.93%) → CANNOT be dist day ✅ | Dist: **5/25 UNCHANGED** (May 7, May 15, May 19, Jun 3, Jun 5)
+- **Dist expiry path:** May 7 → Jun 11 (4/25) | May 15 → ~Jun 19 (3/25) | May 19 → ~Jun 23 (2/25) | Jun 3 → ~Aug 8 (1/25) | Jun 5 → ~Aug 10 (0/25) | State REMAINS CORRECTION regardless until FTD
+- **FTD window:** Jun 12 (Day 4) through Jun 15 (Day 7) — S&P must close ≥7,458.53 on above-avg vol while rally attempt low 7,383.74 holds
+- **Oil:** WTI $94+ / Brent $97+ (Iran-Israel missile exchange Jun 8; +4% jump; lower than prior $101 logged — may reflect temporary easing then re-escalation) | Persistent inflation headwind
+- **NVDA:** ~$206–210 est. (Jun 8 recovery; base check **tomorrow Jun 10** ✅) | Score 72/100 prov. → 82/100 with base | Entries blocked by Correction
+- **AVGO:** ~$385 est. (Jun 8) | Re-scored 55/100 (Jun 9 pre-market) → **NOT ACTIONABLE** | Next trigger: base confirmed + RS recovery (est. late Jun/early Jul)
+- **DELL:** est. ~$394–410 (Jun 8; no base; 74/100) | Entries blocked by Correction
+- **FOMC:** Jun 16–17 (7 days out) | Kevin Warsh first meeting | 95% steady rates | No entries before 1 PM CT on FOMC day
+- **Watchlist triggers (primary):** ZERO primary items → 0 triggers evaluated ✅
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **Bench promotion check:** NVDA — no base (check Jun 10) → NO | AVGO — 55/100, not actionable → NO | DELL — no base → NO | No promotions, no demotions
+- **SH/SQQQ hedge:** TRIGGERED by Correction state → QUEUED $625 / 25% portfolio (SH preferred) | Alpaca Day 83 BLOCKED | Execute immediately on Alpaca restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca blocked)
+- `research_source: websearch_fallback` | Alpaca Day 83 | Perplexity 403 | AV 403
 
 **✅ JUN 9 PRE-MARKET (/pre-market 6:00 AM CT — JUN 5 CLOSE CORRECTION − CORRECTION STATE CONFIRMED — AVGO RE-SCORE 55/100 — ALPACA DAY 83):**
 - **⚠️ JUN 5 CLOSE CORRECTION (CRITICAL):** Multiple sources confirm S&P Jun 5 final close: **7,383.74 (−2.64% / −200.57 pts)** — more severe than the −1.82%/7,446.24 previously logged. Nasdaq −4.18%, Dow −1.35%. Phil SE Semi worst since Mar 2020 (>$1T erased). AVGO −13.3%, NVDA −6.2%. State: 🔴 Correction — UNCHANGED. Only impact: rally attempt base is lower than logged; FTD threshold from 7,383.74 = 7,383.74 × 1.0125 = **7,458.53** (lower bar than prior estimate).

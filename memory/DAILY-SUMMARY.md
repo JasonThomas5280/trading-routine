@@ -1,5 +1,28 @@
 
 ---
+## 2026-06-09 10:00 CT [market-check — CORRECTION UNCHANGED — DAY 2 RALLY ATTEMPT — ALPACA BLOCKED]
+
+📈 Market-check 2026-06-09 10:00 AM CT
+Market: 🔴 Correction (5/25 dist days) | Circuit breakers: NONE
+Actions taken: No new entries — gate: Correction state + Alpaca Day 83 blocked
+
+Key findings:
+  📌 Jun 8 confirmed UP +0.93% → S&P ~7,452 = Day 1 rally attempt
+  📌 Jun 8 FTD MISS: 7,452 vs 7,458.53 threshold (6 pts short) — not a FTD
+  📌 FTD window opens Jun 12 (Day 4) through Jun 15 (Day 7)
+  📌 Jun 9 ES −0.31% / NQ −0.88% pre-mkt → Day 2, negative lean, NOT FTD in progress
+  📌 Dist: 5/25 (May 7, May 15, May 19, Jun 3, Jun 5) | Next expiry: May 7 → Jun 11 → 4/25
+  📌 NVDA ~$206–210 (Jun 8); base check tomorrow Jun 10; score 72→82/100 with base
+  📌 AVGO ~$385; re-scored 55/100 — NOT ACTIONABLE; watch-only
+  📌 DELL ~$394–410 est.; no base; 74/100; entries blocked
+  📌 FOMC Jun 16-17 (7 days); no entries before 1 PM CT on those days
+
+Watchlist: 0 ready, 0 primary, 2 bench (NVDA, DELL), AVGO watch-only
+Open positions: 0 | Deployed: 0% | Weekly trades: 0/3
+SH/SQQQ hedge: QUEUED — first order on Alpaca restore
+Next check: /eod-review 3:15 PM CT
+
+---
 ## 2026-06-04 10:00 CT [market-check — ISM 54.5% BEAT — FTD NOT CONFIRMED — NFP TOMORROW]
 
 📈 Market-check 2026-06-04 10:00 AM CT
