@@ -6,23 +6,44 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 5 = Dist Day #6; Jun 8 = Day 1 Rally Attempt; FTD window Jun 12–15; CPI May 2026 Jun 10 ⚠️)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 5 = Dist Day #6; Jun 8 = Day 1 Rally Attempt; FTD window Jun 12–15; CPI May 2026 Jun 10 TOMORROW ⚠️)*
 
-**Last updated:** 2026-06-08 (Mon) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED | DAY 1 RALLY ATTEMPT CONFIRMED (Jun 8 +0.93% / S&P ~7,452) | FTD MISS: 6 pts short (7,452 vs 7,458.53) | Dist 5/25 (May 4 expired) | ALPACA DAY 82 BLOCKED | ACTIONS: NONE | FTD WINDOW: Jun 12–15 (Day 4–7) | ⚠️ CPI MAY 2026: Jun 10 @ 8:30 AM ET**
-**STATE:** 🔴 Market in Correction | Dist day #6 confirmed Jun 5 (S&P **7,383.74 −2.64% / −200.57 pts** on elevated volume; NFP 172K beat → yield surge → "good news = bad news" tech/semi crash) | State: Correction unchanged
-**Distribution days: 5/25** (May 7, May 15, May 19, Jun 3, Jun 5) | May 4 expired Jun 8 close → **5/25** | State REMAINS CORRECTION until FTD confirmed
+**Last updated:** 2026-06-09 (Tue) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED | DAY 2 RALLY ATTEMPT | ⚠️ JUN 8 CLOSE CORRECTION: S&P 7,405.73 (+0.30%, NOT ~7,452) | FTD MISS: 52.8 pts short (7,405.73 vs 7,458.53) | Dist 5/25 | ALPACA DAY 84 BLOCKED | INTEL +11% AI CHIP ORDER — chip-led positive pre-mkt | ⚠️ CPI MAY 2026 TOMORROW Jun 10 @ 8:30 AM ET — NO ENTRIES BEFORE DATA | FTD WINDOW: Jun 12–15 (Day 4–7)**
+**STATE:** 🔴 Market in Correction | Dist day #6 confirmed Jun 5 (S&P 7,383.74 −2.64%) | State unchanged
+**Distribution days: 5/25** (May 7, May 15, May 19, Jun 3, Jun 5) | May 4 expired Jun 8 → 5/25 | May 7 expires Jun 11 → **4/25** (state REMAINS CORRECTION until FTD)
+**⚠️ JUN 8 CLOSE DATA CORRECTION (Jun 9 /pre-market):** WebSearch confirms S&P Jun 8 actual: **7,405.73 (+0.30%)** | Nasdaq: 25,929.66 (+0.86%) | Dow: 50,786.01 (−0.16%) | Prior EOD estimate (~7,452 / +0.93%) was overstated by 46 pts | FTD gap revised: 52.8 pts short (not 6 pts) | Rally attempt Day 1 = Jun 8 ✅ CONFIRMED
+**Jun 9 pre-market:** Intel INTC +11.2% on large Alphabet AI chip order → XLK +2.15% | SPY ~$739.22 (+0.23%) | WTI ~$89.50 (Iran ceasefire holding; Strait still closed) | Polymarket 89% open higher
+**NVDA:** ~$208–210 (+1.73%); SK Hynix + LG Group AI partnerships (Jun 7/8). Base check Jun 10. 72/100 prov.
+**DELL:** ~$398–406 est. No new catalysts. No base. 74/100. 🟡 BENCH.
+**AVGO:** ~$396–403 est. (+2.82% on chip sector lift). Score 55/100 — NOT ACTIONABLE. Watch-only.
+**0 candidates ≥75** | 0 primary watchlist items | 0 open positions
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 84 | `research_source: websearch_fallback`**
+**Jun 9 priorities:** (1) 🚨 Alpaca restore CRITICAL (2) SH $625 hedge FIRST order on restore (3) CORRECTION — no longs until FTD (4) ⚠️ NO entries before CPI Jun 10 8:30 AM ET (5) NVDA base check at /market-check (6) Rally attempt LOW = 7,383.74 — must hold (7) FTD window Jun 12–15 (Day 4–7) (8) FOMC Jun 16–17 — no entries before 1 PM CT Jun 16
 **⚠️ JUN 5 CLOSE FINAL CORRECTION (Jun 9 /pre-market):** Confirmed via TheStreet, CNN Business, Yahoo Finance: S&P Jun 5: **7,383.74 (−2.64% / −200.57 pts)** | Nasdaq: **25,709.43 (−4.18%)** — worst Nasdaq day since Apr 2025 | Dow: **50,866.78 (−1.35%)** | Phil SE Semi: worst since Mar 2020 / >$1T erased | NVDA −6.2%, AVGO −13.3%, Intel/AMD/MU all −7.9%+ | Prior logs said −1.82%/7,446.24 — that estimate was understated | Dist Day #6 confirmed ✅ — state unchanged (Correction)
 **⚠️ JUN 4 DATA CORRECTION (confirmed):** S&P actual close = **7,584.31 (+0.41%)** | Dow Jun 4 ATH 51,561.93 (+1.73%) | Nasdaq Jun 4 −0.09% | SPY Jun 4: ~$753.72 | AVGO Jun 4 range $405.51–$496.02; close est. ~$413–420; pre-mkt Jun 5: $413.45
 **FTD NOTE:** No FTD on Jun 5. S&P −1.82% = distribution (not follow-through). Prior "FTD CONFIRMED" claim based on misattributed Yahoo Finance headline (June 1 data cited as June 5). Next FTD requires new rally attempt low → Day 4–7 +1.25%+ on above-avg vol.
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
-**SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 82 | Execute immediately on Alpaca restore
-**AVGO:** Jun 8 est. ~$416–419 (post-crash recovery). Score 55/100 — NOT ACTIONABLE. Re-score Jun 9.
-**NVDA:** Jun 8 est. ~$210–215 (chip recovery +5% SMH; Jensen/LG partnership catalyst Jun 8). Base check Jun 10. 72/100 prov. 🟡 BENCH.
-**DELL:** Jun 8 est. ~$393–400 (no base; 74/100). 🟡 BENCH.
-**0 candidates pass conviction ≥75** | 0 primary watchlist items | 0 open positions
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 82 | `research_source: websearch_fallback`**
+**SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
-**Jun 9 priorities:** (1) 🚨 Alpaca restore CRITICAL (2) SH $625 hedge FIRST order on restore (3) CORRECTION — no longs until FTD (4) AVGO re-score (blackout lifted Jun 8) (5) NVDA base check Jun 10 (6) Rally attempt LOW = 7,383.74 — hold above ✅ | FTD eligible Jun 12 earliest (Day 4) (7) ⚠️ CPI May 2026 Jun 10 @ 8:30 AM ET — no new entries before data release
+
+**✅ JUN 9 PRE-MARKET (/pre-market 6:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 2 RALLY ATTEMPT — JUN 8 CLOSE CORRECTION — INTEL +11% AI CHIP ORDER — CPI TOMORROW — ALPACA DAY 84 BLOCKED):**
+- **⚠️ JUN 8 CLOSE DATA CORRECTION:** Prior EOD entry estimated S&P ~7,452 (+0.93%). WebSearch confirms: S&P Jun 8 **7,405.73 (+0.30%)** | Nasdaq 25,929.66 (+0.86%) | Dow 50,786.01 (−0.16%) | MU ~+10% Jun 8 (chip recovery)
+- **FTD check (Jun 8 revised):** S&P 7,405.73 vs threshold **7,458.53** → **52.8 pts short → NOT FTD** ✅ | Prior "6 pts short" estimate was based on wrong close
+- **Rally attempt Day 1 = Jun 8 ✅ CONFIRMED** (UP day from Jun 5 low 7,383.74; low not undercut)
+- **Distribution day check (Jun 8):** UP day (+0.30%) → NOT a dist day ✅ | Dist count: **5/25 UNCHANGED** (May 7, May 15, May 19, Jun 3, Jun 5)
+- **Jun 9 pre-market:** Intel INTC +11.2% (Alphabet large AI chip order) → XLK +2.15% | SPY ~$739.22 (+0.23%) | WTI ~$89.50 (Iran ceasefire Jun 8; Strait of Hormuz still closed) | Polymarket 89% open higher | Chip stocks broadly up (AVGO, AMD pulled higher)
+- **⚠️ CPI May 2026 TOMORROW Jun 10 @ 8:30 AM ET:** Forecast +4.2% YoY (vs +3.8% April) / Core +2.9% YoY | SPF projects 6% Q2 | **BINARY EVENT — NO entries before data release** | Hot print = rate hike fears + potential dist day risk + rally low undercut risk
+- **State transition:** NONE. 🔴 Market in Correction — UNCHANGED.
+- **May 7 dist expiry:** Jun 11 close → 4/25 (state REMAINS CORRECTION until FTD)
+- **FTD window:** Jun 12 (Day 4) — Jun 15 (Day 7) | S&P must close ≥7,458.53 on above-avg vol; rally low 7,383.74 must hold
+- **NVDA:** ~$208–210 (+1.73% Jun 8/9). SK Hynix + LG Group AI factory partnerships (Jun 7/8). Base check due Jun 10. 72/100 prov. → 82/100 with base. Entries blocked by Correction.
+- **DELL:** ~$398–406 est. No new catalysts. No base. 74/100. Entries blocked.
+- **AVGO:** ~$396–403 est. (+2.82% on sector lift). Score 55/100. NOT ACTIONABLE. Watch-only.
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **SH/SQQQ hedge:** TRIGGERED by Correction → QUEUED $625 / 25% portfolio (SH preferred) | Alpaca Day 84 BLOCKED | Execute first on restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca blocked)
+- `research_source: websearch_fallback` | Alpaca Day 84 | Perplexity 403 | AV 403
 
 **✅ JUN 8 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — DAY 1 RALLY ATTEMPT — FTD MISS 6 PTS — ALPACA DAY 82 BLOCKED):**
 - **Jun 8 close:** S&P 500 ~**7,452** (+0.93% from 7,383.74 Jun 5) | Nasdaq Composite +1.44% | Dow +0.58% | Russell 2000 −3.47% (small cap lagging) | SPY est. ~**$747** | QQQ est. ~**$716** | Semis: VanEck SMH +5% (chip-led recovery on Iran de-escalation) | `research_source: websearch_fallback` | **Alpaca blocked Day 82**

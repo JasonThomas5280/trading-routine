@@ -2513,3 +2513,16 @@ SH/SQQQ hedge: QUEUED at $625 — execute first on Alpaca restore
 Semis: VanEck SMH +5% (Iran de-escalation); Russell 2000 −3.47% (small cap lagging)
 Tomorrow: AVGO re-score (blackout lifted Jun 8) | Light data day
 Upcoming: FOMC Jun 16–17 (Kevin Warsh) — no entries before 1 PM CT Jun 16
+
+---
+## 2026-06-09 11:09 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-09
+Market: 🔴 CORRECTION (Day 2 rally attempt) | ⚠️ JUN 8 CLOSE CORRECTION: S&P 7,405.73 (not ~7,452)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE (Correction blocks all entries)
+Watchlist watching: NVDA ~$208-210 (base check Jun 10; 72/100) | DELL ~$398-406 (74/100)
+Watch-only: AVGO ~$396-403 (55/100, not actionable)
+Key catalyst: Intel +11% on Alphabet AI chip order (chip-led open). WTI ~$89.50 (Iran ceasefire). CPI TOMORROW Jun 10 8:30 AM ET (+4.2% YoY forecast — binary event)
+Plan: NO entries. Correction + Alpaca Day 84 blocked. NVDA base check at /market-check. NO entries before CPI. FTD window Jun 12-15. ES ~+0.18% / NQ ~+1.44% pre-mkt.

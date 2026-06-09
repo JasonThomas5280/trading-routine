@@ -8536,3 +8536,149 @@ Prior sessions wrote "Jun 9 pre-market" and "Jun 9 market-check" entries in memo
 **P&L today:** $0.00
 **Equity:** $2,500.00 (= HWM)
 **Weekly trades:** 0/3 (Week of Jun 2–8 closes: 0 trades)
+
+---
+
+## 2026-06-09 (Tue) — /pre-market (6:00 AM CT) — CORRECTION DAY 2 RALLY ATTEMPT — INTEL +11% AI CHIP ORDER — CPI TOMORROW
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 84 BLOCKED; Perplexity: 403; Alpha Vantage: 403. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | 5/25 dist days | **NO new long entries** | Day 2 rally attempt (Day 1 = Jun 8)
+**Sector leaders (Jun 9 pre-mkt):** XLK Technology (chip recovery led by INTC +11% on Alphabet order), XLY Consumer Discretionary
+**Key risk:** ⚠️ CPI May 2026 TOMORROW Jun 10 @ 8:30 AM ET — no new entries before data release
+
+---
+
+### ⚠️ JUN 8 CLOSE DATA CORRECTION
+
+Prior EOD entry estimated S&P Jun 8 close ~7,452 (+0.93%). WebSearch confirmation:
+- **S&P 500 Jun 8 actual: 7,405.73 (+0.30% from 7,383.74 Jun 5)** — prior estimate overstated by ~46 pts
+- **Nasdaq Jun 8 actual: 25,929.66 (+0.86%)**
+- **Dow Jun 8 actual: 50,786.01 (−0.16%)**
+- MU (Micron) Jun 8: +~10% (chip recovery after -13% Jun 5 crash)
+- NOT a distribution day (UP day) ✅
+- NOT FTD: 7,405.73 < threshold 7,458.53 (52.8 pts short) ✅
+- Rally attempt Day 1 = Jun 8 ✅ CONFIRMED (low not undercut)
+
+---
+
+### Market overnight check (Jun 9 pre-market)
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures (Jun 9 pre-mkt) | ~+0.18–0.23% est. | SPY ~$739.22 pre-mkt; Polymarket 89% open higher |
+| NQ futures (Jun 9 pre-mkt) | ~+1.44% est. | Chip-led; INTC Alphabet order driving tech premium |
+| Intel INTC | **+11.2%** | Large AI-chip order from Alphabet (Google) confirmed; biggest single-day move in months. Pulled AMD, AVGO, XLK higher. |
+| WTI crude (Jun 9) | ~$89.50 | Iran-Israel agreed to halt attacks (Jun 8). Strait of Hormuz still closed (US/Iran dual blockade). WTI declining from $94-101 peak — partial geopolitical relief. |
+| Iran/Israel | Ceasefire holding (fragile) | Iran ceased strikes Jun 8; warned hostilities resume if IDF continues Lebanon ops. No Strait of Hormuz opening. |
+| CPI May 2026 (Jun 10 tomorrow) | Forecast +4.2% YoY / Core +2.9% YoY | **BINARY EVENT — NO entries before data.** Hot = rate hike fears, potential dist day, rally undercut risk. SPF projects 6% Q2 inflation — extremely elevated. |
+
+**Market tone Jun 9:** Positive lean pre-market (chip-led recovery, Iran ceasefire holding). But CPI tomorrow is a critical gate for the Jun 12–15 FTD window.
+
+---
+
+### Overnight gap check — open positions
+
+**0 open positions — gap check SKIPPED.**
+
+---
+
+### Catalyst scan — open positions
+
+**No open positions — skipped.**
+
+---
+
+### Catalyst scan — bench watchlist
+
+**NVDA:**
+- ~$208.64 est. (+1.73% Jun 8/9) | Chip recovery + AI sector sentiment
+- NVIDIA + SK Hynix multiyear memory partnership (Jun 7) — N-letter positive
+- NVIDIA + LG Group AI factory (Jun 7/8) — humanoid robots + data centers — N-letter positive
+- NVIDIA + NAVER sovereign AI infrastructure (Jun 7) — N-letter positive
+- No earnings, guidance change, or negative regulatory news overnight
+- Base check due today/tomorrow (Jun 10 was the formal target)
+- Score 72/100 prov. → 82/100 with base. **No thesis-breaking catalyst.** 🟡 BENCH unchanged — entries blocked by Correction.
+
+**DELL:**
+- ~$398.50 est. (range $385.61–$406.50 recent)
+- No new overnight catalysts Jun 9
+- Texas redomiciliation vote Jun 25 (non-material to CAN SLIM setup)
+- Score 74/100, no base. 🟡 BENCH unchanged — entries blocked by Correction.
+
+**AVGO (watch-only — score 55/100, NOT ACTIONABLE):**
+- ~$396–403 est. (up ~2.82% Jun 8/9; pulled higher by INTC Alphabet order)
+- Cathie Wood (ARK) buying on dip — positive sentiment signal, not a thesis trigger
+- AI revenue guidance maintained: "$100B+ FY2027"
+- No new negative news overnight
+- Still requires: new base formation (est. 3–4+ weeks) + RS recovery + score returning to 75+
+- Watch-only until ~late Jun/early Jul. NOT ACTIONABLE. ⛔
+
+---
+
+### Buy-zone readiness
+
+| Symbol | Est. Price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$208–210 | None (base not formed) | N/A | 🔴 BLOCKED (Correction + no base) |
+| DELL | ~$398–406 | None (no base) | N/A | 🔴 BLOCKED (Correction + no base) |
+| AVGO | ~$396–403 | None (base destroyed) | N/A | ⛔ WATCH-ONLY (score 55/100) |
+
+**All entries blocked** by 🔴 Correction state (primary gate). No buy-zone classifications needed — state alone kills all entries.
+
+---
+
+### Circuit breaker check
+
+Alpaca Day 84 BLOCKED — cannot pull live account state.
+Prior confirmed: Equity $2,500 (HWM), 0 positions, 0 P&L.
+**Circuit breakers: ALL CLEAR** (0 trades = 0 daily P&L; 0 weekly P&L; drawdown 0% from HWM).
+
+SH/SQQQ hedge: **QUEUED** — $625 / 25% portfolio | Execute FIRST on Alpaca restore | Alpaca Day 84 BLOCKED.
+
+---
+
+### Key risks / calendar
+
+| Date | Event | Risk |
+|---|---|---|
+| **TODAY** Jun 9 | Wholesale inventories, small business sentiment (NFIB) | Minor; not a dist day trigger |
+| **TOMORROW** Jun 10 | **CPI May 2026 @ 8:30 AM ET** — forecast +4.2% YoY | BINARY: Hot = rate fears + potential dist day + rally low undercut risk. Cool = rally confirmation |
+| Jun 11 | May 7 dist day expires → **4/25** | Dist drops but state REMAINS CORRECTION until FTD |
+| Jun 12 | **FTD window opens (Day 4)** | S&P must close ≥7,458.53 on above-avg vol; rally low 7,383.74 must hold |
+| Jun 15 | **FTD window closes (Day 7)** | If no FTD by Jun 15: new rally attempt required |
+| Jun 16–17 | **FOMC (Kevin Warsh first meeting)** | 95% steady rates; no entries before 1 PM CT Jun 16 |
+
+---
+
+### State summary
+
+- **Market:** 🔴 Correction | 5/25 dist days | Day 2 rally attempt
+- **Rally attempt low:** 7,383.74 (Jun 5 close) — must hold
+- **FTD threshold:** 7,458.53 (7,383.74 × 1.0125)
+- **FTD window:** Jun 12–15 (Day 4–7)
+- **May 7 dist expiry:** Jun 11 → 4/25 (but state stays Correction until FTD)
+- **Alpaca:** Day 84 BLOCKED
+- **Perplexity:** 403
+- **Alpha Vantage:** 403
+- **research_source:** `websearch_fallback`
+
+---
+
+### Plan for session
+
+NO entries. Correction state active. Alpaca blocked.
+1. Monitor for CPI reaction tomorrow — **critical gate for FTD window**
+2. NVDA base check at /market-check (formal assessment)
+3. Watch rally attempt low 7,383.74 — undercut = rally reset, need new Day 1
+
+---
+
+**Close:** S&P 7,405.73 (Jun 8 confirmed) | SPY ~$739–740
+**Distribution days:** 5/25 (May 7, May 15, May 19, Jun 3, Jun 5)
+**Market state:** 🔴 Market in Correction (Day 2 rally attempt; FTD window Jun 12–15)
+**Positions held:** 0
+**Actions today:** NONE (Correction + Alpaca Day 84 blocked)
+**Circuit breakers:** ALL CLEAR
+**P&L today:** $0.00
+**Equity:** $2,500.00 (= HWM)
+**Weekly trades:** 0/3
