@@ -8,7 +8,7 @@
 
 **Status:** 🔴 **MARKET IN CORRECTION** *(Jun 5 = Dist Day #6; Jun 8 = Day 1 Rally Attempt; FTD window Jun 12–15; CPI May 2026 Jun 10 TOMORROW ⚠️)*
 
-**Last updated:** 2026-06-09 (Tue) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED | DAY 2 RALLY ATTEMPT | ⚠️ JUN 8 CLOSE CORRECTION: S&P 7,405.73 (+0.30%, NOT ~7,452) | FTD MISS: 52.8 pts short (7,405.73 vs 7,458.53) | Dist 5/25 | ALPACA DAY 84 BLOCKED | INTEL +11% AI CHIP ORDER — chip-led positive pre-mkt | ⚠️ CPI MAY 2026 TOMORROW Jun 10 @ 8:30 AM ET — NO ENTRIES BEFORE DATA | FTD WINDOW: Jun 12–15 (Day 4–7)**
+**Last updated:** 2026-06-09 (Tue) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED | DAY 2 RALLY ATTEMPT (NOT FTD: +0.63% < +1.25%) | S&P ~+0.63% intraday | NVDA ~$210 (base NOT complete — check Jun 10) | CPI TOMORROW Jun 10 NO ENTRIES BEFORE 8:30 AM ET | ALPACA DAY 84 BLOCKED | FTD WINDOW: Jun 12–15 (Day 4–7)**
 **STATE:** 🔴 Market in Correction | Dist day #6 confirmed Jun 5 (S&P 7,383.74 −2.64%) | State unchanged
 **Distribution days: 5/25** (May 7, May 15, May 19, Jun 3, Jun 5) | May 4 expired Jun 8 → 5/25 | May 7 expires Jun 11 → **4/25** (state REMAINS CORRECTION until FTD)
 **⚠️ JUN 8 CLOSE DATA CORRECTION (Jun 9 /pre-market):** WebSearch confirms S&P Jun 8 actual: **7,405.73 (+0.30%)** | Nasdaq: 25,929.66 (+0.86%) | Dow: 50,786.01 (−0.16%) | Prior EOD estimate (~7,452 / +0.93%) was overstated by 46 pts | FTD gap revised: 52.8 pts short (not 6 pts) | Rally attempt Day 1 = Jun 8 ✅ CONFIRMED
@@ -86,6 +86,26 @@
   - **DELL:** est. ~$443–455 (beneficiary of non-AI rotation Jun 4). No base. Score 74/100. Below 75. 🟡 BENCH.
   - **0 candidates ≥75 at this time.** On Jun 8 Confirmed Uptrend activation: only AVGO Jun 9 re-score offers near-term entry potential (if base forms + score recovers to ≥75).
 - **Mon Jun 8 action items:** (1) 🚨 Alpaca restore — ABSOLUTELY CRITICAL (Day 81 Mon; no entries possible without it); (2) Confirm Confirmed Uptrend (dist drops to 4/25); (3) /pre-market watchlist refresh; (4) AVGO re-score Jun 9; (5) NVDA base check Jun 10; (6) Weekly trade count resets 0/3; (7) Cancel SH hedge queue formally if any pending order.
+
+**✅ JUN 9 MARKET-CHECK — ACTUAL (/market-check 10:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 2 NOT FTD — NVDA BASE NOT COMPLETE — CPI TOMORROW — ALPACA DAY 84 BLOCKED):**
+- **Abort gates — ALL FIRED:** (1) 🔴 Correction state → ALL long entries BLOCKED; (2) Alpaca Day 84 BLOCKED (403 "Host not in allowlist") → no execution possible
+- **Jun 9 intraday (10 AM CT):** S&P +0.63% (range confirmed; NVDA $205.89–$211.39 | DELL $385.61–$406.50 | chip-led recovery continuing)
+- **FTD check (Jun 9):** Day 2 of rally attempt | S&P +0.63% < +1.25% → **NOT FTD** | FTD NOT in progress | Rally low 7,383.74 still holds ✅
+- **Distribution day check (Jun 9):** UP day → CANNOT be a dist day ✅ | Dist count: **5/25 UNCHANGED** (May 7, May 15, May 19, Jun 3, Jun 5)
+- **May 7 dist expiry:** Jun 11 (Wed) → 4/25 (state REMAINS CORRECTION until FTD regardless)
+- **FTD window:** Jun 12 (Day 4) — Jun 15 (Day 7) | S&P must close ≥7,458.53 on above-avg vol; rally low 7,383.74 must hold
+- **⚠️ CPI May 2026 TOMORROW Jun 10 @ 8:30 AM ET:** Forecast +4.2% YoY / Core +2.9% | Hot print = rate hike risk + dist day risk + rally undercut risk | **NO entries before data release**
+- **NVDA base check (10 AM CT Jun 9):** Price ~$208-211 | ATH $235.47 (May 14) | Current -10.6% from ATH | Cup structure forming (BanklessTimes May 29 confirms cup-with-handle pattern noted) | Cup depth: -12.6% (May 14 → Jun 5 low ~$205.89) | Duration: ~18 trading days | Right side of cup early-stage recovery | **Base NOT complete — right side not yet near ATH; no handle formed; no pivot defined** | Formal base check: **Jun 10 per plan** | Score with completed base: 82/100 ✅ (blocked by Correction regardless)
+- **DELL:** ~$400.77 (range $385.61–$406.50) | 52-wk range $109.17–$469.47 | ATH $469.47 | -14.6% from ATH | No base formed | Score 74/100 | Entries blocked by Correction
+- **AVGO:** ~$396–403 est. (sector lift) | 55/100 NOT ACTIONABLE | Watch-only unchanged
+- **Watchlist triggers (primary):** ZERO primary items → 0 triggers evaluated ✅
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **Bench promotion check:** NVDA — base NOT complete (check Jun 10) → NO | DELL — no base, no pivot → NO | AVGO — 55/100 watch-only → NO | No promotions, no demotions
+- **SH/SQQQ hedge:** TRIGGERED by Correction state → QUEUED $625 / 25% portfolio (SH preferred) | Alpaca Day 84 BLOCKED | Execute FIRST on Alpaca restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **FOMC:** Jun 16-17 (7 days) — no entries before 1 PM CT Jun 16
+- **Actions: NONE** (Correction + Alpaca blocked)
+- `research_source: websearch_fallback` | Alpaca Day 84 | Perplexity 403 | AV 403
 
 **✅ JUN 9 MARKET-CHECK (/market-check 10:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 2 RALLY ATTEMPT — ALPACA DAY 83 BLOCKED):**
 - **Abort gates — ALL FIRED:** (1) 🔴 Correction state → ALL long entries BLOCKED; (2) Alpaca Day 83 BLOCKED (403 "Host not in allowlist") → no execution possible

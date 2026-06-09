@@ -8682,3 +8682,135 @@ NO entries. Correction state active. Alpaca blocked.
 **P&L today:** $0.00
 **Equity:** $2,500.00 (= HWM)
 **Weekly trades:** 0/3
+
+---
+
+## 2026-06-09 (Tue) — /market-check (10:00 AM CT) — CORRECTION DAY 2 NOT FTD — NVDA BASE NOT COMPLETE — CPI TOMORROW
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 84 BLOCKED; Perplexity: 403; Alpha Vantage: 403. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | Day 2 rally attempt | 5/25 dist days | **ALL ABORT GATES FIRED — NO entries**
+
+---
+
+### Abort gate evaluation
+
+| Gate | Status | Detail |
+|---|---|---|
+| Market state | ❌ **ABORT** | 🔴 Correction — ALL long entries BLOCKED |
+| Research source | ✅ PASS | `websearch_fallback` (not DEGRADED) |
+| Daily circuit breaker | ✅ PASS | $0 P&L, 0 positions |
+| Weekly circuit breaker | ✅ PASS | $0 P&L, 0 positions |
+| Drawdown halt | ✅ PASS | 0% drawdown |
+| Weekly trade count | ✅ PASS | 0/3 used |
+| Position count | ✅ PASS | 0 of 4 |
+| Cash buffer | ✅ PASS | 100% cash |
+| **Alpaca API** | ❌ **ABORT** | **403 Host not in allowlist — Day 84** |
+
+**Both primary abort gates fire. Research-only mode.**
+
+---
+
+### Market overview (10:00 AM CT = 11:00 AM ET, Jun 9)
+
+- **S&P 500:** +0.63% intraday (~7,452 est. from 7,405.73 Jun 8 close)
+- **NVDA:** $205.89–$211.39 range; open $210.76
+- **DELL:** $385.61–$406.50 range; ~$400.77
+- **Drivers:** Chip-led recovery (Intel +11% Alphabet order momentum), Iran ceasefire holding, small-biz sentiment miss (-0.6pts to 95.3) offset by tech enthusiasm
+- **Day 2 of rally attempt** — NOT FTD (+0.63% < +1.25% required)
+- **Not a distribution day** — UP day; dist count 5/25 UNCHANGED
+
+### FTD / distribution check
+
+- FTD check: S&P ~+0.63% vs +1.25% threshold → **NOT FTD** | FTD window: Jun 12–15 (Day 4–7) | Rally low 7,383.74 INTACT ✅
+- Dist day check: UP day → CANNOT be a distribution day ✅ | Dist: **5/25 unchanged**
+- May 7 dist expiry: Jun 11 → 4/25 (state REMAINS CORRECTION until FTD regardless)
+
+---
+
+### Watchlist trigger evaluation
+
+**Primary watchlist:** ZERO items → no triggers evaluated ✅
+
+---
+
+### NVDA base check (10 AM CT Jun 9 — formal check due Jun 10)
+
+- **Current price:** ~$208–211 (range $205.89–$211.39)
+- **ATH:** $235.47 (May 14, 2026)
+- **Distance from ATH:** −10.6%
+- **Cup depth:** −12.6% (May 14 ATH → Jun 5 low ~$205.89)
+- **Cup duration:** ~18 trading days (3.5 weeks) — minimum cup requires 6+ weeks (O'Neil)
+- **Right side:** Early recovery stage — price recovering from Jun 5 low but nowhere near left rim ($235)
+- **Handle:** NOT yet formed (handle forms after right side approaches prior ATH)
+- **Pivot:** NOT defined (requires complete cup + handle formation)
+- **Base pattern bonus:** 0pts (base NOT complete)
+- **Cup-with-handle article (BanklessTimes May 29):** References cup pattern forming from May ATH pullback — structure noted but right side still early as of Jun 9
+- **Assessment:** Base NOT actionable. Right side needs continued development. No pivot. Score stays at 72/100 provisional (82/100 with completed base).
+- **Action:** Maintain formal base check Jun 10 per plan. No change from 🟡 BENCH.
+
+---
+
+### DELL bench check
+
+- **Current price:** ~$400.77 (range $385.61–$406.50)
+- **ATH:** $469.47 | −14.6% from ATH
+- **52-wk range:** $109.17–$469.47
+- **Base:** NOT formed | No consolidation pattern with defined pivot
+- **Score:** 74/100 (no base, entries blocked by Correction)
+- **Action:** No change. 🟡 BENCH unchanged.
+
+---
+
+### AVGO watch-only check
+
+- **Est. price:** ~$396–403 (sector lift, Intel AI order momentum)
+- **Score:** 55/100 — NOT ACTIONABLE (threshold 75)
+- **Base:** NOT formed | Est. 3–4+ more weeks needed
+- **Action:** Watch-only unchanged. ⛔
+
+---
+
+### Position health check (intraday Rule 1/Rule 3)
+
+- **Open positions: 0** → sell-rules-engine SKIPPED
+
+---
+
+### Bench promotion/demotion check
+
+| Symbol | Status | Action | Reason |
+|---|---|---|---|
+| NVDA | ~$208-211 | NO CHANGE | Base not complete; formal check Jun 10 |
+| DELL | ~$400.77 | NO CHANGE | No defined pivot; no base |
+| AVGO | ~$396-403 | NO CHANGE | 55/100 watch-only; score path needs base+RS recovery |
+
+No promotions or demotions.
+
+---
+
+### CPI / macro risk
+
+- **CPI May 2026 TOMORROW Jun 10 @ 8:30 AM ET:** Forecast +4.2% YoY (vs +3.8% Apr) / Core +2.9% YoY
+  - Hot scenario (>+4.5%): Rate hike fears → potential dist day → rally attempt undercut risk → delays FTD window
+  - In-line scenario (~4.2%): Market absorbs; Day 3 rally attempt intact; FTD window Jun 12–15 preserved
+  - Cool scenario (<4.0%): Rally fuel; Day 3 positive; raises FTD probability Jun 12–15
+  - **NO entries before release.** Wait for 8:30 AM ET print.
+- **FOMC Jun 16-17 (7 days):** No entries before 1 PM CT Jun 16 (Kevin Warsh first meeting)
+
+---
+
+### Circuit breakers
+
+| Breaker | Status |
+|---|---|
+| -3% single day | ✅ CLEAR — $0 P&L |
+| -6% weekly | ✅ CLEAR — $0 P&L |
+| -12% drawdown | ✅ CLEAR — 0% drawdown |
+| PDT count | ✅ CLEAR — 0/3 |
+| Alpaca API down | ⚠️ ACTIVE — Day 84 (403) |
+
+**Actions today:** NONE (Correction + Alpaca Day 84 blocked)
+**Circuit breakers:** ALL CLEAR
+**P&L today:** $0.00
+**Equity:** $2,500.00 (= HWM)
+**Weekly trades:** 0/3

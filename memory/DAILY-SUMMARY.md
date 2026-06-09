@@ -2526,3 +2526,18 @@ Watchlist watching: NVDA ~$208-210 (base check Jun 10; 72/100) | DELL ~$398-406 
 Watch-only: AVGO ~$396-403 (55/100, not actionable)
 Key catalyst: Intel +11% on Alphabet AI chip order (chip-led open). WTI ~$89.50 (Iran ceasefire). CPI TOMORROW Jun 10 8:30 AM ET (+4.2% YoY forecast — binary event)
 Plan: NO entries. Correction + Alpaca Day 84 blocked. NVDA base check at /market-check. NO entries before CPI. FTD window Jun 12-15. ES ~+0.18% / NQ ~+1.44% pre-mkt.
+
+---
+
+📈 Market-check 2026-06-09 10:00 AM CT
+Market: 🔴 CORRECTION (Day 2 rally attempt; FTD window Jun 12–15) | Circuit breakers: NONE
+Actions taken:
+  No new entries — Correction state + Alpaca Day 84 blocked
+  No sells — 0 open positions
+Watchlist: 0 ready, 2 bench (NVDA base check Jun 10; DELL no base), 1 watch-only (AVGO 55/100)
+Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%)
+Weekly trade count: 0/3 used
+SH/SQQQ hedge: QUEUED $625 — blocked by Alpaca Day 84
+⚠️ CPI May 2026 TOMORROW Jun 10 8:30 AM ET — NO entries before data
+⚠️ FTD window: Jun 12–15 (Day 4–7) | Threshold: S&P 7,458.53 | Rally low: 7,383.74
+Next check: /eod-review 3:15 PM CT
