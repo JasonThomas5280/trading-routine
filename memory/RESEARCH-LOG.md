@@ -8814,3 +8814,35 @@ No promotions or demotions.
 **P&L today:** $0.00
 **Equity:** $2,500.00 (= HWM)
 **Weekly trades:** 0/3
+
+---
+
+## 2026-06-09 — /eod-review
+
+**Close:** S&P 500 7,386.65 (−0.26% / −19.08 pts) | QQQ est. $715.40 (−0.09%) | Dow +0.20% (defensive rotation) | SPY vol: 69.85M vs 49.97M avg (+39.8%)
+**Distribution days:** 6/25 — NEW DIST DAY Jun 9 confirmed (S&P −0.26%, vol +40%) | Prior: 5/25 (May 7, May 15, May 19, Jun 3, Jun 5) → now **6/25** (+ Jun 9) | May 7 expires Jun 11 → 5/25
+**Market state:** 🔴 Market in Correction (UNCHANGED) | State unchanged — dist cluster 6/25 same as prior peak | No state transition today
+**Rally attempt:** Day 2 from Jun 8 Day 1 | Close 7,386.65 vs low 7,383.74 → **LOW HOLDS by 2.91 pts ⚠️ EXTREMELY FRAGILE** | INTACT ✅
+**FTD window:** Jun 12–15 (Day 4–7) | Threshold: S&P ≥7,458.53 on above-avg vol | Rally low 7,383.74 must hold
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED (0 open positions — empty batch)
+  - SH/SQQQ hedge: QUEUED $625 (25%) — Alpaca Day 85 BLOCKED — no action
+  - No buys, sells, or stop adjustments
+**Session narrative:** Opened higher on Intel AI chip order momentum (S&P +0.63% at 10 AM). Trump afternoon comment ("U.S. must respond to Iran retaliation") triggered sell-off + tech rotation continuation. Dow rotated to defensives (+0.20%); S&P/Nasdaq fell. NVDA −1.30%, DELL −3.68%.
+**Watchlist:**
+  - NVDA: est. ~$208 (−1.30%) | Formal base check due Jun 10 | Base NOT complete (right side below ATH $235.47; no handle; no pivot) | 72/100 prov. | 🟡 BENCH
+  - DELL: est. ~$386 (−3.68%) | No base; 74/100; weakening | 🟡 BENCH
+  - AVGO: est. down with tech rotation | 55/100 watch-only | ⛔
+  - 0 candidates ≥75/100
+**Circuit breakers:** NONE triggered
+**P&L today:** $0.00 (+0.00%)
+**P&L week:** $0.00 (+0.00%)
+**Equity:** $2,500.00 (= HWM)
+**Macro ahead:**
+  - ⚠️ CPI May 2026 TOMORROW Jun 10 @ 8:30 AM ET — BINARY EVENT — NO entries before release
+  - Jun 11: May 7 dist expires → 5/25
+  - Jun 12–15: FTD window (Day 4–7)
+  - Jun 16–17: FOMC (Kevin Warsh) — no entries before 1 PM CT Jun 16
+**research_source:** websearch_fallback | Alpaca Day 85 | Perplexity 403 | AV 403
+

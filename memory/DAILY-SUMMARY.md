@@ -2541,3 +2541,17 @@ SH/SQQQ hedge: QUEUED $625 — blocked by Alpaca Day 84
 ⚠️ CPI May 2026 TOMORROW Jun 10 8:30 AM ET — NO entries before data
 ⚠️ FTD window: Jun 12–15 (Day 4–7) | Threshold: S&P 7,458.53 | Rally low: 7,383.74
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-06-09 20:22 CT [clickup-placeholder]
+
+📊 EOD 2026-06-09 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 — NEW DIST DAY today (S&P −0.26% vol +40%) | Market: 🔴 CORRECTION
+Rally attempt: Day 2 | Low 7,383.74 HOLDS by 2.91 pts ⚠️ FRAGILE
+Actions today: NONE (0 positions; Alpaca Day 85 blocked)
+⚠️ CRITICAL TOMORROW: CPI May 2026 @ 8:30 AM ET — NO entries before release
+  Hot = dist day risk + rally undercut | Cool = FTD setup Jun 12
+SH $625 hedge QUEUED — first order on Alpaca restore
+FTD window: Jun 12-15 (Day 4-7) | FOMC Jun 16-17
+Tomorrow: NVDA base check | DELL weak -3.68% no base
