@@ -1,5 +1,34 @@
 
 ---
+## 2026-06-10 10:00 CT [market-check — CORRECTION UNCHANGED — CPI INLINE/COOLER CORE — DAY 3 RALLY INTACT — ALPACA BLOCKED]
+
+📈 Market-check 2026-06-10 10:00 AM CT
+Market: 🔴 Correction (6/25 dist days) | Circuit breakers: NONE
+Actions taken: No new entries — gate: Correction state + Alpaca Day 86 blocked
+
+CPI May 2026 results (7:30 AM CT):
+  ✅ Headline +4.2% YoY — INLINE with +4.2% consensus
+  ✅ Core +0.2% MoM — BELOW +0.3% est (cooler than expected; slightly dovish)
+  ⚠️ Energy +23.5% YoY / Gasoline +7% MoM (Iran-driven inflation spike)
+  ✅ Shelter +0.3% MoM / +3.4% YoY (decelerating — constructive)
+  → Verdict: Mixed/slightly dovish. Energy headline; underlying cooling. NOT a rally-undercut catalyst.
+
+Market reaction (10 AM CT):
+  S&P +0.51% ~7,421 — rally low 7,383.74 HOLDS ✅ (37 pt margin)
+  NVDA −1.4% | AVGO −3.9% | MU −3.5% (tech/semi sector selling)
+  NOT FTD (+0.51% < +1.25% threshold; 7,458.53 target — 37 pts short)
+  Day 3 of rally attempt IN PROGRESS ✅
+
+Watchlist status: 0 primary, 2 bench (NVDA 72/100, DELL 74/100), 1 watch-only (AVGO 55/100)
+  Bench promotions: NONE (NVDA base deteriorating; DELL continuing weakness)
+Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%)
+Weekly trade count: 0 of 3 used
+
+FTD window: Day 4 = Jun 11 (Thu) through Day 7 = Jun 16 (Tue — FOMC ⚠️)
+SH $625 hedge: QUEUED — execute FIRST on Alpaca restore (Day 86)
+Next check: /eod-review 3:15 PM CT (dist day confirm + rally low confirm + Jun 11 dist expiry)
+
+---
 ## 2026-06-09 10:00 CT [market-check — CORRECTION UNCHANGED — DAY 2 RALLY ATTEMPT — ALPACA BLOCKED]
 
 📈 Market-check 2026-06-09 10:00 AM CT
