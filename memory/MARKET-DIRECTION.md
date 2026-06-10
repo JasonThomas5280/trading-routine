@@ -6,24 +6,49 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 9 = NEW Dist Day #6 (−0.26% vol +40%); Rally attempt Day 2 LOW HOLDS 2.91 pts; CPI Jun 10 TOMORROW ⚠️; FTD window Jun 12–15)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 10 pre-market: Day 3 rally attempt; ES ~7,381.50 (−0.15%) ⚠️ NEAR RALLY LOW 7,383.74; CPI May 2026 NOT RELEASED YET (7:30 AM CT); May 7 dist expires TOMORROW Jun 11 → 5/25; FTD window Jun 12–15)*
 
-**Last updated:** 2026-06-09 (Tue) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED | NEW DIST DAY #6 Jun 9 (S&P −0.26% vol +40%) | S&P 7,386.65 (−0.26%) | RALLY LOW 7,383.74 HOLDS by 2.91 pts ⚠️ FRAGILE | QQQ est. $715.40 (−0.09%) | NVDA −1.30% DELL −3.68% | CPI TOMORROW 8:30 AM ET — NO ENTRIES | ALPACA DAY 85 BLOCKED | FTD WINDOW: Jun 12–15 (Day 4–7)**
-**STATE:** 🔴 Market in Correction | Jun 9 dist day confirmed (S&P 7,386.65 −0.26%, vol 69.85M vs 49.97M avg +40%) | State unchanged
-**Distribution days: 6/25** (May 7, May 15, May 19, Jun 3, Jun 5, Jun 9) | May 7 expires Jun 11 → **5/25** | May 15 expires ~Jun 19 → 4/25 | State REMAINS CORRECTION until FTD
-**Rally attempt:** Day 1 = Jun 8 (7,383.74 low) | Day 2 = Jun 9 (close 7,386.65 — LOW HOLDS by 2.91 pts ⚠️) | LOW MUST HOLD Jun 10 through FTD window
-**NVDA:** ~$208 est. (−1.30% Jun 9); base check DUE TODAY/TOMORROW Jun 10; 72/100 prov. Base NOT complete (right side still below ATH $235.47; no handle; no pivot)
-**DELL:** ~$386 est. (−3.68% Jun 9); No base; 74/100; continuing to weaken. 🟡 BENCH.
-**AVGO:** est. down with tech rotation; 55/100 NOT ACTIONABLE. Watch-only.
+**Last updated:** 2026-06-10 (Wed) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED | Rally Day 3 | ES ~7,381.50 (−0.15%) ⚠️ NEAR LOW | NQ ~28,913.75 (−0.70%) | CPI NOT YET RELEASED (7:30 AM CT) — BINARY | NVDA $205.83 AH (Apple AI via Google Cloud indirect; base NOT complete) | DELL ~$370 (Silver Lake selling) | AVGO −1.75% | May 7 dist expires TOMORROW Jun 11 → 5/25 | ALPACA DAY 86 BLOCKED | FTD WINDOW: Jun 12–15 (Day 4–7)**
+**STATE:** 🔴 Market in Correction | UNCHANGED | 6/25 dist days | Rally attempt Day 3 in progress
+**Distribution days: 6/25** (May 7, May 15, May 19, Jun 3, Jun 5, Jun 9) | May 7 expires TOMORROW Jun 11 → **5/25** | May 15 expires ~Jun 19 → 4/25 | State REMAINS CORRECTION until FTD
+**Rally attempt:** Day 1 = Jun 8 (7,383.74 low) | Day 2 = Jun 9 (7,386.65 — LOW HOLDS by 2.91 pts ⚠️) | Day 3 = Jun 10 TBD | ES futures ~7,381.50 ⚠️ near rally cash low — CPI binary at 7:30 AM CT determines open direction
+**NVDA:** ~$205.83 AH (Jun 9 close $208.19; −1.13%) | Apple AI via Google Cloud (indirect; muted) | Formal base check: NOT COMPLETE (right side too short; reversed overnight; no handle; no pivot; est. completion mid-Jul) | 72/100 | 🟡 BENCH
+**DELL:** ~$370 AH (Silver Lake insider selling; −4.1% from $386 Jun 9) | No base; 74/100; continuing weakness | 🟡 BENCH
+**AVGO:** est. −1.75% Jun 10 | $35B Apollo/Blackstone AI platform announced (no score impact) | 55/100 NOT ACTIONABLE. Watch-only.
 **0 candidates ≥75** | 0 primary watchlist items | 0 open positions
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 85 | `research_source: websearch_fallback`**
-**Jun 10 priorities:** (1) 🚨 CPI May 2026 @ 8:30 AM ET — BINARY EVENT — NO entries before release (2) 🚨 Alpaca restore CRITICAL (3) SH $625 hedge FIRST order on restore (4) NVDA formal base check (5) Monitor rally attempt low 7,383.74 — undercut = rally dead, reset Day 1 (6) FTD window Jun 12–15 (Day 4–7) (7) FOMC Jun 16–17 — no entries before 1 PM CT Jun 16
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 86 | `research_source: websearch_fallback`**
+**Jun 10 priorities:** (1) 🚨 CPI @ 7:30 AM CT — BINARY — NO entries; hot print = dist day + rally undercut risk (2) 🚨 Alpaca Day 86 restore CRITICAL (3) SH $625 FIRST on restore (4) May 7 dist expires TOMORROW Jun 11 → 5/25 (state still Correction) (5) Monitor rally low 7,383.74 — undercut = reset Day 1 (6) FTD window Jun 12–15 (Day 4–7) (7) FOMC Jun 16–17 — no entries before 1 PM CT Jun 16
 **⚠️ JUN 5 CLOSE FINAL CORRECTION (Jun 9 /pre-market):** Confirmed via TheStreet, CNN Business, Yahoo Finance: S&P Jun 5: **7,383.74 (−2.64% / −200.57 pts)** | Nasdaq: **25,709.43 (−4.18%)** — worst Nasdaq day since Apr 2025 | Dow: **50,866.78 (−1.35%)** | Phil SE Semi: worst since Mar 2020 / >$1T erased | NVDA −6.2%, AVGO −13.3%, Intel/AMD/MU all −7.9%+ | Prior logs said −1.82%/7,446.24 — that estimate was understated | Dist Day #6 confirmed ✅ — state unchanged (Correction)
 **⚠️ JUN 4 DATA CORRECTION (confirmed):** S&P actual close = **7,584.31 (+0.41%)** | Dow Jun 4 ATH 51,561.93 (+1.73%) | Nasdaq Jun 4 −0.09% | SPY Jun 4: ~$753.72 | AVGO Jun 4 range $405.51–$496.02; close est. ~$413–420; pre-mkt Jun 5: $413.45
 **FTD NOTE:** No FTD on Jun 5. S&P −1.82% = distribution (not follow-through). Prior "FTD CONFIRMED" claim based on misattributed Yahoo Finance headline (June 1 data cited as June 5). Next FTD requires new rally attempt low → Day 4–7 +1.25%+ on above-avg vol.
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 10 PRE-MARKET (/pre-market 6:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 3 RALLY ATTEMPT — ES ~7,381.50 NEAR RALLY LOW — CPI NOT RELEASED — NVDA BASE NOT COMPLETE — ALPACA DAY 86 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** (May 7, May 15, May 19, Jun 3, Jun 5, Jun 9)
+- **ES futures (pre-market):** ~7,381.50 (−0.15%) ⚠️ WITHIN 2.24 pts of rally attempt cash low 7,383.74 | **NQ: ~28,913.75 (−0.70%)** | Mixed overnight: some sources show slight upside on "cooler inflation expectations," ES futures data shows −0.15%. CPI binary will determine open.
+- **Rally attempt Day 3:** Day 1 = Jun 8 (low 7,383.74) | Day 2 = Jun 9 (close 7,386.65, low held by 2.91 pts ⚠️) | Day 3 = Jun 10 TBD | FTD window: **Jun 12–15 (Day 4–7)**
+- **⚠️ CPI May 2026 NOT YET RELEASED (7:30 AM CT / 8:30 AM ET today):** Consensus +4.2% YoY headline (up from 3.8% Apr) / Core +2.9% | Hot (4.3%+) = rate hike risk + potential dist day #7 + rally low undercut risk → Day 1 reset | Cool (<4.0%) = FTD catalyst Jun 12 | **NO entries before release regardless**
+- **May 7 dist expiry: TOMORROW Jun 11** → 5/25 (state REMAINS CORRECTION until FTD)
+- **State transition:** NONE. 🔴 Market in Correction — UNCHANGED.
+- **NVDA (~$205.83 AH from $208.19 Jun 9 close, −1.13%):**
+  - Apple-Nvidia partnership (WWDC Jun 8): Apple AFM Cloud Pro uses NVDA GPUs via Google Cloud Blackwell B200s | INDIRECT deal — muted stock reaction ("dips despite Apple announcement")
+  - N-letter: Marginal positive (Apple as major AI client confirmed) but indirect/muted | No score change
+  - **FORMAL BASE CHECK (Jun 10 as scheduled): BASE NOT COMPLETE**
+    - Price ~$205-208 | ATH $235.47 | −12.4% off ATH | Cup depth −12.6% (May 14 → Jun 5 $205.89)
+    - Right side: Jun 5 $205.89 → Jun 9 $208.19 → Jun 10 AH $205.83 (REVERSED LOWER overnight)
+    - Duration: ~19 trading days (cup-with-handle needs min 7-8 wks) | Handle: NOT FORMED | Pivot: UNDEFINED
+    - **Score: 72/100 UNCHANGED** | Score with base: 82/100 | Est. base completion: mid-Jul 2026 | 🟡 BENCH
+- **DELL (~$370 AH, −4.1% from $386 Jun 9 close):**
+  - Silver Lake affiliates disclosed significant insider selling — negative supply overhang
+  - No new positive catalysts | Continuing weakness | Score: **74/100 UNCHANGED** | 🟡 BENCH
+- **AVGO (est. −1.75%):** Geopolitical headwinds; $35B Apollo/Blackstone AI platform (long-term positive, no score impact today) | 55/100 watch-only | ⛔
+- **Sell-rules-engine:** SKIPPED (0 open positions — EMPTY BATCH)
+- **SH/SQQQ hedge:** TRIGGERED by Correction state → QUEUED $625 / 25% portfolio (SH preferred) | Alpaca Day 86 BLOCKED | Execute FIRST on restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca blocked + CPI binary event)
+- `research_source: websearch_fallback` | Alpaca Day 86 | Perplexity 403 | AV 403
 
 **✅ JUN 9 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — NEW DIST DAY #6 — RALLY LOW HOLDS 2.91 PTS — TRUMP IRAN COMMENTS — TECH ROTATION — ALPACA DAY 85 BLOCKED):**
 - **Jun 9 close:** S&P 500 **7,386.65 (−0.26% / −19.08 pts from 7,405.73)** | QQQ est. **$715.40 (−0.09%)** | SPY est. **~$737.30 (−0.26%)** | Dow +0.2% (rotation into defensives) | `research_source: websearch_fallback` | **Alpaca blocked Day 85**

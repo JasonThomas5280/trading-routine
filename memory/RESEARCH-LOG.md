@@ -8846,3 +8846,75 @@ No promotions or demotions.
   - Jun 16–17: FOMC (Kevin Warsh) — no entries before 1 PM CT Jun 16
 **research_source:** websearch_fallback | Alpaca Day 85 | Perplexity 403 | AV 403
 
+
+---
+
+## 2026-06-10 (Wed) — /pre-market (6:00 AM CT) — DAY 3 RALLY ATTEMPT — ES NEAR RALLY LOW — CPI NOT RELEASED — NVDA BASE NOT COMPLETE
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 86; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** | ALL new long entries BLOCKED
+**FTD status:** NOT CONFIRMED. Rally attempt Day 3 (Day 1 = Jun 8 low 7,383.74). FTD window: Jun 12 (Day 4) — Jun 15 (Day 7). Low MUST hold.
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures (Jun 10 pre-mkt) | ~7,381.50 (−0.15%) | ⚠️ WITHIN 2.24 pts of rally attempt cash low 7,383.74. CPI binary at 7:30 AM CT will determine open direction. Hot print could undercut low → rally reset. |
+| NQ futures (Jun 10 pre-mkt) | ~28,913.75 (−0.70%) | Broader tech weakness. |
+| CPI May 2026 | NOT YET RELEASED | Scheduled 8:30 AM ET (7:30 AM CT). Consensus: +4.2% YoY headline (up from 3.8% Apr), +2.9% Core. Hot (4.3%+) = rate hike risk + dist day risk + rally undercut. Cool (<4.0%) = FTD catalyst for Jun 12. **BINARY EVENT — NO entries before release.** |
+| Iran/geopolitics | Persistent | Semiconductor sector down -1.75%+ pre-market. Oil elevated. Ongoing inflation headwind. |
+
+**Circuit breaker check (pre-market Jun 10):** Alpaca Day 86 blocked — cannot pull live account. Last known: $2,500 equity (HWM), $0 P&L, ALL CLEAR. No circuit breakers triggered.
+
+### Overnight gap check on open positions
+
+**0 open positions — gap check SKIPPED.**
+
+### Catalyst scan — open positions
+
+**0 open positions — SKIPPED.**
+
+### Catalyst scan — watchlist
+
+**NVDA (~$205.83 AH — Jun 9 close $208.19, −1.13%):**
+- Apple-Nvidia partnership (WWDC Jun 8): Apple AFM Cloud Pro AI model runs on Nvidia Blackwell B200 GPUs via Google Cloud. Siri AI upgrade (Sept 2026) will rely on NVDA chips for cloud processing. **Indirect deal — not direct chip orders from Apple to NVDA.**
+- Market reaction: Muted/negative. Stock dipped despite announcement ("stock dips despite Apple announcement" — GuruFocus). Price ~$205.83 = BELOW Jun 9 close.
+- N-letter assessment: Positive confirmation of Apple as major AI client (even indirect), marginal N-letter improvement (+1-2 pts, not score-changing). L-letter: muted reaction = weak relative strength signal.
+- **FORMAL BASE CHECK (scheduled Jun 10):** BASE NOT COMPLETE.
+  - Price: ~$205-208 | ATH: $235.47 (May 14) | Current: −12.4% off ATH
+  - Cup structure: Left side May 14 ($235.47) → Jun 5 low ($205.89) = −12.6% depth. Right side: Jun 5 $205.89 → Jun 9 $208.19 (+1.1%) → Jun 10 AH $205.83 (REVERSED LOWER — right side failing overnight).
+  - Duration: ~19 trading days (cup-with-handle requires min 7-8 weeks for validity per O'Neil)
+  - Handle: NOT FORMED. Pivot: UNDEFINED.
+  - Verdict: Base forming but NOT complete. Right side reversed overnight. Est. completion: mid-Jul 2026 at earliest.
+  - Score: **72/100 UNCHANGED** (no base bonus). Score with completed base: **82/100**.
+  - Status: 🟡 BENCH — NO entry possible (Correction + no base + Alpaca blocked)
+
+**DELL (~$370 — Jun 9 close ~$386, −4.1%):**
+- Silver Lake affiliates disclosed significant stock sales (insider selling) in early June — negative supply/sentiment catalyst.
+- No new positive catalysts. AI server business remains strong fundamentally but stock continues to weaken.
+- Jun 10 range per search: $357-$408 (wide → volatility around CPI fears).
+- Score: **74/100 UNCHANGED** | No base | 🟡 BENCH — NO entry
+- Thesis check: Intact fundamentally (AI server super-cycle), but technical setup deteriorating. Silver Lake selling = institutional supply overhang. No base formed.
+
+**AVGO (est. −1.75% Jun 10 pre-market):**
+- Down on geopolitical tension / broader semiconductor sector pressure.
+- New development: Broadcom partnered with Apollo Global Management and Blackstone to launch $35B AI infrastructure financing platform — positive long-term signal, no impact on current score.
+- Score: **55/100 UNCHANGED** | Watch-only | No base | NOT ACTIONABLE
+
+### Buy-zone readiness
+
+| Symbol | Last Price | Pivot | Distance | Volume Pre-mkt | Status |
+|---|---|---|---|---|---|
+| NVDA | ~$205.83 AH | UNDEFINED (no base) | N/A | Unknown (Alpaca blocked) | 🔴 NOT READY — base not complete, Correction, blocked |
+| DELL | ~$370 AH | UNDEFINED (no base) | N/A | Unknown (Alpaca blocked) | 🔴 NOT READY — no base, continuing weakness, Correction, blocked |
+| AVGO | est. −1.75% | UNDEFINED (no base) | N/A | Unknown (Alpaca blocked) | 🔴 NOT READY — 55/100 watch-only |
+
+### Risks / macro ahead
+
+- ⚠️ **CPI May 2026 TODAY 7:30 AM CT** — Hot print = potential dist day (would be 7/25 if +−0.20% on elevated vol) + undercut of rally low 7,383.74 = rally attempt RESET to Day 1
+- May 7 dist expiry TOMORROW Jun 11 → 5/25 (state REMAINS CORRECTION until FTD)
+- FTD window: Jun 12–15 (Day 4–7) — conditional on rally low holding
+- FOMC Jun 16–17 (Kevin Warsh) — no entries before 1 PM CT Jun 16
+- Alpaca Day 86 restore CRITICAL — SH $625 hedge FIRST order on restore
+
+**research_source:** `websearch_fallback` | Alpaca Day 86 | Perplexity 403 | AV 403

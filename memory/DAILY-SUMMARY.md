@@ -2555,3 +2555,19 @@ Actions today: NONE (0 positions; Alpaca Day 85 blocked)
 SH $625 hedge QUEUED — first order on Alpaca restore
 FTD window: Jun 12-15 (Day 4-7) | FOMC Jun 16-17
 Tomorrow: NVDA base check | DELL weak -3.68% no base
+
+---
+## 2026-06-10 11:08 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-10
+Market: 🔴 CORRECTION | Futures: ES ~7,381.50 (-0.15%) NEAR RALLY LOW | NQ ~28,913.75 (-0.70%)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+CPI May 2026 NOT YET RELEASED (7:30 AM CT) — BINARY EVENT — NO entries before result
+Watchlist ready: NONE
+Watchlist watching: NVDA 72/100 (base NOT complete; mid-Jul est.) | DELL 74/100 (Silver Lake selling; weakness)
+Watch-only: AVGO 55/100 (est. -1.75%)
+NVDA: Apple AI via Google Cloud (indirect; muted; ~$205.83 AH)
+Key catalyst: CPI @ 7:30 AM CT (consensus +4.2% YoY; hot = dist day + rally undercut; cool = FTD Jun 12)
+Dist: 6/25 | May 7 expires TOMORROW Jun 11 5/25 | Rally Day 3 | FTD window Jun 12-15 | FOMC Jun 16-17 | Alpaca Day 86 BLOCKED
+Plan: NO entries. Correction + CPI binary + Alpaca blocked. SH $625 QUEUED for restore. Monitor rally low 7,383.74.
