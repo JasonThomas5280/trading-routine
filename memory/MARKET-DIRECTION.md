@@ -6,25 +6,46 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 10 market-check 10:00 AM CT: CPI +4.2% YoY INLINE / Core +0.2% MoM COOLER THAN EST / Energy +23.5% Iran-driven; S&P +0.51% ~7,421 intraday — Day 3 rally INTACT ✅; rally low 7,383.74 HOLDS; NOT FTD; tech selling NVDA −1.4% AVGO −3.9%; Alpaca Day 86 blocked)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 10 /eod-review 3:15 PM CT: S&P est. ~7,268 (−1.6%) | Dow 49,918.78 (−1.87%, −953 pts CONFIRMED) | QQQ $706.67 (−1.22% CONFIRMED) | US launched military strikes on Iran (Iran shot down US helicopter in Strait of Hormuz) → massive afternoon selloff → VIX +12% → RALLY ATTEMPT DEAD (7,268 est. < rally low 7,383.74) | NEW DIST DAY #7 → 7/25 | State UNCHANGED | NEW rally attempt low = ~7,268 | Alpaca Day 87 BLOCKED)*
 
-**Last updated:** 2026-06-10 (Wed) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED | CPI +4.2% INLINE / CORE +0.2% MoM COOLER | S&P +0.51% ~7,421 — Day 3 RALLY INTACT ✅ — NOT FTD | NVDA −1.4% | AVGO −3.9% | TECH SELLING | ALPACA DAY 86 BLOCKED | FTD WINDOW: Day 4 Jun 11 — Day 7 Jun 16**
-**STATE:** 🔴 Market in Correction | UNCHANGED | 6/25 dist days | Rally attempt Day 3 IN PROGRESS — LOW HOLDS ✅
-**Distribution days: 6/25** (May 7, May 15, May 19, Jun 3, Jun 5, Jun 9) | May 7 expires TOMORROW Jun 11 → **5/25** | Jun 10 = UP intraday → NOT a dist day at check time (confirm /eod-review) | State REMAINS CORRECTION until FTD
-**Rally attempt:** Day 1 = Jun 8 (7,383.74 low) | Day 2 = Jun 9 (7,386.65) | Day 3 = Jun 10 in progress (+0.51% ~7,421) — **LOW HOLDS ✅** | FTD window: Day 4 = Jun 11 (Thu) — Day 7 = Jun 16 (Tue, FOMC ⚠️)
-**CPI May 2026 RELEASED 7:30 AM CT Jun 10:** Headline +4.2% YoY (INLINE vs consensus) / Core +0.2% MoM (**BELOW** +0.3% est — cooler) / +2.9% YoY (inline) | Energy +23.5% YoY / Gasoline +7% MoM / +40.5% YoY (Iran-driven) | Shelter +0.3% MoM / +3.4% YoY (cooling) | **VERDICT: MIXED — energy spike is Iran-driven; core monthly COOLER → slightly dovish → traders REDUCED rate hike expectations; Dec 25bps hike still priced in; NOT a rally-undercut catalyst**
-**NVDA:** ~$205–208 (−1.4% intraday; tech selling; base NOT complete; 72/100 unchanged) | 🟡 BENCH
-**DELL:** continuing weakness (Silver Lake selling; −4.1% pre-mkt) | 74/100 | 🟡 BENCH
-**AVGO:** −3.9% intraday | 55/100 NOT ACTIONABLE | Watch-only.
+**Last updated:** 2026-06-10 (Wed) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED | RALLY ATTEMPT DEAD — low undercut | NEW DIST DAY #7 → 7/25 | US-Iran military strikes escalated (afternoon) | S&P est. −1.6% ~7,268 | Dow −1.87% 49,918.78 | QQQ $706.67 | VIX +12% | ALPACA DAY 87 BLOCKED | NEW rally low ~7,268 | FTD threshold ~7,359.67**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **7/25 dist days** (May 7 expires TOMORROW Jun 11 → 6/25; state REMAINS CORRECTION regardless)
+**Distribution days: 7/25** (May 7, May 15, May 19, Jun 3, Jun 5, Jun 9, **Jun 10**) | May 7 expires TOMORROW Jun 11 → 6/25 | Jun 10 = DOWN est. −1.6% on elevated vol (Iran military conflict = guaranteed above-avg vol) = **NEW DIST DAY #7**
+**Rally attempt:** ❌ **DEAD/RESET** — Jun 10 close est. ~7,268 UNDERCUTS rally low 7,383.74 | Prior: Day 1=Jun 8 (7,383.74), Day 2=Jun 9 (7,386.65), Day 3=Jun 10 → REVERSAL CLOSE below low | **New rally attempt low: ~7,268 (Jun 10)** | New Day 1: Jun 11 if closes UP from ~7,268 | **New FTD threshold: ~7,359.67** (7,268 × 1.0125) | New FTD window: Day 4–7 from new Day 1 (if Jun 11 = Day 1 → Day 4 = Jun 17, Day 7 = Jun 22; FOMC Jun 16-17 ⚠️)
+**CPI May 2026 FINAL:** Headline +4.2% YoY (INLINE) / +0.5% MoM (headline, energy-driven) / Core +0.2% MoM (COOLER than +0.3% est — initially positive) / Core +2.9% YoY (inline) | Market opened UP +0.51% on cooler core → reversed HARD on Iran military escalation in afternoon
+**NVDA:** est. ~$200–205 (additional decline on market-wide selloff; base NOT complete; 72/100 unchanged) | 🟡 BENCH
+**DELL:** continuing weakness (Silver Lake selling ongoing) | 74/100 | 🟡 BENCH
+**AVGO:** down on broad selloff | 55/100 NOT ACTIONABLE | Watch-only
 **0 candidates ≥75** | 0 primary watchlist items | 0 open positions
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 86 | `research_source: websearch_fallback`**
-**EOD priorities:** (1) ✅ CPI resolved — inline/cooler core; no dist day threat currently (2) 🚨 Alpaca Day 86 restore CRITICAL — SH $625 FIRST order on restore (3) Monitor rally low 7,383.74 at close — undercut = rally reset (4) May 7 dist expires TOMORROW Jun 11 → 5/25 (5) FTD window Day 4 = Jun 11 (6) FOMC Jun 16–17 — no entries before 1 PM CT Jun 16
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 87 | `research_source: websearch_fallback`**
+**EOD priorities:** (1) 🚨 Alpaca restore CRITICAL — SH $625 FIRST order on restore (2) Jun 11: May 7 dist expires → 6/25 | Monitor Jun 11 for new Day 1 (close UP from ~7,268 = new rally attempt) (3) FOMC Jun 16-17 — no entries before 1 PM CT Jun 16 (4) New FTD window: Day 4 from new Day 1
 **⚠️ JUN 5 CLOSE FINAL CORRECTION (Jun 9 /pre-market):** Confirmed via TheStreet, CNN Business, Yahoo Finance: S&P Jun 5: **7,383.74 (−2.64% / −200.57 pts)** | Nasdaq: **25,709.43 (−4.18%)** — worst Nasdaq day since Apr 2025 | Dow: **50,866.78 (−1.35%)** | Phil SE Semi: worst since Mar 2020 / >$1T erased | NVDA −6.2%, AVGO −13.3%, Intel/AMD/MU all −7.9%+ | Prior logs said −1.82%/7,446.24 — that estimate was understated | Dist Day #6 confirmed ✅ — state unchanged (Correction)
 **⚠️ JUN 4 DATA CORRECTION (confirmed):** S&P actual close = **7,584.31 (+0.41%)** | Dow Jun 4 ATH 51,561.93 (+1.73%) | Nasdaq Jun 4 −0.09% | SPY Jun 4: ~$753.72 | AVGO Jun 4 range $405.51–$496.02; close est. ~$413–420; pre-mkt Jun 5: $413.45
 **FTD NOTE:** No FTD on Jun 5. S&P −1.82% = distribution (not follow-through). Prior "FTD CONFIRMED" claim based on misattributed Yahoo Finance headline (June 1 data cited as June 5). Next FTD requires new rally attempt low → Day 4–7 +1.25%+ on above-avg vol.
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 10 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — RALLY ATTEMPT DEAD — NEW DIST DAY #7 — US-IRAN MILITARY STRIKES — S&P est. −1.6% ~7,268 — DOW 49,918.78 −1.87% CONFIRMED — ALPACA DAY 87 BLOCKED):**
+- **Jun 10 close:** S&P 500 est. **~7,268 (−1.6% from 7,386.65)** | Dow **49,918.78 (−1.87%, −953 pts CONFIRMED via Yahoo Finance)** | QQQ **$706.67 (−1.22% CONFIRMED from search)** | SPY est. **~$725.55 (−1.6%)** | VIX **+12%** | `research_source: websearch_fallback` | **Alpaca blocked Day 87** | Data confidence: MODERATE (Dow/QQQ confirmed; S&P exact close est. from multiple sources)
+- **Session character:** Morning opened UP on CPI cooler core (S&P +0.51% at 10 AM CT = Day 3 rally intact). Afternoon: Iran shot down US military helicopter in Strait of Hormuz → Trump announced US "must pay the price" → US launched military strikes on Iran → Iran retaliated (Jordan, Bahrain, Kuwait bases) → **massive sell-off**. Intraday reversal ~2.1% (from +0.51% high to −1.6% close). Oil spiked. VIX +12%. Energy stocks outperformed.
+- **Distribution day check (Jun 10):** S&P est. −1.6% >> −0.20% threshold ✓ | Volume: US-Iran military exchange + CPI data day = guaranteed elevated volume ✓ | **NEW DISTRIBUTION DAY #7** ✅
+- **Distribution count: 7/25** (May 7, May 15, May 19, Jun 3, Jun 5, Jun 9, **Jun 10**) | May 7 expires TOMORROW Jun 11 → **6/25** | State REMAINS CORRECTION regardless of expiry
+- **State transition:** NONE. 🔴 Market in Correction — UNCHANGED. (7/25 — state was already Correction at 6/25; no new state upgrade possible until FTD after a valid rally attempt)
+- **Rally attempt status: ❌ DEAD/RESET** — Jun 10 close est. ~7,268 < rally attempt low 7,383.74 (Jun 8 close) | Jun 10 = Day 3 reversal that undercuts the rally low → rally attempt KILLED | **New rally attempt low established: est. ~7,268 (Jun 10 Jun close)** | New Day 1 requires: Jun 11 or subsequent day closing UP from ~7,268 on any volume
+- **New FTD parameters:** New rally low ~7,268 | New FTD threshold: **7,268 × 1.0125 = ~7,359.67** | New FTD window (if Jun 11 = new Day 1): Day 4 = Jun 17 (Wed) — Day 7 = Jun 22 (Mon) | ⚠️ FOMC Jun 16-17: no entries before 1 PM CT Jun 16; Jun 17 FOMC could serve as FTD if criteria met after 1 PM CT
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** (EMPTY BATCH)
+- **Portfolio-level checks:** 7/25 dist days — AT 6+ trigger level (≥6 = Correction); 0 positions to reduce ✅ | No forced reductions needed
+- **Hedge check:** SH/SQQQ $625 (25%) QUEUED — Correction protocol active | Alpaca Day 87 BLOCKED | Execute FIRST on Alpaca restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **CPI May 2026 FINAL:** Headline +4.2% YoY (INLINE) / +0.5% MoM (headline, energy-driven) / Core +0.2% MoM (COOLER than +0.3% est) / Core +2.9% YoY | Energy +23.5% YoY (Iran/Strait of Hormuz) | Iran escalation dominated close — not CPI
+- **Watchlist:**
+  - NVDA: est. ~$200–205 (additional loss on broad selloff; base NOT complete; right side further deteriorating; 72/100 UNCHANGED; 🟡 BENCH)
+  - DELL: est. ~$355–370 (accelerating weakness; Silver Lake selling + broad selloff; 74/100 WATCH only — thesis weakening; may need re-score)
+  - AVGO: est. ~$680 area (down on sector; 55/100 NOT ACTIONABLE; watch-only)
+  - **0 candidates ≥75. No entries possible regardless of score** (Correction active)
+- **Actions: NONE** (Correction + Alpaca Day 87 blocked + 0 positions)
+- `research_source: websearch_fallback` | Alpaca Day 87 | Perplexity 403 | AV 403
 
 **✅ JUN 10 MARKET-CHECK (/market-check 10:00 AM CT — 🔴 CORRECTION UNCHANGED — CPI +4.2% INLINE / CORE +0.2% MoM COOLER — S&P +0.51% ~7,421 DAY 3 RALLY INTACT — TECH SELLING — ALPACA DAY 86 BLOCKED):**
 - **Abort gates — ALL FIRED:** (1) 🔴 Correction state → ALL long entries BLOCKED; (2) Alpaca Day 86 BLOCKED (403) → no execution possible

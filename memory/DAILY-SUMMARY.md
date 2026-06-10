@@ -2600,3 +2600,15 @@ NVDA: Apple AI via Google Cloud (indirect; muted; ~$205.83 AH)
 Key catalyst: CPI @ 7:30 AM CT (consensus +4.2% YoY; hot = dist day + rally undercut; cool = FTD Jun 12)
 Dist: 6/25 | May 7 expires TOMORROW Jun 11 5/25 | Rally Day 3 | FTD window Jun 12-15 | FOMC Jun 16-17 | Alpaca Day 86 BLOCKED
 Plan: NO entries. Correction + CPI binary + Alpaca blocked. SH $625 QUEUED for restore. Monitor rally low 7,383.74.
+
+---
+
+📊 EOD 2026-06-10 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 7/25 → 6/25 tomorrow (May 7 expires Jun 11) | Market: 🔴 CORRECTION
+⚠️ RALLY ATTEMPT DEAD: S&P est. −1.6% ~7,268 undercuts rally low 7,383.74 | NEW rally low ~7,268 | New FTD threshold ~7,359.67
+⚠️ NEW DIST DAY #7: US launched military strikes on Iran (Iran shot down US helicopter) → massive selloff | Dow −953 pts CONFIRMED | QQQ $706.67 CONFIRMED | VIX +12%
+Actions today: NONE (Correction + Alpaca Day 87 blocked + 0 positions)
+SH hedge: $625 QUEUED — blocked awaiting Alpaca restore (Day 87)
+Tomorrow: Watch Jun 11 for new rally Day 1 (close UP from ~7,268); May 7 dist expires → 6/25; FOMC Jun 16-17 in view (no entries before 1 PM CT Jun 16)
+research_source: websearch_fallback | Alpaca Day 87 | Perplexity 403 | AV 403
