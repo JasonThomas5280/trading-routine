@@ -9263,3 +9263,75 @@ TRIGGERED by Correction state → QUEUED $625 / 25% portfolio (SH preferred over
 5. Alpaca restore remains CRITICAL PRIORITY (Day 88 → Day 89 tomorrow)
 
 `research_source: websearch_fallback` | Alpaca Day 88 | Perplexity 403 | AV 403
+
+---
+
+## 2026-06-11 — /eod-review (3:15 PM CT) — DAY 1 CONFIRMED — IRAN "DEAL CLOSE" — CORRECTION UNCHANGED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 89; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** | NO new long entries | Day 1 of new rally attempt CONFIRMED
+**Sell-rules-engine:** SKIPPED — 0 open positions (empty batch)
+
+### Jun 11 Close Data (CONFIRMED via TheStreet, multiple sources)
+
+| Indicator | Level | Notes |
+|---|---|---|
+| S&P 500 | ~7,393 (+1.74%) | "Closed shy of 7,400" — TheStreet confirmed |
+| Dow Jones | 50,848.38 (+1.87%, +929 pts) | Back above 50K |
+| Nasdaq Composite | +2.53% | Tech-led recovery |
+| QQQ (est.) | ~$711 | +2.53% from $693.69 Jun 10 close (revised) |
+| SPY (est.) | ~$737–738 | ~7,393 × 0.0998 |
+| VIX | lower (implied, risk-on day) | Energy sector fell, defensives fell |
+
+### Distribution Day Check
+
+- S&P +1.74% → **NOT a distribution day** ✅
+- Distribution count: **6/25 UNCHANGED** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10)
+- Jun 11 = accumulation day (UP + elevated vol on Iran catalyst)
+
+### Market State
+
+- 🔴 **MARKET IN CORRECTION — UNCHANGED** | Needs FTD to upgrade
+- **DAY 1 CONFIRMED:** Jun 11 close ~7,393 >> Jun 10 close 7,266.99 (rally attempt low)
+- **FTD threshold:** 7,266.99 × 1.0125 = **~7,357.82** — ALREADY EXCEEDED by Jun 11 close
+- **FTD window:** Day 4 = Jun 16 (FOMC ⚠️), Day 5 = Jun 17, Day 6 = Jun 18, Day 7 = Jun 19
+- Any Day 4-7 session closing +1.25%+ on above-avg vol = FTD → Confirmed Uptrend upgrade
+
+### Iran Catalyst (Key Driver)
+
+- Morning: Trump "VERY HARD TONIGHT" rhetoric, oil rising, reversal risk
+- Afternoon: Iran foreign ministry signaled deal "close" → equities surged +1.74%
+- "Explosions heard across Iran" — strikes continuing but diplomatic channel opened
+- Energy sector DECLINED (oil supply concern easing)
+- Warning: TheStreet notes "after two dozen instances of 'deal soon'" — prior signals faded
+- Strait of Hormuz status: unclear; do not assume closure ends
+
+### Watchlist — Price Estimates (WebSearch est.)
+
+| Symbol | Est. Close | Notes |
+|---|---|---|
+| NVDA | ~$209–215 | +2-3% on tech rally; base NOT complete; 72/100 UNCHANGED; 🟡 BENCH |
+| DELL | ~$366–374 | +1.5-2.5% on industrials; Silver Lake selling ongoing; 74/100 ⚠️; 🟡 BENCH - WEAKENING |
+| AVGO | ~$380 | +2% on tech; 55/100 NOT ACTIONABLE; watch-only |
+
+**0 candidates ≥75** — no score changes today; Correction blocks all entries regardless
+
+### Actions Taken
+
+- Sell-rules-engine: SKIPPED (0 positions)
+- Stops adjusted: NONE
+- Orders placed: NONE (Correction + Alpaca blocked)
+- SH hedge: QUEUED $625 / 25% — execute FIRST on Alpaca restore
+
+### Circuit Breakers
+
+- ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+
+### Tomorrow (/pre-market Jun 12)
+
+- Jun 12 = Day 2 of rally attempt — must hold above 7,266.99 (Jun 10 close / rally low)
+- Overnight Iran deal developments: confirmed ceasefire = major FTD accelerant; breakdown = dist day risk
+- FTD countdown: Day 4 = Jun 16 FOMC ⚠️ (no entries before 1 PM CT), Day 7 = Jun 19
+- FOMC Jun 16-17: Kevin Warsh — no entries before 1 PM CT Jun 16
+- May 15 dist expires ~Jun 19 → 5/25 (still Correction until FTD)
+- 🚨 Alpaca restore: Day 89 blocked — CRITICAL for SH hedge + any future entries

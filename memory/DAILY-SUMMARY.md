@@ -2642,3 +2642,16 @@ FTD threshold: ~7,357.82 | FTD window (if Day 1=Jun 11): Jun 16 (FOMC ⚠️)–
 Watchlist: 0 ready, 0 primary, 2 bench (NVDA 72/100, DELL 74/100⚠️) + AVGO watch-only
 Open positions: 0 | Cash: 100% ($2,500) | Weekly trades: 0/3 used
 Next check: /eod-review 3:15 PM CT (Day 1 confirm + dist day check)
+
+---
+## 2026-06-11 20:26 CT [clickup-placeholder]
+
+📊 EOD 2026-06-11 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction)
+State: UNCHANGED — DAY 1 CONFIRMED (+1.74% ~7,393 from Jun 10 low 7,266.99)
+Actions today: NONE (Correction + Alpaca Day 89 + 0 positions)
+FTD window: Day 4=Jun 16 (FOMC⚠️) — Day 7=Jun 19 | threshold 7,357.82 ALREADY EXCEEDED
+Iran: deal signals → energy down, tech/industrials led | Nasdaq +2.53% | Dow +1.87% 50,848
+SH hedge: QUEUED $625 — blocked (Alpaca Day 89) — execute FIRST on restore
+Tomorrow: Jun 12=Day 2 | watch Iran overnight | FOMC Jun 16-17 (no entries <1PM CT Jun 16)
