@@ -9037,3 +9037,73 @@ No promotions or demotions.
 **Circuit breakers:** NONE triggered
 **P&L today:** $0.00 (+0.00%)
 **Equity:** $2,500.00 (= HWM)
+
+---
+
+## 2026-06-11 — /pre-market
+
+**Research source:** websearch_fallback (Perplexity 403, Alpaca Day 88 403, Alpha Vantage 403)
+**Market direction pull:** 🔴 Market in Correction (6/25 dist days after May 7 expiry today)
+**Sector leaders (top 3):** Energy (XLE — Iran/Hormuz), Defensives, Cash
+**Sector laggards (bottom 3):** Technology (XLK), Semis (SOX), Consumer Discretionary
+
+### Market overnight
+
+- **ES futures:** 7,331.50 (+0.73% from Jun 10 close ~7,268) | Range: 7,232.25–7,338.75 | **NQ:** 28,908.75 (+1.24%)
+- **Driver:** "US completes Iran strikes" → overnight relief bounce. Market pricing "initial strike phase over."
+- **Reality check:** Iran called ceasefire "meaningless" (foreign ministry Jun 11). Second day of US-Iran strikes. Iran retaliated on US bases in Kuwait, Bahrain, Jordan. **Strait of Hormuz CLOSED to all marine traffic.** Conflict is escalating, NOT resolved.
+- **Rally attempt (Jun 11):** May 7 dist expires today → 6/25 (state REMAINS CORRECTION). If Jun 11 closes UP from ~7,268 → NEW Day 1. ES +0.73% (~7,332) lean positive but afternoon Iran headline risk = reversal risk (same Jun 10 pattern).
+- **FOMC Jun 16-17:** 5 days away. No entries before 1 PM CT Jun 16.
+
+### Overnight catalysts — open positions
+
+*0 open positions — SKIPPED*
+
+### Overnight catalysts — watchlist (bench)
+
+- **NVDA (~$198–207 est.):**
+  - Senate hearing Jun 11 (10 AM): Jensen Huang DECLINED testimony (Jun 8). Hearing with IT/think tank witnesses only. Export control scrutiny persists but no direct damaging testimony. Net: minor negative. No score change.
+  - Vera Rubin full production confirmed (already in score). Apple AI indirect (already in score).
+  - Base: NOT complete. Right side further deteriorating ($208 Jun 9 → $205 Jun 10 → ~$198-207 Jun 11). ~20 trading days. Timeline extends to late Jul–Aug 2026.
+  - **Score: 72/100 UNCHANGED.** 🟡 BENCH.
+
+- **DELL (~$355-370 est.):**
+  - Weekly decline: -12.2% (from ~$420 area). Accelerating weakness.
+  - Silver Lake insider selling ongoing (supply overhang). Demand pull-forward concern ("customers want to ensure they have access to supply" per earnings call).
+  - L-letter RS rank declining. Stock underperforming market.
+  - **Score: 74/100 — FLAG FOR RE-SCORE at /weekly-prep Sun Jun 15.** Likely 64-69/100 on confirmed RS decline. 🟡 BENCH - WEAKENING.
+
+- **AVGO (~$371.89 Jun 10 confirmed):**
+  - SpaceX IPO forced outflows pressuring chip names. CPI/rate hike narrative. AI guidance inline, not upside surprise.
+  - **Score: 55/100 UNCHANGED.** Watch-only.
+
+### Buy-zone status
+
+| Symbol | Score | Price Est. | Pivot | Status |
+|---|---|---|---|---|
+| NVDA | 72/100 | ~$198-207 | UNDEFINED (base incomplete) | 🔴 NOT ACTIONABLE |
+| DELL | 74/100 ⚠️ | ~$355-370 | UNDEFINED (no base) | 🔴 NOT ACTIONABLE |
+| AVGO | 55/100 | ~$372 | N/A | 🔴 NOT ACTIONABLE |
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| -3% single day | ✅ CLEAR |
+| -6% weekly | ✅ CLEAR |
+| -12% drawdown | ✅ CLEAR |
+| PDT count | ✅ CLEAR — 0/3 |
+| Alpaca API | ⚠️ ACTIVE — Day 88 (403) |
+
+**Actions today:** NONE (Correction + Alpaca Day 88 + 0 positions)
+**Circuit breakers:** ALL CLEAR | **P&L today:** $0.00 | **Equity:** $2,500.00 (HWM)
+
+### Key macro ahead
+
+| Date | Event | Note |
+|---|---|---|
+| **Jun 11 (TODAY)** | May 7 dist expires → 6/25 | Close UP from ~7,268 = new Day 1 |
+| **Jun 16–17** | FOMC (Kevin Warsh) | No entries before 1 PM CT Jun 16 |
+| **Jun 17–22 est.** | FTD window (if Day 1=Jun 11) | S&P ≥7,359.67 on above-avg vol |
+
+**Summary:** ES 7,331.50 (+0.73%) | NQ 28,908.75 (+1.24%) | Iran relief bounce, conflict ongoing | 🔴 Correction UNCHANGED | 0 positions | 0 entries possible | `research_source: websearch_fallback`

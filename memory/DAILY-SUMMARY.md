@@ -2612,3 +2612,17 @@ Actions today: NONE (Correction + Alpaca Day 87 blocked + 0 positions)
 SH hedge: $625 QUEUED — blocked awaiting Alpaca restore (Day 87)
 Tomorrow: Watch Jun 11 for new rally Day 1 (close UP from ~7,268); May 7 dist expires → 6/25; FOMC Jun 16-17 in view (no entries before 1 PM CT Jun 16)
 research_source: websearch_fallback | Alpaca Day 87 | Perplexity 403 | AV 403
+
+---
+
+🌅 Pre-market 2026-06-11
+Market: 🔴 CORRECTION (6/25 dist — May 7 expires today) | Futures: ES 7,331.50 (+0.73%) NQ 28,908.75 (+1.24%)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: N/A — no open positions
+Watchlist ready: NONE
+Watchlist watching: NVDA 72/100 (base not complete, timeline Aug 2026) | DELL 74/100 ⚠️ FLAG re-score (−12.2% weekly, RS declining)
+Watch-only: AVGO 55/100
+Removed: none today
+Key catalyst today: Iran-US Day 2 strikes (Strait of Hormuz CLOSED); NVDA Senate hearing (Huang declined — watch 10 AM); May 7 dist expires → 6/25
+Plan: NO entries — Correction active + Alpaca Day 88 blocked. Monitor Jun 11 close: UP from ~7,268 = new rally Day 1. FTD threshold ~7,359.67. FTD window Day 4–7 (Jun 17–22). FOMC Jun 16-17. SH $625 QUEUED on Alpaca restore.
+research_source: websearch_fallback | Alpaca Day 88 | Perplexity 403 | AV 403
