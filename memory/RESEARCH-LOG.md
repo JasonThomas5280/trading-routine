@@ -9107,3 +9107,159 @@ No promotions or demotions.
 | **Jun 17–22 est.** | FTD window (if Day 1=Jun 11) | S&P ≥7,359.67 on above-avg vol |
 
 **Summary:** ES 7,331.50 (+0.73%) | NQ 28,908.75 (+1.24%) | Iran relief bounce, conflict ongoing | 🔴 Correction UNCHANGED | 0 positions | 0 entries possible | `research_source: websearch_fallback`
+
+---
+
+## 2026-06-11 (Thu) — /market-check (10:00 AM CT) — CORRECTION UNCHANGED — POTENTIAL DAY 1 IN PROGRESS — PPI CORE COOLER BUT BROAD HOTTEST MAR 2022 — ORACLE $70B CAPEX — TRUMP IRAN ESCALATION — ALPACA DAY 88 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 88 BLOCKED; Perplexity: 403; Alpha Vantage: 403. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** (May 7 expired Jun 11) | ALL new long entries BLOCKED | Alpaca execution blocked
+
+---
+
+### Abort gates
+
+| Gate | Status |
+|---|---|
+| Market state | 🔴 **FIRED** — Correction → ALL long entries BLOCKED |
+| Research degraded | ✅ CLEAR — websearch_fallback active (not full DEGRADED) |
+| Daily circuit breaker | ✅ CLEAR — $0 P&L (no positions) |
+| Weekly circuit breaker | ✅ CLEAR — $0 P&L week |
+| Drawdown halt | ✅ CLEAR — 0% drawdown from $2,500 HWM |
+| Weekly trade count | ✅ CLEAR — 0/3 used |
+| Position count | ✅ CLEAR — 0 positions |
+| Cash buffer | ✅ CLEAR — 100% cash |
+| Alpaca API | 🔴 **FIRED** — Day 88 BLOCKED (403) → no execution possible |
+
+**Conclusion: TWO abort gates fired. No trades possible. Proceed to monitoring only.**
+
+---
+
+### Market data (10 AM CT / 11 AM ET)
+
+- **S&P 500:** +0.21% (~7,282 from 7,266.99 Jun 10 confirmed close) | Dow +0.45% | Nasdaq +0.26% | Russell 2000 −1.10% (small cap lagging = mild risk-off signal)
+- **NVDA:** $201.61–$207.22 (open $204.37) — chips rebounding on Oracle data center capex thesis
+- **DELL:** ~$361 — Oracle $70B FY2027 datacenter capex = positive N-letter catalyst
+- **Jun 10 close confirmed:** 7,266.99 (prior estimate ~7,268 — accurate)
+
+---
+
+### PPI May 2026 (released Jun 11)
+
+- **Core PPI:** +0.4% MoM vs +0.5% est — **COOLER** ✅
+- **Broad measure (ex food/energy/trade):** +0.8% MoM — **HOTTEST SINCE MAR 2022** ⚠️ / +5.1% YoY (highest since Oct 2022)
+- **Verdict:** Mixed. Core cooler = marginally dovish. Broad extremely hot = sticky underlying inflation. Not a clean print. Inflation regime remains elevated. FOMC Jun 16-17 unchanged outlook.
+
+---
+
+### Oracle Q4 FY2026 earnings (ORCL — released Jun 10 AH)
+
+- EPS: $2.03 vs $1.96 est ✅ (+3.6% beat)
+- Revenue: $19.18B vs $19.10B est (+21% YoY) ✅
+- ORCL stock: fell −10% AH on plans to raise $40B additional capital
+- **FY2027 datacenter capex: $70B planned** (vs $55.7B FY2026 spend)
+- **Impact on watchlist:**
+  - **DELL (positive N-letter):** $70B datacenter capex = massive AI server demand signal; validates DELL's 757% AI-optimized server revenue growth thesis; structural demand confirmation
+  - **NVDA (positive N-letter):** $70B datacenter capex = chip demand signal; Blackwell/NVLink clusters as primary target
+  - Score impact: N-letter strengthened for DELL/NVDA but neither actionable (Correction + no base + DELL <75 pending re-score)
+
+---
+
+### Iran conflict (Day 2 — escalating)
+
+- Trump posted "VERY HARD TONIGHT" re: Iran strikes + "total control of oil and gas industry"
+- Oil prices rising on rhetoric
+- **Afternoon reversal risk: HIGH ≥40%** — same Jun 10 pattern (morning UP +0.51% → close −1.6% on Iran escalation)
+- Strait of Hormuz CLOSED — persistent oil supply shock → inflation headwind
+- Market opened UP on "US completes initial strikes" → Trump rhetoric = risk of sell-off into close
+
+---
+
+### Distribution day check (Jun 11)
+
+- May 7 dist day: CONFIRMED EXPIRED today (Jun 11, trading session 25/25) → dist count 7/25 → **6/25**
+- Jun 11 intraday: UP (+0.21%) → CANNOT be a dist day at this check time
+- Confirm at /eod-review: if Jun 11 closes DOWN ≥−0.20% on vol → Dist #8 (7/25, REMAINS CORRECTION)
+
+---
+
+### Rally attempt Day 1 assessment
+
+- S&P Jun 11 intraday: +0.21% (~7,282) — UP from Jun 10 close 7,266.99 ✅
+- IF Jun 11 closes UP from 7,266.99 → **NEW DAY 1 ESTABLISHED**
+- Trump escalation risk = afternoon reversal risk ≥40%
+- FTD NOT in progress: +0.21% << +1.25% threshold
+- **FTD threshold:** 7,266.99 × 1.0125 = **~7,357.82**
+- **FTD window (if Day 1=Jun 11):** Day 4=Jun 16 (FOMC ⚠️), Day 5=Jun 17, Day 6=Jun 18, Day 7=Jun 19
+- No entries before 1 PM CT Jun 16 (FOMC)
+- **Confirm Day 1 at /eod-review**
+
+---
+
+### Watchlist status
+
+| Symbol | Price | Score | Status | Notes |
+|---|---|---|---|---|
+| NVDA | $201.61–$207.22 (open $204.37) | 72/100 | 🟡 BENCH | Base NOT complete; right side deteriorating; no handle; no pivot; 72→82/100 with base (est. Aug 2026+) |
+| DELL | ~$361 | 74/100 ⚠️ | 🟡 BENCH-WEAKENING | Oracle $70B capex = N-letter positive; BUT Silver Lake selling; ATH $465.96 → $361 = −22.5%; RS declining; FLAGGED for re-score at /weekly-prep Sun Jun 15 |
+| AVGO | ~$372 est. | 55/100 | ⛔ WATCH-ONLY | SpaceX IPO outflows; no base; not actionable |
+
+**0 candidates ≥75. All entries blocked by Correction regardless.**
+
+---
+
+### Watchlist triggers (primary)
+
+**ZERO primary items** → 0 triggers evaluated. No buy zone assessments needed.
+
+---
+
+### Sell-rules-engine
+
+**SKIPPED** — 0 open positions (empty batch). No intraday Rule 1/3 evaluations needed.
+
+---
+
+### Bench promotion check
+
+- NVDA: base NOT complete (right side deteriorating; Aug 2026+ timeline) → **NO PROMOTION**
+- DELL: continuing weakness; Silver Lake selling; flagged for re-score → **NO PROMOTION**
+- AVGO: 55/100 watch-only → **NO PROMOTION**
+
+No promotions. No demotions.
+
+---
+
+### SH/SQQQ hedge
+
+TRIGGERED by Correction state → QUEUED $625 / 25% portfolio (SH preferred over SQQQ for account size and decay). Alpaca Day 88 BLOCKED. Execute FIRST on Alpaca restore.
+
+---
+
+### Circuit breakers
+
+| Breaker | Status |
+|---|---|
+| -3% single day | ✅ CLEAR — $0 P&L (no positions) |
+| -6% weekly | ✅ CLEAR — $0 P&L |
+| -12% drawdown | ✅ CLEAR — 0% drawdown |
+| PDT count | ✅ CLEAR — 0/3 |
+| Alpaca API down | ⚠️ ACTIVE — Day 88 (403) |
+
+---
+
+### Actions
+
+**NONE.** Correction state + Alpaca Day 88 blocked = no execution possible.
+
+---
+
+### /eod-review priorities (3:15 PM CT)
+
+1. Jun 11 close check: UP from 7,266.99 → Day 1 confirmed | DOWN ≥−0.20% on elevated vol → Dist #8 (7/25, Correction continues) | Reversal (Trump Iran afternoon) → Day 1 reset
+2. Dist day count update: confirm 6/25 or 7/25
+3. Iran afternoon escalation monitor
+4. Oracle $70B capex — note as N-letter catalyst in DELL/NVDA ongoing assessments
+5. Alpaca restore remains CRITICAL PRIORITY (Day 88 → Day 89 tomorrow)
+
+`research_source: websearch_fallback` | Alpaca Day 88 | Perplexity 403 | AV 403

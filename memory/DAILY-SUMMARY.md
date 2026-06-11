@@ -2626,3 +2626,19 @@ Removed: none today
 Key catalyst today: Iran-US Day 2 strikes (Strait of Hormuz CLOSED); NVDA Senate hearing (Huang declined — watch 10 AM); May 7 dist expires → 6/25
 Plan: NO entries — Correction active + Alpaca Day 88 blocked. Monitor Jun 11 close: UP from ~7,268 = new rally Day 1. FTD threshold ~7,359.67. FTD window Day 4–7 (Jun 17–22). FOMC Jun 16-17. SH $625 QUEUED on Alpaca restore.
 research_source: websearch_fallback | Alpaca Day 88 | Perplexity 403 | AV 403
+
+---
+
+📈 Market-check 2026-06-11 10:00 AM CT
+Market: 🔴 CORRECTION (6/25 dist — May 7 expired today) | Circuit breakers: NONE
+Actions taken:
+  No new entries — Correction state + Alpaca Day 88 blocked
+  No positions to sell (0 open)
+PPI: Core +0.4% MoM (COOLER vs +0.5% est) | Broad +0.8% (HOTTEST MAR 2022 ⚠️)
+Oracle $70B FY2027 datacenter capex → DELL/NVDA N-letter catalyst (ORCL -10% AH on $40B raise)
+Iran: Trump "VERY HARD TONIGHT" — afternoon reversal risk | Hormuz CLOSED | oil rising
+Rally attempt: Jun 11 potential Day 1 (S&P +0.21% ~7,282 vs 7,266.99 close) — CONFIRM /eod-review
+FTD threshold: ~7,357.82 | FTD window (if Day 1=Jun 11): Jun 16 (FOMC ⚠️)–Jun 19
+Watchlist: 0 ready, 0 primary, 2 bench (NVDA 72/100, DELL 74/100⚠️) + AVGO watch-only
+Open positions: 0 | Cash: 100% ($2,500) | Weekly trades: 0/3 used
+Next check: /eod-review 3:15 PM CT (Day 1 confirm + dist day check)
