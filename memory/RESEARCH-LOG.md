@@ -9520,3 +9520,91 @@ ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades:
 **NONE** — Correction + Alpaca Day 90 blocked
 
 `research_source: websearch_fallback` | Alpaca Day 90 | Perplexity 403 | AV 403
+
+---
+
+## 2026-06-12 (Fri) — /eod-review (3:15 PM CT) — DAY 2 CONFIRMED +0.52% — IRAN "FINAL TEXT AGREED" TRUMP SIGNS WEEKEND — NOT DIST DAY — ALPACA DAY 91 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 91; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** | ALL LONG ENTRIES BLOCKED
+
+### Close data (confirmed via CNBC/TheStreet/TradingKey/websearch)
+
+| Index | Close | Change | Notes |
+|---|---|---|---|
+| S&P 500 | 7,431.46 | +0.52% | DAY 2 CONFIRMED >> 7,266.99 |
+| Dow Jones | 51,202.26 | +0.70% (+353 pts) | Broad participation |
+| Nasdaq Composite | 25,888.84 | +0.31% | SPCX IPO absorption resolved |
+| SPY (est.) | ~$743 | ~+0.52% | |
+| QQQ (est.) | ~$716 | ~+0.3% | Range $714.23–$721.63 |
+| SPCX (SpaceX) | $161.11 | +19% Day 1 | Opened $150, peaked ~$172, closed $161 |
+
+### Distribution day check
+
+- S&P Jun 12: +0.52% → **NOT a distribution day** ✅
+- Distribution count: **6/25 UNCHANGED** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10)
+
+### Rally attempt status
+
+- Day 2 close: 7,431.46 >> rally low 7,266.99 → **DAY 2 CONFIRMED ✅** (164.47 pts margin)
+- FTD threshold: ~7,357.82 — EXCEEDED by both Day 1 and Day 2 ✅
+- FTD window: Day 3 = Jun 15 (Mon) | Day 4 = **Jun 16 (FOMC ⚠️)** | Day 5 = Jun 17 | Day 6 = Jun 18 | Day 7 = **Jun 19**
+
+### Market state
+
+🔴 **Market in Correction — UNCHANGED.** Needs FTD to upgrade.
+
+### Iran deal catalyst (major)
+
+- Pakistan PM confirmed: **"final agreed text of US-Iran peace deal has been reached"**
+- Trump: canceled planned strikes; MoU in place; will sign deal **"this weekend"** (Jun 13-14)
+- Strait of Hormuz reopening in framework; oil <$90 ✅
+- **Significance:** If signed Mon Jun 15, strong FTD probability in Day 4-7 window (Jun 16-19)
+- Risk: Iran deal has shown multiple "almost done" moments before — verify Monday
+
+### Open positions / sell-rules-engine
+
+**0 open positions — sell-rules-engine SKIPPED (empty batch)**
+
+### Hedge
+
+SH/SQQQ $625 QUEUED (Correction protocol ACTIVE) | Alpaca Day 91 BLOCKED | Execute FIRST on restore
+
+### Circuit breakers
+
+| Breaker | Status |
+|---|---|
+| -3% daily | ✅ CLEAR — $0 P&L |
+| -6% weekly | ✅ CLEAR — $0 P&L |
+| -12% drawdown | ✅ CLEAR — 0% drawdown from $2,500 HWM |
+| PDT count | ✅ CLEAR — 0/3 |
+| Alpaca API down | ⚠️ ACTIVE — Day 91 (403 "Host not in allowlist") |
+
+### P&L summary
+
+- **Today:** +$0.00 (0.00%)
+- **Week (Jun 9-12):** +$0.00 (0.00%) — 0 trades
+- **Equity:** $2,500.00 (= HWM)
+
+### EOD /eod-review summary
+
+**Close:** S&P 7,431.46 (+0.52%) | QQQ ~$716 (+~0.3%)
+**Distribution days:** 6/25 trailing 25 sessions | Today: NOT dist day ✅
+**Market state:** 🔴 Correction UNCHANGED | Rally attempt Day 2 CONFIRMED
+**Positions held:** 0
+**Actions today:** NONE
+**Circuit breakers:** None (Alpaca infra block only)
+**P&L today:** $0.00 (0.00%)
+**Equity:** $2,500.00
+
+### Next week priorities
+
+1. 🚨 Alpaca restore CRITICAL — SH $625 FIRST order on restore
+2. Iran deal signing weekend → watch Mon Jun 15 open for gap-up / FTD setup
+3. Day 3 Jun 15 (Mon): S&P must hold above 7,266.99
+4. FOMC Jun 16-17: no new entries before 1 PM CT Jun 16 (Day 4 FTD window opens)
+5. FTD watch: Day 4 = Jun 16, Day 5 = Jun 17, Day 6 = Jun 18, Day 7 = Jun 19
+6. DELL re-score at /weekly-prep Sun Jun 15 (74/100 ⚠️; IREN deal vs Silver Lake selling)
+7. May 15 dist expires Jun 19 → 5/25 (state still requires FTD to upgrade)
+
+`research_source: websearch_fallback` | Alpaca Day 91 | Perplexity 403 | AV 403

@@ -2673,3 +2673,16 @@ Plan: NO entries — Correction + Alpaca Day 90 blocked. Watch: Iran deal signin
 ## 2026-06-12 15:13 CT [clickup-placeholder]
 
 Market-check 2026-06-12 10:00 AM CT | Market: CORRECTION Day 2 rally INTACT | Circuit breakers: NONE | Actions: NONE (Correction + Alpaca Day 90 blocked) | S&P ~flat ~7393 >> 7266.99 | Dow +0.57% Nasdaq -0.30% (SPCX IPO drag) | SPCX IPO ~172 +27% largest IPO ever | Iran IAEA breach fragile ceasefire | FTD window Jun 16-19 | FOMC Jun 16-17 | Watchlist: 0 ready 2 bench NVDA-72 DELL-74 | 0 positions 100pct cash | Weekly trades: 0/3 | Next: /eod-review 3:15 PM CT
+
+---
+## 2026-06-12 20:22 CT [clickup-placeholder]
+
+📊 EOD 2026-06-12 (Fri) | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions | 100% cash
+Distribution days: 6/25 (market: 🔴 Correction UNCHANGED)
+Rally: DAY 2 CONFIRMED ✅ S&P 7,431.46 (+0.52%) Dow 51,202.26 (+0.70%) Nasdaq +0.31%
+Iran deal: FINAL TEXT AGREED — Trump signs this weekend 🟢 (FTD catalyst)
+SPCX IPO Day 1: $161.11 (+19%) | Nasdaq IPO drag resolved ✅
+Actions today: NONE (Correction + Alpaca Day 91 blocked)
+FTD window: Day 4 Jun 16 (FOMC ⚠️) – Day 7 Jun 19
+Priorities Mon: 🚨 Alpaca restore → SH $625 hedge | FOMC no entries before 1 PM CT Jun 16 | FTD watch
