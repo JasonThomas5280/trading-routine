@@ -2686,3 +2686,43 @@ SPCX IPO Day 1: $161.11 (+19%) | Nasdaq IPO drag resolved ✅
 Actions today: NONE (Correction + Alpaca Day 91 blocked)
 FTD window: Day 4 Jun 16 (FOMC ⚠️) – Day 7 Jun 19
 Priorities Mon: 🚨 Alpaca restore → SH $625 hedge | FOMC no entries before 1 PM CT Jun 16 | FTD watch
+
+---
+## 2026-06-12 20:39 CT [clickup-placeholder]
+
+### Week ending 2026-06-12
+
+## Week ending 2026-06-12 — FireLit Swing Weekly Review
+
+### Performance
+- Starting equity: $2,500.00 | Ending equity: $2,500.00
+- Weekly return: 0.00% (vs S&P +0.35% = −0.35% alpha)
+- Trades taken: 0/3 | Cumulative alpha drag since inception: approx. −2.52%
+- Alpaca: BLOCKED Day 91 (18 consecutive weeks)
+
+### Market State
+🔴 Correction UNCHANGED (6/25 dist days). New rally attempt: Day 1 Jun 11 (+1.74%), Day 2 Jun 12 (+0.52%). FTD window Jun 16–19 (Day 4 = FOMC ⚠️). Iran 'final text agreed' — Trump signs weekend.
+
+### Key Events
+- Jun 9 (Mon): Dist #6 → 6/25 (Trump/Iran rhetoric, SPY vol +39.8%)
+- Jun 10 (Tue): US-Iran military strikes → Dist #7 → new low 7,266.99; PRIOR rally attempt DEAD
+- Jun 11 (Wed): Iran deal 'close' → Dow +929 pts → Day 1 rally confirmed; May 7 dist expired → 6/25
+- Jun 12 (Fri): Iran 'final text agreed' → Day 2 confirmed 7,431.46 (+0.52%); SPCX IPO +19%
+
+### Rule Adherence: 100/100 — No violations. No entries attempted. All gates held.
+
+### Watchlist
+- NVDA: 72/100, base NOT complete (Aug 2026+ timeline)
+- DELL: 74/100 ⚠️ — IREN $1.6B deal positive; Silver Lake selling; L-letter declining. RE-SCORE Jun 15.
+- AVGO: 55/100 watch-only. CFO change.
+
+### Lessons
+1. US-Iran military strikes killed Day 3 rally in one afternoon — confirm, don't front-run
+2. Iran deal resolution flipped FTD picture in 48 hours — FTD gate forces correct discipline
+3. DELL declining despite proxy catalysts (Oracle $70B, IREN $1.6B) — L-letter deterioration is real. Demote if ≤70 on Jun 15 re-score.
+
+### Proposed Rule Change
+Proposal 15: Add GEOPOLITICAL_BINARY_ACTIVE flag to rally-attempt assessments during active conflicts.
+
+### Next Week
+FTD window Jun 16–19. FOMC Jun 16-17 (no entries before 1 PM CT Jun 16). Iran deal signing Mon = key catalyst. Alpaca restore CRITICAL — SH $625 first order. DELL re-score /weekly-prep Jun 15.

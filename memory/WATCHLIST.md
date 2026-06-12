@@ -6,6 +6,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-06-09 to 2026-06-13 — **STALE — rebuild via /weekly-prep on Sunday Jun 15**
+
+> Archived week of Jun 9–13. /weekly-review completed Fri Jun 12. Market state: 🔴 Correction (6/25 dist days). Zero primary candidates. NVDA 72/100 (no base), DELL 74/100 (⚠️ re-score Jun 15 — may drop to ≤70), AVGO 55/100 watch-only. Full rebuild required Sunday Jun 15 — do NOT use this list for entry decisions. Priority items: DELL re-score, sector RS update (XLE may drop from top-3 on Iran deal), FTD watch Jun 16–19.
+
 ## ⚠️ ARCHIVED — Week of 2026-06-02 to 2026-06-06 — **STALE — rebuild via /weekly-prep on Sunday Jun 8**
 
 > **Archived week of Jun 2–6.** Market state changed to 🔴 CORRECTION (Dist Day #6 Jun 5 confirmed Jun 8). All primary candidates below threshold. AVGO base destroyed. GOOGL removed. DELL/NVDA below 75. Full rebuild required Sunday Jun 8 — do NOT use this list for entry decisions.

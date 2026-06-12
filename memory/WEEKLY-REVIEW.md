@@ -963,3 +963,126 @@ Status: **NEW — pending Jason approval.**
   - **Alpaca restore: Day 80+ — CRITICAL.** SH hedge cannot be placed. No entries possible even on FTD without execution.
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, **3/3 weekly trade slots available** (ALL blocked by Correction). SH hedge $625 queued — blocked Alpaca Day 79.
 - **Emotional state check:** DISCIPLINED and correctly positioned. Holding cash during a −1.76% S&P week produced +1.76% alpha — the first week where the strategy's conservative posture was rewarded. Eight consecutive 0-trade weeks while capital sits at $2,500 HWM. The Correction state is not frustrating; it is the system working as designed. The data error on Jun 5 is the real concern — that is fixable via Proposals 12–14. Capital is intact. Patience holds.
+
+---
+
+## Week ending 2026-06-12 (Fri)
+
+> **Context:** Week 9 of live operation. Alpaca API blocked Day 82–91 (all 4 trading sessions — now 91 consecutive days / ~18 weeks, no resolution). Perplexity + Alpha Vantage blocked same IP allowlist issue. All research via WebSearch fallback — 9th consecutive week of full fallback mode. Zero trades executed. Market: 🔴 Correction (6/25 dist days) entire week, UNCHANGED. Key events: US-Iran military strikes (Jun 10) killed the Day 3 rally attempt with new S&P low 7,266.99 (−1.6%); Iran peace deal "final text agreed" (Jun 12 EOD) creates strong FTD catalyst for week of Jun 15; SpaceX SPCX IPO Day 1 closed $161.11 (+19%); Oracle $70B datacenter capex (Jun 10 AH) validated AI server demand. Distribution count: 6/25 net unchanged at week end (Jun 9 dist #6 added, Jun 10 dist #7 added, May 7 expired Jun 11 → net 6/25). New rally attempt: Day 1 Jun 11 (+1.74%), Day 2 Jun 12 (+0.52%); FTD window Jun 16–19 (Day 4 = FOMC ⚠️).
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Jun 9 open — 100% cash, carry-in from Week 8)
+- Ending equity: $2,500.00 (Fri Jun 12 close — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 Jun 8 close 7,405.73 → Jun 12 close 7,431.46 = **+0.35%** → **−0.35% alpha**)
+- S&P intraweek range: 7,266.99 (Tue Jun 10 low) → 7,431.46 (Fri Jun 12 close)
+- Trades taken: **0** (max 3/week, used 0 — **ninth consecutive 0-trade week**)
+- Winners: 0 (avg N/A) | Losers: 0 (avg N/A) | Winner:loser ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Cumulative alpha drag since inception (9 weeks): approx. −2.52% vs SPY** (prior −2.17% as of Jun 5, −0.35% this week)
+- **Root causes of zero trades:**
+  1. Alpaca API 403 "Host not in allowlist" — Day 82–91. Execution hard-halted per TRADING-STRATEGY.md.
+  2. Market state: 🔴 Correction all week — ALL new long entries blocked.
+  3. ZERO candidates ≥75 conviction score. NVDA 72/100 (no base), DELL 74/100 (no base, weakening), AVGO 55/100 (watch-only).
+  4. SH hedge $625 QUEUED — blocked by Alpaca Day 91. Cannot place any order.
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any -7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries during Correction? **NO** — gates correctly honored all 4 sessions
+- Any entries on Alpaca-blocked sessions? **NO** — rule honored (9th consecutive week)
+- Any conviction-score workarounds? **NO** — DELL held at 74/100 reject all week (1 point below threshold)
+- FOMC proximity flagged correctly? **YES** — Jun 16-17 flagged in every session; no entries attempted
+- Circuit breakers triggered? **NONE** (daily −3%, weekly −6%, drawdown −12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(ninth consecutive perfect score — no trades = no violations. Score remains structurally uninformative until execution infrastructure restored. Behavioral note: no rationalization attempted for entering on Iran deal "de-risking" narrative while Correction state was active.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🔴 Market in Correction** (6/25 dist days)
+- M state at week end: **🔴 Market in Correction** (6/25 dist days — UNCHANGED)
+
+| Date | S&P Close | Change | Dist Day? | Running Count | Notes |
+|---|---|---|---|---|---|
+| Jun 9 (Mon) | 7,386.65 | −0.26% | **YES — DIST #6 (window)** | 6/25 | Trump "must respond" Iran; tech rotation. SPY vol +39.8% above avg. |
+| Jun 10 (Tue) | 7,266.99 | −1.6% | **YES — DIST #7** | 7/25 → 6/25 (May 7 expires Jun 11) | US-Iran military strikes. S&P reversed from +0.51% to −1.6%. Rally attempt DEAD. New low. |
+| Jun 11 (Wed) | ~7,393 | +1.74% | **NO** | 6/25 (May 7 EXPIRED) | Iran deal "close." Dow +929 pts. Day 1 rally confirmed. |
+| Jun 12 (Fri) | 7,431.46 | +0.52% | **NO** | 6/25 UNCHANGED | Iran "final text agreed." SPCX +19%. Day 2 confirmed. |
+
+- All 4 sessions called correctly on available data.
+- Rally attempt tracking: Jun 10 undercut 7,383.74 prior low → RALLY DEAD correctly flagged; new Day 1 = Jun 11 correctly confirmed.
+- Any missed distribution days? **None.**
+- Accuracy verdict: **CLEAN — all M calls correct for 9th consecutive week.**
+
+### Sector Performance
+
+- Sectors traded: **NONE** (no trades — Correction)
+- Sector highlights:
+  - **XLK Technology:** Oracle $70B datacenter capex (Jun 10 AH) = strong AI demand signal for NVDA/DELL N-letter. NVDA/DELL both bench with no valid base. SPCX +19% IPO Day 1 = tech innovation premium intact.
+  - **XLI Industrials:** DELL IREN $1.6B AI deal (Jun 11) = N-letter positive. Silver Lake selling = persistent L-letter drag.
+  - **XLE Energy:** Oil <$90 Jun 12 (Hormuz reopening in Iran deal). May drop from top-3 if deal holds — update at /weekly-prep Jun 15.
+- Sector hit rate: N/A (no trades)
+- Sectors to blacklist: **None** (zero trade history)
+
+### Conviction Correlation
+
+- Trades ≥85: 0 — N/A | Trades 75–85: 0 — N/A | Sub-threshold: 0 correctly blocked
+- NVDA 72/100: base NOT complete; Aug 2026+ timeline. Correctly benched.
+- DELL 74/100 ⚠️: 1 point below threshold. IREN deal (+N) vs Silver Lake selling (−L). Re-score Jun 15. L-letter declining — may fall to ≤70.
+- AVGO 55/100: CFO transition. Watch-only.
+- Pattern: No closed-trade data. 9th consecutive week with zero conviction-passing candidates. Rubric discriminating correctly.
+
+### Research Source Impact
+
+- Days on perplexity primary: **0** (blocked Day 82–91 — 9th consecutive 0-perplexity week)
+- Days on websearch_fallback: **~12** (4 trading days × ~3 routines)
+- Days DEGRADED: **0**
+- Research source for trades placed: **N/A**
+- **Data quality noticeably better than Week 8:**
+  - CPI May 2026 (Jun 10): +4.2% YoY / Core +0.2% MoM — correctly captured, no conflict.
+  - Iran military escalation (Jun 10): S&P intraday reversal accurately tracked. Dist day risk correctly flagged at /market-check, confirmed at /eod-review.
+  - Jun 11 close ~7,393 (+1.74%), Jun 12 close 7,431.46 (+0.52%): Confirmed via CNBC/TheStreet. CLEAN.
+  - **No misattributed headline errors (contrast with Jun 5 Yahoo Finance date-attribution disaster).** Proposal 12 (date-explicit query) informally applied; results clearly improved.
+  - Persistent gap: Volume data still unconfirmed (Alpaca blocked). All dist-day volume calls remain qualitative.
+
+### Lessons
+
+**Lesson 1 — Market: US-Iran military strikes killed a Day 3 rally attempt in a single afternoon. Active military conflict creates geopolitical binary risk that can reverse 3 days of technical setup in one session.**
+Jun 10 opened +0.51% (CPI core cooler). By 2 PM CT: Iran shot down a US helicopter in the Strait of Hormuz, Trump announced "must pay the price," US launched military strikes, Iran retaliated on regional bases. S&P reversed −2.1% intraday peak-to-trough, closed −1.6%, new low 7,266.99. The Jun 8 Day 1 rally survived Day 2 (barely, 2.91 pts) but was killed Day 3 by a military event. The FTD gate (Days 4–7, +1.25%+ on confirmed volume) correctly kept us from front-running entries on an intraday +0.51% that never closed. No fix needed — the rules held.
+
+**Lesson 2 — Market: Geopolitical resolution can flip the FTD catalyst picture as fast as escalation destroys it. Confirm, don't anticipate — the Iran "almost-done" narrative has appeared 6+ times since April.**
+Jun 10: military strikes → new market low. Jun 11 PM: Iran "deal close" → Dow +929 pts. Jun 12 EOD: Pakistan PM confirms "final agreed text," Trump says signs "this weekend" → Day 2 confirmed. From rally DEAD to Day 2 with strong catalyst in 48 hours. This is why FTD confirmation is non-negotiable: only a verified +1.25%+ close on confirmed above-avg volume upgrades state — not a headline, not a futures move, not a prediction market probability.
+
+**Lesson 3 — Strategy: DELL is declining despite genuine fundamental catalysts. Proxy catalyst weak reactions (Proposal 11) are accumulating — the L-letter deterioration is real.**
+DELL: IREN $1.6B AI deal (Jun 11) → +5.26% that session. Oracle $70B capex = AI server demand validated at the highest level. Yet DELL is −15–18% from ATH $465.96 Jun 1 in 6 weeks, with Silver Lake selling ongoing. Score: 74/100 but the L-letter component is actively declining. Per Proposal 11 logic: major proxy catalysts not translating to sustained outperformance = institutional distribution. If DELL scores ≤70 on Jun 15 re-score: demote to watch-only immediately. Do not hold a "close to threshold" bench name that is clearly deteriorating.
+
+### Proposed Rule Changes
+
+**Proposal 15 — NEW: Explicit geopolitical binary flag during active conflict periods.**
+When a military conflict involving major oil-supply chokepoints (Strait of Hormuz, Suez Canal) or nuclear-armed states is active and ongoing, append `⚠️ GEOPOLITICAL_BINARY_ACTIVE` to all /pre-market rally-attempt assessments. This flag does NOT change any entry rules — it surfaces the binary risk in the session header rather than buried in a narrative paragraph. Applies until conflict formally resolves or state upgrades via FTD.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–14 from prior weeks:** ALL still pending Jason approval.
+Priority ranking:
+1. **Proposal 12** (date-explicit query before logging EOD state changes) — directly caused Jun 5 error; informally applied this week with measurably better data quality. Formalize now.
+2. **Proposal 1** (Alpaca API health check at /pre-market Step 0) — Day 91, 18 weeks overdue
+3. **Proposal 5** (API-down escalation SLA) — Day 91
+4. **Proposal 11** (proxy catalyst reaction test) — DELL's IREN/Oracle non-response provides second strong validation
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🔴 Market in Correction (6/25 dist days: May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10). ALL new long entries blocked. Rally attempt Day 2 confirmed. FTD window: Day 4 = **Jun 16 (FOMC ⚠️ — no entries before 1 PM CT)**, Day 5 = Jun 17, Day 6 = Jun 18, Day 7 = **Jun 19**. Iran deal "final text agreed" — if formally signed Mon Jun 15 = strongest FTD catalyst since April 8. May 15 dist expires Jun 19 → 5/25 (state REMAINS CORRECTION until FTD regardless).
+- **Sectors in focus:**
+  1. XLK (NVDA, DELL): DELL re-score /weekly-prep Jun 15 — may fall to ≤70 (Silver Lake + L-letter decline). NVDA base: Aug 2026+ timeline.
+  2. XLE: Update sector rankings — Iran Hormuz reopening = oil compression. XLE may drop from top-3.
+  3. XLK (innovation): SPCX IPO success = tech innovation premium intact. Monitor as sentiment indicator.
+- **Calendar risks:**
+  - ⚠️ FOMC Jun 16-17: NO entries before 1 PM CT Jun 16 (Day 4 of FTD window).
+  - Day 3 Jun 15 (Mon): S&P must hold above 7,266.99 or rally resets again.
+  - Iran deal signing Mon/Tue: signed = gap-up FTD setup; failed = oil premium returns.
+  - May 15 dist expires Jun 19 → 5/25. Does NOT upgrade state.
+  - DELL re-score Jun 15: key diagnostic for thesis integrity.
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (ALL blocked by Correction). SH hedge $625 QUEUED — Alpaca Day 91 BLOCKED. Execute SH FIRST on Alpaca restore.
+- **Emotional state check:** DISCIPLINED. Nine consecutive 0-trade weeks. Correction + Alpaca blocked creates zero temptation to improvise. Week closes with the strongest FTD setup since April 8 (Iran deal + Day 2 rally + FOMC window). Capital at $2,500 HWM. Wait for FTD confirmation on confirmed price + volume, restore Alpaca, SH hedge first, then build watchlist for the new uptrend. Patience is the position.
