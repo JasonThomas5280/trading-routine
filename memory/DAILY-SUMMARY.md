@@ -2668,3 +2668,8 @@ Removed: none
 Key catalysts: SpaceX Nasdaq IPO $75B/$1.77T (largest ever, capital absorption) | Iran 60d ceasefire ext (fragile, 38% signing odds, oil below $90) | DELL $1.6B IREN AI deal (N-letter +) | AVGO CFO change (neutral) | NVDA ~$206 pre-mkt +0.62% | FOMC Jun 16-17 (4d)
 Rally attempt: Day 2 — must hold >7,266.99 | FTD window: Jun 16–19
 Plan: NO entries — Correction + Alpaca Day 90 blocked. Watch: Iran deal signing/breakdown, SpaceX IPO market character, S&P rally low hold.
+
+---
+## 2026-06-12 15:13 CT [clickup-placeholder]
+
+Market-check 2026-06-12 10:00 AM CT | Market: CORRECTION Day 2 rally INTACT | Circuit breakers: NONE | Actions: NONE (Correction + Alpaca Day 90 blocked) | S&P ~flat ~7393 >> 7266.99 | Dow +0.57% Nasdaq -0.30% (SPCX IPO drag) | SPCX IPO ~172 +27% largest IPO ever | Iran IAEA breach fragile ceasefire | FTD window Jun 16-19 | FOMC Jun 16-17 | Watchlist: 0 ready 2 bench NVDA-72 DELL-74 | 0 positions 100pct cash | Weekly trades: 0/3 | Next: /eod-review 3:15 PM CT

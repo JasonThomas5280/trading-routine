@@ -9449,3 +9449,74 @@ TRIGGERED by Correction state → QUEUED $625 / 25% portfolio (SH preferred over
 `research_source: websearch_fallback` | Alpaca Day 90 | Perplexity 403 | AV 403
 
 ---
+
+---
+
+## 2026-06-12 (Fri) — /market-check (10:00 AM CT) — DAY 2 RALLY INTACT — SPCX IPO +27% — IAEA IRAN BREACH — ALPACA DAY 90 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 90; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** | ALL LONG ENTRIES BLOCKED
+**FTD status:** NOT CONFIRMED. Day 2 rally attempt INTACT. FTD window: Day 4 = Jun 16 (FOMC ⚠️) — Day 7 = Jun 19.
+
+### Market conditions (10 AM CT / 11 AM ET)
+
+| Indicator | Level | Notes |
+|---|---|---|
+| S&P 500 | ~flat (~7,393) | Day 2 rally INTACT (>> 7,266.99 rally low by 127+ pts) |
+| Dow Jones | +0.57% | Defensive/cyclical rotation |
+| Nasdaq | −0.30% | SpaceX SPCX IPO capital absorption drag |
+| Russell 2000 | +0.30% | Small-cap mild positive |
+| SpaceX SPCX IPO | ~$172 (+27% vs $135 offer) | World's largest IPO; $1.77T+ valuation; Nasdaq absorption effect |
+| Iran ceasefire | ANNOUNCED Jun 11 (Trump) | BUT IAEA declared Iran in breach Jun 12 ⚠️ — ceasefire FRAGILE |
+| Oil | <$90 | Hormuz reopening priced in; positive for inflation |
+
+### Abort gates — ALL FIRED
+
+1. 🔴 Market in Correction → ALL long entries BLOCKED
+2. Alpaca Day 90 BLOCKED (403 "Host not in allowlist") → no execution possible
+
+**No trades evaluated. No entries possible.**
+
+### Watchlist status (primary)
+
+**ZERO primary items** — nothing to trigger. Correction blocks all long entries regardless.
+
+### Bench status
+
+| Symbol | Price (est.) | Score | Status | Notes |
+|---|---|---|---|---|
+| NVDA | ~$204–207 (range $201.61–$207.22) | 72/100 | 🟡 BENCH | Base NOT complete; right side slow recovery; ~22 trading days; no handle; no pivot. Timeline Aug 2026+. Nasdaq drag −0.30% today. |
+| DELL | ~$375–390 est. | 74/100 ⚠️ | 🟡 BENCH-WEAKENING | Jun 11 +5.26% on IREN $1.6B AI deal + Oracle $70B capex. Silver Lake selling ongoing. No base. Re-score /weekly-prep Sun Jun 15. |
+| AVGO | ~$382–385 (+0.84%) | 55/100 | Watch-only | CFO transition effective today (Spears retired → Thuener ex-Alphabet VP). SpaceX outflows moderating. Not actionable. |
+
+### Bench promotion check
+
+- NVDA: No defined pivot. Base NOT complete. → **NO promotion**
+- DELL: No defined pivot. Continuing weakness from ATH $465.96. → **NO promotion**
+- AVGO: 55/100 watch-only. → **NO promotion**
+
+### Open positions — intraday sell-rules check
+
+**0 open positions — sell-rules-engine SKIPPED (empty batch)**
+
+### SH/SQQQ hedge
+
+QUEUED: SH $625 / 25% portfolio — Correction protocol ACTIVE | **Alpaca Day 90 BLOCKED** | Execute FIRST on Alpaca restore
+
+### Circuit breakers
+
+ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+
+### Key watches for /eod-review (3:15 PM CT)
+
+1. **Jun 12 close**: holds above 7,266.99 = Day 2 confirmed ✅ | S&P ≥−0.20% on vol = Dist #7 (7/25) | Dist still 6/25 regardless (REMAINS CORRECTION)
+2. **Iran IAEA breach**: escalation risk — Israel may act independently (per search context Jun 13 risk)
+3. **SPCX closing price**: confirm IPO success / any IPO overhang selling
+4. **Nasdaq close**: extent of SpaceX capital absorption on tech
+5. **FOMC**: Jun 16-17 in 4 days — no new entries before 1 PM CT Jun 16
+
+### Actions taken
+
+**NONE** — Correction + Alpaca Day 90 blocked
+
+`research_source: websearch_fallback` | Alpaca Day 90 | Perplexity 403 | AV 403
