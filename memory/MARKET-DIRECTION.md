@@ -6,9 +6,9 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 11 /eod-review 3:15 PM CT: S&P +1.74% ~7,393 (DAY 1 CONFIRMED from Jun 10 low 7,266.99) | Dow +1.87% ~50,848 | Nasdaq +2.53% | Iran "deal close" signals → energy fell, tech/industrials led | NOT dist day ✅ | dist 6/25 UNCHANGED | CORRECTION UNCHANGED (needs FTD Day 4-7) | FTD window Day 4=Jun 16 FOMC⚠️ Day 7=Jun 19 | Alpaca Day 89 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 12 /pre-market 6:00 AM CT: Day 2 rally attempt | Iran 60-day ceasefire extension (fragile, 38% signing odds) | Oil <$90 | SpaceX Nasdaq IPO $75B today (largest ever) | Polymarket 83% open higher | NVDA ~$206 pre-mkt +0.62% | DELL IREN $1.6B AI deal | AVGO CFO change | dist 6/25 UNCHANGED | CORRECTION UNCHANGED (needs FTD Day 4-7) | FTD window Day 4=Jun 16 FOMC⚠️ Day 7=Jun 19 | Alpaca Day 90 BLOCKED)*
 
-**Last updated:** 2026-06-11 (Thu) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED | S&P +1.74% ~7,393 DAY 1 CONFIRMED | Dow +1.87% 50,848 | Nasdaq +2.53% | Iran deal signals | dist 6/25 UNCHANGED | FTD threshold ~7,357.82 (already exceeded) | FTD window Jun 16–19 | FOMC Jun 16-17 | ALPACA DAY 89 BLOCKED**
+**Last updated:** 2026-06-12 (Fri) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED | DAY 2 RALLY ATTEMPT | Iran 60d ceasefire ext (fragile) | Oil <$90 | SpaceX IPO Nasdaq today | Polymarket 83% open higher | dist 6/25 UNCHANGED | FTD window Jun 16–19 | FOMC Jun 16-17 | ALPACA DAY 90 BLOCKED**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Needs FTD to upgrade
 **Distribution days: 6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Jun 11 UP day = NOT dist ✅ | Count UNCHANGED | May 7 EXPIRED Jun 11 confirmed
 **Rally attempt:** ✅ **Day 1 CONFIRMED (Jun 11)** — S&P close ~7,393 (+1.74%) from Jun 10 close 7,266.99 ✅ | Iran "deal close" signals drove afternoon strength | **FTD threshold: ~7,357.82** (7,266.99 × 1.0125 — ALREADY EXCEEDED by Jun 11 close ~7,393) | **FTD window:** Day 4 = **Jun 16 (FOMC ⚠️)**, Day 5 = Jun 17, Day 6 = Jun 18, Day 7 = **Jun 19** | FTD requires +1.25%+ on that session's own move on above-avg vol | No entries before 1 PM CT Jun 16
@@ -25,6 +25,27 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 12 PRE-MARKET (/pre-market 6:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 2 RALLY ATTEMPT — IRAN 60-DAY CEASEFIRE EXT (FRAGILE) — OIL <$90 — SPACEX NASDAQ IPO $75B TODAY — POLYMARKET 83% OPEN HIGHER — ALPACA DAY 90 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | State UNCHANGED — needs FTD to upgrade
+- **ES/NQ pre-market lean:** POSITIVE — Polymarket 83% probability S&P opens higher Jun 12 | Iran 60-day ceasefire extension | Oil below $90 | SpaceX Nasdaq IPO enthusiasm | Specific ES/NQ pre-mkt levels unavailable (Alpaca/data feeds blocked) | Prior session ES data showed selling mid-week recovered by Jun 11 close (+1.74%)
+- **Iran (Day 2 after deal signals Jun 11):** Trump announced 60-day ceasefire extension to facilitate comprehensive talks | Iran foreign ministry: "no final decision reached" | Prediction market odds for Jun 12 deal signing: **38%** (down from prior highs) | Intermittent violations persist | Oil below $90 (positive) | **Risk: ceasefire fragile — breakdown = oil spike = potential dist day #7**
+- **SpaceX Nasdaq IPO:** $75B raise @ $1.77T valuation = **LARGEST IPO IN HISTORY** | Capital absorption: institutional funds redirecting to IPO allocation → ongoing AVGO/tech outflows | Enthusiasm effect: Nasdaq growth narrative + innovation premium boosted | Net: mixed; watch tech sector character
+- **Rally attempt — Day 2 (Jun 12):** Day 1 = Jun 11 close ~7,393 ✅ | Day 2 = today — must hold above 7,266.99 (rally low) | FTD threshold: **~7,357.82** (ALREADY EXCEEDED by Day 1 close) | Any Day 4-7 close +1.25%+ on above-avg vol = FTD
+- **FTD window:** Day 2=Jun 12 | Day 3=Jun 15 (Mon) | Day 4=**Jun 16 (FOMC ⚠️)** | Day 5=Jun 17 | Day 6=Jun 18 | Day 7=**Jun 19** | No entries before 1 PM CT Jun 16
+- **Watchlist price estimates (pre-market):**
+  - NVDA: ~$206.15 pre-mkt (+0.62% from $204.87) | KKR/Helix $10B+ AI infrastructure fund | Abridge medical AI partnership | Base NOT complete | 72/100 UNCHANGED | 🟡 BENCH
+  - DELL: ~$370 est. | **$1.6B IREN Limited AI systems deal** (positive N-letter) | New credit facility | Silver Lake selling ongoing | 74/100 ⚠️ | Re-score /weekly-prep Sun Jun 15 | 🟡 BENCH-WEAKENING
+  - AVGO: ~$385-390 est. | **CFO Kirsten Spears retired Jun 12** (successor: Amie Thuener, ex-Alphabet VP) | +3.31% Jun 11 | SpaceX IPO outflows continuing | 55/100 watch-only
+- **0 candidates ≥75** | 0 primary watchlist items | 0 open positions
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **Hedge check:** SH/SQQQ $625 QUEUED (Correction protocol ACTIVE — state UNCHANGED) | Alpaca Day 90 BLOCKED | Execute FIRST on Alpaca restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Distribution days today (Jun 12):** Cannot determine pre-market | UP day at close → NOT dist | DOWN ≥-0.20% on vol → **DIST #7 → 7/25** (REMAINS CORRECTION)
+- **Actions: NONE** (Correction + Alpaca Day 90 blocked + 0 positions)
+- **Watch at /market-check 10:00 AM CT:** (1) Iran deal status — signing = FTD catalyst, breakdown = oil/dist risk (2) SpaceX IPO market character impact (3) S&P holds above 7,266.99 rally low (4) FOMC Jun 16-17 in view
+- **Dist expiry path:** May 15 → ~Jun 19 → 5/25 | May 19 → ~Jun 23 → 4/25 | Jun 3 → ~Aug 8 → 3/25 | Jun 5 → ~Aug 10 → 2/25 | Jun 9 → ~Aug 12 → 1/25 | Jun 10 → ~Aug 13 → 0/25 | **State REMAINS CORRECTION until FTD regardless**
+- `research_source: websearch_fallback` | Alpaca Day 90 | Perplexity 403 | AV 403
 
 **✅ JUN 11 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — DAY 1 CONFIRMED +1.74% — IRAN "DEAL CLOSE" SIGNALS — DIST 6/25 UNCHANGED — ALPACA DAY 89 BLOCKED):**
 - **Jun 11 close (CONFIRMED via TheStreet/multiple sources):** S&P 500 ~**7,393 (+1.74%** from 7,266.99 Jun 10 close ✅) | "closed shy of 7,400" | Dow **50,848.38 (+1.87%, +929 pts — back above 50K ✅)** | Nasdaq **+2.53%** | QQQ est. **~$711** (+2.53% from revised Jun 10 close $693.69; consistent with day range $687.41–$711.26) | `research_source: websearch_fallback` | **Alpaca blocked Day 89**

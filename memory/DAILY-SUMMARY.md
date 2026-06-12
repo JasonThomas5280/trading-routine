@@ -2655,3 +2655,16 @@ FTD window: Day 4=Jun 16 (FOMC⚠️) — Day 7=Jun 19 | threshold 7,357.82 ALRE
 Iran: deal signals → energy down, tech/industrials led | Nasdaq +2.53% | Dow +1.87% 50,848
 SH hedge: QUEUED $625 — blocked (Alpaca Day 89) — execute FIRST on restore
 Tomorrow: Jun 12=Day 2 | watch Iran overnight | FOMC Jun 16-17 (no entries <1PM CT Jun 16)
+
+---
+## 2026-06-12 11:09 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-12
+Market: 🔴 Correction (6/25 dist) | ES/NQ: +lean (Polymarket 83% open higher)
+Open positions: 0 | Circuit breakers: NONE active
+Overnight gaps: N/A (0 positions)
+Watchlist ready: NONE | Watchlist watching: NONE (NVDA 72/100 bench, DELL 74/100 bench-weakening)
+Removed: none
+Key catalysts: SpaceX Nasdaq IPO $75B/$1.77T (largest ever, capital absorption) | Iran 60d ceasefire ext (fragile, 38% signing odds, oil below $90) | DELL $1.6B IREN AI deal (N-letter +) | AVGO CFO change (neutral) | NVDA ~$206 pre-mkt +0.62% | FOMC Jun 16-17 (4d)
+Rally attempt: Day 2 — must hold >7,266.99 | FTD window: Jun 16–19
+Plan: NO entries — Correction + Alpaca Day 90 blocked. Watch: Iran deal signing/breakdown, SpaceX IPO market character, S&P rally low hold.

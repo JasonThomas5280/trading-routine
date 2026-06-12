@@ -9335,3 +9335,117 @@ TRIGGERED by Correction state → QUEUED $625 / 25% portfolio (SH preferred over
 - FOMC Jun 16-17: Kevin Warsh — no entries before 1 PM CT Jun 16
 - May 15 dist expires ~Jun 19 → 5/25 (still Correction until FTD)
 - 🚨 Alpaca restore: Day 89 blocked — CRITICAL for SH hedge + any future entries
+
+---
+
+## 2026-06-12 (Fri) — /pre-market (6:00 AM CT) — DAY 2 RALLY ATTEMPT — IRAN 60-DAY CEASEFIRE EXT — SPACEX IPO NASDAQ DEBUT — OIL <$90
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 90; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** | NO new long entries | Day 2 of rally attempt
+**Sell-rules-engine:** SKIPPED — 0 open positions (empty batch)
+
+### Market Overnight Check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| S&P 500 (Jun 11 close) | ~7,393 (+1.74%) | Confirmed ✅ — Day 1 of rally attempt |
+| ES futures (Jun 12 pre-mkt lean) | Positive (+est.) | Polymarket 83% probability open higher Jun 12 |
+| NQ futures (Jun 12 pre-mkt lean) | Positive (+est.) | SpaceX Nasdaq IPO + Iran deal progress = tech enthusiasm |
+| Iran ceasefire | 60-day extension announced | Trump announced further 60-day ceasefire Jun 11; Iranian officials: "no final decision reached"; prediction market odds for Jun 12 signing fell to 38% |
+| Oil (WTI) | Below $90 | Down from $90-95 range — positive for inflation relief |
+| SpaceX IPO | Nasdaq debut TODAY | Raising $75B @ $1.77T valuation = **largest IPO in history** — capital absorption headwind for existing tech names; enthusiasm tailwind for Nasdaq broadly |
+| FOMC | Jun 16-17 (4 trading days) | Kevin Warsh first meeting; no entries before 1 PM CT Jun 16 |
+
+**Market lean:** POSITIVE — Iran 60-day ceasefire + oil below $90 + Polymarket 83% open higher. Key risk: Iran deal fragility (38% Jun 12 signing odds), SpaceX IPO capital absorption, FOMC uncertainty.
+
+### Overnight Gap Check on Open Positions
+
+**0 open positions — gap check SKIPPED.** ✅
+
+### Catalyst Scan — Open Positions
+
+**No open positions — SKIPPED.** ✅
+
+### Catalyst Scan — Watchlist Names
+
+**NVDA (~$206.15 pre-mkt, +0.62% from $204.87 close):**
+- KKR + Nvidia + Vistra + Kuwait Investment Authority committed $10B+ to Helix Digital Infrastructure (new AI infrastructure fund)
+- Abridge medical AI partnership (AI note-taking for doctors)
+- Stock recovering from ~$260B market cap loss earlier in week
+- No earnings, no guidance, no rating changes overnight
+- **Verdict:** Incremental N-letter positives (AI infrastructure investment, new vertical). No score change. Base NOT complete. 72/100 UNCHANGED. 🟡 BENCH.
+
+**DELL (~$370 est. Jun 11 close, est. pre-mkt flat-to-up):**
+- **$1.6B agreement with IREN Limited for AI systems** — positive N-letter catalyst (AI server demand confirmed by another large customer)
+- New revolving credit facility established (~Jun 11) — balance sheet management, neutral
+- Jun 11: DELL among "AI Hardware and Chip Stocks Rising Today" (confirmed +1.5-2.5%)
+- Silver Lake affiliate selling still ongoing (supply overhang — negative)
+- Revenue $113.54B FY2026 (+18.8% YoY), earnings $5.94B (+29.3%)
+- **Verdict:** IREN deal is positive confirmation of AI server demand thesis (N-letter intact). Silver Lake selling continues (S-letter drag). No score change — re-score still flagged for /weekly-prep Sun Jun 15. 74/100 UNCHANGED. 🟡 BENCH - WEAKENING. Correction blocks entry regardless.
+
+**AVGO (~$385-390 est. Jun 11 close):**
+- **CFO Kirsten Spears retired effective Jun 12** — succeeded by Amie Thuener (ex-Alphabet VP Corporate Controller/Chief Accounting Officer)
+- CFO transition = NEUTRAL-TO-SLIGHTLY NEGATIVE (leadership uncertainty offset by Alphabet pedigree)
+- AVGO +3.31% Jun 11 on Nasdaq rebound
+- Q2 AI semiconductor revenue ~$10.8B (+143% YoY), Q3 AI chip revenue guidance >$16B — already in score
+- SpaceX IPO: ongoing capital absorption (SpaceX IPO outflows previously logged — persists today)
+- **Verdict:** CFO change is watch item, not thesis-breaking. Score 55/100 UNCHANGED. Watch-only.
+
+### Rally Attempt Status
+
+| Day | Date | Level | Status |
+|---|---|---|---|
+| Day 1 | Jun 11 | S&P ~7,393 (+1.74%) | ✅ CONFIRMED |
+| Day 2 | Jun 12 | TBD — must hold > 7,266.99 | IN PROGRESS |
+| Day 3 | Jun 15 (Mon) | — | — |
+| Day 4 | **Jun 16 (FOMC ⚠️)** | FTD threshold: ~7,357.82 (already exceeded by Day 1) | FTD eligible — no entries before 1 PM CT |
+| Day 5 | Jun 17 | — | FTD eligible |
+| Day 6 | Jun 18 | — | FTD eligible |
+| Day 7 | Jun 19 | — | FTD eligible (last day) |
+
+**FTD threshold already exceeded** (Jun 11 close ~7,393 > 7,357.82). Any Day 4-7 close up +1.25%+ on above-avg vol = FTD confirmed.
+
+### Buy-Zone Readiness
+
+| Symbol | Est. Pre-mkt | Pivot | Distance | Catalyst | Status |
+|---|---|---|---|---|---|
+| NVDA | ~$206.15 | Undefined (no base) | N/A — base incomplete | KKR/Helix $10B+ (incremental +) | 🔴 NO BASE / CORRECTION |
+| DELL | ~$370 est. | Undefined (no base) | N/A — no base | IREN $1.6B deal (+) / Silver Lake selling (−) | 🔴 NO BASE / CORRECTION |
+| AVGO | ~$385-390 est. | Undefined (no base) | N/A — no base | CFO change (neutral/watch) | 🔴 NO BASE / CORRECTION / 55/100 |
+
+**0 candidates READY (🟢). 0 candidates WATCHING (🟡). All blocked by Correction + no defined pivots.**
+
+### Circuit Breaker Check
+
+| Breaker | Status |
+|---|---|
+| -3% single day | ✅ CLEAR — $0 P&L (no positions) |
+| -6% weekly | ✅ CLEAR — $0 P&L |
+| -12% drawdown | ✅ CLEAR — 0% drawdown from $2,500 HWM |
+| PDT count | ✅ CLEAR — 0/3 |
+| Alpaca API down | ⚠️ ACTIVE — Day 90 (403 "Host not in allowlist") |
+
+**No circuit breakers active** (excluding Alpaca block which is infrastructure, not P&L-based).
+
+### Key Risks Today
+
+1. **Iran deal fragility** — 60-day ceasefire extension announced but Iranians say "no final decision." Prediction market odds for Jun 12 signing fell to 38%. Breakdown = oil spike = potential dist day #7 → Correction continues deeper
+2. **SpaceX IPO capital absorption** — $75B largest IPO in history draining institutional capital from existing tech/Nasdaq names (AVGO outflows already noted)
+3. **FOMC Jun 16-17 (4 days)** — Kevin Warsh first meeting; no entries before 1 PM CT Jun 16; potential FTD on FOMC day complicated
+4. **Day 2 rally low** — S&P must hold above 7,266.99 or rally attempt resets
+
+### Actions
+
+**NONE.** Correction + Alpaca Day 90 blocked. No execution possible.
+
+### Pre-Market Priorities
+
+1. 🚨 Alpaca restore: Day 90 CRITICAL — SH $625 hedge FIRST order on restore
+2. Monitor Iran deal: confirmed signing = FTD accelerant; collapse = oil spike + dist day risk
+3. FTD countdown: Day 4 = Jun 16 (FOMC), Day 7 = Jun 19
+4. DELL re-score prep for /weekly-prep Sun Jun 15 (74/100; IREN deal + Silver Lake selling = mixed)
+5. SpaceX IPO watch for tech sector capital rotation impact
+
+`research_source: websearch_fallback` | Alpaca Day 90 | Perplexity 403 | AV 403
+
+---
