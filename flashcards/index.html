@@ -26,14 +26,25 @@
         <p class="subtitle">Master your multiplication with snappy, beautiful flashcards.</p>
       </header>
 
+      <div class="profile" id="profile">
+        <div class="lvl" id="lvlBadge">Lv 1</div>
+        <div class="xp">
+          <div class="xp-fill" id="xpFill"></div>
+          <span class="xp-text" id="xpText">0 / 100 XP</span>
+        </div>
+        <div class="badges" id="badgeCount" title="Achievements earned">🏅 0</div>
+      </div>
+
       <div class="card-panel">
         <h2 class="panel-title">Pick your tables</h2>
         <div id="tableGrid" class="table-grid" role="group" aria-label="Choose times tables"></div>
+        <div id="mastery" class="mastery"></div>
         <div class="quick-row">
           <button class="chip" data-select="all">Select all</button>
           <button class="chip" data-select="none">Clear</button>
           <button class="chip" data-select="easy">Easy (1–5)</button>
           <button class="chip" data-select="hard">Tricky (6–12)</button>
+          <button class="chip chip-focus" data-select="weak">⚡ My tricky ones</button>
         </div>
       </div>
 
@@ -100,6 +111,8 @@
         </div>
       </div>
 
+      <div id="timerBar" class="timer-bar"><div id="timerFill" class="timer-fill"></div></div>
+
       <!-- Multiple choice answers -->
       <div id="choices" class="choices"></div>
 
@@ -132,12 +145,14 @@
         <div id="reviewWrap" class="review-wrap"></div>
         <div class="result-actions">
           <button id="againBtn" class="btn-primary">Play again ▸</button>
+          <button id="reviewBtn" class="btn-ghost" hidden>Practice missed</button>
           <button id="menuBtn" class="btn-ghost">Menu</button>
         </div>
       </div>
     </section>
   </main>
 
+  <div id="toastWrap" class="toast-wrap" aria-live="polite"></div>
   <canvas id="confetti" class="confetti" aria-hidden="true"></canvas>
 
   <script src="app.js"></script>

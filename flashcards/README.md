@@ -27,14 +27,20 @@ cd flashcards && python3 -m http.server 8000
   - 🃏 **Flip Cards** — self-check, tap to reveal (or press `Space`)
 - **Pick your tables** — any combination of 1–12, with Easy / Tricky shortcuts
 - **Round length** — 10, 20, or endless (∞)
+- **Adaptive practice** — tracks accuracy per fact and weights each round toward
+  your weak/unseen facts. A live **Mastery %** shows progress per table, and
+  ⚡ **My tricky ones** auto-selects your four weakest tables.
+- **Progression**
+  - ✨ **XP + levels** with a level-up celebration (XP bar on the home screen)
+  - 🏅 **Achievements** — Flawless, Sharpshooter, On Fire, Speed Demon, Centurion, Dedicated
 - **Engaging UX**
   - Animated 3D card flips, shake-on-wrong, glow-on-right
-  - 🔥 Streak meter with escalating score bonuses
-  - Confetti + sound effects (Web Audio, no files)
-  - Live progress bar and per-card timing
-- **Results screen** — accuracy, best streak, avg time per card, and a
-  "worth another look" list of every missed fact
-- **Persistent best scores** via `localStorage` (best %, top streak, rounds played)
+  - 🔥 Streak meter with escalating score bonuses + ⚡ speed bonuses (timer bar)
+  - Confetti, sound effects (Web Audio), and 📳 haptic feedback on supported phones
+  - Live progress bar and per-card timing; toast notifications
+- **Results screen** — accuracy, best streak, avg time per card, a
+  "worth another look" list, and a one-tap **Practice missed** replay
+- **Remembers your setup** (tables, mode, length) and all stats via `localStorage`
 - **Responsive** and touch-friendly — works great on phones
 
 ## Files

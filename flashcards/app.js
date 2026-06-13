@@ -1,21 +1,26 @@
 /* ✦ Times Tables — multiplication flashcards
-   Vanilla JS, no dependencies. State machine: setup → quiz → results. */
+   Vanilla JS, no dependencies. State machine: setup → quiz → results.
+   v2: XP/levels, adaptive practice, achievements, speed bonuses,
+       haptics, persisted settings, "practice missed" replay. */
 
 (() => {
   "use strict";
 
   // ---------- element refs ----------
   const $ = (id) => document.getElementById(id);
-  const screens = {
-    setup: $("setup"),
-    quiz: $("quiz"),
-    results: $("results"),
-  };
+
+  const screens = { setup: $("setup"), quiz: $("quiz"), results: $("results") };
 
   const tableGrid = $("tableGrid");
   const modeRow = $("modeRow");
   const lengthSeg = $("lengthSeg");
   const bestStrip = $("bestStrip");
+  const masteryEl = $("mastery");
+
+  const lvlBadge = $("lvlBadge");
+  const xpFill = $("xpFill");
+  const xpText = $("xpText");
+  const badgeCount = $("badgeCount");
 
   const flashcard = $("flashcard");
   const questionEl = $("question");
@@ -25,33 +30,67 @@
   const typeForm = $("typeForm");
   const typeInput = $("typeInput");
   const flipControls = $("flipControls");
+  const timerBar = $("timerBar");
+  const timerFill = $("timerFill");
 
   const progressFill = $("progressFill");
   const streakBadge = $("streakBadge");
   const streakNum = $("streakNum");
   const qCount = $("qCount");
   const scoreNum = $("scoreNum");
+  const toastWrap = $("toastWrap");
 
   // ---------- config ----------
-  const TABLES = Array.from({ length: 12 }, (_, i) => i + 1); // 1..12
-  const STORE_KEY = "timesTables.v1";
+  const TABLES = Array.from({ length: 12 }, (_, i) => i + 1);
+  const STORE_KEY = "timesTables.v2";
+  const CARD_SECONDS = 7; // timer-bar fill duration (cosmetic urgency, no fail)
 
-  const settings = {
-    tables: new Set([2, 3, 4, 5]),
-    mode: "choice", // choice | type | flip
-    length: 10, // 0 = endless
+  const ACHIEVEMENTS = {
+    first_perfect: { emoji: "🏆", name: "Flawless", desc: "100% in a round" },
+    sharpshooter:  { emoji: "🎯", name: "Sharpshooter", desc: "90%+ in a round" },
+    streak_10:     { emoji: "🔥", name: "On Fire", desc: "10-answer streak" },
+    speed_demon:   { emoji: "⚡", name: "Speed Demon", desc: "Correct under 1.2s" },
+    centurion:     { emoji: "💯", name: "Centurion", desc: "100 correct all-time" },
+    dedicated:     { emoji: "📚", name: "Dedicated", desc: "Played 10 rounds" },
   };
+
+  // ---------- persistent store ----------
+  const defaultStore = () => ({
+    bestPct: 0, bestStreak: 0, games: 0,
+    xp: 0, totalCorrect: 0,
+    facts: {},            // "axb" -> { s: seen, c: correct }
+    achievements: {},     // id -> true
+    settings: { tables: [2, 3, 4, 5], mode: "choice", length: 10 },
+  });
+  function loadStore() {
+    try { return Object.assign(defaultStore(), JSON.parse(localStorage.getItem(STORE_KEY)) || {}); }
+    catch { return defaultStore(); }
+  }
+  function saveStore() { try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch {} }
+  const store = loadStore();
+
+  // ---------- live settings (mirror of store.settings) ----------
+  const settings = {
+    tables: new Set(store.settings.tables),
+    mode: store.settings.mode,
+    length: store.settings.length,
+  };
+  function persistSettings() {
+    store.settings = { tables: [...settings.tables], mode: settings.mode, length: settings.length };
+    saveStore();
+  }
+
+  // ---------- level math ----------
+  const levelFromXp = (xp) => Math.floor(Math.sqrt(xp / 40)) + 1;
+  const xpForLevel = (lvl) => 40 * (lvl - 1) ** 2;
+  const factKey = (a, b) => `${a}x${b}`;
 
   // ---------- game state ----------
   let deck = [];
-  let idx = 0;
-  let score = 0;
-  let streak = 0;
-  let bestStreakRound = 0;
-  let locked = false;
-  let cardStart = 0;
-  let totalTime = 0;
-  let answered = 0;
+  let idx = 0, score = 0, streak = 0, bestStreakRound = 0;
+  let locked = false, cardStart = 0, totalTime = 0, answered = 0;
+  let roundXp = 0, fastCorrect = false;
+  let lastMissed = [];
   const missed = [];
 
   // ===================================================================
@@ -69,24 +108,65 @@
         else settings.tables.add(n);
         b.classList.toggle("is-on");
         b.setAttribute("aria-pressed", settings.tables.has(n));
+        persistSettings(); renderMastery();
       });
       tableGrid.appendChild(b);
     });
   }
 
-  function applyQuickSelect(kind) {
-    const map = {
-      all: TABLES,
-      none: [],
-      easy: [1, 2, 3, 4, 5],
-      hard: [6, 7, 8, 9, 10, 11, 12],
-    };
-    settings.tables = new Set(map[kind]);
+  function reflectTableGrid() {
     [...tableGrid.children].forEach((b) => {
       const on = settings.tables.has(+b.dataset.n);
       b.classList.toggle("is-on", on);
       b.setAttribute("aria-pressed", on);
     });
+  }
+
+  function applyQuickSelect(kind) {
+    if (kind === "weak") { selectWeakTables(); return; }
+    const map = { all: TABLES, none: [], easy: [1, 2, 3, 4, 5], hard: [6, 7, 8, 9, 10, 11, 12] };
+    settings.tables = new Set(map[kind]);
+    reflectTableGrid(); persistSettings(); renderMastery();
+  }
+
+  // Pick the (up to 4) tables with the lowest accuracy so far.
+  function selectWeakTables() {
+    const scored = TABLES.map((a) => {
+      let s = 0, c = 0;
+      for (let b = 1; b <= 12; b++) { const f = store.facts[factKey(a, b)]; if (f) { s += f.s; c += f.c; } }
+      const acc = s ? c / s : 1;        // unseen tables count as "mastered" so we don't force them
+      const seenWeight = s ? 0 : 1;     // tiebreak: prefer practised-but-weak
+      return { a, score: acc + seenWeight * 0.5, seen: s };
+    });
+    const weak = scored.filter((x) => x.seen > 0).sort((p, q) => p.score - q.score).slice(0, 4).map((x) => x.a);
+    settings.tables = new Set(weak.length ? weak : [6, 7, 8]);
+    reflectTableGrid(); persistSettings(); renderMastery();
+    if (!weak.length) toast("📊", "Play a few rounds first", "so I can spot your tricky ones");
+  }
+
+  function renderMastery() {
+    const tables = [...settings.tables];
+    if (!tables.length) { masteryEl.innerHTML = ""; return; }
+    let total = 0, sum = 0;
+    tables.forEach((a) => {
+      for (let b = 1; b <= 12; b++) {
+        total++;
+        const f = store.facts[factKey(a, b)];
+        sum += f && f.s ? f.c / f.s : 0;
+      }
+    });
+    const pct = total ? Math.round((sum / total) * 100) : 0;
+    masteryEl.innerHTML = `Mastery <div class="bar"><i style="width:${pct}%"></i></div> <b>${pct}%</b>`;
+  }
+
+  function renderProfile() {
+    const lvl = levelFromXp(store.xp);
+    const base = xpForLevel(lvl), nextAt = xpForLevel(lvl + 1);
+    const into = store.xp - base, span = nextAt - base;
+    lvlBadge.textContent = "Lv " + lvl;
+    xpFill.style.width = Math.round((into / span) * 100) + "%";
+    xpText.textContent = `${into} / ${span} XP`;
+    badgeCount.textContent = "🏅 " + Object.keys(store.achievements).length;
   }
 
   document.querySelectorAll(".quick-row .chip").forEach((c) =>
@@ -98,6 +178,7 @@
     if (!btn) return;
     settings.mode = btn.dataset.mode;
     modeRow.querySelectorAll(".mode-btn").forEach((b) => b.classList.toggle("is-on", b === btn));
+    persistSettings();
   });
 
   lengthSeg.addEventListener("click", (e) => {
@@ -105,10 +186,16 @@
     if (!btn) return;
     settings.length = +btn.dataset.len;
     lengthSeg.querySelectorAll("button").forEach((b) => b.classList.toggle("is-on", b === btn));
+    persistSettings();
   });
 
+  function reflectModeAndLength() {
+    modeRow.querySelectorAll(".mode-btn").forEach((b) => b.classList.toggle("is-on", b.dataset.mode === settings.mode));
+    lengthSeg.querySelectorAll("button").forEach((b) => b.classList.toggle("is-on", +b.dataset.len === settings.length));
+  }
+
   // ===================================================================
-  // DECK BUILDING
+  // DECK BUILDING (adaptive)
   // ===================================================================
   function shuffle(arr) {
     for (let i = arr.length - 1; i > 0; i--) {
@@ -118,41 +205,52 @@
     return arr;
   }
 
-  function buildDeck() {
-    const tables = [...settings.tables];
-    const pairs = [];
-    tables.forEach((a) => {
-      for (let b = 1; b <= 12; b++) pairs.push({ a, b, ans: a * b });
-    });
-    shuffle(pairs);
-
-    if (settings.length > 0) {
-      // Repeat/trim to exactly `length` cards.
-      const out = [];
-      while (out.length < settings.length) {
-        out.push(...shuffle(pairs.slice()));
-      }
-      return out.slice(0, settings.length);
-    }
-    return pairs; // endless = one shuffled pass, reshuffled when exhausted
+  // Weight = base + penalty for low accuracy + boost for unseen facts.
+  function factWeight(card) {
+    const f = store.facts[factKey(card.a, card.b)];
+    if (!f || !f.s) return 5;           // unseen → practise it
+    const acc = f.c / f.s;
+    return 1 + (1 - acc) * 6;           // weaker → much likelier
   }
 
-  // Build 4 plausible multiple-choice options around the answer.
+  function allPairs() {
+    const pairs = [];
+    [...settings.tables].forEach((a) => { for (let b = 1; b <= 12; b++) pairs.push({ a, b, ans: a * b }); });
+    return pairs;
+  }
+
+  function weightedPick(pool) {
+    const total = pool.reduce((s, x) => s + x.w, 0);
+    let r = Math.random() * total;
+    for (const x of pool) { r -= x.w; if (r <= 0) return x.p; }
+    return pool[pool.length - 1].p;
+  }
+
+  function buildDeck() {
+    const pairs = allPairs();
+    if (settings.length === 0) return shuffle(pairs); // endless = plain shuffle
+    const pool = pairs.map((p) => ({ p, w: factWeight(p) }));
+    const out = [];
+    let last = null, guard = 0;
+    while (out.length < settings.length) {
+      const pick = weightedPick(pool);
+      if (pairs.length > 1 && pick === last && guard++ < 8) continue; // avoid back-to-back repeats
+      out.push(pick); last = pick; guard = 0;
+    }
+    return out;
+  }
+
+  // Multiple-choice distractors.
   function buildChoices(card) {
     const correct = card.ans;
     const opts = new Set([correct]);
     const candidates = [
-      correct + card.a, correct - card.a,
-      correct + card.b, correct - card.b,
-      card.a * (card.b + 1), card.a * (card.b - 1),
-      (card.a + 1) * card.b, correct + 1, correct - 1,
-      correct + 2, correct + 10,
+      correct + card.a, correct - card.a, correct + card.b, correct - card.b,
+      card.a * (card.b + 1), card.a * (card.b - 1), (card.a + 1) * card.b,
+      correct + 1, correct - 1, correct + 2, correct + 10,
     ];
     shuffle(candidates);
-    for (const c of candidates) {
-      if (opts.size >= 4) break;
-      if (c > 0 && !opts.has(c)) opts.add(c);
-    }
+    for (const c of candidates) { if (opts.size >= 4) break; if (c > 0 && !opts.has(c)) opts.add(c); }
     let pad = 1;
     while (opts.size < 4) { if (correct + pad > 0) opts.add(correct + pad); pad++; }
     return shuffle([...opts]);
@@ -161,24 +259,23 @@
   // ===================================================================
   // QUIZ FLOW
   // ===================================================================
-  function startGame() {
-    if (settings.tables.size === 0) {
+  function startGame(customDeck) {
+    if (!customDeck && settings.tables.size === 0) {
       flash(bestStrip, "Pick at least one table to practise ✦");
       return;
     }
-    deck = buildDeck();
+    deck = customDeck || buildDeck();
     idx = 0; score = 0; streak = 0; bestStreakRound = 0;
-    answered = 0; totalTime = 0; missed.length = 0;
-    scoreNum.textContent = "0";
-    streakNum.textContent = "0";
+    answered = 0; totalTime = 0; roundXp = 0; fastCorrect = false; missed.length = 0;
+    scoreNum.textContent = "0"; streakNum.textContent = "0";
     show("quiz");
     renderCard();
   }
 
+  function roundLength() { return settings.length === 0 ? 0 : deck.length; }
+
   function currentCard() {
-    if (settings.length === 0 && idx >= deck.length) {
-      deck = buildDeck(); idx = 0; // endless reshuffle
-    }
+    if (settings.length === 0 && idx >= deck.length) { deck = buildDeck(); idx = 0; }
     return deck[idx];
   }
 
@@ -186,17 +283,15 @@
     locked = false;
     const card = currentCard();
 
-    // reset visuals
     flashcard.classList.remove("flipped", "shake", "correct-glow", "wrong-glow");
     questionEl.textContent = `${card.a} × ${card.b}`;
     answerReveal.textContent = card.ans;
 
-    // progress + counters
+    const len = roundLength();
     qCount.textContent = idx + 1;
-    const pct = settings.length === 0 ? ((idx % 20) / 20) * 100 : (idx / settings.length) * 100;
+    const pct = len === 0 ? ((idx % 20) / 20) * 100 : (idx / len) * 100;
     progressFill.style.width = pct + "%";
 
-    // hide all input modes
     choicesEl.style.display = "none";
     typeForm.classList.remove("is-active");
     flipControls.classList.remove("is-active");
@@ -206,6 +301,9 @@
     if (settings.mode === "choice") renderChoiceMode(card);
     else if (settings.mode === "type") renderTypeMode();
     else renderFlipMode();
+
+    if (settings.mode === "flip") stopTimer();
+    else startTimer();
 
     cardStart = performance.now();
   }
@@ -235,13 +333,32 @@
     flipHint.textContent = "tap to reveal";
   }
 
+  // ---------- timer bar ----------
+  function startTimer() {
+    timerBar.classList.add("is-on");
+    timerFill.style.transition = "none";
+    timerFill.style.transform = "scaleX(1)";
+    void timerFill.offsetWidth;
+    timerFill.style.transition = `transform ${CARD_SECONDS}s linear`;
+    timerFill.style.transform = "scaleX(0)";
+  }
+  function freezeTimer() {
+    const m = getComputedStyle(timerFill).transform;
+    timerFill.style.transition = "none";
+    timerFill.style.transform = m === "none" ? "scaleX(0)" : m;
+  }
+  function stopTimer() {
+    timerBar.classList.remove("is-on");
+    timerFill.style.transition = "none";
+    timerFill.style.transform = "scaleX(1)";
+  }
+
   // ---------- answer handlers ----------
   function handleChoice(btn, val, correct) {
     if (locked) return;
-    locked = true;
+    locked = true; freezeTimer();
     const ok = val === correct;
-    const buttons = [...choicesEl.children];
-    buttons.forEach((b) => {
+    [...choicesEl.children].forEach((b) => {
       b.disabled = true;
       if (+b.textContent === correct) b.classList.add("right");
       else if (b === btn) b.classList.add("wrong");
@@ -256,13 +373,11 @@
     if (locked) return;
     const raw = typeInput.value.trim();
     if (raw === "") return;
-    locked = true;
+    locked = true; freezeTimer();
     const card = currentCard();
     const ok = +raw === card.ans;
     typeInput.classList.add(ok ? "right" : "wrong");
-    if (!ok) {
-      flashcard.classList.add("flipped"); // reveal correct answer on the back
-    }
+    if (!ok) flashcard.classList.add("flipped");
     grade(ok);
     setTimeout(next, ok ? 650 : 1300);
   });
@@ -275,7 +390,6 @@
     setTimeout(next, 350);
   });
 
-  // Flip the card in flip-mode (and reveal controls).
   flashcard.addEventListener("click", () => {
     if (settings.mode !== "flip" || locked) return;
     const isFlipped = flashcard.classList.toggle("flipped");
@@ -284,23 +398,33 @@
 
   // ---------- grading ----------
   function grade(ok) {
-    totalTime += performance.now() - cardStart;
+    const t = (performance.now() - cardStart) / 1000;
+    totalTime += t * 1000;
     answered++;
     const card = currentCard();
+
+    // per-fact stats
+    const key = factKey(card.a, card.b);
+    const f = store.facts[key] || (store.facts[key] = { s: 0, c: 0 });
+    f.s++; if (ok) f.c++;
 
     if (ok) {
       streak++;
       bestStreakRound = Math.max(bestStreakRound, streak);
-      const bonus = 10 + Math.min(streak - 1, 10) * 2; // streak rewards
-      score += bonus;
+      const streakBonus = Math.min(streak - 1, 10) * 2;
+      const speedBonus = settings.mode === "flip" ? 0 : t < 1.5 ? 5 : t < 3 ? 3 : t < 5 ? 1 : 0;
+      if (settings.mode !== "flip" && t < 1.2) fastCorrect = true;
+      const gained = 10 + streakBonus + speedBonus;
+      score += gained; roundXp += gained;
+      store.totalCorrect++;
       flashcard.classList.add("correct-glow");
       popStreak();
-      tone(true);
+      tone(true); haptic(ok);
     } else {
       streak = 0;
-      missed.push({ q: `${card.a} × ${card.b}`, a: card.ans });
+      missed.push({ a: card.a, b: card.b, q: `${card.a} × ${card.b}`, ans: card.ans });
       flashcard.classList.add("wrong-glow", "shake");
-      tone(false);
+      tone(false); haptic(ok);
     }
     scoreNum.textContent = score;
     streakNum.textContent = streak;
@@ -314,7 +438,7 @@
 
   function next() {
     idx++;
-    const done = settings.length > 0 && idx >= settings.length;
+    const done = roundLength() > 0 && idx >= roundLength();
     if (done) finish();
     else renderCard();
   }
@@ -323,8 +447,9 @@
   // RESULTS
   // ===================================================================
   function finish() {
+    stopTimer();
     progressFill.style.width = "100%";
-    const total = settings.length;
+    const total = roundLength();
     const correctCount = total - missed.length;
     const pct = total ? Math.round((correctCount / total) * 100) : 0;
     const avg = answered ? (totalTime / answered / 1000) : 0;
@@ -335,7 +460,6 @@
     $("resultTime").textContent = avg.toFixed(1) + "s";
     document.querySelector(".result-of").textContent = "/ " + total;
 
-    // headline
     let emoji = "🎉", title = "Brilliant!";
     if (pct === 100) { emoji = "🏆"; title = "Perfect score!"; }
     else if (pct >= 80) { emoji = "🌟"; title = "Awesome work!"; }
@@ -344,7 +468,6 @@
     $("resultEmoji").textContent = emoji;
     $("resultTitle").textContent = title;
 
-    // review list of missed cards
     const wrap = $("reviewWrap");
     wrap.innerHTML = "";
     if (missed.length) {
@@ -355,39 +478,69 @@
       missed.slice(0, 8).forEach((m) => {
         const row = document.createElement("div");
         row.className = "review-row";
-        row.innerHTML = `<span class="q">${m.q}</span><span class="a">= ${m.a}</span>`;
+        row.innerHTML = `<span class="q">${m.q}</span><span class="a">= ${m.ans}</span>`;
         wrap.appendChild(row);
       });
     }
 
-    saveBest(pct, bestStreakRound);
+    // "practice missed" replay
+    lastMissed = missed.slice();
+    const rbtn = $("reviewBtn");
+    if (lastMissed.length) { rbtn.hidden = false; rbtn.textContent = `Practice missed (${lastMissed.length})`; }
+    else rbtn.hidden = true;
+
+    // persist round outcome + XP + achievements
+    store.bestPct = Math.max(store.bestPct, pct);
+    store.bestStreak = Math.max(store.bestStreak, bestStreakRound);
+    store.games += 1;
+    const before = levelFromXp(store.xp);
+    store.xp += roundXp;
+    const after = levelFromXp(store.xp);
+    saveStore();
+
+    renderProfile(); renderMastery(); renderBestStrip();
     show("results");
+
     if (pct >= 80) burstConfetti();
+    if (after > before) celebrateLevel(after);
+    checkAchievements(pct);
   }
 
   // ===================================================================
-  // PERSISTENCE
+  // ACHIEVEMENTS
   // ===================================================================
-  function loadBest() {
-    try { return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; }
-    catch { return {}; }
+  function award(id) {
+    if (store.achievements[id]) return;
+    store.achievements[id] = true; saveStore();
+    const a = ACHIEVEMENTS[id];
+    toast(a.emoji, "Achievement: " + a.name, a.desc);
+    renderProfile();
   }
-  function saveBest(pct, bestStreak) {
-    const data = loadBest();
-    data.bestPct = Math.max(data.bestPct || 0, pct);
-    data.bestStreak = Math.max(data.bestStreak || 0, bestStreak);
-    data.games = (data.games || 0) + 1;
-    try { localStorage.setItem(STORE_KEY, JSON.stringify(data)); } catch {}
-    renderBestStrip();
+  function checkAchievements(pct) {
+    if (pct === 100) award("first_perfect");
+    if (pct >= 90) award("sharpshooter");
+    if (bestStreakRound >= 10) award("streak_10");
+    if (fastCorrect) award("speed_demon");
+    if (store.totalCorrect >= 100) award("centurion");
+    if (store.games >= 10) award("dedicated");
   }
+  function celebrateLevel(lvl) {
+    toast("✨", "Level " + lvl + "!", "Keep it up — XP unlocked", true);
+    lvlBadge.classList.remove("bump"); void lvlBadge.offsetWidth; lvlBadge.classList.add("bump");
+    burstConfetti();
+  }
+
+  // ===================================================================
+  // BEST STRIP
+  // ===================================================================
   function renderBestStrip() {
-    const d = loadBest();
-    if (!d.games) { bestStrip.textContent = "Your first round awaits ✦"; return; }
-    bestStrip.innerHTML = `🏅 Best <b>${d.bestPct || 0}%</b> · 🔥 Top streak <b>${d.bestStreak || 0}</b> · 🎮 <b>${d.games}</b> rounds`;
+    if (!store.games) { bestStrip.textContent = "Your first round awaits ✦"; return; }
+    bestStrip.innerHTML =
+      `🏅 Best <b>${store.bestPct}%</b> · 🔥 Top streak <b>${store.bestStreak}</b> · 🎮 <b>${store.games}</b> rounds · ✅ <b>${store.totalCorrect}</b> correct`;
   }
 
   // ===================================================================
-  // FEEDBACK: sound + confetti
+  // FEEDBACK: sound, haptics, toasts, confetti
   // ===================================================================
   let audioCtx = null;
   function tone(ok) {
@@ -408,6 +561,17 @@
         osc.start(t); osc.stop(t + 0.2);
       });
     } catch {}
+  }
+  function haptic(ok) {
+    try { if (navigator.vibrate) navigator.vibrate(ok ? 15 : [25, 40, 25]); } catch {}
+  }
+
+  function toast(emoji, title, desc, levelup) {
+    const el = document.createElement("div");
+    el.className = "toast" + (levelup ? " levelup" : "");
+    el.innerHTML = `<span class="t-emoji">${emoji}</span><span><b>${title}</b>${desc ? "<br><small>" + desc + "</small>" : ""}</span>`;
+    toastWrap.appendChild(el);
+    setTimeout(() => el.remove(), 3000);
   }
 
   const canvas = $("confetti");
@@ -471,12 +635,16 @@
     flashTimer = setTimeout(() => { el.style.color = ""; renderBestStrip(); }, 2200);
   }
 
-  $("startBtn").addEventListener("click", startGame);
-  $("againBtn").addEventListener("click", startGame);
+  $("startBtn").addEventListener("click", () => startGame());
+  $("againBtn").addEventListener("click", () => startGame());
   $("menuBtn").addEventListener("click", () => show("setup"));
-  $("quitBtn").addEventListener("click", () => show("setup"));
+  $("quitBtn").addEventListener("click", () => { stopTimer(); show("setup"); });
+  $("reviewBtn").addEventListener("click", () => {
+    if (!lastMissed.length) return;
+    const d = shuffle(lastMissed.map((m) => ({ a: m.a, b: m.b, ans: m.ans })));
+    startGame(d);
+  });
 
-  // keyboard: 1-4 select choices, Enter handled by form
   document.addEventListener("keydown", (e) => {
     if (!screens.quiz.classList.contains("is-active")) return;
     if (settings.mode === "choice" && /^[1-4]$/.test(e.key)) {
@@ -491,5 +659,8 @@
 
   // ---------- init ----------
   buildTableGrid();
+  reflectModeAndLength();
+  renderProfile();
+  renderMastery();
   renderBestStrip();
 })();
