@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#6d5efc" />
+  <title>✦ Times Tables — Multiplication Flashcards</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="aurora" aria-hidden="true">
+    <span class="blob b1"></span>
+    <span class="blob b2"></span>
+    <span class="blob b3"></span>
+  </div>
+
+  <main class="app">
+    <!-- ============ START / SETUP SCREEN ============ -->
+    <section id="setup" class="screen is-active">
+      <header class="hero">
+        <div class="hero-badge">✦ Math Quest</div>
+        <h1>Times Tables</h1>
+        <p class="subtitle">Master your multiplication with snappy, beautiful flashcards.</p>
+      </header>
+
+      <div class="card-panel">
+        <h2 class="panel-title">Pick your tables</h2>
+        <div id="tableGrid" class="table-grid" role="group" aria-label="Choose times tables"></div>
+        <div class="quick-row">
+          <button class="chip" data-select="all">Select all</button>
+          <button class="chip" data-select="none">Clear</button>
+          <button class="chip" data-select="easy">Easy (1–5)</button>
+          <button class="chip" data-select="hard">Tricky (6–12)</button>
+        </div>
+      </div>
+
+      <div class="card-panel">
+        <h2 class="panel-title">Mode</h2>
+        <div class="mode-row" id="modeRow" role="group" aria-label="Choose a mode">
+          <button class="mode-btn is-on" data-mode="choice">
+            <span class="mode-emoji">🎯</span>
+            <span class="mode-name">Multiple Choice</span>
+            <span class="mode-desc">Tap the right answer</span>
+          </button>
+          <button class="mode-btn" data-mode="type">
+            <span class="mode-emoji">⌨️</span>
+            <span class="mode-name">Type It</span>
+            <span class="mode-desc">Key in the answer</span>
+          </button>
+          <button class="mode-btn" data-mode="flip">
+            <span class="mode-emoji">🃏</span>
+            <span class="mode-name">Flip Cards</span>
+            <span class="mode-desc">Self-check, no pressure</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="card-panel">
+        <h2 class="panel-title">Round length</h2>
+        <div class="seg" id="lengthSeg" role="group" aria-label="Round length">
+          <button data-len="10" class="is-on">10</button>
+          <button data-len="20">20</button>
+          <button data-len="0">∞</button>
+        </div>
+      </div>
+
+      <button id="startBtn" class="btn-primary">Start ▸</button>
+
+      <div class="best-strip" id="bestStrip"></div>
+    </section>
+
+    <!-- ============ QUIZ SCREEN ============ -->
+    <section id="quiz" class="screen">
+      <div class="quiz-top">
+        <button id="quitBtn" class="icon-btn" aria-label="Back to menu">‹</button>
+        <div class="progress">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+        <div class="streak" id="streakBadge" title="Streak">🔥 <span id="streakNum">0</span></div>
+      </div>
+
+      <div class="scoreline">
+        <span id="qCount" class="q-count">1</span>
+        <span class="score-pill">★ <span id="scoreNum">0</span></span>
+      </div>
+
+      <div class="stage">
+        <div id="flashcard" class="flashcard">
+          <div class="fc-face fc-front">
+            <div class="fc-q" id="question">3 × 4</div>
+            <div class="fc-hint" id="flipHint">tap to reveal</div>
+          </div>
+          <div class="fc-face fc-back">
+            <div class="fc-a" id="answerReveal">12</div>
+            <div class="fc-hint">tap for next</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Multiple choice answers -->
+      <div id="choices" class="choices"></div>
+
+      <!-- Type answer -->
+      <form id="typeForm" class="type-form" autocomplete="off">
+        <input id="typeInput" class="type-input" inputmode="numeric" pattern="[0-9]*" placeholder="?" aria-label="Your answer" />
+        <button type="submit" class="btn-check">Check</button>
+      </form>
+
+      <!-- Flip controls -->
+      <div id="flipControls" class="flip-controls">
+        <button class="flip-btn flip-wrong" data-flip="wrong">Got it wrong</button>
+        <button class="flip-btn flip-right" data-flip="right">Got it right</button>
+      </div>
+    </section>
+
+    <!-- ============ RESULTS SCREEN ============ -->
+    <section id="results" class="screen">
+      <div class="result-card">
+        <div id="resultEmoji" class="result-emoji">🎉</div>
+        <h2 id="resultTitle">Brilliant!</h2>
+        <div class="result-score">
+          <span id="resultScore">10</span><span class="result-of">/ 10</span>
+        </div>
+        <div class="result-stats">
+          <div class="stat"><span id="resultPct" class="stat-num">100%</span><span class="stat-lbl">Accuracy</span></div>
+          <div class="stat"><span id="resultBest" class="stat-num">12</span><span class="stat-lbl">Best Streak</span></div>
+          <div class="stat"><span id="resultTime" class="stat-num">0s</span><span class="stat-lbl">Avg / card</span></div>
+        </div>
+        <div id="reviewWrap" class="review-wrap"></div>
+        <div class="result-actions">
+          <button id="againBtn" class="btn-primary">Play again ▸</button>
+          <button id="menuBtn" class="btn-ghost">Menu</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <canvas id="confetti" class="confetti" aria-hidden="true"></canvas>
+
+  <script src="app.js"></script>
+</body>
+</html>
