@@ -9608,3 +9608,77 @@ SH/SQQQ $625 QUEUED (Correction protocol ACTIVE) | Alpaca Day 91 BLOCKED | Execu
 7. May 15 dist expires Jun 19 → 5/25 (state still requires FTD to upgrade)
 
 `research_source: websearch_fallback` | Alpaca Day 91 | Perplexity 403 | AV 403
+
+---
+
+## 2026-06-14 — /weekly-prep
+
+**Research source:** websearch_fallback (Alpaca Day 92 BLOCKED, Perplexity 403, AV 403)
+**Data mode:** cached_fundamentals (prior-week scores used; fundamental data unchanged)
+**Market direction pull:** Correction — UNCHANGED
+**Sector leaders (top 3):** XLF Financials, XLI Industrials, XLK Technology
+**Sector laggards (bottom 3):** XLE Energy, XLC Communication, XLRE Real Estate
+
+### Universe scan stats
+
+| Stage | Count | Notes |
+|---|---|---|
+| Seeded from top-3 sectors (curated, degraded mode) | 5 | NVDA, DELL, AVGO, JPM, GS |
+| Pre-filtered: price out of range | 1 | GS $1,093–1,098 > $500 ceiling |
+| Pre-filtered: C-letter EPS fail | 1 | JPM +17.16% < 25% threshold |
+| Candidates scored | 3 | NVDA, DELL, AVGO |
+| Passed conviction ≥75 | **0** | **9th consecutive week of 0 primaries** |
+
+### Rejection breakdown
+
+| Symbol | Score | Reason |
+|---|---|---|
+| GS | —/100 | REJECTED pre-score: price $1,093 > $500 ceiling |
+| JPM | —/100 | REJECTED pre-score: Q1 2026 EPS +17.16% < 25% min (C-letter disqualify) |
+| NVDA | 68/100 | conviction_below_threshold (no base formed — next base Aug 2026+) |
+| DELL | 55/100 | conviction_below_threshold; DOWNGRADED from 74 — Silver Lake selling + no base + N-letter off ATH |
+| AVGO | 55/100 | conviction_below_threshold (no base formed) |
+
+### Score changes from prior week
+
+- **NVDA**: 72→68 (−4 pts) — N-letter rubric-corrected: −12.86% off ATH = "within 15%" = 3 pts (not 10); Iran deal new catalyst +5 = N:8 total
+- **DELL**: 74→55 (−19 pts) — N:0 (>15% off ATH), I:−2 (Silver Lake mass selling), S:−2 (supply overhang), base:0 (no base, too recent). Even with base = 65/100 = still below 75
+
+### Watchlist output
+
+- **Primary:** 0 candidates
+- **Bench:** NVDA 68/100 (base target Aug 2026+), DELL 55/100 WATCH-ONLY, AVGO 55/100
+
+### Calendar risks identified
+
+- FOMC Jun 16-17 (65% hold / 33% cut) — no entries before 1 PM CT Jun 16
+- Iran deal signing: Trump stated "to be signed today" Jun 14 — FTD catalyst candidate
+- FTD window: Day 4=Jun 16 (FOMC⚠️) through Day 7=Jun 19
+- May 15 dist day expires Jun 19 → dist count drops to 5/25 (still needs FTD for upgrade)
+
+### Market state update
+
+- S&P 7,431.46 | 50d MA ~7,248 (+2.53%) | 200d MA ~6,882 (+7.97%)
+- QQQ ~$716 (est.) | above 50d MA ✅
+- Distribution count: 6/25 (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10)
+- Rally attempt Day 2 confirmed Jun 12 | Day 3 = Mon Jun 15 (must hold > 7,266.99)
+- State: 🔴 CORRECTION — requires FTD to upgrade; no new longs
+
+### Hedge
+
+SH $625 QUEUED (Correction protocol ACTIVE) | Alpaca Day 92 BLOCKED | Execute FIRST on restore
+
+### Circuit breakers
+
+All CLEAR. Equity $2,500 = HWM. 0 open positions. PDT 0/3.
+
+### Pattern note
+
+9 consecutive weeks with 0 primary candidates is statistically significant. Causes:
+1. Market in Correction state (gates new longs by definition)
+2. API infrastructure blocked 92 days (limits data quality but not dispositive)
+3. Universe depth: curated 5 names in degraded mode vs. full 60-120 in normal mode
+
+Next action: Alpaca API restore remains #1 operational priority.
+
+`research_source: websearch_fallback` | `data_mode: cached_fundamentals` | Alpaca Day 92 | Perplexity 403 | AV 403

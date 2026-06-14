@@ -6,9 +6,115 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ⚠️ ARCHIVED — Week of 2026-06-09 to 2026-06-13 — **STALE — rebuild via /weekly-prep on Sunday Jun 15**
+## ACTIVE — Week of 2026-06-15 to 2026-06-19
 
-> Archived week of Jun 9–13. /weekly-review completed Fri Jun 12. Market state: 🔴 Correction (6/25 dist days). Zero primary candidates. NVDA 72/100 (no base), DELL 74/100 (⚠️ re-score Jun 15 — may drop to ≤70), AVGO 55/100 watch-only. Full rebuild required Sunday Jun 15 — do NOT use this list for entry decisions. Priority items: DELL re-score, sector RS update (XLE may drop from top-3 on Iran deal), FTD watch Jun 16–19.
+**Built:** 2026-06-14 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: Day 92 BLOCKED, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + cached prior-week fundamentals) | `cached_fundamentals` mode
+
+**Market direction:** 🔴 Market in Correction (6/25 dist days) | **NO NEW LONG ENTRIES** | SH $625 hedge QUEUED — execute FIRST on Alpaca restore
+**S&P 500:** 7,431.46 (Jun 12 close) | **50d MA ~7,248** (+2.53%) | **200d MA ~6,882** (+7.97%) | Above both MAs = bull market infrastructure intact despite Correction state
+**QQQ:** ~$716 est. (Jun 12) | 50d MA ~$700 est. (+2.3%) | Above 50d ✅
+**Rally attempt:** Day 2 confirmed Jun 12 | Day 3 = **Jun 15 (Mon)** | FTD window: **Day 4 = Jun 16 (FOMC ⚠️ no entries before 1 PM CT)**, Day 5 = Jun 17, Day 6 = Jun 18, Day 7 = Jun 19
+**🔥 Iran deal:** Trump says signing TODAY Jun 14 | If signed → Mon gap-up → strong FTD odds Jun 17-19
+
+**Top sectors (4-week trailing RS, May 14 → Jun 12):**
+1. **XLF Financials:** GS at 52-week highs (~$1,093); "dealmaking renaissance" narrative; defensive outperformance during correction
+2. **XLI Industrials:** AI capex cycle confirmed (DELL $16.1B AI servers, Oracle $70B datacenter capex); held relatively better in correction
+3. **XLK Technology:** Still #1 YTD (+32-33%); hit hardest in this 4-week window but deepest recovery candidate when FTD fires
+
+**Blacklisted sectors:** None
+**Avoid this week:** XLE Energy (oil dropping on Iran deal = headwind), XLC Communication (GOOGL equity dilution overhang), XLRE Real Estate (rate sensitivity)
+
+**Universe scan:** DEGRADED — Alpaca Day 92 + AV blocked. Curated universe of 5 names.
+**Candidates evaluated:** NVDA, DELL, AVGO, JPM (XLF), GS (XLF)
+**Pre-filtered out:** GS ($1,093-1,098 > $500 price ceiling), JPM (C-letter +17.16% YoY < 25% DISQUALIFYING)
+**Passed conviction ≥75: 0** — **ZERO for 9th consecutive week**
+
+> **⚠️ 9th consecutive week with 0 candidates above conviction threshold.**
+> This is NOT a rubric failure — it is information. Market in Correction with all primary data sources blocked. DELL re-scored DOWN from 74→55/100 (Silver Lake supply overhang + >15% off ATH + XLK sector rank #4-6). NVDA re-scored 72→68/100 (strict rubric: -12.86% off ATH = "within 15%" not "within 5%"; XLK 4-wk sector rank adjustment). No XLF candidates survive C-letter (JPM: +17.2% YoY < 25%). Patience is the position.
+
+---
+
+## ⛔ CORRECTION POSTURE — NO NEW LONG ENTRIES
+
+**Entry gate:** ALL LONG ENTRIES BLOCKED (Correction; 6/25 dist days; FTD not yet confirmed). SH/SQQQ hedge $625 queued — FIRST ORDER on Alpaca restore.
+
+**This week's inflection path:**
+- **Mon Jun 15 (Day 3):** Rally must hold above 7,266.99 | Iran deal signed? = gap-up catalyst | NOT FTD-eligible (too early per IBD rules)
+- **Tue Jun 16 (Day 4, FOMC ⚠️):** EARLIEST possible FTD — but no entries before 1 PM CT due to FOMC | If FOMC dovish (cut or neutral) → potential power-move = FTD after 1 PM
+- **Wed Jun 17 (Day 5):** Best FTD candidate day — post-FOMC clarity + Iran deal fully priced | Need S&P +1.25%+ on above-avg vol from its daily open
+- **Thu Jun 18 (Day 6) / Fri Jun 19 (Day 7):** Final FTD window | Jun 19 = May 15 dist day expires → 5/25 (STILL CORRECTION until FTD)
+
+**If FTD confirmed:**
+→ 🟢 Confirmed Uptrend → exit SH hedge → immediately re-score NVDA (68/100; 78/100 base not yet complete = bench only) → no new longs until NVDA base completes (~Aug 2026) OR other candidates emerge in XLF/XLI → Begin full universe scan with Alpaca + AV (when restored)
+
+**If no FTD by Jun 19:**
+→ FTD window closes → new rally attempt requires fresh Day 1 from next undercut of 7,266.99 → remain in Correction posture
+
+---
+
+### Primary Watchlist (score ≥75)
+
+**NONE this week.** Zero candidates above conviction threshold. Market in Correction. See bench.
+
+---
+
+### Bench (below threshold — watching for score improvement, base formation, or FTD trigger)
+
+| Rank | Symbol | Score | Change | Sector | Status | Re-Score Trigger | Notes |
+|---|---|---|---|---|---|---|---|
+| B1 | NVDA | **68/100** ⬇️ | ↓ from 72 | XLK / Semis | 🟡 Cup forming (wk 5); no handle; no pivot | Base completion (est. late Jul/Aug 2026) + Alpaca+AV restore | **C:20 A:15 N:8 S:5 L:13 I:7 Base:0**. N: -12.86% off ATH $235.47 = "within 15%" = 3 pts + Blackwell/Vera/Apple AI catalyst = +5 = 8 total. L: 6-month RS 95th %ile = 10 + XLK sector rank 4-6 in 4-wk = +3 = 13 total. With base: **78/100** ✅. Cup-with-handle forming; needs handle (~3-4 wks) + breakout above ~$236+ ATH. Price $205.19 (Jun 12). Timeline: base completion **late Jul–Aug 2026**. `cached_fundamentals` `research_source: websearch_fallback`. Correction blocks entry regardless. |
+| B2 | ~~DELL~~ | **55/100** ⬇️⬇️ | ↓↓ from 74 | XLK / AI Infra | ❌ **DOWNGRADED to WATCH-ONLY** — Silver Lake supply overhang + no base + >15% off ATH | Silver Lake selling halts + new base forms (3-4 wks minimum) + score ≥65 path | **C:20 A:7 N:5 S:5 L:13 I:5 Base:0**. N-letter collapsed: >15.1% off ATH $465.96 = 0 proximity pts; AI server catalyst (+5) only. S weakened: Silver Lake selling $55M Jun 8, $9.4M Jun 10 = supply overhang; float >500M (0); buyback (5). I: -2 for active institutional distribution. Even with base (+10) = **65/100 → STILL BELOW 75**. DELL is NOT ACTIONABLE at current trajectory. Re-evaluate only when: (1) Silver Lake 13D/A filing shows selling pace reduced AND (2) 3-4 week base forms from ~$370-400 zone AND (3) score path to 75+ is visible. Price $395.57 (Jun 12). `cached_fundamentals` `research_source: websearch_fallback`. |
+| — | AVGO | **55/100** — | unchanged | XLK / Technology | ⚠️ Watch-only — no base, CFO transition | New base complete (6-8 wks) + RS recovery + score path to 75+ visible | C:20 A:8 N:8 S:5 L:7 I:7 Base:0. CFO change Spears→Thuener. Est. ~$384-388 (Jun 12). Not actionable. |
+
+---
+
+### Entry Execution Plan — Week of Jun 15-19
+
+**Entry gate: ⛔ ZERO new long entries** (Correction; Alpaca Day 92 BLOCKED; 0 candidates ≥75)
+
+**FIRST order on Alpaca restore:** Buy SH (inverse S&P −1×) $625 / 25% portfolio (Correction hedge protocol ACTIVE — has been queued since Jun 5)
+
+**FTD confirmation triggers this week:**
+
+| Day | Gate | Bullish setup | Bearish scenario |
+|---|---|---|---|
+| Mon Jun 15 (Day 3) | Hold above 7,266.99 | Iran deal signed → gap-up; Day 3 intact | Undercuts 7,266.99 → rally dead → reset Day 1 |
+| Tue Jun 16 (Day 4) | FOMC ⚠️ no entries before 1 PM CT | FOMC cut/neutral + S&P +1.25%+ on vol after 1 PM = FTD! | FOMC hawkish → dist day risk → Correction deepens |
+| Wed Jun 17 (Day 5) | **Best FTD candidate** | Post-FOMC clarity + Iran deal priced → power move | Another distribution day → 7/25 |
+| Thu Jun 18 (Day 6) | | FTD still possible | |
+| Fri Jun 19 (Day 7) | **May 15 dist expires today → 5/25** | FTD window last day; May 15 expires = one step closer to potential upgrade | Window closes; next rally attempt needed |
+
+**If FTD confirmed → immediate actions:**
+1. Exit SH hedge (if placed)
+2. NVDA: 68/100 (78 with base) — promote to Primary ONLY when base completes; Aug 2026+ timeline
+3. Begin full universe scan (XLF, XLI names) if Alpaca/AV restore
+4. NO new long entries until confirmed Uptrend AND candidate at pivot on volume
+
+**Calendar risks this week:**
+- Jun 16-17: **FOMC** (Kevin Warsh first meeting) — no entries before 1 PM CT Jun 16 regardless of FTD status
+- Jun 16: FTD window Day 4 — FOMC day FTD is possible but risky
+- Jun 19: FTD window Day 7 (last) + May 15 dist day expires → 5/25
+- Macro: No CPI/PPI this week; housing data minor; Iran deal signing = dominant catalyst
+- Earnings: No watchlist names in blackout this week ✅
+
+---
+
+### Removed / Changed this week
+
+| Symbol | Reason |
+|---|---|
+| DELL B1 | **DOWNGRADED to WATCH-ONLY (B2)** — Re-score revealed 74→55/100 drop. Key drivers: (1) >15.1% off ATH $465.96 = N-letter proximity collapses from ~5 to 0 pts (-5); (2) Silver Lake mass selling ($55M Jun 8, $9.4M Jun 10) = I-letter -2 + S-letter confidence -; (3) No base formed (9 trading days from ATH → no consolidation); (4) XLK sector rank #4-6 in 4-wk correction = L-letter sector bonus +3 (not +5). Even with completed base: 65/100 = below 75 threshold. NOT ACTIONABLE. Moved to watch-only pending Silver Lake selling pause + base formation. |
+| NVDA B1→B1 | Score revised 72→68/100. Rubric-strict application: (1) -12.86% off ATH = "within 15%" = 3 pts (not "within 5%" = 7 pts); new Blackwell/Apple AI catalyst = +5 → N total 8 (not 10). (2) XLK sector rank #4-6 in 4-week correction window → L sector bonus +3 (not +5) → L total 13 (not 15). With base: 78/100 still passes threshold — remains top bench candidate. Base timeline Aug 2026+. |
+| JPM | **EVALUATED AND REJECTED** — Q1 2026 EPS +17.16% YoY < 25% threshold = C-letter DISQUALIFYING. XLF is top-3 sector but individual JPM name fails first gate. |
+| GS | **EVALUATED AND REJECTED** — Price $1,093-$1,098 > $500 price ceiling per TRADING-STRATEGY.md. |
+
+**Pre-market refresh:** 2026-06-14 6:00 AM CT — N/A (Sunday) | `/weekly-prep` run 2026-06-14 | `research_source: websearch_fallback` (Alpaca Day 92 | Perplexity 403 | AV 403) | **🔴 CORRECTION UNCHANGED — 0 CANDIDATES ≥75 — DELL DOWNGRADED 74→55/100 — NVDA 72→68/100 — IRAN DEAL SIGNING TODAY JUN 14 — FOMC JUN 16-17 — FTD WINDOW DAY 4-7 JUN 16-19** | Top sectors: XLF, XLI, XLK | Avoid: XLE, XLC, XLRE | SH $625 hedge QUEUED (Alpaca blocked) | 0 positions | Equity: $2,500 (HWM) | Weekly trades: 0/3 RESET
+
+---
+
+## ⚠️ ARCHIVED — Week of 2026-06-09 to 2026-06-13 — **STALE — rebuilt via /weekly-prep on Sunday Jun 15**
+
+> Archived week of Jun 9–13. /weekly-review completed Fri Jun 12. Market state: 🔴 Correction (6/25 dist days). Zero primary candidates. NVDA 72/100 (no base), DELL 74/100 (⚠️ re-score Jun 15 — dropped to 55/100 at /weekly-prep). Full rebuild completed Sunday Jun 15.
 
 ## ⚠️ ARCHIVED — Week of 2026-06-02 to 2026-06-06 — **STALE — rebuild via /weekly-prep on Sunday Jun 8**
 

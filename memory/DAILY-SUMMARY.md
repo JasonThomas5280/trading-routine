@@ -2726,3 +2726,16 @@ Proposal 15: Add GEOPOLITICAL_BINARY_ACTIVE flag to rally-attempt assessments du
 
 ### Next Week
 FTD window Jun 16–19. FOMC Jun 16-17 (no entries before 1 PM CT Jun 16). Iran deal signing Mon = key catalyst. Alpaca restore CRITICAL — SH $625 first order. DELL re-score /weekly-prep Jun 15.
+
+---
+## 2026-06-14 21:19 CT [clickup-placeholder]
+
+📋 Week prep 2026-06-14
+Market: 🔴 CORRECTION (Dist: 6/25, SPY vs 50MA: +2.53%)
+Top sectors: XLF Financials, XLI Industrials, XLK Technology
+🔥 IRAN DEAL: Trump 'signing today' Jun 14 = massive FTD catalyst
+⚠️ FOMC: Jun 16-17, no entries before 1 PM CT Jun 16
+Watchlist primary: NONE (0 candidates ≥75 — 9th consecutive week)
+Bench: NVDA (68/100) base Aug 2026+ | DELL (55/100 WATCH-ONLY — downgraded from 74)
+Calendar risks: FOMC Jun 16-17 (65% hold/33% cut) | Iran deal | FTD window Day 4-7 Jun 16-19 | May 15 dist expires Jun 19
+Entry plan Mon: Watch Day 3 holds 7,266.99 | NO NEW LONGS | SH 25 FIRST on Alpaca restore
