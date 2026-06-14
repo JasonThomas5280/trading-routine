@@ -302,6 +302,19 @@ body {
 .mastery b { color: var(--accent); font-weight: 800; }
 .chip-focus { color: var(--warn); border-color: rgba(255,206,79,.4); }
 
+/* ---------- operations ---------- */
+.op-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+.op-btn {
+  display: grid; place-items: center; gap: 4px; padding: 14px 6px;
+  border: 1px solid var(--stroke); background: var(--surface-2); color: var(--text);
+  border-radius: var(--r-md); cursor: pointer; transition: transform .12s, background .2s, border-color .2s, box-shadow .2s;
+}
+.op-btn:active { transform: scale(0.94); }
+.op-sym { font-family: "Fredoka"; font-weight: 700; font-size: 1.7rem; line-height: 1; }
+.op-name { font-size: 0.78rem; color: var(--muted); }
+.op-btn.is-on { background: linear-gradient(160deg, var(--brand), var(--brand-2)); border-color: transparent; box-shadow: 0 10px 26px -10px var(--brand); }
+.op-btn.is-on .op-name { color: rgba(255,255,255,.85); }
+
 /* ---------- timer bar ---------- */
 .timer-bar { height: 6px; border-radius: 999px; background: var(--surface-2); overflow: hidden; margin-bottom: 16px; opacity: 0; transition: opacity .2s; }
 .timer-bar.is-on { opacity: 1; }

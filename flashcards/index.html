@@ -22,8 +22,8 @@
     <section id="setup" class="screen is-active">
       <header class="hero">
         <div class="hero-badge">✦ Math Quest</div>
-        <h1>Times Tables</h1>
-        <p class="subtitle">Master your multiplication with snappy, beautiful flashcards.</p>
+        <h1>Math Quest</h1>
+        <p class="subtitle">Master addition, subtraction, multiplication &amp; division with snappy, beautiful flashcards.</p>
       </header>
 
       <div class="profile" id="profile">
@@ -36,8 +36,21 @@
       </div>
 
       <div class="card-panel">
-        <h2 class="panel-title">Pick your tables</h2>
-        <div id="tableGrid" class="table-grid" role="group" aria-label="Choose times tables"></div>
+        <h2 class="panel-title">Operations</h2>
+        <div class="op-row" id="opRow" role="group" aria-label="Choose operations">
+          <button class="op-btn" data-op="+"><span class="op-sym">+</span><span class="op-name">Add</span></button>
+          <button class="op-btn" data-op="−"><span class="op-sym">−</span><span class="op-name">Subtract</span></button>
+          <button class="op-btn is-on" data-op="×"><span class="op-sym">×</span><span class="op-name">Multiply</span></button>
+          <button class="op-btn" data-op="÷"><span class="op-sym">÷</span><span class="op-name">Divide</span></button>
+        </div>
+        <div class="quick-row">
+          <button class="chip" data-ops="mixed">🎲 Mixed (all)</button>
+        </div>
+      </div>
+
+      <div class="card-panel">
+        <h2 class="panel-title">Pick your numbers</h2>
+        <div id="tableGrid" class="table-grid" role="group" aria-label="Choose number families"></div>
         <div id="mastery" class="mastery"></div>
         <div class="quick-row">
           <button class="chip" data-select="all">Select all</button>
