@@ -2739,3 +2739,19 @@ Watchlist primary: NONE (0 candidates ≥75 — 9th consecutive week)
 Bench: NVDA (68/100) base Aug 2026+ | DELL (55/100 WATCH-ONLY — downgraded from 74)
 Calendar risks: FOMC Jun 16-17 (65% hold/33% cut) | Iran deal | FTD window Day 4-7 Jun 16-19 | May 15 dist expires Jun 19
 Entry plan Mon: Watch Day 3 holds 7,266.99 | NO NEW LONGS | SH 25 FIRST on Alpaca restore
+
+---
+## 2026-06-15 11:10 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-15
+Market: 🔴 CORRECTION (6/25 dist) | Futures: ES +1.3% NQ +2.1% (Iran deal COMPLETE)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+🔥 KEY CATALYST: Iran deal COMPLETE — Trump "now complete" | Hormuz reopening | Oil falling
+⚠️ FTD WINDOW CORRECTED: Jun 19 = Juneteenth (CLOSED) → FTD window ends Jun 18 (Day 6)
+  Day 3 = Jun 15 (holds above 7,266.99) | Day 4 = Jun 16 (FOMC no entries <1 PM CT)
+  Day 5 = Jun 17 (BEST FTD candidate) | Day 6 = Jun 18 (LAST)
+FOMC Jun 16-17: 97% hold; Warsh removes easing bias; hawkish neutral shift
+Bench: NVDA 68/100 (base not complete wk 6) | DELL 55/100 | AVGO 55/100
+Alpaca: BLOCKED Day 93 | SH $625 QUEUED | Weekly count: 0/3 RESET
+Plan: NO entries — Correction. Watch FOMC Day 4, FTD Day 5-6 Jun 17-18.

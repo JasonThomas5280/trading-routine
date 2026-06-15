@@ -46,6 +46,69 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-15 (Mon) — /pre-market (6:00 AM CT) — 🔥 IRAN DEAL COMPLETE — ES +1.3% NQ +2.1% GAP-UP — DAY 3 RALLY — FTD WINDOW DAY 4–6 (JUN 19 JUNETEENTH CLOSED) — FOMC JUN 16-17 — ALPACA DAY 93
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 93; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** | NO new long entries | State UNCHANGED — needs FTD to upgrade
+**FTD status:** NOT CONFIRMED. Rally attempt Day 3 = TODAY (Jun 15). FTD window: Day 4 = Jun 16 (FOMC ⚠️ no entries before 1 PM CT) | Day 5 = Jun 17 (BEST) | Day 6 = Jun 18 (LAST). ⚠️ **Jun 19 = Juneteenth (market CLOSED) — FTD window effectively ends Thu Jun 18, not Jun 19 as previously logged.**
+**Weekly trade count:** RESET to 0/3 (new week Mon Jun 15)
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures (Jun 15 pre-mkt) | **+1.3%** est. | Iran deal "COMPLETE" = massive gap-up driver. Sources: ES +0.65% (early data) → +1.3% (Yahoo Finance live). |
+| NQ futures (Jun 15 pre-mkt) | **+2.1%** est. | Tech leading on Iran deal risk-on; oil down = macro relief. |
+| Iran deal | **🔥 COMPLETE** | Trump: "The Deal with the Islamic Republic of Iran is now complete." PBS/NBC/NPR confirmed. Framework includes end to US-Iran war, Strait of Hormuz reopening, end to US blockade. Pakistan as mediator. Deal signing in Switzerland. **MAJOR BULLISH CATALYST.** Oil falling hard. Prediction markets: 93% probability S&P opens higher Jun 15. |
+| Oil (WTI est.) | **< $90 and falling** | Iran deal + Strait of Hormuz reopening = supply relief. Prior Jun 12 data showed oil <$90. With deal fully signed, further downside expected — positive for inflation and equities. |
+| FOMC Jun 16–17 | **97% probability HOLD** | Kevin Warsh first meeting as Fed Chair. 3.50–3.75% range unchanged. Key watch: Warsh expected to REMOVE easing bias → shift to neutral/hawkish stance. Press conference will define tone. Dot plot = first signal of Warsh's direction. **No entries before 1 PM CT Jun 16 regardless of FTD.** |
+| Juneteenth Jun 19 | **MARKET CLOSED** | NYSE/Nasdaq closed Friday Jun 19. CRITICAL: Prior FTD Day 7 = Jun 19 is invalid — market closed. FTD window is effectively Day 4–6: Jun 16, 17, 18. |
+| May 15 dist day expiry | **Now Jun 22 (not Jun 19)** | Prior log estimated May 15 dist expires "Jun 19 → 5/25." Jun 19 = Juneteenth (no session). 25th trading session from May 15 = Mon Jun 22 → dist drops to 5/25. State REMAINS CORRECTION regardless until FTD. |
+| NVDA (Jun 12 close / Jun 14 range) | **$205.19 / $203.44–$207.07** | No major overnight catalysts. Vera CPU available Aug 2026 (confirmed). SharonAI 6-yr AI infra deal (minor). Base NOT complete — cup forming (wk 6), no handle, no pivot. Score 68/100 (78 with base — base not complete). 🟡 BENCH UNCHANGED. |
+| DELL | **~$395.57 (Jun 12 close)** | No new catalysts. Silver Lake affiliate selling continued through Jun 9–10 ($9.4M at $390–$399). Supply overhang ONGOING. Score 55/100 watch-only. |
+| AVGO | **~$384–388 est. (Jun 12)** | CFO Spears→Thuener transition Day 3. No new catalysts. 55/100 watch-only. |
+
+**FTD probability today (Jun 15 = Day 3): 0% — Day 3 CANNOT be FTD per IBD rules.**
+Day 3 function: confirm rally attempt low holds above 7,266.99 (Jun 10 close). Iran gap-up makes hold virtually certain. Sets up strong Day 4–6 FTD window.
+
+**Best FTD candidate: Wed Jun 17 (Day 5)**
+- Jun 16 (Day 4): FOMC day → no entries before 1 PM CT → narrow window → if hold + neutral language post-1 PM, possible but not probable for FTD
+- Jun 17 (Day 5): Post-FOMC clarity + Iran deal fully priced → best risk/reward for S&P +1.25%+ on above-avg vol
+- Jun 18 (Day 6): Last viable FTD day if Jun 17 disappoints
+
+**Distribution day risk (Jun 15): VERY LOW**
+Iran deal risk-on gap-up means almost certain UP day → NOT a distribution day. Risk: FOMC tomorrow could trigger intraday reversal if Warsh surprises hawkish.
+
+### Overnight gap check on open positions
+
+**0 open positions → SKIPPED (empty batch)**
+
+### Catalyst scan — primary watchlist
+
+**0 primary watchlist items → SKIPPED**
+
+### Catalyst scan — bench names
+
+- **NVDA**: Vera CPU August availability confirmed; SharonAI AI infra deal (6-yr). No score impact. Base NOT complete. 68/100 UNCHANGED. 🟡 BENCH.
+- **DELL**: Silver Lake affiliate selling continued Jun 9–10. No new positive catalyst. 55/100 UNCHANGED. ❌ WATCH-ONLY.
+- **AVGO**: CFO Spears→Thuener ongoing. No new catalyst. 55/100 UNCHANGED. ❌ WATCH-ONLY.
+
+### Buy-zone status
+
+- 0 primary watchlist → 0 buy zones to track
+- NVDA: 68/100 (78 with base); base NOT complete → 🔴 NOT READY
+- All bench names well below actionable threshold or blocked
+
+### Risks for today's session
+
+- Rally must hold Day 3 above 7,266.99 (virtually certain given gap-up)
+- FOMC Jun 16 tomorrow → no entries before 1 PM CT regardless
+- Warsh's first meeting: hawkish surprise (easing bias removal) = potential intraday headwind Jun 16 — watch for dist day
+- Iran deal fully priced by open = limited further upside catalyst today; watch for fade
+- Holiday-shortened week (Jun 19 Juneteenth = CLOSED) — volume dynamics may be lighter by Thu/Fri
+
+---
+
 ## 2026-06-04 (Thu) — /pre-market (6:00 AM CT) — AVGO BEAT AH — FTD NOT TRIGGERED — NFP TOMORROW
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 75; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
