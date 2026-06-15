@@ -2755,3 +2755,20 @@ FOMC Jun 16-17: 97% hold; Warsh removes easing bias; hawkish neutral shift
 Bench: NVDA 68/100 (base not complete wk 6) | DELL 55/100 | AVGO 55/100
 Alpaca: BLOCKED Day 93 | SH $625 QUEUED | Weekly count: 0/3 RESET
 Plan: NO entries — Correction. Watch FOMC Day 4, FTD Day 5-6 Jun 17-18.
+
+---
+## 2026-06-15 10:00 CT [market-check — CORRECTION UNCHANGED — DAY 3 CONFIRMED +1.28% — IRAN DEAL "COMPLETE" — ALPACA DAY 94 BLOCKED]
+
+📈 Market-check 2026-06-15 10:00 AM CT
+Market: 🔴 CORRECTION (6/25 dist days) | Circuit breakers: NONE
+Actions taken:
+  No new entries — Correction state + Alpaca Day 94 blocked
+Watchlist status: 0 primary (score ≥75), 1 bench-NVDA (68/100), 2 watch-only (DELL 55, AVGO 55)
+S&P 500 Jun 15 (10 AM CT): ~7,527 (+1.28% intraday) | Open 7,516.75 | Range 7,516–7,547
+Rally attempt: DAY 3 CONFIRMED ✅ | 260 pts above 7,266.99 low | FTD window: Day 4–6 Jun 16–18
+Iran deal: Framework "COMPLETE" (Trump) | Formal signing Jun 19 Switzerland | Oil WTI $80.83 (−4.8%)
+NVDA: $208.92 est. (wk 7 cup; no handle; 68/100; BENCH) | DELL: ~$400-415 est. (55/100; watch-only)
+Open positions: 0 | Equity: $2,500 (HWM) | Weekly trade count: 0/3 used
+⚠️ ALPACA BLOCK (Day 94): network egress policy — must add paper-api.alpaca.markets to allowlist
+FOMC TOMORROW Jun 16-17 — NO ENTRIES before 1 PM CT Jun 16 regardless of FTD status
+Next check: /eod-review 3:15 PM CT
