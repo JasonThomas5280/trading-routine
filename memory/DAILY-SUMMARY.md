@@ -2772,3 +2772,18 @@ Open positions: 0 | Equity: $2,500 (HWM) | Weekly trade count: 0/3 used
 ⚠️ ALPACA BLOCK (Day 94): network egress policy — must add paper-api.alpaca.markets to allowlist
 FOMC TOMORROW Jun 16-17 — NO ENTRIES before 1 PM CT Jun 16 regardless of FTD status
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-06-15 20:23 CT [clickup-placeholder]
+
+📊 EOD 2026-06-15 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction — UNCHANGED)
+S&P 500 close: ~7,542 (+1.49%) | QQQ ~$743.60 (+3.85% est.) | NOT dist day ✅
+Day 3 rally attempt CONFIRMED (275 pts above 7,266.99 low) — Day 3 INELIGIBLE for FTD
+Actions today: NONE (Correction + Alpaca Day 95 blocked + 0 positions)
+sell-rules-engine: SKIPPED (empty batch)
+Circuit breakers: ALL CLEAR
+⚠️ Alpaca BLOCKED Day 95 — SH $625 hedge QUEUED — restore = CRITICAL
+Tomorrow: FOMC Jun 16-17 — NO entries before 1 PM CT | FTD Day 4 window opens post-1 PM | Best FTD candidate: Jun 17 (Day 5) | Iran deal signing Jun 19 Switzerland
+Watchlist: 0 primary candidates (NVDA 68/100 bench, DELL 55/100 watch, AVGO 55/100 watch)

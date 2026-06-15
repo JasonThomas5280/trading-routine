@@ -6,11 +6,11 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 15 /market-check 10:00 AM CT: S&P ~7,527 (+1.28% intraday) | DAY 3 CONFIRMED — 260 pts above 7,266.99 rally low | 50d MA ~7,248 | 200d MA ~6,882 | Dist 6/25 UNCHANGED | FTD window Day 4–6: Jun 16 (FOMC ⚠️) – Jun 18 (LAST; Jun 19 Juneteenth CLOSED) | Iran deal "COMPLETE" — signing ceremony Jun 19 Switzerland | Oil WTI $80.83 (−4.8%) | Alpaca Day 94 BLOCKED | Perplexity 403 | AV 403 | 0 candidates ≥75)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 15 /eod-review 3:15 PM CT: S&P ~7,542 (+1.49% close) | DAY 3 CONFIRMED — 275 pts above 7,266.99 rally low | 50d MA ~7,248 | 200d MA ~6,882 | Dist 6/25 UNCHANGED | NOT dist day ✅ | FTD window Day 4–6: Jun 16 (FOMC ⚠️) – Jun 18 (LAST; Jun 19 Juneteenth CLOSED) | Iran deal COMPLETE (signing Jun 19 Switzerland) | QQQ ~$743.60 | Oil WTI ~$80.83 | Alpaca Day 95 BLOCKED | Perplexity 403 | AV 403 | 0 candidates ≥75)*
 
-**Last updated:** 2026-06-15 (Mon) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED | DAY 3 CONFIRMED +1.28% ~7,527 | IRAN DEAL "COMPLETE" (SIGNING JUN 19 SWITZERLAND) | OIL WTI −4.8% $80.83 | FTD WINDOW DAY 4–6 JUN 16–18 (JUN 19 JUNETEENTH CLOSED) | 0 CANDIDATES ≥75 | ALPACA DAY 94 BLOCKED**
+**Last updated:** 2026-06-15 (Mon) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED | DAY 3 CONFIRMED CLOSE +1.49% ~7,542 | NOT DIST DAY ✅ | 6/25 DIST UNCHANGED | QQQ ~$743.60 | IRAN DEAL COMPLETE | FTD WINDOW DAY 4–6 JUN 16–18 (JUN 19 JUNETEENTH CLOSED) | 0 POSITIONS | ALPACA DAY 95 BLOCKED**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Needs FTD to upgrade | May 15 expires **Jun 22** (Juneteenth correction) → 5/25 (STILL CORRECTION until FTD)
-**Distribution days: 6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Jun 12 S&P +0.52% → NOT dist day ✅ | Count UNCHANGED
+**Distribution days: 6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Jun 12 S&P +0.52% → NOT dist day ✅ | Jun 15 S&P +1.49% → NOT dist day ✅ | Count UNCHANGED
 **Technical picture (Jun 12 close):** S&P 7,431.46 | 50d MA ~7,248 | **+2.53% above 50d** | 200d MA ~6,882 | **+7.97% above 200d** | QQQ ~$716 est. | Both indices above 50d = bullish technical setup if FTD fires
 **Rally attempt:** ✅ **Day 2 CONFIRMED (Jun 12)** | Rally low: **7,266.99 (Jun 10)** | Margin: 164.47 pts | FTD threshold: ~7,357.82 (EXCEEDED on Day 1+2) | **Day 3 = Jun 15 (Mon)** | FTD window: **Day 4 = Jun 16 (FOMC ⚠️ no entries before 1 PM CT)** | Day 5 = Jun 17 | Day 6 = Jun 18 | Day 7 = Jun 19
 **🔥 IRAN DEAL (Jun 14 — THIS WEEKEND):** Trump hails new Iran deal "TO BE SIGNED TODAY" per June 14 reports | Prior: Pakistan PM confirmed "final agreed text" Jun 12 | Strait of Hormuz reopening in framework | Oil <$90 and falling | If deal signed Sun Jun 14 → **MASSIVE MONDAY GAP-UP CATALYST → Jun 17 (Day 5) now best FTD candidate if FOMC Jun 16 muted** | Polymarket active trading: $310M+ on deal odds | **Watch for Mon Jun 15 gap-up and whether Day 3 holds above 7,266.99**
@@ -70,6 +70,24 @@
 - **Watch at /eod-review:** (1) Jun 15 close: holds above 7,266.99 = Day 3 confirmed ✅ (virtually certain); reversal ≥−0.20% on vol = Dist #7 (7/25) | (2) Iran deal formal signing status | (3) FOMC tomorrow — enforce no-entries gate before 1 PM CT Jun 16 | (4) May 15 dist expiry now Jun 22
 - **Actions: NONE** (Correction + Alpaca Day 94 blocked + 0 positions)
 - `research_source: websearch_fallback` | Alpaca Day 94 | Perplexity 403 | AV 403
+
+**✅ JUN 15 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — DAY 3 CONFIRMED CLOSE +1.49% ~7,542 — IRAN DEAL COMPLETE SIGNING JUN 19 SWITZERLAND — QQQ ~$743.60 — NOT DIST DAY — ALPACA DAY 95 BLOCKED):**
+- **Jun 15 close (confirmed via TheStreet/WebSearch):** S&P 500 ~**7,542 (+1.49%** from 7,431.46 Jun 12 close ✅) | QQQ ~**$743.60 (+3.85% est.** from ~$716 Jun 12 est.) | SPY est. ~**$754** | `research_source: websearch_fallback` | **Alpaca blocked Day 95**
+- **Session character:** Gap-up open driven by Iran deal "COMPLETE" announcement (Jun 14-15) — Trump confirmed, PBS/NBC/NPR confirmed. Strait of Hormuz reopening in framework. Oil −4.77% WTI $80.83. Asian markets: Nikkei +5.5%, Kospi +5.7%, Taiex +2.7%. QQQ led (+3.85% est.) on tech/chip lift. S&P broad-based +1.49%.
+- **Distribution day check (Jun 15):** S&P +1.49% → **NOT a distribution day** ✅ | UP day = accumulation ✅ | Dist count: **6/25 UNCHANGED** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10)
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.**
+- **Rally attempt — DAY 3 CONFIRMED:** Jun 15 close ~7,542 >> Jun 10 rally low 7,266.99 ✅ (~275 pts margin — very strong) | Day 3 gain +1.49% EXCEEDS FTD threshold (+1.25%) BUT Day 3 INELIGIBLE per IBD rules | FTD window: **Day 4 = Jun 16 (FOMC ⚠️ no entries before 1 PM CT)** | Day 5 = Jun 17 (BEST CANDIDATE) | Day 6 = Jun 18 (LAST VIABLE) | Jun 19 = Juneteenth CLOSED
+- **NVDA (~$213-217 est.):** Market-wide risk-on lift. Base NOT complete (cup wk 8; no handle; no pivot). **Score: 68/100 UNCHANGED.** 🟡 BENCH. Timeline Aug 2026+.
+- **DELL (~$405-420 est.):** Market lift. Silver Lake overhang ongoing. **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+- **AVGO (~$395-410 est.):** AI chips broadly higher. **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** (EMPTY BATCH)
+- **Hedge check:** SH/SQQQ $625 QUEUED (Correction protocol ACTIVE — state UNCHANGED) | Alpaca Day 95 BLOCKED | Execute FIRST on Alpaca restore | Do NOT cancel
+- **Portfolio-level dist cluster:** 6/25 — AT forced-reduction trigger level; 0 positions to reduce ✅
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 95 blocked + 0 positions)
+- **Watch at /pre-market Jun 16:** (1) 🚨 FOMC Jun 16-17 — **NO entries before 1 PM CT Jun 16** | Kevin Warsh first meeting; 97% hold; neutral/hawkish dot plot expected; if hawkish surprise = dist day risk | (2) FTD Day 4 window opens post-1 PM CT Jun 16 (narrow) | (3) Iran deal formal signing Jun 19 Switzerland | (4) May 15 dist expires **Jun 22** → 5/25 (state REMAINS CORRECTION until FTD) | (5) Alpaca restore CRITICAL — Day 95 blocked; SH $625 FIRST ORDER on restore
+- **Dist expiry path:** May 15 → **Jun 22** → 5/25 | May 19 → ~Jun 23 → 4/25 | Jun 3 → ~Aug 8 → 3/25 | Jun 5 → ~Aug 10 → 2/25 | Jun 9 → ~Aug 12 → 1/25 | Jun 10 → ~Aug 13 → 0/25 | **State REMAINS CORRECTION until FTD regardless**
+- `research_source: websearch_fallback` | Alpaca Day 95 | Perplexity 403 | AV 403
 
 **✅ JUN 12 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — DAY 2 CONFIRMED +0.52% 7,431.46 — IRAN "FINAL TEXT AGREED" TRUMP SIGNS WEEKEND — SPCX $161.11 +19% DAY 1 — NOT DIST DAY — ALPACA DAY 91 BLOCKED):**
 - **Jun 12 close (CONFIRMED via CNBC/TheStreet/websearch):** S&P 500 **7,431.46 (+0.52%** from 7,393 Jun 11 close ✅) | Dow **51,202.26 (+0.70%, +353.51 pts)** | Nasdaq **25,888.84 (+0.31%)** | SPCX **$161.11 (+19%** vs $135 IPO offer, closed near session lows from ~$172 peak) | SPY est. **~$743** | QQQ est. **~$716** | `research_source: websearch_fallback` | **Alpaca blocked Day 91**

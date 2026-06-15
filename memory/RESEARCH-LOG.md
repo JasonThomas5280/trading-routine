@@ -9745,3 +9745,123 @@ All CLEAR. Equity $2,500 = HWM. 0 open positions. PDT 0/3.
 Next action: Alpaca API restore remains #1 operational priority.
 
 `research_source: websearch_fallback` | `data_mode: cached_fundamentals` | Alpaca Day 92 | Perplexity 403 | AV 403
+
+---
+
+## 2026-06-15 (Mon) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — DAY 3 CONFIRMED CLOSE +1.49% ~7,542 — NOT DIST DAY — IRAN DEAL COMPLETE — ALPACA DAY 95 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: BLOCKED Day 95 — "Host not in allowlist: data.alpaca.markets / paper-api.alpaca.markets"; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. Data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | NO new long entries
+
+---
+
+### Market data (Jun 15 close)
+
+| Index | Close | Change | Notes |
+|---|---|---|---|
+| S&P 500 | ~7,542 | **+1.49%** | Confirmed via TheStreet "Nasdaq, S&P 500 jumps after U.S. and Iran announce peace deal" |
+| QQQ | ~$743.60 | **+3.85% est.** | Range $735.76–$744.76 (confirmed via search); tech/chip led |
+| SPY | ~$754 est. | +1.49% | Proxy from S&P |
+| Oil WTI | ~$80.83 | −4.77% | Hormuz reopening in framework; supply relief priced in |
+
+**Data confidence:** MODERATE (S&P % confirmed; QQQ price confirmed; exact S&P close estimated from Jun 12 base × 1.0149 = ~7,542)
+
+### Distribution day check
+
+- S&P Jun 15: +1.49% → **NOT a distribution day** ✅ (up day = accumulation)
+- Volume: elevated on Iran deal catalyst; UP day = irrelevant for dist check
+- Distribution count: **6/25 UNCHANGED** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10)
+- Next natural expiry: May 15 → **Jun 22** (Juneteenth correction applied) → 5/25 (state REMAINS CORRECTION until FTD)
+
+### Rally attempt status
+
+- Day 3 close: ~7,542 >> rally low 7,266.99 → **DAY 3 CONFIRMED ✅** (~275 pts margin)
+- Day 3 gain +1.49% EXCEEDS FTD +1.25% threshold BUT Day 3 **INELIGIBLE per IBD rules**
+- FTD window remains: Day 4 = **Jun 16 (FOMC ⚠️ no entries before 1 PM CT)** | Day 5 = Jun 17 (BEST) | Day 6 = Jun 18 (LAST VIABLE) | Jun 19 = Juneteenth CLOSED
+
+### Market state
+
+🔴 **Market in Correction — UNCHANGED.** Needs FTD (Day 4-6) to upgrade. Correction has been in effect since Jun 5 (Dist Day #6).
+
+### Open positions / sell-rules-engine
+
+```json
+{
+  "run_date": "2026-06-15",
+  "batch_evaluated": 0,
+  "results": [],
+  "note": "0 open positions — evaluation skipped per protocol",
+  "market_level_triggers": {
+    "distribution_days": 6,
+    "state": "MARKET_IN_CORRECTION",
+    "rally_attempt_day": 3,
+    "ftd_eligible": false
+  }
+}
+```
+
+**VERDICT: SKIPPED — no positions to evaluate.**
+
+### Watchlist
+
+| Symbol | Score | Status | Jun 15 Est. | Notes |
+|---|---|---|---|---|
+| NVDA | 68/100 | 🟡 BENCH | ~$213-217 est. | Market lift; base NOT complete (cup wk 8; no handle; no pivot). Timeline Aug 2026+. |
+| DELL | 55/100 | ❌ WATCH-ONLY | ~$405-420 est. | Market lift. Silver Lake overhang ongoing. Below threshold; no base. |
+| AVGO | 55/100 | ❌ WATCH-ONLY | ~$395-410 est. | AI chips broadly higher. No base. Below threshold. |
+
+**0 candidates ≥75. No promotions or demotions.**
+
+### Portfolio-level checks
+
+- **Distribution cluster (Rule 4):** 6/25 — AT trigger level; 0 positions = no action needed ✅
+- **Hedge entry check:** State UNCHANGED (still Correction). SH/SQQQ $625 QUEUED — Alpaca Day 95 BLOCKED — execute FIRST on restore
+- **Follow-through day exit check:** N/A — no hedge held
+
+### Hedge
+
+SH/SQQQ $625 QUEUED (Correction protocol ACTIVE — state UNCHANGED) | Alpaca Day 95 BLOCKED | Execute FIRST on restore. Do NOT cancel.
+
+### Circuit breakers
+
+| Breaker | Level | Status |
+|---|---|---|
+| Daily −3% | 0% ($0 P&L) | ✅ CLEAR |
+| Weekly −6% | 0% ($0 week P&L) | ✅ CLEAR |
+| Drawdown −12% HWM | 0% from $2,500 | ✅ CLEAR |
+| PDT 3/3 | 0/3 day trades | ✅ CLEAR |
+| Alpaca API | ❌ BLOCKED Day 95 | Network egress — NOT an API key issue |
+
+**No circuit breakers triggered.**
+
+### Weekly trade counter
+
+Week of Jun 15: **0/3 positions** opened. Jun 15: 0 new positions. Count: **0/3 — UNCHANGED.**
+
+### P&L summary
+
+- **Today:** +$0.00 (0.00%)
+- **Week (Jun 15):** +$0.00 (0.00%) — 0 trades, 0 positions
+- **Equity:** $2,500.00 (= HWM)
+
+### EOD /eod-review summary
+
+**Close:** S&P ~7,542 (+1.49%) | QQQ ~$743.60 (+3.85% est.)
+**Distribution days:** 6/25 trailing 25 sessions | Today: NOT dist day ✅ | Count UNCHANGED
+**Market state:** 🔴 Correction UNCHANGED | Rally attempt Day 3 CONFIRMED
+**Positions held:** 0
+**Actions today:** NONE
+**Circuit breakers:** None (Alpaca infra block ongoing)
+**P&L today:** $0.00 (0.00%)
+**Equity:** $2,500.00
+
+### Tomorrow priorities (Jun 16)
+
+1. 🚨 **FOMC Jun 16-17 — NO entries before 1 PM CT Jun 16** (Kevin Warsh first meeting; 97% hold; neutral/hawkish dot expected; hawkish surprise = dist day risk; dovish surprise = FTD fuel)
+2. **FTD Day 4 window opens post-1 PM CT Jun 16** (narrow window; Jun 17 remains best candidate)
+3. **Iran deal formal signing Jun 19 Switzerland** — confirm deal holds; any reversal = oil spike risk
+4. **Alpaca restore CRITICAL — Day 96** — SH $625 FIRST ORDER on restore
+5. May 15 dist expiry Jun 22 → 5/25 (state REMAINS CORRECTION until FTD regardless)
+6. NVDA base watch: wk 8 of cup, no handle formed, no pivot defined — timeline Aug 2026
+
+`research_source: websearch_fallback` | Alpaca Day 95 | Perplexity 403 | AV 403
