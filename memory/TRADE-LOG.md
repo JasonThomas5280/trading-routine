@@ -46,7 +46,7 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-06-12 /eod-review 3:15 PM CT — 0 open positions; Alpaca API blocked Day 91; Jun 12 close S&P **7,431.46 (+0.52%)** DAY 2 CONFIRMED >> 7,266.99; Dow 51,202.26 (+0.70%); Nasdaq 25,888.84 (+0.31%); SPCX $161.11 (+19% Day 1); Iran "final text agreed" — Trump signs weekend 🟢; dist 6/25 NOT dist day; State: 🔴 **MARKET IN CORRECTION UNCHANGED**; FTD window Jun 16 Day 4 (FOMC ⚠️)–Jun 19 Day 7; SH hedge QUEUED (blocked); P&L today: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; `research_source: websearch_fallback`)*
+*(Updated 2026-06-15 /market-check 10:00 AM CT — 0 open positions; Alpaca Day 94 BLOCKED (network egress: "Host not in allowlist: paper-api.alpaca.markets"); S&P ~7,527 (+1.28% intraday) DAY 3 CONFIRMED >> 7,266.99 ✅; Iran deal "COMPLETE" — signing ceremony Jun 19 Switzerland; Oil WTI $80.83 (−4.8%); dist 6/25 NOT dist day ✅; State: 🔴 **MARKET IN CORRECTION UNCHANGED**; FTD window Day 4–6 Jun 16 (FOMC ⚠️)–Jun 18 (LAST; Jun 19 Juneteenth CLOSED); SH hedge QUEUED (blocked); P&L today: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; `research_source: websearch_fallback`)*
 
 ---
 
