@@ -9928,3 +9928,81 @@ Week of Jun 15: **0/3 positions** opened. Jun 15: 0 new positions. Count: **0/3 
 6. NVDA base watch: wk 8 of cup, no handle formed, no pivot defined — timeline Aug 2026
 
 `research_source: websearch_fallback` | Alpaca Day 95 | Perplexity 403 | AV 403
+
+---
+
+## 2026-06-16 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — DAY 4 NO FTD — DOW ATH/NASDAQ −1% — FOMC DAY 1 — ALPACA DAY 96 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: BLOCKED Day 96 — "Host not in allowlist"; Perplexity: 403; Alpha Vantage: 403. Data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | NO new long entries
+
+### Market data (Jun 16 close est.)
+
+| Index | Close (est.) | Change (est.) | Notes |
+|---|---|---|---|
+| S&P 500 | ~7,530 | −0.32% est. | Range 7,516–7,578; pre-FOMC caution; growth→value rotation |
+| QQQ | ~$736 | −1.08% est. | Nasdaq Composite −1.03% confirmed; growth-tech led decline |
+| Dow Jones | ~52,200 | +0.72% | New all-time high; industrials/value led |
+| SpaceX (SPCX) | N/A | +20%+ | Acquired AI startup Anysphere $60B; NOT in S&P/Nasdaq indexes |
+
+**Data confidence:** MODERATE (S&P level estimated from range 7,516–7,578; Nasdaq % confirmed −1.03%; Dow +0.72% confirmed)
+
+### Distribution day check
+
+- S&P Jun 16: ~−0.32% est. → exceeds −0.20% threshold
+- Volume: est. LOWER than Jun 15's elevated Iran-deal surge → volume gate FAILS
+- **NOT a distribution day** ✅
+- Distribution count: **6/25 UNCHANGED** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10)
+- Next natural expiry: May 15 → Jun 22 → 5/25 (state REMAINS CORRECTION until FTD)
+
+### Rally attempt status
+
+- Day 4 close: ~−0.32% est. << +1.25% FTD threshold → **NOT FTD ❌**
+- Rally low 7,266.99 (Jun 10) → today ~7,530 >> low → **INTACT ✅** (+3.6% margin)
+- **FTD window remaining:** Day 5 = Jun 17 (BEST — FOMC decision 2 PM ET) | Day 6 = Jun 18 (LAST viable) | Jun 19 Juneteenth CLOSED
+
+### Market state
+
+🔴 **Market in Correction — UNCHANGED.** Day 4 FTD missed. Best remaining window: Jun 17 (FOMC) post-2 PM ET. A dovish FOMC/dot-plot surprise on strong volume = FTD Day 5. Nasdaq must lead (Dow-only ATH is NOT a valid FTD signal).
+
+### Open positions / sell-rules-engine
+
+- 0 open positions → evaluation SKIPPED per protocol
+- distribution_days: 6 | state: MARKET_IN_CORRECTION | rally_attempt_day: 4 | ftd_eligible: false
+
+### Portfolio-level checks
+
+- Distribution cluster (Rule 4): 6/25 — AT trigger level; 0 positions = no action needed ✅
+- Hedge entry check: State UNCHANGED (Correction). SH/SQQQ $625 QUEUED — Alpaca Day 96 BLOCKED — execute FIRST on restore
+- Follow-through day exit check: N/A — no hedge held
+
+### Circuit breakers
+
+All CLEAR. Equity $2,500 = HWM. 0 open positions. PDT 0/3.
+
+### P&L summary
+
+- **Today:** +$0.00 (0.00%)
+- **Week:** +$0.00 (0.00%) — 0 trades, 0 positions
+- **Equity:** $2,500.00 (= HWM)
+
+### EOD close summary
+
+**Close:** S&P ~7,530 est. (−0.32%) | QQQ ~$736 est. (−1.08%) | Dow +0.72% ATH
+**Distribution days:** 6/25 | Today: NOT dist day (vol gate fails) ✅ | UNCHANGED
+**Market state:** 🔴 Correction UNCHANGED | Rally Day 4 — NO FTD
+**Positions held:** 0 | **Actions today:** NONE
+**Circuit breakers:** None | **P&L today:** $0 | **Equity:** $2,500
+
+### Tomorrow priorities (Jun 17)
+
+1. 🚨 **FOMC DECISION 2 PM ET (1 PM CT)** — NO entries before 1 PM CT — dot plot + Warsh presser
+   - 97% prob hold at 3.50–3.75%; dot plot is THE event (dovish → FTD fuel; hawkish → dist day risk)
+   - **FTD Day 5 — HIGHEST probability remaining window**
+   - FTD requires: S&P OR Nasdaq ≥+1.25% on volume HIGHER than Jun 16
+2. FTD Day 6 = Jun 18 (LAST viable; Jun 19 Juneteenth CLOSED)
+3. Alpaca restore CRITICAL — Day 97 — SH $625 FIRST ORDER
+4. May 15 dist expiry Jun 22 → 5/25 (stays CORRECTION until FTD)
+5. Iran deal formal signing Jun 19 Switzerland — confirm deal intact
+
+`research_source: websearch_fallback` | Alpaca Day 96 | Perplexity 403 | AV 403

@@ -2826,3 +2826,17 @@ Circuit breakers: ALL CLEAR
 ⚠️ Alpaca BLOCKED Day 97 — SH $625 hedge QUEUED — restore = CRITICAL
 Tomorrow: ⚠️ FOMC decision Jun 17 2 PM ET (1 PM CT) — NO entries before 1 PM CT Jun 17 | FTD Day 5 Jun 17 = BEST candidate | Day 6 Jun 18 = LAST viable FTD day | Jun 19 = Juneteenth CLOSED
 Weekly trades: 0/3 | Equity: $2,500 (HWM) | P&L today: $0 | P&L week: $0
+
+---
+## 2026-06-16 20:22 CT [clickup-placeholder]
+
+📊 EOD 2026-06-16 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction — UNCHANGED)
+Rally attempt: Day 4 complete — NO FTD (S&P ~−0.32% est. vs +1.25% needed)
+Dow NEW ATH (+0.72%) | Nasdaq −1.03% | Rotation: growth→value pre-FOMC
+Actions today: NONE | sell-rules-engine: SKIPPED (0 positions)
+Blockers: Alpaca Day 96 BLOCKED | SH $625 QUEUED
+Tomorrow: FOMC DECISION 2 PM ET (1 PM CT) — NO entries before then
+  🎯 FTD Day 5 — best remaining window — need S&P OR Nasdaq ≥+1.25% vol>today
+  FTD Day 6 = Jun 18 (LAST viable; Jun 19 Juneteenth CLOSED)
