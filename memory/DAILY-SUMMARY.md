@@ -1,5 +1,22 @@
 
 ---
+## 2026-06-16 06:00 CT [pre-market — CORRECTION UNCHANGED — FOMC DAY 4 FTD WINDOW — NO ENTRIES BEFORE 1 PM CT — ALPACA DAY 96]
+
+🌅 Pre-market 2026-06-16
+Market: 🔴 Correction (6/25 dist days) | Futures: ES steady / NQ steady (flat, pausing after Jun 15 +1.49%)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+⚠️ FOMC TODAY: Kevin Warsh Day 4 FTD window — NO entries before 1 PM CT | Decision 2 PM ET (1 PM CT) | 99.6% hold (3.50–3.75%) | Warsh expected hawkish/neutral; dot plot = key signal | If hawkish (rate hike hint) → dist day risk (7/25) | If neutral hold → FTD window post-1 PM CT (~20% probability today)
+Watchlist ready 🟢: NONE
+Watchlist watching 🟡: NVDA (68/100; cup wk 9; no handle; no pivot; $20B bond offering Jun 15 = NEUTRAL; base est. Aug 2026+)
+Removed 🔴: DELL (55/100 watch-only; Silver Lake overhang) | AVGO (55/100 watch-only; no base)
+Key catalyst today: FOMC announcement 2 PM ET — Warsh tone + dot plot define Jun 17 FTD odds
+Iran deal: Intact. Oil ~$80/bbl. No deal collapse signals.
+NVDA: $20B bond offering (debt, neutral; $80B buyback intact; 68/100 UNCHANGED; base NOT complete)
+Alpaca: BLOCKED Day 96 (network egress: paper-api.alpaca.markets). SH $625 hedge QUEUED.
+Plan: NO entries — Correction state + FOMC gate before 1 PM CT + Alpaca blocked + 0 primary candidates. Watch FOMC closely: if S&P +1.25%+ on above-avg vol after 1 PM CT = FTD confirmed → upgrade to Confirmed Uptrend. Best FTD candidate = Jun 17 (Day 5). Last viable FTD day = Jun 18 (Day 6). Jun 19 = Juneteenth CLOSED.
+
+---
 ## 2026-06-10 10:00 CT [market-check — CORRECTION UNCHANGED — CPI INLINE/COOLER CORE — DAY 3 RALLY INTACT — ALPACA BLOCKED]
 
 📈 Market-check 2026-06-10 10:00 AM CT

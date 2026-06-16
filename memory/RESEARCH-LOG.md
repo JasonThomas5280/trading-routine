@@ -46,6 +46,69 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-16 (Tue) — /pre-market (6:00 AM CT) — FOMC DAY 4 FTD WINDOW — NVDA $20B BOND — FUTURES STEADY — HOLD 99.6% — ALPACA DAY 96
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 96; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** | NO new long entries | State UNCHANGED
+**FTD status:** NOT CONFIRMED. Today = FTD window **Day 4 (FOMC ⚠️ NO entries before 1 PM CT)**. FTD window remaining: Day 4 = TODAY Jun 16 (post-1 PM only) | Day 5 = Jun 17 (BEST) | Day 6 = Jun 18 (LAST). Jun 19 = Juneteenth CLOSED.
+**Weekly trade count:** 0/3 | **Open positions:** 0
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures (Jun 16 pre-mkt) | **Steady / flat** | "Steadied early-Tuesday as Wall Street paused for breath after logging strong gains" (Barchart). No directional gap-up or gap-down. Markets waiting on FOMC. |
+| NQ futures (Jun 16 pre-mkt) | **Steady** | Same as ES — consolidation after Jun 15 +3.85% QQQ surge. |
+| FOMC Jun 16-17 | **99.6% probability HOLD** (3.50–3.75%) | Kevin Warsh first FOMC as chair. Rate decision ~2 PM ET (1 PM CT) + press conference ~2:30 PM ET. Markets pricing near-certainty of hold. Warsh expected to remove easing bias and shift to neutral/hawkish language. Dot plot = key forward signal. Potential: rate hike language if hot CPI persists. **NO entries before 1 PM CT today regardless of FTD.** |
+| Iran deal | **Intact** | WTI ~$80/bbl (IG Jun 16 confirms "Oil falls on US-Iran deal"). Deal framework holding; formal signing TBD (Jun 19 Switzerland — but Jun 19 = US Juneteenth; Swiss ceremony may differ). No deal collapse signals. IEA notes ~14M bbl/day supply shutdown; production restoration takes time regardless of deal. |
+| Oil (WTI) | **~$80/bbl** | Lowest since March 10 per IEA. Inflation relief confirmed. |
+| Inflation regime | **Hawkish bias persists** | Fed funds futures earlier suggested "markets largely abandoning hopes for cuts" + "room for potential increase late 2026 if pressures don't recede." May CPI +4.2% YoY (energy-driven) still elevated. Warsh's tone today is the key catalyst. |
+
+**FTD Day 4 assessment:**
+- FOMC hold is 99.6% certain → market "sigh of relief" rally possible post-announcement
+- Warsh removing easing bias = HAWKISH SURPRISE risk → potential distribution day if market sells the reaction
+- **Narrow FTD window today:** S&P must close +1.25%+ on above-avg vol; with no entries before 1 PM CT, a late-day surge would need to be substantial and sustained
+- **Probability of FTD today: ~20%** (narrow window, vol uncertainty)
+- **Best FTD candidate: Jun 17 (Day 5)** — post-FOMC clarity + Iran deal fully priced
+
+### Overnight gap check on open positions
+
+**0 open positions → SKIPPED (empty batch)**
+
+### Catalyst scan — primary watchlist
+
+**0 primary watchlist items (0 names ≥75) → SKIPPED**
+
+### Catalyst scan — bench names
+
+- **NVDA (~$211.94 AH, −$0.51 from $212.45 Jun 15 close):** ⚠️ **$20B bond offering announced Jun 15.** Nvidia filing for first corporate bond sale since 2021 (last: $5B in June 2021). 7 tranches, 2–30 year maturities. Yield on 30-yr: ~0.9 pts above Treasuries. Underwriters: JPM, MS, GS. Use of proceeds: refinance existing debt + AI chip production capex. **Score impact: NEUTRAL.** Bond (debt) ≠ equity dilution; does not trigger S-letter downgrade. $80B buyback still active. Confirms AI capex buildout strength (N-letter supportive). **NVDA Score: 68/100 UNCHANGED.** Stock at ~$212 vs ATH $235.47 = −10.0% off ATH (improvement from prior −12.86%). Still "within 15%" for N-letter (not yet within 5% = 10 pts). Base NOT complete (cup wk 9; no handle; no pivot; est. late Jul/Aug 2026). 🟡 BENCH UNCHANGED.
+- **DELL (~$395–443 est.):** No new overnight catalysts. Analyst consensus $443 price target / Buy from 16 analysts. Silver Lake selling status unknown (no new 13D/A update found). **Score: 55/100 UNCHANGED.** ❌ WATCH-ONLY.
+- **AVGO (~$394.82 Jun 16 range $388.60–$396.82):** Trading near prior range. No new overnight catalysts. Score: **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+
+### Buy-zone status
+
+| Symbol | Score | Last | Pivot | Distance | Status |
+|---|---|---|---|---|---|
+| NVDA | 68/100 | ~$212 | UNDEFINED (no handle yet) | N/A | 🔴 BLOCKED — base not complete; Correction; below 75 without base |
+| DELL | 55/100 | ~$395–443 | N/A | N/A | 🔴 WATCH-ONLY |
+| AVGO | 55/100 | ~$394 | N/A | N/A | 🔴 WATCH-ONLY |
+
+**0 names at or near pivot. 0 primary candidates. All entries blocked by Correction + Alpaca + score.**
+
+### Risks for today's session
+
+1. **FOMC announcement 2 PM ET (1 PM CT) — PRIMARY RISK:** If Warsh signals rate hike possibility or dot plot shifts hawkish → potential dist day (7/25). Deepens Correction.
+2. **Narrow FTD window today:** Even if FOMC hold + neutral → S&P needs +1.25%+ in ~90 min window (1–2:30 PM CT) = difficult to sustain
+3. **No entries before 1 PM CT** — iron rule regardless of FTD or market action
+4. **Jun 17 (Day 5) is the real FTD test:** Post-FOMC clarity will determine tomorrow's conviction
+5. **Jun 18 = last viable FTD day** — if no FTD by Thu close, window closes and new rally attempt required
+
+### Circuit breakers
+
+ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca Day 96 BLOCKED | SH $625 hedge: QUEUED (Correction protocol active)
+
+---
+
 ## 2026-06-15 (Mon) — /pre-market (6:00 AM CT) — 🔥 IRAN DEAL COMPLETE — ES +1.3% NQ +2.1% GAP-UP — DAY 3 RALLY — FTD WINDOW DAY 4–6 (JUN 19 JUNETEENTH CLOSED) — FOMC JUN 16-17 — ALPACA DAY 93
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 93; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)

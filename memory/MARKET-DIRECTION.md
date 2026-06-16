@@ -8,7 +8,7 @@
 
 **Status:** 🔴 **MARKET IN CORRECTION** *(Jun 15 /eod-review 3:15 PM CT: S&P ~7,542 (+1.49% close) | DAY 3 CONFIRMED — 275 pts above 7,266.99 rally low | 50d MA ~7,248 | 200d MA ~6,882 | Dist 6/25 UNCHANGED | NOT dist day ✅ | FTD window Day 4–6: Jun 16 (FOMC ⚠️) – Jun 18 (LAST; Jun 19 Juneteenth CLOSED) | Iran deal COMPLETE (signing Jun 19 Switzerland) | QQQ ~$743.60 | Oil WTI ~$80.83 | Alpaca Day 95 BLOCKED | Perplexity 403 | AV 403 | 0 candidates ≥75)*
 
-**Last updated:** 2026-06-15 (Mon) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED | DAY 3 CONFIRMED CLOSE +1.49% ~7,542 | NOT DIST DAY ✅ | 6/25 DIST UNCHANGED | QQQ ~$743.60 | IRAN DEAL COMPLETE | FTD WINDOW DAY 4–6 JUN 16–18 (JUN 19 JUNETEENTH CLOSED) | 0 POSITIONS | ALPACA DAY 95 BLOCKED**
+**Last updated:** 2026-06-16 (Tue) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED | FOMC DAY 4 FTD WINDOW — NO ENTRIES BEFORE 1 PM CT | NVDA $20B BOND NEUTRAL | FUTURES STEADY | FOMC HOLD 99.6% | IRAN DEAL INTACT OIL ~$80 | ALPACA DAY 96 BLOCKED**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Needs FTD to upgrade | May 15 expires **Jun 22** (Juneteenth correction) → 5/25 (STILL CORRECTION until FTD)
 **Distribution days: 6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Jun 12 S&P +0.52% → NOT dist day ✅ | Jun 15 S&P +1.49% → NOT dist day ✅ | Count UNCHANGED
 **Technical picture (Jun 12 close):** S&P 7,431.46 | 50d MA ~7,248 | **+2.53% above 50d** | 200d MA ~6,882 | **+7.97% above 200d** | QQQ ~$716 est. | Both indices above 50d = bullish technical setup if FTD fires
@@ -29,6 +29,22 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 16 PRE-MARKET (/pre-market 6:00 AM CT — 🔴 CORRECTION UNCHANGED — FOMC DAY 4 FTD WINDOW — NO ENTRIES BEFORE 1 PM CT — NVDA $20B BOND (NEUTRAL) — FUTURES STEADY — FOMC HOLD 99.6% — IRAN DEAL INTACT OIL ~$80 — ALPACA DAY 96 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | State UNCHANGED — needs FTD to upgrade
+- **Futures:** ES/NQ **steady / flat** — "Paused for breath after strong Jun 15 gains" (Barchart). No directional move overnight. Markets waiting on FOMC announcement 2 PM ET (1 PM CT). No gap-up or gap-down.
+- **FOMC Jun 16-17 (TODAY ⚠️):** Kevin Warsh first FOMC as Chair | **99.6% probability HOLD** (3.50-3.75%) | Decision 2 PM ET (1 PM CT) + press conference ~2:30 PM ET | Warsh expected to remove easing bias → neutral/hawkish language | Dot plot = key forward signal | Fed funds futures: "markets abandoning hopes for cuts; leaving room for potential hike late 2026 if inflation persists" | **NO entries before 1 PM CT TODAY regardless of FTD**
+- **Iran deal:** Intact. Oil WTI ~$80/bbl (IG Jun 16 confirms "Oil falls on US-Iran deal"). Deal framework holding; formal signing TBD. IEA notes 14M bbl/day supply shutdown; restoration takes time. No deal collapse signals.
+- **FTD Day 4 window (TODAY after 1 PM CT):** If FOMC hold + neutral → narrow post-1 PM rally possible = FTD possible but LOW probability (~20%) given narrow window | If Warsh hawkish (rate hike signal) → potential dist day #7 (7/25) | **Best FTD candidate REMAINS Jun 17 (Day 5)** — post-FOMC clarity
+- **NVDA (~$211.94 AH, −$0.51 from $212.45 Jun 15 close):** **$20B bond offering announced Jun 15** (7 tranches, 2–30 yr; first since 2021; JPM/MS/GS underwriting; AI chip capex + debt refinance) → **NEUTRAL** (debt ≠ equity dilution; $80B buyback intact; confirms AI buildout conviction). Now −10.0% off ATH $235.47 (improved from −12.86%). Still "within 15%" for N-letter. **68/100 UNCHANGED.** 🟡 BENCH. Base NOT complete (cup wk 9; no handle; no pivot; est. Aug 2026+).
+- **DELL (~$395–443 est.):** No new overnight catalysts. Silver Lake update unavailable. **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+- **AVGO (~$394.82; range $388.60–$396.82):** No new overnight catalysts. **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** (EMPTY BATCH)
+- **Hedge check:** SH/SQQQ $625 QUEUED (Correction protocol ACTIVE) | Alpaca Day 96 BLOCKED | Execute FIRST on Alpaca restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 96 blocked + 0 positions + FOMC gate)
+- **Watch at /market-check 10:00 AM CT:** (1) 🚨 FOMC Day 4 — **NO entries before 1 PM CT regardless** (2) FOMC decision 2 PM ET — HOLD expected; watch Warsh language: neutral → FTD possible post-1 PM CT; hawkish → dist day risk (7/25) (3) If S&P +1.25%+ on above-avg vol after 1 PM CT = FTD Day 4 confirmed → upgrade to Confirmed Uptrend (4) Day 5 Jun 17 = BEST FTD candidate if today disappoints (5) Jun 18 = last viable FTD day (6) NVDA $20B bond — no action needed
+- `research_source: websearch_fallback` | Alpaca Day 96 | Perplexity 403 | AV 403
 
 **✅ JUN 15 PRE-MARKET (/pre-market 6:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 3 RALLY ATTEMPT — 🔥 IRAN DEAL COMPLETE — ES +1.3% NQ +2.1% GAP-UP — FOMC JUN 16-17 (DAY 4 NO ENTRIES BEFORE 1 PM CT) — ⚠️ JUN 19 JUNETEENTH MARKET CLOSED → FTD WINDOW ENDS JUN 18 — ALPACA DAY 93 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | State UNCHANGED — needs FTD to upgrade
