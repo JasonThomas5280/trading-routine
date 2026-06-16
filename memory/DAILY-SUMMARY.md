@@ -2804,3 +2804,25 @@ Circuit breakers: ALL CLEAR
 ⚠️ Alpaca BLOCKED Day 95 — SH $625 hedge QUEUED — restore = CRITICAL
 Tomorrow: FOMC Jun 16-17 — NO entries before 1 PM CT | FTD Day 4 window opens post-1 PM | Best FTD candidate: Jun 17 (Day 5) | Iran deal signing Jun 19 Switzerland
 Watchlist: 0 primary candidates (NVDA 68/100 bench, DELL 55/100 watch, AVGO 55/100 watch)
+
+---
+## 2026-06-16 10:00 CT [market-check — CORRECTION UNCHANGED — DAY 4 NOT FTD +0.13% — FOMC DECISION TOMORROW JUN 17 — HOUSING STARTS WEAK — ALPACA DAY 97]
+
+📈 Market-check 2026-06-16 10:00 CT
+Market: 🔴 CORRECTION (6/25 dist days) | Circuit breakers: NONE
+Actions taken: No new entries — ALL ABORT GATES FIRED
+  - Gate 1: 🔴 Correction state → ALL long entries BLOCKED
+  - Gate 2: Alpaca Day 97 BLOCKED (network egress: paper-api.alpaca.markets not in allowlist)
+  - Gate 3: FOMC meeting in session (decision TOMORROW Jun 17 2 PM ET — ⚠️ PRIOR LOG CORRECTION: decision is Jun 17 NOT Jun 16; no-entry gate = Jun 17 before 1 PM CT)
+Intraday (10 AM CT / 11 AM ET): S&P +0.13% ~7,552 | Dow +0.78% | Nasdaq +0.02% | Russell +0.72%
+FTD Day 4 check: +0.13% — FAR from +1.25% threshold (84 pts short) → NOT FTD | Day 5 Jun 17 = BEST candidate (post-FOMC after 1 PM CT) | Day 6 Jun 18 = LAST
+⚠️ FOMC TIMING CORRECTION: Prior logs said "FOMC decision 2 PM ET Jun 16." CONFIRMED WRONG. Decision is TOMORROW Jun 17 at 2 PM ET (1 PM CT). No-entry gate moves to Jun 17. Two-day meeting: Day 1 = Jun 16 (today), Day 2 = Jun 17 (decision + press conference)
+Housing starts May 2026: −15.4% to 1.177M (lowest since May 2020) — weak construction; slight dovish signal for tomorrow
+Iran deal: Intact | Oil WTI ~$80.75 | No deal collapse signals
+Watchlist: 0 primary | NVDA 68/100 🟡 BENCH (base wk 9, no handle, Aug 2026+) | DELL 55/100 ❌ | AVGO 55/100 ❌
+sell-rules-engine: SKIPPED (empty batch — 0 positions)
+Bench promotions/demotions: NONE
+Circuit breakers: ALL CLEAR
+⚠️ Alpaca BLOCKED Day 97 — SH $625 hedge QUEUED — restore = CRITICAL
+Tomorrow: ⚠️ FOMC decision Jun 17 2 PM ET (1 PM CT) — NO entries before 1 PM CT Jun 17 | FTD Day 5 Jun 17 = BEST candidate | Day 6 Jun 18 = LAST viable FTD day | Jun 19 = Juneteenth CLOSED
+Weekly trades: 0/3 | Equity: $2,500 (HWM) | P&L today: $0 | P&L week: $0
