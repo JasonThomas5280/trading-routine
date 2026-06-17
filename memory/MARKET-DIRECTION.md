@@ -6,9 +6,9 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 17 /pre-market 6:00 AM CT: S&P ~7,548–7,552 (Jun 16 close, −0.08%) | NOT DIST DAY ✅ | DAY 5 FTD WINDOW — BEST CANDIDATE TODAY | FOMC ⚠️ 2 PM ET — NO ENTRIES BEFORE 1 PM CT | Dist 6/25 UNCHANGED | 50d MA ~7,248 | 200d MA ~6,882 | FTD threshold ~7,664 from open est. ~7,569 | Iran deal intact (signing Jun 19 Switzerland) | Oil ~$83 Brent | Alpaca Day 98 BLOCKED | Perplexity 403 | AV 403 | 0 candidates ≥75)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jun 17 /market-check 10:00 AM CT: S&P ~7,536 (+0.33% pre-FOMC) | NOT DIST DAY (so far) ✅ | DAY 5 FTD — FOMC 2 PM ET — NO ENTRIES BEFORE 1 PM CT | Dist 6/25 UNCHANGED | Retail Sales May +0.9% BEAT | FTD threshold ~7,630 (94+ pts away) | FTD Day 6 = Jun 18 (LAST) | Jun 19 Juneteenth CLOSED | Alpaca Day 99 BLOCKED | Perplexity 403 | AV 403 | 0 candidates ≥75)*
 
-**Last updated:** 2026-06-17 (Wed) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED | FTD DAY 5 BEST CANDIDATE — FOMC 2PM ET TODAY — NO ENTRIES BEFORE 1 PM CT — JUN 16 CLOSE ~7,548 (−0.08%) NOT DIST DAY ✅ — NVDA $25B BOND COMPLETE — IRAN SIGNING JUN 19 — ALPACA DAY 98 BLOCKED**
+**Last updated:** 2026-06-17 (Wed) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED | DAY 5 FTD — S&P +0.33% ~7,536 PRE-FOMC — FOMC 2 PM ET NO ENTRIES BEFORE 1 PM CT — RETAIL SALES +0.9% BEAT — CHIPS RECOVERING — ALPACA DAY 99 BLOCKED**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Jun 16: −0.08% → NOT dist day ✅ | Needs FTD to upgrade | May 15 expires **Jun 22** → 5/25 (STILL CORRECTION until FTD)
 **Distribution days: 6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Jun 12 S&P +0.52% → NOT dist day ✅ | Jun 15 S&P +1.49% → NOT dist day ✅ | Count UNCHANGED
 **Technical picture (Jun 12 close):** S&P 7,431.46 | 50d MA ~7,248 | **+2.53% above 50d** | 200d MA ~6,882 | **+7.97% above 200d** | QQQ ~$716 est. | Both indices above 50d = bullish technical setup if FTD fires
@@ -29,6 +29,23 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 17 MARKET-CHECK (/market-check 10:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 5 FTD PRE-FOMC — S&P +0.33% ~7,536 — ⚠️ FOMC 2 PM ET NO ENTRIES BEFORE 1 PM CT — RETAIL SALES +0.9% BEAT — CHIPS RECOVERING — ALPACA DAY 99 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | State UNCHANGED
+- **Abort gates — ALL FIRED:** (1) 🔴 Correction state → ALL long entries BLOCKED; (2) ⚠️ FOMC gate → NO entries before 1 PM CT; (3) Alpaca Day 99 BLOCKED → no execution possible. Skip to step 6.
+- **S&P 500 (10 AM CT / 11 AM ET):** ~7,536 (+0.33% from ~7,530 Jun 16 close) | "Rally pauses ahead of Fed decision" (Schwab) | Chips recovering from Tue slide | Dow futures tumbled overnight; S&P/Nasdaq gained modestly | `research_source: websearch_fallback` | Alpaca Day 99 BLOCKED
+- **Retail sales May 2026:** +0.9% MoM vs +0.5% est → **BEAT ✅** | Strong consumer spending | Slightly hawkish FOMC read (reduces urgency to cut) | Positive for GDP/earnings
+- **FTD Day 5 tracking (TODAY — BEST CANDIDATE):** FTD threshold ~7,630 (~7,536 × 1.0125) | Currently ~7,536 → need ~94+ pts after 1 PM CT | Pre-FOMC calm (+0.33%) = not in FTD territory | FTD probability MODERATE (35-45%) — depends entirely on Warsh tone + dot plot | FTD Day 6 = Jun 18 (LAST viable); Jun 19 = Juneteenth CLOSED
+- **⚠️ FOMC TODAY — 2 PM ET / 1 PM CT:** 97% HOLD (3.50-3.75%) | Dot plot key: median likely removes all 2026 cuts; 3+ members may project hikes; Warsh NOT submitting own dot | **Bull case:** neutral language + ≤2 hike projectors → post-FOMC rally → FTD possible | **Bear case:** hawkish dot (4+ hike projectors) + Warsh hawkish → selloff → dist day #7 risk (7/25) | **Iron rule: NO entries before 1 PM CT**
+- **Distribution day check (Jun 17 so far):** S&P +0.33% intraday → NOT a dist day as of 10 AM CT ✅ | Confirm at /eod-review (post-FOMC reaction determines)
+- **Watchlist triggers (primary):** ZERO primary items → 0 triggers evaluated ✅ | NVDA: ~$210-214 est. (chips rebounding; base NOT complete wk 10+; no handle; 68/100 UNCHANGED; 🟡 BENCH) | DELL: ~$415-425 est. (chips recovering; Silver Lake overhang; 55/100 UNCHANGED; ❌ WATCH-ONLY) | AVGO: ~$395-410 est. (chips recovering; 55/100 UNCHANGED; ❌ WATCH-ONLY)
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **Bench promotion check:** NVDA (wk 10+ cup, no handle, no pivot, Aug 2026+) → NO | DELL (55/100 watch-only) → NO | AVGO (55/100 watch-only) → NO | **No promotions/demotions**
+- **SH/SQQQ hedge:** QUEUED $625 / 25% portfolio | Alpaca Day 99 BLOCKED | Execute FIRST on restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca blocked + FOMC gate + 0 positions + 0 primary)
+- **Watch at /eod-review 3:15 PM CT:** (1) 🚨 FOMC 2 PM ET: hold vs dot plot surprise; (2) FTD: S&P close ≥+1.25% on above-avg vol post-1 PM CT → Day 5 FTD → Confirmed Uptrend → exit SH hedge; (3) Dist #7: close ≤−0.20% on vol > Jun 16 → 7/25 → deeper Correction; (4) Day 6 = Jun 18 LAST viable; Jun 19 Juneteenth CLOSED
+- `research_source: websearch_fallback` | Alpaca Day 99 | Perplexity 403 | AV 403
 
 **✅ JUN 17 PRE-MARKET (/pre-market 6:00 AM CT — 🔴 CORRECTION UNCHANGED — FTD DAY 5 BEST CANDIDATE — ⚠️ FOMC 2 PM ET NO ENTRIES BEFORE 1 PM CT — JUN 16 CLOSE ~7,548 (−0.08%) NOT DIST DAY — NVDA $25B BOND DONE — DELL $1.44B AIR FORCE — IRAN SIGNING JUN 19 — ALPACA DAY 98 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10) | Jun 16: −0.08% → **NOT dist day ✅** | State UNCHANGED — needs FTD to upgrade

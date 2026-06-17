@@ -2862,3 +2862,24 @@ Tomorrow: FOMC DECISION 2 PM ET (1 PM CT) — NO entries before then
 ## 2026-06-17 11:11 CT [clickup-placeholder]
 
 🌅 Pre-market 2026-06-17 | Market: 🔴 Correction (6/25 dist) | Futures: ES +0.28% ~7,569 | Jun 16 close ~7,548 (−0.08%) NOT dist ✅ | 0 positions | FOMC TODAY 2 PM ET — NO entries before 1 PM CT | FTD Day 5 BEST — need +1.25% on vol post-1 PM (~7,664 target) | Day 6=Jun18 LAST | Jun19 CLOSED | Iran deal intact (signing Jun 19 Switzerland) Brent ~3 | NVDA 5B bond done 08 pre-mkt 68/100 BENCH | DELL .44B Air Force MS license 13 pre-mkt 55/100 WATCH-ONLY | AVGO ~95 55/100 WATCH-ONLY | Alpaca BLOCKED Day 98 SH 25 QUEUED | Plan: NO entries — watch FTD after 1 PM CT
+
+---
+## 2026-06-17 10:00 CT [market-check]
+
+📈 Market-check 2026-06-17 10:00 AM CT
+Market: 🔴 Correction (6/25 dist) | Circuit breakers: NONE
+Actions taken:
+  No new entries — ALL abort gates fired:
+    1. Market state = CORRECTION (not Confirmed Uptrend)
+    2. FOMC gate — NO entries before 1 PM CT (decision 2 PM ET)
+    3. Alpaca Day 99 BLOCKED (paper-api.alpaca.markets not in allowlist)
+FTD Day 5 tracking: S&P ~7,536 (+0.33%) pre-FOMC | Threshold ~7,630 | 94+ pts needed post-1 PM CT
+  ⚠️ FOMC 2 PM ET: 97% HOLD; dot plot key; Warsh drops own dot; 3+ members may project hikes
+  Bull case: neutral dot → FTD possible Day 5 → upgrade to Confirmed Uptrend
+  Bear case: hawkish dot (4+ hike projectors) → dist #7 risk (7/25)
+  FTD Day 6 = Jun 18 (LAST viable); Jun 19 = Juneteenth CLOSED
+Retail Sales May: +0.9% vs +0.5% est (BEAT ✅ — strong consumer)
+Watchlist status: 0 ready, 0 primary, 3 bench/watch-only (NVDA 68/100, DELL 55/100, AVGO 55/100)
+Open positions: 0 | Deployed: 0% | Cash: 100%
+Weekly trade count: 0 of 3 used
+Next check: /eod-review 3:15 PM CT (FOMC FTD vs dist#7 determination)

@@ -46,7 +46,7 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-06-17 /pre-market 6:00 AM CT — 0 open positions; Alpaca Day 98 BLOCKED; Jun 16 S&P ~7,548–7,552 (−0.08% per TheStreet); Dow +0.64% new ATH; NOT dist day ✅; dist 6/25 UNCHANGED; FTD Day 5 = TODAY (BEST); ⚠️ FOMC 2 PM ET NO entries before 1 PM CT; State: 🔴 **MARKET IN CORRECTION UNCHANGED**; NVDA $25B bond complete $208 pre-mkt; DELL $1.44B Air Force MS license $413 pre-mkt; Iran signing Jun 19; sell-rules-engine SKIPPED (0 positions); P&L today: $0; P&L week: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; `research_source: websearch_fallback`)*
+*(Updated 2026-06-17 /market-check 10:00 AM CT — 0 open positions; Alpaca Day 99 BLOCKED; S&P ~7,536 (+0.33% pre-FOMC); Retail Sales May +0.9% BEAT; chips recovering; FTD Day 5 = TODAY — FOMC 2 PM ET — threshold ~7,630 (94+ pts needed); State: 🔴 **MARKET IN CORRECTION UNCHANGED** (6/25); sell-rules-engine SKIPPED (0 positions); P&L today: $0; P&L week: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; `research_source: websearch_fallback`)*
 
 ---
 
