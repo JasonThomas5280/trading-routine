@@ -2883,3 +2883,40 @@ Watchlist status: 0 ready, 0 primary, 3 bench/watch-only (NVDA 68/100, DELL 55/1
 Open positions: 0 | Deployed: 0% | Cash: 100%
 Weekly trade count: 0 of 3 used
 Next check: /eod-review 3:15 PM CT (FOMC FTD vs dist#7 determination)
+
+---
+
+## EOD Summary — 2026-06-17 (Wed) | 3:15 PM CT
+
+📊 EOD [2026-06-17] | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 7 of 25 (market: 🔴 Correction — DEEPENING)
+
+FOMC HAWKISH SHOCK:
+  • Fed HELD 3.50-3.75% (12-0) — expected
+  • DOT PLOT SURPRISE: 9/18 members project 2026 rate hike; 6/18 project 2
+  • Median FFR end-2026: 3.8% (vs 3.4% March) — first upward revision in cycle
+  • Warsh: no forward guidance, shorter statement, 5 Fed task forces
+  • 2-yr yield +16bps to 4.208%
+
+Market close:
+  • S&P 500: ~7,420 (−1.21%) — DIST DAY #7
+  • Nasdaq: −1.34%
+  • Dow: −507 pts (−0.98%)
+
+Actions today: NONE (Correction + Alpaca Day 100 blocked + 0 positions)
+
+FTD window status:
+  • Day 5 (today): FAILED — became dist day #7 instead
+  • Day 6: Jun 18 (LAST before Juneteenth) — LOW probability ≤15%
+  • Day 7: Jun 20 (triple witching; Jun 19 closed) — extended window
+  • Rally low 7,266.99 INTACT (153 pts margin)
+
+Tomorrow watchlist (Jun 18):
+  • FTD Day 6 — S&P needs +1.25%+ on above-avg vol (LOW odds after hawkish FOMC)
+  • Dist Day #8 risk — watch for continuation selloff
+  • NVDA wk 10 base, no handle (Aug 2026+)
+  • 🚨 Alpaca restore Day 100 — SH $625 FIRST ORDER
+
+SH hedge: QUEUED $625 / 25% sizing — Alpaca blocked — execute FIRST on restore
+

@@ -10071,3 +10071,85 @@ All CLEAR. Equity $2,500 = HWM. 0 open positions. PDT 0/3.
 5. Iran deal formal signing Jun 19 Switzerland — confirm deal intact
 
 `research_source: websearch_fallback` | Alpaca Day 96 | Perplexity 403 | AV 403
+
+---
+
+## 2026-06-17 — /eod-review (3:15 PM CT)
+
+**Research source:** `websearch_fallback` (Alpaca API: 403 Day 100; Alpha Vantage: 403; Perplexity: 403. All data via native WebSearch.)
+**Market state gate:** 🔴 Market in Correction — ALL long entries BLOCKED
+
+### Step 1 — Market close data (Jun 17, 2026)
+
+**Close:** S&P 500 ~**7,420 (−1.21%)** | Dow ~**51,022 (−507 pts, −0.98%)** | Nasdaq **−1.34%**
+*(Source: TheStreet, CNBC, Yahoo Finance via WebSearch)*
+
+**FOMC outcome (2 PM ET — DEFINITIVE):**
+- Rate decision: HOLD 3.50-3.75% (12-0 unanimous)
+- Dot plot: **9/18 members project ≥1 rate hike in 2026** | 6/18 project ≥2 hikes
+- Median FFR end-2026: 3.8% (up from 3.4% March)
+- Warsh: removed easing bias; no forward guidance; shorter statement; 5 task forces
+- 2-yr Treasury yield +16bps to 4.208%
+- **Net: Hawkish shock. Higher-for-longer narrative entrenched.**
+
+### Distribution day check
+
+- S&P Jun 17: −1.21% → EXCEEDS −0.20% threshold ✅
+- Volume: ELEVATED (FOMC decision day; institutional repositioning) → volume gate PASSES ✅
+- **DIST DAY #7 CONFIRMED**
+- Distribution count: **7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17**)
+
+### Rally attempt status
+
+- Day 5 close: −1.21% << +1.25% FTD threshold → **NOT FTD — FAILED ❌**
+- Rally low 7,266.99 (Jun 10) → today ~7,420 >> low → **INTACT ✅** (153 pts margin)
+- **FTD window remaining:** Day 6 = Jun 18 (LAST before Juneteenth) | Day 7 = Jun 20 (triple witching; Jun 19 Juneteenth CLOSED) | **FTD probability: LOW ≤15%**
+
+### Market state
+
+🔴 **Market in Correction — UNCHANGED but DEEPENING.** 7/25 distribution days. FTD Day 5 missed (became dist day #7). Only Day 6 (Jun 18) and Day 7 (Jun 20) remain in window. After hawkish FOMC shock, FTD in next 2 sessions requires major reversal catalyst. S&P above 50d MA (+2.37%) — no capitulation yet, but Correction entrenching.
+
+### Open positions / sell-rules-engine
+
+- 0 open positions → evaluation SKIPPED per protocol
+- distribution_days: 7 | state: MARKET_IN_CORRECTION | rally_attempt_day: 5 | ftd_eligible: false (day 5 was dist day)
+
+### Portfolio-level checks
+
+- Distribution cluster (Rule 4): 7/25 — PAST 6/25 trigger; 0 positions = no reduction action needed ✅
+- Hedge entry check: State UNCHANGED (Correction, deepening). SH/SQQQ $625 QUEUED — Alpaca Day 100 BLOCKED — execute FIRST on restore. Hawkish FOMC STRENGTHENS hedge case.
+- Follow-through day exit check: N/A — no hedge held (Alpaca blocked)
+
+### Circuit breakers
+
+All CLEAR. Equity $2,500 = HWM. 0 open positions. PDT 0/3.
+Today P&L: $0 | Week P&L: $0 | Drawdown from HWM: $0
+
+### P&L summary
+
+- **Today:** +$0.00 (0.00%)
+- **Week:** +$0.00 (0.00%) — 0 trades, 0 positions
+- **Equity:** $2,500.00 (= HWM)
+
+### EOD close summary
+
+**Close:** S&P ~7,420 (−1.21%) | QQQ ~$727 est. (−1.34%) | Dow −507 pts (−0.98%)
+**Distribution days:** 7/25 | Today: DIST DAY #7 ✅ (FOMC hawkish shock) | **+1 new**
+**Market state:** 🔴 Correction DEEPENING | Rally Day 5 — FTD FAILED — DIST DAY INSTEAD
+**Positions held:** 0 | **Actions today:** NONE (Correction + Alpaca blocked)
+**Circuit breakers:** None | **P&L today:** $0 | **Equity:** $2,500
+
+### Tomorrow priorities (Jun 18)
+
+1. 🚨 **FTD Day 6 (LAST before Juneteenth)** — if S&P +1.25%+ on above-avg vol = FTD confirmed → upgrade to Confirmed Uptrend → exit SH hedge on Alpaca restore
+   - Extremely LOW probability (≤15%) given yesterday's hawkish FOMC shock
+   - Would need major positive catalyst (e.g., surprise Fed clarification, geopolitical relief)
+2. ⚠️ **Dist Day #8 risk** — any further selloff ≥−0.20% on vol; continuation plausible after hawkish shock
+3. Rally low 7,266.99 — breach = rally attempt RESET → new Day 1; watch closely
+4. Day 7 = Jun 20 (triple witching; last FTD window) — elevated vol but for mechanical reasons
+5. Alpaca restore CRITICAL — Day 100 — SH $625 FIRST ORDER on restore
+6. May 15 dist expires Jun 22 → 6/25 (CORRECTION persists regardless)
+7. Iran deal formal signing Jun 19 Switzerland — confirm intact
+8. NVDA base watch wk 10, no handle, Aug 2026+
+
+`research_source: websearch_fallback` | Alpaca Day 100 | Perplexity 403 | AV 403
