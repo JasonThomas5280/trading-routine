@@ -46,6 +46,71 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-17 (Wed) — /pre-market (6:00 AM CT) — FTD DAY 5 BEST CANDIDATE — FOMC 2PM ET TODAY — NO ENTRIES BEFORE 1 PM CT — NVDA $25B BOND COMPLETE — DELL AIR FORCE $1.44B — ALPACA DAY 98
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 98; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** | NO new long entries | State UNCHANGED — needs FTD to upgrade
+**FTD status:** NOT CONFIRMED. Today = **FTD Day 5 — BEST CANDIDATE** (post-FOMC clarity available after 1 PM CT). ⚠️ **FOMC gate: NO entries before 1 PM CT regardless.** FTD window: Day 5 = TODAY (BEST) | Day 6 = Jun 18 (LAST). Jun 19 = Juneteenth CLOSED.
+**Weekly trade count:** 0/3 | **Open positions:** 0
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures (Jun 17 pre-mkt) | **+0.28%** est. | Modestly higher; calm overnight; post-FOMC Day 1 drift. Previous S&P close (Jun 16): ~7,548–7,552 (flat/slightly down ~−0.08% per TheStreet). Pre-mkt implies ~7,569 opening est. |
+| NQ futures (Jun 17 pre-mkt) | **+est. 0.3–0.4%** | Tech modestly positive. NVDA stabilizing at $208 pre-mkt after Jun 16 pullback. |
+| FOMC Jun 17 — **TODAY CRITICAL** | **97% HOLD** (3.50–3.75%) | Decision 2 PM ET / 1 PM CT. Press conference 2:30 PM ET (Warsh first). **HOLD is consensus.** Key risk: dot plot expected to REMOVE the March-projected rate cut → shift to rates-on-hold all 2026. At least 3 voting members may project rate HIKES. Warsh may decline to submit his own dot plot (symbolic; reinforces data-dependency stance). Bull case: neutral language → FTD possible after 1 PM CT. Bear case: hike language → potential Dist Day #7 (7/25). |
+| Iran deal | **Intact — signing Jun 19 Switzerland** | Bloomberg: "Iran to Resume Oil Exports, Access $300 Billion Under US Interim Deal." Interim agreement: Iran restarts oil exports immediately; $300B economic development program; 60-day talks toward permanent deal. No collapse signals. Bullish structural macro. |
+| Oil (Brent) | **~$83/bbl** | Down from ~$90+ pre-deal. Hormuz reopening priced. Inflation relief ongoing. |
+| Jun 16 S&P close | **~7,548–7,552 (−0.08% est.)** | TheStreet: "S&P 500 declined 0.08% and finished at 7,548.60." Dow: +0.64% (new record, ~just shy of 52,000). Tech/Nasdaq dragged flat-to-negative. **NOT a distribution day** (−0.08% < −0.20% threshold) ✅ — Dist count: **6/25 UNCHANGED.** |
+
+**Jun 16 distribution day verdict: NOT DIST DAY ✅** (S&P −0.08%; Dow +0.64% to new ATH — bifurcated market ahead of FOMC; volume was lower than Jun 15's Iran-deal surge). Dist: **6/25 UNCHANGED.**
+
+**FTD Day 5 assessment (today Jun 17):**
+- FOMC HOLD 97% certain → "sigh of relief" rally likely (slight). Press conference is the key.
+- If Warsh neutral/accommodating language post-1 PM CT → S&P must close +1.25%+ above prior open on above-avg volume = **FTD confirmed → 🟢 Confirmed Uptrend**
+- FTD threshold from today's open (~7,569 est.): **+1.25% = ~7,664 close target**
+- Bear case: hawkish dot plot (3 members project hikes) + Warsh signals "higher for longer" → dist day #7 risk
+- **No entries before 1 PM CT — this is non-negotiable today**
+
+### Overnight gap check on open positions
+
+**0 open positions → SKIPPED (empty batch)**
+
+### Catalyst scan — primary watchlist
+
+**0 primary watchlist items (0 names ≥75) → SKIPPED**
+
+### Catalyst scan — bench names
+
+- **NVDA (~$208.03 pre-mkt, +0.30% from $207.41 Jun 16 close):** ⚠️ **$25B bond offering COMPLETED** (upsized from initial $20B). Bloomberg: strong investor demand — $85B in orders (~3.4× oversubscribed). 7 tranches (2–30 yr). JPM/MS/GS underwriters. Proceeds: AI capex + debt refinancing. Jun 16 close: $207.41 (−2.37% from $212.45 Jun 15) — mild bond-overhang profit-taking. Pre-mkt Jun 17: stabilizing at $208.03. **Score impact: NEUTRAL.** Bond ≠ equity dilution; $80B buyback intact; confirms AI conviction. ATH $235.47 → $208.03 = **−11.7% off ATH** (still "within 15%"; N-letter: 3 pts). Base NOT complete (cup wk 10; no handle; no pivot). **NVDA Score: 68/100 UNCHANGED.** 🟡 BENCH UNCHANGED. Timeline: Aug 2026+.
+- **DELL (~$413.00 pre-mkt):** 💼 **$1.44B Air Force contract confirmed (Jun 15–16).** Dell Federal Systems awarded call order for Microsoft Enterprise License Agreement renewal (365 E3/E5/F-series + software assurance + subscriptions) via USAF Life Cycle Management Center. Initial funding $208.8M FY2026; completion Apr 30 2029. **IMPORTANT CLARIFICATION: This is a SOFTWARE LICENSING contract (Microsoft 365), NOT an AI hardware/server contract.** Positive for federal segment revenue predictability. Does NOT address core issues: (1) Silver Lake supply overhang ongoing, (2) no base formed, (3) still >15% off ATH $465.96, (4) score below 75 even with base. **Score: 55/100 UNCHANGED.** ❌ WATCH-ONLY. Re-score trigger: Silver Lake selling halts + 3–4 wk base forms + score path to 75+ visible.
+- **AVGO (~$394–396 est., last close $394.82):** No new overnight catalysts. Range-bound near Jun 16 levels. Score: **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+
+### Buy-zone status
+
+| Symbol | Score | Last | Pivot | Distance | Status |
+|---|---|---|---|---|---|
+| NVDA | 68/100 | ~$208.03 pre-mkt | UNDEFINED (no handle) | N/A | 🔴 BLOCKED — base not complete (wk 10); Correction gate; below 75 threshold |
+| DELL | 55/100 | ~$413.00 pre-mkt | N/A | N/A | 🔴 WATCH-ONLY |
+| AVGO | 55/100 | ~$394–396 | N/A | N/A | 🔴 WATCH-ONLY |
+
+**0 names at or near pivot. 0 primary candidates. All entries blocked by Correction + Alpaca blocked + score.**
+
+### Risks for today's session
+
+1. **⚠️ FOMC 2 PM ET / 1 PM CT — NO ENTRIES BEFORE THIS.** Warsh dot plot: if 3+ members signal rate hikes → hawkish surprise → potential Dist Day #7 (7/25 → still Correction, worse posture). If neutral → FTD possible after 1 PM CT.
+2. **FTD window closing:** Today (Day 5) and Jun 18 (Day 6) are the final two shots. No FTD by Jun 18 → window closes; new rally attempt needed.
+3. **Alpaca Day 98 BLOCKED:** SH $625 hedge remains queued. No execution possible.
+4. **Jun 19 Juneteenth CLOSED:** No trading; any FTD must happen by Jun 18 close.
+5. **NVDA bond selling pressure:** Jun 16 sold off −2.37% post-bond. Watch for continued rotation out of NVDA into bond market (although $85B demand suggests strong institutional support for stock thesis).
+
+### Circuit breakers
+
+ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca Day 98 BLOCKED | SH $625 hedge: QUEUED (Correction protocol active)
+
+---
+
 ## 2026-06-16 (Tue) — /pre-market (6:00 AM CT) — FOMC DAY 4 FTD WINDOW — NVDA $20B BOND — FUTURES STEADY — HOLD 99.6% — ALPACA DAY 96
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 96; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)

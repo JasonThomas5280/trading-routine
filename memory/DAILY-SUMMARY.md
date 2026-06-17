@@ -1,5 +1,22 @@
 
 ---
+## 2026-06-17 06:00 CT [pre-market — CORRECTION UNCHANGED — FTD DAY 5 BEST CANDIDATE — FOMC 2PM ET NO ENTRIES BEFORE 1 PM CT — ALPACA DAY 98]
+
+🌅 Pre-market 2026-06-17
+Market: 🔴 Correction (6/25 dist days) | Futures: ES +0.28% (~7,569 open est.) / NQ +~0.3% | Jun 16 close: ~7,548 (−0.08%) NOT dist day ✅
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+⚠️ FOMC TODAY 2 PM ET / 1 PM CT: Warsh first press conference | 97% HOLD (3.50–3.75%) | Dot plot: removes March's projected cut; 3+ members may project rate hikes | Bull: neutral language → FTD possible after 1 PM (need S&P +1.25%+ on above-avg vol = ~7,664 close) | Bear: hawkish hike signal → Dist Day #7 risk (7/25) | **NO entries before 1 PM CT — IRON RULE**
+FTD window: Day 5 = TODAY (BEST CANDIDATE) | Day 6 = Jun 18 (LAST) | Jun 19 = Juneteenth CLOSED
+Iran deal: Intact. Formal signing Jun 19 Switzerland. Iran resumes oil exports immediately. Oil Brent ~$83/bbl. No collapse.
+NVDA: $25B bond COMPLETED (upsized from $20B; $85B demand). Jun 16 close $207.41 (−2.37%). Pre-mkt $208.03 (+0.30%). NEUTRAL — debt not equity. 68/100 UNCHANGED. Base wk 10, no handle. BENCH.
+DELL: $1.44B Air Force Microsoft Enterprise License (software licensing, NOT AI hardware). Pre-mkt ~$413. 55/100 UNCHANGED. WATCH-ONLY.
+AVGO: No new catalysts. ~$394–396. 55/100 UNCHANGED. WATCH-ONLY.
+Alpaca: BLOCKED Day 98. SH $625 hedge QUEUED. Execute FIRST on Alpaca restore.
+Watchlist ready 🟢: NONE | Watching 🟡: NONE (NVDA base not complete, no pivot) | Removed 🔴: DELL, AVGO (watch-only)
+Plan: NO entries — Correction + FOMC gate (before 1 PM CT) + Alpaca blocked + 0 primary candidates. FTD is the only game today: watch 1–3 PM CT close. If FTD fires → upgrade market to Confirmed Uptrend → begin entry planning at /market-check Jun 18. Last FTD shot = Jun 18 close.
+
+---
 ## 2026-06-16 06:00 CT [pre-market — CORRECTION UNCHANGED — FOMC DAY 4 FTD WINDOW — NO ENTRIES BEFORE 1 PM CT — ALPACA DAY 96]
 
 🌅 Pre-market 2026-06-16
@@ -2840,3 +2857,8 @@ Blockers: Alpaca Day 96 BLOCKED | SH $625 QUEUED
 Tomorrow: FOMC DECISION 2 PM ET (1 PM CT) — NO entries before then
   🎯 FTD Day 5 — best remaining window — need S&P OR Nasdaq ≥+1.25% vol>today
   FTD Day 6 = Jun 18 (LAST viable; Jun 19 Juneteenth CLOSED)
+
+---
+## 2026-06-17 11:11 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-17 | Market: 🔴 Correction (6/25 dist) | Futures: ES +0.28% ~7,569 | Jun 16 close ~7,548 (−0.08%) NOT dist ✅ | 0 positions | FOMC TODAY 2 PM ET — NO entries before 1 PM CT | FTD Day 5 BEST — need +1.25% on vol post-1 PM (~7,664 target) | Day 6=Jun18 LAST | Jun19 CLOSED | Iran deal intact (signing Jun 19 Switzerland) Brent ~3 | NVDA 5B bond done 08 pre-mkt 68/100 BENCH | DELL .44B Air Force MS license 13 pre-mkt 55/100 WATCH-ONLY | AVGO ~95 55/100 WATCH-ONLY | Alpaca BLOCKED Day 98 SH 25 QUEUED | Plan: NO entries — watch FTD after 1 PM CT
