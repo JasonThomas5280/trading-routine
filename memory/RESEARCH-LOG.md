@@ -46,6 +46,75 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-18 (Thu) — /eod-review (3:15 PM CT) — FTD DAY 6 FAILED S&P +1.15% ~7,505 (SHORT 7.5 PTS OF 7,513) — NOT DIST DAY — INTEL +8.9% APPLE CHIP SOX +6% RECORD — CORRECTION UNCHANGED — DAY 7 = JUN 22 MON (LAST FTD WINDOW) — ALPACA DAY 101 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 101; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **7/25 distribution days UNCHANGED** | NO new long entries | State UNCHANGED
+**FTD status:** NOT CONFIRMED. Day 6 FAILED (+1.15% < +1.25%; 7.5 pts short of threshold 7,513). ⚠️ CALENDAR CORRECTION: Prior logs said "Day 7 = Jun 20 (Fri, triple witching)" — Jun 20 is Saturday; correct Day 7 = **Jun 22 (Mon)** — LAST FTD WINDOW (Jun 19 Juneteenth CLOSED; Jun 20–21 weekend). FTD threshold Jun 22: ~7,598.
+**Weekly trade count:** 0/3 | **Open positions:** 0
+
+### Close (Jun 18, 2026)
+
+| Index | Close | Change | Notes |
+|---|---|---|---|
+| S&P 500 | ~7,505 | **+1.15%** | NOT FTD (7.5 pts short of 7,513; need +1.25%) |
+| Dow Jones | ~51,430 | **+0.80%** | |
+| Nasdaq | — | **+1.5%** | QQQ ~$731 est. |
+| Russell 2000 | — | **−0.72%** | Small cap lag = risk-off quality signal |
+| SOX (Philadelphia Semi) | — | **+6% — RECORD HIGH** | Intel-Apple deal catalyst |
+| INTC (Intel) | ~$131.82 | **+8.9%** | Trump: Apple-Intel domestic chip deal (unconfirmed by companies) |
+
+### Distribution day check
+
+- S&P +1.15% → **NOT a distribution day** ✅
+- Dist count: **7/25 UNCHANGED** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17)
+
+### FTD Day 6 result
+
+- Close ~7,505 vs threshold **7,513** → **7.5 pts SHORT → NOT FTD** ❌
+- +1.15% vs +1.25% required — missed by 0.10 percentage points
+- Rally attempt INTACT: 7,505 >> 7,266.99 rally low (238 pts margin) ✅
+- **Day 7 = Jun 22 (Mon) — LAST FTD WINDOW**
+- FTD threshold Jun 22: ~7,598 (7,505 × 1.0125)
+- FTD probability: **LOW** (hawkish Fed backdrop; need +1.24% Monday; Intel-Apple confirmation needed)
+
+### Sell-rules-engine
+
+**SKIPPED — 0 open positions (empty batch)**
+
+### Portfolio-level checks
+
+- No positions → no RS < 85 check, no distribution-cluster reduction ✅
+- **Hedge:** SH/SQQQ $625 QUEUED (Correction ACTIVE); Alpaca Day 101 BLOCKED; cannot execute
+- Dist cluster (7/25): already Correction; no new threshold crossed ✅
+
+### Bench stock updates
+
+- **NVDA (~$213–220 est.; SOX +6% chip rally):** Shareholders mtg Jun 24. Base wk 12, no handle, no pivot. **68/100 UNCHANGED.** 🟡 BENCH. Timeline Aug 2026+.
+- **DELL (~$425–435 est.):** Market/chip lift. Silver Lake overhang unchanged. TX reincorporation vote Jun 25 (governance only). **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+- **AVGO (~$408–418 est.; top S&P 500 gainer):** Broadcom named top S&P 500 gainer (chip/SOX rally). Ex-dividend **Jun 22** ($0.65/sh). JPM "aggressive buyers." **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+
+### Circuit breakers
+
+ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+
+### Actions today
+
+NONE (Correction + Alpaca Day 101 blocked + 0 positions)
+
+### Risks / Watch at /pre-market Jun 22 (Mon — FTD Day 7, LAST WINDOW)
+
+1. 🎯 **FTD Day 7 CRITICAL:** S&P close ≥7,598 on above-avg vol → FTD CONFIRMED → 🟢 Confirmed Uptrend → cancel SH hedge queue; begin universe rescan XLF/XLI/XLK; first entries possible next session
+2. **Dist Day #8 risk:** Close ≤−0.20% on elevated vol → 8/25 (deeper Correction; state unchanged but deteriorating posture)
+3. **Rally low breach (7,266.99):** Any close below = rally RESET + new Day 1 required
+4. **May 15 dist expires Jun 22** → 6/25 (STILL CORRECTION without FTD; but reduces count by 1)
+5. **AVGO ex-div Jun 22** ($0.65/sh) — minor downward price adjustment expected
+6. **DELL TX reincorporation vote Jun 25** (governance/minor)
+7. **Intel-Apple deal confirmation:** Official statement from Apple/Intel needed; no confirmation as of Jun 18 close → gap-up/down risk Monday depending on long-weekend news
+8. **Juneteenth (Jun 19) / Weekend:** Iran deal intact; no US market trading Jun 19–21
+
+---
+
 ## 2026-06-17 (Wed) — /pre-market (6:00 AM CT) — FTD DAY 5 BEST CANDIDATE — FOMC 2PM ET TODAY — NO ENTRIES BEFORE 1 PM CT — NVDA $25B BOND COMPLETE — DELL AIR FORCE $1.44B — ALPACA DAY 98
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 98; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)

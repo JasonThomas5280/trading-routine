@@ -1,5 +1,29 @@
 
 ---
+## 2026-06-18 15:15 CT [eod-review — FTD DAY 6 FAILED S&P +1.15% ~7,505 — NOT DIST DAY — INTEL +8.9% SOX +6% — CORRECTION UNCHANGED — DAY 7 = JUN 22 MON (LAST)]
+
+📊 EOD 2026-06-18 (Thu) | Equity $2,500.00 (+$0 day, +$0 week)
+Market: 🔴 Correction | Dist: 7/25 UNCHANGED | 0 positions | 100% cash ($2,500 HWM)
+
+Close: S&P +1.15% ~7,505 | Dow +0.80% ~51,430 | Nasdaq +1.5% | Russell −0.72%
+Intel INTC +8.9% $131.82 (Trump: Apple chip deal — NO official Apple/Intel confirmation as of close) | SOX +6% record
+
+FTD Day 6: FAILED | +1.15% vs +1.25% needed | 7.5 pts short of threshold 7,513
+⚠️ CALENDAR CORRECTION: prior logs said "Day 7 = Jun 20 (Fri, triple witching)" — Jun 20 is Saturday
+Correct Day 7 = Jun 22 (Mon) — LAST FTD WINDOW | Threshold: ~7,598 | Jun 19 Juneteenth CLOSED
+
+Actions today: NONE (Correction + Alpaca Day 101 blocked + 0 positions)
+Sell-rules-engine: SKIPPED (empty batch — 0 positions)
+SH $625 hedge: QUEUED (Correction ACTIVE) — execute FIRST on Alpaca restore
+
+Next trading day: Mon Jun 22 (FTD Day 7 — LAST SHOT)
+  • S&P ≥7,598 on above-avg vol = FTD → 🟢 Confirmed Uptrend → cancel hedge, begin rescan
+  • May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD)
+  • AVGO ex-div $0.65/sh Jun 22
+  • DELL TX reincorporation vote Jun 25
+  • Intel-Apple deal: watch over long weekend for official company confirmation
+
+---
 ## 2026-06-18 10:00 CT [market-check — FTD DAY 6 IN PROGRESS S&P +1.15% ~7,505 (7.5 PTS SHORT OF 7,513 THRESHOLD) — NASDAQ +1.5% — ALPACA DAY 101 — NO TRADES]
 
 📈 Market-check 2026-06-18 10:00 AM CT
