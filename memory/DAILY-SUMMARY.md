@@ -1,5 +1,22 @@
 
 ---
+## 2026-06-18 06:00 CT [pre-market — CORRECTION UNCHANGED — FTD DAY 6 LAST VIABLE — NQ +0.54% — JOBLESS CLAIMS SOFT — ALPACA DAY 101]
+
+🌅 Pre-market 2026-06-18
+Market: 🔴 Correction (7/25 dist days) | Futures: NQ +0.54% / ES ~+0.3–0.5% est. | Jun 17 close: ~7,420 (−1.21% FOMC hawkish shock, DIST DAY #7)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+FTD window: Day 6 = TODAY (LAST before Juneteenth ⛔ Jun 19 CLOSED) | Day 7 = Jun 20 (triple witching, last possible) | FTD threshold ~7,513 | Probability: LOW ≤15%
+Economic data: Jobless claims 229K vs 220K est. (soft labor = marginally dovish; not a FTD catalyst)
+NVDA: $206.66 AH (+0.98%). HPE Discover partnership (HPE+NVDA+Vultr cloud AI infra, Jun 18). Sthldr mtg Jun 24. Base wk 11, no handle. 68/100 UNCHANGED. BENCH.
+DELL: No new catalysts. TX reincorporation vote Jun 25 (governance). 55/100 UNCHANGED. WATCH-ONLY.
+AVGO: Ex-dividend Jun 22 ($0.65/sh). JPM "aggressive buyers" (analyst note, no rubric change). 55/100 UNCHANGED. WATCH-ONLY.
+Iran deal: Signing Jun 19 Switzerland (Juneteenth — US markets CLOSED). Oil ~$83/bbl stable.
+Alpaca: BLOCKED Day 101 (403). SH $625 hedge QUEUED. Execute FIRST on restore.
+Watchlist ready 🟢: NONE | Watching 🟡: NONE | Removed/blocked 🔴: NVDA (base incomplete), DELL, AVGO (watch-only)
+Plan: NO entries — Correction + Alpaca blocked + 0 primary candidates. FTD Day 6 is the only game today: need S&P +1.25%+ on vol close ≥7,513. LOW probability. If no FTD: Day 7 Jun 20 (triple witching) = last window. If window closes → new rally attempt required from fresh Day 1.
+
+---
 ## 2026-06-17 06:00 CT [pre-market — CORRECTION UNCHANGED — FTD DAY 5 BEST CANDIDATE — FOMC 2PM ET NO ENTRIES BEFORE 1 PM CT — ALPACA DAY 98]
 
 🌅 Pre-market 2026-06-17

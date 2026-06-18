@@ -6,19 +6,19 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — DEEPENING** *(Jun 17 /eod-review 3:15 PM CT: S&P ~7,420 (−1.21% FOMC HAWKISH SHOCK) | DIST DAY #7 ✅ | FTD Day 5 FAILED — 9/18 FOMC MEMBERS PROJECT 2026 RATE HIKE — Dist 7/25 | Rally intact (7,420 > 7,266.99) | FTD window: Day 6 Jun 18 LAST viable; Day 7 Jun 20 (Juneteenth skip) | Alpaca Day 100 BLOCKED | Perplexity 403 | AV 403 | 0 positions | 0 candidates ≥75)*
+**Status:** 🔴 **MARKET IN CORRECTION — DEEPENING** *(Jun 18 /pre-market 6:00 AM CT: NQ +0.54% bounce post-FOMC shock | 7/25 dist days | FTD Day 6 = TODAY (LAST before Juneteenth) | FTD threshold ~7,513; probability LOW ≤15% | Jobless claims 229K > 220K = soft labor (marginally dovish) | Iran deal intact | Day 7 = Jun 20 triple witching (last window) | Alpaca Day 101 BLOCKED | 0 positions | 0 candidates ≥75)*
 
-**Last updated:** 2026-06-17 (Wed) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION DEEPENING | DIST DAY #7 — S&P −1.21% ~7,420 — DOW −507 PTS (−0.98%) — NASDAQ −1.34% — HAWKISH DOT PLOT 9/18 HIKE — 2yr +16bps 4.208% — ALPACA DAY 100 BLOCKED**
+**Last updated:** 2026-06-18 (Thu) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION DAY 6 FTD (LAST VIABLE) — NQ +0.54% BOUNCE — JOBLESS CLAIMS 229K > 220K (SOFT LABOR) — NVDA $206.66 AH (+0.98%) HPE DISCOVER PARTNERSHIP — AVGO EX-DIV JUN 22 ($0.65) — ALPACA DAY 101 BLOCKED**
 **STATE:** 🔴 Market in Correction | DEEPENING | **7/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17**) | Jun 17: −1.21% → DIST DAY #7 ✅ (FOMC hawkish shock, elevated volume) | Needs FTD to upgrade | May 15 expires **Jun 22** → 6/25 (STILL CORRECTION)
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ (volume elevated on FOMC reaction day)
 **Technical picture (Jun 17 close):** S&P 7,420.10 | 50d MA ~7,248 | **+2.37% above 50d** | 200d MA ~6,882 | **+7.81% above 200d** | QQQ ~$727 est. (−1.34%) | Both above 50d = structural uptrend intact; Correction deepening
 **Rally attempt:** ⚠️ **Day 5 FAILED — DIST DAY** | Rally low: **7,266.99 (Jun 10)** | Jun 17 close 7,420 → 153 pts ABOVE rally low ✅ (rally attempt INTACT) | **FTD window: Day 6 = Jun 18 (LAST before Juneteenth)** | Day 7 = Jun 20 (Fri, triple witching; Jun 19 Juneteenth CLOSED) | FTD threshold tomorrow: ~7,513 (7,420 × 1.0125) | **FTD probability: LOW ≤15%** after hawkish shock
 **⚠️ FOMC Jun 17 OUTCOME (HAWKISH SHOCK):** Hold 3.50-3.75% unanimous (12-0) | Dot plot: **9/18 members project rate hike 2026** | 6 members project 2 hikes | Median FFR end-2026: 3.8% (was 3.4% March) | Warsh: NO forward guidance; shorter statement; 5 task forces | 2-yr yield +16bps to 4.208% | **Net: Hawkish shift confirms higher-for-longer — Correction reinforced**
-**NVDA:** est. ~$204-210 (chips down on rate hike signal; week 10 cup, no handle) | **68/100 UNCHANGED** | 🟡 BENCH | Timeline Aug 2026+
-**DELL:** est. ~$395-415 | Silver Lake overhang ongoing | **55/100 UNCHANGED** | ❌ WATCH-ONLY
-**AVGO:** est. ~$380-392 | **55/100 UNCHANGED** | ❌ WATCH-ONLY
+**NVDA:** $206.66 AH Jun 18 pre-mkt (+0.98%; Jun 17 close $204.65 −1.33%) | HPE Discover partnership (HPE+NVDA+Vultr cloud AI infra, Jun 18) | Sthldr mtg Jun 24 | week 11 cup, no handle | **68/100 UNCHANGED** | 🟡 BENCH | Timeline Aug 2026+
+**DELL:** est. ~$395-415 | Silver Lake overhang; TX reincorporation vote Jun 25 (governance/minor) | **55/100 UNCHANGED** | ❌ WATCH-ONLY
+**AVGO:** est. ~$383-394 | Ex-div Jun 22 ($0.65/sh); JPM "aggressive buyers" (analyst note only — no rubric change) | **55/100 UNCHANGED** | ❌ WATCH-ONLY
 **0 candidates ≥75** | 0 primary watchlist items | 0 open positions
-**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 100 | `research_source: websearch_fallback`**
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | Alpaca: Blocked Day 101 | `research_source: websearch_fallback`**
 **Week of Jun 15 priority items:** (1) 🚨 Alpaca restore CRITICAL — SH $625 FIRST order on restore (Correction 7/25 ACTIVE) (2) Day 6 FTD watch Jun 18 (LOW probability; need +1.25%+ on vol; hawkish Fed headwind) (3) Day 7 FTD watch Jun 20 (triple witching; last possible; Jun 19 Juneteenth CLOSED) (4) May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD) (5) NVDA base watch wk 10, no handle, Aug 2026+ (6) Warsh hawkish: higher-for-longer → rate-sensitive names stay under pressure
 **Sector RS leaders (4-week):** 1. XLF Financials (less rate-sensitive; GS resilient) 2. XLI Industrials 3. XLK Technology | **AVOID: XLRE (rate-sensitive), XLC, XLE**
 **⚠️ DIST DAY EXPIRY PATH (updated):** May 15 → Jun 22 → 6/25 | May 19 → ~Jun 23 → 5/25 | Jun 3 → ~Aug 8 → 4/25 | Jun 5 → ~Aug 10 → 3/25 | Jun 9 → ~Aug 12 → 2/25 | Jun 10 → ~Aug 13 → 1/25 | Jun 17 → ~Aug 22 → 0/25 | **State REMAINS CORRECTION until FTD regardless of expiry**
@@ -28,6 +28,24 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 18 PRE-MARKET (/pre-market 6:00 AM CT — 🔴 CORRECTION UNCHANGED — FTD DAY 6 (LAST VIABLE BEFORE JUNETEENTH) — NQ +0.54% BOUNCE — JOBLESS CLAIMS 229K > 220K — NVDA +0.98% AH HPE PARTNERSHIP — ALPACA DAY 101 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17) | State UNCHANGED — needs FTD to upgrade
+- **Jun 17 confirmed (final):** S&P ~7,420 (−1.21% FOMC hawkish shock) | Dow ~51,022 (−507 pts, −0.98%) | Nasdaq −0.99% | **DIST DAY #7** ✅ — 7/25 confirmed
+- **Pre-market Jun 18:** NQ **+0.54%** | ES est. **+0.3-0.5%** | Bounce from FOMC selloff; thin overnight session | Implied S&P open ~7,442–7,457 (below FTD threshold of 7,513)
+- **Jobless claims (Jun 18 release):** Initial claims **229K vs 220K est.** (above expectations; slight miss = SOFT LABOR) | Continuing claims 1.795M (elevated) | Slightly dovish read (softening labor reduces urgency for hikes) | **NOT enough to move needle for FTD**
+- **FTD Day 6 (TODAY — LAST before Juneteenth):** Threshold ~7,513 (7,420 × 1.0125) | Need +93 pts from yesterday's close on above-avg vol | Pre-mkt at ~7,442-7,457 = **56-71 pts short at open** | Probability: **LOW ≤15%** (hawkish FOMC headwind; soft jobless claims = modest positive but insufficient) | **Day 7 = Jun 20 (Fri, triple witching — last possible window; Jun 19 Juneteenth CLOSED)**
+- **Overnight catalysts:**
+  - **NVDA $206.66 (+0.98% pre-mkt):** HPE Discover conference (Las Vegas, through Jun 18) — HPE+NVDA expanding AI partnership; Vultr selected HPE+NVDA for cloud-scale AI infra across data centers. No setup-breaking news. Base wk 11, no handle. **68/100 UNCHANGED.** 🟡 BENCH.
+  - **DELL:** No new overnight catalysts. Reincorporation to Texas vote Jun 25 (governance only). Silver Lake overhang ongoing. **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+  - **AVGO:** Ex-dividend date Jun 22 ($0.65/sh — announced). JPMorgan "aggressive buyers" rating. No setup-breaking news. **55/100 UNCHANGED.** ❌ WATCH-ONLY.
+  - **Iran deal:** INTACT. Signing scheduled Jun 19 Switzerland (Juneteenth — US markets CLOSED). Oil Brent ~$83/bbl stable. Positive macro structure.
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** (EMPTY BATCH)
+- **Hedge check:** SH/SQQQ $625 QUEUED | Alpaca Day 101 BLOCKED (403) | Execute FIRST on restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 101 blocked + 0 positions)
+- **Watch at /market-check 10:00 AM CT:** (1) FTD Day 6: S&P +1.25%+ on above-avg vol close → FTD confirmed → upgrade; (2) Dist Day #8 risk if market sells off (7,420 × 0.998 = any close at 7,405 or below on elevated vol); (3) Rally low 7,266.99 — breach = rally RESET + new Day 1; (4) Day 7 Jun 20 (triple witching) = last FTD window if today fails; (5) May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD)
+- `research_source: websearch_fallback` | Alpaca Day 101 | Perplexity 403 | AV 403
 
 **✅ JUN 17 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION DEEPENING — DIST DAY #7 — S&P −1.21% ~7,420 — DOW −507 −0.98% — NASDAQ −1.34% — HAWKISH FOMC SHOCK 9/18 HIKE — FTD DAY 5 FAILED — ALPACA DAY 100 BLOCKED):**
 - **Jun 17 close (confirmed via TheStreet/CNBC/WebSearch):** S&P 500 ~**7,420 (−1.21%** from ~7,510 Jun 16) | Dow ~**51,022 (−507 pts, −0.98%)** | Nasdaq **−1.34%** | `research_source: websearch_fallback` | **Alpaca blocked Day 100**

@@ -10153,3 +10153,96 @@ Today P&L: $0 | Week P&L: $0 | Drawdown from HWM: $0
 8. NVDA base watch wk 10, no handle, Aug 2026+
 
 `research_source: websearch_fallback` | Alpaca Day 100 | Perplexity 403 | AV 403
+
+---
+
+## 2026-06-18 (Thu) — /pre-market (6:00 AM CT) — FTD DAY 6 LAST VIABLE BEFORE JUNETEENTH — NQ +0.54% BOUNCE — JOBLESS CLAIMS 229K — NVDA HPE PARTNERSHIP — ALPACA DAY 101
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 101; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **7/25 distribution days** | NO new long entries | State UNCHANGED
+**FTD status:** NOT CONFIRMED. Today = **FTD Day 6 — LAST viable before Juneteenth** (Jun 19 CLOSED) | Day 7 = Jun 20 (triple witching, last window) | Threshold ~7,513 | Probability: **LOW ≤15%**
+**Weekly trade count:** 0/3 | **Open positions:** 0
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| NQ futures (Jun 18 pre-mkt) | **+0.54%** | Bouncing from FOMC hawkish shock. Thin overnight session. Implied S&P open ~7,442–7,457 — below FTD threshold 7,513 by 56–71 pts. |
+| ES futures (Jun 18 pre-mkt) | **~+0.3–0.5% est.** | Consistent with NQ direction. Recovery from Jun 17 −1.21% selloff. |
+| Jun 17 S&P close | **~7,420 (−1.21%)** | FOMC hawkish dot plot (9/18 members project 2026 rate hike). Dow −507 pts (−0.98%). Nasdaq −0.99%. DIST DAY #7 confirmed. 7/25 dist days. |
+| Jobless claims (Jun 18 release) | **229K vs 220K est.** | Initial claims above expectations. Continuing claims 1.795M. Soft labor = marginally dovish (reduces urgency for rate hikes). Not a market-moving catalyst but slightly positive backdrop. |
+| Iran deal | **Intact** | Signing scheduled Jun 19 Switzerland (Juneteenth — US markets CLOSED). Oil Brent ~$83/bbl stable. Bloomberg confirms Iran resuming oil exports under interim deal. Bullish macro structure. |
+| Oil (Brent) | **~$83/bbl** | Stable; Iran deal fully priced. Inflation relief. |
+
+**FTD Day 6 assessment (today Jun 18 — LAST before Juneteenth):**
+- NQ +0.54% pre-mkt implies modest open; S&P estimated at ~7,442–7,457 (56–71 pts short of FTD threshold 7,513)
+- Jobless claims soft = marginally dovish, but not the kind of catalyst that drives +1.25% intraday
+- Hawkish FOMC headwind (7/25 dist days, higher-for-longer) suppresses rally conviction
+- **FTD probability: LOW ≤15%** — possible on a short-squeeze/technical bounce but not base case
+- If NO FTD today: Day 7 = Jun 20 (triple witching) — last possible window before window closes
+- If window closes (no FTD by Jun 20): new rally attempt requires fresh Day 1 from next undercut of 7,266.99
+
+### Overnight gap check on open positions
+
+**0 open positions → SKIPPED (empty batch)**
+
+### Catalyst scan — primary watchlist
+
+**0 primary watchlist items (0 names ≥75) → SKIPPED**
+
+### Catalyst scan — bench watchlist
+
+**NVDA:**
+- AH Jun 18 pre-mkt: **$206.66 (+0.98%)** — recovering from Jun 17 close of $204.65 (−1.33% FOMC drag)
+- **HPE Discover Las Vegas (Jun 16–18):** NVDA + HPE expanding AI initiative; **Vultr selected HPE+NVDA to build cloud-scale AI infra across data centers** — N-letter catalyst (ongoing partnership validation) ✅
+- Stockholder meeting Jun 24 (online, 9 AM PT) — routine governance, no material risk
+- **Score: 68/100 UNCHANGED.** Base wk 11 cup, no handle, no pivot. Timeline Aug 2026+. 🟡 BENCH.
+- **Setup impact: NEUTRAL** — positive partnership news confirms AI infrastructure thesis; no setup-breaking catalyst
+
+**DELL:**
+- No new overnight catalysts
+- Reincorporation from Delaware to Texas: board approved; shareholder vote Jun 25 (annual meeting) — governance only, no financial impact
+- Silver Lake supply overhang ongoing (no new filing)
+- **Score: 55/100 UNCHANGED.** ❌ WATCH-ONLY.
+- **Setup impact: NEUTRAL** — no changes
+
+**AVGO:**
+- **Ex-dividend date Jun 22 ($0.65/sh)** — minor; stock will open adjusted down $0.65 on Jun 22
+- JPMorgan recommends "aggressive buyers" — bullish analyst note; does NOT change rubric score
+- **Score: 55/100 UNCHANGED.** ❌ WATCH-ONLY.
+- **Setup impact: NEUTRAL** — dividend and analyst note not setup-changing; note ex-div Jun 22 (next Monday) for price reference
+
+### Buy-zone status
+
+| Symbol | Score | Pre-mkt Price | Pivot | Distance | Status |
+|---|---|---|---|---|---|
+| NVDA | 68/100 | $206.66 | ~$236+ (base not complete) | N/A — no pivot | 🔴 BLOCKED — Correction + base incomplete (wk 11) |
+| DELL | 55/100 | ~$395–415 est. | N/A — no base | N/A | 🔴 WATCH-ONLY |
+| AVGO | 55/100 | ~$383–394 est. | N/A — no base | N/A | 🔴 WATCH-ONLY |
+
+**🟢 READY: 0 | 🟡 WATCHING: 0 | 🔴 BLOCKED/REMOVED: All**
+
+### Circuit breaker check
+
+- Account P&L today: $0 (0 positions) → daily −3% breaker: **CLEAR**
+- Account P&L week: $0 → weekly −6% breaker: **CLEAR**
+- Drawdown from HWM ($2,500): $0 → −12% drawdown breaker: **CLEAR**
+- PDT count: 0 of 3 → **CLEAR**
+- **ALL CIRCUIT BREAKERS CLEAR**
+
+### Risks / Watch items
+
+1. **FTD Day 6 (LAST before Juneteenth):** Needs S&P +1.25%+ from open on above-avg vol = close ≥7,513. LOW probability ≤15%. Watch 2:30 PM CT close.
+2. **Dist Day #8 risk:** Any close down ≥−0.20% on above-avg vol → 8/25 → Correction deepening further
+3. **Rally low integrity (7,266.99):** Breach = rally attempt DEAD → new Day 1 needed
+4. **Day 7 = Jun 20 (triple witching):** Last FTD window. Mechanically elevated vol (OpEx) cuts both ways — inflated vol could count for FTD but also for dist day
+5. **Iran deal formal signing Jun 19 (Switzerland) — US markets CLOSED (Juneteenth):** No market reaction until Jun 20
+6. **May 15 dist expires Jun 22 → 6/25** (STILL CORRECTION without FTD)
+7. **Alpaca restore CRITICAL Day 101** — SH $625 hedge QUEUED; cannot execute
+
+### Plan
+
+**NO ENTRIES.** Correction + 0 primary candidates + Alpaca blocked. FTD watch only.
+If FTD confirmed today (Day 6): → upgrade to Confirmed Uptrend → begin entry planning at /market-check → SH hedge exit first on Alpaca restore → NVDA remains BENCH until base complete (wk 11+, Aug 2026+).
+If no FTD: Day 7 = Jun 20 (last window). If window closes: new rally attempt from fresh Day 1.
+
