@@ -1,5 +1,22 @@
 
 ---
+## 2026-06-18 10:00 CT [market-check — FTD DAY 6 IN PROGRESS S&P +1.15% ~7,505 (7.5 PTS SHORT OF 7,513 THRESHOLD) — NASDAQ +1.5% — ALPACA DAY 101 — NO TRADES]
+
+📈 Market-check 2026-06-18 10:00 AM CT
+Market: 🔴 Correction (7/25 dist) | FTD Day 6 IN PROGRESS — S&P +1.15% ~7,505 (threshold 7,513; 7.5 pts SHORT at 10 AM CT — NOT YET CONFIRMED) | Nasdaq +1.5% | Dow +0.80% | RUT −0.72%
+Circuit breakers: NONE | Alpaca: BLOCKED Day 101 | research_source: websearch_fallback
+Actions taken:
+  No new entries — ABORT: Correction (7/25 dist); 0 primary candidates; Alpaca Day 101 blocked
+  No sells — 0 open positions
+  SH $625 hedge QUEUED (Alpaca Day 101 blocked — execute FIRST on restore)
+Watchlist: 0 ready 🟢 | 0 primary | Bench: NVDA ~$208-212 est. 68/100 (no pivot, Aug 2026+) | DELL $419.32 55/100 | AVGO ~$408 55/100 | No promotions/demotions
+Open positions: 0 | Cash: 100% ($2,500 HWM) | Deployed: 0%
+Weekly trade count: 0/3 used
+FTD Day 6 status: NOT CONFIRMED at 10 AM CT (+1.15% vs +1.25% needed; close ≥7,513 on above-avg vol required) | Day 7 Jun 20 (triple witching, last window) if today misses | Jun 19 Juneteenth CLOSED
+Jobless claims (Jun 18 release): 226K vs ~225K est. (soft; marginally dovish; not a FTD catalyst)
+Next check: /eod-review 3:15 PM CT (FTD Day 6 close verdict)
+
+---
 ## 2026-06-18 06:00 CT [pre-market — CORRECTION UNCHANGED — FTD DAY 6 LAST VIABLE — NQ +0.54% — JOBLESS CLAIMS SOFT — ALPACA DAY 101]
 
 🌅 Pre-market 2026-06-18

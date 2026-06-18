@@ -29,6 +29,21 @@
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
 
+**✅ JUN 18 MARKET-CHECK (/market-check 10:00 AM CT — 🔴 CORRECTION UNCHANGED — FTD DAY 6 IN PROGRESS S&P +1.15% ~7,505 (THRESHOLD 7,513; 7.5 PTS SHORT AT 10 AM CT) — NASDAQ +1.5% — ALPACA DAY 101 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17) | State UNCHANGED
+- **Abort gates — ALL FIRED:** (1) 🔴 Correction state → ALL long entries BLOCKED; (2) Alpaca Day 101 BLOCKED → no execution possible. Actions: NONE.
+- **S&P 500 (10 AM CT / 11 AM ET):** ~7,505 (+1.15% from 7,420.10 Jun 17 close) | "Markets try to recover after Fed selloff" (Schwab) | Nasdaq +1.5% / Dow +0.80% / RUT −0.72% | `research_source: websearch_fallback` | Alpaca Day 101 BLOCKED
+- **FTD Day 6 tracking (TODAY — LAST before Juneteenth):** FTD threshold 7,513 (7,420.10 × 1.0125) | Currently ~7,505 → **7.5 pts short at 10 AM CT** | 5+ hours of trading remain; NOT CONFIRMED (intraday only — must close ≥7,513 on above-avg vol) | Day 7 = Jun 20 (Fri, triple witching; Jun 19 Juneteenth CLOSED) — last possible window | Probability: LOW-to-MODERATE (Nasdaq +1.5% = positive signal; Dow lagging; RUT negative)
+- **Jobless claims (Jun 18 release — confirmed):** 226K vs ~225K est. (slightly above; soft labor = marginally dovish; not sufficient FTD catalyst on its own)
+- **Bench stocks (intraday):** NVDA ~$208-212 est. (base wk 11, no handle; 68/100 UNCHANGED; 🟡 BENCH) | DELL ~$419.32 (55/100 UNCHANGED; ❌ WATCH-ONLY) | AVGO ~$408 (55/100 UNCHANGED; ❌ WATCH-ONLY)
+- **Bench promotions:** NONE | No pivot defined for any bench name | No demotions
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **SH/SQQQ hedge:** QUEUED $625 / 25% portfolio | Alpaca Day 101 BLOCKED | Execute FIRST on restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca blocked + 0 positions + 0 primary)
+- **Watch at /eod-review 3:15 PM CT:** (1) 🎯 FTD Day 6 CRITICAL: S&P close ≥7,513 on above-avg vol → FTD CONFIRMED → 🟢 Confirmed Uptrend → (a) queue SH hedge EXIT on Alpaca restore (b) begin universe rescan XLF/XLI; (2) Dist Day #8 risk if S&P reverses (close ≤−0.20% on elevated vol); (3) Rally low 7,266.99 — breach = rally RESET + new Day 1; (4) Day 7 Jun 20 (triple witching, last window) if today misses; (5) May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD)
+- `research_source: websearch_fallback` | Alpaca Day 101 | Perplexity 403 | AV 403
+
 **✅ JUN 18 PRE-MARKET (/pre-market 6:00 AM CT — 🔴 CORRECTION UNCHANGED — FTD DAY 6 (LAST VIABLE BEFORE JUNETEENTH) — NQ +0.54% BOUNCE — JOBLESS CLAIMS 229K > 220K — NVDA +0.98% AH HPE PARTNERSHIP — ALPACA DAY 101 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17) | State UNCHANGED — needs FTD to upgrade
 - **Jun 17 confirmed (final):** S&P ~7,420 (−1.21% FOMC hawkish shock) | Dow ~51,022 (−507 pts, −0.98%) | Nasdaq −0.99% | **DIST DAY #7** ✅ — 7/25 confirmed
