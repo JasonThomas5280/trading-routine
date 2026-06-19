@@ -35,63 +35,81 @@
         <div class="badges" id="badgeCount" title="Achievements earned">🏅 0</div>
       </div>
 
-      <div class="card-panel">
-        <h2 class="panel-title">Operations</h2>
-        <div class="op-row" id="opRow" role="group" aria-label="Choose operations">
-          <button class="op-btn" data-op="+"><span class="op-sym">+</span><span class="op-name">Add</span></button>
-          <button class="op-btn" data-op="−"><span class="op-sym">−</span><span class="op-name">Subtract</span></button>
-          <button class="op-btn is-on" data-op="×"><span class="op-sym">×</span><span class="op-name">Multiply</span></button>
-          <button class="op-btn" data-op="÷"><span class="op-sym">÷</span><span class="op-name">Divide</span></button>
+      <div class="streak-panel" id="streakPanel">
+        <div class="streak-head">
+          <span class="flame" id="flame">🔥</span>
+          <div class="streak-text">
+            <div class="streak-count"><b id="streakDays">0</b> day streak</div>
+            <div class="streak-sub" id="streakSub">Practice today to start your streak</div>
+          </div>
+          <button class="freeze-badge" id="freezeBadge" title="Streak freezes — cover a missed day" hidden>❄️ <span id="freezeNum">0</span></button>
         </div>
-        <div class="quick-row">
-          <button class="chip" data-ops="mixed">🎲 Mixed (all)</button>
-        </div>
-      </div>
-
-      <div class="card-panel">
-        <h2 class="panel-title">Pick your numbers</h2>
-        <div id="tableGrid" class="table-grid" role="group" aria-label="Choose number families"></div>
-        <div id="mastery" class="mastery"></div>
-        <div class="quick-row">
-          <button class="chip" data-select="all">Select all</button>
-          <button class="chip" data-select="none">Clear</button>
-          <button class="chip" data-select="easy">Easy (1–5)</button>
-          <button class="chip" data-select="hard">Tricky (6–12)</button>
-          <button class="chip chip-focus" data-select="weak">⚡ My tricky ones</button>
+        <div class="goal">
+          <div class="goal-bar"><i id="goalFill"></i></div>
+          <div class="goal-text">Today's goal: <b id="goalNow">0</b>/<span id="goalTarget">10</span> correct</div>
         </div>
       </div>
 
-      <div class="card-panel">
-        <h2 class="panel-title">Mode</h2>
-        <div class="mode-row" id="modeRow" role="group" aria-label="Choose a mode">
-          <button class="mode-btn is-on" data-mode="choice">
-            <span class="mode-emoji">🎯</span>
-            <span class="mode-name">Multiple Choice</span>
-            <span class="mode-desc">Tap the right answer</span>
-          </button>
-          <button class="mode-btn" data-mode="type">
-            <span class="mode-emoji">⌨️</span>
-            <span class="mode-name">Type It</span>
-            <span class="mode-desc">Key in the answer</span>
-          </button>
-          <button class="mode-btn" data-mode="flip">
-            <span class="mode-emoji">🃏</span>
-            <span class="mode-name">Flip Cards</span>
-            <span class="mode-desc">Self-check, no pressure</span>
-          </button>
+      <button id="startBtn" class="btn-primary btn-play">▶&nbsp; Quick Play</button>
+      <button id="customizeToggle" class="customize-toggle" aria-expanded="false" aria-controls="customize">⚙ Customize</button>
+
+      <div id="customize" class="customize" hidden>
+        <div class="card-panel">
+          <h2 class="panel-title">Operations</h2>
+          <div class="op-row" id="opRow" role="group" aria-label="Choose operations">
+            <button class="op-btn" data-op="+"><span class="op-sym">+</span><span class="op-name">Add</span></button>
+            <button class="op-btn" data-op="−"><span class="op-sym">−</span><span class="op-name">Subtract</span></button>
+            <button class="op-btn is-on" data-op="×"><span class="op-sym">×</span><span class="op-name">Multiply</span></button>
+            <button class="op-btn" data-op="÷"><span class="op-sym">÷</span><span class="op-name">Divide</span></button>
+          </div>
+          <div class="quick-row">
+            <button class="chip" data-ops="mixed">🎲 Mixed (all)</button>
+          </div>
+        </div>
+
+        <div class="card-panel">
+          <h2 class="panel-title">Pick your numbers</h2>
+          <div id="tableGrid" class="table-grid" role="group" aria-label="Choose number families"></div>
+          <div id="mastery" class="mastery"></div>
+          <div class="quick-row">
+            <button class="chip" data-select="all">Select all</button>
+            <button class="chip" data-select="none">Clear</button>
+            <button class="chip" data-select="easy">Easy (1–5)</button>
+            <button class="chip" data-select="hard">Tricky (6–12)</button>
+            <button class="chip chip-focus" data-select="weak">⚡ My tricky ones</button>
+          </div>
+        </div>
+
+        <div class="card-panel">
+          <h2 class="panel-title">Mode</h2>
+          <div class="mode-row" id="modeRow" role="group" aria-label="Choose a mode">
+            <button class="mode-btn is-on" data-mode="choice">
+              <span class="mode-emoji">🎯</span>
+              <span class="mode-name">Multiple Choice</span>
+              <span class="mode-desc">Tap the right answer</span>
+            </button>
+            <button class="mode-btn" data-mode="type">
+              <span class="mode-emoji">⌨️</span>
+              <span class="mode-name">Type It</span>
+              <span class="mode-desc">Key in the answer</span>
+            </button>
+            <button class="mode-btn" data-mode="flip">
+              <span class="mode-emoji">🃏</span>
+              <span class="mode-name">Flip Cards</span>
+              <span class="mode-desc">Self-check, no pressure</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="card-panel">
+          <h2 class="panel-title">Round length</h2>
+          <div class="seg" id="lengthSeg" role="group" aria-label="Round length">
+            <button data-len="10" class="is-on">10</button>
+            <button data-len="20">20</button>
+            <button data-len="0">∞</button>
+          </div>
         </div>
       </div>
-
-      <div class="card-panel">
-        <h2 class="panel-title">Round length</h2>
-        <div class="seg" id="lengthSeg" role="group" aria-label="Round length">
-          <button data-len="10" class="is-on">10</button>
-          <button data-len="20">20</button>
-          <button data-len="0">∞</button>
-        </div>
-      </div>
-
-      <button id="startBtn" class="btn-primary">Start ▸</button>
 
       <div class="best-strip" id="bestStrip"></div>
     </section>

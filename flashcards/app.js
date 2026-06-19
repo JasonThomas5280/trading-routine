@@ -42,6 +42,20 @@
   const scoreNum = $("scoreNum");
   const toastWrap = $("toastWrap");
 
+  // daily streak panel + customize
+  const streakPanel = $("streakPanel");
+  const flameEl = $("flame");
+  const streakDays = $("streakDays");
+  const streakSub = $("streakSub");
+  const freezeBadge = $("freezeBadge");
+  const freezeNum = $("freezeNum");
+  const goalFill = $("goalFill");
+  const goalNow = $("goalNow");
+  const goalTarget = $("goalTarget");
+  const goalWrap = streakPanel ? streakPanel.querySelector(".goal") : null;
+  const customizeEl = $("customize");
+  const customizeToggle = $("customizeToggle");
+
   // ---------- config ----------
   const TABLES = Array.from({ length: 12 }, (_, i) => i + 1);
   const OPS = ["+", "−", "×", "÷"];
@@ -65,6 +79,9 @@
     facts: {},            // opKey -> { s: seen, c: correct }
     achievements: {},     // id -> true
     settings: { tables: [2, 3, 4, 5], mode: "choice", length: 10, ops: ["+", "−", "×", "÷"] },
+    // daily streak
+    dayStreak: 0, lastDay: null, freezes: 0,
+    dailyGoal: 10, todayCorrect: 0, todayDay: null, goalDoneDay: null,
   });
   function loadStore() {
     try { return Object.assign(defaultStore(), JSON.parse(localStorage.getItem(STORE_KEY)) || {}); }
@@ -88,6 +105,88 @@
   // ---------- level math ----------
   const levelFromXp = (xp) => Math.floor(Math.sqrt(xp / 40)) + 1;
   const xpForLevel = (lvl) => 40 * (lvl - 1) ** 2;
+
+  // ---------- daily streak ----------
+  const dayKey = (d) => {
+    // local YYYY-MM-DD (avoids UTC off-by-one)
+    const y = d.getFullYear(), m = String(d.getMonth() + 1).padStart(2, "0"), day = String(d.getDate()).padStart(2, "0");
+    return `${y}-${m}-${day}`;
+  };
+  const todayKey = () => dayKey(new Date());
+  function daysBetween(aKey, bKey) {
+    const a = new Date(aKey + "T00:00:00"), b = new Date(bKey + "T00:00:00");
+    return Math.round((b - a) / 86400000);
+  }
+
+  // Reset the daily goal counter when a new calendar day begins.
+  function ensureDailyState() {
+    const tk = todayKey();
+    if (store.todayDay !== tk) { store.todayDay = tk; store.todayCorrect = 0; saveStore(); }
+  }
+
+  // Called once per day the first time the user practises. Advances or resets
+  // the day-over-day streak, spending a freeze to cover a single missed day.
+  function registerPracticeDay() {
+    const tk = todayKey();
+    if (store.lastDay === tk) return; // already counted today
+    const gap = store.lastDay ? daysBetween(store.lastDay, tk) : null;
+    if (gap === null || gap <= 0) {
+      store.dayStreak = Math.max(1, store.dayStreak || 0);
+      if (gap === null) store.dayStreak = 1;
+    } else if (gap === 1) {
+      store.dayStreak = (store.dayStreak || 0) + 1;
+    } else if (gap === 2 && (store.freezes || 0) > 0) {
+      store.freezes--; store.dayStreak = (store.dayStreak || 0) + 1;
+      setTimeout(() => toast("❄️", "Streak freeze used", "Your streak is safe!"), 400);
+    } else {
+      store.dayStreak = 1; // streak broke — start over
+    }
+    store.lastDay = tk;
+    // earn a freeze every 5 days (max 2 banked)
+    if (store.dayStreak > 0 && store.dayStreak % 5 === 0 && (store.freezes || 0) < 2) {
+      store.freezes = (store.freezes || 0) + 1;
+      setTimeout(() => toast("❄️", "Streak freeze earned", "Banked — one for a rainy day"), 700);
+    }
+    saveStore();
+  }
+
+  // Count a correct answer toward today's goal; celebrate when it's hit.
+  function bumpDailyGoal() {
+    ensureDailyState();
+    store.todayCorrect = (store.todayCorrect || 0) + 1;
+    const goal = store.dailyGoal || 10;
+    if (store.todayCorrect === goal && store.goalDoneDay !== store.todayDay) {
+      store.goalDoneDay = store.todayDay;
+      toast("🎯", "Daily goal complete!", `${goal} correct today — nice`);
+      burstConfetti();
+    }
+    saveStore();
+  }
+
+  function renderStreak() {
+    if (!streakPanel) return;
+    ensureDailyState();
+    const d = store.dayStreak || 0;
+    const practicedToday = store.lastDay === todayKey();
+    streakDays.textContent = d;
+    flameEl.classList.toggle("cold", !practicedToday && d === 0);
+    streakSub.textContent = practicedToday
+      ? "Practiced today ✓ — see you tomorrow!"
+      : d > 0 ? "Practice today to keep your streak 🔥" : "Practice today to start your streak";
+    if ((store.freezes || 0) > 0) { freezeBadge.hidden = false; freezeNum.textContent = store.freezes; }
+    else freezeBadge.hidden = true;
+    const goal = store.dailyGoal || 10;
+    const now = store.todayCorrect || 0;
+    goalFill.style.width = Math.min(100, Math.round((now / goal) * 100)) + "%";
+    goalNow.textContent = now;
+    goalTarget.textContent = goal;
+    if (goalWrap) goalWrap.classList.toggle("done", now >= goal);
+    if (practicedToday) litFlame();
+  }
+  function litFlame() {
+    if (!flameEl) return;
+    flameEl.classList.remove("lit"); void flameEl.offsetWidth; flameEl.classList.add("lit");
+  }
 
   // ---------- arithmetic facts ----------
   // Each fact keeps both operands as shown plus the answer. We build them so
@@ -447,6 +546,8 @@
     answered++;
     const card = currentCard();
 
+    registerPracticeDay(); // first answer of the day advances the daily streak
+
     // per-fact stats
     const key = factKey(card);
     const f = store.facts[key] || (store.facts[key] = { s: 0, c: 0 });
@@ -461,6 +562,7 @@
       const gained = 10 + streakBonus + speedBonus;
       score += gained; roundXp += gained;
       store.totalCorrect++;
+      bumpDailyGoal();
       flashcard.classList.add("correct-glow");
       popStreak();
       tone(true); haptic(true);
@@ -714,6 +816,7 @@
   function show(name) {
     Object.values(screens).forEach((s) => s.classList.remove("is-active"));
     screens[name].classList.add("is-active");
+    if (name === "setup") renderStreak();
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
@@ -729,6 +832,18 @@
   $("againBtn").addEventListener("click", () => startGame());
   $("menuBtn").addEventListener("click", () => show("setup"));
   $("quitBtn").addEventListener("click", () => { stopTimer(); show("setup"); });
+
+  // Customize: collapse the config behind a toggle so the home screen stays a game, not a form.
+  if (customizeToggle && customizeEl) {
+    customizeToggle.addEventListener("click", () => {
+      const open = customizeEl.hasAttribute("hidden");
+      if (open) customizeEl.removeAttribute("hidden");
+      else customizeEl.setAttribute("hidden", "");
+      customizeToggle.setAttribute("aria-expanded", String(open));
+      customizeToggle.classList.toggle("is-open", open);
+      customizeToggle.textContent = open ? "⚙ Customize ▲" : "⚙ Customize";
+    });
+  }
   $("reviewBtn").addEventListener("click", () => {
     if (!lastMissed.length) return;
     const d = shuffle(lastMissed.map((m) => ({ op: m.op, a: m.a, b: m.b, ans: m.ans })));
@@ -754,4 +869,5 @@
   renderProfile();
   renderMastery();
   renderBestStrip();
+  renderStreak();
 })();

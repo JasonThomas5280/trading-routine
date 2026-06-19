@@ -161,6 +161,44 @@ body {
 .best-strip { text-align: center; color: var(--muted); font-size: 0.85rem; margin-top: 18px; min-height: 1.2em; }
 .best-strip b { color: var(--accent); }
 
+/* ---------- daily streak panel ---------- */
+.streak-panel {
+  background: linear-gradient(160deg, rgba(255,138,76,.16), rgba(255,90,122,.1));
+  border: 1px solid rgba(255,138,76,.32); border-radius: var(--r-lg);
+  padding: 16px 18px; margin-bottom: 16px; box-shadow: var(--shadow);
+}
+.streak-head { display: flex; align-items: center; gap: 14px; }
+.flame { font-size: 2.2rem; filter: drop-shadow(0 4px 10px rgba(255,138,76,.5)); transition: transform .3s; }
+.flame.lit { animation: flamellit 0.6s; }
+@keyframes flamellit { 0%{transform:scale(1);} 45%{transform:scale(1.35) rotate(-6deg);} 100%{transform:scale(1);} }
+.flame.cold { filter: grayscale(0.8) opacity(0.55); }
+.streak-text { flex: 1; }
+.streak-count { font-family: "Fredoka"; font-weight: 600; font-size: 1.15rem; }
+.streak-count b { font-size: 1.5rem; color: #ff8a4c; }
+.streak-sub { color: var(--muted); font-size: 0.82rem; margin-top: 2px; }
+.freeze-badge { flex: none; border: 1px solid rgba(42,214,200,.4); background: rgba(42,214,200,.12); color: var(--accent); font-family: "Fredoka"; font-weight: 600; font-size: 0.85rem; padding: 6px 10px; border-radius: 999px; cursor: default; }
+.freeze-badge[hidden] { display: none; }
+.goal { margin-top: 14px; }
+.goal-bar { height: 10px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--stroke); overflow: hidden; }
+.goal-bar i { display: block; height: 100%; width: 0%; border-radius: 999px; background: linear-gradient(90deg, #ff8a4c, var(--warn)); transition: width .5s cubic-bezier(.2,.8,.2,1); }
+.goal-text { color: var(--muted); font-size: 0.8rem; margin-top: 7px; }
+.goal-text b { color: var(--warn); }
+.goal.done .goal-bar i { background: linear-gradient(90deg, var(--good), var(--accent)); }
+.goal.done .goal-text { color: var(--good); }
+.goal.done .goal-text b { color: var(--good); }
+
+/* ---------- quick play + customize toggle ---------- */
+.btn-play { font-size: 1.4rem; padding: 22px; }
+.customize-toggle {
+  width: 100%; margin-top: 12px; border: 1px solid var(--stroke); background: var(--surface-2);
+  color: var(--muted); font-family: "Fredoka"; font-weight: 600; font-size: 0.95rem;
+  padding: 12px; border-radius: var(--r-md); cursor: pointer; transition: color .2s, border-color .2s;
+}
+.customize-toggle:hover { color: var(--text); border-color: var(--brand); }
+.customize-toggle.is-open { color: var(--text); border-color: var(--brand); }
+.customize { margin-top: 14px; }
+.customize[hidden] { display: none; }
+
 /* ---------- quiz top ---------- */
 .quiz-top { display: flex; align-items: center; gap: 12px; padding: 6px 0 16px; }
 .icon-btn {

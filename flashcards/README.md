@@ -26,6 +26,11 @@ cd flashcards && python3 -m http.server 8000
   - 🎯 **Multiple Choice** — tap the right answer (or press `1`–`4`)
   - ⌨️ **Type It** — key the answer in; wrong answers flip the card to reveal it
   - 🃏 **Flip Cards** — self-check, tap to reveal (or press `Space`)
+- **One-tap Quick Play** — the home screen starts a round instantly using your
+  last settings; all configuration is tucked behind an optional **⚙ Customize**
+- **🔥 Daily streak** — a day-over-day streak with a **streak-freeze** (earned every
+  5 days) that covers one missed day, plus a **daily goal** (10 correct) with its
+  own celebration
 - **All four operations** — ➕ ➖ ✖️ ➗, individually or 🎲 Mixed. Subtraction never
   goes negative and division is always whole-number
 - **Pick your numbers** — any combination of 1–12, with Easy / Tricky shortcuts
