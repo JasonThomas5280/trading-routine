@@ -1,5 +1,24 @@
 
 ---
+## 2026-06-19 10:00 CT [market-check — ⚠️ JUNETEENTH CLOSED — NO TRADING — 🕊️ IRAN DEAL SIGNED — FTD DAY 7 MON JUN 22 LAST — ALPACA DAY 102]
+
+📈 Market-check 2026-06-19 10:00 AM CT | ⚠️ JUNETEENTH — US MARKETS CLOSED
+Market: 🔴 Correction (7/25 dist) | Markets CLOSED today (Juneteenth) | Alpaca Day 102 BLOCKED | research_source: websearch_fallback
+Circuit breakers: ALL CLEAR | Abort gates ALL FIRED: Correction + Markets closed + Alpaca blocked
+Actions taken:
+  ⚠️ Market CLOSED (Juneteenth) — no execution possible
+  No new entries — ABORT: 🔴 Correction (7/25 dist); markets CLOSED; Alpaca Day 102 blocked
+  No sells — 0 open positions
+  SH $625 hedge QUEUED (Correction ACTIVE; Alpaca Day 102 blocked — execute FIRST on restore)
+🕊️ Iran deal SIGNED at Burgenstock, Switzerland (14-pt MoU; Strait of Hormuz reopened; oil falling; deflationary/bullish macro)
+  Intel-Apple deal: unconfirmed by either company as of last session close — watch Mon open
+Watchlist: 0 ready 🟢 | 0 primary | Bench: NVDA 68/100 (no pivot; Aug 2026+) | DELL 55/100 watch-only | AVGO 55/100 watch-only (ex-div Jun 22 $0.65) | Promotions: NONE
+Open positions: 0 | Cash: 100% ($2,500 HWM) | Weekly trades: 0/3 used | Sell-rules-engine: SKIPPED (0 positions)
+FTD Day 7 = Mon Jun 22 (LAST WINDOW) | Threshold: ~7,598 | Prob: MODERATE 35-45% (Iran deal catalyst)
+May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD)
+Next: /pre-market Mon Jun 22 6:00 AM CT
+
+---
 ## 2026-06-18 15:15 CT [eod-review — FTD DAY 6 FAILED S&P +1.15% ~7,505 — NOT DIST DAY — INTEL +8.9% SOX +6% — CORRECTION UNCHANGED — DAY 7 = JUN 22 MON (LAST)]
 
 📊 EOD 2026-06-18 (Thu) | Equity $2,500.00 (+$0 day, +$0 week)
