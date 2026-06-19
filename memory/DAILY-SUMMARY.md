@@ -3019,3 +3019,30 @@ FTD Day 7 — Mon Jun 22 (LAST WINDOW): Threshold ~7,598 (+1.24% from 7,505). FT
 Key Mon risks: (1) FTD Day 7 or rally dead; (2) Intel-Apple official statement; (3) AVGO ex-div /bin/bash.65; (4) May 15 dist expires → 6/25.
 
 Plan: NO new entries (Correction). SH $625 QUEUED (Alpaca Day 102 BLOCKED). Watch Mon close: ≥7,598 on vol = FTD + 🟢 Uptrend.
+
+---
+## 2026-06-19 20:24 CT [clickup-placeholder]
+
+📊 EOD 2026-06-19 (Juneteenth) | Equity $2,500 (HWM) | $0 day | $0 week
+Open: 0 positions, 100% cash
+Distribution days: 7/25 (market: 🔴 CORRECTION — UNCHANGED)
+
+⚠️ US MARKETS CLOSED TODAY — Juneteenth
+
+🕊️ Iran Deal SIGNED: 14-pt MoU at Burgenstock, Switzerland. Strait of Hormuz reopened. Hostilities ended. Oil falling (bullish/deflationary).
+
+Futures: DECLINED (thin holiday trading) — global stocks cautious on Iran deal durability
+
+Jun 18 close CONFIRMED: S&P 500 7,500.58 (+1.15%) | QQQ $739.36 (+1.5%)
+FTD threshold CORRECTED: 7,594 (was ~7,598; 7,500.58 × 1.0125)
+
+Actions today: NONE (Correction + markets closed + Alpaca Day 102 blocked + 0 positions)
+
+Tomorrow (Mon Jun 22 — FTD DAY 7, LAST WINDOW):
+  • 🎯 FTD: S&P close ≥7,594 on above-avg vol → Confirmed Uptrend → cancel SH queue; begin rescan
+  • Dist Day #8 risk: close ≤-0.20% on vol → 8/25
+  • May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD)
+  • AVGO ex-div Jun 22 ($0.65/sh) — minor downward price adjust
+  • Intel-Apple: watch for official confirmation/denial
+  • FTD prob: LOW-MODERATE (25-35%) | Alpaca Day 103 — restore CRITICAL
+  • SH $625 hedge: QUEUED (execute FIRST on Alpaca restore if Correction holds)
