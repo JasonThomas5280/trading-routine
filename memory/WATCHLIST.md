@@ -6,6 +6,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-06-15 to 2026-06-19 — **STALE — rebuild via /weekly-prep on Sunday Jun 22**
+
+> Archived week of Jun 15–19. /weekly-review completed Fri Jun 19 (Juneteenth). Market state: 🔴 Correction (7/25 dist days). Zero primary candidates. NVDA 68/100 (bench, no base, Aug 2026+ base timeline), DELL 55/100 (watch-only), AVGO 55/100 (watch-only). FTD Day 7 = Jun 22 Mon (LAST WINDOW; threshold 7,594). Full rebuild required Sunday Jun 22 at /weekly-prep — do NOT use this list for entry decisions until rebuilt.
+
 ## ACTIVE — Week of 2026-06-15 to 2026-06-19
 
 **Built:** 2026-06-14 (Sun) — `/weekly-prep` | `research_source: websearch_fallback` (Alpaca: Day 92 BLOCKED, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + cached prior-week fundamentals) | `cached_fundamentals` mode

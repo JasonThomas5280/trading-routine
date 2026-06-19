@@ -3046,3 +3046,56 @@ Tomorrow (Mon Jun 22 — FTD DAY 7, LAST WINDOW):
   • Intel-Apple: watch for official confirmation/denial
   • FTD prob: LOW-MODERATE (25-35%) | Alpaca Day 103 — restore CRITICAL
   • SH $625 hedge: QUEUED (execute FIRST on Alpaca restore if Correction holds)
+
+---
+## 2026-06-19 20:36 CT [clickup-placeholder]
+
+### Week ending 2026-06-19
+
+## FireLit Swing — Weekly Review: Week ending 2026-06-19 (Juneteenth)
+
+**Account:** Alpaca Paper | **Equity:** $2,500.00 (HWM) | **Market:** 🔴 Correction (7/25 dist days)
+
+### Performance
+- Weekly return: 0.00% vs SPY +0.93% (4 trading days; Jun 19 Juneteenth closed) = **-0.93% alpha**
+- Trades taken: 0/3 (10th consecutive 0-trade week)
+- Cumulative alpha drag: approx. -3.45% vs SPY since inception
+- Alpaca API: BLOCKED Day 93-102 (all 5 sessions; 20 consecutive weeks no resolution)
+
+### Market Direction (Jun 15-19)
+- Jun 15: +1.49% ~7,542 — Day 3 rally. Iran deal 'complete.' NOT dist. ✅
+- Jun 16: -0.08% ~7,548 — FOMC Day 1. NOT dist. Day 4 FTD missed threshold. ✅
+- Jun 17: -1.21% ~7,420 — **DIST DAY #7. FOMC HAWKISH SHOCK.** 9/18 members project 2026 hike. Dot plot median 3.8% (was 3.4%). Dow -507. ✅
+- Jun 18: +1.15% 7,500.58 CONFIRMED — FTD Day 6 FAILED (7.5 pts short of 7,513). Intel-Apple rumor. SOX +6% record. NOT dist. ✅
+- Jun 19: JUNETEENTH CLOSED. 🕊️ Iran deal SIGNED at Burgenstock (14-pt MoU; Strait of Hormuz reopened).
+
+### FTD Window Results
+- Day 4 (Jun 16): Missed threshold (flat session + FOMC Day 1 gate)
+- Day 5 (Jun 17): FAILED → became DIST #7 (FOMC hawkish shock)
+- Day 6 (Jun 18): FAILED — 7.5 pts (0.10 ppts) short of threshold. Closest miss of entire cycle.
+- Day 7 (Jun 22 Mon): LAST WINDOW (threshold 7,594; prob LOW-MODERATE 25-35%)
+
+### Watchlist Status
+- NVDA: 68/100 (bench; cup wk 12+, no handle; Aug 2026+ base completion)
+- DELL: 55/100 (watch-only; Silver Lake overhang; TX vote Jun 25)
+- AVBO: 55/100 (watch-only; ex-div Jun 22 $0.65/sh)
+- **0 candidates ≥75 for 10th consecutive week**
+
+### Rule Adherence: 100/100
+No trades = no violations. FOMC gate correctly self-corrected (Day 1 vs Day 2). All Correction entry blocks honored.
+
+### Key Lessons
+1. FOMC decision-day gate needs explicit Day-2 verification (proposal 16 submitted)
+2. FOMC hawkish shock eliminated the best FTD window day (Jun 17) — binary macro events on 'best candidate' FTD days have significant dist-day risk
+3. 7.5-pt FTD miss = same outcome as missing by 200 pts. Binary is binary. Rule held perfectly.
+
+### Next Week
+- Jun 22: FTD Day 7 (LAST; threshold 7,594; prob 25-35%) + May 15 dist expires → 6/25 + AVBO ex-div
+- If FTD confirmed: Uptrend → cancel SH hedge → rescan XLF/XLI/XLK → first eligible entries Jun 23
+- If no FTD: window closes → new rally attempt needed from next undercut of 7,266.99
+- Alpaca restore CRITICAL (Day 102 — still blocked; SH $625 QUEUED)
+- NVDA shareholder mtg Jun 24 (routine) | DELL TX vote Jun 25 (minor)
+
+### Proposals Pending Jason Approval (16 total)
+Top priority: Proposal 12 (date-explicit EOD query), Proposal 1 (Alpaca API health check), Proposal 5 (escalation SLA), Proposal 16 (FOMC decision-day gate — NEW this week)
+

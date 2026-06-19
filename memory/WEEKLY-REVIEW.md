@@ -1086,3 +1086,142 @@ Priority ranking:
   - DELL re-score Jun 15: key diagnostic for thesis integrity.
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (ALL blocked by Correction). SH hedge $625 QUEUED — Alpaca Day 91 BLOCKED. Execute SH FIRST on Alpaca restore.
 - **Emotional state check:** DISCIPLINED. Nine consecutive 0-trade weeks. Correction + Alpaca blocked creates zero temptation to improvise. Week closes with the strongest FTD setup since April 8 (Iran deal + Day 2 rally + FOMC window). Capital at $2,500 HWM. Wait for FTD confirmation on confirmed price + volume, restore Alpaca, SH hedge first, then build watchlist for the new uptrend. Patience is the position.
+
+---
+
+## Week ending 2026-06-19 (Fri) — Juneteenth
+
+> **Context:** Week 10 of live operation. Alpaca API blocked Day 93–102 (all 5 sessions — now 102 consecutive days / ~20 weeks, still no resolution). Perplexity + Alpha Vantage blocked same IP allowlist issue. All research via WebSearch fallback — 10th consecutive week of full fallback mode. Zero trades executed. Market: 🔴 Correction throughout, dist count rose from 6/25 → 7/25 (FOMC hawkish shock Jun 17 = Dist Day #7). FTD window (Day 4–7: Jun 16–19) FAILED: Day 4 missed threshold, Day 5 (best candidate) turned into a dist day, Day 6 missed by 7.5 pts (0.10 ppts), Day 7 (last window) = Jun 22 Monday. Friday Jun 19 = Juneteenth (US markets CLOSED). 🕊️ Iran deal SIGNED at Burgenstock (14-pt MoU; Strait of Hormuz reopened; hostilities ended). Short week: only 4 trading sessions.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Jun 15 open — 100% cash, carry-in from Week 9)
+- Ending equity: $2,500.00 (Fri Jun 19 — markets CLOSED Juneteenth; last price Jun 18 close)
+- Weekly return: **0.00%** (vs. S&P 500 Jun 12 close 7,431.46 → Jun 18 close 7,500.58 = **+0.93%** over 4 trading days → **−0.93% alpha**)
+- Intraweek range: ~7,420 (Jun 17 FOMC low) → 7,500.58 (Jun 18 close)
+- Trades taken: **0** (max 3/week, used 0 — **tenth consecutive 0-trade week**)
+- Winners: 0 (avg N/A) | Losers: 0 (avg N/A) | Winner:loser ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Cumulative alpha drag since inception (10 weeks): approx. −3.45% vs SPY** (prior −2.52% through Week 9)
+- **Root causes of zero trades (ranked by severity):**
+  1. Alpaca API 403 "Host not in allowlist" — Day 93–102. Execution hard-halted per TRADING-STRATEGY.md.
+  2. Market state: 🔴 Correction all week (6/25 → 7/25) — ALL new long entries blocked.
+  3. Jun 19 = Juneteenth — US markets CLOSED (4-session week only).
+  4. Zero candidates ≥75 conviction score: NVDA 68/100 (no base, Aug 2026+), DELL 55/100 (watch-only), AVBO 55/100 (watch-only).
+  5. FTD window Days 4–7 all failed — no state upgrade possible regardless of API status.
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any -7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries during Correction? **NO** — gates correctly honored all 4 sessions
+- Any entries on Alpaca-blocked sessions? **NO** — rule honored (10th consecutive week)
+- FOMC gate applied correctly? **YES** — gate correctly moved to Jun 17 (decision day) after Jun 16 pre-market initially misstated the date; self-corrected at market-check Jun 16. No entries attempted Jun 17 before 1 PM CT (moot — Jun 17 closed −1.21%).
+- Any conviction-score workarounds? **NO** — 0 entries attempted
+- Circuit breakers triggered? **NONE** (daily -3%, weekly -6%, drawdown -12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(tenth consecutive trivially-perfect score — no trades = no violations. Score remains structurally uninformative until execution infrastructure restored. Behavioral note: no temptation to pre-position on Iran deal news while Correction state was active.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🔴 Market in Correction** (6/25 dist days)
+- M state at week end: **🔴 Market in Correction** (7/25 dist days — 1 new dist day added)
+
+| Date | S&P Close | Change | Dist Day? | Running Count | Notes |
+|---|---|---|---|---|---|
+| Jun 15 (Mon) | ~7,542 est. | +1.49% | **NO** | 6/25 | Day 3 rally confirmed. Iran deal "complete" (Trump). Oil falling WTI −4.8% $80.83. Nikkei +5.5%, KOSPI +5.7%. NOT dist. ✅ |
+| Jun 16 (Tue) | ~7,548 est. | −0.08% | **NO** | 6/25 | FOMC Day 1 (no decision today). Day 4 FTD failed (+0.13% cited intraday — threshold far above). −0.08% below -0.20% dist threshold → NOT dist. ✅ |
+| Jun 17 (Wed) | ~7,420 | −1.21% | **YES — DIST DAY #7** | 7/25 | FOMC hawkish shock: 9/18 members project 2026 hike, median FFR 3.8%. Dow −507 pts. Nasdaq −1.34%. 2-yr yield +16bps to 4.208%. ✅ |
+| Jun 18 (Thu) | 7,500.58 ✅ | +1.15% | **NO** | 7/25 | FTD Day 6 FAILED — 7.5 pts short of 7,513 threshold. Intel-Apple chip deal (unconfirmed, Trump Truth Social). SOX +6% record. RUT −0.72%. NOT dist. ✅ |
+| Jun 19 (Fri) | CLOSED | N/A | **N/A** | 7/25 | Juneteenth — US markets closed. Iran deal SIGNED at Burgenstock (14-pt MoU). Futures declined (thin; Iran deal durability concerns). |
+
+- FTD window result: **ALL FAILED.** Day 4 (Jun 16): missed threshold; Day 5 (Jun 17): turned into DIST #7; Day 6 (Jun 18): 7.5 pts short (0.10 ppts — closest miss of the cycle); Day 7 (Jun 22, Mon): LAST WINDOW, carries to next week.
+- FOMC date gate: initially applied to Jun 16 in /pre-market, correctly updated to Jun 17 (decision day) at Jun 16 market-check. No decisions contaminated.
+- Any missed distribution days? **None** — Jun 16 at −0.08% correctly below the −0.20% threshold.
+- May 15 dist day expiry note: Per MARKET-DIRECTION.md update, May 15 expires **Jun 22** (not Jun 19 as initially projected). Correction: 25-session window miscounted earlier. Confirmed in Jun 18 EOD notes. This means Jun 22 → 6/25 (STILL CORRECTION without FTD).
+- Accuracy verdict: **CLEAN — all M calls correct for 10th consecutive week.** FOMC gate confusion self-corrected within the same session. No state misclassifications.
+
+### Sector Performance
+
+- Sectors traded: **NONE** (no trades — Correction)
+- Sector highlights:
+  - **XLK Technology:** SOX +6% record Jun 18 on Intel-Apple chip deal rumor (unconfirmed). Intel INTC +8.9%. Chips recovering from FOMC selloff. NVDA base wk 12+, cup forming, no handle — still Aug 2026+. XLK sector momentum fragile (Correction + hawkish rates headwind).
+  - **XLF Financials:** Holding best relative strength in Correction. GS ~ATH territory. Less rate-sensitive than tech. Would be first sector to evaluate post-FTD.
+  - **XLI Industrials:** AI capex cycle intact. Second-best relative strength. Dell TX reincorporation vote Jun 25 (governance only — minor).
+  - **XLE Energy:** Oil falling on Iran deal (Hormuz reopened). XLE dropping from top-3 in 4-week RS. Sector to AVOID near-term.
+  - **Sector to AVOID:** XLRE (rate-sensitive; 10-year yield elevated post-FOMC). XLC (no actionable names; GOOGL removed). XLE (Iran deal oil compression).
+- 4-week sector RS update: XLF (#1), XLI (#2), XLK (#3 — chip rally offsets FOMC drag).
+- Sectors to blacklist: **None** (zero trade history — 2-consecutive-fail rule has never had inputs)
+- Sectors for next week (post-FTD): XLF → XLI → XLK (in order of least rate-sensitivity to FOMC headwind)
+
+### Conviction Correlation
+
+- Trades with conviction ≥85: 0 — N/A
+- Trades with conviction 75–85: 0 — N/A
+- Sub-threshold correctly blocked:
+  - NVDA: 68/100 — base not complete (cup wk 12+, no handle). Correctly benched.
+  - DELL: 55/100 — Silver Lake overhang, no base, >15% off ATH. Watch-only.
+  - AVBO: 55/100 — CFO transition, no base. Watch-only.
+- **10th consecutive week with zero candidates ≥75.** Zero candidates above conviction threshold since inception. Rubric is discriminating correctly — market in Correction with no qualifying setups is information, not failure.
+- Pattern: No closed-trade data. Score discrimination functioning correctly for 10th consecutive week.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked Day 93–102 — 10th consecutive 0-perplexity week)
+- Sessions on websearch_fallback: **~12** (4 trading days × 3 routines, plus Juneteenth monitoring)
+- Sessions DEGRADED: **0** (WebSearch consistently available)
+- Research source for trades placed: **N/A**
+- Data quality assessment (Week 10 vs prior weeks):
+  - **No critical misattribution errors** (contrast with Jun 5 Yahoo Finance disaster). Proposal 12 (date-explicit query) informally applied — measurably better data quality for third consecutive week.
+  - **Jun 18 FTD threshold correction:** Initial estimates used ~7,598; corrected to **7,594** (7,500.58 × 1.0125). Small but shows improving precision in threshold math.
+  - **FOMC outcome captured accurately:** 9/18 members projecting hike, dot plot median 3.8%, 2-yr yield +16bps — all confirmed via multiple sources same session.
+  - **Iran deal confirmation:** SIGNED Jun 19 at Burgenstock confirmed via multiple sources including CNBC, TheStreet.
+  - **Jun 18 confirmed close:** 7,500.58 (Investing.com/TheStreet — confirmed; corrects earlier intraday estimate ~7,505).
+  - Persistent gap: Volume data still unconfirmed (Alpaca blocked). All dist-day volume assessments qualitative. Jun 17 dist day called on magnitude + FOMC macro shock as volume proxy.
+
+### Lessons
+
+**Lesson 1 — Execution: FOMC date gate requires verification of which calendar day is the DECISION day, not just "FOMC meeting active."**
+The Jun 16 /pre-market applied the "no entries before 1 PM CT" gate to Jun 16 (FOMC Day 1 — the meeting started but no decision). The correct gate day was Jun 17 (FOMC Day 2 — decision and press conference). The market-check on Jun 16 correctly identified and updated the gate. No harm done (no entries attempted, Alpaca blocked), but if both conditions had been clear (Alpaca working + actionable setup), the initial /pre-market misgating could have caused confusion at 10 AM CT. The self-correction mechanism worked, but formalizing the date verification prevents reliance on mid-session corrections.
+Fix: Proposal 16 (below) — explicitly verify FOMC decision day before applying 1 PM CT gate.
+
+**Lesson 2 — Market: The Day 5 "best FTD candidate" window (Jun 17) was eliminated by FOMC hawkish shock. The most anticipated catalyst day became a distribution day.**
+The pre-market thesis for Jun 17 was: post-FOMC clarity + Iran deal priced → power move → FTD. The actual FOMC outcome (9/18 members projecting hike, dot plot median 3.8% vs 3.4% prior) was materially more hawkish than consensus. The result: S&P −1.21%, Dow −507 pts, DIST DAY #7. Lesson: a "best FTD candidate" day that contains a binary macro event (FOMC, FOMC, NFP, CPI) has a significant probability of becoming a distribution day instead. The "no entries before 1 PM CT on FOMC decision day" rule isn't just logistical — it's risk management against exactly this outcome. The gate worked perfectly.
+
+**Lesson 3 — Market: 7.5 pts (0.10 ppts) separated Jun 18 from the FTD confirmation — the closest miss of the entire cycle. Binary = binary.**
+Jun 18: S&P 7,500.58 vs FTD threshold 7,513 (7,420.10 × 1.0125). Miss by 7.5 pts. SOX +6% record. Intel-Apple chip deal. Nasdaq +1.5%. Yet the close was 7.5 pts short. RUT −0.72% (small-cap underperformance = rotation without breadth = accumulation incomplete). The FTD rule is uncompromising by design — "so close" is not a confirmation. This near-miss reinforces that: (a) FTD confirmation is a binary gate, not a fuzzy threshold; (b) the Correction state correctly held through Jun 18 with 7.5 pts to spare. No rule change needed. The mechanism is correct.
+
+### Proposed Rule Changes
+
+**Proposal 16 — NEW: Explicit FOMC decision-day verification in /pre-market.**
+When a 2-day FOMC meeting is scheduled during the week, /pre-market must explicitly identify which calendar day is the DECISION day (Day 2, when the statement + press conference occur) and annotate: "FOMC NO-ENTRY GATE: [DATE] after 1 PM CT (decision day)." The Day 1 pre-market entry for FOMC weeks should state: "FOMC MEETING ACTIVE (Day 1) — NO decision today — gate does NOT apply today." This prevents the Jun 16 confusion where Day 1 was initially treated as the gate day.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–15 from prior weeks:** ALL still pending Jason approval.
+Priority ranking:
+1. **Proposal 12** (date-explicit EOD query before logging state changes) — informally applied Weeks 9–10 with measurably better data quality. FORMALIZE NOW.
+2. **Proposal 1** (Alpaca API health check at /pre-market Step 0) — Day 102, 20 weeks overdue.
+3. **Proposal 5** (API-down escalation SLA) — Day 102. Requires Jason action.
+4. **Proposal 16** (this week — FOMC decision-day gate verification) — low-complexity, high-clarity.
+5. **Proposal 11** (proxy catalyst reaction test) — DELL's continued non-response to major AI catalysts now provides 3+ validation events.
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🔴 Market in Correction (7/25 dist days: May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17). ALL long entries blocked. **FTD Day 7 = Jun 22 Mon (LAST WINDOW; threshold 7,594; probability LOW-MODERATE 25-35%).** If FTD confirmed: 🟢 Confirmed Uptrend → cancel SH hedge queue → begin XLF/XLI/XLK universe rescan → first eligible long entries Jun 23 Tue. **May 15 dist expires Jun 22** → 6/25 (STILL CORRECTION without FTD). May 19 dist expires ~Jun 23 → 5/25. Bullish macro: Iran deal SIGNED (oil falling, Hormuz open). Hawkish headwind: FOMC higher-for-longer (9/18 projecting hike). Net: LOW-MODERATE FTD probability.
+- **Sectors in focus (post-FTD scenarios):**
+  1. **XLF Financials** — least rate-sensitive; GS resilient; first sector to evaluate post-FTD
+  2. **XLI Industrials** — AI capex cycle intact; second priority
+  3. **XLK Technology** — chip momentum (SOX +6% record); NVDA base Aug 2026+; third priority
+  4. **AVOID:** XLE (oil compression from Iran deal), XLRE (rate-sensitive), XLC (no actionable names)
+- **Calendar risks:**
+  - ⚠️ **Jun 22 (Mon): FTD Day 7 — LAST WINDOW** (threshold 7,594; need S&P close ≥7,594 on above-avg vol)
+  - Jun 22: May 15 dist expires → 6/25 (still Correction without FTD)
+  - Jun 22: **AVBO ex-dividend ($0.65/sh)** — price adjusts down at open
+  - Jun 22: Intel-Apple deal: watch for official confirmation or denial over weekend
+  - Jun 24 (Wed): NVDA shareholder meeting (routine — governance only; no material news expected)
+  - Jun 25 (Thu): DELL Texas reincorporation vote (governance/minor)
+  - **If no FTD Jun 22:** window closes → new rally attempt requires fresh Day 1 from next undercut of 7,266.99 → remain in Correction → next /weekly-prep rebuilds watchlist from Correction posture
+  - Economic data: watch for any inflation/labor prints that could be the next dist day catalyst
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (ALL blocked by Correction; 0 eligible longs). SH hedge $625 QUEUED — Alpaca Day 102 BLOCKED. Execute SH FIRST on Alpaca restore (Correction protocol).
+- **Emotional state check:** DISCIPLINED. Ten consecutive 0-trade weeks. The 7.5-pt miss on Jun 18 and the FOMC killing the Day 5 window are frustrating operationally, but the rules held perfectly — Correction correctly maintained, no premature entries, capital at HWM. The Iran deal SIGNED is the most significant macro positive catalyst since April 8 FTD. Monday Jun 22 is the most actionable single day of the cycle. Be ready: if S&P ≥7,594 on confirmed volume, the system immediately shifts to Confirmed Uptrend protocol. No hesitation. Capital is intact. Patience delivered us to this moment.
