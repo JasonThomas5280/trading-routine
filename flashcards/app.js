@@ -404,8 +404,8 @@
   // ===================================================================
   function startGame(customDeck) {
     if (!customDeck) {
-      if (settings.tables.size === 0) { flash(bestStrip, "Pick at least one number to practise ✦"); return; }
-      if (settings.ops.size === 0) { flash(bestStrip, "Pick at least one operation ✦"); return; }
+      if (settings.tables.size === 0) { flash(bestStrip, "Pick at least one number to practise ✦"); openCustomize(); return; }
+      if (settings.ops.size === 0) { flash(bestStrip, "Pick at least one operation ✦"); openCustomize(); return; }
     }
     deck = customDeck || buildDeck();
     idx = 0; score = 0; streak = 0; bestStreakRound = 0;
@@ -832,6 +832,10 @@
   $("againBtn").addEventListener("click", () => startGame());
   $("menuBtn").addEventListener("click", () => show("setup"));
   $("quitBtn").addEventListener("click", () => { stopTimer(); show("setup"); });
+
+  function openCustomize() {
+    if (customizeEl && customizeToggle && customizeEl.hasAttribute("hidden")) customizeToggle.click();
+  }
 
   // Customize: collapse the config behind a toggle so the home screen stays a game, not a form.
   if (customizeToggle && customizeEl) {
