@@ -2978,3 +2978,25 @@ Tomorrow watchlist (Jun 18):
 
 SH hedge: QUEUED $625 / 25% sizing — Alpaca blocked — execute FIRST on restore
 
+
+---
+## 2026-06-19 11:08 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-19 (Juneteenth — Markets CLOSED)
+Market: 🔴 Correction (7/25 dist) | Futures: SURGING (Iran deal signed) | Oil: FALLING (Strait reopened)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: N/A (0 positions; market closed)
+
+🕊️ IRAN DEAL SIGNED — Burgenstock, Switzerland — 14-pt MoU; Strait of Hormuz FULLY REOPENED; hostilities permanently ended. Nuclear talks postponed (separate track — MoU intact). OIL FALLING. DEFLATIONARY.
+
+Watchlist ready 🟢: NONE (Correction; 0 candidates ≥75)
+Watchlist watching 🟡: NVDA 68/100 (base wk 12+, no handle, no pivot — Aug 2026+)
+Removed 🔴: DELL 55/100 (watch-only), AVGO 55/100 (watch-only, ex-div Mon)
+
+Intel-Apple chip deal: UNCONFIRMED by companies. Trump Truth Social Jun 18; INTC +10.5%; SOX +6% record. No official Apple/Intel statement — gap risk Mon if confirmed/denied.
+
+FTD Day 7 — Mon Jun 22 (LAST WINDOW): Threshold ~7,598 (+1.24% from 7,505). FTD prob UPGRADED to MODERATE (35-45%) on Iran deal catalyst. May 15 dist expires Mon → 6/25 (still Correction without FTD). If FTD confirmed → 🟢 Uptrend → cancel SH queue → begin XLF/XLI/XLK rescan.
+
+Key Mon risks: (1) FTD Day 7 or rally dead; (2) Intel-Apple official statement; (3) AVGO ex-div /bin/bash.65; (4) May 15 dist expires → 6/25.
+
+Plan: NO new entries (Correction). SH $625 QUEUED (Alpaca Day 102 BLOCKED). Watch Mon close: ≥7,598 on vol = FTD + 🟢 Uptrend.

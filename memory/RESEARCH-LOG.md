@@ -46,6 +46,75 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-19 (Fri) — /pre-market (6:00 AM CT) — ⚠️ JUNETEENTH — US MARKETS CLOSED — IRAN DEAL SIGNED BURGENSTOCK — FUTURES SURGING — FTD DAY 7 MON JUN 22 (LAST WINDOW) — ALPACA DAY 102 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 102; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **7/25 distribution days UNCHANGED** | NO new long entries | ⚠️ MARKET CLOSED TODAY (Juneteenth)
+**FTD status:** NOT CONFIRMED. Today = Juneteenth (market closed). **Day 7 = Jun 22 (Mon) — LAST FTD WINDOW.** FTD threshold Jun 22: ~7,598 (7,505 × 1.0125). FTD probability: **UPGRADED to MODERATE (35–45%)** — Iran deal signed = major bullish catalyst; oil falling on Strait reopening; deflationary macro tailwind.
+**Weekly trade count:** 0/3 | **Open positions:** 0
+
+### Open positions — overnight gap check
+
+**SKIPPED — 0 open positions.** No gap risk.
+
+### Market overnight/weekend check
+
+**🔴 US MARKETS CLOSED TODAY (Juneteenth, Jun 19)** | No US trading; CME futures also closed.
+
+| Item | Status |
+|---|---|
+| **🕊️ Iran Deal SIGNED** | ✅ **CONFIRMED** — US and Iran signed 14-point Memorandum of Understanding at Burgenstock resort, Lake Lucerne, Switzerland, June 19. Strait of Hormuz immediately reopened to all shipping. Naval blockade lifted. All hostilities ended permanently. Pakistan/Qatar mediators. BULLISH macro. |
+| Nuclear talks | ⚠️ Postponed — VP Vance's Switzerland trip delayed; separate nuclear negotiations deferred. MoU signed; nuclear = separate track. Does NOT invalidate the peace/trade deal. |
+| Oil (WTI/Brent) | ↓↓ Expected to fall significantly on Strait of Hormuz reopening (blockade lifted). DEFLATIONARY → dovish real-rate pressure → bullish equities. |
+| Futures (pre-open) | Surging per Thursday/Friday headlines: "Nasdaq, S&P 500 Futures Surge As Wall Street Cheers US-Iran Deal, Brushes Off Hawkish Fed" (Stocktwits/Yahoo Finance). Full magnitude TBD Monday. |
+| **Intel-Apple deal** | ⚠️ **Unconfirmed by either company.** Trump Truth Social post June 18; WSJ reported preliminary deal since May 2026. INTC +10.5% (~$133.82) June 18. SOX +6% record. Apple/Intel both declined to comment. Watch for official press release over weekend — if confirmed: INTC gapup holds; if denied: INTC reversal risk. |
+| **FOMC backdrop** | ⚠️ HAWKISH: 9/18 Fed members project 2026 rate hike; median FFR end-2026: 3.8% vs 3.4% March. Headwind for rate-sensitive names. BUT Iran deal = deflationary → offsets hawk signal somewhat. |
+| **FTD Day 7 (Mon Jun 22 — LAST)** | 🎯 Threshold: **~7,598** (need +1.24% from 7,505 Jun 18 close). Iran deal + oil deflation = UPGRADED probability. If Iran deal fully priced in Thursday's partial rally (+1.15%), Monday may be muted. If oil drops hard on open = new catalyst wave → FTD possible. |
+| **May 15 dist expires Jun 22** | → 6/25 (STILL CORRECTION without FTD — one less dist day but not enough) |
+
+### Catalyst scan — open positions
+
+None. 0 positions.
+
+### Catalyst scan — bench / watchlist
+
+- **NVDA:** No new weekend catalysts identified. Shareholder meeting June 24 (routine proxy votes per SEC filing — no product announcements expected). SOX +6% June 18 lifted sentiment. Base week 12+, no handle, no defined pivot. **68/100 UNCHANGED.** 🟡 BENCH. Timeline Aug 2026+. Buy-zone status: 🔴 NOT READY (no base complete; no pivot defined).
+- **DELL:** No new weekend catalysts. TX reincorporation vote June 25 (governance; minor). Silver Lake overhang ongoing. **55/100 UNCHANGED.** ❌ WATCH-ONLY. Buy-zone status: 🔴 NOT READY.
+- **AVGO:** Ex-dividend June 22 ($0.65/sh → payment June 30). Debt buyback program increase announced. JPMorgan "aggressive buyers" rating reiterated. No new setup catalysts. **55/100 UNCHANGED.** ❌ WATCH-ONLY. Note: ex-div Jun 22 = minor downward price adjustment on open (~0.16% on ~$408 price). Buy-zone status: 🔴 NOT READY.
+
+### Buy-zone readiness
+
+| Symbol | Score | Last est. | Pivot | Distance | Status |
+|---|---|---|---|---|---|
+| NVDA | 68/100 | ~$208–215 | undefined | N/A | 🔴 NOT READY — no base complete |
+| DELL | 55/100 | ~$415–435 | undefined | N/A | 🔴 NOT READY — watch-only |
+| AVGO | 55/100 | ~$395–415 | undefined | N/A | 🔴 NOT READY — watch-only |
+
+### Circuit breaker check
+
+ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+No circuit breakers active. No new entries regardless (Correction state).
+
+### Key risks / watch for Monday June 22
+
+1. 🎯 **FTD Day 7 CRITICAL (LAST WINDOW):** S&P close ≥7,598 on above-avg vol → 🟢 Confirmed Uptrend → cancel SH queue; begin universe rescan; NVDA stays BENCH (no base yet)
+2. **Dist Day #8 risk:** Close ≤−0.20% on vol → 8/25 (deeper Correction; posture deteriorates further)
+3. **Rally low breach (7,266.99):** Any close below = rally RESET + new Day 1
+4. **May 15 dist expires Jun 22 → 6/25** (STILL CORRECTION without FTD; reduces to 6)
+5. **AVGO ex-div Jun 22** ($0.65/sh) — minor price adjust on open
+6. **Intel-Apple deal:** Official confirmation = INTC/SOX hold gains; denial = gap-down reversal risk
+7. **NVDA shareholder meeting June 24** — routine, no catalysts expected
+8. **DELL TX reincorporation vote June 25** — governance/minor
+9. **FTD window CLOSES after Jun 22:** If no FTD Mon, next rally attempt needs fresh undercut of 7,266.99 to form a new Day 1
+
+### Actions
+
+NONE (Correction + market closed today + Alpaca Day 102 BLOCKED + 0 positions)
+
+`research_source: websearch_fallback` | Alpaca Day 102 | Perplexity 403 | AV 403
+
+---
+
 ## 2026-06-18 (Thu) — /eod-review (3:15 PM CT) — FTD DAY 6 FAILED S&P +1.15% ~7,505 (SHORT 7.5 PTS OF 7,513) — NOT DIST DAY — INTEL +8.9% APPLE CHIP SOX +6% RECORD — CORRECTION UNCHANGED — DAY 7 = JUN 22 MON (LAST FTD WINDOW) — ALPACA DAY 101 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 101; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
