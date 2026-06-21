@@ -3099,3 +3099,14 @@ No trades = no violations. FOMC gate correctly self-corrected (Day 1 vs Day 2). 
 ### Proposals Pending Jason Approval (16 total)
 Top priority: Proposal 12 (date-explicit EOD query), Proposal 1 (Alpaca API health check), Proposal 5 (escalation SLA), Proposal 16 (FOMC decision-day gate — NEW this week)
 
+
+---
+## 2026-06-21 21:19 CT [clickup-placeholder]
+
+📋 Week prep 2026-06-22
+Market: 🔴 CORRECTION (Dist: 7/25 → 6/25 Jun 22; SPY vs 50MA: +3.48%; FTD Day 7 threshold 7,594; prob 25-35%)
+Top sectors (4-wk RS): 1. XLK Tech/Semis 2. XLF Financials 3. XLI Industrials
+Watchlist primary: NONE (0 candidates >=75 — 10th consecutive week)
+Bench: B1 NVDA 73/100 (cup wk12 no handle Aug2026+) | B2 MRVL 70/100 NEW (AI ASIC record rev) | B3 LRCX 65/100 NEW (extended) | B4 ARM 60/100 NEW (C-weak)
+Calendar risks: MU earnings Jun 24 (semi mover; MU entry blocked this wk) | FDX Jun 24 | GDP+PCE Jun 26 | AVGO ex-div Jun 22
+Entry plan Mon: ZERO new longs (Correction + Alpaca Day 104 BLOCKED). FIRST on restore: SH $625 hedge. IF FTD fires Jun 22 → cancel SH → re-score MRVL → entry eligible Tue Jun 23 (wait for MU Jun 24 before any semi entry)

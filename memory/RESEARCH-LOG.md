@@ -46,6 +46,66 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-21 (Sun) — /weekly-prep (4:00 PM CT) — WEEKLY PREP WK JUN 22 — CORRECTION — 0 CANDIDATES ≥75 (10TH WK) — ALL SOURCES 403 DEGRADED
+
+**Research source:** `websearch_fallback` (DEGRADED — Alpaca 403, Alpha Vantage 403, Perplexity 403 — ALL primary sources blocked at network level)
+**Market direction:** 🔴 Market in Correction | 7/25 distribution days | FTD Day 7 = Jun 22 (LAST WINDOW; threshold 7,594) | FTD prob: LOW-MODERATE (25-35%)
+**Sector leaders (4-week trailing RS, ~May 20 → Jun 18):**
+1. XLK Technology/Semis (UPDATED from #3 → #1; SOX record; chip rally +8.8%/+6% wks Jun 12/Jun 15)
+2. XLF Financials (JPM ATH; hawkish FOMC = NIM positive; above 50d since Jun 4)
+3. XLI Industrials (MACD pos Jun 2; AI capex tailwind; +3.28% past month)
+**Sector laggards:** XLE (Iran deal → oil falling), XLRE (rate-sensitive), XLC (GOOGL overhang)
+
+### Universe Scan Stats
+
+**Total evaluated:** 10 candidates (curated universe; full Alpaca build-universe.sh unavailable)
+**Pre-filter rejections (before canslim-screener):**
+- Price ceiling >$500: GS ($1,093) — 1 ticker
+- C-letter disqualifying (<25% EPS YoY): JPM (+17.16%), V (~15-25% mature), MA (~15-25% mature) — 3 tickers
+- Earnings within 5 trading days: MU (Jun 24) — 1 ticker
+- Cached score <60, no improvement path: AVGO (55/100, CFO transition), DELL (55/100, supply overhang) — 2 tickers
+**Sent to canslim-screener:** 4 candidates (NVDA, MRVL, LRCX, ARM)
+
+**Canslim-screener results (all DEGRADED — websearch_fallback_estimate):**
+
+| Symbol | Score | C | A | N | S | L | I | Base | Pass | Rejection Reason |
+|---|---|---|---|---|---|---|---|---|---|---|
+| NVDA | 73/100 | 20 | 15 | 8 | 10 | 15 | 5* | 0 | ❌ | conviction_below_threshold (degraded mode) + market_correction |
+| MRVL | 70/100 | 15 | 10 | 15 | 10 | 15 | 5* | 0 | ❌ | conviction_below_threshold (degraded mode) + market_correction |
+| LRCX | 65/100 | 15 | 5 | 15 | 10 | 15 | 5* | 0 | ❌ | conviction_below_threshold + A_letter_annual_cycle_break |
+| ARM | 60/100 | 10 | 10 | 15 | 5 | 15 | 5* | 0 | ❌ | conviction_below_threshold + C_letter_gaap_below_25pct |
+
+*I letter hard-capped at 5/10 (EDGAR stale, per protocol)
+
+**Rejection breakdown (all 10 candidates):**
+- conviction_below_threshold: 4 (NVDA 73, MRVL 70, LRCX 65, ARM 60)
+- earnings_too_close: 1 (MU — Jun 24)
+- price_out_of_range: 1 (GS — $1,093 >$500)
+- C_letter_disqualifying: 3 (JPM, V, MA — <25% EPS growth)
+- cached_below_threshold: 2 (AVGO 55, DELL 55)
+- **Passed (≥75): 0**
+
+**10th consecutive week with zero candidates above threshold. Pattern analysis:**
+- Weeks 1-9 (Apr 18 – Jun 19): 0 candidates passed consistently
+- Root causes: (a) Market in Correction since Jun 3 = M-gate blocks all entries; (b) Alpaca bars 403 = base pattern (+10pts) permanently unconfirmed; (c) EDGAR stale = I-letter capped = structural ~12-15pt score reduction per ticker
+- **Regime signal:** The MRVL upgrade (NEW bench at 70/100) and XLK rising to sector #1 suggest semis leadership is emerging. A market uptrend confirmation (FTD) + data source restore would likely yield 2-3 candidates ≥75 for the first time.
+- **Not a strategy failure.** Correct behavior: patience in Correction = capital preservation.
+
+### Macro catalysts week of Jun 22
+
+- Mon Jun 22: FTD Day 7 (LAST WINDOW; threshold 7,594) + May 15 dist expiry (→ 6/25) + AVGO ex-div $0.65
+- Wed Jun 24: **Micron (MU) Q3 FY2026 earnings** (critical semi sector proxy; MU blocked from entry this wk) + FedEx (FDX) earnings + NVDA shareholders mtg (governance) + DELL TX vote
+- Thu Jun 26: Q1 GDP revision (first estimate was +2.3%) + PCE price index May (key inflation gauge)
+
+### Risks
+
+- Jun 22 opens DOWN (56% prob per prediction markets) — FTD threshold may not be reached
+- MU earnings Jun 24 — can gap entire semi sector ±5%; avoid new semi entries BEFORE MU report
+- PCE Jun 26 — HOT reading = hawkish reinforcement; could generate new distribution day
+- Alpaca API still blocked Day 104 — no execution possible regardless of market state; SH hedge remains queued
+
+---
+
 ## 2026-06-19 (Fri) — /pre-market (6:00 AM CT) — ⚠️ JUNETEENTH — US MARKETS CLOSED — IRAN DEAL SIGNED BURGENSTOCK — FUTURES SURGING — FTD DAY 7 MON JUN 22 (LAST WINDOW) — ALPACA DAY 102 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 102; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)

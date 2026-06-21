@@ -6,10 +6,10 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 19 /eod-review: ⚠️ Juneteenth — US MARKETS CLOSED — 🕊️ IRAN DEAL SIGNED Burgenstock (14-pt MoU; Hormuz reopened; hostilities ended) — Futures DECLINED (thin holiday; Iran deal durability concerns) — S&P Jun 18 CONFIRMED 7,500.58 — FTD Day 7 = Jun 22 Mon (LAST; threshold CORRECTED 7,594; LOW-MODERATE prob 25-35%) — 7/25 dist days UNCHANGED — May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD) — Alpaca Day 102 BLOCKED — 0 positions — 0 candidates ≥75)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 21 /weekly-prep: Weekend — no price action — S&P 7,500.58 (Jun 18 confirmed) — FTD Day 7 = Jun 22 Mon (LAST WINDOW; threshold 7,594; LOW-MODERATE prob 25-35%) — May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD) — Sectors: XLK #1 / XLF #2 / XLI #3 — 0 candidates ≥75 (10th consecutive wk) — Alpaca Day 104 BLOCKED)*
 
-**Last updated:** 2026-06-19 (Fri/Juneteenth) — `/eod-review` 3:15 PM CT — **⚠️ JUNETEENTH — MARKETS CLOSED — 🕊️ IRAN DEAL SIGNED BURGENSTOCK — FUTURES DECLINED (THIN HOLIDAY) — S&P JUN 18 CONFIRMED 7,500.58 — FTD DAY 7 MON JUN 22 LAST WINDOW (THRESHOLD CORRECTED 7,594; LOW-MODERATE PROB 25-35%) — ALPACA DAY 102 BLOCKED**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **7/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17**) | Jun 18: +1.15% → NOT dist day ✅ | Needs FTD to upgrade | May 15 expires **Jun 22** → 6/25 (STILL CORRECTION)
+**Last updated:** 2026-06-21 (Sun) — `/weekly-prep` 4:00 PM CT — **🔴 CORRECTION UNCHANGED — WEEKEND — FTD DAY 7 = JUN 22 (LAST WINDOW; THRESHOLD 7,594; 25-35% PROB) — MAY 15 DIST EXPIRES JUN 22 → 6/25 (STILL CORRECTION) — MU EARNINGS JUN 24 CRITICAL — ALPACA DAY 104 BLOCKED — 0 CANDIDATES ≥75 (10TH WEEK)**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **7/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17**) | Jun 18: +1.15% → NOT dist day ✅ | Jun 19–21: markets closed (Juneteenth + weekend) | May 15 expires **Jun 22** → 6/25 (STILL CORRECTION without FTD)
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active
 **Rally attempt:** ⚠️ **Day 6 FAILED — NOT FTD** | Rally low: **7,266.99 (Jun 10)** | Jun 18 close 7,500.58 → 234 pts ABOVE rally low ✅ (rally attempt INTACT) | **FTD window: Day 7 = Jun 22 (Mon — LAST; Jun 19 Juneteenth CLOSED; Jun 20–21 weekend)** | FTD threshold Jun 22: **7,594 CORRECTED** (7,500.58 × 1.0125; corrects prior ~7,598 estimate) | **FTD probability: LOW-MODERATE (25-35%)** (Iran deal bullish but partially priced; hawkish Fed headwind; holiday futures declined)
@@ -28,6 +28,21 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 21 /weekly-prep (Sun 4:00 PM CT — 🔴 CORRECTION UNCHANGED — WEEKEND — FTD DAY 7 JUN 22 LAST WINDOW — SECTORS: XLK #1 / XLF #2 / XLI #3 — 0 CANDIDATES ≥75 (10TH WEEK) — ALPACA DAY 104 BLOCKED):**
+- **Markets:** Closed Jun 19–21 (Juneteenth + weekend). No price action since Jun 18 close (S&P 7,500.58 confirmed).
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** 7/25 dist days (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17).
+- **FTD Day 7 = Jun 22 (Mon — LAST WINDOW):** Threshold **7,594** (7,500.58 × 1.0125). Jun 22 open: 56% prob DOWN per prediction markets. FTD prob: **LOW-MODERATE (25-35%)**. Iran deal signed Burgenstock = bullish macro but partially priced. Hawkish FOMC headwind.
+- **Dist expiry Jun 22:** May 15 → 6/25. STILL CORRECTION without FTD. | May 19 → ~Jun 23 → 5/25.
+- **Technical (Jun 18 confirmed):** S&P 7,500.58 (+3.48% above 50d MA ~7,248) | QQQ $739.36 (+11.2% above 50d ~665) | Bull market structure intact above both MAs.
+- **Sector RS leaders (4-week ~May 20 → Jun 18, UPDATED):** 1. **XLK Tech/Semis** (SOX record; chip rally +8.8% wk Jun 12, +6% Jun 15-18; MRVL YTD+230%, LRCX YTD+115%; upgraded from #3→#1) 2. **XLF Financials** (JPM ATH $333.46 Jun 17; hawkish FOMC = NIM positive) 3. **XLI Industrials** (AI capex; MACD pos Jun 2) | **AVOID: XLE, XLRE, XLC**
+- **Macro week Jun 22:** Mon: FTD Day 7 (CRITICAL) + May 15 dist expiry + AVGO ex-div | Wed Jun 24: **MU earnings** (FQ3 Micron; semi-sector mover; MU BLOCKED from entry) + FDX + NVDA shareholders mtg (governance) | Thu-Fri: Q1 GDP revision + PCE data
+- **Candidates scored (degraded):** NVDA 73/100 ↑ | MRVL 70/100 (new) | LRCX 65/100 (new) | ARM 60/100 (new) | **0 candidates ≥75 — 10th consecutive week**
+- **Degraded score gap:** Base pattern (+10pts) + I-cap (+2-5pts) = ~12-15pts below live-data score. NVDA ~83 live. MRVL ~80 live.
+- **Open positions:** 0 | **Hedge:** SH $625 QUEUED | Alpaca Day 104 BLOCKED | Execute SH FIRST on restore.
+- **Actions:** NONE (Correction + blocked + 0 positions)
+- **Watch /pre-market Jun 22:** (1) 🎯 FTD: S&P ≥7,594 → Confirmed Uptrend → cancel SH; priority-scan MRVL + NVDA; entries eligible Tue Jun 23 (2) Dist Day #8 risk (3) Rally low 7,266.99 breach = RESET (4) MU Jun 24: wait post-earnings for semi entries (5) AVGO ex-div $0.65 price-adjusts Mon open
+- `research_source: websearch_fallback` | Alpaca Day 104 BLOCKED | AV 403 | Perplexity 403
 
 **✅ JUN 19 EOD (/eod-review 3:15 PM CT — ⚠️ JUNETEENTH — US MARKETS CLOSED — 🕊️ IRAN DEAL SIGNED BURGENSTOCK — FUTURES DECLINED (THIN HOLIDAY) — CORRECTION UNCHANGED 7/25 — S&P JUN 18 CONFIRMED 7,500.58 — FTD THRESHOLD CORRECTED 7,594 — ALPACA DAY 102 BLOCKED):**
 - **Jun 19 (Juneteenth):** ⚠️ US markets CLOSED — NYSE, Nasdaq observing Juneteenth. No regular trading. No price data for today.
