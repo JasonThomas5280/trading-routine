@@ -3110,3 +3110,20 @@ Watchlist primary: NONE (0 candidates >=75 — 10th consecutive week)
 Bench: B1 NVDA 73/100 (cup wk12 no handle Aug2026+) | B2 MRVL 70/100 NEW (AI ASIC record rev) | B3 LRCX 65/100 NEW (extended) | B4 ARM 60/100 NEW (C-weak)
 Calendar risks: MU earnings Jun 24 (semi mover; MU entry blocked this wk) | FDX Jun 24 | GDP+PCE Jun 26 | AVGO ex-div Jun 22
 Entry plan Mon: ZERO new longs (Correction + Alpaca Day 104 BLOCKED). FIRST on restore: SH $625 hedge. IF FTD fires Jun 22 → cancel SH → re-score MRVL → entry eligible Tue Jun 23 (wait for MU Jun 24 before any semi entry)
+
+---
+## 2026-06-22 11:09 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-22 | Market: 🔴 Correction (6/25 dist) | Futures: SPY -0.19% / QQQ -0.24% | Open positions: 0 | Circuit breakers: NONE | Overnight gaps: none
+
+🎯 FTD Day 7 LAST WINDOW: S&P must close ≥7,594 on above-avg vol today | Prob 25-35%
+🚨 MRVL S&P500 inclusion today (price ~14 EXTENDED >10% above 80-285 pivot; CANNOT ENTER)
+
+Watchlist ready: NONE (0 names in buy zone)
+Watching: NVDA 🟡 (09.65 cup wk12), ARM 🟡
+Extended: MRVL 🔴 (S&P inclusion gap), LRCX 🔴 (prior +21%)
+
+Key catalyst: MU earnings Wed Jun 24 (EPS +942% YoY est; gates ALL semi entries)
+PCE Thu Jun 26 (hot = dist day risk)
+
+Plan: No entries (Correction + 0 candidates in buy zone). Monitor FTD close today. Wait for MU earnings Wed. SH 25 QUEUED (Alpaca Day 105 blocked).

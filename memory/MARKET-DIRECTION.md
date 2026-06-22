@@ -6,9 +6,9 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 21 /weekly-prep: Weekend — no price action — S&P 7,500.58 (Jun 18 confirmed) — FTD Day 7 = Jun 22 Mon (LAST WINDOW; threshold 7,594; LOW-MODERATE prob 25-35%) — May 15 dist expires Jun 22 → 6/25 (STILL CORRECTION without FTD) — Sectors: XLK #1 / XLF #2 / XLI #3 — 0 candidates ≥75 (10th consecutive wk) — Alpaca Day 104 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 22 /pre-market 6:00 AM CT: FTD Day 7 LAST WINDOW — S&P must close ≥7,594 on above-avg vol today — Pre-market SPY −0.19% QQQ −0.24% slightly negative — May 15 dist expires today → 6/25 (STILL CORRECTION without FTD) — MRVL S&P 500 inclusion effective today (price ~$314; extended from $280-285 pivot; cannot enter) — MU earnings Wed Jun 24 gates semi entries — Alpaca Day 105 BLOCKED)*
 
-**Last updated:** 2026-06-21 (Sun) — `/weekly-prep` 4:00 PM CT — **🔴 CORRECTION UNCHANGED — WEEKEND — FTD DAY 7 = JUN 22 (LAST WINDOW; THRESHOLD 7,594; 25-35% PROB) — MAY 15 DIST EXPIRES JUN 22 → 6/25 (STILL CORRECTION) — MU EARNINGS JUN 24 CRITICAL — ALPACA DAY 104 BLOCKED — 0 CANDIDATES ≥75 (10TH WEEK)**
+**Last updated:** 2026-06-22 (Mon) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED — FTD DAY 7 LAST WINDOW (THRESHOLD 7,594; PROB 25-35%) — MAY 15 DIST EXPIRES TODAY → 6/25 — MRVL S&P500 INCLUSION (EXTENDED) — ES −0.19% PRE-MARKET — ALPACA DAY 105 BLOCKED**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **7/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17**) | Jun 18: +1.15% → NOT dist day ✅ | Jun 19–21: markets closed (Juneteenth + weekend) | May 15 expires **Jun 22** → 6/25 (STILL CORRECTION without FTD)
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active

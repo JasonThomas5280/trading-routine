@@ -46,6 +46,89 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-22 (Mon) — /pre-market (6:00 AM CT) — 🎯 FTD DAY 7 LAST WINDOW — MRVL S&P 500 INCLUSION TODAY — EXTENDED — ES SLIGHTLY NEGATIVE — ALPACA DAY 105 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 105; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** (May 15 expired Jun 22 → one less) | NO new long entries | FTD Day 7 = TODAY (LAST WINDOW; threshold 7,594)
+**FTD status:** NOT YET CONFIRMED (pre-market run; close not yet in). Threshold: **7,594** | Pre-market: SPY −0.19%, QQQ −0.24% (slightly negative). FTD probability: **LOW-MODERATE (25–35%)** unchanged.
+**Dist expiry today:** May 15 expires Jun 22 → **6/25** | STILL CORRECTION without FTD
+**Weekly trade count:** 0/3 (new week reset) | **Open positions:** 0 | **Alpaca:** BLOCKED Day 105
+
+### Open positions — overnight gap check
+
+**SKIPPED — 0 open positions.** No gap risk.
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| SPY futures (pre-mkt) | **−0.19%** | Slightly negative pre-open |
+| QQQ futures (pre-mkt) | **−0.24%** | MRVL index-inclusion flows TBD at open |
+| Dow futures | **Slightly lower** | Slipping; oil easing on Iran deal progress |
+| Oil (WTI) | **↓** | Iran "major progress" → Hormuz easing continues |
+| Iran deal | **Ongoing** | "Major progress" in talks; no collapse; bullish macro backdrop |
+| FOMC backdrop | **Hawkish** | 9/18 members project 2026 rate hike; 2-yr yield elevated |
+| PCE (Thu Jun 26) | **Key risk event** | HOT PCE = potential new dist day; COOL = dovish relief |
+| **MU earnings (Wed Jun 24)** | **CRITICAL** | Consensus EPS $19.95 (+942% YoY), rev $34.66B, gross margins ~81%; HBM sold out; Wall St unanimously bullish; RBC PT $1,200 |
+| **MRVL S&P 500 inclusion** | **TODAY before open** | Index-rebalancing forced buying across all S&P 500 ETFs (~$5T+ tracking) |
+
+### Catalyst scan — open positions
+
+None. 0 positions.
+
+### Catalyst scan — bench / watchlist
+
+- **MRVL: 🚨 MAJOR CATALYST — S&P 500 INCLUSION TODAY (Jun 22)** | Effective before open. Last close $310.58 (Jun 18); expected open ~$314.27. **EXTENDED: >10% above prior $280-285 target pivot — CANNOT ENTER per 5% chase rule.** I-letter MAXED: S&P 500 inclusion = mandatory buying by all index funds. Score upgrade: I 5→7 (degraded) → **~72/100 degraded**; live estimate with base: **~88/100+**. B. Riley PT raised $240→$345 (Buy). Jensen Huang: "next trillion-dollar company" (Nvidia-MRVL partnership). Need NEW base to form before entry eligible. Monitor for consolidation. `research_source: websearch_fallback`
+- **NVDA:** ~$209.65 pre-mkt (−0.5% from Jun 18 close). Cup base wk 12-13, no handle. Shareholders meeting Jun 24 (governance; no product announcements). **73/100 UNCHANGED.** 🟡 BENCH. Timeline Aug 2026+.
+- **LRCX:** +3.97% recent sessions (Jun 19/21). Extended after +21% prior week. **65/100 UNCHANGED.** 🔴 EXTENDED — wait for consolidation.
+- **ARM:** No overnight news found. ~$438-445 est. **60/100 UNCHANGED.** 🟡 WATCHING.
+- **MU (BLOCKED):** Jun 24 earnings. EPS consensus $19.95 (+942% YoY vs $1.91), rev $34.66B, margins ~81%. Wall St unanimously bullish. **MU ENTRY BLOCKED this week (earnings within 5 days)**. MU beat = MAJOR catalyst for MRVL/NVDA/LRCX gap next day.
+
+### Buy-zone readiness
+
+| Symbol | Score | Last est. | Pivot | Distance | Status |
+|---|---|---|---|---|---|
+| MRVL | 72/100 (degraded) | ~$314 | $280-285 (prior) | >10% extended | 🔴 EXTENDED — need new base post-inclusion |
+| NVDA | 73/100 (degraded) | ~$209.65 | undefined | N/A | 🟡 WATCHING — cup wk 12-13, no handle |
+| LRCX | 65/100 (degraded) | ~$380+ | undefined | N/A | 🔴 EXTENDED — wait consolidation |
+| ARM | 60/100 (degraded) | ~$438-445 | undefined | N/A | 🟡 WATCHING — below threshold |
+
+### Circuit breaker check
+
+ALL CLEAR | P&L today: $0 | P&L week: $0 (new week) | Equity: $2,500 (HWM) | Weekly trades: 0/3
+No circuit breakers active. No new entries regardless (Correction + 0 candidates in buy zone).
+
+### MRVL S&P 500 inclusion — strategic implication
+
+- I-letter upgraded to ~7/10 (S&P 500 = permanent forced institutional buying)
+- Full live score estimate: **~88/100** (I +2, base +10 when complete, AV confirmation +5)
+- Current price ~$314 = >10% above $280-285 target → CANNOT ENTER per 5% rule
+- **Watch for:** MRVL consolidates into flat base from ~$310-315 area; volume dries up 3-4 weeks; new pivot emerges → RE-SCORE then
+
+### FTD Day 7 (TODAY — LAST WINDOW)
+
+- **Threshold:** S&P close ≥ **7,594** on above-avg vol | Pre-market slightly negative (not encouraging)
+- **If FTD fires:** 🟢 Confirmed Uptrend → cancel SH queue → no candidates in buy zone today (MRVL extended; NVDA no pivot); re-scan Tue Jun 23 post-MU (wait until Wed Jun 25 for semi entries)
+- **If FTD fails:** 🔴 Correction continues | FTD window CLOSES | Next rally needs fresh Day 1 (new low below 7,266.99); 6/25 dist days
+
+### Actions
+
+NONE (Correction + Alpaca Day 105 BLOCKED + 0 positions + 0 candidates in buy zone)
+SH $625 hedge: QUEUED unchanged (Alpaca blocked)
+
+### Key risks / watch for today's close
+
+1. 🎯 **FTD Day 7 (TODAY — LAST WINDOW):** S&P close ≥7,594 on above-avg vol → 🟢 Uptrend; fails → 🔴 new rally attempt needed
+2. **Dist Day #8 risk:** S&P close ≤−0.20% on elevated vol → 8/25
+3. **Rally low breach (7,266.99):** Closes below = rally RESET + new Day 1
+4. **MRVL inclusion forced buying:** Moves semiconductors/QQQ at open; monitor for extended gap
+5. **MU earnings Wed Jun 24:** Wait before any semi entries
+6. **PCE Thu Jun 26:** Hot = dist day risk; cool = dovish relief
+
+`research_source: websearch_fallback` | Alpaca Day 105 BLOCKED | Perplexity 403 | AV 403
+
+---
+
 ## 2026-06-21 (Sun) — /weekly-prep (4:00 PM CT) — WEEKLY PREP WK JUN 22 — CORRECTION — 0 CANDIDATES ≥75 (10TH WK) — ALL SOURCES 403 DEGRADED
 
 **Research source:** `websearch_fallback` (DEGRADED — Alpaca 403, Alpha Vantage 403, Perplexity 403 — ALL primary sources blocked at network level)
