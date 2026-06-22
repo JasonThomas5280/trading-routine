@@ -1,5 +1,23 @@
 
 ---
+## 2026-06-22 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — FTD DAY 7 IN PROGRESS (7,575 vs 7,594 THRESHOLD; 19 PTS SHORT) — ALPACA DAY 106 BLOCKED]
+
+📈 Market-check 2026-06-22 10:00 AM CT
+Market: 🔴 CORRECTION (6/25 dist) | Circuit breakers: NONE
+S&P 500: ~7,575 at 11 AM ET (+0.99% from 7,500.58) | Open: 7,487.36 | FTD threshold: 7,594 | Gap: −19 pts
+Actions taken:
+  No new entries — Abort gate: Correction state + Alpaca Day 106 BLOCKED
+  SH $625 hedge: QUEUED (unchanged, Alpaca blocked)
+Watchlist status: 0 ready (primary NONE), 4 watching (bench), 0 removed
+  MRVL: S&P 500 inclusion day — $308.84 (range $298.77-$314.17) — EXTENDED >10% vs $280-285 pivot
+  NVDA: ~$210-213 est — cup wk 13-14 no handle — no change
+  LRCX: extended — no change | ARM: 60/100 — no change
+Open positions: 0 | Deployed: 0% | Cash: 100%
+Weekly trade count: 0/3 used
+FTD Day 7 (LAST WINDOW): ~7,575 vs 7,594 needed — 19 pts short as of 10 AM CT — 4+ hrs remain — WATCH CLOSE
+Next check: /eod-review 3:15 PM CT (FTD Day 7 verdict + MU earnings Wed gate)
+
+---
 ## 2026-06-19 10:00 CT [market-check — ⚠️ JUNETEENTH CLOSED — NO TRADING — 🕊️ IRAN DEAL SIGNED — FTD DAY 7 MON JUN 22 LAST — ALPACA DAY 102]
 
 📈 Market-check 2026-06-19 10:00 AM CT | ⚠️ JUNETEENTH — US MARKETS CLOSED

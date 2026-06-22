@@ -6,9 +6,9 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 22 /pre-market 6:00 AM CT: FTD Day 7 LAST WINDOW — S&P must close ≥7,594 on above-avg vol today — Pre-market SPY −0.19% QQQ −0.24% slightly negative — May 15 dist expires today → 6/25 (STILL CORRECTION without FTD) — MRVL S&P 500 inclusion effective today (price ~$314; extended from $280-285 pivot; cannot enter) — MU earnings Wed Jun 24 gates semi entries — Alpaca Day 105 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 22 /market-check 10:00 AM CT: FTD Day 7 IN PROGRESS — S&P ~7,575 at 11 AM ET (+0.99% from 7,500.58 close) — 19 pts SHORT of 7,594 threshold — FTD still possible if market extends into close — MRVL $308.84 S&P inclusion day (extended; range $298.77-$314.17) — Alpaca Day 106 BLOCKED — NO entries possible)*
 
-**Last updated:** 2026-06-22 (Mon) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED — FTD DAY 7 LAST WINDOW (THRESHOLD 7,594; PROB 25-35%) — MAY 15 DIST EXPIRES TODAY → 6/25 — MRVL S&P500 INCLUSION (EXTENDED) — ES −0.19% PRE-MARKET — ALPACA DAY 105 BLOCKED**
+**Last updated:** 2026-06-22 (Mon) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — FTD DAY 7 IN PROGRESS (S&P ~7,575 vs 7,594 THRESHOLD; 19 PTS SHORT AT 10AM CT) — MRVL S&P500 INCLUSION (EXTENDED $308.84) — ALPACA DAY 106 BLOCKED — NO ACTIONS**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **7/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17**) | Jun 18: +1.15% → NOT dist day ✅ | Jun 19–21: markets closed (Juneteenth + weekend) | May 15 expires **Jun 22** → 6/25 (STILL CORRECTION without FTD)
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active
@@ -28,6 +28,25 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 22 MARKET-CHECK (/market-check 10:00 AM CT — 🔴 CORRECTION UNCHANGED — FTD DAY 7 IN PROGRESS S&P ~7,575 (19 PTS SHORT OF 7,594 AT 11 AM ET) — MRVL S&P500 INCLUSION DAY $308.84 EXTENDED — ALPACA DAY 106 BLOCKED — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** (May 15 expired today; May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17) | State UNCHANGED
+- **Abort gates — ALL FIRED:** (1) 🔴 Correction → all long entries blocked; (2) Alpaca Day 106 BLOCKED (403) → no execution possible. Skip to step 6.
+- **S&P 500 (10 AM CT / 11 AM ET):** ~7,575 (+0.99% from 7,500.58 Jun 18 close) | Open: 7,487.36 (slightly below prior close) | Iran deal progress + Micron leading chips + peace optimism | Dow +0.4%, Nasdaq near flat | `research_source: websearch_fallback` | Alpaca Day 106 BLOCKED
+- **FTD Day 7 tracking (TODAY — LAST WINDOW):** FTD threshold **7,594** | Currently ~7,575 → **19 pts SHORT at 10 AM CT** | Need +0.25% more to close threshold | 4+ hours of trading remain — FTD still mathematically possible | Probability updated: **LOW-MODERATE (~25-30%)** (market holding gains but Iran/hawkish FOMC headwinds; no fresh catalyst to push last ~19 pts; pre-market was slightly negative) | Day 7 = LAST; if market closes <7,594 → FTD window CLOSES → need new rally attempt low for next attempt
+- **Dist expiry (today):** May 15 → **expired Jun 22** → **6/25** (CONFIRMED) | STILL CORRECTION without FTD | May 19 expires ~Jun 23 → 5/25
+- **MRVL (S&P 500 inclusion day):** ~$308.84 (range $298.77–$314.17) | S&P index-fund rebalancing flows active | Still >10% above $280-285 target pivot → **CANNOT ENTER** | Watching for post-inclusion consolidation into flat base ~$310-315 area | New base watch: vol dry-up 3-4 weeks | Score: 72/100 degraded → **~88/100 estimated live** | NO promotion
+- **NVDA:** ~$210-213 est. (insufficient live data) | Cup wk 13-14, no handle | No catalyst (shareholders mtg Jun 24 governance) | **73/100 UNCHANGED** | 🟡 BENCH | Timeline Aug 2026+
+- **LRCX:** Still extended after +21% prior week | **65/100 UNCHANGED** | 🔴 EXTENDED — wait for consolidation
+- **ARM:** ~$438-445 est. | No new catalysts | **60/100 UNCHANGED** | 🟡 WATCHING
+- **Bench promotions/demotions:** NONE — no items within 2% of pivot (MRVL extended; others have no defined pivot yet)
+- **Watchlist triggers (primary):** ZERO primary items → nothing evaluated ✅
+- **Sell-rules-engine:** SKIPPED (0 open positions — empty batch)
+- **SH/SQQQ hedge:** QUEUED $625 / 25% portfolio | Alpaca Day 106 BLOCKED | Execute FIRST on restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 106 blocked + 0 positions + 0 primary + FTD unconfirmed)
+- **Watch at /eod-review 3:15 PM CT:** (1) 🎯 FTD Day 7 FINAL: S&P close ≥7,594 on above-avg vol → 🟢 Confirmed Uptrend → cancel SH queue; note entries NOT eligible today (close too late); rescan Tue Jun 23 post-MRVL inclusion close; wait Wed Jun 25 post-MU earnings for semi entries; (2) Dist Day #8 risk if S&P reverses (close ≤−0.20% on elevated vol → 7/25); (3) Rally low 7,266.99 — breach = rally RESET + new Day 1; (4) May 19 dist expires ~Jun 23 → 5/25 if no new dist days; (5) MU earnings Wed Jun 24 — CRITICAL semi mover
+- `research_source: websearch_fallback` | Alpaca Day 106 BLOCKED | Perplexity 403 | AV 403
 
 **✅ JUN 21 /weekly-prep (Sun 4:00 PM CT — 🔴 CORRECTION UNCHANGED — WEEKEND — FTD DAY 7 JUN 22 LAST WINDOW — SECTORS: XLK #1 / XLF #2 / XLI #3 — 0 CANDIDATES ≥75 (10TH WEEK) — ALPACA DAY 104 BLOCKED):**
 - **Markets:** Closed Jun 19–21 (Juneteenth + weekend). No price action since Jun 18 close (S&P 7,500.58 confirmed).
