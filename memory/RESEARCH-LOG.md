@@ -10602,5 +10602,123 @@ Today P&L: $0 | Week P&L: $0 | Drawdown from HWM: $0
 
 **NO ENTRIES.** Correction + 0 primary candidates + Alpaca blocked. FTD watch only.
 If FTD confirmed today (Day 6): → upgrade to Confirmed Uptrend → begin entry planning at /market-check → SH hedge exit first on Alpaca restore → NVDA remains BENCH until base complete (wk 11+, Aug 2026+).
-If no FTD: Day 7 = Jun 20 (last window). If window closes: new rally attempt from fresh Day 1.
+If no FTD: Day 7 = Jun 22 Mon (LAST). If window closes: new rally attempt from fresh Day 1.
+
+---
+
+## 2026-06-18 (Thu) — /eod-review CATCH-UP (written 2026-06-22; Jun 19 Juneteenth markets closed)
+
+**Close:** S&P 500 7,500.58 (+1.15%) | QQQ $739.36 | Nasdaq +1.34%
+**Distribution days:** 7/25 (UNCHANGED — UP day, not dist)
+**Market state:** 🔴 Correction UNCHANGED | FTD Day 6 FAILED (+1.15% << +1.25%; 7,500.58 << 7,513 prior threshold; corrected threshold 7,594)
+**Key events:** Intel +8.9% (Apple chip deal unconfirmed); SOX +6% record high; broad tech rally
+**FTD threshold corrected:** 7,594 (7,500.58 × 1.0125) — Day 7 = Jun 22 Mon (LAST)
+**Positions held:** 0 | **Actions:** NONE | **Circuit breakers:** CLEAR
+**P&L today:** $0 | **Equity:** $2,500 | Alpaca Day 101 BLOCKED | `research_source: websearch_fallback`
+
+---
+
+## 2026-06-22 (Mon) — /eod-review
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 104 BLOCKED; Perplexity: unavailable; Alpha Vantage: unavailable)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (May 15 expired today; was 7/25)
+**FTD status:** ❌ WINDOW CLOSED — Day 7 (Jun 22, LAST) closed DOWN −0.37%; FTD cycle from Jun 11 ended without confirmation
+
+### Market close data
+
+| Index | Close | Change | Notes |
+|---|---|---|---|
+| S&P 500 | 7,472.79 | −0.37% | Tech mega-cap selloff; Dow +0.29% (rotation) |
+| Nasdaq | 26,166.60 | −1.32% | Alphabet −5%, Amazon −4.8%, Meta −2.3%, MSFT −3% |
+| Dow | ~36,xxx | +0.29% | Value outperformed; index rotation |
+| SPY vol | ~80.88M | vs ADV 72.88M | Mechanically elevated (dual-index rebalance) |
+
+### Distribution day check
+
+- S&P −0.37% → exceeds −0.20% threshold ✅
+- Volume: 80.88M vs ADV 72.88M (+10.9% above average) BUT:
+  - Nasdaq-100 + S&P 500 quarterly rebalance effective today → mechanical passive fund flows inflate volume
+  - Dow +0.29% = institutional money rotating INTO value, not broad distribution
+  - Investing.com: "selloff looks more like rotation than market breakdown"
+  - Prior day (Jun 18): also elevated vol day (Intel +8.9%, SOX +6%) — volume comparison ambiguous
+- **NOT COUNTING as distribution day** — volume gate: AMBIGUOUS/FAILS (rebalancing + rotation character)
+
+### Distribution count update
+
+- Before today: 7/25 (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17)
+- May 15 EXPIRES today (25 sessions elapsed since May 15): remove → **6/25**
+- Today: NOT new dist day → **FINAL: 6/25** (May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17)
+
+### FTD window closure
+
+- Rally attempt Day 1: Jun 11, 2026 (S&P ~7,393; low 7,266.99 Jun 10)
+- Day 7 (Jun 22) = LAST viable window day per CAN SLIM (Days 4–7)
+- Day 7 result: −0.37% → NOT FTD ❌ → **FTD PRIME WINDOW CLOSED**
+- Rally low 7,266.99 (Jun 10) NOT undercut (7,472.79 >> low) → rally attempt technically intact
+- State path forward: either new undercut → new Day 1, OR FTD outside prime window (less reliable)
+
+### Market state
+
+🔴 **MARKET IN CORRECTION — UNCHANGED** | 6/25 dist days | FTD prime window closed
+
+### Context: Quarterly rebalancing
+
+- Effective today (Jun 22 open): Nasdaq-100 new members (AI-focused; new membership process)
+- S&P 500: MRVL + FLEX added; POOL + CPB removed
+- MRVL significance: ~$265B market cap; forced passive buying pre/at effective date
+- This rebalancing was delayed from Jun 19 (Juneteenth CLOSED) → Jun 22 effective
+- Combined with Jun 19 Iran deal signing → complex macro backdrop
+
+### Open positions / sell-rules-engine
+
+- 0 open positions → evaluation SKIPPED per protocol
+- distribution_days: 6 (post-expiry) | state: MARKET_IN_CORRECTION | ftd_window: CLOSED | rally_low_intact: YES (7,472.79 >> 7,266.99)
+
+### Portfolio-level checks
+
+- Distribution cluster: 6/25 — at threshold; 0 positions = no reduction action needed ✅
+- Hedge entry check: State UNCHANGED (Correction). SH/SQQQ $625 QUEUED — Alpaca Day 104 BLOCKED — execute FIRST on restore
+- Follow-through day exit: N/A — no hedge held (Alpaca blocked)
+
+### Circuit breakers
+
+All CLEAR. Equity $2,500 = HWM. 0 open positions. PDT 0/3.
+Today P&L: $0 | Week P&L: $0 | Drawdown from HWM: $0
+
+### Watchlist notes
+
+| Symbol | Score | Status | Notes |
+|---|---|---|---|
+| MRVL | 70/100 → RE-SCORE | 🔴 BLOCKED (Correction) | **S&P 500 join = major I-letter catalyst; forced passive buying; re-score at /weekly-prep Sun** |
+| NVDA | 73/100 | 🔴 BLOCKED (base wk 11+) | Base incomplete; Aug 2026+ target |
+| LRCX | 65/100 | 🔴 BLOCKED | Below threshold |
+| ARM | 60/100 | 🔴 BLOCKED | Below threshold |
+| MU | BLOCKED | 🔴 BLOCKED | Earnings Jun 24 — blackout |
+| AVGO | RE-SCORE | 🔴 BLOCKED | Ex-div Jun 22 ($0.65); score ~55/100 |
+
+### P&L summary
+
+- **Today:** +$0.00 (0.00%)
+- **Week:** +$0.00 (0.00%) — 0 trades, 0 positions
+- **Equity:** $2,500.00 (= HWM)
+
+### EOD close summary
+
+**Close:** S&P 7,472.79 (−0.37%) | Nasdaq 26,166.60 (−1.32%) | Dow +0.29%
+**Distribution days:** 6/25 (May 15 expired; no new dist day — rebalancing vol / rotation)
+**Market state:** 🔴 Correction UNCHANGED | FTD prime window CLOSED (Day 7 failed)
+**Positions held:** 0 | **Actions today:** NONE
+**Circuit breakers:** None | **P&L today:** $0 | **Equity:** $2,500
+
+### Tomorrow priorities (Jun 23 Tue)
+
+1. 🔴 **FTD prime window is CLOSED** — correction continues. No new long entries until new FTD confirmed
+2. Watch 7,266.99 (Jun 10 low) — any close below = rally attempt DEAD → new Day 1
+3. **MU earnings Jun 24 AH** — don't score/enter MU this week; watch reaction for sector read
+4. **MRVL re-score at /weekly-prep Sunday** — S&P 500 inclusion boosts I-letter significantly; assess if score crosses 75 (for readiness when market turns)
+5. **Alpaca restore CRITICAL — Day 104** — SH $625 still QUEUED; execute FIRST on restore
+6. May 19 dist expires ~Jun 24 → 5/25 (UNDER PRESSURE territory); Jun 3 dist expires ~Jun 10
+7. NVDA stockholder meeting Jun 24 (online, 9 AM PT) — governance only; monitor for any material announcement
+
+`research_source: websearch_fallback` | Alpaca Day 104 | Perplexity unavailable | AV unavailable
 

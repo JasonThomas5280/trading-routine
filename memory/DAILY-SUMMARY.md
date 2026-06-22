@@ -3162,3 +3162,16 @@ Open positions: 0 | Deployed: 0% | Cash: 100% | Weekly trades: 0/3
   If FTD fires: cancel SH queue; entries eligible Tue Jun 23; wait for MU earnings Wed Jun 24 before any semi entry
   If FTD fails: window CLOSES; need fresh Day 1 below 7,266.99 for next attempt
 Next: /eod-review 3:15 PM CT (FTD Day 7 verdict)
+
+---
+## 2026-06-22 20:25 CT [clickup-placeholder]
+
+📊 EOD 2026-06-22 | Equity $2,500 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (May 15 expired today, was 7/25) | Market: 🔴 CORRECTION UNCHANGED
+FTD: ❌ WINDOW CLOSED — Day 7 (Jun 22 LAST) failed (S&P −0.37%); no FTD from Jun 11 rally attempt
+Actions today: NONE (Correction + 0 positions + Alpaca Day 104 blocked)
+Key: Nasdaq-100 + S&P 500 quarterly rebalance effective — MRVL + FLEX join S&P 500; tech mega-caps sold (Alphabet −5%, Amazon −4.8%, Meta −2.3%, MSFT −3%); Dow +0.29% = rotation NOT distribution
+Rally attempt Jun 11 INTACT (7,472.79 >> 7,266.99 low) but FTD prime window expired
+Tomorrow: watch 7,266.99 (fresh Day 1 if undercut); MRVL re-score /weekly-prep (S&P join = I-letter boost); MU earnings Jun 24 AH blackout; May 19 dist expires ~Jun 24 → 5/25
+Alpaca Day 104 BLOCKED — SH $625 queued
