@@ -3145,3 +3145,20 @@ Key catalyst: MU earnings Wed Jun 24 (EPS +942% YoY est; gates ALL semi entries)
 PCE Thu Jun 26 (hot = dist day risk)
 
 Plan: No entries (Correction + 0 candidates in buy zone). Monitor FTD close today. Wait for MU earnings Wed. SH 25 QUEUED (Alpaca Day 105 blocked).
+
+---
+## 2026-06-22 15:07 CT [clickup-placeholder]
+
+📈 Market-check 2026-06-22 10:00 AM CT
+Market: 🔴 CORRECTION (6/25 dist — May 15 expired today) | Circuit breakers: NONE | Alpaca: Day 106 BLOCKED
+Actions taken:
+  No new entries — Abort gate: Correction + Alpaca Day 106 BLOCKED
+  SH $625 hedge: QUEUED (Alpaca still blocked)
+Watchlist: 0 ready | 4 bench (no promotions/demotions)
+  MRVL $308.84 S&P500 inclusion day — EXTENDED >10% above $280-285 pivot
+  NVDA ~$210-213 cup wk13-14 no handle | LRCX extended | ARM 60/100
+Open positions: 0 | Deployed: 0% | Cash: 100% | Weekly trades: 0/3
+🎯 FTD Day 7 (LAST WINDOW): S&P ~7,575 at 10 AM CT vs 7,594 threshold — 19 pts short — still possible by 3pm CT close
+  If FTD fires: cancel SH queue; entries eligible Tue Jun 23; wait for MU earnings Wed Jun 24 before any semi entry
+  If FTD fails: window CLOSES; need fresh Day 1 below 7,266.99 for next attempt
+Next: /eod-review 3:15 PM CT (FTD Day 7 verdict)
