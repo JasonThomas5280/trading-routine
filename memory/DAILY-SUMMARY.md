@@ -1,5 +1,28 @@
 
 ---
+## 2026-06-23 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — KOSPI CRASH 10% CIRCUIT BREAKER — SMH −6.5% — MU −11.4% — NVDA −3.2% $201.97 — S&P POTENTIAL DIST DAY −0.34% — MRVL CFO SOLD 48% → SCORE 69 — ALPACA DAY 107 BLOCKED]
+
+📈 Market-check 2026-06-23 10:00 AM CT
+Market: 🔴 CORRECTION (6/25 dist → 5-6/25 EOD; May 19 expiring) | Circuit breakers: NONE
+S&P 500: tracking −0.34% at 2:34 PM EDT (~7,447-7,475 est.) | Potential dist day pending close | Rally low 7,266.99 INTACT (margin ~181-208 pts)
+Actions taken:
+  No new entries — Abort gates FIRED: 🔴 Correction + Alpaca Day 107 BLOCKED
+  No sells — 0 open positions
+  SH $625 hedge: QUEUED (unchanged; Alpaca Day 107 blocked)
+  Sell-rules-engine: SKIPPED (0 positions)
+Watchlist status: 0 ready (primary NONE), 4 bench (NVDA/MRVL/LRCX/ARM), 0 removed
+  ⚠️ NVDA: $201.97 (−3.2%) — KOSPI/SMH selloff — cup wk 13-14 no handle — 73/100 UNCHANGED
+  ⚠️ MRVL: ~$300-310 (further semi pressure) — CFO Meintjes sold 48% holdings (~$60.1M) → I-letter 7→4 → SCORE 72→69/100 — extended above pivot
+  LRCX: extended — additional semi pressure | ARM: 60/100 UNCHANGED
+  ⚠️ MU: −11.4% to $1,074.60 DAY BEFORE earnings (Jun 24 AMC) — BLOCKED but bearish signal for AI thesis
+SEMI SECTOR ALERT: KOSPI −10% circuit breaker; SK Hynix −12.5%; Samsung −12.3%; SMH −6.5%; TSM −5.2% — cascades from GOOGL −10% Jun 22 + valuation reset
+Open positions: 0 | Deployed: 0% | Cash: 100% ($2,500 HWM)
+Weekly trade count: 0/3 used
+Dist day: S&P −0.34% at 2:34 PM EDT — POTENTIAL (confirm at EOD; if yes: 6/25 net; if no: 5/25)
+🎯 Watch at EOD: (1) Dist confirm S&P close ≤7,457.87; (2) Rally low 7,266.99; (3) MU earnings AMC TOMORROW — full semi thesis gate; (4) PCE Thu (macro risk)
+Next check: /eod-review 3:15 PM CT
+
+---
 ## 2026-06-22 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — FTD DAY 7 IN PROGRESS (7,575 vs 7,594 THRESHOLD; 19 PTS SHORT) — ALPACA DAY 106 BLOCKED]
 
 📈 Market-check 2026-06-22 10:00 AM CT
