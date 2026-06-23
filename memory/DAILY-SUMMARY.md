@@ -3217,3 +3217,25 @@ Key catalyst Jun 22: GOOGL -10% (AI capex concern) -- thesis risk for AI semis |
 Critical tomorrow: MU earnings Jun 24 AMC -- beat = semis gap up (thesis intact); miss = Correction deepens
 Alpaca: BLOCKED at network level (egress not whitelisted -- Day 107+) | Perplexity 403 | AV 403
 Plan: NO entries -- Correction + FTD window closed + 0 candidates >=75. SH $625 hedge QUEUED. Hold cash. Watch MU tomorrow night.
+
+---
+## 2026-06-23 15:09 CT [clickup-placeholder]
+
+📈 Market-check 2026-06-23 10:00 AM CT | 🔴 CORRECTION UNCHANGED | NO TRADES
+
+⚠️ SEMI SECTOR SELLOFF — WATCH EOD (3:15 PM CT)
+• KOSPI crashed 10% (circuit breaker); SK Hynix -12.5%; Samsung -12.3%
+• SMH -6.5% | MU -11.4% to $1,074.60 day BEFORE earnings (Jun 24 AMC)
+• NVDA -3.2% → $201.97 (-14.3% off ATH; cup wk 13-14; no handle)
+• S&P tracking -0.34% at 2:34 PM EDT → POTENTIAL DIST DAY pending EOD confirm
+
+⚠️ MRVL SCORE: 72 → 69/100 (I-letter downgrade)
+• CFO Meintjes liquidated ~48% equity (~$60.1M) post-transition
+• I-letter 7 → 4; still extended >10% vs pivot; below 75 threshold
+
+Market: Correction | Dist 6/25 → 5-6/25 EOD | FTD window CLOSED
+Alpaca: BLOCKED Day 107 | Positions: 0 | Deployed: 0% | Trades: 0/3
+SH $625 hedge: QUEUED (Alpaca blocked)
+
+EOD watch: (1) Dist confirm S&P ≤7,457.87 → 6/25 net; (2) MU earnings AMC tomorrow; (3) Rally low 7,266.99; (4) PCE Thu
+Next: /eod-review 3:15 PM CT
