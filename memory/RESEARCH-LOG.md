@@ -129,6 +129,90 @@ SH $625 hedge: QUEUED unchanged (Alpaca blocked)
 
 ---
 
+## 2026-06-23 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — FTD WINDOW CLOSED — GOOGL −10% AI CAPEX SHOCK — MRVL NEW CFO — MAY 19 DIST EXPIRES TODAY — MU EARNINGS TOMORROW
+
+**Research source:** `websearch_fallback` (Alpaca: BLOCKED at network egress — host paper-api.alpaca.markets not in allowlist; Perplexity: 403; Alpha Vantage: 403. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 dist days** → **5/25 EOD** (May 19 expires today) | NO new long entries | FTD WINDOW CLOSED (Day 7 failed Jun 22)
+**Dist expiry today:** May 19 expires Jun 23 → **5/25** by close (if no new dist day today) | STILL CORRECTION without FTD regardless
+**Weekly trade count:** 0/3 | **Open positions:** 0 | **Alpaca:** BLOCKED (network egress restriction)
+
+### Open positions — overnight gap check
+
+**SKIPPED — 0 open positions.** No gap risk.
+
+### Market overnight check
+
+| Indicator | Level / Note | Source |
+|---|---|---|
+| S&P 500 close Jun 22 | **7,472.79 (−0.37%)** | TRADE-LOG eod-review (confirmed) |
+| Nasdaq Jun 22 | **−1.32%** | TRADE-LOG eod-review |
+| Dow Jun 22 | **+0.29%** | TRADE-LOG eod-review |
+| Russell 2000 Jun 22 | **3,000 ATH — first time ever** | WebSearch |
+| Jun 22 dist day? | **NOT dist day** (rotation char; Dow+; rebalance vol; per eod-review) | TRADE-LOG |
+| GOOGL Jun 22 | **−10%** — AI capex spending concerns | WebSearch |
+| PLTR / AMZN / META Jun 22 | **−4% each** — AI capex fear spillover | WebSearch |
+| FTD Day 7 result | **FAILED ❌** — S&P 7,472.79 << 7,594 threshold | TRADE-LOG |
+| FTD window status | **CLOSED** — next: need new Day 1 (S&P < 7,266.99) | Derived |
+| NQ futures (Jun 23 pre-mkt) | **~30,574** (pullback from 30,662 open) | WebSearch (Barchart) |
+| Jun 23 catalyst | S&P Global Flash PMI (timing TBD) | WebSearch |
+| Iran deal | Progress ongoing — oil lower | WebSearch |
+| MU earnings | **Jun 24 AMC** (tomorrow, after close) — FQ3 FY2026 | WebSearch confirmed |
+
+**Market thesis update:** FTD window closed. Rally attempt from Jun 11 (7,266.99 low) still technically intact but failed to convert. AI capex shock from GOOGL −10% on Jun 22 introduces thesis risk for AI semi names (NVDA, MRVL, LRCX). Russell 2000 ATH 3,000 = breadth improving (encouraging medium-term) but not a Correction-exit signal. Correction posture maintained.
+
+### Catalyst scan — open positions
+
+None. 0 positions.
+
+### Catalyst scan — bench items
+
+- **MRVL:** S&P 500 inclusion completed Jun 22 (I-letter catalyst realized). **New CFO announced: Dan Durn (Adobe CFO) → MRVL CFO, replacing Willem Meintjes.** Management upgrade = N-letter positive signal. Price ~$310 area = extended >10% above prior $280-285 pivot. Monitor for flat base (vol dry-up 3-4 weeks). **72/100 UNCHANGED (degraded).** AI capex concern from GOOGL −10% is a thesis risk — monitor hyperscaler CapEx commentary. Thesis intact: MRVL custom silicon (AWS Trainium, MSFT, Alphabet) — if hyperscaler capex slows, this is a direct headwind.
+- **NVDA:** ~$205 est. (consolidating post-cup wk 13+, no handle). AI capex shock = potential thesis risk — NVDA data center = hyperscaler-dependent. Shareholders meeting Jun 24 (governance). **73/100 UNCHANGED.** 🟡 BENCH. Timeline Aug 2026+.
+- **LRCX:** Extended post +21% surge. No new catalyst. AI capex concern = equipment orders could delay. **65/100 UNCHANGED.** 🔴 EXTENDED — wait for consolidation.
+- **ARM:** No overnight news. ~$438-445 est. **60/100 UNCHANGED.** 🟡 WATCHING — below threshold.
+- **MU (BLOCKED):** Earnings TOMORROW Jun 24 AMC. FQ3 FY2026. Entry blocked this week (within 5 trading days). MU result is critical semi-sector proxy — beat gaps MRVL/NVDA/LRCX up; miss validates Correction.
+
+### AI capex concern — strategic flag
+
+- **Event:** GOOGL −10% Jun 22 on AI capex spending concerns (hyperscaler CapEx pullback fears)
+- **Bench impact:** MRVL, NVDA, LRCX are ALL AI semi names with hyperscaler revenue dependence
+- **Risk level:** MONITOR (not a sell trigger — 0 positions; Correction already = no entries)
+- **MU Jun 24 as proxy:** If MU beats on memory/HBM demand → hyperscaler AI CapEx still strong → GOOGL concern was overblown → semi thesis intact | If MU misses → validates concern → bench scores could degrade
+- **Action:** Hold bench rankings unchanged. Re-evaluate AFTER MU earnings Jun 24. Do not pre-emptively remove names from bench.
+
+### Buy-zone readiness
+
+All bench — no primary watchlist items. Market in Correction = NO entries regardless.
+
+| Symbol | Score | Price est. | Notes | Status |
+|---|---|---|---|---|
+| MRVL | 72/100 degraded | ~$310 | S&P inclusion done; new CFO (positive); EXTENDED >10% above pivot | 🔴 EXTENDED — await new base |
+| NVDA | 73/100 degraded | ~$205 | Cup wk 13+, no handle; AI capex risk flagged | 🟡 BENCH — Aug 2026+ |
+| LRCX | 65/100 degraded | ~$367+ | Extended post +21%; below threshold | 🔴 EXTENDED |
+| ARM | 60/100 degraded | ~$438-445 | No news; below threshold | 🟡 BENCH |
+
+### Circuit breaker check
+
+ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+Alpaca account balance unconfirmable (network blocked) — no circuit breakers triggered (0 trades, $0 P&L).
+
+### Actions
+
+NONE. Correction + Alpaca network-blocked + 0 positions + FTD window CLOSED + 0 candidates ≥75.
+SH $625 hedge: QUEUED unchanged (Alpaca network-blocked; execute FIRST on restore).
+
+### Key risks / watch for today's close
+
+1. **Dist day check:** S&P close ≤−0.20% on elevated vol → **7/25** (regression); up or slight down → May 19 expires → **5/25**
+2. **Rally low breach (7,266.99):** S&P close below → rally RESET → new Day 1 (opens fresh FTD window Jun 27+)
+3. **Flash PMI data:** Hot = potential dist day risk; cool = dovish relief
+4. **AI capex follow-through:** More hyperscaler CapEx cuts = MRVL/NVDA/LRCX thesis risk intensifies
+5. **MU AMC tomorrow:** Beat → semis gap up Wed (thesis intact); miss → validates Correction thesis
+
+`research_source: websearch_fallback` | Alpaca BLOCKED (network egress) | Perplexity 403 | AV 403
+
+---
+
 ## 2026-06-21 (Sun) — /weekly-prep (4:00 PM CT) — WEEKLY PREP WK JUN 22 — CORRECTION — 0 CANDIDATES ≥75 (10TH WK) — ALL SOURCES 403 DEGRADED
 
 **Research source:** `websearch_fallback` (DEGRADED — Alpaca 403, Alpha Vantage 403, Perplexity 403 — ALL primary sources blocked at network level)

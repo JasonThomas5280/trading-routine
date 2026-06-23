@@ -3175,3 +3175,22 @@ Key: Nasdaq-100 + S&P 500 quarterly rebalance effective — MRVL + FLEX join S&P
 Rally attempt Jun 11 INTACT (7,472.79 >> 7,266.99 low) but FTD prime window expired
 Tomorrow: watch 7,266.99 (fresh Day 1 if undercut); MRVL re-score /weekly-prep (S&P join = I-letter boost); MU earnings Jun 24 AH blackout; May 19 dist expires ~Jun 24 → 5/25
 Alpaca Day 104 BLOCKED — SH $625 queued
+
+---
+## 2026-06-23 11:11 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-06-23 (Tue)
+Market: 🔴 Correction (6/25 dist → 5/25 EOD today) | FTD window: CLOSED (Day 7 failed Jun 22 -0.37%)
+Open positions: 0 | Circuit breakers: NONE | Weekly trades: 0/3 | Equity: $2,500 HWM
+Overnight gaps: NONE (0 positions)
+Watchlist ready: NONE (primary empty; 0 candidates >=75)
+Watchlist watching: NVDA 73/100 (bench; cup no handle; Aug 2026+)
+Removed: NONE
+Bench flags:
+  - MRVL 72/100: S&P 500 inclusion done; new CFO Dan Durn (positive); EXTENDED >10% above pivot; monitor flat base 3-4 wks
+  - LRCX 65/100: Extended; GOOGL AI capex shock = equipment order risk; wait consolidation
+  - ARM 60/100: No news; below threshold
+Key catalyst Jun 22: GOOGL -10% (AI capex concern) -- thesis risk for AI semis | Russell 2000 ATH 3,000 (breadth positive)
+Critical tomorrow: MU earnings Jun 24 AMC -- beat = semis gap up (thesis intact); miss = Correction deepens
+Alpaca: BLOCKED at network level (egress not whitelisted -- Day 107+) | Perplexity 403 | AV 403
+Plan: NO entries -- Correction + FTD window closed + 0 candidates >=75. SH $625 hedge QUEUED. Hold cash. Watch MU tomorrow night.

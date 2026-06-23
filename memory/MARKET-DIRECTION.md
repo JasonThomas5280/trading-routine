@@ -6,10 +6,10 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 22 /market-check 10:00 AM CT: FTD Day 7 IN PROGRESS — S&P ~7,575 at 11 AM ET (+0.99% from 7,500.58 close) — 19 pts SHORT of 7,594 threshold — FTD still possible if market extends into close — MRVL $308.84 S&P inclusion day (extended; range $298.77-$314.17) — Alpaca Day 106 BLOCKED — NO entries possible)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 23 /pre-market 6:00 AM CT: FTD Day 7 FAILED Jun 22 (−0.37%; close 7,472.79 << 7,594 threshold) — FTD WINDOW CLOSED — Jun 22: GOOGL −10% AI capex shock; Nasdaq −1.32%; Dow +0.29%; Russell 2000 hit 3,000 ATH (rotation day; NOT dist day per eod-review) — May 19 dist expires TODAY → 5/25 by EOD — Next FTD: need new Day 1 (S&P undercuts 7,266.99) — Alpaca BLOCKED — NO entries)*
 
-**Last updated:** 2026-06-22 (Mon) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — FTD DAY 7 IN PROGRESS (S&P ~7,575 vs 7,594 THRESHOLD; 19 PTS SHORT AT 10AM CT) — MRVL S&P500 INCLUSION (EXTENDED $308.84) — ALPACA DAY 106 BLOCKED — NO ACTIONS**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **7/25 dist days** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17**) | Jun 18: +1.15% → NOT dist day ✅ | Jun 19–21: markets closed (Juneteenth + weekend) | May 15 expires **Jun 22** → 6/25 (STILL CORRECTION without FTD)
+**Last updated:** 2026-06-23 (Tue) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED — FTD WINDOW CLOSED (Day 7 failed Jun 22 −0.37%) — GOOGL −10% AI CAPEX SHOCK — NASDAQ −1.32% — RUSSELL 2000 ATH 3,000 — MAY 19 DIST EXPIRES TODAY → 5/25 — ALPACA BLOCKED — NO ACTIONS**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17; May 15 expired Jun 22) | May 19 expires **Jun 23 (TODAY)** → 5/25 by EOD if no new dist day | Jun 22: −0.37% S&P → NOT dist day (rotation character; Dow+; rebalancing) ✅ | FTD window CLOSED
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active
 **Rally attempt:** ⚠️ **Day 6 FAILED — NOT FTD** | Rally low: **7,266.99 (Jun 10)** | Jun 18 close 7,500.58 → 234 pts ABOVE rally low ✅ (rally attempt INTACT) | **FTD window: Day 7 = Jun 22 (Mon — LAST; Jun 19 Juneteenth CLOSED; Jun 20–21 weekend)** | FTD threshold Jun 22: **7,594 CORRECTED** (7,500.58 × 1.0125; corrects prior ~7,598 estimate) | **FTD probability: LOW-MODERATE (25-35%)** (Iran deal bullish but partially priced; hawkish Fed headwind; holiday futures declined)
@@ -28,6 +28,27 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 23 /PRE-MARKET (6:00 AM CT — 🔴 CORRECTION UNCHANGED — FTD WINDOW CLOSED — GOOGL −10% AI CAPEX SHOCK — NASDAQ −1.32% — RUSSELL 2000 ATH 3,000 — MAY 19 DIST EXPIRES TODAY → 5/25 — ALPACA BLOCKED — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** → **5/25 EOD** (May 19 expires today if no new dist day today) | State UNCHANGED
+- **Jun 22 recap (confirmed via trade log / websearch_fallback):** S&P 7,472.79 (−0.37%) | Nasdaq −1.32% | Dow +0.29% | Russell 2000: **3,000 ATH (first time ever)** — breadth milestone | **NOT dist day** (rotation character; Dow+; Nasdaq-100/S&P rebalance flows; per eod-review) ✅
+- **FTD Day 7 RESULT (Jun 22 — LAST WINDOW):** S&P 7,472.79 (−0.37%) << 7,594 threshold → **FTD FAILED ❌ | FTD WINDOW NOW CLOSED** | Rally attempt Jun 11 (low 7,266.99) remains technically intact (7,472 >> 7,266.99) | Next FTD path: (a) S&P undercuts 7,266.99 → new Day 1; (b) fresh rally Day 4-7 +1.25%+ on vol
+- **Jun 22 key catalyst — AI capex shock (CRITICAL for our bench):** GOOGL (Alphabet) −10% intraday | Palantir/Amazon/Meta each −4% | Driver: AI capex spending concerns / hyperscaler spending pullback fears | Semi-sector consequence: bearish for NVDA/MRVL/LRCX AI revenue thesis if hyperscaler CapEx pulls back | **Thesis risk: MONITOR** — if confirmed, AI semi conviction scores could degrade; Correction + 0 positions means no immediate action required
+- **Russell 2000 at 3,000 (Jun 22):** Historic breadth milestone | Small-caps outperforming while mega-cap AI names sold off = rotation, not broad market collapse | Bullish medium-term signal (breadth improving) but doesn't confirm new uptrend yet
+- **Today (Jun 23) calendar:** S&P Global Flash PMI (timing TBD — pre-market or open) | MU earnings TOMORROW Jun 24 AMC (critical semi proxy) | PCE Thu Jun 26 (macro risk)
+- **Open positions:** 0 → overnight gap check: SKIPPED
+- **Primary watchlist:** NONE → catalyst scan: SKIPPED
+- **Bench items (no entries eligible — Correction):**
+  - NVDA 73/100: ~$205 est. (cup wk 13+, no handle, base timeline Aug 2026+) | AI capex shock = thesis risk flag | BENCH unchanged
+  - MRVL 72/100: S&P 500 inclusion completed Jun 22 (I-letter catalyst complete) | New CFO: Dan Durn (from Adobe Finance) replacing Willem Meintjes — N-letter positive (management upgrade) | Price ~$310 area = EXTENDED >10% above prior $280-285 pivot | Watching for flat base 3-4 weeks | BENCH
+  - LRCX 65/100: Extended after +21% | No new catalyst | Consolidation required | BENCH
+  - ARM 60/100: No overnight news | Below threshold | BENCH
+- **MU status:** BLOCKED (earnings Jun 24 AMC — within 5 trading days) | MU result = critical semi gating event for MRVL/NVDA/LRCX thesis
+- **SH/SQQQ hedge:** QUEUED $625 / 25% portfolio | Alpaca BLOCKED at network egress (host not in allowlist) | Execute FIRST on Alpaca restore
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca network-blocked + 0 positions + 0 primary watchlist + FTD window CLOSED)
+- **Watch at /market-check 10:00 AM CT:** (1) Flash PMI data — HOT = potential dist risk; COOL = dovish relief; (2) Dist Day check: S&P close ≤−0.20% on elevated vol → 7/25 (regression); UP day → 5/25 (May 19 expires); (3) Rally low 7,266.99 — breach = new Day 1 (fresh FTD window opens); (4) AI capex follow-through: More GOOGL/hyperscaler news would pressure bench names; (5) MU pre-earnings analyst commentary
+- `research_source: websearch_fallback` | Alpaca BLOCKED (egress not whitelisted) | Perplexity 403 | AV 403
 
 **✅ JUN 22 MARKET-CHECK (/market-check 10:00 AM CT — 🔴 CORRECTION UNCHANGED — FTD DAY 7 IN PROGRESS S&P ~7,575 (19 PTS SHORT OF 7,594 AT 11 AM ET) — MRVL S&P500 INCLUSION DAY $308.84 EXTENDED — ALPACA DAY 106 BLOCKED — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | Dist: **6/25** (May 15 expired today; May 19, Jun 3, Jun 5, Jun 9, Jun 10, Jun 17) | State UNCHANGED
