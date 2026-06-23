@@ -46,6 +46,58 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-23 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — DIST DAY #8 S&P −1.43% ~7,366 — NASDAQ −2.21% — NET 6/25 — MU EARNINGS TOMORROW — ALPACA DAY 108 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 108; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. Price data via native WebSearch / TheStreet.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | NO new long entries | FTD window CLOSED
+
+## 2026-06-23 — /eod-review
+
+**Close:** SPY est. ~$722-723 (−1.43%) | QQQ est. ~$716-720 (Nasdaq −2.21%) | S&P 500 ~7,366 (−1.43%)
+**Distribution days:** 6/25 trailing 25 sessions (today: NEW DIST DAY ✅ — May 19 OUT; Jun 23 IN; net unchanged at 6)
+**Market state:** 🔴 Market in Correction (UNCHANGED; transitioned today? NO)
+**Positions held:** 0
+**Actions today:**
+  - NONE (Correction + Alpaca Day 108 BLOCKED + 0 positions + 0 primary watchlist)
+  - sell-rules-engine: SKIPPED (empty batch)
+  - SH/SQQQ hedge: QUEUED $625 / Alpaca blocked
+**Circuit breakers:** NONE
+**P&L today:** $0 ($0.00%)
+**Equity:** $2,500.00 (HWM)
+
+### Market analysis
+
+- **KOSPI crash aftermath:** Global chip selloff continued from Jun 22 (GOOGL −10% AI capex shock) + Jun 23 (KOSPI −9.99% circuit breaker). US semis: SMH −6.5%, MU −11.4% ($1,074.60 — day before earnings; unusual), NVDA −3.2% ($201.97).
+- **Distribution day #8:** S&P −1.43% >> −0.20% threshold; elevated volume confirmed. Hard dist day.
+- **Rally attempt:** 7,366 close vs 7,266.99 rally low (Jun 10) = 99 pts margin. INTACT but thinning. 50d MA ~7,248 = only 118 pts below close.
+- **FTD path:** Window CLOSED (Day 7 Jun 22 failed). Next: undercut 7,266.99 → new Day 1 → Day 4-7 +1.25%+ on vol.
+
+### MU earnings preview (Jun 24 AMC — GATING EVENT)
+
+- Consensus: EPS $19.95 (+942% YoY), Rev $34.66B, GM ~81%
+- Stock down −11.4% day before print (unusual; either sector panic or market pricing miss)
+- **BEAT scenario:** MRVL/NVDA/LRCX gap-up pre-mkt Jun 25; semi thesis intact; watch for new bases
+- **MISS scenario:** AI capex confirmed pullback; MRVL 69/100 score degrades further; NVDA 73/100 score degraded; LRCX/ARM scores fall; extended correction
+
+### Bench status (post-selloff)
+
+| Symbol | Score | Est. Price | Status |
+|---|---|---|---|
+| NVDA | 73/100 | ~$195-202 | 🟡 BENCH — cup wk 13+, no handle, Aug 2026+; −14% off ATH |
+| MRVL | 69/100 | ~$295-305 | 🔴 BENCH — CFO insider selling 48%; below 75 threshold |
+| LRCX | 65/100 | ~$360-375 est. | 🔴 BENCH — extended; below threshold |
+| ARM | 60/100 | ~$425-435 est. | 🟡 BENCH — below threshold |
+
+### Watch tomorrow (/pre-market Jun 24)
+
+1. **🎯 MU print tonight (AMC)** — semi sector gating event; check pre-mkt reaction
+2. Dist Day check: S&P close ≤−0.20% → 7/25; close ≥−0.20% → 6/25
+3. Rally low 7,266.99 — close below = new Day 1 (FTD window reopens)
+4. MRVL additional insider selling filings
+5. PCE Thu Jun 26 — additional dist risk if hot
+
+---
+
 ## 2026-06-22 (Mon) — /pre-market (6:00 AM CT) — 🎯 FTD DAY 7 LAST WINDOW — MRVL S&P 500 INCLUSION TODAY — EXTENDED — ES SLIGHTLY NEGATIVE — ALPACA DAY 105 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 105; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)

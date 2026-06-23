@@ -1,5 +1,21 @@
 
 ---
+## 2026-06-23 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P −1.43% ~7,366 DIST DAY #8 CONFIRMED — NASDAQ −2.21% — NET 6/25 — RALLY LOW 7,266.99 INTACT — MU EARNINGS TONIGHT — ALPACA DAY 108 BLOCKED]
+
+📊 EOD 2026-06-23 | Equity $2,500.00 (+$0.00 day, +$0.00 week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 CORRECTION — UNCHANGED)
+Actions today:
+  • NONE — Correction + Alpaca Day 108 BLOCKED + 0 positions
+  • sell-rules-engine: SKIPPED (empty batch)
+  • SH $625 hedge: QUEUED (Correction active; Alpaca blocked Day 108)
+Close: S&P ~7,366 (−1.43%) | Nasdaq −2.21% | Dow ~flat
+DIST DAY #8 CONFIRMED: −1.43% >> −0.20%; elevated vol. May 19 expired (−1); Jun 23 new (+1) → NET 6/25 UNCHANGED
+Rally low 7,266.99 INTACT (99 pts margin; 50d MA ~7,248 only 118 pts below close)
+Tomorrow: 🎯 MU earnings tonight (AMC) — semi sector gate; NVDA/MRVL/LRCX reaction pre-mkt Jun 25; PCE Thu Jun 26 (additional dist risk)
+Circuit breakers: NONE
+
+---
 ## 2026-06-23 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — KOSPI CRASH 10% CIRCUIT BREAKER — SMH −6.5% — MU −11.4% — NVDA −3.2% $201.97 — S&P POTENTIAL DIST DAY −0.34% — MRVL CFO SOLD 48% → SCORE 69 — ALPACA DAY 107 BLOCKED]
 
 📈 Market-check 2026-06-23 10:00 AM CT
