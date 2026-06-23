@@ -3255,3 +3255,20 @@ SH $625 hedge: QUEUED (Alpaca blocked)
 
 EOD watch: (1) Dist confirm S&P ≤7,457.87 → 6/25 net; (2) MU earnings AMC tomorrow; (3) Rally low 7,266.99; (4) PCE Thu
 Next: /eod-review 3:15 PM CT
+
+---
+## 2026-06-23 20:23 CT [clickup-placeholder]
+
+📊 EOD 2026-06-23 | Equity $2,500.00 (+$0.00 day, +$0.00 week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 CORRECTION — UNCHANGED)
+Actions today:
+  • NONE — Correction + Alpaca Day 108 BLOCKED + 0 positions
+  • sell-rules-engine: SKIPPED (empty batch — 0 open positions)
+  • SH $625 hedge: QUEUED (Alpaca still blocked Day 108)
+Close: S&P ~7,366 (−1.43%) | Nasdaq −2.21% | Dow ~flat
+DIST DAY #8 CONFIRMED: May 19 expired (−1); Jun 23 new dist (+1) → NET 6/25 UNCHANGED
+Rally low 7,266.99 INTACT (99 pts margin; 50d MA ~7,248 only 118 pts below close)
+⚠️ CRITICAL: MU earnings TONIGHT (Jun 24 AMC) — semi sector gate; watch pre-mkt reaction
+Tomorrow watch: dist day check; PCE Thu Jun 26; MRVL insider selling follow-up; rally low 7,266.99
+Circuit breakers: NONE
