@@ -46,6 +46,80 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-24 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~91 pts)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Close: S&P 500 + QQQ (Jun 24)
+
+| Index | Close | Change | Dist Day? |
+|---|---|---|---|
+| S&P 500 | 7,358.22 | **−0.10%** | ❌ No (< −0.20% threshold) |
+| Nasdaq | ~25,477 | **−0.43%** | N/A |
+| Dow | ~51,849 | **+0.35%** | N/A |
+| QQQ | ~$718 est. | **~−0.3% est.** | N/A |
+
+**Distribution day check (Jun 24):** S&P −0.10% → **BELOW −0.20% threshold → NOT a distribution day** ✅
+**Dist count: 6/25 UNCHANGED** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; no expiries today)
+
+### Market state
+
+**State: 🔴 MARKET IN CORRECTION — UNCHANGED**
+- 6/25 dist days = Correction threshold maintained
+- FTD window CLOSED (Day 7 failed Jun 22; need new Day 1 below 7,266.99)
+- Rally low 7,266.99 INTACT — margin ~91 pts (thinning: Jun 22 ~206 pts → Jun 23 ~99 pts → Jun 24 ~91 pts)
+- 50d MA ~7,248 — only 110 pts (1.53%) below current close — WATCH
+- No state transition
+
+### Sell-rules-engine
+
+**SKIPPED** — 0 open positions. ✅
+
+### Portfolio-level checks
+
+- Dist 6/25: no new threshold crossed today ✅
+- Hedge (SH $625 QUEUED): Alpaca Day 109 BLOCKED — unchanged
+- Circuit breakers: ALL CLEAR ✅
+
+### 🚨 MU Earnings (AMC Jun 24) — MASSIVE BEAT
+
+| Metric | Actual | Consensus | Result |
+|---|---|---|---|
+| EPS (non-GAAP) | ~$25.11 | ~$19.95-20.39 | **MASSIVE BEAT (+26%)** |
+| Revenue | massive beat | $34.66B | **MASSIVE BEAT** |
+| Q4 Revenue guide | ~$49-51B | ~$43.2B | **MASSIVE UPSIDE (+14-18%)** |
+| Dividend | $0.15/sh quarterly | — | ✅ declared |
+
+**MU +6%+ AH** → chip stocks broadly higher after hours. AI memory demand confirmed; HBM shipments accelerating; hyperscaler CapEx NOT pulling back.
+
+**Bench impact for /pre-market Jun 25:**
+- NVDA: AI thesis reinforced; cup wk 14+ → re-score at open; likely 78-83/100 live; Correction still blocks entry
+- MRVL: MU beat = AI thesis boost; CFO selling still = I-letter concern; net re-score at open
+- LRCX: More chip fab = more LRCX equipment; positive; re-score
+- ARM: Modestly positive
+- ⚠️ CORRECTION still blocks ALL entries regardless of re-scores
+
+### Actions taken
+
+NONE. Correction + Alpaca Day 109 blocked + 0 positions + 0 primary watchlist.
+
+**P&L today:** $0 | **P&L week:** $0 | **Equity:** $2,500 (HWM)
+
+### Watch at /pre-market Jun 25 (Thu)
+
+1. 🚨 **MU beat pre-mkt reaction** — semi gap-up expected; re-score NVDA/MRVL/LRCX at open
+2. **Dist Day check** — S&P close ≥−0.20% on elevated vol → 7/25 regression
+3. **50d MA 7,248** — only 110 pts / 1.53% below; critical structural level
+4. **Rally low 7,266.99** — 91 pts margin; breach = new Day 1 (FTD window reopens in 4-7 sessions)
+5. **PCE Thu Jun 26** — hot print = dist risk; cool = dovish relief
+6. **FDX AMC Jun 24** — XLI sector read-through
+
+`research_source: websearch_fallback` | Alpaca Day 109 BLOCKED | Perplexity 403 | AV 403
+
+---
+
 ## 2026-06-24 (Wed) — /market-check (10:00 AM CT) — ⛔ CORRECTION — NO ENTRIES — S&P +0.20% NOT FTD — ALPACA DAY 109 BLOCKED — MU EARNINGS TONIGHT
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch / TheStreet / Trading Economics.)

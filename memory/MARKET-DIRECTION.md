@@ -6,10 +6,10 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 23 /eod-review 3:15 PM CT: S&P 500 closed ~7,366 (−1.43%); Nasdaq −2.21%; DIST DAY #8 CONFIRMED (−1.43% >> −0.20%; elevated vol chip selloff); May 19 expired today (−1); Jun 23 new dist (+1) → NET 6/25 UNCHANGED; FTD WINDOW CLOSED; Rally low 7,266.99 INTACT (~99 pts margin); Alpaca Day 108 BLOCKED; 0 positions; No actions)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 24 /eod-review 3:15 PM CT: S&P 500 closed 7,358.22 (−0.10%); Nasdaq −0.43%; NOT a distribution day (−0.10% < −0.20% threshold); Net 6/25 UNCHANGED; FTD window CLOSED; Rally low 7,266.99 INTACT (~91 pts margin — thinning); 🚨 MU MASSIVE BEAT AMC: EPS ~$25.11 vs ~$20 est; rev massive beat; Q4 guide ~$49-51B vs $43.2B est; MU +6% AH → AI thesis VALIDATED; NVDA/MRVL/LRCX gap-up expected Thu; re-score at /pre-market Jun 25; Alpaca Day 109 BLOCKED; 0 positions; No actions)*
 
-**Last updated:** 2026-06-23 (Tue) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P −1.43% ~7,366 — NASDAQ −2.21% — DIST DAY #8 CONFIRMED — NET 6/25 (MAY 19 OUT + JUN 23 IN) — RALLY LOW 7,266.99 INTACT — ALPACA DAY 108 BLOCKED — 0 POSITIONS**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; May 15 expired Jun 22; May 19 expired Jun 23) | FTD window CLOSED (Day 7 failed Jun 22) | Rally attempt INTACT (7,366 >> 7,266.99 low; ~99 pts margin)
+**Last updated:** 2026-06-24 (Wed) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 — NASDAQ −0.43% — NOT DIST DAY — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (~91 PTS) — MU MASSIVE BEAT AMC (+6% AH) — ALPACA DAY 109 BLOCKED — 0 POSITIONS**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; May 15 expired Jun 22; May 19 expired Jun 23) | FTD window CLOSED (Day 7 failed Jun 22) | Rally attempt INTACT (7,358.22 >> 7,266.99 low; ~91 pts margin — watch 50d MA ~7,248 = only 110 pts below)
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active
 **Rally attempt:** ⚠️ **Day 6 FAILED — NOT FTD** | Rally low: **7,266.99 (Jun 10)** | Jun 18 close 7,500.58 → 234 pts ABOVE rally low ✅ (rally attempt INTACT) | **FTD window: Day 7 = Jun 22 (Mon — LAST; Jun 19 Juneteenth CLOSED; Jun 20–21 weekend)** | FTD threshold Jun 22: **7,594 CORRECTED** (7,500.58 × 1.0125; corrects prior ~7,598 estimate) | **FTD probability: LOW-MODERATE (25-35%)** (Iran deal bullish but partially priced; hawkish Fed headwind; holiday futures declined)
@@ -28,6 +28,38 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 24 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (~91 PTS) — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 109 BLOCKED
+- **S&P 500 Jun 24 close:** **7,358.22 (−0.10%** from ~7,366 Jun 23 close) | Nasdaq Composite ~−0.43% to ~25,477 | Dow +0.35% to ~51,849 | QQQ est. ~$718 | `research_source: websearch_fallback`
+- **Session character:** Mixed/quieter session vs prior days. Semis continued under pressure (AI capex concerns lingering pre-MU print). Value (Dow +0.35%) outperformed tech. Market held above rally low despite pressure. Tentative stabilization ahead of MU AMC.
+- **Distribution day check (Jun 24):** S&P −0.10% → **BELOW −0.20% threshold → NOT a distribution day** ✅
+- **Distribution day accounting:** No changes. Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23. **Net: 6/25 UNCHANGED.**
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** (6/25 dist = Correction; FTD window CLOSED)
+- **Rally attempt check:** S&P 7,358.22 vs rally low **7,266.99** (Jun 10) → margin ~**91 pts (~1.26%)** → rally attempt **INTACT** ✅ (margin thinning: 206 pts Jun 22 → 99 pts Jun 23 → 91 pts Jun 24)
+- **⚠️ 50d MA proximity:** S&P 7,358.22 | 50d MA ~7,248 | Gap: ~110 pts (1.53%) | One bad distribution day could bring S&P to test 50d — WATCH
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** (EMPTY BATCH) ✅
+- **Portfolio-level checks:** Dist 6/25 — no new threshold crossed ✅ | 0 positions ✅
+- **Hedge check:** SH/SQQQ $625 QUEUED (Correction protocol ACTIVE — UNCHANGED) | Alpaca Day 109 BLOCKED | Execute FIRST on restore
+- **🚨 MU MASSIVE BEAT AMC (Jun 24):**
+  - EPS (non-GAAP): ~$25.11 vs ~$19.95-20.39 consensus → **MASSIVE BEAT (+26%)**
+  - Revenue: massive beat vs $34.66B consensus
+  - Q4 guide: ~$49-51B vs ~$43.2B consensus → **MASSIVE UPSIDE (+14-18%)**
+  - MU declared quarterly dividend $0.15/share
+  - **MU +6%+ after hours** → chip stocks broadly higher AH
+  - **AI thesis VALIDATED** — HBM/memory demand confirmed; hyperscaler CapEx NOT pulling back
+  - **Bench impact (for /pre-market Jun 25):** NVDA/MRVL/LRCX expected to gap up; re-score at open
+  - ⚠️ Correction state still blocks all long entries regardless of re-scores
+- **Bench status (post MU print):**
+  - NVDA: MU beat = AI thesis reinforced; cup wk 14+; re-score Thu; likely 78-83/100 live | 🟡 BENCH (gap-up pending)
+  - MRVL: Positive AI thesis from MU vs CFO selling I-letter concern | re-score Thu | 🟡 BENCH
+  - LRCX: More chip fab = more LRCX equipment; positive | 65/100 → pending re-score | 🔴 EXTENDED
+  - ARM: Modestly positive | 60/100 | 🟡 BENCH — below threshold
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 109 blocked + 0 positions + 0 primary watchlist)
+- **⚠️ DIST DAY EXPIRY PATH (unchanged):** Jun 3 → ~Aug 8 → 5/25 | Jun 5 → ~Aug 10 → 4/25 | Jun 9 → ~Aug 12 → 3/25 | Jun 10 → ~Aug 13 → 2/25 | Jun 17 → ~Aug 22 → 1/25 | Jun 23 → ~Sep 24 → 0/25 | **State REMAINS CORRECTION until FTD regardless**
+- **Watch at /pre-market Jun 25 (Thu):** (1) 🚨 **MU beat pre-mkt reaction** — semi gap-up; re-score NVDA/MRVL/LRCX; (2) **Dist day check**: S&P close ≥−0.20% on elevated vol → 7/25 regression; (3) **50d MA 7,248** — only 110 pts / 1.53% below current — critical level; (4) **Rally low 7,266.99** — 91 pts margin; breach = new Day 1 (FTD window reopens); (5) **PCE Thu Jun 26** — hot = dist risk; cool = relief; (6) FDX AMC Jun 24 — XLI read-through
+- `research_source: websearch_fallback` | Alpaca Day 109 BLOCKED | Perplexity 403 | AV 403
 
 **✅ JUN 23 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P −1.43% ~7,366 — NASDAQ −2.21% — DIST DAY #8 CONFIRMED — NET 6/25 (MAY 19 OUT + JUN 23 IN) — RALLY LOW 7,266.99 INTACT — MU EARNINGS TOMORROW AMC — ALPACA DAY 108 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 108 BLOCKED

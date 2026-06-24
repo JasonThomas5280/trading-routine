@@ -3295,3 +3295,16 @@ Bench: NVDA 73/100 (cup wk14 no handle); MRVL 69/100 (rejected at pivot; new bas
 Tonight CRITICAL: MU FQ3 earnings AMC (BEAT+HBM=re-score semis Thu; MISS=delay entries further) + FDX AMC
 Next: /eod-review 3:15 PM CT | PCE Thu Jun 26
 
+
+---
+## 2026-06-24 20:22 CT [clickup-placeholder]
+
+📊 EOD 2026-06-24 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 CORRECTION — UNCHANGED)
+S&P 500: 7,358.22 (−0.10%) — NOT a distribution day | Nasdaq −0.43% | Dow +0.35%
+Rally low 7,266.99 INTACT (~91 pts margin, thinning) | 50d MA ~7,248 (110 pts below)
+Actions today: NONE (Correction + Alpaca Day 109 BLOCKED + 0 positions)
+🚨 MU MASSIVE BEAT AMC: EPS ~$25.11 vs ~$20 est; rev massive beat; Q4 guide ~$49-51B vs $43.2B est; MU +6%+ AH → AI thesis VALIDATED
+Thu Jun 25: Re-score NVDA/MRVL/LRCX at pre-mkt; semi gap-up expected; dist day watch; 50d MA watch
+PCE Thu Jun 26 — macro risk; hot print = dist risk
