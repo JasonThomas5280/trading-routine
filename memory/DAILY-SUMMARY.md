@@ -3277,3 +3277,21 @@ Circuit breakers: NONE
 ## 2026-06-24 11:10 CT [clickup-placeholder]
 
 Pre-market 2026-06-24 | Market: Correction 6/25 dist | ES +0.13% NQ +0.5% recovery | 0 open positions | Circuit breakers: CLEAR | Bench: NVDA 00 73/100, MRVL 79 69/100 rejected at pivot, LRCX 71 65/100, ARM 94 60/100 | KEY TONIGHT: MU FQ3 earnings AMC (cons 5.75B rev/0.83 EPS/82% GM) — BEAT+HBM=re-score semis Thu; MISS=delay all entries | FDX earnings tonight | PCE Thu | Alpaca Day 109 BLOCKED | Plan: NO entries. Watch MU print.
+
+---
+## 2026-06-24 10:00 AM CT [market-check]
+
+📈 Market-check 2026-06-24 10:00 AM CT
+Market: 🔴 CORRECTION | S&P ~7,380 (+0.20%) — NOT FTD (need +1.25%) | Dist: 6/25 | Rally low 7,266.99 INTACT
+Circuit breakers: NONE
+Actions taken:
+  • No new entries — gate: Market in Correction
+  • No positions to check — 0 open
+  • sell-rules-engine: SKIPPED (0 positions)
+  • SH $625 hedge: QUEUED (Alpaca Day 109 BLOCKED)
+Watchlist: 0 ready, 4 bench (all <75 threshold, unchanged)
+Open positions: 0 | Deployed: 0% | Weekly trades: 0/3 used
+Bench: NVDA 73/100 (cup wk14 no handle); MRVL 69/100 (rejected at pivot; new base needed); LRCX 65/100; ARM 60/100
+Tonight CRITICAL: MU FQ3 earnings AMC (BEAT+HBM=re-score semis Thu; MISS=delay entries further) + FDX AMC
+Next: /eod-review 3:15 PM CT | PCE Thu Jun 26
+

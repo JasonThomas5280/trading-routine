@@ -46,6 +46,93 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-24 (Wed) — /market-check (10:00 AM CT) — ⛔ CORRECTION — NO ENTRIES — S&P +0.20% NOT FTD — ALPACA DAY 109 BLOCKED — MU EARNINGS TONIGHT
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch / TheStreet / Trading Economics.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED (prime; Day 7 failed Jun 22) | Rally low 7,266.99 INTACT
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Abort gate check
+
+| Gate | Status |
+|---|---|
+| Market state | ⛔ **MARKET IN CORRECTION** → ALL new long entries BLOCKED |
+| Research available | ✅ websearch_fallback (not DEGRADED) |
+| Daily circuit breaker (−3%) | ✅ CLEAR — $0 P&L today |
+| Weekly circuit breaker (−6%) | ✅ CLEAR — $0 P&L week |
+| Drawdown (−12% HWM) | ✅ CLEAR — $0 drawdown |
+| Weekly trade count | ✅ CLEAR — 0/3 |
+| Position count | ✅ CLEAR — 0/4 |
+| Cash buffer | ✅ CLEAR — 100% cash |
+
+**→ GATE 1 HIT: Market in Correction. Skipping to summary. No new entries.**
+
+### Market mid-morning snapshot (10:00 AM CT / 11:00 AM ET)
+
+| Index | Level | Change | Notes |
+|---|---|---|---|
+| S&P 500 | ~7,380 | **+0.20%** | Modest bounce; NOT a FTD (+1.25% required) |
+| Nasdaq | recovering | **~+0.6%** | Tech bid ahead of MU print |
+| Dow | ~flat | **−0.17%** | Rotation to value |
+| Rally low | 7,266.99 | INTACT | ~113 pts margin |
+| 50d MA (S&P) | ~7,248 | — | Only 132 pts below current; thin margin |
+
+**FTD status:** +0.20% far below +1.25% threshold → NOT a FTD → State UNCHANGED 🔴 CORRECTION
+
+### Overnight gap follow-up
+
+SKIPPED — 0 open positions.
+
+### Watchlist trigger check
+
+Primary watchlist: **0 candidates ≥75.** Zero 🟢 READY items. No triggers to evaluate. Abort gate also blocks.
+
+### Intraday position health (sell-rules-engine)
+
+SKIPPED — 0 open positions. No Rule 1 / Rule 3 intraday checks needed.
+
+### Bench promotion / demotion check
+
+| Symbol | Score | Est. Price | Pivot | Within 2% of Pivot? | Action |
+|---|---|---|---|---|---|
+| NVDA | 73/100 | ~$200-203 | None (cup forming, wk 14) | N/A — no pivot | BENCH UNCHANGED |
+| MRVL | 69/100 | ~$282-285 est. | Prior $280-285 (rejected) | Below threshold; needs new base | BENCH UNCHANGED |
+| LRCX | 65/100 | ~$375-380 est. | None (no base) | Below threshold | BENCH UNCHANGED |
+| ARM | 60/100 | ~$390-400 est. | None | Below threshold | BENCH UNCHANGED |
+
+**No promotions** — all below 75 conviction threshold regardless of price proximity.
+**No demotions** — no evidence of 50-MA breaks on volume for bench names (bouncing with market today).
+
+### NVDA shareholders meeting (9 AM PT today)
+
+Governance-only meeting (as pre-flagged). No earnings, no product announcements. No score impact.
+
+### Tonight's critical gates
+
+- **🎯 MU FQ3 earnings AMC** (consensus: $35.75B rev / $20.83 EPS / 81%+ GM):
+  - BEAT + strong HBM commentary → AI thesis intact → re-score MRVL/NVDA at /eod-review or /pre-market Thu
+  - MISS → AI capex slowdown confirmed → MRVL drops to ≤65, further delay all semi entries
+- **FDX earnings AMC** — XLI sector read-through (industrials)
+
+### Actions taken
+
+NONE. Correction + Alpaca Day 109 blocked + 0 positions + 0 primary candidates.
+
+### Summary
+
+📈 Market-check 2026-06-24 10:00 AM CT
+Market: 🔴 CORRECTION | S&P ~7,380 (+0.20%) — NOT FTD | Circuit breakers: NONE
+Actions: No new entries (Correction gate), no positions to check
+Watchlist: 0 ready, 0 watching primary, 4 bench (all <75 threshold)
+Open positions: 0 | Deployed: 0% | Weekly trades: 0/3
+Alpaca: Day 109 BLOCKED | SH $625 hedge: QUEUED
+Critical tonight: MU FQ3 AMC + FDX AMC | PCE Thu Jun 26
+Next: /eod-review 3:15 PM CT
+
+`research_source: websearch_fallback` | Alpaca Day 109 | Perplexity 403 | AV 403
+
+---
+
 ## 2026-06-24 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — MU EARNINGS TONIGHT AMC (CRITICAL SEMI GATE) — ES +0.13% NQ +0.5% MODEST RECOVERY — ALPACA DAY 109 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
