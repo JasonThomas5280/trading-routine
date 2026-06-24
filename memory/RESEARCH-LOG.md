@@ -46,6 +46,75 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-24 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — MU EARNINGS TONIGHT AMC (CRITICAL SEMI GATE) — ES +0.13% NQ +0.5% MODEST RECOVERY — ALPACA DAY 109 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. All data via native WebSearch.)
+**Market direction pull:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | NO new long entries | FTD window CLOSED
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Open positions — overnight gap check
+
+**SKIPPED — 0 open positions.** No gap risk.
+
+### Market overnight check
+
+| Indicator | Level | Notes |
+|---|---|---|
+| ES futures (pre-mkt) | **+0.13%** | Modest recovery bounce after Jun 23 −1.44% selloff |
+| NQ futures (pre-mkt) | **+0.5%** | Tech recovering; semis catching a bid |
+| MU pre-market | **+4.1%** | MU was −13% Jun 23; bouncing ahead of tonight's print |
+| MU consensus | **$35.75B rev / $20.83 EPS** | FactSet; 283% rev growth; 81%+ gross margins; HBM key |
+| SOX/semis | **Attempting bounce** | After SOX −7.87% Jun 23 (13,482.51); SK Hynix HBM4 scale-back reports still weighing |
+| BoFA rate hike | **Ongoing headwind** | Hartnett hawkish framework; Jun 17 FOMC 9/18 dots for hike |
+| NVDA shareholders mtg | **Today 9 AM PT (governance)** | No earnings/product announcements; no price impact expected |
+| FDX earnings | **Tonight AMC** | Industrials/logistics read-through; XLI sector bellwether |
+| PCE data | **Thu Jun 26** | HOT = potential new dist day; COOL = dovish relief |
+| May new home sales | **Today** | Housing macro read; rate-sensitive sector data |
+| Fed stress test results | **Today** | Banks; XLF sector read |
+
+### Catalyst scan — open positions
+
+None. 0 positions.
+
+### Catalyst scan — bench
+
+- **NVDA $200.04** (−4.13% Jun 23; AH ~$200.94 flat): Shareholders meeting today Jun 24, 9 AM PT — governance only (Blackwell/Vera ramp commentary expected; no earnings). AI capex selloff hurt the whole sector. Cup wk 13-14, no handle. **73/100 UNCHANGED.** No score impact from meeting. MU earnings tonight = key read-through for AI chip demand thesis. Timeline: Aug 2026+ for base completion.
+- **MRVL $279.04** (−8.82% Jun 23 from $307.86; predicted open ~$282): Sell-the-news after S&P 500 inclusion Jun 22 + CFO Meintjes 48% stake liquidation ongoing. Price ~$279 is now BELOW the prior $280-285 pivot target — technically the stock has been rejected at that level and sold back into the base. **Score: 69/100 UNCHANGED (could degrade if I-letter weakens further)**. MU earnings tonight: BEAT → AI thesis intact → monitor MRVL for new base; MISS → score likely degrades to ≤65.
+- **LRCX $371.33** (−9.33% Jun 23 from ~$409): Sharp reversal from extension. Now back near Jun 18 close $366.81. The +21% surge that made it "extended" has been largely unwound. **65/100 UNCHANGED.** No longer extended — but no new base formed yet; needs consolidation. Next earnings Jul 29 (clear).
+- **ARM ~$394 est.** (−10.14% Jun 23 from ~$438.42 Jun 18 level): Arm Holdings led the semi rout Jun 23. **60/100 UNCHANGED.** Below threshold.
+
+### Buy-zone readiness (pre-market Jun 24)
+
+| Symbol | Score | Jun 23 Close | Pivot | Status |
+|---|---|---|---|---|
+| NVDA | 73/100 | $200.04 | No pivot (cup forming) | 🔴 NOT ACTIONABLE — no pivot defined; Aug 2026+ |
+| MRVL | 69/100 | $279.04 | $280-285 (prior) | 🔴 BELOW threshold — rejected at pivot; new base needed |
+| LRCX | 65/100 | $371.33 | None (no base) | 🔴 BELOW threshold — wait for consolidation |
+| ARM | 60/100 | ~$394 est. | None | 🔴 BELOW threshold |
+
+**All names below entry threshold. Entry gate: ⛔ ZERO new long entries (Correction + Alpaca Day 109 + 0 candidates ≥75)**
+
+### Circuit breaker check
+
+- Account drawdown from HWM: $0 (0%) — ALL CLEAR
+- Daily P&L: $0 — ALL CLEAR
+- Weekly P&L: $0 — ALL CLEAR
+- PDT count: 0/3 — ALL CLEAR
+
+### Plan for today (/market-check 10:00 AM CT)
+
+- NO new entries regardless of any setup
+- **Watch MU earnings tonight (AMC)** — the single most important event this week
+  - MU BEAT + HBM commentary strong → semis gap-up Fri; re-score MRVL/NVDA with (hopefully) live data
+  - MU MISS → validates AI capex slowdown thesis; delay all semi entries; possible additional dist day pressure Thu
+- Watch S&P 500 close vs 7,266.99 rally low (99 pts margin Jun 23)
+- May new home sales + Fed stress test: note for sector signals (XLF)
+- FDX earnings tonight: watch for XLI read-through
+
+`research_source: websearch_fallback` | Alpaca Day 109 | Perplexity 403 | AV 403
+
+---
+
 ## 2026-06-23 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — DIST DAY #8 S&P −1.43% ~7,366 — NASDAQ −2.21% — NET 6/25 — MU EARNINGS TOMORROW — ALPACA DAY 108 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 blocked — Day 108; Perplexity: 403 blocked; Alpha Vantage: 403 blocked. Price data via native WebSearch / TheStreet.)

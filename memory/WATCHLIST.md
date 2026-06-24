@@ -81,10 +81,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 | Rank | Symbol | Score | Δ | Sector | Status | Re-Score Trigger | Notes |
 |---|---|---|---|---|---|---|---|
-| B1 | NVDA | **73/100** ⬆️ | ↑5 from 68 | XLK / Semis | 🟡 Cup wk 13-14; no handle | Handle completion (~Aug 2026) + Alpaca+AV restore | **C:20 A:15 N:8 S:10 L:15 I:5(capped) Base:0.** Jun 23 price: **$201.97 (−3.2%)** from KOSPI crash/SMH −6.5% selloff | −14.3% off ATH $235.47 | Cup forming wk 13-14, no handle, no pivot. AI capex risk flagged (GOOGL −10% Jun 22; KOSPI crash Jun 23; MU −11.4% day-before-earnings). Score 73/100 UNCHANGED (price action within cup formation is expected; needs handle + live data for re-score). Shareholders mtg Jun 24 (governance; not earnings — clear). Timeline: base complete ~Aug 2026. `websearch_fallback` `cached_fundamentals` |
-| B2 | MRVL | **69/100** ⬇️ | ↓3 (I-letter CFO insider sell) | XLK / AI Semis | 🔴 EXTENDED + CFO SELLING | New base post-inclusion + CFO selling resolution + MU earnings proxy | **C:15 A:10 N:15 S:10 L:15 I:4(CFO Meintjes sold 48% holdings ~$60.1M) Base:0.** ⚠️ **MRVL CFO insider selling: Meintjes filed to liquidate ~48% equity (~$60.1M) post-transition Jun 15.** I-letter DOWNGRADED 7→4 (institutional confidence signal reversed; insider selling offsets S&P 500 structural buying). S&P 500 inclusion Jun 22 = structural I floor, but CFO exit undermines confidence. Price ~$300-310 (Jun 23 semi selloff: KOSPI crash −10%; SMH −6.5%). Still EXTENDED >10% above $280-285 pivot. AI capex headwind: GOOGL −10% Jun 22; MU −11.4% Jun 23 (day-before-earnings). Full live score est. ~78-82/100 if: base confirms (+10) + AV EPS (+5) + I stabilizes. **WATCH:** MU earnings Jun 24 AMC is key thesis gate. Beat → AI thesis intact, monitor for MRVL base; miss → further score degradation likely. `websearch_fallback` `S&P500_inclusion_Jun22` `CFO_insider_sell_Jun23` |
-| B3 | LRCX | **65/100** 🆕 | NEW | XLK / Semi Equip | 🟡 Watch — likely extended after +21% wk | A-letter improvement path + base confirm | **C:15 A:5 N:15 S:10 L:15 I:5(capped) Base:0.** C: Most recent qtly earnings Apr 22, 2026 (Q3 FY2026); semi equipment in AI capex boom — est. 40%+ YoY growth. A: 3-year streak broken by 2023 memory cycle downturn — only ROE credit = 5pts. N: at new 52w high ($366.81 YTD +115%); AI capex equipment cycle = 15pts. S: float ~130M (0 float pts); vol surge +21% wk = 5pts; buyback = 5pts. L: RS ≥90 = 10pts; XLK top-3 = +5pts. Next earnings Jul 29 (clear). ⚠️ Likely EXTENDED above buy zone after +21% single-week surge — wait for consolidation. `websearch_fallback` |
-| B4 | ARM | **60/100** 🆕 | NEW | XLK / Semis | ❌ Below threshold — score path unclear | C-letter non-GAAP improvement + base confirm | **C:10 A:10 N:15 S:5 L:15 I:5(capped) Base:0.** C: FY2026 GAAP EPS +13.3% (fails 25% minimum on GAAP); non-GAAP EPS $1.77 FY2026 (est. +31% YoY = 10pts non-GAAP). A: 3 consecutive ≥25% growth requires FY2024 data (pre-IPO limited); IPO Sep 2023; 2 confirmed years only = 10pts est. N: $438.42 Jun 18; near new 52w high; Bernstein target $500 (14% upside); AI chip architecture leader = 15pts. S: Softbank retains ~54%; public float ~430-470M shares (0 float pts, near headwind threshold); est. no buyback program = 5pts vol only. L: Strong YTD; RS ≥90 = 10 + XLK top-3 = +5. Next earnings ~late July (clear). `websearch_fallback` |
+| B1 | NVDA | **73/100** ⬆️ | ↑5 from 68 | XLK / Semis | 🟡 Cup wk 14; no handle | Handle completion (~Aug 2026) + Alpaca+AV restore | **C:20 A:15 N:8 S:10 L:15 I:5(capped) Base:0.** Jun 23 close: **$200.04 (−4.13%)**; AH Jun 24: ~$200.94 (flat). Jun 24 pre-mkt: shareholders meeting 9 AM PT (governance only — no earnings/product announcements; no score impact). Cup wk 14, no handle, no pivot. −15.1% off ATH $235.47. AI capex selloff (KOSPI −10% Jun 23; SOX −7.87%) hit sector. Score 73/100 UNCHANGED. MU earnings tonight Jun 24 AMC = read-through for AI chip demand thesis. Timeline: Aug 2026+. `websearch_fallback` `cached_fundamentals` |
+| B2 | MRVL | **69/100** ⬇️ | ↓3 (I-letter CFO insider sell) | XLK / AI Semis | 🔴 BELOW THRESHOLD + CFO SELLING + S&P SELL-THE-NEWS | New base post-inclusion sell-off + CFO selling resolution + MU earnings proxy | **C:15 A:10 N:15 S:10 L:15 I:4(CFO Meintjes sold 48% holdings ~$60.1M) Base:0.** Jun 23 close: **$279.04 (−8.82% from $307.86)**. Jun 24 pre-mkt predicted open ~$282 (+1.09%). S&P 500 inclusion (Jun 22) "sell-the-news" — index rebalancing forced buying cleared, stock rolled back below $280-285 pivot zone (now ~$279, REJECTED at pivot). CFO Meintjes 48% equity liquidation filing ongoing — I-letter confidence signal negative. AI capex headwind: KOSPI crash Jun 23 + SK Hynix HBM4 scale-back reports. Score 69/100 UNCHANGED (may degrade to ≤65 on MU miss tonight). **WATCH:** MU print tonight Jun 24 AMC: BEAT + HBM = MRVL stabilizes → monitor for new flat base formation; MISS = score degrades, delay entry further. `websearch_fallback` `S&P500_inclusion_Jun22` `CFO_insider_sell_Jun23` |
+| B3 | LRCX | **65/100** | — | XLK / Semi Equip | 🟡 Extended condition unwound — watch for base | A-letter improvement path + base confirm | **C:15 A:5 N:15 S:10 L:15 I:5(capped) Base:0.** Jun 23 close: **$371.33 (−9.33%)**. The +21% surge that had LRCX "extended" has been largely reversed — now near Jun 18 close $366.81. No longer extended. Still no base formed; needs consolidation period. Next earnings Jul 29 (clear). Score 65/100 UNCHANGED. `websearch_fallback` |
+| B4 | ARM | **60/100** | — | XLK / Semis | ❌ Below threshold — score path unclear | C-letter non-GAAP improvement + base confirm | **C:10 A:10 N:15 S:5 L:15 I:5(capped) Base:0.** Jun 23 close: **~$394 est. (−10.14%)**. ARM led the semi rout Jun 23. Still below conviction threshold. C-letter fails on GAAP. Next earnings ~late July (clear). Score 60/100 UNCHANGED. `websearch_fallback` |
 | — | AVGO | **55/100** — | Unchanged | XLK | ❌ Watch-only | New base + CFO Thuener established + score ≥75 path | C:20 A:8 N:8 S:5 L:7 I:7 Base:0. CFO Spears→Thuener. Ex-div Jun 22 ($0.65). No base. Not actionable. `cached_fundamentals` |
 | — | DELL | **55/100** ⬇️⬇️ | Unchanged | XLK | ❌ Watch-only | Silver Lake selling halts + new base + score ≥65 path first | Silver Lake supply overhang. TX reincorp vote Jun 25 (governance). No base. Even with base = ~65/100. Not actionable. `cached_fundamentals` |
 
@@ -92,18 +92,22 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ### Entry Execution Plan — Week of Jun 22-26
 
-**Entry gate: ⛔ ZERO new long entries** (Correction; Alpaca Day 104 BLOCKED; 0 candidates ≥75)
+**Entry gate: ⛔ ZERO new long entries** (Correction; Alpaca Day 109 BLOCKED; 0 candidates ≥75; FTD window CLOSED)
 
 **FIRST order on Alpaca restore (unchanged):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5)
 
-**If FTD fires Jun 22 AND Alpaca restores — execution sequence:**
-1. Exit SH queue → cancel
-2. Pull MRVL bars → check base: flat base from correction low ~$250? If yes → target pivot ~$280-285 | entry on breakout with vol ≥+40%
-3. Wait until Wed Jun 25 (post-MU earnings Jun 24) before entering any semi name
-4. Max 1 position until data sources fully confirmed (Alpaca + AV operational)
-5. NVDA, LRCX, ARM → bench only this week regardless of FTD
+**Updated plan post-Jun 22-23 selloff (as of Jun 24 pre-market):**
+- FTD window CLOSED — prime window expired Jun 22 (Day 7 failed). Next FTD cycle requires new Day 1 below 7,266.99.
+- MRVL S&P 500 inclusion sell-the-news: rejected at $280-285 pivot → needs new base to form post-selloff before entry eligible
+- **🎯 MU EARNINGS TONIGHT (Jun 24 AMC) — CRITICAL GATE:**
+  - BEAT + HBM commentary strong → AI thesis intact → re-score MRVL/NVDA Thu Jun 25 with fresh data
+  - MISS → AI capex slowdown confirmed → delay all semi entries; further score degradation likely for NVDA/MRVL
+- ALL semi entries (MRVL, NVDA, LRCX, ARM) remain on bench until: (a) MU confirms AI demand, (b) Alpaca + AV restore, (c) new base with confirmed pivot forms, (d) FTD confirmed on new rally
+- NVDA shareholders mtg Jun 24: governance only — no score impact
 
-**Calendar risk flags:**
-- MU Jun 24: NO MU entry this week (within 5 days). MU result GATES semi entries Wed+
-- AVGO ex-div Jun 22: price adjusts −$0.65 at open (cosmetic; does not affect thesis)
-- PCE Jun 26: HOT PCE = dovish reversal risk; hold size if entering early in week
+**Calendar risk flags (remaining this week):**
+- MU Jun 24 AMC: **GATING EVENT for all semi names**
+- NVDA shareholders mtg Jun 24 9 AM PT: governance only
+- FDX earnings Jun 24 AMC: XLI read-through
+- PCE Jun 26: HOT PCE = new dist day risk; COOL = dovish relief
+- DELL TX reincorp vote Jun 25: governance only

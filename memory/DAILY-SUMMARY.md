@@ -3272,3 +3272,8 @@ Rally low 7,266.99 INTACT (99 pts margin; 50d MA ~7,248 only 118 pts below close
 ⚠️ CRITICAL: MU earnings TONIGHT (Jun 24 AMC) — semi sector gate; watch pre-mkt reaction
 Tomorrow watch: dist day check; PCE Thu Jun 26; MRVL insider selling follow-up; rally low 7,266.99
 Circuit breakers: NONE
+
+---
+## 2026-06-24 11:10 CT [clickup-placeholder]
+
+Pre-market 2026-06-24 | Market: Correction 6/25 dist | ES +0.13% NQ +0.5% recovery | 0 open positions | Circuit breakers: CLEAR | Bench: NVDA 00 73/100, MRVL 79 69/100 rejected at pivot, LRCX 71 65/100, ARM 94 60/100 | KEY TONIGHT: MU FQ3 earnings AMC (cons 5.75B rev/0.83 EPS/82% GM) — BEAT+HBM=re-score semis Thu; MISS=delay all entries | FDX earnings tonight | PCE Thu | Alpaca Day 109 BLOCKED | Plan: NO entries. Watch MU print.
