@@ -6,10 +6,10 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 25 /market-check 10:00 AM CT: S&P +0.52% intraday ~7,396 — PCE 4.1% headline / 3.4% core (HOT, matched forecast) — market digested PCE; MU rally bid overwhelmed inflation concern — NOT a distribution day — Dist 6/25 UNCHANGED — FTD window CLOSED — Rally low 7,266.99 margin widens to ~129 pts — Alpaca Day 110 BLOCKED — 0 positions — NO TRADES)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 25 /eod-review 3:15 PM CT: S&P 7,357.49 (−0.01%) — gave back +0.52% morning gains; Mag7 selloff (AAPL iPhone + MSFT Xbox price hikes, tariff pass-through) — NOT dist day (< −0.20%) — Dist 6/25 UNCHANGED — FTD window CLOSED — Rally low 7,266.99 margin 90.5 pts (thinning) — Alpaca Day 110 BLOCKED — 0 positions — NO ACTIONS)*
 
-**Last updated:** 2026-06-25 (Thu) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — S&P +0.52% NOT DIST DAY — PCE 4.1%/3.4% DIGESTED — 6/25 UNCHANGED — FTD WINDOW CLOSED — ALPACA DAY 110 BLOCKED — 0 POSITIONS**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; May 15 expired Jun 22; May 19 expired Jun 23) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99) | Rally attempt INTACT (S&P ~7,396 intraday >> 7,266.99 low; ~129 pts margin — widening from 91 pts Jun 24)
+**Last updated:** 2026-06-25 (Thu) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P 7,357.49 (−0.01%) NOT DIST DAY — 6/25 UNCHANGED — FTD WINDOW CLOSED — ALPACA DAY 110 BLOCKED — 0 POSITIONS**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; May 15 expired Jun 22; May 19 expired Jun 23) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99) | Rally attempt INTACT (S&P 7,357.49 >> 7,266.99 low; ~90.5 pts margin — thinning from 129 pts intraday)
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active
 **Rally attempt:** ⚠️ **Day 6 FAILED — NOT FTD** | Rally low: **7,266.99 (Jun 10)** | Jun 18 close 7,500.58 → 234 pts ABOVE rally low ✅ (rally attempt INTACT) | **FTD window: Day 7 = Jun 22 (Mon — LAST; Jun 19 Juneteenth CLOSED; Jun 20–21 weekend)** | FTD threshold Jun 22: **7,594 CORRECTED** (7,500.58 × 1.0125; corrects prior ~7,598 estimate) | **FTD probability: LOW-MODERATE (25-35%)** (Iran deal bullish but partially priced; hawkish Fed headwind; holiday futures declined)
@@ -28,6 +28,33 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 25 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P −0.01% 7,357.49 NOT DIST DAY — NASDAQ −0.46% — 6/25 UNCHANGED — MAG7 SELLOFF (AAPL IPHONE + MSFT XBOX PRICE HIKES) — RALLY LOW 7,266.99 INTACT (90.5 PTS) — ALPACA DAY 110 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 110 BLOCKED
+- **S&P 500 Jun 25 close:** **7,357.49 (−0.01%** from 7,358.22 Jun 24 close) | Nasdaq Composite ~−0.46% to ~25,358.60 | Dow +0.14% to ~51,920.62 | QQQ est. ~$725 (Nasdaq-100 likely slight positive on semi strength) | `research_source: websearch_fallback`
+- **Session character:** Market gave back MU-driven morning gains (+0.52% intraday at 10 AM CT) as afternoon saw Mag7 selloff on AAPL iPhone + MSFT Xbox price increases (tariff pass-through). S&P closed essentially flat (−0.01%). Dow outperformed on defensive rotation (CAT +5.81%, UNH +2.65%). Semi names likely modestly positive from MU beat residual bid, unable to overcome Mag7 drag on composites.
+- **Distribution day check (Jun 25):** S&P −0.01% → **BELOW −0.20% threshold → NOT a distribution day** ✅ | QQQ: lower-than-average volume → NOT a distribution day ✅
+- **Distribution day accounting:** No changes. Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23. **Net: 6/25 UNCHANGED.**
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** (6/25 dist = Correction; FTD window CLOSED)
+- **Rally attempt check:** S&P 7,357.49 vs rally low **7,266.99** (Jun 10) → margin ~**90.5 pts (~1.26%)** → rally attempt **INTACT** ✅ (margin thinning: 129 pts intraday → 91 pts Jun 24 → 90.5 pts Jun 25 close)
+- **⚠️ 50d MA proximity:** S&P 7,357.49 | 50d MA ~7,248 | Gap: ~109.5 pts (1.53%) | Two near-flat sessions (Jun 24 −0.10%, Jun 25 −0.01%) — market digesting MU beat without follow-through buying
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** (EMPTY BATCH) ✅
+- **Portfolio-level checks:** Dist 6/25 — no new threshold crossed ✅ | 0 positions ✅
+- **Hedge check:** SH/SQQQ $625 QUEUED (Correction protocol ACTIVE — UNCHANGED) | Alpaca Day 110 BLOCKED | Execute FIRST on restore
+- **Key developments Jun 25:**
+  - ⚠️ **AAPL + MSFT price hikes** (iPhone + Xbox, tariff pass-through) → Mag7 headwind; afternoon selloff catalyst
+  - MU +15%+ AI thesis validation confirmed but bull bid faded into close
+  - PCE 4.1%/3.4% fully digested — no additional inflation shock vs. prior forecast
+- **Bench status (Jun 25 close est.):**
+  - NVDA: ~$200-205 est. | **73/100 UNCHANGED** | 🟡 BENCH | Aug 2026+ timeline
+  - MRVL: ~$276-285 est. | **71/100 UNCHANGED** | 🟡 BENCH
+  - LRCX: ~lower from morning highs on Mag7 drag | **67/100 UNCHANGED** | 🟡 BENCH
+  - ARM: No new catalyst | **60/100 UNCHANGED** | 🔴 BELOW THRESHOLD
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 110 blocked + 0 positions + 0 primary watchlist)
+- **⚠️ DIST DAY EXPIRY PATH (unchanged):** Jun 3 → ~Aug 8 → 5/25 | Jun 5 → ~Aug 10 → 4/25 | Jun 9 → ~Aug 12 → 3/25 | Jun 10 → ~Aug 13 → 2/25 | Jun 17 → ~Aug 22 → 1/25 | Jun 23 → ~Sep 24 → 0/25 | **State REMAINS CORRECTION until FTD regardless**
+- **Watch at /pre-market Jun 26 (Fri):** (1) **Mag7 continued reaction** to AAPL/MSFT price hikes (sentiment gauge for Fri); (2) **Dist count confirmed 6/25** → carry forward; (3) **Rally low 7,266.99** — 90.5 pts margin (thinning); breach = new Day 1; (4) **End-of-week dynamics** — Dow outperforming on defensives; (5) **Alpaca restore** — Day 111; SH $625 FIRST order; (6) **50d MA ~7,248** — 109.5 pts below close; one distribution day tests it
+- `research_source: websearch_fallback` | Alpaca Day 110 BLOCKED | Perplexity 403 | AV 403
 
 **✅ JUN 24 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (~91 PTS) — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 109 BLOCKED

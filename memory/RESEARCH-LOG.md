@@ -198,6 +198,90 @@ NONE — zero primary items → SKIPPED ✅
 4. **Semi close levels:** NVDA/MRVL/LRCX close prices for bench score update
 5. **SH $625 hedge:** QUEUED — execute first on Alpaca restore
 
+## 2026-06-25 (Thu) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.01% 7,357.49 NOT DIST DAY — NASDAQ −0.46% — 6/25 UNCHANGED — MAG7 SELLOFF AAPL/MSFT — ALPACA DAY 110 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 110 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~90.5 pts)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Close: S&P 500 + QQQ (Jun 25)
+
+| Index | Close | Change | Dist Day? |
+|---|---|---|---|
+| S&P 500 | 7,357.49 | **−0.01%** | ❌ No (< −0.20% threshold) |
+| Nasdaq Composite | ~25,358.60 | **−0.46%** | N/A |
+| Dow | ~51,920.62 | **+0.14%** | N/A |
+| QQQ | ~$725 est. | **slight positive est.** | ❌ No (low volume) |
+
+**Distribution day check (Jun 25):** S&P −0.01% → **BELOW −0.20% threshold → NOT a distribution day** ✅ | QQQ: lower-than-average volume → NOT a distribution day ✅
+**Dist count: 6/25 UNCHANGED** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; no expiries today)
+**State: 🔴 CORRECTION UNCHANGED**
+
+### Sell-rules-engine results
+
+0 open positions → **SKIPPED** ✅
+
+### Distribution day assessment
+
+- S&P −0.01% → NOT dist day ✅
+- QQQ → low volume, NOT dist day ✅
+- **Dist count: 6/25 UNCHANGED** ✅
+- **State: CORRECTION UNCHANGED** ✅
+
+### Rally attempt update
+
+S&P 7,357.49 vs rally low **7,266.99** (Jun 10) → margin **90.5 pts (~1.26%)** → rally attempt **INTACT** ✅
+Margin trend: 129 pts intraday Jun 25 → 91 pts Jun 24 close → **90.5 pts Jun 25 close** (thinning slightly at EOD)
+
+### Portfolio-level checks
+
+- Dist 6/25 — no new threshold crossed ✅
+- 0 positions ✅
+- Hedge: SH $625 QUEUED | Alpaca Day 110 BLOCKED ✅
+
+### Session narrative
+
+Market gave back +0.52% morning gains (MU follow-through + PCE digested) as afternoon saw Mag7 selloff:
+- **AAPL** announced iPhone price increases (tariff pass-through)
+- **MSFT** announced Xbox price increases (tariff pass-through)
+- Dow outperformed: CAT +5.81%, UNH +2.65% (defensive rotation)
+- S&P essentially flat (−0.01%) — leadership rotation masking tech weakness
+- Nasdaq Composite −0.46% pulled by Mag7 and small-cap drag
+
+### Bench status update (Jun 25 close)
+
+| Symbol | Score | EOD est. | Promotion? |
+|---|---|---|---|
+| NVDA | 73/100 UNCHANGED | ~$200-205 (Mag7 drag offset by MU) | ❌ No pivot, below threshold |
+| MRVL | 71/100 UNCHANGED | ~$276-285 (CFO orderly; below threshold) | ❌ No confirmed base |
+| LRCX | 67/100 UNCHANGED | Lower from morning highs on Mag7 | ❌ No base, below threshold |
+| ARM | 60/100 UNCHANGED | ~$394 est. | ❌ Well below threshold |
+
+**Bench promotions/demotions: NONE.** Correction blocks all entries regardless of score.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR ($0 P&L, 0 positions) |
+| Weekly -6% | ✅ CLEAR ($0 P&L week) |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day 110 (SH $625 still queued) |
+
+### Actions taken
+
+**NONE.** Correction + Alpaca BLOCKED + 0 positions + 0 primary watchlist items.
+
+### Watch at /pre-market Jun 26 (Fri)
+
+1. **Mag7 reaction overnight** — AAPL/MSFT price hikes; any AH reversal or further pressure
+2. **Dist count 6/25 confirmed** — carry forward unchanged
+3. **Rally low 7,266.99** — 90.5 pts margin (thinning); breach = new Day 1 (FTD window reopens)
+4. **End-of-week dynamics** — window dressing; Dow defensive outperformance may continue
+5. **Alpaca restore** — Day 111; SH $625 FIRST order on restore
+6. **50d MA ~7,248** — S&P 7,357.49 = 109.5 pts above; one distribution day tests it
+
 ## 2026-06-24 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)

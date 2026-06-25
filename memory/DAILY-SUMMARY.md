@@ -3328,3 +3328,20 @@ PCE Thu Jun 26 — macro risk; hot print = dist risk
 ## 2026-06-25 11:09 CT [clickup-placeholder]
 
 Pre-market 2026-06-25 | Market: Correction 6/25 dist | Futures: ES +0.79% NQ climbing | Open positions: 0 | Circuit breakers: NONE | MU BEAT: EPS 25.11 vs 20.20 (+24%); Rev 41.46B vs 35.25B; Q4 guide 50B; MU +16% AH — AI thesis VALIDATED | Bench: NVDA 73/100 cup-wk15-no-handle, MRVL 71/100 (CFO resolved), LRCX 67/100 (BofA 480 WF 450) | Watching: NVDA MRVL LRCX (all below 75) | PCE TODAY 7:30AM CT — 4.1% YoY forecast HAWKISH — dist day risk | Alpaca BLOCKED Day 110 SH queued | Plan: NO ENTRIES
+
+---
+## 2026-06-25 15:15 CT [eod-review]
+
+📊 EOD 2026-06-25 | Equity $2,500.00 ($0.00 day, $0.00 week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction — UNCHANGED)
+Close: S&P 7,357.49 (−0.01%) | Nasdaq 25,358.60 (−0.46%) | Dow 51,920.62 (+0.14%)
+Not a distribution day: S&P −0.01% < −0.20% threshold ✅
+Dist count 6/25 UNCHANGED | FTD window CLOSED | Rally low 7,266.99 INTACT (90.5 pts margin)
+Session: Morning MU +15% bid (+0.52% S&P) reversed on Mag7 selloff (AAPL iPhone + MSFT Xbox price hikes — tariff pass-through); Dow outperformed on defensives (CAT +5.81%, UNH +2.65%)
+Sell-rules: SKIPPED (0 positions)
+Actions today: NONE (Correction + Alpaca Day 110 BLOCKED + 0 positions)
+Circuit breakers: ALL CLEAR
+⚠️ SH $625 hedge: QUEUED — execute FIRST on Alpaca restore (Day 111 tomorrow)
+50d MA ~7,248 — S&P 7,357.49 = 109.5 pts above (1.53%) — monitor closely
+Tomorrow: /pre-market Jun 26 (Fri) — watch Mag7 reaction to AAPL/MSFT price hikes, dist day check, rally low 90.5 pts margin, end-of-week dynamics, Alpaca restore
