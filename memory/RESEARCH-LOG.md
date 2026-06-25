@@ -46,6 +46,72 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-06-25 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — S&P FUTURES +0.79% — 🚨 MU +15-16% AH BEAT CONFIRMED — PCE TODAY 7:30 AM CT — ALPACA DAY 110 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 110 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Overnight catalysts
+
+- **🚨 MU MASSIVE BEAT (confirmed):** EPS $25.11 vs $20.20 est (+24%); Revenue $41.46B vs $35.25B est (+18%); Q4 guide $50B ± $1B vs ~$43.2B consensus; Gross margin 84.6% GAAP (vs 37.7% prior year). MU +15-16% AH. HBM/AI memory demand fully validated — AI capex thesis INTACT. Semi stocks (NVDA, MRVL, LRCX, LRCX, KLAC, AMAT) broadly higher. MU now eligible for bench re-score as AI thesis proxy CONFIRMED.
+- **QCOM +14% AH:** Raised long-term non-handset revenue outlook. Separate catalyst; unrelated to watchlist names but confirms AI/semi ecosystem strength.
+- **NVDA pre-market:** ~$201-204 (slightly up from $200.04 Jun 24 close; -1.28% from intraday AH high). Cup wk 15 forming. No handle. No pivot.
+- **MRVL pre-market:** ~$276-291 (AH high ~$291 on MU read-through; pre-market settling ~$278-285). CFO update: Dan Durn (ex-Adobe) named incoming CFO; Meintjes stays as advisor through 2027 — orderly transition, reduces prior insider-sell concern. I-letter partially restored: 4 → 6/10. MRVL score: 69 → 71/100. Still below 75 threshold.
+- **LRCX pre-market:** Gaining on MU beat. BofA target raised $330 → $480 (Buy). Wells Fargo target raised $365 → $450 (Overweight). Score: 65 → 67/100 (analyst upgrades lift L/I letters slightly). Still below threshold.
+- **FDX AMC Jun 24:** XLI read-through — no major negative catalyst noted.
+
+### Market overnight check
+
+| Metric | Value | Note |
+|---|---|---|
+| ES Futures | +0.79% | ~7,416 implied open vs 7,358.22 close |
+| NQ Futures | Strong climb | MU beat driving tech/semi bid |
+| MU | +15-16% AH | Confirmed massive beat |
+| NVDA | ~$201-204 pre-mkt | Slight gap up from $200 close |
+| MRVL | ~$278-285 pre-mkt | Below AH high of ~$291 |
+| LRCX | Pre-mkt gaining | BofA $480, WF $450 targets |
+| PCE (CRITICAL) | TODAY 8:30 AM ET / 7:30 AM CT | Forecast 4.1% YoY headline (HAWKISH — highest since Apr 2023); Core 3.3% YoY |
+| PCE risk | HIGH | Hot print → potential dist day #7 (7/25); rally could reverse at open |
+
+**⚠️ PCE RELEASE IS TODAY (Thu Jun 25) at 8:30 AM ET / 7:30 AM CT.** Per TRADING-STRATEGY.md: major macro data before 7:30 AM CT triggers entry caution. PCE is AT 7:30 AM CT — treat as entry-restricted session (moot given Correction blocks all entries). DIST DAY RISK if PCE prints hot and S&P closes ≤ -0.20% on elevated volume.
+
+### Open positions overnight check
+
+0 open positions — gap check SKIPPED.
+
+### Buy-zone status (bench — all below threshold)
+
+| Symbol | Score | Pre-mkt | Pivot | Distance | Status |
+|---|---|---|---|---|---|
+| NVDA | 73/100 | ~$201-204 | None (no handle) | N/A — no pivot | 🟡 WATCHING — bench; Aug 2026+ timeline |
+| MRVL | 71/100 ⬆️ | ~$278-285 | $280-285 zone | −1% to +2% | 🟡 WATCHING — I-letter partial restore; no base confirmed; below 75 threshold |
+| LRCX | 67/100 ⬆️ | gaining | None (no base) | N/A | 🟡 WATCHING — analyst upgrades; no base; below threshold |
+| ARM | 60/100 | ~$394 est | None | N/A | 🔴 BELOW THRESHOLD |
+
+**Entry gate: ⛔ ZERO** (Correction + Alpaca BLOCKED + 0 candidates ≥75)
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR (0 positions, $0 P&L today) |
+| Weekly -6% | ✅ CLEAR ($0 P&L week) |
+| Drawdown -12% | ✅ CLEAR (equity $2,500 = HWM) |
+| PDT count | ✅ 0 of 3 (no trades) |
+| Alpaca API | ⚠️ BLOCKED Day 110 (SH $625 queued) |
+
+### Risks today
+
+1. **PCE TODAY 7:30 AM CT** — 4.1% YoY forecast = hawkish; hot print → dist day risk → Correction deepens
+2. **Rally low 7,266.99** — 91 pts margin at close; +0.79% futures widens margin but PCE could erase
+3. **50d MA ~7,248** — only 110 pts below Jun 24 close; critical support
+4. **MRVL CFO selling** — still ongoing; offset by advisory role announced
+
+### Plan
+
+No entries — Correction + Alpaca BLOCKED. Watch PCE at 7:30 AM CT for dist day risk. Re-confirm semi bench scores at /market-check once session opens and data absorbs. SH $625 hedge: QUEUED (execute first on Alpaca restore).
+
 ## 2026-06-24 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)

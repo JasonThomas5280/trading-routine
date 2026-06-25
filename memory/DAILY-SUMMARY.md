@@ -3308,3 +3308,8 @@ Actions today: NONE (Correction + Alpaca Day 109 BLOCKED + 0 positions)
 🚨 MU MASSIVE BEAT AMC: EPS ~$25.11 vs ~$20 est; rev massive beat; Q4 guide ~$49-51B vs $43.2B est; MU +6%+ AH → AI thesis VALIDATED
 Thu Jun 25: Re-score NVDA/MRVL/LRCX at pre-mkt; semi gap-up expected; dist day watch; 50d MA watch
 PCE Thu Jun 26 — macro risk; hot print = dist risk
+
+---
+## 2026-06-25 11:09 CT [clickup-placeholder]
+
+Pre-market 2026-06-25 | Market: Correction 6/25 dist | Futures: ES +0.79% NQ climbing | Open positions: 0 | Circuit breakers: NONE | MU BEAT: EPS 25.11 vs 20.20 (+24%); Rev 41.46B vs 35.25B; Q4 guide 50B; MU +16% AH — AI thesis VALIDATED | Bench: NVDA 73/100 cup-wk15-no-handle, MRVL 71/100 (CFO resolved), LRCX 67/100 (BofA 480 WF 450) | Watching: NVDA MRVL LRCX (all below 75) | PCE TODAY 7:30AM CT — 4.1% YoY forecast HAWKISH — dist day risk | Alpaca BLOCKED Day 110 SH queued | Plan: NO ENTRIES
