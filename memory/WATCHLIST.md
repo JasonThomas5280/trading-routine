@@ -96,14 +96,17 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 **FIRST order on Alpaca restore (unchanged):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5)
 
-**Updated plan (as of Jun 25 /pre-market):**
-- MU MASSIVE BEAT CONFIRMED — AI thesis validated. Semi bench scores updated: MRVL 71, LRCX 67, NVDA 73, ARM 60. Zero names ≥75.
-- FTD window CLOSED — next FTD requires new Day 1 (S&P close below 7,266.99) then Days 4-7 rally.
-- **⚠️ PCE TODAY (Thu Jun 25) 7:30 AM CT** — Forecast headline 4.1% YoY (hawkish). HOT print → risk of dist day #7 → 7/25 (Correction deepens). COOL print → dist stays 6/25, semi rally may continue.
-- ALL semi entries remain on bench until: (a) Alpaca + AV restore, (b) new base with confirmed pivot, (c) FTD confirmed on new rally
-- MRVL: CFO transition resolved (Durn/Meintjes advisory) → I-letter improved to 6/10 → 71/100. Needs new base post-$279 rejection.
+**Updated plan (as of Jun 25 /market-check 10:00 AM CT):**
+- PCE 4.1% headline / 3.4% core — HOT, matched forecast. Market reaction: S&P +0.52% intraday. **PCE digested — NOT a dist day.** Dist 6/25 UNCHANGED. Correction state UNCHANGED.
+- S&P ~7,396 intraday — rally low 7,266.99 margin widens to ~129 pts. Constructive but no FTD possible (window CLOSED).
+- **All abort gates fired:** Correction + Alpaca Day 110 BLOCKED → NO TRADES.
+- Zero watchlist triggers (0 primary items). Sell-rules-engine skipped (0 positions).
+- Bench scores UNCHANGED: NVDA 73, MRVL 71, LRCX 67, ARM 60. Zero ≥75. No promotions.
+- MRVL CFO resolved (Durn/Meintjes advisory 2027) → I-letter 6/10 confirmed. Score 71/100. Still needs new base post-$279 rejection.
+- FTD path: need new Day 1 (S&P close below 7,266.99) → Day 4-7 +1.25%+ on above-avg vol → uptrend confirmed.
 - DELL TX reincorp vote Jun 25: governance only, no score impact.
+- **Next trigger:** FTD on new rally attempt (requires Day 1 first) + Alpaca restore + MRVL/NVDA base confirmation (wks ahead).
 
 **Calendar risk flags (remaining this week):**
-- **PCE Jun 25 7:30 AM CT: 🚨 TODAY — HOT forecast = dist day risk**
+- ~~PCE Jun 25 7:30 AM CT~~ ✅ RESOLVED — 4.1% headline; NOT dist day
 - DELL TX reincorp vote Jun 25: governance only

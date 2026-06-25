@@ -112,6 +112,92 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 No entries — Correction + Alpaca BLOCKED. Watch PCE at 7:30 AM CT for dist day risk. Re-confirm semi bench scores at /market-check once session opens and data absorbs. SH $625 hedge: QUEUED (execute first on Alpaca restore).
 
+## 2026-06-25 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — S&P +0.52% NOT DIST DAY — PCE 4.1%/3.4% DIGESTED — 6/25 UNCHANGED — ALPACA DAY 110 BLOCKED — NO TRADES
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 110 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~129 pts margin intraday)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Abort gates — ALL FIRED (skip to summary)
+
+| Gate | Status |
+|---|---|
+| Market direction | 🔴 CORRECTION → ALL LONG ENTRIES BLOCKED |
+| Research | `websearch_fallback` — NOT degraded ✅ |
+| Daily circuit breaker (-3%) | ✅ CLEAR (0 positions) |
+| Weekly circuit breaker (-6%) | ✅ CLEAR ($0 P&L week) |
+| Drawdown (-12%) | ✅ CLEAR ($2,500 = HWM) |
+| Weekly trades | ✅ 0/3 (no issue) |
+| Position count | ✅ 0/4 (no issue) |
+| Cash buffer | ✅ 100% cash |
+| Alpaca API | ⚠️ Day 110 BLOCKED — execution impossible regardless |
+
+**RESULT: ABORT — CORRECTION + ALPACA BLOCKED. No trades. Proceed to summary.**
+
+### PCE data (8:30 AM ET / 7:30 AM CT)
+
+| Metric | Actual | Forecast | vs Estimate |
+|---|---|---|---|
+| PCE headline YoY | **4.1%** | 4.1% | In-line (hawkish; highest since Apr 2023) |
+| PCE core YoY | **3.4%** | 3.3% | +0.1% beat (marginally more hawkish) |
+| PCE monthly | **+0.4%** | — | Elevated |
+
+Market reaction: S&P +0.52% intraday — **MU rally bid absorbed the hot PCE print**. Market shrugged off hawkish inflation data on AI/semi strength from MU massive beat. NOT a distribution day.
+
+### Intraday market check (10:00 AM CT / 11:00 AM ET)
+
+| Index | Intraday | Dist Day? | Note |
+|---|---|---|---|
+| S&P 500 | **+0.52% (~7,396 est.)** | ❌ No (UP day) | PCE digested; MU bid |
+| Nasdaq | Positive (semi-driven) | ❌ No | MU +15%+ follow-through |
+| Rally low | 7,266.99 (Jun 10) | — | Margin ~129 pts ↑ (widening) |
+
+**Distribution day check:** S&P +0.52% → NOT a distribution day ✅
+**Dist count: 6/25 UNCHANGED** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23)
+**State: 🔴 CORRECTION UNCHANGED**
+
+### Overnight gap follow-up
+
+0 open positions → SKIPPED ✅
+
+### Watchlist triggers (primary)
+
+NONE — zero primary items → SKIPPED ✅
+
+### Mid-morning position health check (sell-rules-engine)
+
+0 open positions → SKIPPED ✅
+
+### Bench status update (post-MU beat, post-PCE)
+
+| Symbol | Score | Intraday est. | vs Pivot | Promotion? |
+|---|---|---|---|---|
+| NVDA | 73/100 UNCHANGED | ~$203-207 (+1-3% on MU read-through) | No pivot (cup wk 15, no handle) | ❌ No — no pivot, below threshold |
+| MRVL | 71/100 UNCHANGED | ~$276-285 (MU positive; CFO orderly) | $280-285 watch zone — no confirmed base | ❌ No — below 75, no confirmed base/pivot |
+| LRCX | 67/100 UNCHANGED | Gaining (BofA $480, WF $450 targets) | No base, no pivot | ❌ No — below threshold |
+| ARM | 60/100 UNCHANGED | ~$394 est. | No base, no pivot | ❌ No — well below threshold |
+
+**Bench promotions/demotions: NONE.** No names within 2% of a confirmed pivot. No confirmed bases. No deterioration breaks below 50-MA on volume.
+
+### Key observations
+
+1. **PCE 4.1% digested — bullish signal.** Market's +0.52% reaction to a hot PCE print = sellers are exhausted; MU/AI thesis driving the bid. Medium-term positive for eventual Uptrend confirmation.
+2. **Correction state requires FTD.** Even with today's rally, FTD window is CLOSED. Need new Day 1 (S&P close below 7,266.99) then Day 4-7 rally +1.25%+ on above-avg volume. Not happening today.
+3. **Rally low margin widening.** 91 pts Jun 24 → ~129 pts intraday Jun 25. Market stabilizing above the Jun 10 low. Constructive, but not sufficient for uptrend confirmation.
+4. **MU follow-through validates semi bench.** NVDA/MRVL/LRCX all tracking higher on AI thesis confirmation. Scores remain below 75 threshold due to: no confirmed bases/pivots, degraded data mode (Alpaca + AV blocked).
+
+### Actions taken
+
+**NONE.** Correction + Alpaca BLOCKED + 0 primary watchlist items + 0 open positions.
+
+### Watch at /eod-review 3:15 PM CT
+
+1. **Dist day check:** S&P close ≤−0.20% on elevated vol → 7/25 (Correction deepens); UP/flat → 6/25 (UNCHANGED)
+2. **Rally low 7,266.99** — any close below = new Day 1 (FTD window reopens in 4-7 sessions)
+3. **50d MA ~7,248** — S&P ~7,396; gap ~148 pts; holding above is constructive
+4. **Semi close levels:** NVDA/MRVL/LRCX close prices for bench score update
+5. **SH $625 hedge:** QUEUED — execute first on Alpaca restore
+
 ## 2026-06-24 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)

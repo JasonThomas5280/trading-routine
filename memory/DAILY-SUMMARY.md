@@ -1,5 +1,20 @@
 
 ---
+## 2026-06-25 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — S&P +0.52% NOT DIST DAY — PCE 4.1%/3.4% DIGESTED — 6/25 UNCHANGED — ALPACA DAY 110 BLOCKED — NO TRADES]
+
+📈 Market-check 2026-06-25 10:00 CT
+Market: 🔴 Correction | Circuit breakers: NONE
+Actions taken:
+  No new entries — Correction gate active; Alpaca Day 110 BLOCKED
+  No sells — 0 open positions
+PCE: 4.1% headline / 3.4% core (HOT, as forecast) | S&P +0.52% intraday — NOT dist day
+Dist days: 6/25 UNCHANGED | FTD window: CLOSED
+Rally low 7,266.99 | Margin: ~129 pts (widening ↑)
+Bench: NVDA 73 / MRVL 71 / LRCX 67 / ARM 60 — ZERO ≥75
+Open positions: 0 | Cash deployed: 0% | Weekly trades: 0/3
+Next check: /eod-review 3:15 PM CT
+
+---
 ## 2026-06-23 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P −1.43% ~7,366 DIST DAY #8 CONFIRMED — NASDAQ −2.21% — NET 6/25 — RALLY LOW 7,266.99 INTACT — MU EARNINGS TONIGHT — ALPACA DAY 108 BLOCKED]
 
 📊 EOD 2026-06-23 | Equity $2,500.00 (+$0.00 day, +$0.00 week)
