@@ -3345,3 +3345,8 @@ Circuit breakers: ALL CLEAR
 ⚠️ SH $625 hedge: QUEUED — execute FIRST on Alpaca restore (Day 111 tomorrow)
 50d MA ~7,248 — S&P 7,357.49 = 109.5 pts above (1.53%) — monitor closely
 Tomorrow: /pre-market Jun 26 (Fri) — watch Mag7 reaction to AAPL/MSFT price hikes, dist day check, rally low 90.5 pts margin, end-of-week dynamics, Alpaca restore
+
+---
+## 2026-06-26 11:11 CT [clickup-placeholder]
+
+Pre-market 2026-06-26 (Fri): Market CORRECTION 6/25 dist | ES +0.78% NQ +2.15% | Open pos: 0 | Alpaca DAY 111 BLOCKED | KEY: MRVL Q1 FY2027 BEAT (rev 2.418B, EPS 0.80 vs 0.75 est, Q2 guide 2.700B, div raised) — re-score pending, est 75-80/100 | NVDA negative: GPU lease compression, insider selling 410M, pre-mkt -2.15% to ~195.74, score 73->70-71 | Watchlist ready: NONE | Circuit breakers: ALL CLEAR | No US macro today | Plan: no entries (Correction + blocked); re-score MRVL at market-check; weekly-review 3:30 PM CT

@@ -280,6 +280,74 @@ Market gave back +0.52% morning gains (MU follow-through + PCE digested) as afte
 3. **Rally low 7,266.99** — 90.5 pts margin (thinning); breach = new Day 1 (FTD window reopens)
 4. **End-of-week dynamics** — window dressing; Dow defensive outperformance may continue
 5. **Alpaca restore** — Day 111; SH $625 FIRST order on restore
+
+---
+
+## 2026-06-26 (Fri) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — 🚨 MRVL Q1 FY2027 EARNINGS BEAT (Jun 25 AMC) — ES +0.78% NQ +2.15% — NO MAJOR US MACRO — ALPACA DAY 111 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 111 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~90.5 pts margin)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Overnight catalysts
+
+- **🚨 MRVL Q1 FY2027 EARNINGS BEAT (Jun 25 AMC):** Revenue $2.418B vs $2.400B guidance (beat), EPS $0.80 vs $0.75 est (+6.67%). Q2 FY2027 guide: $2.700B ± 5% (strong sequential growth). Dividend increase: $0.06/share announced June 25 (payable July 30). **Major positive catalyst — MRVL score upgrade pending live data re-score at /market-check. Estimated impact: C-letter boost, N-letter boost, I-letter reinforce. Score could move 71 → 75-80 with live confirmation. Base pattern still unconfirmed (Alpaca blocked). Market in Correction → NO ENTRY regardless of score.**
+- **NVDA negative catalyst:** B200 GPU lease prices collapsing — $6.11/hr (May 30) → $4.22/hr (Jun 21); margin compression signal. Insider selling: $410.6M shares sold past 3 months. Pre-market: ~$195.74 (−2.15% from $200.04 Jun 25 close). Thesis weakening on supply-glut concern. Score watch: NVDA 73 → potentially 70-71 (N-letter partial offset; C-letter intact from prior data).
+- **LRCX:** BofA $330→$480 Buy, Wells Fargo $365→$450 OW, Oppenheimer to $400 (all upgrades standing). YTD +139%. No new negative catalyst. Pre-market data not confirmed via search; likely positive on MRVL beat read-through.
+- **ARM:** UBS $470 (from $260), TD Cowen $475, BofA $460 — all major analyst upgrades June 24. YTD +203%. Valuation risk: 67× forward P/S. Score 60/100 UNCHANGED (C-letter GAAP fail).
+- **AAPL/MSFT tariff pass-through (Mag7 overhang):** iPhone + Xbox price hike announcements from Jun 25 continue to weigh on Mag7 sentiment pre-market. No new incremental negative overnight.
+- **No major US economic data today.** PCE released Thu Jun 25 (4.1% YoY, digested). No GDP revision identified for today. No macro event gates.
+
+### Market overnight check
+
+| Metric | Value | Note |
+|---|---|---|
+| ES Futures | +0.78% | ~7,415 implied vs 7,357.49 Jun 25 close; MRVL beat driving bid |
+| NQ Futures | +2.15% | Strong tech/semi bid on MRVL earnings beat |
+| NVDA pre-mkt | ~$195.74 | −2.15% from close; B200 GPU lease price compression |
+| MRVL | Gap up expected | Beat + Q2 guide + dividend raise; pre-mkt price not confirmed |
+| LRCX | Pre-mkt positive | Analyst upgrades standing; MRVL read-through |
+| US macro today | None significant | PCE digested yesterday; quiet Friday |
+| Asia overnight | Risk-off bias flagged | Prior tech sell-off themes; MRVL beat partially offsets |
+
+### Open positions overnight check
+
+0 open positions → **GAP CHECK SKIPPED** ✅
+
+### Buy-zone status (bench — all below threshold / Correction gate active)
+
+| Symbol | Score | Pre-mkt est. | Key Change | Status |
+|---|---|---|---|---|
+| MRVL | **71/100 → RE-SCORE PENDING** ⬆️ | Gap up (earnings beat) | Q1 FY2027 beat + Q2 guide + dividend raise | 🟡 WATCHING — *score may cross 75 with live data*; Correction blocks entry; base pattern confirmation required |
+| NVDA | **73→70-71 watch** ⬇️ | ~$195.74 | B200 GPU lease prices collapsing; insider selling | 🟡 WATCHING — thesis partially weakened; cup intact but weakening narrative |
+| LRCX | 67/100 | Pre-mkt positive | Upgrades standing; MRVL read-through | 🟡 WATCHING — below threshold; no base |
+| ARM | 60/100 | Unknown | Analyst upgrades; valuation risk 67× P/S | 🔴 BELOW THRESHOLD |
+
+**Entry gate: ⛔ ZERO** (Correction + Alpaca Day 111 BLOCKED + market direction gate)
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR (0 positions) |
+| Weekly -6% | ✅ CLEAR ($0 P&L week) |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day 111 (SH $625 queued — execute FIRST on restore) |
+
+### Risks today
+
+1. **NVDA weakness** — B200 GPU lease compression + insider selling could weigh on semi sentiment despite MRVL beat
+2. **Mag7 overhang** — AAPL/MSFT price hikes (tariff pass-through); consumer sentiment risk into weekend
+3. **End-of-week positioning** — Friday; window dressing / quarter-end positioning (Jun 30 EOM next Tue)
+4. **Rally low 7,266.99** — 90.5 pts margin; thinning trend — watch for any break (= new Day 1 FTD window)
+5. **6/25 dist count** — no expiry today; need S&P +0.20%+ on elevated vol for no dist
+
+### Plan
+
+No entries — Correction + Alpaca BLOCKED. **Key action at /market-check:** Re-score MRVL with live session data (earnings beat may push score to 75+). Even if MRVL clears threshold, no entry until: (1) Correction lifts via FTD, (2) Alpaca restores, (3) base pattern confirms post-earnings. Today is Friday → /weekly-review at 3:30 PM CT.
+
+`research_source: websearch_fallback` | `MRVL_Q1_FY2027_earnings_beat_Jun25AMC` | `NVDA_GPU_lease_compression_negative`
 6. **50d MA ~7,248** — S&P 7,357.49 = 109.5 pts above; one distribution day tests it
 
 ## 2026-06-24 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED
