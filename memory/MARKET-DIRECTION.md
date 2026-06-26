@@ -6,9 +6,9 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 25 /eod-review 3:15 PM CT: S&P 7,357.49 (−0.01%) — gave back +0.52% morning gains; Mag7 selloff (AAPL iPhone + MSFT Xbox price hikes, tariff pass-through) — NOT dist day (< −0.20%) — Dist 6/25 UNCHANGED — FTD window CLOSED — Rally low 7,266.99 margin 90.5 pts (thinning) — Alpaca Day 110 BLOCKED — 0 positions — NO ACTIONS)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 26 /market-check 10:00 AM CT: S&P opened ~7,404 (up on MRVL hype) → OpenAI IPO delay news → sold to intraday low 7,323.50 → recovering to ~"relatively unchanged" vs 7,357.49 Jun 25 close — Dist day uncertain (currently <−0.20% from prior close; watch at EOD) — Rally low 7,266.99 INTACT (56 pts above intraday low) — 6/25 UNCHANGED — FTD window CLOSED — Alpaca Day 111 BLOCKED — 0 positions — NO ACTIONS — NVDA score revised 70-71→68-70 on triple N-letter impairment)*
 
-**Last updated:** 2026-06-25 (Thu) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P 7,357.49 (−0.01%) NOT DIST DAY — 6/25 UNCHANGED — FTD WINDOW CLOSED — ALPACA DAY 110 BLOCKED — 0 POSITIONS**
+**Last updated:** 2026-06-26 (Fri) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — OPENAI IPO DELAY → CHIP SELLOFF — S&P RELATIVELY UNCHANGED INTRADAY — 6/25 UNCHANGED (PENDING EOD CONFIRM) — RALLY LOW INTACT — ALPACA DAY 111 BLOCKED**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; May 15 expired Jun 22; May 19 expired Jun 23) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99) | Rally attempt INTACT (S&P 7,357.49 >> 7,266.99 low; ~90.5 pts margin — thinning from 129 pts intraday)
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active

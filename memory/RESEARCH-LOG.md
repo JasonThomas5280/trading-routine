@@ -350,6 +350,89 @@ No entries — Correction + Alpaca BLOCKED. **Key action at /market-check:** Re-
 `research_source: websearch_fallback` | `MRVL_Q1_FY2027_earnings_beat_Jun25AMC` | `NVDA_GPU_lease_compression_negative`
 6. **50d MA ~7,248** — S&P 7,357.49 = 109.5 pts above; one distribution day tests it
 
+## 2026-06-26 (Fri) — /market-check (10:00 AM CT) — ⛔ CORRECTION — NO ENTRIES — 🚨 OPENAI IPO DELAY → CHIP SELLOFF — MRVL PRE-MKT GAP-UP FAILS — S&P RELATIVELY UNCHANGED — ALPACA DAY 111 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 111 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (intraday low 7,323.50 = 56 pts above)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Abort gates — ALL FIRED
+
+| Gate | Status |
+|---|---|
+| Market direction | 🔴 CORRECTION → ALL LONG ENTRIES BLOCKED |
+| Research | `websearch_fallback` — NOT degraded ✅ |
+| Daily circuit breaker (-3%) | ✅ CLEAR (0 positions) |
+| Weekly circuit breaker (-6%) | ✅ CLEAR ($0 P&L week) |
+| Drawdown (-12%) | ✅ CLEAR ($2,500 = HWM) |
+| Weekly trades | ✅ 0/3 |
+| Position count | ✅ 0/4 |
+| Cash buffer | ✅ 100% cash |
+| Alpaca API | ⚠️ Day 111 BLOCKED — execution impossible |
+
+**RESULT: ABORT — CORRECTION + ALPACA BLOCKED. No trades.**
+
+### Pre-market thesis correction
+
+⚠️ **MRVL PRE-MARKET GAP-UP DID NOT MATERIALIZE.** /pre-market logged "MRVL Q1 FY2027 BEAT (Jun 25 AMC)" — actual research at /market-check confirms this was INCORRECT:
+- MRVL Q1 FY2027 actual earnings reported: **May 27, 2026** (not June 25). Revenue $2.418B / EPS $0.80 already PRICED IN as of the June 2 Jensen Huang "trillion dollar company" keynote (+32% single session to ATH ~$280).
+- June 25 MRVL 8-K: **Dividend press release only** ($0.06/share increase, payable Jul 30) — NOT new earnings.
+- Pre-market gap-up expectation was based on a mislabeled catalyst. Score of 71/100 already incorporates May 27 Q1 earnings + NVDA $2B deal + Jensen Huang endorsement.
+- **MRVL score: 71/100 UNCHANGED.** Pre-market estimate of 75-80/100 was based on flawed premise.
+
+### Session dynamics (10:00 AM CT)
+
+**🚨 OpenAI IPO delay (NYT, Jun 26):** OpenAI leaning toward delaying IPO to 2027 (valuation vs timing). Chip stocks immediately sold off as AI demand narrative was challenged — directly impacting NVDA, MRVL, LRCX, ARM intraday.
+
+| Index | Intraday | Dist Day? |
+|---|---|---|
+| S&P 500 | Opened ~7,404 (up on MRVL hype) → sold to low 7,323.50 → recovering; ~"relatively unchanged" vs prior close (~7,350-7,360) | ❌ Not yet (<−0.20% from 7,357.49 — watch at EOD) |
+| Nasdaq | Intraday −1.25% at lows; recovering to ~−0.3% | ❌ Not yet at dist threshold |
+| Rally low 7,266.99 | Intraday low 7,323.50 = **56 pts above** rally low | ✅ INTACT |
+| 50d MA ~7,248 | Well below current price (~75+ pts) | ✅ INTACT |
+
+### Overnight gap follow-up
+
+0 open positions → SKIPPED ✅
+
+### Watchlist triggers (primary)
+
+NONE — zero primary items → SKIPPED ✅
+
+### Mid-morning position health check (sell-rules-engine)
+
+0 open positions → SKIPPED ✅
+
+### Bench update — session data
+
+| Symbol | Score | Session | Key Change | Status |
+|---|---|---|---|---|
+| MRVL | **71/100 UNCHANGED** | ~$269-275 (⬇️ from $281.26; −$11.68 reversal on OpenAI delay) | Catalyst correction confirmed: Jun 25 was dividend 8-K, not new earnings; all Q1 data already priced since May 27; OpenAI delay adds near-term headwind | 🟡 WATCHING — no base confirmed; score stays 71; 75-80 estimate was wrong |
+| NVDA | **68-70/100 ⬇️** (was 70-71) | ~$193-196 (−1% today; −8% wk = worst week in >1yr) | B200 GPU lease $6.11→$4.22/hr + insider selling $410M + OpenAI delay → N-letter further impaired; cup wk 16 under pressure | 🟡 BENCH — score revised down; Aug 2026+ UNCHANGED; base at risk if weekly loss extends |
+| LRCX | **67/100 UNCHANGED** | Weak; chip sector selloff | BofA/WF upgrades priced; no new catalyst today; OpenAI delay headwind | 🟡 WATCHING — no base |
+| ARM | **60/100 UNCHANGED** | Weak | C-letter GAAP fail; 67× fwd P/S valuation risk | 🔴 BELOW THRESHOLD |
+
+**Bench promotions/demotions:** NONE. Weakness is sector-wide (OpenAI delay macro catalyst), not stock-specific fundamental breakdown. No names moved to/from bench.
+
+⚠️ **NVDA score revision (70-71 → 68-70):** Three simultaneous N-letter impairments: GPU lease price collapse (supply glut = margin compression), insider selling surge $410M (conviction signal), OpenAI IPO delay (AI demand uncertainty). Cup wk 16 base intact but showing internal weakness. I-letter capped on insider selling. Aug 2026+ timeline UNCHANGED.
+
+### Actions taken
+
+**NONE.** Correction + Alpaca Day 111 BLOCKED + 0 primary items + 0 open positions.
+
+### Watch at /eod-review 3:15 PM CT → /weekly-review 3:30 PM CT (Friday)
+
+1. **Dist day check:** S&P close ≤−0.20% on elevated Friday/EOM vol → 7/25 dist (Correction deepens); currently "relatively unchanged" — uncertain
+2. **Rally low 7,266.99** — 56 pts intraday margin; watch EOD close level
+3. **50d MA ~7,248** — intact; one bad distribution day tests it
+4. **NVDA close price** — track weekly close; −8% weekly loss = significant base damage risk
+5. **OpenAI delay narrative** — end-of-week positioning; AI demand thesis under review
+6. **Weekly-review 3:30 PM CT** — full week postmortem
+
+`research_source: websearch_fallback` | `MRVL_earnings_correction_Jun25_was_dividend_not_earnings` | `OpenAI_IPO_delay_chip_selloff_Jun26` | `NVDA_score_downgrade_68-70` | Alpaca Day 111 BLOCKED
+
+---
+
 ## 2026-06-24 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)

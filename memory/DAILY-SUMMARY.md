@@ -3350,3 +3350,30 @@ Tomorrow: /pre-market Jun 26 (Fri) — watch Mag7 reaction to AAPL/MSFT price hi
 ## 2026-06-26 11:11 CT [clickup-placeholder]
 
 Pre-market 2026-06-26 (Fri): Market CORRECTION 6/25 dist | ES +0.78% NQ +2.15% | Open pos: 0 | Alpaca DAY 111 BLOCKED | KEY: MRVL Q1 FY2027 BEAT (rev 2.418B, EPS 0.80 vs 0.75 est, Q2 guide 2.700B, div raised) — re-score pending, est 75-80/100 | NVDA negative: GPU lease compression, insider selling 410M, pre-mkt -2.15% to ~195.74, score 73->70-71 | Watchlist ready: NONE | Circuit breakers: ALL CLEAR | No US macro today | Plan: no entries (Correction + blocked); re-score MRVL at market-check; weekly-review 3:30 PM CT
+
+---
+
+## 📈 Market-check 2026-06-26 10:00 AM CT
+
+**Market:** 🔴 Correction (6/25 dist days) | **Circuit breakers:** NONE
+**Alpaca:** Day 111 BLOCKED | **Research:** websearch_fallback
+
+**Actions taken:**
+- No new entries — Correction gate + Alpaca blocked
+- No sells — 0 open positions
+
+**Key events:**
+- 🚨 OpenAI IPO delay (NYT) → chip sector sold off; MRVL −$11.68 from $281.26; NVDA −1% (−8% wk)
+- ⚠️ MRVL catalyst correction: Jun 25 was dividend 8-K, NOT new earnings (Q1 FY2027 was May 27). Pre-market 75-80 estimate was wrong. Score stays **71/100**
+- S&P opened ~7,404 → intraday low 7,323.50 (56 pts above rally low 7,266.99 — INTACT) → recovering to "relatively unchanged" vs 7,357.49 prior close
+- Dist day Jun 26: UNCERTAIN (currently <−0.20% from prior close) — confirm at /eod-review
+
+**Bench scores:**
+- NVDA: **68-70/100** ⬇️ (was 70-71; GPU lease compression + insider selling + OpenAI delay)
+- MRVL: **71/100** (unchanged; no new earnings catalyst; 75-80 estimate retracted)
+- LRCX: **67/100** | ARM: **60/100** — all below threshold
+
+**Watchlist status:** 0 ready, 4 watching (all bench), 0 removed
+**Open positions:** 0 / $0 deployed
+**Weekly trade count:** 0/3 used
+**Next check:** /eod-review 3:15 PM CT → /weekly-review 3:30 PM CT
