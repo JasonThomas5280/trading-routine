@@ -433,6 +433,105 @@ NONE — zero primary items → SKIPPED ✅
 
 ---
 
+## 2026-06-26 (Fri) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.05% 7,354.02 NOT DIST DAY — NASDAQ −0.24% 25,297.62 — 6/25 UNCHANGED CONFIRMED — S&P/NASDAQ SNAPPED 2-WEEK WIN STREAK — ALPACA DAY 111 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 111 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~87 pts)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Close: S&P 500 + QQQ (Jun 26)
+
+| Index | Close | Change | Dist Day? |
+|---|---|---|---|
+| S&P 500 | 7,354.02 | **−0.05%** | ❌ No (< −0.20% threshold — clearly below) |
+| Nasdaq Composite | 25,297.62 | **−0.24%** | ❌ No (marginal; no vol confirmation; S&P primary clear) |
+| Dow | 51,876.11 | **−0.09%** | N/A |
+| QQQ | $712.18 | range $702.81–$715.84 | ❌ No |
+| S&P weekly | 7,354.02 | **−1.59% wk** | 2-week win streak SNAPPED |
+| Nasdaq weekly | 25,297.62 | **−4.6% wk** | 5th consecutive losing session |
+
+**Distribution day check (Jun 26):** S&P −0.05% → **BELOW −0.20% threshold → NOT a distribution day** ✅ | Nasdaq −0.24% marginally above, but no volume confirmation and S&P (primary) clear → NOT confirmed ✅
+**Dist count: 6/25 UNCHANGED CONFIRMED** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; no expiries today or this week)
+**State: 🔴 CORRECTION UNCHANGED**
+
+### Sell-rules-engine results
+
+0 open positions → **SKIPPED** ✅
+
+### Distribution day assessment
+
+- S&P −0.05% → NOT dist day ✅ (clear below −0.20%)
+- Nasdaq −0.24% → marginal; no volume confirmation → NOT confirmed ✅
+- **Dist count: 6/25 UNCHANGED** ✅
+- **State: CORRECTION UNCHANGED** ✅
+- No state transition today ✅
+
+### Rally attempt update
+
+S&P 7,354.02 vs rally low **7,266.99** (Jun 10) → margin **87 pts (+1.20%)** → rally attempt **INTACT** ✅
+Margin trend: 129 pts intraday Jun 25 → 90.5 pts Jun 25 close → **87 pts Jun 26 close** (thinning; approaching territory where one bad session could be material)
+Intraday context: S&P hit low of ~7,323.50 this session before recovering → still 56 pts above rally low intraday ✅
+
+### Portfolio-level checks
+
+- Dist 6/25 — no new threshold crossed ✅
+- 0 positions ✅
+- Hedge: SH $625 QUEUED | Alpaca Day 111 BLOCKED ✅
+
+### Session narrative
+
+OpenAI IPO delay (NYT report, morning session): OpenAI advisers presented CEO Sam Altman options — delay to 2027 at $1T valuation, or accept lower valuation for faster listing. Chip stocks sold off immediately.
+
+| Stock | Change | Note |
+|---|---|---|
+| NVDA | −1% (−8% wk) | Worst week in >1yr; B200 GPU lease compression + OpenAI delay |
+| AMD | −2.6% | Chip sentiment contagion |
+| INTC | −2% | Chip sentiment contagion |
+| ARM | −4% | AI demand uncertainty |
+| MRVL | −3.4% | Pre-mkt gap-up thesis corrected; back to session lows |
+| MU | −2.1% | Giving back ~14% of Thu's +15% gain |
+
+S&P defied chip selloff via defensive rotation: Financials (XLF), Industrials (XLI), Healthcare offsetting Tech weakness. Dow −0.09%. Market tread water at week's end. Q2 ends Jun 30 → window dressing next week.
+
+### Bench status update (Jun 26 close)
+
+| Symbol | Score | EOD est. | Key Change | Promotion? |
+|---|---|---|---|---|
+| NVDA | **68-70/100 ⬇️** (was 70-71) | ~$193-196 | Triple N-letter: GPU lease $6→$4/hr + insider $410M + OpenAI delay | ❌ No pivot, below threshold, base wk 16 under pressure |
+| MRVL | **71/100 UNCHANGED** | ~$269-275 | Pre-mkt catalyst = dividend 8-K (not earnings); −3.4% today on OpenAI delay | ❌ No confirmed base, below 75 threshold |
+| LRCX | **67/100 UNCHANGED** | Weak | Chip selloff; BofA/WF upgrades already priced | ❌ No base, below threshold |
+| ARM | **60/100 UNCHANGED** | ~−4% | GAAP C-letter fail; 67× fwd P/S valuation risk | ❌ Well below threshold |
+
+**Bench promotions/demotions: NONE.** Sector-wide weakness from OpenAI macro catalyst. No stock-specific fundamental breakdown. NVDA score revision already done at /market-check (68-70).
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR ($0 P&L, 0 positions) |
+| Weekly -6% | ✅ CLEAR ($0 P&L week) |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day 111 (SH $625 still queued — execute FIRST on restore) |
+
+### Actions taken
+
+**NONE.** Correction + Alpaca BLOCKED + 0 positions + 0 primary watchlist items.
+
+### Watch at /pre-market Mon Jun 30 (4-day holiday week — Jul 4 closed)
+
+1. **🚨 Alpaca restore Day 112** — SH $625 FIRST order on restore (Correction 6/25 ACTIVE)
+2. **Q2/EOM Jun 30** — elevated volume and rebalancing expected; potential dist day risk (selling) or run-up (window dressing)
+3. **Rally low 7,266.99** — 87 pts margin (thinning); any close below = new Day 1 (FTD window reopens in 4-7 sessions)
+4. **50d MA ~7,248** — 106 pts below close; watch for sector rotation-driven breakdown
+5. **NVDA base health** — cup wk 17; −8% weekly loss = significant base pressure; re-assess score if GPU lease narrative intensifies
+6. **OpenAI delay narrative** — weekend press may amplify; Monday pre-mkt reaction key
+7. **Dist count 6/25** — no expiry until Aug 8; any new dist day → 7/25 (still Correction)
+
+`research_source: websearch_fallback` | Alpaca Day 111 BLOCKED | Perplexity 403 | AV 403 | `OpenAI_IPO_delay_chip_selloff_confirmed_EOD` | `NVDA_68-70_confirmed` | `dist_6_25_confirmed_FINAL`
+
+---
+
 ## 2026-06-24 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.10% 7,358.22 NOT DIST DAY — NASDAQ −0.43% — 6/25 UNCHANGED — 🚨 MU MASSIVE BEAT AMC +6% AH — ALPACA DAY 109 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 109 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)

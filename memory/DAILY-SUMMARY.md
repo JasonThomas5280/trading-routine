@@ -3377,3 +3377,25 @@ Pre-market 2026-06-26 (Fri): Market CORRECTION 6/25 dist | ES +0.78% NQ +2.15% |
 **Open positions:** 0 / $0 deployed
 **Weekly trade count:** 0/3 used
 **Next check:** /eod-review 3:15 PM CT → /weekly-review 3:30 PM CT
+
+---
+## 2026-06-26 20:28 CT [clickup-placeholder]
+
+📊 EOD 2026-06-26 (Fri) | Equity $2,500 (0% day, 0% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction — UNCHANGED)
+
+Close: S&P 7,354.02 (−0.05%) | Nasdaq 25,297.62 (−0.24%) | Dow 51,876.11 (−0.09%) | QQQ $712.18
+S&P: NOT dist day (−0.05%) ✅ | 6/25 CONFIRMED | State: CORRECTION UNCHANGED
+Rally low 7,266.99 INTACT (87 pts margin — thinning)
+2-week S&P win streak SNAPPED | S&P −1.59% wk / Nasdaq −4.6% wk
+
+Session: OpenAI IPO delay to 2027 (NYT) → chip selloff
+NVDA −1% (−8% wk, worst wk in >1yr) | MRVL −3.4% | ARM −4% | MU −2.1%
+Defensive rotation (Financials/Industrials) offset Tech
+
+Actions today: NONE (Correction + Alpaca Day 111 BLOCKED + 0 positions)
+Bench: NVDA 68-70 | MRVL 71 | LRCX 67 | ARM 60 — all below 75
+SH $625 QUEUED — execute FIRST on Alpaca restore
+
+Next week (4-day; Jul 4 closed): Q2/EOM Jun 30 rebalancing + rally low watch (87 pts margin)

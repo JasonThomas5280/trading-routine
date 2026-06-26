@@ -6,10 +6,10 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 26 /market-check 10:00 AM CT: S&P opened ~7,404 (up on MRVL hype) → OpenAI IPO delay news → sold to intraday low 7,323.50 → recovering to ~"relatively unchanged" vs 7,357.49 Jun 25 close — Dist day uncertain (currently <−0.20% from prior close; watch at EOD) — Rally low 7,266.99 INTACT (56 pts above intraday low) — 6/25 UNCHANGED — FTD window CLOSED — Alpaca Day 111 BLOCKED — 0 positions — NO ACTIONS — NVDA score revised 70-71→68-70 on triple N-letter impairment)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 26 /eod-review 3:15 PM CT: S&P closed 7,354.02 (−0.05%) — NOT a dist day — Nasdaq −0.24%/25,297.62 — 6/25 UNCHANGED CONFIRMED — FTD window CLOSED — Rally low 7,266.99 INTACT (87 pts) — Alpaca Day 111 BLOCKED — 0 positions — NO ACTIONS — S&P/Nasdaq snapped 2-week win streak — weekly: S&P −1.59% / Nasdaq −4.6% — OpenAI IPO delay chip selloff — next week: 4-day holiday week (Jul 4 closed))*
 
-**Last updated:** 2026-06-26 (Fri) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — OPENAI IPO DELAY → CHIP SELLOFF — S&P RELATIVELY UNCHANGED INTRADAY — 6/25 UNCHANGED (PENDING EOD CONFIRM) — RALLY LOW INTACT — ALPACA DAY 111 BLOCKED**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; May 15 expired Jun 22; May 19 expired Jun 23) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99) | Rally attempt INTACT (S&P 7,357.49 >> 7,266.99 low; ~90.5 pts margin — thinning from 129 pts intraday)
+**Last updated:** 2026-06-26 (Fri) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P −0.05% 7,354.02 NOT DIST DAY — NASDAQ −0.24% 25,297.62 — 6/25 UNCHANGED CONFIRMED — RALLY LOW 7,266.99 INTACT (87 PTS) — ALPACA DAY 111 BLOCKED — 2-WEEK WIN STREAK SNAPPED**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; May 15 expired Jun 22; May 19 expired Jun 23) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99) | Rally attempt INTACT (S&P 7,354.02 >> 7,266.99 low; ~87 pts margin — thinning: 90.5 pts Jun 25 → 87 pts Jun 26)
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active
 **Rally attempt:** ⚠️ **Day 6 FAILED — NOT FTD** | Rally low: **7,266.99 (Jun 10)** | Jun 18 close 7,500.58 → 234 pts ABOVE rally low ✅ (rally attempt INTACT) | **FTD window: Day 7 = Jun 22 (Mon — LAST; Jun 19 Juneteenth CLOSED; Jun 20–21 weekend)** | FTD threshold Jun 22: **7,594 CORRECTED** (7,500.58 × 1.0125; corrects prior ~7,598 estimate) | **FTD probability: LOW-MODERATE (25-35%)** (Iran deal bullish but partially priced; hawkish Fed headwind; holiday futures declined)
@@ -28,6 +28,30 @@
 **SPY Jun 5 confirmed: ~$740** (at 50d MA ~$740 on elevated volume = additional sell signal) | **QQQ Jun 5 est.: ~$718** (−3.1%) | S&P 7,446.24 | 50d MA: ~$740 | 200d MA: ~$722
 **SH/SQQQ hedge:** TRIGGERED by Correction state → SH $625 (25% sizing) QUEUED | BLOCKED: Alpaca Day 84 | Execute immediately on Alpaca restore
 **⚠️ DATE NOTE (Jun 8 EOD):** Entries labeled "Jun 9 pre-market" and "Jun 9 market-check" in this file were written by sessions running on Jun 8 that incorrectly identified the date. Today IS Jun 8. Those entries contain Jun 8 morning/midday analysis mislabeled as Jun 9.
+
+**✅ JUN 26 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P −0.05% 7,354.02 NOT DIST DAY — NASDAQ −0.24% 25,297.62 — 6/25 UNCHANGED CONFIRMED — RALLY LOW 7,266.99 INTACT (87 PTS) — S&P/NASDAQ SNAPPED 2-WEEK WIN STREAK — OPENAI IPO DELAY CHIP SELLOFF — ALPACA DAY 111 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 111 BLOCKED
+- **S&P 500 Jun 26 close:** **7,354.02 (−0.05%** from 7,357.49 Jun 25 close) | Nasdaq Composite −0.24% to 25,297.62 | Dow −0.09% to 51,876.11 | QQQ $712.18 (range $702.81–$715.84) | `research_source: websearch_fallback`
+- **Session character:** OpenAI IPO delay to 2027 (NYT report) → chip stocks sold hard. NVDA −1% / AMD −2.6% / INTC −2% / ARM −4% / MRVL −3.4% / MU −2.1%. Nasdaq 5th consecutive losing session. S&P ticked down only −0.05% on defensive rotation (Financials, Industrials offsetting Tech). End-of-week / Q2-end positioning (Q2 closes Jun 30). MRVL pre-mkt gap-up thesis was dividend 8-K (not earnings) — corrected at /market-check.
+- **Distribution day check (Jun 26):** S&P −0.05% → **BELOW −0.20% threshold → NOT a distribution day** ✅ | Nasdaq −0.24% marginally above threshold but no volume confirmation and S&P (primary index) clear → **NOT confirmed** ✅
+- **Distribution day accounting:** No changes. Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23. **Net: 6/25 UNCHANGED CONFIRMED.**
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** (6/25 dist = Correction; FTD window CLOSED)
+- **Rally attempt check:** S&P 7,354.02 vs rally low **7,266.99** (Jun 10) → margin ~**87 pts (+1.20%)** → rally attempt **INTACT** ✅ (thinning: 129 pts intraday Jun 25 → 90.5 pts Jun 25 close → 87 pts Jun 26 close)
+- **Weekly context:** S&P −1.59% for week (7,472.79 Jun 22 → 7,354.02 Jun 26) | Nasdaq −4.6% for week | **2-week S&P win streak SNAPPED** | NVDA −8% worst week in >1yr
+- **⚠️ 50d MA proximity:** S&P 7,354.02 | 50d MA ~7,248 | Gap: ~106 pts (1.46%) | Two near-flat sessions (Jun 25 −0.01%, Jun 26 −0.05%) — 50d MA slowly catching up; one distribution day tests it
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Portfolio-level checks:** Dist 6/25 — no new threshold crossed ✅ | 0 positions ✅
+- **Hedge check:** SH/SQQQ $625 QUEUED (Correction protocol ACTIVE — UNCHANGED) | Alpaca Day 111 BLOCKED | Execute FIRST on restore
+- **Bench status (Jun 26 close est.):**
+  - NVDA: ~$193-196 | **68-70/100 ⬇️** (from 70-71; triple N-letter: GPU lease $6→$4/hr + insider $410M + OpenAI delay) | 🟡 BENCH | −8% wk worst in >1yr | Cup wk 16 under pressure | Aug 2026+
+  - MRVL: ~$269-275 | **71/100 UNCHANGED** | 🟡 BENCH | −3.4% today | Pre-mkt catalyst was dividend 8-K not earnings | No base confirmed
+  - LRCX: Weak | **67/100 UNCHANGED** | 🟡 BENCH | Chip selloff; upgrades priced
+  - ARM: ~−4% | **60/100 UNCHANGED** | 🔴 BELOW THRESHOLD | GAAP C-letter fail; 67× fwd P/S
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 111 blocked + 0 positions + 0 primary watchlist)
+- **⚠️ DIST DAY EXPIRY PATH (unchanged):** Jun 3 → ~Aug 8 → 5/25 | Jun 5 → ~Aug 10 → 4/25 | Jun 9 → ~Aug 12 → 3/25 | Jun 10 → ~Aug 13 → 2/25 | Jun 17 → ~Aug 22 → 1/25 | Jun 23 → ~Sep 24 → 0/25 | **State REMAINS CORRECTION until FTD regardless**
+- **⚠️ NEXT WEEK (Jun 30–Jul 3; 4-day week; Jul 4 closed):** (1) 🚨 **Alpaca restore Day 112** — SH $625 FIRST order (2) **Q2/EOM Jun 30** — elevated volume/volatility (quarter-end rebalancing) (3) **Rally low 7,266.99** — 87 pts margin; breach = new Day 1 (FTD reopens) (4) **50d MA ~7,248** — 106 pts below close; one dist day tests it (5) **NVDA base health** — cup wk 17; −8% wk damage (6) **Dist count 6/25** — no expiry until Aug 8
+- `research_source: websearch_fallback` | Alpaca Day 111 BLOCKED | Perplexity 403 | AV 403
 
 **✅ JUN 25 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P −0.01% 7,357.49 NOT DIST DAY — NASDAQ −0.46% — 6/25 UNCHANGED — MAG7 SELLOFF (AAPL IPHONE + MSFT XBOX PRICE HIKES) — RALLY LOW 7,266.99 INTACT (90.5 PTS) — ALPACA DAY 110 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 110 BLOCKED
