@@ -12,7 +12,13 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ACTIVE — Week of 2026-06-22 to 2026-06-26
+## ⚠️ ARCHIVED — Week of 2026-06-22 to 2026-06-26 — **STALE — rebuild via /weekly-prep Sun Jun 29**
+
+> Archived week of Jun 22–26. Market state: 🔴 Correction (6/25 dist days). Zero primary candidates. FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99). NVDA 68–70/100 (bench, cup wk 16, no handle, −8% wk, Aug 2026+ timeline), MRVL 71/100 (bench, no base, CFO selling), LRCX 67/100 (bench), ARM 60/100 (below threshold). SH $625 hedge QUEUED (Alpaca Day 111 BLOCKED). Full rebuild required Sunday Jun 29.
+
+---
+
+## FORMERLY ACTIVE — Week of 2026-06-22 to 2026-06-26
 
 **Built:** 2026-06-21 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` (Alpaca: Day 104 BLOCKED, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + prior-week cached fundamentals) | `cached_fundamentals` mode
 

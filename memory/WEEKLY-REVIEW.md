@@ -1225,3 +1225,143 @@ Priority ranking:
   - Economic data: watch for any inflation/labor prints that could be the next dist day catalyst
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (ALL blocked by Correction; 0 eligible longs). SH hedge $625 QUEUED — Alpaca Day 102 BLOCKED. Execute SH FIRST on Alpaca restore (Correction protocol).
 - **Emotional state check:** DISCIPLINED. Ten consecutive 0-trade weeks. The 7.5-pt miss on Jun 18 and the FOMC killing the Day 5 window are frustrating operationally, but the rules held perfectly — Correction correctly maintained, no premature entries, capital at HWM. The Iran deal SIGNED is the most significant macro positive catalyst since April 8 FTD. Monday Jun 22 is the most actionable single day of the cycle. Be ready: if S&P ≥7,594 on confirmed volume, the system immediately shifts to Confirmed Uptrend protocol. No hesitation. Capital is intact. Patience delivered us to this moment.
+
+---
+
+## Week ending 2026-06-26 (Fri)
+
+> **Context:** Week 11 of live operation. Alpaca API blocked Day 104–111 (all 5 sessions — now 111 consecutive days / ~22 weeks, still no resolution). Perplexity + Alpha Vantage blocked same IP allowlist issue. All research via WebSearch fallback — **11th consecutive week of full fallback mode.** Zero trades executed. Market: 🔴 Correction throughout (6/25 dist days — net unchanged entering and leaving the week). Key events: (1) FTD Day 7 Jun 22 FAILED (7,472.79 vs 7,594 threshold) — window closed; (2) DIST DAY #8 Jun 23 confirmed (KOSPI crash cascade, SMH −6.5%); (3) MU MASSIVE BEAT Jun 24 AMC (+26% EPS, +14–18% rev guide); (4) PCE Jun 25 4.1%/3.4% — matched forecast, digested; (5) OpenAI IPO delay (NYT Jun 26) → chip selloff, NVDA −8% worst week in >1yr. S&P 500 −1.59% for the week; Nasdaq −4.6%. 2-week win streak SNAPPED. No actions taken.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Jun 22 open — 100% cash, carry-in from Week 10)
+- Ending equity: $2,500.00 (Fri Jun 26 close — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 7,472.79 Jun 22 close → 7,354.02 Jun 26 close = **−1.59%** = **+1.59% alpha — cash outperformed declining market**)
+- S&P intraweek range: 7,266.99 (rally low, Jun 10 — still intact) → 7,472.79 (Jun 22 high close)
+- Nasdaq: −4.6% for the week (worst week since… significant)
+- NVDA: −8% for the week (worst week in >1yr)
+- Trades taken: **0** (max 3/week, used 0 — **eleventh consecutive 0-trade week**)
+- Winners: 0 (avg N/A) | Losers: 0 (avg N/A) | Winner:loser ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Cumulative alpha since inception (11 weeks): ~−1.86% vs SPY** (prior −3.45% through Week 10; this week +1.59% alpha recovers significantly)
+- **Root causes of zero trades (ranked by severity):**
+  1. Alpaca API 403 "Host not in allowlist" — Day 104–111. Execution hard-halted per TRADING-STRATEGY.md.
+  2. Market state: 🔴 Correction all week — ALL new long entries blocked.
+  3. FTD Day 7 (Jun 22) FAILED — no state upgrade; FTD window closed entirely.
+  4. Zero candidates ≥75 conviction score: NVDA 68–70/100 ⬇️, MRVL 71/100, LRCX 67/100, ARM 60/100.
+  5. SH hedge $625 still QUEUED — Alpaca Day 111 BLOCKED.
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any −7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries during Correction? **NO** — gates correctly honored all 5 sessions
+- Any entries on Alpaca-blocked sessions? **NO** — rule honored (11th consecutive week)
+- Any conviction-score workarounds? **NO** — no entries attempted; all bench scores below 75
+- MRVL pre-market catalyst misidentified as earnings beat → /market-check caught and corrected → no trade action taken on false signal ✅
+- Circuit breakers triggered? **NONE** (daily −3%, weekly −6%, drawdown −12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(eleventh consecutive trivially-perfect score — no trades = no violations. Score remains structurally uninformative until execution infrastructure restored. Key behavioral note: no temptation to act on MRVL false "earnings beat" before it was corrected.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🔴 Market in Correction** (6/25 dist days — carried from Week 10)
+- M state at week end: **🔴 Market in Correction** (6/25 dist days — UNCHANGED)
+
+| Date | S&P Close | Change | Dist Day? | Running Count | Notes |
+|---|---|---|---|---|---|
+| Jun 22 (Mon) | 7,472.79 | — | **NO** | 5/25 (May 15 expired) | FTD Day 7 LAST WINDOW FAILED (7,472.79 vs 7,594 threshold). May 15 dist expired → 5/25. No FTD → FTD window CLOSED. Still Correction. ✅ |
+| Jun 23 (Tue) | ~7,366 | −1.43% | **YES — DIST DAY #8** | 6/25 (May 19 out; Jun 23 in) | KOSPI crash −9.99%, SMH −6.5%, NVDA −3.2%. AI capex fears cascade. May 19 expired (same day) → net 6/25 UNCHANGED. ✅ |
+| Jun 24 (Wed) | 7,358.22 | −0.10% | **NO** | 6/25 UNCHANGED | Below −0.20% threshold. MU MASSIVE BEAT AMC (+26% EPS). ✅ |
+| Jun 25 (Thu) | 7,357.49 | −0.01% | **NO** | 6/25 UNCHANGED | PCE 4.1%/3.4% digested. Mag7 price hikes (AAPL, MSFT). ✅ |
+| Jun 26 (Fri) | 7,354.02 | −0.05% | **NO** | 6/25 UNCHANGED | OpenAI IPO delay → chip selloff. −0.05% well below −0.20% threshold. ✅ |
+
+- FTD outcome: **CLOSED.** Day 7 (Jun 22) was the last window — fell 121 pts short (7,472.79 vs 7,594.00). New FTD requires new Day 1 (S&P close below 7,266.99 rally low) then Day 4–7 +1.25%+ on above-avg volume.
+- Any missed distribution days? **None** — Jun 22 and Jun 25–26 all correctly below threshold.
+- Any late state transitions? **None required** — count remained 6/25 via offset (May 19 out = Jun 23 in = net unchanged).
+- Distribution day accounting error? **None** — May 15 expiry (Jun 22) and May 19 expiry (Jun 23) correctly tracked. Net 6/25 confirmed.
+- Rally attempt: INTACT — S&P 7,354.02 vs rally low 7,266.99 = **87 pts margin (+1.20%)** ✅ (thinning from 206 pts at Jun 22 open → 87 pts at Jun 26 close)
+- **50d MA proximity (⚠️ CRITICAL):** S&P 7,354.02 | 50d MA ~7,248 | Gap: **~106 pts (1.46%)** — one meaningful distribution day tests the 50d MA; a close below 50d on elevated volume would be a new Correction-deepening signal.
+- Accuracy verdict: **CLEAN — all M calls correct for 11th consecutive week.** Net dist count math tracked precisely through double expiry (May 15 + May 19) coinciding with new addition (Jun 23).
+
+### Sector Performance
+
+- Sectors we traded: **NONE** (no trades — Correction)
+- Sector highlights this week:
+  - **XLK Technology/Semis:** Led the selloff. SMH −6.5% Jun 23. NVDA −8% worst week in >1yr. OpenAI IPO delay = primary AI demand uncertainty catalyst. B200 GPU lease prices $6.11→$4.22/hr (supply glut thesis forming).
+  - **XLF Financials:** Best relative strength. Dow +0.3% on week while Nasdaq −4.6%. Defensive rotation into Financials/Industrials partially offset chip selloff. JPM, GS maintained relative strength.
+  - **XLI Industrials:** CAT +5.81% Jun 25. Defensive quality holding up in Correction. Second-best relative strength.
+  - **XLC Communication:** GOOGL −10% Jun 22 (follow-through from prior session's catalyst) cascaded into KOSPI + US semis.
+  - **MU (watch):** Beat all consensus metrics by wide margin (EPS +26% vs est, Q4 rev +14–18% above estimate). AI memory demand thesis VALIDATED. But stock and sector ended week down on OpenAI IPO delay narrative overriding the positive data.
+- Sector RS update (4-week): 1. XLF Financials 2. XLI Industrials 3. XLK Technology (chip momentum intact longer-term, damaged near-term)
+- Sectors to blacklist: **None** (zero trade history — 2-consecutive-fail rule still has no inputs)
+
+### Conviction Correlation
+
+- Trades with conviction ≥85: 0 — N/A
+- Trades with conviction 75–85: 0 — N/A
+- Sub-threshold correctly blocked:
+  - NVDA: **68–70/100 ⬇️** (was 70–71; triple N-letter headwind: GPU lease compression + $410.6M insider selling + OpenAI IPO delay demand risk). Base wk 16, no handle, Aug 2026+ timeline. Cup under pressure from −8% weekly loss.
+  - MRVL: **71/100 UNCHANGED** (pre-market catalyst corrected mid-session — was dividend 8-K, not earnings). Score stayed at 71 post-correction. Below threshold. Needs new base post-$281 rejection.
+  - LRCX: **67/100 UNCHANGED** — BofA/WF upgrades priced; chip selloff headwind; no base.
+  - ARM: **60/100 UNCHANGED** — GAAP C-letter fails; 67× fwd P/S; KOSPI spillover.
+- **11th consecutive week with zero candidates ≥75.** Rubric discriminating correctly under Correction + degraded-data conditions.
+- Pattern: No closed-trade data. Score discrimination functioning correctly for 11th consecutive week.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked Day 104–111 — 11th consecutive 0-perplexity week)
+- Sessions on websearch_fallback: **~15** (5 days × 3 routines)
+- Sessions DEGRADED: **0** (WebSearch consistently available)
+- Research source for trades placed: **N/A**
+- **Critical data quality event this week — MRVL catalyst misidentification:**
+  - Jun 26 /pre-market: Retrieved "MRVL Q1 FY2027 earnings beat (Jun 25 AMC)" — EPS $0.80 vs $0.75 est., revenue $2.418B, Q2 guide $2.700B. Built full bull thesis. Score impact estimated 75–80/100 with live data. SH queue vs. MRVL upgrade framed as the week's decision point.
+  - Jun 26 /market-check: Cross-check confirmed the "MRVL Q1 FY2027 AMC Jun 25" was WRONG. Actual MRVL Q1 FY2027 earnings: **May 27, 2026.** Jun 25 filing was a dividend 8-K ($0.06/sh). No new earnings. Score corrected back to 71/100. Bull thesis withdrawn.
+  - **Root cause:** WebSearch retrieved a mix of current SEC filing (8-K) and stale earnings summaries. Queries for "MRVL earnings Jun 25" pattern-matched the filing date of the 8-K without distinguishing Item Type (earnings results vs. corporate action). Proposal 17 addresses this.
+  - **Impact:** No harm (Alpaca blocked + Correction blocked all entries). But if Alpaca had been live and market had upgraded to Confirmed Uptrend via FTD, this error could have caused an incorrect MRVL entry at a 75–80/100 score that was actually 71/100.
+- Persistent gap: Volume data still unconfirmed (Alpaca Day 111 blocked). All dist-day volume assessments qualitative.
+
+### Lessons
+
+**Lesson 1 — Research: Corporate action 8-K filings (dividends, governance) can be misattributed as earnings results, especially when both occur near each other in time.**
+MRVL's dividend 8-K ($0.06/sh) filed Jun 25 was retrieved alongside MRVL earnings results narratives (which actually occurred May 27). A websearch query for "MRVL after-hours Jun 25" matched the SEC 8-K filing date without distinguishing Item 2.02 (earnings) vs. Item 8.01 (corporate action). The /pre-market built a full thesis — score +5–9 pts, quarter-end institutional buying narrative, S&P 500 inclusion demand. All false. The /market-check cross-check caught it within the same session. But this is a repeating vulnerability: every earnings week for a watchlist name carries the risk of a concurrent 8-K (dividend, share repurchase authorization, governance) that pollutes the earnings signal. Fix: **Proposal 17** — require explicit 8-K Item classification before treating any SEC filing as an earnings catalyst.
+
+**Lesson 2 — Strategy: A bench candidate absorbing three concurrent headwinds in a single week (supply compression → margin threat, insider selling → confidence signal, demand uncertainty → thesis dilution) is not a "buy-the-dip" — it is a signal to extend the wait timeline.**
+NVDA entered the week at 70–71/100 with a cup base forming (wk 15). By week end: (1) B200 GPU lease prices collapsed $6.11→$4.22/hr — supply glut forming, margin compression ahead; (2) insiders sold $410.6M over 3 months — confidence signal inverted; (3) OpenAI IPO delay suggests one of NVDA's largest implied demand sources may reduce near-term GPU spend. Score revised to 68–70/100. The cup (wk 16) absorbed an −8% weekly loss — the worst in >1yr. Aug 2026+ timeline EXTENDED. Lesson: when multiple structural headwinds compound in the same week, don't rationalize each one individually. "GPU leases down — probably temporary." "Insider selling — just diversification." "OpenAI delay — market overreaction." The compound signal is the signal. Wait for all three to resolve before reassessing.
+
+**Lesson 3 — Market: MU's strongest-ever quarterly beat (+26% EPS, +18% Q4 rev guide) validated AI memory demand — but couldn't overcome an AI demand narrative shock (OpenAI IPO delay). In 2026, hyperscaler CapEx sentiment is a more powerful market driver than confirmed customer data.**
+MU beat by every measure. AI memory (HBM) demand is real, confirmed by actual shipments, actual revenue, actual forward guidance. Yet NVDA fell −8% on the week and Nasdaq lost −4.6% because a single news item (OpenAI possibly delaying an IPO → spending intentions unclear) overrode the confirmed data. Lesson: in an AI-driven market, the NARRATIVE of future CapEx commitment drives valuation more than confirmed trailing demand. Until hyperscaler CapEx guidance is clear and stable quarter-over-quarter, the NVDA/MRVL N-letter will remain volatile and subject to large weekly swings on inference-level news. This supports keeping NVDA on bench until its base is fully formed and completed — no base = no buffer against narrative shocks.
+
+### Proposed Rule Changes
+
+**Proposal 17 — NEW: 8-K Item classification required before treating SEC filing as earnings catalyst.**
+When a websearch retrieves an SEC 8-K filing for a watchlist name, the research note must identify the Item number: Item 2.02 (results of operations and financial condition) = earnings; Item 8.01 (other events) = corporate action (dividend, buyback, governance); Item 1.01 (material agreements). Only Item 2.02 filings justify a conviction-score change in the same session. All other 8-K Items must be labeled `[CORPORATE_ACTION — not earnings]` and scored in the next weekly cycle via canslim-screener. This prevents the MRVL dividend-as-earnings error from propagating to a score change or entry decision.
+Status: **NEW — pending Jason approval. HIGH PRIORITY — directly caused Jun 26 pre-market bull thesis error.**
+
+**Proposals 1–16 from prior weeks:** ALL still pending Jason approval.
+Priority ranking this week:
+1. **Proposal 17** (this week — 8-K item classification) — directly caused Jun 26 error; implement immediately in /pre-market template
+2. **Proposal 12** (date-explicit EOD query before logging state changes) — informally applied last 3 weeks with measurably better data quality; formalize
+3. **Proposal 1** (Alpaca API health check at /pre-market Step 0) — Day 111, 22 weeks overdue
+4. **Proposal 5** (API-down escalation SLA) — Day 111; requires Jason action
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🔴 Market in Correction (6/25 dist days: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23). **ALL new long entries blocked.** FTD window CLOSED — next FTD requires new Day 1 (S&P close below 7,266.99) → Day 4–7 +1.25%+ on above-avg volume. **No dist expiries until Aug 8** (Jun 3 oldest active dist). Dist count stays at 6/25 regardless of market behavior next week. **50d MA ~7,248 only 106 pts (1.46%) below Jun 26 close of 7,354.02** — the key near-term technical level.
+- **Sectors in focus (Correction posture — monitor only):**
+  1. **XLF Financials** — best relative strength in Correction; least impacted by AI demand uncertainty; Q2 earnings season begins ~Jul 14 (JPM, GS)
+  2. **XLI Industrials** — AI infrastructure capex cycle intact despite narrative volatility
+  3. **XLK Technology** — MU beat validates AI memory demand; but OpenAI/hyperscaler CapEx narrative overhang persists; monitor NVDA cup health
+  4. **AVOID:** XLE (Iran deal oil compression), XLRE (rate-sensitive; FOMC hawkish), XLC (GOOGL overhang)
+- **Calendar risks:**
+  - ⚠️ **Q2/EOM Jun 30 (Mon)** — quarter-end rebalancing; elevated volume and intraday volatility expected. Potential distribution day risk if institutions sell tech/growth into quarter-end. Watch dist count.
+  - **4-day holiday week** (Jul 4 Fri = Independence Day closed) — thin markets Wed/Thu; low-conviction moves
+  - ⚠️ **50d MA ~7,248** — 106 pts below close. One −1.3%+ distribution day (e.g., from Q2 rebalancing) tests the 50d MA. A close below 50d MA on above-avg volume = additional Correction signal (not a new state trigger, but a bearish technical development that would further extend the base-formation timeline for all bench names)
+  - **Rally low 7,266.99** — 87 pts margin at Jun 26 close. If breached on any close → new Day 1 of rally attempt → FTD window reopens in 4–7 sessions (earliest Jul 2)
+  - **Alpaca restore: Day 112–115** (BLOCKED). Execute SH $625 as FIRST order on restore (Correction hedge protocol, queued since Jun 5). No new long entries until: (a) Alpaca restored, (b) FTD confirmed, (c) candidate ≥75.
+  - **NVDA base health** — cup wk 17 absorbing −8% weekly loss; no handle; monitor for handle formation or cup failure (close below 50d MA on elevated volume = cup failure = clear the bench for NVDA entirely)
+  - **MRVL** — 71/100; CFO selling concern (I-letter 6); no base; needs 3–5+ weeks of consolidation before base can complete
+  - **Jun 30 economic data:** Check for any ISM Manufacturing (Jul 1), JOLTS, or other macro data that could serve as dist day catalyst
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, **3/3 weekly trade slots available (ALL blocked by Correction)**. SH hedge $625 QUEUED — Alpaca Day 111 BLOCKED. Capital at HWM since inception.
+- **Emotional state check:** DISCIPLINED and CORRECTLY POSITIONED. Eleven consecutive 0-trade weeks. This week's +1.59% alpha (cash outperformed declining market by sitting flat) continues the pattern of Week 8 (S&P −1.76%) where the strategy's conservative Correction posture was rewarded. The MU MASSIVE BEAT validated the AI demand thesis for semis — the sector WILL produce trading opportunities. But the market needs to confirm a new uptrend via FTD, and Alpaca needs to be restored, before we can participate. The accumulating proposal backlog (17 proposals, all pending Jason approval) is the only non-disciplined element of the system — these refinements would make the strategy materially more robust. No FOMO, no revenge trading, no "just this once" entries. Cash is the position. The next Confirmed Uptrend + Alpaca restore will be worth waiting for.

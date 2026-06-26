@@ -3399,3 +3399,44 @@ Bench: NVDA 68-70 | MRVL 71 | LRCX 67 | ARM 60 — all below 75
 SH $625 QUEUED — execute FIRST on Alpaca restore
 
 Next week (4-day; Jul 4 closed): Q2/EOM Jun 30 rebalancing + rally low watch (87 pts margin)
+
+---
+## 2026-06-26 20:36 CT [clickup-placeholder]
+
+### Week ending 2026-06-26
+
+## Weekly Review — Week ending 2026-06-26
+
+**Market:** 🔴 Correction (6/25 dist days) UNCHANGED | **Equity:** $2,500 HWM | **Trades:** 0/3 | **Alpaca:** Day 111 BLOCKED
+
+### Performance
+- Return: 0.00% (vs S&P −1.59% = **+1.59% alpha — cash outperformed**)
+- Cumulative alpha drag since inception: ~−1.86% (improved from −3.45% last week)
+- Trades: 0 | 11th consecutive 0-trade week
+
+### Key Events
+- **Jun 22:** FTD Day 7 LAST WINDOW FAILED (7,472.79 vs 7,594 threshold). Window closed. May 15 dist expired → 5/25.
+- **Jun 23:** DIST DAY #8 confirmed (KOSPI crash −9.99%, SMH −6.5%, AI capex fears). May 19 expired (same day) → net 6/25 UNCHANGED.
+- **Jun 24:** MU MASSIVE BEAT AMC (+26% EPS, +14–18% Q4 rev guide). AI memory demand VALIDATED.
+- **Jun 25:** PCE 4.1%/3.4% — matched forecast, digested cleanly.
+- **Jun 26:** OpenAI IPO delay (NYT) → chip selloff. NVDA −8% wk (worst in >1yr). Nasdaq −4.6% wk. 2-week S&P win streak snapped.
+
+### Bench Status
+- NVDA: 68–70/100 ⬇️ (triple N-letter: GPU lease compression + $410M insider selling + OpenAI IPO delay). Aug 2026+ timeline extended.
+- MRVL: 71/100 (pre-mkt 'earnings beat' was dividend 8-K — caught + corrected at /market-check)
+- LRCX: 67/100 | ARM: 60/100
+
+### Rule Adherence: 100/100 (trivially — no trades)
+### Dist Count: 6/25 UNCHANGED | Rally low 7,266.99 INTACT (87 pts margin)
+
+### Lesson Highlights
+1. MRVL corporate 8-K misidentified as earnings → Proposal 17 (8-K Item classification required)
+2. NVDA triple-negative compounds: multiple concurrent headwinds = extended wait, not buy-the-dip
+3. MU beat couldn't overcome OpenAI IPO delay narrative — CapEx sentiment > confirmed trailing data
+
+### Next Week (Jun 30–Jul 3; 4-day holiday week; Jul 4 closed)
+- Correction continues; dist count 6/25; no expiries until Aug 8
+- 50d MA ~7,248 only 106 pts below S&P 7,354 close — watch for test
+- Q2/EOM Jun 30 rebalancing = elevated volatility risk
+- Alpaca Day 112 BLOCKED → SH $625 FIRST order on restore
+- FTD requires new Day 1 (close below 7,266.99) then Day 4–7 +1.25%+ on volume
