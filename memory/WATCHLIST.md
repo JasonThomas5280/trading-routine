@@ -12,9 +12,97 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ⚠️ ARCHIVED — Week of 2026-06-22 to 2026-06-26 — **STALE — rebuild via /weekly-prep Sun Jun 29**
+## ⚠️ ARCHIVED — Week of 2026-06-22 to 2026-06-26 — **STALE — rebuilt Sun Jun 29 /weekly-prep**
 
-> Archived week of Jun 22–26. Market state: 🔴 Correction (6/25 dist days). Zero primary candidates. FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99). NVDA 68–70/100 (bench, cup wk 16, no handle, −8% wk, Aug 2026+ timeline), MRVL 71/100 (bench, no base, CFO selling), LRCX 67/100 (bench), ARM 60/100 (below threshold). SH $625 hedge QUEUED (Alpaca Day 111 BLOCKED). Full rebuild required Sunday Jun 29.
+> Archived week of Jun 22–26. Market state: 🔴 Correction (6/25 dist days). Zero primary candidates. FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99). NVDA 68–70/100 (bench, cup wk 16, no handle, −8% wk, Aug 2026+ timeline), MRVL 71/100 (bench, no base, CFO selling), LRCX 67/100 (bench), ARM 60/100 (below threshold). SH $625 hedge QUEUED (Alpaca Day 111 BLOCKED). Rebuilt Sun Jun 29.
+
+---
+
+## ACTIVE — Week of 2026-06-30 to 2026-07-03 (4-day week; Jul 4 closed)
+
+**Built:** 2026-06-29 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` (Alpaca: Day 112 BLOCKED, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + prior-week cached fundamentals) | `cached_fundamentals` mode
+
+**Market direction:** 🔴 Market in Correction (6/25 dist days) | **NO NEW LONG ENTRIES**
+**S&P 500:** 7,354.02 (Jun 26 close) | **50d SMA ~7,258** (+1.3% above) | **200d SMA ~6,918** (+6.3% above) | ABOVE both MAs but critical support 7,334 = only 20 pts below close
+**QQQ:** ~$712 (Jun 26 close) | 50d SMA est. ~$685-700 | 200d SMA est. ~$640-660 | Above both MAs
+**FTD path:** CLOSED (Day 7 failed Jun 22). New Day 1 requires S&P CLOSE below 7,266.99 (rally low). If Day 1 fires Monday Jun 30, FTD window = Jul 7-10.
+
+**Top sectors (4-week trailing RS, Jun 27 update):**
+1. **XLF Financials** — best RS in Correction; hawkish higher-for-longer = NIM positive; Q2 earnings begin Jul 14; JPM/GS resilient
+2. **XLV Healthcare** — defensive leader; +3.03% Jun 26; no AI-demand sensitivity; outperforming in risk-off
+3. **XLI Industrials** — CAT +5.81% Jun 25; AI infrastructure capex intact; RRG leading quadrant
+**Avoid:** XLK (NVDA -8% wk; AI capex uncertainty; Nasdaq -4.6%), XLE (Iran oil compression), XLRE (rate-sensitive), XLC (GOOGL overhang)
+**Blacklisted sectors:** None
+
+**Universe scan:** DEGRADED — Alpaca Day 112 BLOCKED + AV 403 + Perplexity 403. Per /weekly-prep rules (Market in Correction): **No new-entry watchlist.** Hedge candidates built instead.
+**Candidates scanned via canslim-screener:** N/A — Correction posture; no scoring run this week
+**Passed conviction ≥75: 0** — **ZERO for 11th consecutive week** (Correction gate blocks ALL entries regardless of score; data degraded mode caps scores structurally)
+
+> ⚠️ **11th consecutive week with 0 candidates above conviction threshold.**
+> Correction state blocks ALL entries regardless of CAN SLIM score. Data infrastructure degraded (Alpaca Day 112 BLOCKED / AV 403 / Perplexity 403) adds structural cap on scores. Strategy functioning correctly: no trades in Correction = correct behavior.
+
+---
+
+## ⛔ CORRECTION POSTURE — NO NEW LONG ENTRIES — HEDGE CANDIDATES ONLY
+
+**Entry gate: ⛔ ZERO new long entries** (Market in Correction — all new longs blocked)
+
+### Hedge Candidates (Correction Protocol Active)
+
+| Rank | Instrument | Type | Size | Status | Notes |
+|---|---|---|---|---|---|
+| H1 | **SH** | Inverse S&P (−1×) | $625 / 25% portfolio | **QUEUED — Alpaca Day 112 BLOCKED** | Execute as FIRST order on Alpaca restore; queued since Jun 5 |
+| H2 | **SQQQ** | Inverse NASDAQ (−3×) | Alt: $625 if SH unavailable | Secondary | Only if SH specifically unavailable; SQQQ leverage decay risk for extended holds |
+
+**SH rationale:** Market in Correction (6/25 dist days), Nasdaq -4.6% last week, AI capex narrative shock (OpenAI IPO delay), hawkish FOMC higher-for-longer, BofA warning of 3-wave abc correction through Q3. This is the textbook Correction hedge. Size: $625 / 25% portfolio per TRADING-STRATEGY.md inverse ETF rule.
+**Exit trigger for SH:** Follow-through day confirms new Confirmed Uptrend → exit SH within 2 sessions.
+
+---
+
+### Primary Watchlist (score ≥75)
+
+**NONE this week.** Market in Correction. No new long entries. Zero candidates scored (build-universe.sh not run — Correction posture + degraded data). See bench.
+
+---
+
+### Bench (score below 75 — Correction monitor only)
+
+| Rank | Symbol | Score | Δ | Sector | Status | Re-Score Trigger | Notes |
+|---|---|---|---|---|---|---|---|
+| B1 | NVDA | **68-70/100 ⬇️** | Unchanged | XLK / Semis | 🟡 Cup wk 17; no handle; under pressure | Handle completion (~Aug 2026) + Alpaca+AV restore + GPU lease stabilization | **C:20 A:15 N:5 S:10 L:15 I:4 Base:0.** Price: ~$191-196 (Jun 26 est; -8% wk worst in >1yr). Triple headwind: (1) B200 GPU lease prices $6.11→$4.22/hr (supply glut forming); (2) Insider selling $410.6M past 3 months; (3) OpenAI IPO delay → AI demand uncertainty. Cup wk 17 intact structurally but absorbing -8% weekly loss. No handle yet. Aug 2026+ timeline UNCHANGED. Not actionable. `websearch_fallback` `B200_GPU_lease_compression` `insider_selling_flag` `OpenAI_IPO_delay_AI_demand_risk` |
+| B2 | MRVL | **71/100 UNCHANGED** | — | XLK / AI Semis | 🟡 WATCHING — no base forming yet | FTD + Alpaca restore + 3-5 wk base completion | **C:15 A:10 N:15 S:10 L:15 I:6 Base:0.** Price: ~$267 (Jun 27 est). -5% last week. Post-rejection from $281 (Jun 18); needs new base consolidation. CFO transition orderly (Dan Durn in; Meintjes advisory through 2027). I-letter 6/10. MU MASSIVE BEAT (Jun 24) validated AI memory demand thesis → MRVL N-letter intact. But no base formed. 3-5 weeks consolidation minimum before base could complete. `websearch_fallback` `CFO_transition_orderly` `MU_beat_AI_memory_demand_validated` |
+| B3 | LRCX | **67/100 UNCHANGED** | — | XLK / Semi Equip | 🟡 Gaining analyst support; no base | A-letter improvement + base confirm + Correction end | **C:15 A:5 N:15 S:10 L:15 I:7(BofA/WF dual upgrades) Base:0.** Price: est. ~$350-370 range (chip selloff; was $371 Jun 23). Next earnings Jul 29 (CLEAR — no blackout this week). BofA $330→$480; WF $365→$450. Score 67/100 — below threshold. Not actionable. `websearch_fallback` |
+| B4 | ARM | **60/100 UNCHANGED** | — | XLK / Semis | ❌ Below threshold; path unclear | C-letter GAAP improvement + base confirm | **C:10 A:10 N:15 S:5 L:15 I:5(capped) Base:0.** Price: est. ~$375-385 (KOSPI spillover -4% Jun 23; chip selloff). GAAP C-letter fails at 10/20. 67× fwd P/S. Not actionable. `websearch_fallback` |
+| — | MU | **WATCH** | NEW | XLK / Memory | 🟡 MASSIVE BEAT — monitor for base | Post-earnings base formation + Correction end | MASSIVE Q3 FY2026 BEAT (Jun 24 AMC): EPS $25.11 vs $20.20 est (+24%); Rev $41.46B vs $35.25B (+18%); Q4 guide $50B ±$1B vs $43.2B (+16%). AI memory thesis FULLY VALIDATED. Next earnings: FQ4 ~Sep 2026. No base yet post-earnings gap. Monitor for cup-with-handle formation. Earnings blackout clears Jun 30+ (5 trading days after Jun 24 earnings). **Formal score: TBD pending Alpaca+AV restore.** Est. 78-85/100 on live data. `websearch_fallback` |
+| — | JPM/GS | **WATCH** | NEW | XLF | 🟡 Q2 earnings Jul 14+ | Score after Q2 earnings + base | Q2 earnings season starts ~Jul 14 (JPM, GS). Sector RS #1. JPM C-letter EPS +17% disqualified last check (<25%). GS $1,093 price ceiling blocked (>$500). Monitor post-earnings for score improvement. `cached_fundamentals` |
+
+---
+
+### Entry Execution Plan — Week of Jun 30 - Jul 3
+
+**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day 112 BLOCKED + 0 candidates ≥75)
+
+**FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5)
+
+**Week's critical path:**
+- **Mon Jun 30 (Q2/EOM):** ⚠️ Quarter-end rebalancing. Elevated institutional selling risk into quarter-end (growth/tech). If S&P -0.4%+ on above-avg vol → Dist Day #7 → 7/25. Watch rally low 7,266.99 (87 pts below close — CRITICAL). ISM Manufacturing data.
+- **Wed Jul 1:** Fed Chair Warsh speaks 9:30 AM ET in Portugal. Hawkish language = potential Dist Day catalyst. JOLTS job openings data.
+- **Thu Jul 2:** 🎯 **NFP June jobs report (8:30 AM ET, released early for Jul 4).** Hot print (>175K) = higher-for-longer confirmed = potential dist day + deeper Correction. Cool print (<120K) = dovish relief = potential bounce. Consensus ~172K. Watch S&P reaction.
+- **Fri Jul 3:** Half-day (closes 1 PM ET). Thin liquidity. Low-conviction moves. Not counted for FTD threshold (volume insufficient for holiday session).
+
+**Conditional FTD plan (if S&P closes below 7,266.99 = new Day 1):**
+- Day 1 filing: Rally attempt restarts; FTD window opens Day 4-7
+- If Day 1 = Jun 30: FTD window = Jul 7-10 (next week)
+- First entry eligible: NOT before FTD confirmed + Alpaca restored + ≥1 candidate ≥75
+- Bench re-score priority on FTD: MU first (est. 78-85/100 live) → MRVL second (71/100 → est. 73-78 live if base forms)
+
+**Calendar risks:**
+- ⚠️ Mon Jun 30: Q2/EOM dist day risk
+- ⚠️ Wed Jul 1: Warsh hawkish speech risk
+- ⚠️ Thu Jul 2: NFP June (hot = bearish, cool = relief)
+- ⚠️ **LRCX earnings Jul 29** — begin earnings blackout ~Jul 22 (5 trading days prior); LRCX entry blocked after Jul 22
+- **NVDA earnings: late Aug 2026** — base timeline intact; no blackout yet
+- **MRVL earnings: late Aug 2026** — no blackout yet; 3-5 wk base formation window open
 
 ---
 

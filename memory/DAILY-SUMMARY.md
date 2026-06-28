@@ -3440,3 +3440,19 @@ Next week (4-day; Jul 4 closed): Q2/EOM Jun 30 rebalancing + rally low watch (87
 - Q2/EOM Jun 30 rebalancing = elevated volatility risk
 - Alpaca Day 112 BLOCKED → SH $625 FIRST order on restore
 - FTD requires new Day 1 (close below 7,266.99) then Day 4–7 +1.25%+ on volume
+
+---
+## 2026-06-28 21:12 CT [clickup-placeholder]
+
+📋 Week prep 2026-06-29
+Market: 🔴 Correction (Dist: 6/25, SPY vs 50SMA: +1.3%, vs 200SMA: +6.3%)
+⚠️ CRITICAL: S&P 7,354 only 20 pts above 7,334 support | Rally low 7,266.99 (87 pts)
+Top sectors (monitor only — NO ENTRIES): XLF, XLV, XLI
+Watchlist primary: NONE (Correction — zero entries permitted)
+Bench: NVDA 68-70/100 | MRVL 71/100 | LRCX 67/100 | ARM 60/100
+MU NEW: est. 78-85/100 (earnings blackout clears Jun 30; no base yet — 4-6 wk wait)
+Hedge: SH $625 QUEUED (Alpaca Day 112 BLOCKED)
+Calendar: Q2/EOM Jun 30 (vol spike) | Warsh speech Jul 1 | NFP Jun Jul 2 (HOT=bearish/COOL=relief) | half-day Jul 3 | Jul 4 closed
+Entry plan Mon: NONE. Watch S&P vs 7,334 (dist day #7 risk). SH first on Alpaca restore.
+FTD path: breach 7,266.99 on close = new Day 1 → FTD window Day 4-7 (earliest Jul 7-10)
+Infra: Alpaca Day 112 / AV / Perplexity ALL BLOCKED. research_source: websearch_fallback

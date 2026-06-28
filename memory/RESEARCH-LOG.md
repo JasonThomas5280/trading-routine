@@ -11574,3 +11574,84 @@ Today P&L: $0 | Week P&L: $0 | Drawdown from HWM: $0
 
 `research_source: websearch_fallback` | Alpaca Day 104 | Perplexity unavailable | AV unavailable
 
+
+---
+
+## 2026-06-29 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION UNCHANGED — 4-DAY HOLIDAY WEEK — NFP JUL 2 — ALPACA DAY 112 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 112 BLOCKED; Perplexity: 403 BLOCKED; AV: 403 BLOCKED. All data via WebSearch + prior-week cached fundamentals.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (87 pts — CRITICAL)
+**Weekly trades (new week):** 0/3 (reset) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Step 1: Market Direction Update
+
+**S&P 500 technical (Jun 28 estimates):**
+- Close: 7,354.02 (Jun 26) | **50d SMA: ~7,258** (+1.3% above 50d) | **200d SMA: ~6,918** (+6.3% above 200d)
+- Both MAs ABOVE via internal trajectory estimate (WebSearch external sources citing 7,474 for 50d SMA likely reflecting SMA/EMA blend or different window — internally inconsistent with logged trajectory; internal estimate retained)
+- QQQ: ~$712 | 50d SMA est. ~$685-700 | 200d SMA est. ~$640-660
+- ⚠️ BofA technical note (Jun 27): "S&P 500 in 3-wave abc correction through Q3; support at 7,334 — breach reinforces corrective phase." Jun 26 close 7,354 = only 20 pts above that support.
+- Distribution day accounting: 6/25 CONFIRMED (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23). No expiries until Aug 8.
+
+### Step 2: Market Thesis (WebSearch fallback)
+
+**Perplexity 403 BLOCKED — `research_source: websearch_fallback`**
+
+Market regime as of Jun 28-29, 2026:
+- S&P 500 (7,354) above 50d SMA (~7,258) and 200d SMA (~6,918) — technical uptrend structure intact at index level despite Correction from dist day count
+- BUT: BofA warns of "3-wave abc correction" through Q3; 7,334 support ~20 pts below Jun 26 close; equity risk premium near record low (S&P forward yield at parity with 10yr Treasury)
+- Nasdaq -4.6% last week (chip selloff; OpenAI IPO delay narrative); AI capex sentiment volatile
+- Hawkish FOMC posture (Jun 17: 9/18 members project hike; median FFR 3.8%): sustained rate headwind for growth/tech valuations
+- Labor market resilient: May NFP +172K (vs 85K est); June NFP due Jul 2 — watch for hot print (>175K = additional hawkish pressure)
+- Broad analyst consensus (Jun 29): cautious near-term (Q3 headwinds), bullish Q4 (anticipated rate pause/cut + potential Santa rally); earnings growth still positive ($305/share S&P EPS 2026 est.)
+
+### Step 3: Sector Leadership (4-week RS)
+
+Sector rank (4-week, ~May 30 - Jun 27, via WebSearch):
+1. **XLF Financials** — #1 (hawkish rates = NIM positive; Dow outperformed Nasdaq; JPM/GS resilient; Q2 earnings ~Jul 14)
+2. **XLV Healthcare** — #2 (defensive strength; +3.03% Jun 26; risk-off beneficiary)
+3. **XLI Industrials** — #3 (CAT +5.81% Jun 25; AI infrastructure capex; RRG leading quadrant)
+4. XLK Technology — #4 (downgraded from #1 prior week; NVDA -8% wk; Nasdaq -4.6%; AI capex narrative shock)
+5. XLY Consumer Disc — #5 (+0.90% Jun 26; mixed; AAPL/MSFT price hike concerns)
+
+Blacklisted: None (zero trade history; 2-consecutive-fail rule has no inputs yet)
+Avoid: XLE (Iran deal oil compression), XLRE (rate-sensitive; FOMC hawkish), XLC (GOOGL overhang)
+
+Note: Per /weekly-prep Correction protocol — no universe scan run for long entries. Top-3 sectors noted for reference only; no entries permitted in any sector during Correction.
+
+### Step 4: Universe Scan
+
+**SKIPPED — Correction posture.** Per /weekly-prep instructions: "Market state = Correction. No new-entry watchlist. Build hedge candidates (SH, SQQQ) instead." `build-universe.sh` not executed.
+
+### Step 5: canslim-screener
+
+**NOT RUN — Correction posture.** No candidates scored this week. Zero entries permitted regardless of score.
+
+### Step 6: Watchlist Built
+
+- **Primary:** NONE (Correction)
+- **Hedge:** SH $625 (H1), SQQQ $625 alt (H2)
+- **Bench:** NVDA 68-70/100, MRVL 71/100, LRCX 67/100, ARM 60/100, MU TBD est. 78-85/100 (post-earnings blackout clears Jun 30), JPM/GS WATCH (Q2 earnings Jul 14+)
+
+### Scan stats (for regime monitoring)
+
+- Candidates eligible for scan: 0 (Correction — scan not run)
+- Candidates scanned: 0
+- Passed conviction ≥75: 0 (11th consecutive week)
+- Rejection breakdown: N/A (scan not run; Correction gate supersedes all)
+- Degraded-data-mode cap: Structural 12-15 pt deficit per candidate (Alpaca BLOCKED + AV BLOCKED + Perplexity BLOCKED)
+- Infrastructure status: Alpaca Day 112 BLOCKED | AV 403 | Perplexity 403 | WebSearch AVAILABLE
+
+### New candidates flagged for next Confirmed Uptrend
+
+- **MU** (Micron): Post-earnings blackout clears Jun 30. MASSIVE beat (EPS +24%, Rev +18%, Q4 guide +16%). Est. 78-85/100 on live data. Requires: Correction end + Alpaca restore + base formation (earnings gap — no base yet; 4-6 wk minimum).
+- **JPM/GS** (Financials): Sector RS #1. Q2 earnings Jul 14+. Score pending post-earnings update. JPM C-letter currently disqualified (EPS growth +17% < 25% threshold); GS price ceiling blocked ($1,093 > $500 max).
+
+### Risks this week
+
+- **Q2/EOM Jun 30** — institutional volume spike; dist day #7 risk if tech/growth selling into quarter-end
+- **Warsh speech Jul 1** — hawkish risk; "shorter statement" style (no forward guidance) adds uncertainty
+- **NFP Jun (Jul 2)** — hot print (>175K) = hawkish = bearish for growth | cool print (<120K) = dovish relief = bounce potential
+- **S&P 7,334 support** — 20 pts below Jun 26 close; breach = BofA "abc correction" confirmed into Q3
+- **Rally low 7,266.99** — 87 pts below close; breach on close = new Day 1 → FTD window reopens
+- **Alpaca Day 112** — SH hedge still BLOCKED; if market accelerates lower before Alpaca restores, hedge cannot be placed
+

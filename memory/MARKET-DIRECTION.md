@@ -6,10 +6,38 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 26 /eod-review 3:15 PM CT: S&P closed 7,354.02 (−0.05%) — NOT a dist day — Nasdaq −0.24%/25,297.62 — 6/25 UNCHANGED CONFIRMED — FTD window CLOSED — Rally low 7,266.99 INTACT (87 pts) — Alpaca Day 111 BLOCKED — 0 positions — NO ACTIONS — S&P/Nasdaq snapped 2-week win streak — weekly: S&P −1.59% / Nasdaq −4.6% — OpenAI IPO delay chip selloff — next week: 4-day holiday week (Jul 4 closed))*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 29 /weekly-prep: S&P last close 7,354.02 Jun 26 — 6/25 dist days confirmed — FTD window CLOSED — Rally low 7,266.99 INTACT (87 pts — CRITICAL) — 50d SMA ~7,258 (+1.3% above) — 200d SMA ~6,918 (+6.3% above) — S&P ABOVE both MAs but thinning — BofA warns 3-wave abc correction through Q3 — support 7,334 (20 pts above close — WATCH) — Alpaca Day 112 BLOCKED — 0 positions — 4-day holiday week Jul 4 closed — NFP Jul 2 (early release))*
 
-**Last updated:** 2026-06-26 (Fri) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P −0.05% 7,354.02 NOT DIST DAY — NASDAQ −0.24% 25,297.62 — 6/25 UNCHANGED CONFIRMED — RALLY LOW 7,266.99 INTACT (87 PTS) — ALPACA DAY 111 BLOCKED — 2-WEEK WIN STREAK SNAPPED**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23; May 15 expired Jun 22; May 19 expired Jun 23) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 below 7,266.99) | Rally attempt INTACT (S&P 7,354.02 >> 7,266.99 low; ~87 pts margin — thinning: 90.5 pts Jun 25 → 87 pts Jun 26)
+**Last updated:** 2026-06-29 (Sun) — `/weekly-prep` 4:00 PM CT — **🔴 CORRECTION UNCHANGED — 6/25 DIST DAYS — FTD WINDOW CLOSED — RALLY LOW 7,266.99 INTACT (87 PTS CRITICAL) — 50d SMA ~7,258 — 200d SMA ~6,918 — ALPACA DAY 112 BLOCKED — 4-DAY HOLIDAY WEEK — NFP JUL 2**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,354.02 vs low 7,266.99 = 87 pts margin — thinning)
+
+**Technical picture (Jun 28 weekend estimates):**
+- **S&P 500:** 7,354.02 (Jun 26 close) | **50d SMA ~7,258** (+1.3% above; up from ~7,248 Jun 18) | **200d SMA ~6,918** (+6.3% above; up from ~6,882 Jun 18) | ABOVE both MAs ✅ but margin shrinking
+- **QQQ:** $712.18 (Jun 26 close) | 50d SMA est. ~$685-700 | 200d SMA est. ~$640-660 | Above both MAs ✅
+- **⚠️ CRITICAL SUPPORT: 7,334** (BofA wave-4 low per technical analysis; S&P only 20 pts above Jun 26 close) — break below reinforces deeper Correction into Q3
+- **⚠️ RALLY LOW: 7,266.99** (Jun 10 intraday) — breach on a close = new Day 1 → FTD window reopens Day 4-7 (earliest Jul 2 if breach Mon Jun 30)
+- **Distribution day expiry path:** Jun 3 → Aug 8 → 5/25 | Jun 5 → Aug 10 → 4/25 | Jun 9 → Aug 12 → 3/25 | Jun 10 → Aug 13 → 2/25 | Jun 17 → Aug 22 → 1/25 | Jun 23 → Sep 24 → 0/25 | **NO STATE RECOVERY without FTD regardless of expiry**
+
+**Week of Jun 30 - Jul 3 (4-day holiday week; Jul 4 closed) key risks:**
+1. **Mon Jun 30 — Q2/EOM rebalancing** — elevated institutional volume; risk of dist day if tech/growth sold into quarter-end (S&P -0.4%+ on vol would be dist day #7)
+2. **Wed Jul 1 — Fed Chair Warsh speaks 9:30 AM ET** in Portugal — hawkish risk; any rate-hike signal = immediate dist day candidate
+3. **Thu Jul 2 — NFP June jobs report 8:30 AM ET** (released early; market closes early Fri Jul 3) — May NFP: +172K vs 85K est. Hot June print (>175K) = hawkish = further growth selloff risk; Cool print (<120K) = dovish = potential bounce
+4. **Fri Jul 3 — Half-day market close 1 PM ET** — thin liquidity; low-conviction moves; not counted for FTD volume threshold
+
+**Sector RS leaders (4-week, May 30 - Jun 27, Correction posture):**
+1. **XLF Financials** — best RS; Dow +0.2% on week while Nasdaq −4.6%; hawkish rates positive for NIM; JPM/GS resilient; Q2 earnings begin ~Jul 14
+2. **XLV Healthcare** — defensive strength; gaining in risk-off; +3.03% Jun 26; no AI-demand sensitivity
+3. **XLI Industrials** — CAT +5.81% Jun 25; RRG leading quadrant; AI infrastructure capex cycle intact despite narrative volatility
+**Avoid:** XLK (NVDA -8% wk; AI capex uncertainty; Nasdaq -4.6%), XLE (Iran deal oil compression), XLRE (rate-sensitive; FOMC hawkish), XLC (GOOGL overhang)
+
+**Bench status (Jun 29 estimates):**
+- NVDA: ~$191-196 | **68-70/100 ⬇️** | Cup wk 17 under pressure from -8% wk; no handle; Aug 2026+ | Triple headwind: B200 GPU lease $6→$4/hr + insider $410M + OpenAI IPO delay
+- MRVL: ~$267 | **71/100 UNCHANGED** | No base; CFO selling concern (I-letter 6/10); 3-5+ wks needed for base formation
+- LRCX: est. weak | **67/100 UNCHANGED** | Chip selloff ongoing; no base
+- ARM: est. weak | **60/100 UNCHANGED** | GAAP C-letter fails; 67× fwd P/S
+
+**Hedge status:** SH $625 (25% portfolio) QUEUED since Jun 5 — Alpaca Day 112 BLOCKED. Execute as FIRST order on Alpaca restore.
+**Open positions: 0 | Equity: $2,500 (HWM) | Weekly trades: 0/3 | research_source: websearch_fallback | Alpaca Day 112 BLOCKED**
 **Distribution days: 7/25** (May 15, May 19, Jun 3, Jun 5, Jun 9, Jun 10, **Jun 17 — FOMC hawkish dot plot**) | Jun 16: −0.08% → NOT dist day ✅ | Jun 17: −1.21% → **DIST DAY #7** ✅ | **Jun 18: +1.15% → NOT dist day ✅**
 **Technical picture (Jun 18 close):** S&P **7,500.58 CONFIRMED** (+1.15%) | 50d MA ~7,248 | **+3.48% above 50d** | 200d MA ~6,882 | **+8.84% above 200d** | QQQ **$739.36 CONFIRMED** (+1.5%) | Both above 50d = structural uptrend intact; Correction active
 **Rally attempt:** ⚠️ **Day 6 FAILED — NOT FTD** | Rally low: **7,266.99 (Jun 10)** | Jun 18 close 7,500.58 → 234 pts ABOVE rally low ✅ (rally attempt INTACT) | **FTD window: Day 7 = Jun 22 (Mon — LAST; Jun 19 Juneteenth CLOSED; Jun 20–21 weekend)** | FTD threshold Jun 22: **7,594 CORRECTED** (7,500.58 × 1.0125; corrects prior ~7,598 estimate) | **FTD probability: LOW-MODERATE (25-35%)** (Iran deal bullish but partially priced; hawkish Fed headwind; holiday futures declined)
