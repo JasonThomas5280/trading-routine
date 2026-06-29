@@ -11770,3 +11770,87 @@ All names: ⛔ Correction gate blocks ALL entries regardless of zone status.
 **FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (hedge QUEUED since Jun 5).
 
 **Watch trigger:** S&P close below 7,266.99 today = new Day 1 → FTD window opens Day 4-7 (~Jul 7-10). If Day 1 fires today + Alpaca restores + ≥1 name reaches ≥75 on FTD: first re-entry opportunity next week.
+
+---
+
+## 2026-06-30 /market-check 10:00 AM CT
+
+**research_source:** websearch_fallback | Alpaca Day 114 BLOCKED (HTTP 000) | Perplexity 403 | AV 403 | WebSearch AVAILABLE
+
+---
+
+### Abort Gate Check
+
+| Gate | Status |
+|---|---|
+| Market direction | ⛔ FIRED — 🔴 Correction (6/25 dist days). NO new long entries. |
+| Research available | ✅ CLEAR — websearch_fallback active (Perplexity 403, not DEGRADED) |
+| Daily circuit breaker | ✅ CLEAR — $0 P&L, 0 positions |
+| Weekly circuit breaker | ✅ CLEAR — new week, 0/3 trades |
+| Drawdown halt | ✅ CLEAR — $2,500 equity = HWM |
+| Weekly trade count | ✅ CLEAR — 0/3 (new week) |
+| Position count | ✅ CLEAR — 0 positions |
+| Cash buffer | ✅ CLEAR — 100% cash |
+
+**Result: ABORT — Correction gate fires. Zero trades. Skip to summary.**
+
+---
+
+### Step 2: Overnight Gap Follow-Up
+
+**0 open positions — SKIPPED.**
+
+---
+
+### Step 3: Watchlist Trigger Loop
+
+**Primary watchlist: NONE** (Correction posture; 0 candidates ≥75).
+Nothing to evaluate. SKIPPED.
+
+---
+
+### Step 4: Mid-Morning Position Health Check
+
+**0 open positions — sell-rules-engine SKIPPED.** No Rule 1 / Rule 3 intraday triggers possible.
+
+---
+
+### Step 5: Bench Promotion Check
+
+| Symbol | Est. Price | Distance to Pivot | Status |
+|---|---|---|---|
+| NVDA | ~$191-196 (no Alpaca data) | No valid pivot (cup wk 17; no handle) | 🔴 NOT ACTIONABLE — no base |
+| MRVL | ~$267 est. | ~$279-285 zone = −5% below | 🔴 NOT ACTIONABLE — below threshold; no new base |
+| LRCX | ~$350-370 est. | No valid pivot | 🔴 NOT ACTIONABLE — score 67/100 < 75 |
+| ARM | ~$375-385 est. | No valid pivot | 🔴 NOT ACTIONABLE — score 60/100 < 75 |
+
+**Promotion decisions:** NONE. No bench name within 2% of pivot. No deterioration detected (no Alpaca data; estimated prices from pre-market). WATCHLIST unchanged.
+
+---
+
+### Step 6: Macro / Market Intelligence (websearch_fallback)
+
+**ISM / S&P Global Manufacturing PMI June 2026:** 55.7 (above est. 54.8, up from 55.1 May) — highest since May 2022. Expansionary. Positive macro signal. However: exports −11th consecutive month (geopolitical/tariffs); input/output prices +fastest in ~4 years; business confidence 4-month low. Net assessment: manufacturing strong but price pressure building = higher-for-longer risk intact.
+
+**Q2/EOM dynamics:** Institutional quarter-end rebalancing selling growth/tech into close. Pension funds must sell outperformers (tech) and buy underperformers (defensives). Distribution day #7 risk elevated if S&P −0.4%+ on above-avg volume. Key level to hold: 7,266.99 (rally low). Break below = new Day 1 → FTD window Jul 7-10.
+
+**Consumer Confidence + JOLTS:** Released today; data not yet available at 10 AM CT. Will update at /eod-review if material.
+
+**S&P 500 level estimate:** Prior close 7,354.02 (Jun 26). Web sources conflicting — one citing 7,306 (below 50d SMA) may be stale/different source. Using 7,354.02 as baseline. 50d SMA: ~7,258 per internal model.
+
+**Tech / AI bid:** Reports of +2% tech/AI names in prior session + ISM beat support upside bias. MRVL pre-market estimates vary ($265-279 range, conflicting sources). Cannot confirm without Alpaca.
+
+**SH hedge status:** Still QUEUED since Jun 5 (Day 57). Execution blocked by Alpaca outage. Priority #1 on Alpaca restore.
+
+---
+
+### Summary
+
+- **Actions taken:** NONE
+- **Reason:** Correction gate (6/25 dist) + Alpaca BLOCKED (Day 114)
+- **Market state:** 🔴 Correction UNCHANGED
+- **Bench scores:** NVDA 68-70 | MRVL 71 | LRCX 67 | ARM 60 — all below 75
+- **Next critical event:** EOD close today — watch S&P vs 7,266.99 (Day 1 trigger) + dist day #7 risk
+- **Next watch (this week):** Wed Jul 1 Fed Chair Warsh speech (hawkish risk) | Thu Jul 2 NFP June (consensus 172K)
+- **Next routine:** /eod-review 3:15 PM CT
+

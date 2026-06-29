@@ -3470,3 +3470,22 @@ ARM earnings CONFIRMED Jul 29 — blackout begins ~Jul 22 (same as LRCX)
 Key catalyst today: Q2/EOM rebalancing — dist day #7 risk (-0.4%+ on volume = 7/25). ISM Mfg + JOLTS. NKE earnings tonight.
 WATCH: if S&P closes below 7,266.99 = NEW DAY 1 — FTD window reopens Jul 7-10
 Plan: NO ENTRIES. SH 25 QUEUED (first on Alpaca restore). Monitor rally low 7,266.99.
+
+---
+
+## 📈 Market-Check 2026-06-30 10:00 AM CT
+
+**Market:** 🔴 Correction (6/25 dist) | **Circuit breakers:** NONE
+**Actions taken:**
+- No new entries — gate: Correction (6/25 dist days) + Alpaca Day 114 BLOCKED
+
+**Key data (websearch_fallback):**
+- ISM/S&P Global Mfg PMI June 2026: **55.7** (beat 54.8; up from 55.1) — bullish but higher-for-longer risk
+- Q2/EOM dist day #7 risk ongoing — watch EOD close vs 7,266.99 (Day 1 threshold)
+- SH $625 hedge: still QUEUED (Alpaca blocked Day 57 since Jun 5)
+
+**Watchlist:** 0 ready | 4 watching | 0 removed
+**Open positions:** 0 (0% deployed)
+**Weekly trade count:** 0/3 (new week)
+**Next check:** /eod-review 3:15 PM CT | **Critical today:** S&P EOD vs 7,266.99
+
