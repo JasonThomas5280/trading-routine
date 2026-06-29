@@ -11854,3 +11854,125 @@ Nothing to evaluate. SKIPPED.
 - **Next watch (this week):** Wed Jul 1 Fed Chair Warsh speech (hawkish risk) | Thu Jul 2 NFP June (consensus 172K)
 - **Next routine:** /eod-review 3:15 PM CT
 
+
+---
+
+## 2026-06-29 (Mon) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P +0.86% 7,417.45 NOT DIST DAY — QQQ +2.05% $721.02 — DOW 52K FIRST EVER (GOOGL JOINS) — TSLA +8.06% — LRCX +6.62% CANTOR $500 — MRVL −4.97% ⚠️ — RALLY LOW 7,266.99 INTACT (150 PTS) — ALPACA DAY 112 BLOCKED — 0 POSITIONS — NO ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 112 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (150 pts — buffer restored)
+**Weekly trades:** 0/3 (new week) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+⚠️ **DATE NOTE:** Prior entries in this log labeled "2026-06-30 /pre-market" and "2026-06-30 /market-check" (Alpaca Day 113/114) were written by routine sessions that incorrectly identified today's date as Jun 30. Today is Jun 29 (confirmed by search data showing markets were live "today is June 29, 2026"). Consistent with documented date errors on Jun 8 and elsewhere. Past entries not edited per policy.
+
+---
+
+### Step 1: Market State Pull (websearch_fallback)
+
+**S&P 500 Jun 29 close (est.):** 7,417.45 (+0.86% from 7,354.02 Jun 26 close)
+**Nasdaq Composite Jun 29:** 25,680.46 (+1.51%)
+**QQQ Jun 29:** $721.02 (+2.05% from ~$712.18 Jun 26 est.)
+**Dow Jun 29:** ~52,000+ (first-ever close above 52K; GOOGL joined Dow Index effective today)
+
+**Distribution day check (Jun 29):**
+- S&P 500: +0.86% → **ABOVE +0% threshold — NOT a distribution day** ✅
+- Nasdaq: +1.51% → NOT a distribution day ✅
+- **Dist count: 6/25 UNCHANGED** ✅ | Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23
+
+**Follow-Through Day check:**
+- FTD window: **CLOSED** (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99)
+- Today's +0.86% is BELOW +1.25% FTD threshold even if window were open
+- **NO FTD TRIGGERED** ✅
+
+**State transition:** NONE
+- 🔴 Market in Correction — **UNCHANGED**
+
+**Rally attempt:** S&P 7,417.45 vs low 7,266.99 → margin **150 pts (+2.07%)** → **INTACT** ✅
+- Buffer RESTORED from 87 pts (Jun 26) → 150 pts (Jun 29); comfortable margin now
+
+---
+
+### Step 2: sell-rules-engine
+
+**Open positions: 0 — SKIPPED** ✅
+
+---
+
+### Step 3: Execute verdicts
+
+**SKIPPED — 0 positions** ✅
+
+---
+
+### Step 4: Portfolio-level checks
+
+**Distribution cluster check:** 6/25 — threshold not changed, no new actions required ✅
+**Hedge entry check:** Correction state ACTIVE, UNCHANGED → SH $625 QUEUED (unchanged, Alpaca Day 112 BLOCKED) ✅
+**Follow-through day exit check:** N/A (Correction active; no hedge currently held) ✅
+
+---
+
+### Step 5: Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% account loss | ✅ CLEAR — $0 P&L (0 positions) |
+| Weekly −6% account loss | ✅ CLEAR — $0 week P&L (new week Mon Jun 29) |
+| Drawdown −12% from HWM | ✅ CLEAR — Equity $2,500 = HWM |
+| PDT count | ✅ CLEAR — 0 of 3 rolling |
+| Alpaca API | ⚠️ BLOCKED Day 112 (403 proxy) — no execution possible |
+
+**No circuit breakers active (excluding infrastructure block).**
+**Today P&L:** $0 | **Week P&L:** $0 | **Equity:** $2,500 (HWM)
+
+---
+
+### Step 6: Weekly trade counter refresh
+
+**Week of Jun 29:** 0/3 (new week — reset today). No new positions opened today. ✅
+
+---
+
+### Step 7: Key market intelligence (Jun 29)
+
+| Event | Detail | Impact |
+|---|---|---|
+| GOOGL joins Dow | First day in blue-chip index; GOOGL +4.62% | Bullish AI/tech signal |
+| Dow 52,000 | First-ever close above 52K | Headline milestone; sentiment positive |
+| TSLA +8.06% | Mag7 leader Jun 29 | Broad Mag7 bid; sentiment |
+| Supreme Court: Cook stays | Fed Gov. Lisa Cook remains; independence intact | Removes Fed uncertainty; market positive |
+| LRCX +6.62% | Cantor Fitzgerald raises target $425→$500 (Buy) | Strongest bench mover; score ~70-71 ⬆️ |
+| MRVL −4.97% | $265.84→$252.62 vs S&P +0.86% | ⚠️ Severe RS underperformance; score ~67-68 ⬇️ |
+| ARM −3.87% | $334 level; underperformed market | Score 60/100 UNCHANGED |
+| NVDA +0.98% | Below-market participation in tech rally | Score 68-70/100 UNCHANGED |
+| NFP Thu Jul 2 | June jobs report 8:30 AM ET (early; Jul 4 holiday) | Consensus ~172K; hot>175K=hawkish risk; cool<120K=relief |
+| Warsh Wed Jul 1 | Fed Chair speaks at Sintra ECB Forum 9:30 AM ET | Hawkish risk; any hike signal = dist day candidate |
+
+---
+
+### Step 8: EOD Summary
+
+**Close:** S&P 7,417.45 (+0.86%) | QQQ $721.02 (+2.05%) | Nasdaq 25,680.46 (+1.51%) | Dow 52,000+ (first-ever)
+**Distribution days:** 6/25 UNCHANGED (Jun 29: NOT dist day ✅) | Correction state UNCHANGED
+**Market state:** 🔴 Market in Correction | UNCHANGED | Rally low INTACT (150 pts)
+**Positions held:** 0
+**Actions today:**
+  - NONE (Correction + Alpaca Day 112 BLOCKED + 0 positions)
+**Circuit breakers:** NONE triggered (ALL CLEAR)
+**P&L today:** $0 | **P&L week:** $0
+**Equity:** $2,500.00 (HWM)
+
+**Bench Jun 29:**
+  - NVDA: ~$194-198 (+0.98%) | 68-70/100 UNCHANGED | Modest participation; Aug 2026+
+  - MRVL: ~$252.62 (−4.97%) | **67-68/100 ⬇️** from 71 | ⚠️ RS deterioration — underperforming broad market on up day
+  - LRCX: +6.62% (Cantor $500 target) | **70-71/100 ⬆️** from 67 | Still below 75 threshold
+  - ARM: ~$334 (−3.87%) | 60/100 UNCHANGED | Below threshold
+
+**Tomorrow (Jun 30 — Q2/EOM HIGH RISK):**
+  - ⚠️ Q2/EOM institutional rebalancing → pension/SWF selling growth/tech → dist day #7 risk
+  - Watch: S&P close vs 7,266.99 (rally low) and 7,258 (50d SMA)
+  - MRVL continued weakness → RS rank drops
+  - Alpaca Day 113 restore check → SH $625 first order if restored
+  - LRCX scoring opportunity if above-market day continues
+
+**Next routine:** /pre-market 6:00 AM CT June 30 | `research_source: websearch_fallback`

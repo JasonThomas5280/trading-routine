@@ -3489,3 +3489,17 @@ Plan: NO ENTRIES. SH 25 QUEUED (first on Alpaca restore). Monitor rally low 7,26
 **Weekly trade count:** 0/3 (new week)
 **Next check:** /eod-review 3:15 PM CT | **Critical today:** S&P EOD vs 7,266.99
 
+
+---
+## 2026-06-29 20:26 CT [clickup-placeholder]
+
+📊 EOD 2026-06-29 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash | Dist: 6/25 UNCHANGED | 🔴 CORRECTION
+Actions: NONE (Correction + Alpaca Day 112 BLOCKED)
+
+S&P 7,417.45 (+0.86%) | QQQ $721.02 (+2.05%) | Dow 52K first-ever (GOOGL joins Dow)
+NOT dist day ✅ | Rally low 7,266.99 INTACT 150 pts (restored from 87) | FTD window CLOSED
+
+Bench: LRCX +6.62% Cantor $500 ⬆️ 70-71 | NVDA +0.98% 68-70 | MRVL -4.97% ⚠️ RS WARN 67-68⬇️ | ARM -3.87% 60 — all <75
+
+Tomorrow (Jun 30 Q2/EOM ⚠️): dist day #7 risk on quarter-end rebalancing | Warsh Jul 1 hawkish | NFP Jul 2 (172K est.) | Rally low 7,266.99 = line in sand | SH $625 QUEUED Day 113 restore check
