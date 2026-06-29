@@ -11655,3 +11655,118 @@ Note: Per /weekly-prep Correction protocol — no universe scan run for long ent
 - **Rally low 7,266.99** — 87 pts below close; breach on close = new Day 1 → FTD window reopens
 - **Alpaca Day 112** — SH hedge still BLOCKED; if market accelerates lower before Alpaca restores, hedge cannot be placed
 
+
+---
+
+## 2026-06-30 /pre-market 6:00 AM CT
+
+**research_source:** websearch_fallback | Alpaca Day 113 BLOCKED (403) | Perplexity 403 | AV 403 | WebSearch AVAILABLE
+
+---
+
+### Step 1: Overnight Gap Check
+
+**Open positions: 0 — SKIPPED**
+
+---
+
+### Step 2: Overnight Market Check
+
+**Futures (overnight Jun 29→Jun 30):**
+- ES (S&P): ~−0.12% | NQ (Nasdaq): ~−1.19% — modest weakness; NQ underperforming; tech/chip pressure
+- S&P 500 Jun 26 close: 7,354.02 | Rally low 7,266.99 (87 pts / ~1.2% — CRITICAL)
+- 50d SMA ~7,258 (S&P only 96 pts above); 200d SMA ~6,918
+
+**Market state: 🔴 Correction UNCHANGED (6/25 dist days)**
+
+**Today Jun 30 — Q2/EOM risk day:**
+- ⚠️ Institutional quarter-end rebalancing → growth/tech selling elevated; funds trimming equity exposure into Q2 close
+- Dist Day #7 risk: if S&P −0.4%+ on above-avg volume today → 7/25 → Correction deepens
+- Economic data today: ISM Manufacturing (Jul 1 actual — today=Mon; ISM Jun 30), Consumer Confidence, JOLTS job openings
+- NKE earnings tonight (XLY read)
+- If S&P closes below 7,266.99 → **NEW DAY 1** → FTD window reopens Day 4-7 (~Jul 7-10)
+
+**Week calendar (pre-loaded):**
+- ⚠️ Mon Jun 30: Q2/EOM dist day #7 risk | ISM Manufacturing | Consumer Confidence | JOLTS
+- ⚠️ Wed Jul 1: Fed Chair Warsh speaks 9:30 AM ET (Sintra) — hawkish risk
+- ⚠️ Thu Jul 2: 🎯 NFP June (8:30 AM ET, released early for Jul 4) — consensus ~172K. Hot >175K = bearish/hawkish. Cool <120K = dovish relief.
+- Fri Jul 3: Half-day (1 PM ET). Low vol. No FTD count (holiday session).
+- Mon Jul 7: Markets reopen. Earliest possible FTD window if Day 1 fires today (Jun 30).
+
+---
+
+### Step 3: Catalyst Scan — Open Positions
+
+**NONE — 0 open positions.**
+
+---
+
+### Step 4: Catalyst Scan — Bench Names
+
+**NVDA (~$191-196):**
+- No new overnight catalyst. Triple headwind unchanged: (1) B200 GPU lease prices $6.11→$4.22/hr; (2) insider selling $410.6M past 3 months; (3) OpenAI IPO delay AI demand uncertainty.
+- NQ -1.19% overnight puts pressure on semis at open.
+- Score: 68-70/100 UNCHANGED. Cup wk 17 intact; no handle; Aug 2026+ timeline.
+
+**MRVL (~$267):**
+- Jensen Huang "next trillion-dollar company" (Computex Jun 2) — OLD catalyst, already priced into prior rally to $301.65 ATH Jun 4. No new overnight catalyst.
+- MRVL now in S&P 500 (effective Jun 22 rebalancing). Institutional forced-buying already absorbed.
+- Current ~$267 = -11.4% below $301 ATH. Needs new base formation (3-5 weeks minimum).
+- Score: 71/100 UNCHANGED. CFO transition orderly. I-letter 6/10.
+
+**LRCX (~$350-370 est.):**
+- No new overnight catalyst. BofA $480 / WF $450 targets already known.
+- ⚠️ Earnings Jul 29 — blackout begins ~Jul 22 (5 trading days prior). Entry window: NOW through ~Jul 18.
+- Score: 67/100 UNCHANGED. Below threshold. Not actionable regardless of Correction state.
+
+**ARM (~$375-385 est.):**
+- No new overnight catalyst.
+- ⚠️ Earnings Jul 29 CONFIRMED (same as LRCX). Blackout begins ~Jul 22.
+- Score: 60/100 UNCHANGED. Below threshold. Not actionable.
+
+**MU ($1,132.33 Jun 26 close; predicted $1,150.80 Jun 29):**
+- ⛔ BLOCKED — PRICE CEILING BREACH. MU at $1,132/share exceeds $500 max per TRADING-STRATEGY.md liquidity rule. Cannot trade regardless of conviction score.
+- Post-earnings gap +15% (CNBC Jun 25): stock soared to $1,213.56 ATH Jun 25, pulled back -6.69% to $1,132.33 Jun 26.
+- Earnings thesis intact (AI memory demand fully validated: EPS $25.11 vs $20.20; Rev $41.46B vs $35.25B; Q4 guide $50B). But price ceiling blocks us permanently at current levels. No realistic path to <$500.
+- **ACTION: Remove MU from bench consideration. Log as BLOCKED-PRICE-CEILING.**
+
+**JPM / GS:**
+- Q2 earnings Jul 14+. Monitor post-earnings for score update. JPM C-letter still disqualified (<25% EPS growth). GS >$500 ceiling. Status unchanged.
+
+---
+
+### Step 5: Buy-Zone Status
+
+| Symbol | Est. Price | Pivot / Zone | Distance | Pre-market Status |
+|---|---|---|---|---|
+| NVDA | ~$191-196 | No valid pivot (no handle) | N/A | 🔴 NOT ACTIONABLE — no base |
+| MRVL | ~$267 | ~$279-285 (prior rejection) | -5% below zone | 🔴 NOT ACTIONABLE — no base, Correction |
+| LRCX | ~$350-370 | No valid pivot (no base) | N/A | 🔴 NOT ACTIONABLE — below threshold |
+| ARM | ~$375-385 | No valid pivot | N/A | 🔴 NOT ACTIONABLE — below threshold |
+| MU | $1,132 | N/A | N/A | ⛔ BLOCKED — PRICE CEILING ($1,132 > $500 max) |
+
+All names: ⛔ Correction gate blocks ALL entries regardless of zone status.
+
+---
+
+### Step 6: Circuit Breaker Check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | CLEAR (0 positions; $0 P&L) |
+| Weekly -6% | CLEAR (0 positions; $0 P&L) |
+| Drawdown -12% | CLEAR (equity $2,500 = HWM) |
+| PDT count | CLEAR (0 of 3) |
+| Alpaca API | ⚠️ BLOCKED Day 113 — no execution possible |
+
+**No circuit breakers active (excluding Alpaca infrastructure block).**
+
+---
+
+### Step 7: Entry Plan
+
+**⛔ ZERO new entries** — Correction (6/25 dist) + Alpaca Day 113 BLOCKED + 0 candidates ≥75.
+
+**FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (hedge QUEUED since Jun 5).
+
+**Watch trigger:** S&P close below 7,266.99 today = new Day 1 → FTD window opens Day 4-7 (~Jul 7-10). If Day 1 fires today + Alpaca restores + ≥1 name reaches ≥75 on FTD: first re-entry opportunity next week.

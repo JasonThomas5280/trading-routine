@@ -3456,3 +3456,17 @@ Calendar: Q2/EOM Jun 30 (vol spike) | Warsh speech Jul 1 | NFP Jun Jul 2 (HOT=be
 Entry plan Mon: NONE. Watch S&P vs 7,334 (dist day #7 risk). SH first on Alpaca restore.
 FTD path: breach 7,266.99 on close = new Day 1 → FTD window Day 4-7 (earliest Jul 7-10)
 Infra: Alpaca Day 112 / AV / Perplexity ALL BLOCKED. research_source: websearch_fallback
+
+---
+## 2026-06-29 11:08 CT [clickup-placeholder]
+
+Pre-market 2026-06-30 Q2/EOM Day
+Market: Correction (6/25 dist) | Futures: ES -0.12% NQ -1.19% (weak open)
+Open positions: 0 | Circuit breakers: NONE | Alpaca: Day 113 BLOCKED | research_source: websearch_fallback
+Overnight gaps: NONE (0 positions)
+MU REMOVED: price 132 > 00 ceiling — BLOCKED permanently regardless of score
+Watchlist ready: NONE | Watching: NVDA 68-70 / MRVL 71 / LRCX 67 / ARM 60 (all below 75; Correction)
+ARM earnings CONFIRMED Jul 29 — blackout begins ~Jul 22 (same as LRCX)
+Key catalyst today: Q2/EOM rebalancing — dist day #7 risk (-0.4%+ on volume = 7/25). ISM Mfg + JOLTS. NKE earnings tonight.
+WATCH: if S&P closes below 7,266.99 = NEW DAY 1 — FTD window reopens Jul 7-10
+Plan: NO ENTRIES. SH 25 QUEUED (first on Alpaca restore). Monitor rally low 7,266.99.
