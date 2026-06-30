@@ -12107,3 +12107,90 @@ ALL names: ⛔ Correction gate blocks ALL long entries regardless of zone. SH $6
 
 `research_source: websearch_fallback` | Alpaca Day 114 BLOCKED | Perplexity 403 | AV 403
 
+---
+
+## 2026-06-30 /market-check 10:00 AM CT [ACTUAL JUN 30 — Q2/EOM — LIVE WEBSEARCH DATA]
+
+`research_source: websearch_fallback` | Alpaca Day 114 BLOCKED (403) | Perplexity 403 | AV 403 | WebSearch AVAILABLE
+
+---
+
+### Step 1: Abort Gate Check
+
+| Gate | Status | Detail |
+|---|---|---|
+| Market state | ❌ **HIT — 🔴 Correction (6/25 dist days)** | NO NEW LONG ENTRIES |
+| Research DEGRADED | ✅ CLEAR | `websearch_fallback` functional |
+| Daily CB −3% | ✅ CLEAR | $0 P&L, 0 positions |
+| Weekly CB −6% | ✅ CLEAR | 0/3 trades, $0 P&L |
+| Drawdown −12% | ✅ CLEAR | $2,500 equity = HWM |
+| Weekly trade count | ✅ CLEAR | 0/3 |
+| Position count | ✅ CLEAR | 0/4 |
+| Cash buffer | ✅ CLEAR | 100% cash |
+
+**GATE 1 TRIGGERED: Market in Correction → NO NEW LONG ENTRIES.** Skip to bench check + EOD summary.
+
+Exception: Inverse ETF (SH $625 QUEUED) — cannot execute, Alpaca Day 114 BLOCKED.
+
+---
+
+### Step 2: Overnight Gap Follow-Up
+
+**0 open positions — SKIPPED.** ✅
+
+---
+
+### Step 3: Watchlist Triggers
+
+**0 primary watchlist items (Correction posture — no 🟢 READY candidates).** SKIPPED. ✅
+
+---
+
+### Step 4: Intraday Position Health Check
+
+**0 open positions — sell-rules-engine SKIPPED.** ✅
+
+---
+
+### Step 5: Bench Promotion / Demotion Check (10 AM CT live data)
+
+**Intraday market conditions (Jun 30, 10 AM CT — websearch_fallback):**
+- S&P 500: ~+0.03% (~7,419 est.) | Nasdaq: ~+0.29% | Dow: ~−0.24%
+- ISM Mfg PMI Jun 55.7 BEAT (confirmed) | Consumer Confidence today | JOLTS today
+- Q2/EOM dist day #7 risk: S&P +0.03% — FAR above −0.20% threshold → NOT a dist day at 10 AM ✅
+- Rally low 7,266.99 INTACT (~152 pts buffer — not at risk intraday) ✅
+- 50d SMA ~7,258 | S&P ~159+ pts above — cushion intact ✅
+
+| Rank | Symbol | Score | Price Jun 30 | Pivot | Within 2% of pivot? | Action |
+|---|---|---|---|---|---|---|
+| B1 | NVDA | 68-70/100 ⬇️ | $194.97 | None (no handle; cup wk 18) | N/A — no pivot | No change |
+| B2 | MRVL | 71/100 | ~$266-273 (off pre-mkt highs of $272-278) | None (no base; recovering) | N/A | No change |
+| B3 | LRCX | 72-74/100 ⬆️ | ~$414-415 (+4.98% today) | None (no base; multiple legs up) | N/A | No change — CLOSEST to threshold but below 75 |
+| B4 | ARM | 60/100 | est. ~$320-334 | None (no pivot) | N/A | No change |
+
+**LRCX note:** +4.98% today (continuing from +6.62% Jun 29). Score est. 72-74/100 — approaching threshold but still 1-3 pts short; no base = no valid pivot = not promotable regardless. Earnings blackout begins ~Jul 22. Entry window through ~Jul 18 ONLY if base forms + score ≥75 + FTD.
+
+**MRVL note:** Pre-market bounce $272-278 (+8-10%) from $252.62 Jun 29 close; appears to have moderated to $266-273 area intraday. RS recovering from severe -4.97% underperformance Jun 29. Score 71/100 unchanged — needs 3-5 wk base formation.
+
+**Promotions:** NONE | **Demotions:** NONE | **Removals:** NONE
+
+---
+
+### Step 6: EOD Summary
+
+**State (10 AM CT snapshot):**
+- **Market:** 🔴 Correction UNCHANGED | 6/25 dist days | FTD window CLOSED | Rally low INTACT
+- **S&P 500:** ~+0.03% intraday (~7,419) | NOT a distribution day | Q2/EOM risk NOT triggered at 10 AM
+- **Actions:** NONE | **Positions:** 0 | **Weekly trades:** 0/3
+- **Alpaca Day 114 BLOCKED** — SH $625 hedge QUEUED, cannot execute
+- **Circuit breakers:** ALL CLEAR
+
+**Watch for /eod-review (3:15 PM CT):**
+- Final dist day #7 determination: S&P must stay above −0.20% OR volume below avg to avoid triggering
+- If S&P closes BELOW 7,266.99 → **NEW DAY 1** → FTD window reopens Day 4-7 (~Jul 7-10)
+- NKE earnings tonight (AMC) — consumer spending / retail proxy
+- Warsh speaks Wed Jul 1 (9:30 AM ET, Sintra) — hawkish risk
+- NFP Thu Jul 2 (8:30 AM ET) — consensus 172K; hot print = additional dist risk
+
+`research_source: websearch_fallback` | Alpaca Day 114 BLOCKED | Perplexity 403 | AV 403
+

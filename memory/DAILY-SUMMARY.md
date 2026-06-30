@@ -1,5 +1,23 @@
 
 ---
+## 2026-06-30 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — S&P +0.03% NOT DIST DAY — Q2/EOM RISK NOT TRIGGERED — 6/25 UNCHANGED — LRCX +4.98% SCORE 72-74 — ALPACA DAY 114 BLOCKED — NO TRADES]
+
+📈 Market-check 2026-06-30 10:00 CT
+Market: 🔴 Correction | Circuit breakers: NONE
+Actions taken:
+  No new entries — Correction gate active (6/25 dist days); Alpaca Day 114 BLOCKED
+  No sells — 0 open positions
+  SH $625 hedge QUEUED (Correction protocol — cannot execute; Alpaca BLOCKED Day 114)
+S&P 500: ~+0.03% intraday (~7,419) — NOT a dist day | Q2/EOM dist #7 risk NOT triggered at 10 AM
+Dist days: 6/25 UNCHANGED | FTD window: CLOSED | Rally low 7,266.99 INTACT (~152 pts)
+ISM Mfg PMI Jun: 55.7 BEAT (expansionary, confirmed)
+Bench: NVDA 68-70/$195 | MRVL 71/$266-273 (RS recovering) | LRCX 72-74/$415 +4.98% ⬆️ | ARM 60/~$327
+Zero ≥75 — No promotions | No demotions
+Open positions: 0 | Cash deployed: 0% | Weekly trades: 0/3
+Watch /eod-review: final dist day #7 gate | NKE earnings tonight | Warsh Jul 1 | NFP Jul 2
+Next check: /eod-review 3:15 PM CT
+
+---
 ## 2026-06-25 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — S&P +0.52% NOT DIST DAY — PCE 4.1%/3.4% DIGESTED — 6/25 UNCHANGED — ALPACA DAY 110 BLOCKED — NO TRADES]
 
 📈 Market-check 2026-06-25 10:00 CT
