@@ -11976,3 +11976,134 @@ Nothing to evaluate. SKIPPED.
   - LRCX scoring opportunity if above-market day continues
 
 **Next routine:** /pre-market 6:00 AM CT June 30 | `research_source: websearch_fallback`
+
+---
+
+## 2026-06-30 /pre-market 6:00 AM CT [ACTUAL JUN 30 — LIVE WEBSEARCH DATA]
+
+**research_source:** websearch_fallback | Alpaca Day 114 BLOCKED (403) | Perplexity 403 | AV 403 | WebSearch AVAILABLE
+
+⚠️ NOTE: Entries labeled "2026-06-30 /pre-market" and "2026-06-30 /market-check" earlier in this log (Alpaca Day 113/114) were written by Jun 29 sessions with incorrect date identification (consistent with documented Jun 8 date error). This entry is the ACTUAL Jun 30 pre-market using live WebSearch data for today.
+
+---
+
+### Step 1: Overnight Gap Check
+
+**Open positions: 0 — SKIPPED** ✅
+
+---
+
+### Step 2: Overnight Market Check (live data Jun 30)
+
+**Futures (overnight Jun 29→Jun 30):**
+- ES (S&P): ~+0.2% (modestly higher vs yesterday's close)
+- NQ (Nasdaq): ~flat/slight positive (recovered from early overnight −0.12%/−1.19% weakness)
+- Tone: "Stocks Rebound Early, Awaiting Fresh Jobs Data" (Schwab) — investors reassessing AI trade following recent selloff. Tech bid visible at open.
+- S&P 500 Jun 29 close: 7,417.45 (or ~7,440 per external source) | Rally low 7,266.99 INTACT (150 pts cushion)
+- 50d SMA ~7,258 | 200d SMA ~6,918 | S&P remains above both ✅
+
+**Market state: 🔴 Correction UNCHANGED (6/25 dist days)**
+
+**Today Jun 30 — Q2/EOM risk ongoing:**
+- Institutional quarter-end rebalancing → some growth/tech selling into close still possible
+- ISM/S&P Global Manufacturing PMI June: **55.7** (confirmed at 10 AM — beat 54.8; up from 55.1; highest since May 2022; expansionary) — POSITIVE macro signal but higher-for-longer risk
+- Consumer Confidence (today) | JOLTS job openings (today)
+- NKE earnings tonight (consumer read)
+- Dist Day #7 risk: if S&P −0.4%+ on above-avg vol → 7/25 → Correction deepens
+- If S&P closes below 7,266.99 → **NEW DAY 1** → FTD window reopens Day 4-7 (~Jul 7-10)
+
+---
+
+### Step 3: Catalyst Scan — Open Positions
+
+**NONE — 0 open positions.** ✅
+
+---
+
+### Step 4: Catalyst Scan — Bench Names (live Jun 30 data)
+
+**NVDA (~$194-202 est.):**
+- Anthropic's Claude models now available on Microsoft Azure powered by NVIDIA GB300 GPUs (positive N-letter development)
+- Partnership announced with Firmus AI for large-scale AI facility in Indonesia (new N-letter catalyst)
+- Analyst consensus price target: $301.92 (+54.7% upside from ~$196 level)
+- YTD performance: +4.4% (significant underperformer vs AMD +150%, INTC +256% YTD)
+- Triple headwinds UNCHANGED: (1) B200 GPU lease $6.11→$4.22/hr; (2) Insider selling $410.6M past 3 months; (3) OpenAI IPO delay AI demand uncertainty
+- Score: **68-70/100 UNCHANGED** | Cup wk 17; no handle; Aug 2026+ timeline | thesis intact but under pressure
+
+**MRVL ($272-278 pre-market — +8-10% from Jun 29 close $252.62):**
+- Pre-market STRONG bounce: $272.94–$278.78 (source: Market Chameleon pre-market VWAP data)
+- Prior close Jun 29: $252.62 (down -4.97% on severe RS underperformance)
+- Fundamental backdrop: Q1 FY2027 results (May 27): revenue $2.42B (+27.6% YoY), Q2 FY2027 guide $2.7B ± 5%; full-year revenue growth 40% toward $11.5B
+- S&P 500 inclusion (Jun 22) — forced institutional buying already absorbed but anchors floor bid
+- Multiple analyst upgrades: UBS $340, Cantor $300, KeyBanc $385 (Street-high as of mid-Jun)
+- YTD performance: +247% (from ~$73 start of year to $272-278 today)
+- No new negative catalyst overnight
+- Score: **71/100** (recovering from 67-68 post Jun 29 selloff; L-letter stabilizing as RS bounces; no base yet; 3-5 wk consolidation needed)
+- `websearch_fallback` | `S&P500_inclusion_Jun22` | `Q1FY27_strong_earnings_May27`
+
+**LRCX (~$419.92 — up from ~$395 Jun 29 close):**
+- Current price est.: $419.92 (up ~+6% from Jun 29's ~$395 close; range $379-$420 today)
+- Combined analyst upgrades: BofA $330→$480 (Buy); WF $365→$450 (OW); Cantor $425→$500 (OW) — THREE separate upgrades
+- Record revenue + higher outlook: AI advanced packaging + wafer fab equipment demand (AI HBM build-out)
+- ⚠️ Earnings Jul 29 → blackout begins Jul 22 (5 trading days prior). Entry window: through ~Jul 18 ONLY.
+- Score: **72-74/100** (improved from 70-71; L-letter strengthening on multi-session RS leadership; I-letter improved with triple analyst coverage; still no proper base)
+- Still below 75 threshold + Correction blocks ALL entries
+- `websearch_fallback` | `LRCX_triple_analyst_upgrade` | `AI_capex_wafer_fab_demand`
+
+**ARM (~$320-334 est.):**
+- **⚠️ DOWNGRADE: New Street Research → Neutral (from Buy)** — citing unsustainable 470x trailing P/E ratio; institutional rotation out of highly-valued AI/semi names
+- AGI CPU launch for high-performance AI workloads (positive) + Oracle Cloud partnership (positive)
+- Q2 2026 earnings (CY): EPS $0.23 (up from $0.10 prior year, +130%), revenue $1.14B (+35% YoY)
+- GAAP C-letter: FAILS (GAAP EPS still insufficient for ≥25% threshold)
+- Score: **60/100 UNCHANGED** — downgrade is thesis-confirming; our below-threshold assessment validated
+- Earnings: ⚠️ Jul 29 CONFIRMED — blackout begins ~Jul 22
+- `websearch_fallback` | `ARM_NewStreet_downgrade_Neutral_470x_PE` | `GAAP_Cletter_fail`
+
+**MU — ⛔ PERMANENTLY BLOCKED:**
+- Price ceiling breach: $1,132+ >> $500 max per TRADING-STRATEGY.md. No path back below $500. REMOVED from all consideration.
+
+---
+
+### Step 5: Buy-Zone Readiness (live Jun 30)
+
+| Symbol | Price (est.) | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$196-202 | No pivot (no handle on cup wk 17) | N/A | 🔴 NO BASE |
+| MRVL | ~$272-278 pm | No proper base (recovering from selloff) | N/A | 🔴 CORRECTION BLOCKED |
+| LRCX | ~$419 | No proper base (multiple legs up, no consolidation) | N/A | 🔴 BELOW THRESHOLD (72-74) |
+| ARM | ~$320-334 | No pivot | N/A | 🔴 BELOW THRESHOLD (60) |
+
+ALL names: ⛔ Correction gate blocks ALL long entries regardless of zone. SH $625 hedge QUEUED (Day 114 BLOCKED).
+
+---
+
+### Step 6: Circuit Breaker Check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | ✅ CLEAR — $0 P&L (0 positions) |
+| Weekly −6% | ✅ CLEAR — new week, $0 P&L |
+| Drawdown −12% | ✅ CLEAR — $2,500 equity = HWM |
+| PDT count | ✅ CLEAR — 0 of 3 rolling |
+| Alpaca API | ⚠️ BLOCKED Day 114 — no execution possible |
+
+**No circuit breakers active (excluding Alpaca infrastructure block).**
+
+---
+
+### Step 7: Pre-Market Summary
+
+- **Open positions:** 0 | **Overnight gaps:** NONE
+- **Market state:** 🔴 Correction UNCHANGED (6/25 dist) | No new entries
+- **Futures:** ES ~+0.2%, NQ ~flat — modest recovery
+- **ISM Mfg PMI Jun:** 55.7 (beat — expansionary; confirmed mid-session)
+- **Watchlist ready:** NONE | **Watching:** NVDA 68-70 / MRVL 71 / LRCX 72-74 / ARM 60 (all <75)
+- **MRVL pre-market bounce:** +8-10% to $272-278 — RS recovering but no entry (Correction)
+- **LRCX at $420:** Triple analyst upgrade; score 72-74/100; closest to threshold but no base
+- **ARM downgraded:** New Street Research Neutral — 60/100 CONFIRMED below threshold
+- **Key risks today:** Q2/EOM dist day #7 risk | S&P rally low 7,266.99 (line in sand) | NKE earnings tonight
+- **This week:** Warsh Jul 1 (hawkish risk) | NFP Jul 2 (consensus 172K)
+- **Entry plan:** NO ENTRIES. SH $625 QUEUED (Alpaca Day 114 BLOCKED). Monitor FTD path.
+
+`research_source: websearch_fallback` | Alpaca Day 114 BLOCKED | Perplexity 403 | AV 403
+

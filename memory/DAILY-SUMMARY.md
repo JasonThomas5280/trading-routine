@@ -3503,3 +3503,26 @@ NOT dist day ✅ | Rally low 7,266.99 INTACT 150 pts (restored from 87) | FTD wi
 Bench: LRCX +6.62% Cantor $500 ⬆️ 70-71 | NVDA +0.98% 68-70 | MRVL -4.97% ⚠️ RS WARN 67-68⬇️ | ARM -3.87% 60 — all <75
 
 Tomorrow (Jun 30 Q2/EOM ⚠️): dist day #7 risk on quarter-end rebalancing | Warsh Jul 1 hawkish | NFP Jul 2 (172K est.) | Rally low 7,266.99 = line in sand | SH $625 QUEUED Day 113 restore check
+
+---
+## 2026-06-30 06:00 CT [pre-market — ACTUAL JUN 30 LIVE DATA]
+
+🌅 Pre-market 2026-06-30
+Market: 🔴 Correction (6/25 dist) | Futures: ES ~+0.2% NQ ~flat (tech rebounding early)
+Open positions: 0 | Circuit breakers: NONE | Alpaca: Day 114 BLOCKED | research_source: websearch_fallback
+
+Overnight gaps: NONE (0 positions)
+
+Watchlist catalyst scan:
+- NVDA (~$196-202): No new neg overnight. GB300 GPUs/Anthropic/Azure (minor N-letter +). Analyst $301.92 (+54.7% upside). YTD +4.4% vs AMD +150% / INTC +256% — underperformer. Triple headwinds unchanged. Score 68-70/100 UNCHANGED. Cup wk 18; no handle; Aug 2026+.
+- MRVL ($272-278 pre-mkt — +8-10% from $252.62 Jun 29 close): RS bounce on no specific new catalyst (index inclusion bid + semi recovery). Score recovering 67-68→71. No base; 3-5 wk consolidation needed. Not actionable.
+- LRCX (~$419): Triple analyst upgrade (BofA $480 + WF $450 + Cantor $500). Record revenue + AI HBM capex thesis. Score 72-74/100 ⬆️ — CLOSEST to threshold. No base. Earnings blackout Jul 22+.
+- ARM (~$320-334): ⚠️ New Street Research DOWNGRADE Neutral (470x trailing P/E). GAAP C-letter fails. 60/100 UNCHANGED — downgrade validates assessment.
+
+Watchlist ready: NONE 🔴 | Watching: NVDA 68-70 / MRVL 71 / LRCX 72-74 / ARM 60 (all <75; Correction)
+Removed: NONE (ARM downgrade confirms existing score, not a removal trigger)
+
+Key catalysts today: ISM Mfg PMI Jun = 55.7 (beat; expansionary). NKE earnings tonight. Q2/EOM institutional rebalancing dist day #7 risk (S&P -0.4%+ on vol = 7/25).
+
+Plan: NO ENTRIES. SH $625 QUEUED (Day 114 BLOCKED). Monitor rally low 7,266.99. Watch for Day 1 trigger (S&P close below 7,266.99). Warsh Jul 1 hawkish risk. NFP Jul 2 (172K consensus — hot >175K = bearish).
+
