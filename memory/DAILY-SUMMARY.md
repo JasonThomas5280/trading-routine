@@ -1,5 +1,27 @@
 
 ---
+## 2026-06-30 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P ~+0.7% NOT DIST DAY — Q2/EOM RISK CLEARED — SEMI +3.6% — 6/25 UNCHANGED — ALPACA DAY 115 BLOCKED — NO TRADES]
+
+📊 EOD 2026-06-30 (Q2 close) | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction — UNCHANGED)
+Actions today:
+  • NONE — Correction gate + Alpaca Day 115 BLOCKED
+  • sell-rules-engine SKIPPED (0 positions)
+  • SH $625 hedge QUEUED (execute on Alpaca restore)
+S&P 500: ~+0.7% (~7,469 est.) | NOT dist day | Q2/EOM risk CLEARED ✅
+Nasdaq: ~+1.4% (~26,080 est.) | QQQ ~$731 est.
+Semiconductor ETF (SOXX/SMH): +3.6% — tech-led Q2 close
+Q2 final: Best quarter in 6 years for S&P + Nasdaq (sources: TheStreet, Motley Fool)
+Dist days: 6/25 UNCHANGED | FTD window: CLOSED | Rally low 7,266.99 INTACT (~202 pts)
+50d MA: ~7,262 | S&P ~207 pts above (2.85% cushion, widening)
+Bench: NVDA 69-70/$198-199 | MRVL 70-72/$275-285 ⬆️ recovering | LRCX 74-76/$430-445 ⬆️ approaching threshold | ARM 60/flat
+⚠️ LRCX approaching 75/100 — not actionable (Correction + no base + earnings ~Jul 22)
+Circuit breakers: ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM)
+Tomorrow: 🚨 Warsh 9:30 AM ET Sintra (hawkish risk = dist #7) | NKE AMC results | Thu: NFP 8:30 ET (172K consensus) | Fri Jul 3: half-day | Sat Jul 4: CLOSED
+research_source: websearch_fallback | Alpaca Day 115 BLOCKED | Perplexity 403 | AV 403
+
+---
 ## 2026-06-30 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — S&P +0.03% NOT DIST DAY — Q2/EOM RISK NOT TRIGGERED — 6/25 UNCHANGED — LRCX +4.98% SCORE 72-74 — ALPACA DAY 114 BLOCKED — NO TRADES]
 
 📈 Market-check 2026-06-30 10:00 CT

@@ -6,10 +6,48 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 30 /market-check 10 AM CT: S&P +0.03% intraday ~7,419 — NOT a dist day — Q2/EOM dist day #7 RISK NOT TRIGGERED at 10 AM — 6/25 dist days UNCHANGED — Rally low 7,266.99 INTACT (~152 pts) — LRCX +4.98% ~$415 (strongest bench mover; score 72-74/100 still below 75) — MRVL ~$266-273 RS recovering from Jun 29 selloff (score 71/100) — NVDA $194.97 (score 68-70/100) — ARM 60/100 UNCHANGED — ISM Mfg PMI 55.7 BEAT confirmed — Alpaca Day 114 BLOCKED — 0 positions — 0 trades — Warsh Jul 1 hawkish risk — NFP Jul 2 (consensus 172K))*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 30 /eod-review 3:15 PM CT: S&P ~+0.7% est. ~7,469 — NOT dist day — Q2/EOM dist day #7 RISK CLEARED ✅ — 6/25 dist days UNCHANGED — Rally low 7,266.99 INTACT (~202 pts buffer) — Semiconductor ETF +3.6% tech-led Q2 close — LRCX ~$430-445 score 74-76 approaching threshold — MRVL ~$275-285 score 70-72 recovering — NVDA ~$198-199 score 69-70 — Best Q2 in 6 yrs — Alpaca Day 115 BLOCKED — 0 positions — 0 trades — ⚠️ Warsh Jul 1 9:30 AM ET TOMORROW — NFP Jul 2 consensus 172K)*
 
-**Last updated:** 2026-06-30 (Tue) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — S&P +0.03% NOT DIST DAY — 6/25 UNCHANGED — LRCX +4.98% SCORE 72-74 — MRVL RS RECOVERING 71 — NVDA $195/68-70 — ALPACA DAY 114 BLOCKED — 0 TRADES — NO PROMOTIONS**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (~7,419 vs low 7,266.99 = ~152 pts margin)
+**Last updated:** 2026-06-30 (Tue) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P ~+0.7% NOT DIST DAY — Q2/EOM RISK CLEARED — 6/25 UNCHANGED — SEMI +3.6% — LRCX 74-76 APPROACHING THRESHOLD — MRVL RECOVERING 70-72 — ALPACA DAY 115 BLOCKED — 0 TRADES**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (~202 pts margin vs 7,266.99 low)
+
+**✅ JUN 30 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~+0.7% ~7,469 NOT DIST DAY — NASDAQ ~+1.4% — Q2/EOM DIST RISK CLEARED ✅ — SEMI +3.6% TECH-LED Q2 CLOSE — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (~202 PTS) — ALPACA DAY 115 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 115 BLOCKED
+- **S&P 500 Jun 30 close:** ~**7,469 (+0.7% est.** from 7,417.45 Jun 29 logged close) | Nasdaq Composite est. ~+1.4% to ~26,080 | QQQ est. ~$731 (+1.5% from $721.02) | Q2 quarter-end close — "best quarter in 6 years" (per TheStreet/Motley Fool) | `research_source: websearch_fallback`
+- **Session character:** Tech-fueled quarter-end rally. Semiconductor ETF (SOXX/SMH) +3.6% led the session. LRCX, NVDA, MRVL all recovered strongly. Q2/EOM institutional rebalancing created elevated volume but markets closed firmly UP — dist day #7 risk DID NOT materialize ✅. S&P started flat (+0.03% at 10 AM CT) then accelerated into the close on tech/semi buying; quarter-end window dressing. Best Q2 for S&P and Nasdaq in 6 years despite Correction regime, Iran war, and FOMC hawkish shock.
+- **Distribution day check (Jun 30):** S&P ~+0.7% → **FAR ABOVE −0.20% threshold → NOT a distribution day** ✅ | Q2/EOM elevated volume present but UP session = dist day impossible regardless of volume ✅
+- **Distribution day accounting:** No changes. Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23. **Net: 6/25 UNCHANGED.** ✅
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** (6/25 dist = Correction; FTD window CLOSED)
+- **Rally attempt check:** S&P ~7,469 vs rally low **7,266.99** (Jun 10) → margin ~**202 pts (+2.77%)** → rally attempt **INTACT** ✅ (buffer steadily growing: 87 pts Jun 26 → 150 pts Jun 29 → 202 pts Jun 30)
+- **50d MA proximity:** S&P ~7,469 | 50d MA ~7,262 est. | Gap: ~207 pts (~2.85%) | Cushion widening as consecutive up sessions push S&P higher vs slowly rising 50d MA
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Portfolio-level checks:** Dist 6/25 — no new threshold crossed ✅ | 0 positions ✅
+- **Hedge check:** SH/SQQQ $625 QUEUED (Correction protocol ACTIVE — UNCHANGED) | Alpaca Day 115 BLOCKED | Execute FIRST on restore
+- **Key developments Jun 30:**
+  - 📅 **Q2 2026 CLOSE** — Best Q2 for S&P and Nasdaq in 6 years; Iran war + FOMC hawkish shock absorbed by markets
+  - 🏭 **Semiconductor ETF (SOXX/SMH) +3.6%** → strongest sector driver; chips led quarter-end rally
+  - ✅ **Q2/EOM rebalancing** — Feared institutional selling DID NOT produce distribution day; markets rallied into close
+  - 📅 **⚠️ TOMORROW Jul 1:** Fed Chair Warsh speaks 9:30 AM ET Sintra ECB Forum — hawkish risk (dot plot revised higher Jun 17; rate-hike signal = dist day #7 candidate)
+  - 📅 **⚠️ THU Jul 2:** NFP June 8:30 AM ET (early release due to Jul 4) — consensus 172K; Hot >175K = hawkish = dist day risk; Cool <120K = relief rally
+  - 📅 **Jul 3 half-day** (1 PM ET close) — thin liquidity; no FTD volume qualification
+  - 🏦 **NKE earnings AMC Jun 30** — consumer spending proxy (results after our EOD; watch pre-market Jul 1)
+- **Bench status (Jun 30 close est.):**
+  - NVDA: ~$198-199 (+~1.72% from $194.97) | **69-70/100 UNCHANGED** | 🟡 BENCH | Cup wk 18; No handle; triple headwind unchanged; Aug 2026+ timeline
+  - MRVL: ~$275-285 (est. +9-12% recovery from Jun 29 $252.62 selloff; RS recovering sharply) | **70-72/100 ⬆️** | 🟡 BENCH | Big bounce on semi day; base still forming; below 75 threshold
+  - LRCX: ~$430-445 est. (+~5-8% from ~$415 at 10 AM on semi +3.6%) | **74-76/100 ⬆️ approaching threshold** | 🟡 BENCH — score touching ~75 range BUT CORRECTION BLOCKS ALL ENTRIES regardless; no valid base/pivot; earnings window ~Jul 22+ blackout begins
+  - ARM: ~+2-4% est. | **60-62/100 UNCHANGED** | 🔴 BELOW THRESHOLD | GAAP C-letter fail unchanged
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 115 blocked + 0 positions + 0 primary watchlist)
+- **⚠️ DIST DAY EXPIRY PATH (unchanged):** Jun 3 → ~Aug 8 → 5/25 | Jun 5 → ~Aug 10 → 4/25 | Jun 9 → ~Aug 12 → 3/25 | Jun 10 → ~Aug 13 → 2/25 | Jun 17 → ~Aug 22 → 1/25 | Jun 23 → ~Sep 24 → 0/25 | **State REMAINS CORRECTION until FTD regardless of expiry**
+- **⚠️ TOMORROW Jul 1 + REST OF WEEK (4-day holiday week; Jul 4 closed):**
+  1. 🚨 **Warsh 9:30 AM ET** — hawkish = dist day #7 risk; rate-hike signal = sell tech immediately
+  2. **Alpaca restore** — Day 116; SH $625 FIRST order on restore
+  3. **Rally low 7,266.99** — 202 pts margin; INTACT; watch for Warsh-driven selldown
+  4. **NKE AMC Jun 30 results** — consumer proxy; check pre-market Jul 1
+  5. **NFP Jul 2 Thu** — consensus 172K; hot print = hawkish = dist risk; cool = relief
+  6. **Jul 3 half-day** (1 PM ET) — low-volume; no FTD qualification
+  7. **Jul 4 CLOSED**
+- `research_source: websearch_fallback` | Alpaca Day 115 BLOCKED | Perplexity 403 | AV 403
 
 **✅ JUN 29 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P +0.86% 7,417.45 NOT DIST DAY — NASDAQ +1.51% 25,680 — QQQ $721.02 +2.05% — DOW 52K FIRST EVER (GOOGL JOINS) — TSLA +8.06% — LRCX +6.62% CANTOR $500 — MRVL −4.97% ⚠️ — RALLY LOW 7,266.99 INTACT (150 PTS) — ALPACA DAY 112 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 112 BLOCKED

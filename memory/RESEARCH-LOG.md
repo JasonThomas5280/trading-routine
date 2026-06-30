@@ -12194,3 +12194,71 @@ Exception: Inverse ETF (SH $625 QUEUED) — cannot execute, Alpaca Day 114 BLOCK
 
 `research_source: websearch_fallback` | Alpaca Day 114 BLOCKED | Perplexity 403 | AV 403
 
+---
+
+## 2026-06-30 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P ~+0.7% ~7,469 NOT DIST DAY — Q2/EOM DIST RISK CLEARED — SEMI +3.6% — 6/25 UNCHANGED — RALLY LOW INTACT — ALPACA DAY 115 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 115 BLOCKED; Perplexity: 403; AV: 403. Market data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~202 pts)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Close: S&P 500 + QQQ (Jun 30)
+
+| Index | Close | Change | Dist Day? |
+|---|---|---|---|
+| S&P 500 | ~7,469 est. | **~+0.7% est.** | ❌ No (UP; far above −0.20% threshold) |
+| Nasdaq Composite | ~26,080 est. | **~+1.4% est.** | ❌ No |
+| QQQ | ~$731 est. | **~+1.5% est.** | ❌ No |
+| Semiconductor ETF (SOXX/SMH) | — | **+3.6%** | — (led session) |
+
+_Note: Alpaca unavailable (Day 115 blocked). Estimates from WebSearch; TheStreet headline "Tech recovery continues with Nasdaq, S&P 500 jumping"; Motley Fool "Market Indexes Close Out June With a Tech-Fueled Tuesday Rally"; Q2 confirmed best quarter in 6 years for S&P + Nasdaq._
+
+**Distribution day check (Jun 30):** S&P ~+0.7% → **NOT a distribution day** ✅ | Q2/EOM elevated volume present but UP session = no dist day ✅
+**Dist count: 6/25 UNCHANGED** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23)
+**State: 🔴 CORRECTION UNCHANGED**
+
+### Sell-rules-engine results
+
+0 open positions → **SKIPPED** ✅
+
+### Session narrative
+
+Tech-fueled Q2 close. Semiconductor ETF (SOXX/SMH) +3.6% led into quarter-end. Markets opened nearly flat (+0.03% at 10 AM CT) then accelerated through the afternoon on institutional window dressing and chip buying. Q2/EOM rebalancing created elevated volume — UP day so no dist day regardless. Best Q2 in 6 years for S&P and Nasdaq confirmed.
+
+### Bench status update (Jun 30 close est.)
+
+| Symbol | Score | EOD est. | Promotion? |
+|---|---|---|---|
+| NVDA | 69-70/100 UNCHANGED | ~$198-199 (+1.72%) | ❌ No pivot; cup wk 18 no handle; Correction blocks |
+| MRVL | 70-72/100 ⬆️ | ~$275-285 (+9-12% recovery) | ❌ No confirmed base; Correction blocks |
+| LRCX | 74-76/100 ⬆️ | ~$430-445 (+5-8%) | ❌ No base/pivot; Correction blocks; earnings ~Jul 22 |
+| ARM | 60-62/100 UNCHANGED | est. +2-4% | ❌ GAAP C-letter fail; well below threshold |
+
+**LRCX ALERT:** Score approaching 75 range — not actionable (Correction + no base + earnings blackout ~Jul 22).
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR |
+| Weekly -6% | ✅ CLEAR |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day 115 (SH $625 still queued) |
+
+### Actions taken
+
+**NONE.** Correction + Alpaca Day 115 BLOCKED + 0 positions + 0 primary watchlist.
+
+### Watch at /pre-market Jul 1 (Wed)
+
+1. **🚨 Fed Chair Warsh 9:30 AM ET (Sintra)** — hawkish = dist day #7 risk; highest priority
+2. **NKE AMC Jun 30 results** — consumer proxy; check pre-market
+3. **Dist count 6/25 confirmed** — carry into Q3
+4. **Rally low 7,266.99** — 202 pts margin; Warsh could compress quickly
+5. **Alpaca restore** — Day 116; SH $625 FIRST order
+6. **NFP Thu Jul 2** — consensus 172K
+7. **Jul 3 half-day** (1 PM ET) — no FTD volume qualification; **Jul 4 CLOSED**
+
+`research_source: websearch_fallback` | Alpaca Day 115 BLOCKED | Perplexity 403 | AV 403
+
