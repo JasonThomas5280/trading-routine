@@ -6,9 +6,9 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jun 30 /eod-review 3:15 PM CT: S&P ~+0.7% est. ~7,469 — NOT dist day — Q2/EOM dist day #7 RISK CLEARED ✅ — 6/25 dist days UNCHANGED — Rally low 7,266.99 INTACT (~202 pts buffer) — Semiconductor ETF +3.6% tech-led Q2 close — LRCX ~$430-445 score 74-76 approaching threshold — MRVL ~$275-285 score 70-72 recovering — NVDA ~$198-199 score 69-70 — Best Q2 in 6 yrs — Alpaca Day 115 BLOCKED — 0 positions — 0 trades — ⚠️ Warsh Jul 1 9:30 AM ET TOMORROW — NFP Jul 2 consensus 172K)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 1 /pre-market 6:00 AM CT: Futures ES -0.13% / NQ -0.08% / Dow -0.22% — mild risk-off ahead of Warsh Sintra 9:30 AM ET — ⚠️ DIST DAY #7 RISK if Warsh hawkish → -0.5%+ on volume — 6/25 dist days UNCHANGED — Rally low 7,266.99 INTACT (~202 pts buffer) — MRVL recovering ~$278.78 pre-mkt / UBS upgrade $340 / Amazon Trainium read-through — LRCX ~$430-445 score 74-76 — NVDA ~$200 score 69-70 — ARM 60-62 GAAP fail — Alpaca Day 116 BLOCKED — 0 positions — 0 trades)*
 
-**Last updated:** 2026-06-30 (Tue) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P ~+0.7% NOT DIST DAY — Q2/EOM RISK CLEARED — 6/25 UNCHANGED — SEMI +3.6% — LRCX 74-76 APPROACHING THRESHOLD — MRVL RECOVERING 70-72 — ALPACA DAY 115 BLOCKED — 0 TRADES**
+**Last updated:** 2026-07-01 (Wed) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED — ES -0.13% PRE-MKT — ⚠️ WARSH SINTRA 9:30 AM ET DIST DAY #7 RISK — 6/25 UNCHANGED — MRVL RECOVERING 71-73 — LRCX 74-76 — ALPACA DAY 116 BLOCKED — 0 TRADES**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (~202 pts margin vs 7,266.99 low)
 
 **✅ JUN 30 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~+0.7% ~7,469 NOT DIST DAY — NASDAQ ~+1.4% — Q2/EOM DIST RISK CLEARED ✅ — SEMI +3.6% TECH-LED Q2 CLOSE — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (~202 PTS) — ALPACA DAY 115 BLOCKED — 0 POSITIONS — NO ACTIONS):**

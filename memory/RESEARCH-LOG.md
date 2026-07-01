@@ -46,6 +46,52 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-01 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚠️ WARSH SINTRA 9:30 AM ET — DIST DAY #7 RISK — ALPACA DAY 116 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: empty response Day 116 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~202 pts buffer from ~7,469 Jun 30 close)
+**Weekly trades:** 0/3 (NEW WEEK) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Overnight gap check — open positions
+- **0 open positions → SKIPPED.** No gap risk.
+
+### Overnight market
+
+- **ES futures: -0.13% | NQ futures: -0.08% | Dow futures: -0.22%** — mild risk-off after historic H1 (+9.55% S&P, +12.79% Nasdaq, best H1 in 6 yrs). Easing ahead of Warsh.
+- **⚠️ WARSH SINTRA SPEECH (9:30 AM ET):** Fed Chair Warsh speaks at ECB Forum in Portugal. Hawkish lean expected — FX analysts see upside risk to USD; rate hike speculation for later 2026. Any rate-hike signal = **DIST DAY #7 CANDIDATE** at close. This is the #1 risk today.
+- **JOLTS job openings data** also today — secondary macro risk.
+- **NKE AMC Jun 30 (consumer proxy):** Rev $10.97B vs $10.85B est (slight beat); EPS $0.72 vs $0.13 est (massive beat — but includes $0.52 one-time tariff refund). Underlying EPS ~$0.20. Consumer spending: mixed. No meaningful read-through for semi bench names.
+
+### Overnight catalysts — bench names
+
+- **NVDA (~$200 pre-market, +1.76% from ~$196.6 est. Jun 30 close):** No major new catalyst. Chip-smuggling investigation keeps export-control overhang. GPU lease compression / insider selling UNCHANGED. Palantir AI infrastructure partnership mentioned (minor positive; not thesis-changing). Score: **69-70/100 UNCHANGED** | Cup wk 19; no handle; Aug 2026+ timeline. NO thesis change.
+- **MRVL (~$278.78 pre-market, recovery from $252.62 Jun 29 selloff):** Amazon explored selling Trainium AI chips to third-party data centers — positive read-through for MRVL (deep AWS custom AI/data-center interconnect relationship). UBS upgraded MRVL Jun 29 with price target $230 → $340 (CXL market leadership + AI data center connectivity). NVIDIA-Marvell collaboration (equity-backed) + Celestial AI / XConn deals deepen AI moat. Score: **71-73/100 ⬆️** (recovering from 67-68 after Jun 29 selloff; L-letter improving as RS recovers). Still below 75 threshold. No new base yet. Correction blocks. ⚠️ Earnings ~late Aug 2026 (no blackout yet).
+- **LRCX (est. ~$430-445 from Jun 30 close; pre-market direction unclear):** No new catalyst overnight. Record Q3 2026 (rev ~$5.84B +24% YoY; adj EPS +8% vs consensus). Triple analyst upgrades confirmed (BofA $480 Buy, Wells Fargo $450 OW, Cantor $500 OW). Score: **74-76/100 ⬆️** (CLOSEST TO THRESHOLD). Still: Correction blocks ALL entries. No valid base/pivot. ⚠️ Earnings Jul 29 — blackout begins ~Jul 22 (5 trading days); entry window through ~Jul 18 ONLY.
+- **ARM (est. ~$320-340 range):** Barclays raised PT to $360 from $250 (catalyst from Computex period). NVDA RTX Spark / Vera announcements expand ARM royalty base. But GAAP C-letter failure UNCHANGED. Score: **60-62/100 UNCHANGED** — not actionable regardless of news. ⚠️ Earnings ~Jul 29 (same window risk as LRCX).
+
+### Buy-zone status (primary watchlist)
+- **NONE this week.** Correction + 0 candidates ≥75. See bench above.
+
+### Bench buy-zone proximity (Correction monitor — entries BLOCKED)
+- 🔴 NVDA: ~$200 | no pivot (cup wk 19; no handle) | BLOCKED — Correction + no base
+- 🟡 MRVL: ~$278 | no pivot (base forming; 3-5 wk needed) | BLOCKED — Correction + no base
+- 🟡 LRCX: ~$430-445 | no pivot (no base confirmed) | BLOCKED — Correction + earnings blackout ~Jul 22
+- 🔴 ARM: ~$320-340 | no pivot | BLOCKED — score 60/100, GAAP C-letter fail
+
+### Circuit breaker check
+- Daily P&L: $0 | Weekly P&L: $0 | Equity: $2,500 (HWM) | Drawdown: 0%
+- **ALL CIRCUIT BREAKERS: CLEAR** ✅
+
+### Key risks today
+1. ⚠️ **Warsh Sintra 9:30 AM ET** — hawkish = S&P potentially -0.5%+ on volume = DIST DAY #7 → 7/25 → deeper Correction; hawkish dollar upside risk
+2. **JOLTS data** — secondary; hot reading confirms higher-for-longer narrative
+3. **Rally low 7,266.99** — 202 pts buffer; watch for Warsh-driven selldown toward this level
+
+### Plan
+No new entries. No positions to manage. Monitor Warsh speech at 9:30 AM ET for dist day #7 risk signal. First action on Alpaca restore UNCHANGED: SH $625 / 25% portfolio hedge.
+
+---
+
 ## 2026-06-25 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — S&P FUTURES +0.79% — 🚨 MU +15-16% AH BEAT CONFIRMED — PCE TODAY 7:30 AM CT — ALPACA DAY 110 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 110 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)

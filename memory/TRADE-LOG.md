@@ -46,7 +46,7 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-06-30 /eod-review 3:15 PM CT — 0 open positions; Alpaca Day 115 BLOCKED; S&P ~7,469 (+0.7% est. NOT dist day) — Q2/EOM dist risk cleared; Semi ETF +3.6%; Nasdaq ~+1.4% / QQQ ~$731; Dist 6/25 UNCHANGED; FTD WINDOW CLOSED; Rally low 7,266.99 INTACT (~202 pts buffer); State: 🔴 MARKET IN CORRECTION UNCHANGED; sell-rules-engine SKIPPED (0 positions); P&L today: $0; P&L week: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; NVDA ~$198-199/69-70 / MRVL ~$275-285/70-72⬆️ recovering / LRCX ~$430-445/74-76⬆️ approaching threshold / ARM ~60 — all entries blocked (Correction); ⚠️ Warsh Jul 1 + NFP Jul 2 key events; `research_source: websearch_fallback`)*
+*(Updated 2026-07-01 /pre-market 6:00 AM CT — 0 open positions; Alpaca Day 116 BLOCKED; Futures ES -0.13% / NQ -0.08% — mild risk-off; ⚠️ Warsh Sintra 9:30 AM ET = dist day #7 risk; Dist 6/25 UNCHANGED; FTD WINDOW CLOSED; Rally low 7,266.99 INTACT (~202 pts buffer); State: 🔴 MARKET IN CORRECTION UNCHANGED; sell-rules-engine SKIPPED (0 positions); P&L today: $0; Equity: $2,500 HWM; circuit breakers: ALL CLEAR; NVDA ~$200/69-70 / MRVL ~$278.78/71-73⬆️ UBS $340 + Amazon read-through / LRCX ~$430-445/74-76⬆️ / ARM 60-62 GAAP fail — all entries blocked (Correction); NFP Jul 2 8:30 AM ET (consensus 172K); `research_source: websearch_fallback`)*
 
 ---
 

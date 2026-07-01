@@ -3566,3 +3566,24 @@ Key catalysts today: ISM Mfg PMI Jun = 55.7 (beat; expansionary). NKE earnings t
 
 Plan: NO ENTRIES. SH $625 QUEUED (Day 114 BLOCKED). Monitor rally low 7,266.99. Watch for Day 1 trigger (S&P close below 7,266.99). Warsh Jul 1 hawkish risk. NFP Jul 2 (172K consensus — hot >175K = bearish).
 
+
+---
+## 2026-07-01 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-07-01
+Market: 🔴 CORRECTION (6/25 dist days) | Futures: ES -0.13% / NQ -0.08% / Dow -0.22%
+Open positions: 0 | Alpaca: Day 116 BLOCKED | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+⚠️ KEY RISK: Warsh Sintra speech 9:30 AM ET → hawkish = DIST DAY #7 risk → 7/25 → deeper Correction
+NKE AMC Jun 30: Rev $10.97B (slight beat vs $10.85B est) / EPS $0.72 beat (incl $0.52 one-time tariff refund; underlying ~$0.20) — not thesis-moving for semi bench
+Bench status:
+  NVDA ~$200 pre-mkt | 69-70/100 ↔ | no new catalyst; chip-smuggling overhang | BLOCKED (Correction + no base; cup wk 19)
+  MRVL ~$278.78 pre-mkt | 71-73/100 ⬆️ | UBS upgrade $340 + Amazon Trainium read-through | BLOCKED (Correction + no base)
+  LRCX ~$430-445 | 74-76/100 ⬆️ CLOSEST | record Q3 + triple upgrades (BofA $480/Cantor $500/WF $450) | BLOCKED (Correction + earnings blackout ~Jul 22)
+  ARM ~$320-340 | 60-62/100 ↔ | GAAP C-letter fail unchanged | BLOCKED (below threshold)
+Watchlist ready: NONE
+Watchlist watching: MRVL, LRCX (bench only — Correction blocks all entries)
+Removed: none
+Key catalyst today: ⚠️ Warsh Sintra 9:30 AM ET (hawkish = dist day #7) + JOLTS job openings
+Plan: NO ENTRIES. Monitor Warsh for dist day signal. SH $625 hedge QUEUED (execute first on Alpaca restore).
+research_source: websearch_fallback | Alpaca Day 116 BLOCKED | Perplexity 403 | AV 403
