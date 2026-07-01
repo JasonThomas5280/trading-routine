@@ -1,5 +1,24 @@
 
 ---
+## 2026-07-01 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,499.36 +0.80% NOT DIST DAY ✅ — DOW NEW ATH 52,319 — NASDAQ +1.5% — 6/25 UNCHANGED — RALLY LOW 7,266.99 (232 PTS) — ALPACA DAY 117 BLOCKED — NO TRADES]
+
+📊 EOD 2026-07-01 | Equity $2,500.00 (+$0.00 day, +$0.00 week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 UNCHANGED (market: 🔴 CORRECTION)
+Actions today:
+  • NONE — Correction gate active; Alpaca Day 117 BLOCKED
+  • sell-rules-engine: SKIPPED (0 positions)
+  • SH $625 hedge: QUEUED (Correction active; Alpaca Day 117 blocked)
+Close: S&P 7,499.36 (+0.80%) | Nasdaq 26,213.72 (+1.5%) | DOW 52,319.20 NEW ATH (+0.3%)
+NOT dist day confirmed ✅ (S&P +0.80% >> -0.20% threshold)
+Warsh ECB Forum Sintra: NEUTRAL — "prices too high" but NO rate hike signal for July → market rallied
+Dist count: 6/25 UNCHANGED | FTD window: CLOSED | State: 🔴 CORRECTION UNCHANGED
+Rally low 7,266.99 INTACT (232 pts margin — WIDENING strongly from 87 pts Jun 26)
+Bench: MRVL ~$295-300 74-76/100 ⬆️ STRONG RS | LRCX ~$430-445 72-75/100 ⬆️ | NVDA ~$193-196 69-70 | ARM 60-62 — ALL BLOCKED (Correction)
+Tomorrow (Jul 2): 🚨 NFP June jobs report 8:30 AM ET / 7:30 AM CT (consensus 172K) — CRITICAL dist day #7 risk if hot
+Circuit breakers: NONE | research_source: websearch_fallback | Alpaca Day 117 BLOCKED
+
+---
 ## 2026-06-30 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P ~+0.7% NOT DIST DAY — Q2/EOM RISK CLEARED — SEMI +3.6% — 6/25 UNCHANGED — ALPACA DAY 115 BLOCKED — NO TRADES]
 
 📊 EOD 2026-06-30 (Q2 close) | Equity $2,500.00 ($0 day, $0 week)

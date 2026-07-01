@@ -151,6 +151,78 @@ No new entries. No positions to manage. Monitor Warsh speech at 9:30 AM ET for d
 
 ---
 
+## 2026-07-01 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,499.36 +0.80% NOT DIST DAY ✅ — DOW NEW ATH — NASDAQ +1.5% — 6/25 UNCHANGED — ALPACA DAY 117 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: HTTP 000 — tunnel blocked Day 117; Perplexity: 403; AV: 403. All close data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (232 pts margin — WIDENING)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Final close data (Jul 1, 2026)
+
+| Index | Close | Change | Dist Day? |
+|---|---|---|---|
+| S&P 500 | **7,499.36** | **+0.80% / +58.93 pts** | ❌ NOT dist day ✅ |
+| Nasdaq | 26,213.72 | +1.5% | ❌ NOT dist day ✅ |
+| DOW | **52,319.20** | +0.3% (**NEW ATH ✅**) | ❌ NOT dist day ✅ |
+| QQQ | est. ~$748-750 | ~+1.7% | ❌ NOT dist day ✅ |
+
+**Jun 30 actual close note:** Remote estimated ~7,469; back-calculation from Jul 1 data (+58.93 pts to 7,499.36) implies Jun 30 actual close ~7,440.43. Rally margin of 232 pts calculated from confirmed 7,499.36.
+
+### Distribution day verdict (Jul 1)
+
+**NOT a distribution day.** S&P closed +0.80% — definitively above the -0.20% threshold. No dist day #7. **6/25 UNCHANGED** ✅ Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23.
+
+### State check
+
+- **🔴 MARKET IN CORRECTION — UNCHANGED**
+- FTD window CLOSED (Day 7 failed Jun 22); next requires S&P close BELOW 7,266.99 for new Day 1
+- S&P 7,499.36 vs rally low 7,266.99 = **232 pts margin** (was 87 pts Jun 26; now 232 Jul 1 — expanding rapidly)
+- Market acting bullish but state locked until FTD by established rules
+
+### Sell-rules-engine
+
+0 open positions → **SKIPPED** ✅
+
+### Bench EOD status
+
+| Symbol | Est. Close | Score | Status |
+|---|---|---|---|
+| NVDA | ~$193-196 | 69-70/100 | 🟡 BENCH — closed near market-check level (-2%); cup wk 19; no handle; Aug 2026+ |
+| MRVL | ~$295-300 | **74-76/100 ⬆️** | 🟡 BENCH — STRONG RS; closed near $296 market-check level; V-recovery ≠ base; Correction blocks |
+| LRCX | ~$430-445 | 72-75/100 ⬆️ | 🟡 BENCH — closed in strong range; Correction blocks; earnings ~Jul 22 |
+| ARM | ~$325-340 | 60-62/100 | 🔴 BELOW THRESHOLD |
+
+**⚠️ MRVL at 74-76/100 is now within striking distance of 75 threshold.** If score reaches 75+ AND market transitions to Confirmed Uptrend (requires FTD) AND Alpaca restores AND a valid base forms: watchlist candidate. None of these conditions are currently met.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR ($0 P&L, 0 positions) |
+| Weekly -6% | ✅ CLEAR ($0 P&L week) |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day 117 |
+
+### Close summary
+
+**Close:** S&P 7,499.36 (+0.80%) | Nasdaq 26,213.72 (+1.5%) | DOW 52,319.20 NEW ATH
+**Distribution days:** 6/25 UNCHANGED | Today: NOT dist day ✅
+**Market state:** 🔴 Market in Correction (unchanged; FTD window closed)
+**Positions held:** 0
+**Actions today:** NONE
+**Circuit breakers:** NONE
+**P&L today:** $0.00 | **Equity:** $2,500.00
+
+### Watch at /pre-market Jul 2
+
+1. 🚨 **NFP June jobs report 8:30 AM ET / 7:30 AM CT** — CRITICAL: Consensus 172K. Hot (>175K) = hawkish = dist day #7 risk; Cool (<120K) = dovish relief (state still Correction without FTD)
+2. **Alpaca restore** — Day 118; SH $625 hedge FIRST order on restore
+3. **Rally low 7,266.99** — 232 pts margin; watch for NFP downside risk
+4. **Jul 3 half-day** (1 PM ET close) — low volume; no FTD qualification
+
+---
+
 ## 2026-06-25 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — S&P FUTURES +0.79% — 🚨 MU +15-16% AH BEAT CONFIRMED — PCE TODAY 7:30 AM CT — ALPACA DAY 110 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 110 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
