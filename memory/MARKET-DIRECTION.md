@@ -6,10 +6,29 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 1 /pre-market 6:00 AM CT: Futures ES -0.13% / NQ -0.08% / Dow -0.22% — mild risk-off ahead of Warsh Sintra 9:30 AM ET — ⚠️ DIST DAY #7 RISK if Warsh hawkish → -0.5%+ on volume — 6/25 dist days UNCHANGED — Rally low 7,266.99 INTACT (~202 pts buffer) — MRVL recovering ~$278.78 pre-mkt / UBS upgrade $340 / Amazon Trainium read-through — LRCX ~$430-445 score 74-76 — NVDA ~$200 score 69-70 — ARM 60-62 GAAP fail — Alpaca Day 116 BLOCKED — 0 positions — 0 trades)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 1 /market-check 10:00 AM CT: S&P intraday ~7,440-7,508 (opened -0.35%, recovered → high 7,508.29 ABOVE prior close) — DIST DAY #7 RISK DIMINISHED (Warsh neutral; JOLTS positive reaction) — final call at /eod-review — 6/25 UNCHANGED — MRVL $296.30 (+6.65% STRONG RS) — LRCX $414-438 — NVDA ~$195.60 (-2%) — ARM ~$325 — Alpaca Day 117 BLOCKED — 0 positions — 0 trades)*
 
-**Last updated:** 2026-07-01 (Wed) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED — ES -0.13% PRE-MKT — ⚠️ WARSH SINTRA 9:30 AM ET DIST DAY #7 RISK — 6/25 UNCHANGED — MRVL RECOVERING 71-73 — LRCX 74-76 — ALPACA DAY 116 BLOCKED — 0 TRADES**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (~202 pts margin vs 7,266.99 low)
+**Last updated:** 2026-07-01 (Wed) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — WARSH NEUTRAL (no hike signal; "inflation too high") — DIST DAY #7 RISK LOWER — S&P HIGH 7,508 ABOVE PRIOR CLOSE — 6/25 UNCHANGED — MRVL +6.65% $296 STRONG RS — LRCX $414-438 NEAR THRESHOLD — NVDA -2% $195 — ALPACA DAY 117 BLOCKED — 0 TRADES**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (~202+ pts margin vs 7,266.99 low)
+
+**✅ JUL 1 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — WARSH NEUTRAL — DIST DAY #7 RISK LOWER — S&P HIGH 7,508.29 ABOVE PRIOR CLOSE — 6/25 UNCHANGED — MRVL +6.65% $296 RS SIGNAL — LRCX $414-438 — NVDA -2% $195 — ALPACA DAY 117 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 117 BLOCKED
+- **Warsh Sintra speech (9:30 AM ET):** Neutral outcome. Warsh said "prices are too high" and remained open to AI deflationary effects. **No explicit rate hike signal for July.** Market reaction: opened ~-0.35% on Warsh but quickly recovered — S&P intraday high **7,508.29** (+0.52% above Jun 30 close of 7,469). Dist day #7 risk MATERIALLY LOWER than pre-market feared.
+- **JOLTS data (released Jun 30 AMC):** Job openings 7.6M vs 6.975M est — BEAT. Two-year high. Labor market expanding. Hawkish long-term (wage gains / rate hike Jul-Sep risk) but market reacted positively near-term (+JOLTS confirms solid economic backdrop).
+- **S&P 500 intraday (10 AM CT / 11 AM ET):** Opened down ~-0.35% from 7,469, high 7,508.29 → net ABOVE prior close. Cannot confirm dist day until EOD. Rally low 7,266.99 margin widening with recovery (now ~241 pts at intraday high).
+- **Distribution day check (ongoing — to be confirmed at /eod-review):** S&P opened below prior close but recovered above — POSSIBLE NOT a dist day. Volume unclear (Alpaca blocked). **Monitor at 3 PM CT.**
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Abort gates:** Correction ✅ | Alpaca blocked ✅ | Daily CB clear ✅ | Weekly CB clear ✅ | Drawdown clear ✅ | Trades 0/3 ✅ | Positions 0/4 ✅ | Cash 100% ✅
+- **Bench status (10 AM CT intraday):**
+  - NVDA: ~$195.60 (range $193.45-$199.51, ~-2.2%) | **69-70/100 UNCHANGED** | Chip selloff; triple headwind unchanged; cup wk 19; no handle; Aug 2026+ timeline
+  - MRVL: ~$296.30 (+6.65% — OUTPERFORMING sharply on a down chip day) | **74-76/100 ⬆️ UPGRADED** (L-letter recovering very strongly; RS signal extremely bullish — +6.65% when NVDA -2% = sector leadership) | No base yet (V-recovery from $252→$296 = not a base); Correction blocks
+  - LRCX: range $414.01-$438.50 (open $416.29) | **72-75/100** (below pre-market 74-76 est; chip pressure offset by analyst bid) | Approaching threshold but no base/pivot; Correction + earnings blackout Jul 22
+  - ARM: ~$320-340 est. | **60-62/100 UNCHANGED** | GAAP C-letter fail; New Street Neutral
+- **Bench promotions:** NONE (no defined pivots; no bases formed; Correction blocks)
+- **Key risk remaining this week:** NFP Thu Jul 2 8:30 AM ET (consensus 172K; hot = dist risk; cool = relief). Jul 3 half-day. Jul 4 closed.
+- **Actions: NONE** (Correction + Alpaca Day 117 blocked + 0 positions + 0 primary watchlist)
+- **⚠️ SH HEDGE:** QUEUED — Alpaca Day 117 BLOCKED — FIRST order on restore
+- `research_source: websearch_fallback` | Alpaca Day 117 BLOCKED | Perplexity 403 | AV 403
 
 **✅ JUN 30 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~+0.7% ~7,469 NOT DIST DAY — NASDAQ ~+1.4% — Q2/EOM DIST RISK CLEARED ✅ — SEMI +3.6% TECH-LED Q2 CLOSE — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (~202 PTS) — ALPACA DAY 115 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 115 BLOCKED

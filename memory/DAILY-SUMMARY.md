@@ -3587,3 +3587,21 @@ Removed: none
 Key catalyst today: ⚠️ Warsh Sintra 9:30 AM ET (hawkish = dist day #7) + JOLTS job openings
 Plan: NO ENTRIES. Monitor Warsh for dist day signal. SH $625 hedge QUEUED (execute first on Alpaca restore).
 research_source: websearch_fallback | Alpaca Day 116 BLOCKED | Perplexity 403 | AV 403
+
+---
+## 2026-07-01 15:16 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-01 10:00 AM CT
+Market: 🔴 Correction (6/25 dist) | Circuit breakers: NONE
+Actions taken:
+  No new entries — Correction gate (no long entries in Correction)
+  No positions to sell (0 held)
+Watchlist status: 0 primary ready, 4 bench (MRVL 74-76⬆️ / LRCX 72-75 / NVDA 69-70 / ARM 60-62)
+Open positions: 0 | Cash: 100%
+Weekly trade count: 0/3 used
+Warsh speech (9:30 AM ET): NEUTRAL — no hike signal, inflation 'too high' — dist day #7 risk LOWER (S&P intraday high 7,508 > 7,469 close). Confirm at /eod-review.
+MRVL: +6.65% $296.30 — STRONG RS vs chip sector; L-letter upgraded; still no base, still blocked
+LRCX: $414-438 (72-75); NVDA: $195.60 -2% (69-70); ARM: ~$330 (60-62)
+SH $625 hedge QUEUED — Alpaca Day 117 BLOCKED (Day 117 straight)
+⚠️ CRITICAL: NFP Thu Jul 2 8:30 AM ET (consensus 172K) — hot print = dist risk; cool = relief
+Next check: /eod-review 3:15 PM CT

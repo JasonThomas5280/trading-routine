@@ -92,6 +92,65 @@ No new entries. No positions to manage. Monitor Warsh speech at 9:30 AM ET for d
 
 ---
 
+## 2026-07-01 (Wed) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — WARSH NEUTRAL — DIST DAY #7 RISK LOWER — MRVL +6.65% RS BREAKOUT — ALPACA DAY 117 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: curl 403 Day 117 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~241 pts margin at intraday high 7,508)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Abort gates — ALL FIRED (Correction)
+- Market = Correction → NO new long entries → ABORT
+- Alpaca Day 117 BLOCKED → SH hedge still unexecutable
+- Daily CB: CLEAR | Weekly CB: CLEAR | Drawdown: CLEAR | Weekly trades: 0/3 | Positions: 0/4 | Cash: 100%
+
+### Warsh Sintra speech (9:30 AM ET) — NEUTRAL OUTCOME
+- Said "prices are too high" and "we've all looked around and seen that prices are too high"
+- Acknowledged AI open-mindedness on productivity/deflationary effects — dovish lean on AI
+- **No explicit rate hike signal for July decision** — declined to hint at July path
+- Market reaction: S&P opened -0.35%, Nasdaq -0.72% on initial remarks, then RECOVERED — intraday high 7,508.29 ABOVE Jun 30 close 7,469
+- **Dist day #7 risk: MATERIALLY LOWER than feared.** Cannot confirm NOT dist day until 3 PM close. Flag for /eod-review.
+
+### JOLTS data (released Jun 30 AMC — context)
+- Job openings: 7.6M vs 6.975M est — BEAT; two-year high
+- Labor market = expanding; hawkish longer-term (wage gains → rate hike Jul/Sep risk)
+- Market reacted positively on Jul 1 open: confirms solid economic backdrop narrative
+
+### Intraday market snapshot (10 AM CT / 11 AM ET)
+- S&P 500: opened ~7,443 (-0.35% from 7,469 close), intraday high 7,508.29 (+0.52%), currently volatile
+- Nasdaq Composite: -0.72% initially, recovered partially
+- Chip sector mixed: NVDA -2%, MU/SNDSK -8% BUT MRVL +6.65%, Hyperscalers (META +8%, AMZN/MSFT/GOOGL) leading
+
+### Overnight gap check — open positions
+- 0 open positions → SKIPPED
+
+### Watchlist triggers
+- 0 primary watchlist items → SKIPPED
+
+### Position health check
+- 0 open positions → sell-rules-engine SKIPPED
+
+### Bench status (intraday 10 AM CT)
+- **NVDA (~$195.60, range $193.45-$199.51, ~-2.2%):** Score **69-70/100 UNCHANGED.** Chip weakness today. Triple headwind (GPU lease compression + insider selling + OpenAI IPO delay) UNCHANGED. Cup wk 19; no handle; Aug 2026+ timeline. Not actionable.
+- **MRVL (~$296.30, +6.65% from ~$278 pre-market):** Score **74-76/100 ⬆️ UPGRADED from 71-73.** This is a SIGNIFICANT relative strength signal — MRVL +6.65% when NVDA -2% on a mixed chip day = sector leadership. Amazon Trainium read-through (AWS selling MRVL-designed chips) + UBS upgrade ($340 PT) + NVIDIA-MRVL collaboration driving. L-letter score: improving sharply (RS rank recovering from Jun 29 selloff). **WATCH: No base formed yet** (V-recovery $252→$296 in 3 sessions is NOT a base; need 3-5 wk consolidation). Correction still blocks. Earnings ~late Aug 2026 (no blackout yet). `Amazon_Trainium_readthrough` `UBS_upgrade_340` `NVDA_MRVL_equity_collaboration`
+- **LRCX (~$416-438, range $414.01-$438.50, open $416.29):** Score **72-75/100** (slight pullback from pre-market 74-76 est. on chip pressure, offset by analyst bid). Triple analyst upgrade bid intact (BofA $480, WF $450, Cantor $500). Below threshold or at edge — Correction blocks regardless. ⚠️ Earnings blackout begins ~Jul 22.
+- **ARM (~$320-340 est.):** Score **60-62/100 UNCHANGED.** GAAP C-letter fail. New Street Neutral downgrade Jan. Not actionable.
+
+### Bench promotions/demotions
+- **No promotions.** No pivots defined (no bases formed). Correction blocks all.
+- **No demotions.** All bench names within expected ranges.
+
+### Key risks rest of week
+1. **Thu Jul 2 — NFP June (8:30 AM ET):** Consensus 172K. Hot >175K = higher-for-longer = dist day risk + deeper Correction. Cool <120K = dovish relief = potential FTD setup (requires new Day 1 first). Market-moving event.
+2. **Dist day #7 (today):** Monitor at /eod-review. If S&P closes -0.2%+ on volume > Jun 30 → 7/25 → state UNCHANGED (already Correction) but dist count deepens.
+3. **Jul 3 half-day (1 PM ET close):** Low volume; no FTD qualification.
+4. **Jul 4 CLOSED.**
+
+### Actions
+- **NONE.** Correction + Alpaca blocked + 0 positions + 0 primary watchlist.
+- SH $625 hedge QUEUED — first order on Alpaca restore.
+
+---
+
 ## 2026-06-25 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — S&P FUTURES +0.79% — 🚨 MU +15-16% AH BEAT CONFIRMED — PCE TODAY 7:30 AM CT — ALPACA DAY 110 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 110 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
