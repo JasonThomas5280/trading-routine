@@ -3624,3 +3624,21 @@ LRCX: $414-438 (72-75); NVDA: $195.60 -2% (69-70); ARM: ~$330 (60-62)
 SH $625 hedge QUEUED — Alpaca Day 117 BLOCKED (Day 117 straight)
 ⚠️ CRITICAL: NFP Thu Jul 2 8:30 AM ET (consensus 172K) — hot print = dist risk; cool = relief
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-07-02 11:22 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-02
+Market: 🔴 Correction (6/25 dist UNCHANGED) | Futures: ES −0.12% | Iran Strait of Hormuz → crude +2%
+Open positions: 0 | Circuit breakers: ALL CLEAR
+Overnight gaps: None (0 positions)
+Watchlist ready: NONE (Correction blocks all longs)
+Bench scores (updated from Jul 1 EOD):
+  MRVL ~$295-300 / 74-76 ⬆️ AT THRESHOLD (no base yet — need FTD + base + Alpaca restore)
+  LRCX ~$430-445 / 72-75 ⬆️ NEAR THRESHOLD (blackout Jul 22 — entry window closes Jul 18)
+  NVDA ~$197 / 69-70 (cup wk 19; no handle; Aug 2026+)
+  ARM ~$330 / 60 (below threshold; blackout Jul 22)
+Key event TODAY: NFP June 7:30 AM CT (consensus 172K; hot >200K = dist day #7 risk; cool <120K = relief)
+Geopolitical: Iran Strait of Hormuz threat → crude +2% → risk-off pre-market
+Dist count: 6/25 UNCHANGED | FTD window CLOSED | Rally low 7,266.99: 232 pts margin (widening)
+Plan: NO entries — Correction + Alpaca Day 118 BLOCKED. SH $625 QUEUED. Monitor NFP reaction.

@@ -6,10 +6,21 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 1 /eod-review 3:15 PM CT: S&P 7,499.36 CLOSE (+0.80% / +58.93 pts from ~7,440 Jun 30 actual) — NOT DIST DAY ✅ — 6/25 UNCHANGED — FTD window CLOSED — Rally low 7,266.99 INTACT (232 pts margin — WIDENING) — 50d SMA est. ~7,270 (gap 229 pts, 3.2%) — DOW new ATH 52,319 — MRVL est. ~$295-300 (74-76/100 ⬆️) — LRCX est. $430-445 (72-75/100 ⬆️) — Alpaca Day 117 BLOCKED — 0 positions — NFP Thu Jul 2 8:30 AM ET CRITICAL)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 2 /pre-market 6:00 AM CT: S&P last close 7,499.36 Jul 1 — 6/25 dist UNCHANGED — FTD window CLOSED — Rally low 7,266.99 INTACT (232 pts widening) — ES −0.12% pre-market — 🎯 NFP JUNE 7:30 AM CT TODAY (consensus 172K) — Iran Strait of Hormuz crude +2% — MRVL 74-76 AT THRESHOLD — LRCX 72-75 NEAR THRESHOLD — Alpaca Day 118 BLOCKED)*
 
-**Last updated:** 2026-07-01 (Wed) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P 7,499.36 +0.80% CLOSE — NOT DIST DAY — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (232 PTS WIDENING) — DOW NEW ATH 52,319 — MRVL 74-76 STRONG RS — ALPACA DAY 117 BLOCKED — NFP JUL 2 CRITICAL**
+**Last updated:** 2026-07-02 (Thu) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED — ES −0.12% — NFP 172K CONSENSUS PENDING — IRAN CRUDE +2% — MRVL 74-76 AT THRESHOLD — ALPACA DAY 118 BLOCKED**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,499.36 vs low 7,266.99 = **232 pts margin — WIDENING significantly**)
+
+**⏳ JUL 2 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES −0.12% — 🎯 NFP PENDING — IRAN STRAIT CRUDE +2% — ALPACA DAY 118 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 118 BLOCKED
+- **Pre-market snapshot:** ES futures −0.12% at ~7,534 | Iran threatened to close Strait of Hormuz (Israeli strikes on Hezbollah) → **crude oil +2%** → risk-off overnight
+- **🎯 NFP June 2026 — 8:30 AM ET / 7:30 AM CT (CRITICAL EVENT):** Consensus 172K new jobs, unemployment 4.3%. HOT (>200K) = hawkish = dist day #7 risk (7/25). COOL (<120K) = dovish relief; state still Correction without FTD. IN-LINE = muted.
+- **Open positions:** 0 → gap check SKIPPED ✅
+- **Bench watch:** MRVL ~$295-300 / **74-76/100 ⬆️** — 1 pt from threshold (NOT actionable — Correction + no base). LRCX ~$430-445 / **72-75/100** — approaching threshold (NOT actionable — Correction + earnings blackout Jul 22).
+- **Distribution day accounting:** 6/25 UNCHANGED through Jul 1 ✅
+- **Circuit breakers:** ALL CLEAR | P&L: $0 | Equity: $2,500 (HWM) | 0/3 weekly trades
+- **Remaining week:** NFP today → Jul 3 half-day (1 PM ET, thin, not FTD-eligible) → Jul 4 CLOSED
+- `research_source: websearch_fallback` | Alpaca Day 118 BLOCKED | Perplexity 403 | AV 403
 
 **✅ JUL 1 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,499.36 +0.80% NOT DIST DAY — NASDAQ +1.5% 26,213.72 — DOW NEW ATH 52,319.20 — 6/25 UNCHANGED ✅ — RALLY LOW 7,266.99 INTACT (232 PTS WIDENING) — ALPACA DAY 117 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 117 BLOCKED

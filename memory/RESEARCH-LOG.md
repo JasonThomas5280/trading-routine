@@ -12439,3 +12439,104 @@ Tech-fueled Q2 close. Semiconductor ETF (SOXX/SMH) +3.6% led into quarter-end. M
 
 `research_source: websearch_fallback` | Alpaca Day 115 BLOCKED | Perplexity 403 | AV 403
 
+
+---
+
+## 2026-07-02 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES −0.12% — 🎯 NFP JUNE 7:30 AM CT — IRAN STRAIT OF HORMUZ CRUDE +2% — MRVL 74-76 NEAR THRESHOLD — ALPACA DAY 118 BLOCKED
+
+**Research source:** websearch_fallback (Alpaca Day 118 BLOCKED — 403 proxy; Perplexity 403 proxy)
+**Market direction:** 🔴 Market in Correction | UNCHANGED | 6/25 dist days | FTD window CLOSED
+**S&P 500 last close:** 7,499.36 (Jul 1 — NOT dist day +0.80%) | Rally low 7,266.99: **232 pts margin (WIDENING)** | Dist 6/25 UNCHANGED
+**Open positions:** 0 → gap check SKIPPED
+
+---
+
+### Step 1: Gap Check on Open Positions
+
+**0 open positions. SKIPPED.** ✅
+
+---
+
+### Step 2: Market Overnight Context (Jul 1→2)
+
+- **ES futures:** −0.12% at ~7,534 pre-market. Slightly negative heading into NFP.
+- **🚨 Iran Strait of Hormuz:** Iran threatened to suspend nuclear talks and CLOSE the Strait of Hormuz in response to Israeli strikes on Hezbollah in Lebanon. **Crude oil +2%** overnight. Risk-off / energy bid / potential growth headwind. If risk-off accelerates through session, dist day #7 risk non-zero.
+- **🎯 NFP June 2026 — 8:30 AM ET / 7:30 AM CT TODAY (CRITICAL):**
+  - Consensus: **172K new jobs** (same as May actual), unemployment 4.3% unchanged
+  - Scenario A — HOT (>200K): hawkish signal → rate hike Jul-Sep risk reinstated → dist day #7 risk (7/25) → Correction deepens
+  - Scenario B — COOL (<120K): dovish → relief rally possible; Correction state unchanged without FTD
+  - Scenario C — IN-LINE (~150-180K): muted reaction; market looks through to Q2 earnings (Jul 14+)
+- **Jul 3 tomorrow:** Half-day market close 1 PM ET. Thin liquidity. NOT eligible for FTD (volume insufficient).
+- **Jul 4 Friday:** MARKET CLOSED.
+
+---
+
+### Step 3: Catalyst Scan — Open Positions
+
+**0 open positions. SKIPPED.** ✅
+
+---
+
+### Step 4: Catalyst Scan — Primary Watchlist
+
+**0 primary watchlist items.** Market in Correction. SKIPPED. ✅
+
+---
+
+### Step 5: Bench Catalyst Scan (overnight Jul 1-2)
+
+**NVDA** (~$197.58 pre-market; range $193.45–$199.85):
+- Slightly up from Jul 1 EOD estimate (~$193-196). No major overnight catalyst found.
+- Analyst consensus Strong Buy (38 analysts, PT ~$298-302). Triple headwind (GPU lease, insider selling, OpenAI IPO delay) UNCHANGED.
+- Score: **69-70/100 UNCHANGED** | Cup wk 19; no handle; Aug 2026+ NOT actionable (Correction + no base).
+
+**MRVL** (~$295-300 EOD Jul 1 estimate):
+- No new overnight catalyst found. NFP outcome most relevant catalyst.
+- Score: **74-76/100 ⬆️ — AT THE THRESHOLD BOUNDARY.** STRONG RS — outperformed sharply Jul 1 (+6.65% when NVDA −2%). Amazon Trainium read-through (AWS considering selling MRVL chips to third parties). UBS upgrade $340 PT.
+- ⚠️ NOT actionable: Correction blocks all entries. V-recovery $252→$296 is NOT a base (needs 3-5 wk consolidation). Entry conditions: FTD + Alpaca restore + base formation.
+- Earnings ~late Aug 2026 (clear, no blackout).
+
+**LRCX** (~$430-445 EOD Jul 1 estimate):
+- Triple analyst upgrade: BofA $480, WF $450, Cantor $500. Score: **72-75/100 ⬆️** (approaching threshold).
+- ⚠️ NOT actionable: Correction blocks. No valid base/pivot. **⚠️ Earnings Jul 29 → blackout begins ~Jul 22 (≤3 weeks away).** Entry window closes permanently for this cycle after Jul 22.
+
+**ARM** (~$325-340 EOD Jul 1 estimate):
+- New Street Research downgrade: Neutral (470x trailing P/E). GAAP C-letter fails.
+- Score: **60/100 UNCHANGED** | Far below threshold. ⚠️ Earnings Jul 29 → blackout ~Jul 22.
+
+---
+
+### Step 6: Buy-Zone Readiness
+
+Primary watchlist: **NONE** (Correction blocks all longs).
+
+| Symbol | Est. Price | Score | Status |
+|---|---|---|---|
+| MRVL | ~$295-300 | **74-76/100 ⬆️** | 🔴 NOT ACTIONABLE — Correction + no base |
+| LRCX | ~$430-445 | **72-75/100 ⬆️** | 🔴 NOT ACTIONABLE — Correction + blackout Jul 22 |
+| NVDA | ~$197.58 | 69-70/100 | 🔴 NOT ACTIONABLE — Correction + no base |
+| ARM | ~$330 | 60/100 | 🔴 NOT ACTIONABLE — below threshold + blackout Jul 22 |
+
+Key watch: **MRVL at 74-76/100 is the closest name to 75 threshold.** If Correction ends via FTD AND a proper base forms → FIRST entry candidate.
+
+---
+
+### Step 7: Circuit Breaker Check
+
+- Account equity: $2,500 (HWM) | P&L: $0 | 0 trades this week
+- Daily −3% CB: **CLEAR** ✅
+- Weekly −6% CB: **CLEAR** ✅
+- Drawdown −12% from HWM: **CLEAR** ✅ ($0 drawdown)
+- PDT count: 0/3: **CLEAR** ✅
+- All circuit breakers: **ALL CLEAR** ✅
+
+---
+
+### Summary
+
+- **Actions:** NONE
+- **State:** 🔴 Correction (6/25 dist, FTD window CLOSED, rally low 7,266.99 = 232 pts margin)
+- **Today's key risk:** NFP at 7:30 AM CT (172K consensus) + Iran Strait of Hormuz crude +2%
+- **Bench watch:** MRVL **74-76/100** (1 pt from threshold — entry enabled ONLY after FTD + base + Alpaca restore)
+- **Hedge:** SH $625 QUEUED (Alpaca Day 118 BLOCKED)
+- **Next routine:** /market-check 10:00 AM CT

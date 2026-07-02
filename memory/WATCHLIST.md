@@ -80,15 +80,21 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ### Entry Execution Plan — Week of Jun 30 - Jul 3
 
-**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day 113 BLOCKED + 0 candidates ≥75)
+**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day 118 BLOCKED + 0 candidates ≥75)
 
 **FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5)
 
-**Week's critical path:**
-- **Mon Jun 30 (Q2/EOM):** ⚠️ Quarter-end rebalancing. Elevated institutional selling risk into quarter-end (growth/tech). If S&P -0.4%+ on above-avg vol → Dist Day #7 → 7/25. Watch rally low 7,266.99 (87 pts below close — CRITICAL). ISM Manufacturing data.
-- **Wed Jul 1:** Fed Chair Warsh speaks 9:30 AM ET in Portugal. Hawkish language = potential Dist Day catalyst. JOLTS job openings data.
-- **Thu Jul 2:** 🎯 **NFP June jobs report (8:30 AM ET, released early for Jul 4).** Hot print (>175K) = higher-for-longer confirmed = potential dist day + deeper Correction. Cool print (<120K) = dovish relief = potential bounce. Consensus ~172K. Watch S&P reaction.
-- **Fri Jul 3:** Half-day (closes 1 PM ET). Thin liquidity. Low-conviction moves. Not counted for FTD threshold (volume insufficient for holiday session).
+**Week's critical path (Jul 2 /pre-market update):**
+- ~~Mon Jun 30 (Q2/EOM)~~ ✅ RESOLVED — S&P +0.7% ~7,440; NOT dist day; semi +3.6%; LRCX/MRVL/NVDA all recovered strongly; best Q2 in 6 years ✅
+- ~~Wed Jul 1: Warsh + JOLTS~~ ✅ RESOLVED — Warsh NEUTRAL (no hike signal); JOLTS 7.6M BEAT (labor market strong); S&P +0.80% to 7,499.36 NOT dist day; DOW NEW ATH 52,319; MRVL +6.65% (74-76/100 RS signal); Dist 6/25 UNCHANGED ✅
+- **Thu Jul 2 (TODAY):** 🎯 **NFP June 8:30 AM ET / 7:30 AM CT — CRITICAL.** Consensus 172K, unemp 4.3%. Hot (>200K) = dist day #7 risk. Cool (<120K) = dovish. Iran Strait of Hormuz crude +2% adds risk-off pressure.
+- **Fri Jul 3:** Half-day (1 PM ET). Thin liquidity. NOT FTD-eligible (volume insufficient). Low-signal.
+- **Mon Jul 7:** Q3 first full week. Q2 earnings season begins ~Jul 14 (JPM, GS).
+
+**Bench re-score priority on FTD (updated):**
+1. MRVL first (74-76/100, closest to 75; needs FTD + base + Alpaca restore)
+2. LRCX (72-75/100, BUT blackout Jul 22 — entry window closes permanently by Jul 18)
+3. NVDA (69-70/100, Aug 2026+ base timeline)
 
 **Conditional FTD plan (if S&P closes below 7,266.99 = new Day 1):**
 - Day 1 filing: Rally attempt restarts; FTD window opens Day 4-7
