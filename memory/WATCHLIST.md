@@ -87,9 +87,9 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 **Week's critical path (Jul 2 /pre-market update):**
 - ~~Mon Jun 30 (Q2/EOM)~~ ✅ RESOLVED — S&P +0.7% ~7,440; NOT dist day; semi +3.6%; LRCX/MRVL/NVDA all recovered strongly; best Q2 in 6 years ✅
 - ~~Wed Jul 1: Warsh + JOLTS~~ ✅ RESOLVED — Warsh NEUTRAL (no hike signal); JOLTS 7.6M BEAT (labor market strong); S&P +0.80% to 7,499.36 NOT dist day; DOW NEW ATH 52,319; MRVL +6.65% (74-76/100 RS signal); Dist 6/25 UNCHANGED ✅
-- **Thu Jul 2 (TODAY):** 🎯 **NFP June 8:30 AM ET / 7:30 AM CT — CRITICAL.** Consensus 172K, unemp 4.3%. Hot (>200K) = dist day #7 risk. Cool (<120K) = dovish. Iran Strait of Hormuz crude +2% adds risk-off pressure.
-- **Fri Jul 3:** Half-day (1 PM ET). Thin liquidity. NOT FTD-eligible (volume insufficient). Low-signal.
-- **Mon Jul 7:** Q3 first full week. Q2 earnings season begins ~Jul 14 (JPM, GS).
+- ~~Thu Jul 2: NFP June~~ ✅ RESOLVED — NFP +57K (MASSIVE MISS vs 172K consensus); unemp 4.2% (improved); S&P +0.49% NOT dist day → rate hike odds DROP sharply; dovish reaction; Dist 6/25 UNCHANGED; ⚠️ LRCX intraday weakness (~$381-415 range); Alpaca Day 119 BLOCKED ✅
+- ~~Fri Jul 3:~~ ⚠️ **CORRECTION — Jul 3 is FULLY CLOSED** (NYSE/Nasdaq closed; Jul 4 falls Saturday → observed Friday). NOT half-day as previously noted. No trading.
+- **Mon Jul 7:** Q3 first full week. Q2 earnings season begins ~Jul 14 (JPM, GS). LRCX entry window CLOSES ~Jul 18 (blackout Jul 22). Alpaca restore Day 122 (SH $625 FIRST order).
 
 **Bench re-score priority on FTD (updated):**
 1. MRVL first (74-76/100, closest to 75; needs FTD + base + Alpaca restore)

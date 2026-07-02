@@ -6,10 +6,35 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 2 /pre-market 6:00 AM CT: S&P last close 7,499.36 Jul 1 — 6/25 dist UNCHANGED — FTD window CLOSED — Rally low 7,266.99 INTACT (232 pts widening) — ES −0.12% pre-market — 🎯 NFP JUNE 7:30 AM CT TODAY (consensus 172K) — Iran Strait of Hormuz crude +2% — MRVL 74-76 AT THRESHOLD — LRCX 72-75 NEAR THRESHOLD — Alpaca Day 118 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 2 /market-check 10:00 AM CT: NFP June +57K (MASSIVE MISS vs 172K consensus) — S&P +0.49% intraday → NOT dist day — 6/25 UNCHANGED — FTD window CLOSED — Rally low 7,266.99 INTACT (~269 pts widening) — Rate hike odds DROP sharply — Jul 3 FULLY CLOSED — Alpaca Day 119 BLOCKED)*
 
-**Last updated:** 2026-07-02 (Thu) — `/pre-market` 6:00 AM CT — **🔴 CORRECTION UNCHANGED — ES −0.12% — NFP 172K CONSENSUS PENDING — IRAN CRUDE +2% — MRVL 74-76 AT THRESHOLD — ALPACA DAY 118 BLOCKED**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,499.36 vs low 7,266.99 = **232 pts margin — WIDENING significantly**)
+**Last updated:** 2026-07-02 (Thu) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — NFP +57K MASSIVE MISS — S&P +0.49% NOT DIST DAY — DIST 6/25 UNCHANGED — ALPACA DAY 119 BLOCKED — 0 POSITIONS — NO ACTIONS**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P ~7,536 intraday vs low 7,266.99 = **~269 pts margin — WIDENING**)
+
+**✅ JUL 2 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — NFP +57K MASSIVE MISS — S&P +0.49% NOT DIST DAY — DIST 6/25 UNCHANGED — ALPACA DAY 119 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 119 BLOCKED
+- **🚨 NFP June 2026 (7:30 AM CT — RELEASED):** +57K (MASSIVE MISS vs consensus ~172K) | Unemployment 4.2% (improved from 4.3%) | Wages +3.5% YoY (up from 3.4%) | Prior months revised DOWN -74K combined (April -31K, May -43K) | **Market interpretation: DOVISH → rate hike odds DROP sharply**
+- **S&P 500 intraday (10 AM CT):** ~+0.49% (~7,536 intraday) | Dow +0.46% | Nasdaq +0.40% | Russell 2000 -0.39% (small caps lagging) | **Trending: NOT a distribution day** (confirmed at /eod-review)
+- **Distribution day check (intraday):** S&P +0.49% → above -0.20% threshold → **trending NOT dist day** ✅ | Confirm at close
+- **Distribution day accounting:** No changes. Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23. **Net: 6/25 UNCHANGED** ✅
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** (6/25 dist = Correction; FTD window CLOSED; S&P not closing below rally low 7,266.99)
+- **Rally attempt check:** S&P ~7,536 intraday vs rally low **7,266.99** → margin ~**269 pts (+3.7%)** → rally attempt **INTACT ✅ — buffer widening further** (232 pts Jul 1 → ~269 pts Jul 2 intraday)
+- **FTD status:** Window CLOSED. NFP rally takes S&P FURTHER from 7,266.99 low → no new Day 1 today. FTD path still requires S&P close BELOW 7,266.99 first.
+- **⚠️ CALENDAR CORRECTION:** Jul 3 is **FULLY CLOSED** (not half-day as previously noted). NYSE/Nasdaq closed Jul 3 because Jul 4 falls on Saturday → observed Friday. Next session: **Mon Jul 7** ← CORRECTED from "half-day"
+- **Abort gates:** Correction ✅ | Alpaca blocked ✅ | Daily CB clear ✅ | Weekly CB clear ✅ | Drawdown clear ✅ | Trades 0/3 ✅ | Positions 0/4 ✅ | Cash 100% ✅
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Watchlist triggers:** 0 primary items → SKIPPED
+- **Bench status (10 AM CT):**
+  - NVDA: ~$193-200 est. (data via WebSearch; range similar to yesterday) | **69-70/100 UNCHANGED** | Cup wk 19; no handle; Aug 2026+ | Triple headwind unchanged
+  - MRVL: ~$275-296 range (yesterday close ~$295-300; today unclear on weaker Nasdaq open) | **74-76/100 UNCHANGED ⬆️** | AT THRESHOLD but no base (V-recovery not a base); Correction blocks; 3-5 wk base still needed
+  - LRCX: Today possibly lower (~$381-415 range inferred) | **72-75/100** | Correction blocks; ⚠️ earnings blackout begins **Jul 22** → entry window CLOSES ~Jul 18
+  - ARM: ~$320-340 est. | **60-62/100 UNCHANGED** | GAAP C-letter fail
+- **Bench promotions:** NONE (no bases formed; no pivots defined; Correction blocks)
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 119 BLOCKED + 0 positions + 0 primary watchlist)
+- **⚠️ RATE IMPLICATIONS OF NFP:** Weak jobs (-74K prior revisions + 57K Jun) suggests labor market softening → Fed less likely to hike → 2yr yield fell → dovish pivot narrative. For CAN SLIM: if Fed stays on hold, growth/tech re-rates higher = bullish setup WHEN uptrend confirmed
+- **⚠️ NEXT (Mon Jul 7 — Q3 first full week; next session):** (1) **Alpaca restore** — Day 122; SH $625 FIRST order (2) **Q2 earnings season kicks off** ~Jul 14 (JPM, GS) (3) **LRCX entry window CLOSES ~Jul 18** (blackout Jul 22; 5 days pre-earnings) (4) **Dist day expiry path:** Jun 3 → ~Aug 8 → 5/25 (5) **FTD path:** need S&P close below 7,266.99 for new Day 1; then Day 4-7 +1.25%+ on volume
+- `research_source: websearch_fallback` | Alpaca Day 119 BLOCKED | Perplexity 403 | AV 403
 
 **⏳ JUL 2 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES −0.12% — 🎯 NFP PENDING — IRAN STRAIT CRUDE +2% — ALPACA DAY 118 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 118 BLOCKED

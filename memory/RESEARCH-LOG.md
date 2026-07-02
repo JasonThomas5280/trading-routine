@@ -46,6 +46,65 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-02 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — NFP +57K MASSIVE MISS — S&P +0.49% NOT DIST DAY — ALPACA DAY 119 BLOCKED — LAST SESSION THIS WEEK
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 119 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~269 pts intraday from ~7,536)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Abort gates — ALL FIRED (Correction)
+- Market = 🔴 Correction → NO new long entries → ABORT
+- Alpaca Day 119 BLOCKED → SH $625 hedge still unexecutable
+- Daily CB: CLEAR | Weekly CB: CLEAR | Drawdown: CLEAR | Trades 0/3 | Positions 0/4 | Cash 100%
+
+### NFP June 2026 (7:30 AM CT — RELEASED)
+- **Result: +57K** (MASSIVE MISS vs consensus ~172K)
+- Unemployment: 4.2% (improved from 4.3%)
+- Wages: +3.5% YoY (up from 3.4%)
+- Prior months revised DOWN: April -31K, May -43K = **-74K combined**
+- **Market interpretation: DOVISH** — rate hike odds drop sharply; 2yr Treasury yield falls
+- **Rate hike probability:** Materially reduced for Jul and Sep 2026 decisions
+
+### Intraday market (10 AM CT)
+- S&P 500: +0.49% (~7,536) | Dow: +0.46% | Nasdaq: +0.40% | Russell 2000: -0.39%
+- Distribution day: Trending NOT dist day (confirm at /eod-review if someone runs it today)
+- Market character: Tech/large cap bid on dovish repricing; small caps lagging
+
+### Overnight gap check — open positions
+- 0 open positions → SKIPPED
+
+### Watchlist triggers
+- 0 primary items → SKIPPED
+
+### Position health check
+- 0 open positions → sell-rules-engine SKIPPED
+
+### Bench status (10 AM CT intraday)
+- **MRVL (~$296 est., data limited):** Score **74-76/100 UNCHANGED ⬆️** | AT THRESHOLD but no base (V-recovery $252→$296 not a base; need 3-5 wk consolidation). Correction blocks. Earnings ~late Aug 2026 (no blackout yet). `Amazon_Trainium_readthrough` `UBS_upgrade_340` `NVDA_MRVL_collaboration` `RS_breakout_Jul1`
+- **LRCX (~$381-415 range est. — possible weakness today vs $433 yesterday):** Score **72-75/100** (lower end today if weakness confirmed). Triple analyst upgrade bid intact. ⚠️ **Earnings blackout begins ~Jul 22 → entry window CLOSES ~Jul 18 PERMANENTLY for this cycle.** `LRCX_triple_analyst_upgrade` `AI_capex_wafer_fab`
+- **NVDA (~$193-200 range):** Score **69-70/100 UNCHANGED** | Cup wk 19; no handle; triple headwind unchanged (GPU lease + insider selling + OpenAI IPO delay); Aug 2026+ timeline. `B200_GPU_lease_compression` `insider_selling_flag` `OpenAI_IPO_delay_AI_demand_risk`
+- **ARM (~$320-340 est.):** Score **60-62/100 UNCHANGED** | GAAP C-letter fail; New Street Neutral; not actionable. ⚠️ Earnings ~Jul 29 (blackout begins ~Jul 22).
+
+### Bench promotions/demotions
+- No promotions (no bases; no pivots; Correction blocks)
+- No demotions
+
+### Key implications of dovish NFP
+1. Fed less likely to hike Jul/Sep → growth/tech favorable when uptrend confirmed
+2. Prior-month revisions (-74K combined) suggest labor market was softer than thought → recession risk slightly elevated
+3. Wages +3.5% still above Fed 2% target but with weak jobs = stagflation lite (mixed)
+4. For CAN SLIM timing: dovish repricing could compress the remaining correction IF distribution days expire and market re-rates → watch Aug 8 for Jun 3 expiry → 5/25
+
+### Calendar correction (important)
+- ⚠️ **Jul 3 is FULLY CLOSED** (not half-day as previously noted). NYSE/Nasdaq close Friday Jul 3 because Jul 4 falls on Saturday → observed the preceding Friday.
+- **Next session: Mon Jul 7** (first day of Q3 full week)
+
+### Actions
+- NONE. Correction + Alpaca blocked + 0 positions + 0 primary watchlist.
+- SH $625 hedge QUEUED — first order on Alpaca restore (Day 122 expected Mon Jul 7).
+
+---
+
 ## 2026-07-01 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚠️ WARSH SINTRA 9:30 AM ET — DIST DAY #7 RISK — ALPACA DAY 116 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: empty response Day 116 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)

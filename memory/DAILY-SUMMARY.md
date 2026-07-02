@@ -1,5 +1,26 @@
 
 ---
+## 2026-07-02 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — NFP +57K MASSIVE MISS — S&P +0.49% NOT DIST DAY — DIST 6/25 UNCHANGED — ALPACA DAY 119 BLOCKED — NO TRADES — LAST SESSION OF WEEK (JUL 3 FULLY CLOSED)]
+
+📈 Market-check 2026-07-02 10:00 CT
+Market: 🔴 Correction (6/25 dist UNCHANGED) | Circuit breakers: NONE
+Actions taken:
+  No new entries — Correction gate (ALL long entries blocked)
+  No positions to sell (0 held)
+Watchlist status: 0 primary ready, 4 bench (MRVL 74-76⬆️ / LRCX 72-75 / NVDA 69-70 / ARM 60-62)
+Open positions: 0 | Cash: 100%
+Weekly trade count: 0/3 used
+NFP June 2026: +57K (MASSIVE MISS vs 172K consensus) — Unemployment 4.2% (improved) — Prior months revised -74K combined — Rate hike odds DROP sharply — DOVISH
+S&P 500: +0.49% intraday (~7,536) — Dow +0.46% — Nasdaq +0.40% — Russell 2000 -0.39% — NOT a dist day (confirm at /eod-review)
+Rally low 7,266.99 INTACT: ~269 pts margin (widening); FTD window CLOSED
+⚠️ CALENDAR CORRECTION: Jul 3 FULLY CLOSED (NYSE closed — Jul 4 Saturday observed Friday). Next session: Mon Jul 7.
+MRVL ~$296 est. (74-76/100 ⬆️ AT THRESHOLD — no base yet, Correction blocks)
+LRCX ~$381-415 range est. (72-75/100 — ⚠️ blackout Jul 22; entry window closes Jul 18)
+NVDA ~$193-200 est. (69-70/100 — cup wk 19; no handle; Aug 2026+)
+SH $625 hedge QUEUED — Alpaca Day 119 BLOCKED (Day 119 straight)
+Next: /eod-review SKIPPED today (no positions; last session of week; no follow-up needed before Mon Jul 7 — UNLESS Correction state changes intraday or dist day #7 materializes at close)
+
+---
 ## 2026-07-01 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,499.36 +0.80% NOT DIST DAY ✅ — DOW NEW ATH 52,319 — NASDAQ +1.5% — 6/25 UNCHANGED — RALLY LOW 7,266.99 (232 PTS) — ALPACA DAY 117 BLOCKED — NO TRADES]
 
 📊 EOD 2026-07-01 | Equity $2,500.00 (+$0.00 day, +$0.00 week)
