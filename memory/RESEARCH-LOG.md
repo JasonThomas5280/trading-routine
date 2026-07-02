@@ -46,6 +46,53 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-02 (Thu) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,483.24 BEARISH REVERSAL — NOT DIST DAY — DOW NEW ATH — ALPACA DAY 119 BLOCKED — LAST SESSION BEFORE JUL 4 WEEKEND
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 119 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (216 pts)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Close data (Jul 2, 2026)
+- **S&P 500:** 7,483.24 (−0.215% / −16.12 pts from 7,499.36)
+- **SPY:** $743.90 (−0.25% from $745.76) | vol 36.18M | range $743.67–$751.31 (closed near session LOW — bearish)
+- **Dow:** 52,900.07 (+1.14% / +594.83 pts) — **NEW ATH ✅**
+- **Nasdaq Composite:** 25,832.67 (−0.80% / −207.36 pts)
+- **QQQ est.:** ~$714 (est. −1.5% from $725.17) | range $705.17–$720.91
+
+### Distribution day check (Jul 2 FINAL)
+- S&P 500: −0.215% ≥ −0.20% threshold → price criterion **MET** ✅
+- SPY volume: 36.18M vs Jul 1 volume 47.1M → **volume LOWER** ❌
+- **VERDICT: NOT a distribution day** (both price AND higher-volume required)
+- Distribution count: **6/25 UNCHANGED** | Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23
+
+### State transition: NONE
+- 🔴 Market in Correction — **UNCHANGED**
+- ⚠️ NOTE: Bearish reversal (opened +0.49%, closed −0.215%) is qualitatively concerning even without formal dist day. Tech/chips in persistent distribution. Rally margin narrowed: 232 pts Jul 1 → **216 pts Jul 2**
+
+### Sell-rules-engine
+- 0 open positions → **SKIPPED** ✅
+
+### Actions today
+- **NONE** — Correction + Alpaca Day 119 BLOCKED + 0 positions + 0 primary watchlist ≥75
+
+### Circuit breakers
+- ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM)
+
+### Bench status (Jul 2 close est.)
+- **NVDA:** ~$193-196 est. | **69-70/100 UNCHANGED** | Cup wk 20; no handle; Aug 2026+ | Triple headwind unchanged (GPU lease compression, insider selling, OpenAI IPO delay)
+- **MRVL:** ~$285-295 est. (Nasdaq -1.5% drag; yesterday $295-300) | **73-75/100** | RS strength still notable but no base formed; Correction blocks; earnings ~late Aug 2026
+- **LRCX:** ~$410-430 est. (chip pressure today) | **71-74/100** | ⚠️ Entry window CLOSES ~Jul 18 permanently (blackout Jul 22); Correction blocks; monitor for base formation on Mon Jul 7
+- **ARM:** ~$315-330 est. | **60-62/100 UNCHANGED** | GAAP C-letter fail; not actionable
+
+### Next session
+- **Mon Jul 7** (Jul 3 + Jul 4 closed)
+- Priority 1: Alpaca restore → SH $625 hedge FIRST
+- Priority 2: Assess tech damage from today's reversal; watch LRCX entry window (Jul 18 hard close)
+- Priority 3: Begin tracking Q2 earnings dates (JPM, GS ~Jul 14)
+- Rally low watch: 7,266.99 — margin narrowed to 216 pts; if Q3 opens weak Monday, watch for new rally low
+
+---
+
 ## 2026-07-02 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — NFP +57K MASSIVE MISS — S&P +0.49% NOT DIST DAY — ALPACA DAY 119 BLOCKED — LAST SESSION THIS WEEK
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 119 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)

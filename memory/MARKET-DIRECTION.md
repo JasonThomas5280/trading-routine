@@ -6,10 +6,28 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 2 /market-check 10:00 AM CT: NFP June +57K (MASSIVE MISS vs 172K consensus) — S&P +0.49% intraday → NOT dist day — 6/25 UNCHANGED — FTD window CLOSED — Rally low 7,266.99 INTACT (~269 pts widening) — Rate hike odds DROP sharply — Jul 3 FULLY CLOSED — Alpaca Day 119 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 2 /eod-review 3:15 PM CT CLOSE: S&P 7,483.24 −0.215% | DOW 52,900.07 +1.14% NEW ATH | NASDAQ 25,832.67 −0.80% | SPY $743.90 vol 36.18M < Jul1 47.1M → NOT dist day ✅ | 6/25 UNCHANGED | Rally low 7,266.99 INTACT (216 pts) | NEXT SESSION Mon Jul 7 | Alpaca Day 119 BLOCKED)*
 
-**Last updated:** 2026-07-02 (Thu) — `/market-check` 10:00 AM CT — **🔴 CORRECTION UNCHANGED — NFP +57K MASSIVE MISS — S&P +0.49% NOT DIST DAY — DIST 6/25 UNCHANGED — ALPACA DAY 119 BLOCKED — 0 POSITIONS — NO ACTIONS**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P ~7,536 intraday vs low 7,266.99 = **~269 pts margin — WIDENING**)
+**Last updated:** 2026-07-02 (Thu) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P CLOSE 7,483.24 −0.215% BEARISH REVERSAL — NOT DIST DAY (vol 36.18M < 47.1M yesterday) — DIST 6/25 UNCHANGED — DOW NEW ATH 52,900 — NASDAQ −0.80% — RALLY LOW INTACT 216 PTS — 0 POSITIONS — NO ACTIONS**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,483.24 vs low 7,266.99 = **~216 pts margin — NARROWED from 232 Jul 1**)
+
+**✅ JUL 2 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,483.24 −0.215% BEARISH REVERSAL — NOT DIST DAY (vol LOWER) — NASDAQ −0.80% — DOW NEW ATH 52,900 — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (216 PTS — NARROWING) — ALPACA DAY 119 BLOCKED — 0 POSITIONS — NO ACTIONS — LAST SESSION BEFORE JUL 4 WEEKEND):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 119 BLOCKED
+- **S&P 500 Jul 2 CLOSE: 7,483.24 (−0.215% / −16.12 pts** from Jul 1 close 7,499.36) | Dow 52,900.07 (+1.14% / +594.83 pts — **NEW ATH ✅**) | Nasdaq Composite 25,832.67 (−0.80% / −207.36 pts) | SPY close $743.90 (−0.25% from $745.76)
+- **Session character: BEARISH REVERSAL.** Opened higher (+0.49% at 10 AM CT on dovish NFP) then reversed sharply lower intraday as tech/chip pressure accelerated. SPY intraday range $743.67–$751.31 — **closed near session low**. Tesla −7% despite delivery beat (sell-the-news). Dow rotated to new ATH while Nasdaq fell -0.80%. QQQ range $705.17–$720.91 (est. close ~$714, −1.5% from $725.17).
+- **Distribution day check (Jul 2 FINAL):** S&P close −0.215% = **meets −0.20% price threshold ✅** | BUT SPY volume 36.18M **< Jul 1 volume 47.1M** → **volume LOWER** ❌ → **NOT a distribution day** ✅ (both criteria required: price + higher volume)
+- **Distribution day accounting:** No changes. Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23. **Net: 6/25 UNCHANGED** ✅ | ⚠️ NOTE: Bearish reversal close is qualitatively concerning even without formal dist day count
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** (6/25 dist = Correction; FTD window CLOSED; S&P has not closed below 7,266.99 rally low → no new Day 1 established)
+- **Rally attempt check:** S&P 7,483.24 vs rally low **7,266.99** (Jun 10) → margin **216.25 pts (+2.98%)** → rally attempt **INTACT ✅** but NARROWING (269 pts intraday Jul 2 AM → 232 pts Jul 1 EOD → **216 pts Jul 2 EOD**)
+- **50d MA proximity:** S&P 7,483.24 | 50d MA ~7,260 est. | Gap ~223 pts (~2.98%) | SPY low today $743.67 (intraday) still well above 50d MA zone
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Portfolio-level checks:** Dist 6/25 — no threshold change ✅ | 0 positions ✅ | Hedge check: SH $625 QUEUED (Alpaca blocked) ✅
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day 119 blocked + 0 positions)
+- **⚠️ DIST DAY EXPIRY PATH (unchanged):** Jun 3 → ~Aug 8 → 5/25 | Jun 5 → ~Aug 10 → 4/25 | Jun 9 → ~Aug 12 → 3/25 | Jun 10 → ~Aug 13 → 2/25 | Jun 17 → ~Aug 22 → 1/25 | Jun 23 → ~Sep 24 → 0/25 | **State REMAINS CORRECTION until FTD regardless of expiries**
+- **⚠️ CALENDAR FINAL:** Jul 3 FULLY CLOSED + Jul 4 CLOSED → **Next session: Mon Jul 7** (Q3 first full week)
+- **⚠️ NEXT (Mon Jul 7):** (1) **Alpaca restore** — Day 122; SH $625 FIRST order (2) Watch rally low 7,266.99 — margin narrowed to 216 pts (3) **Q2 earnings season kicks off** ~Jul 14 (JPM, GS) (4) **LRCX entry window CLOSES ~Jul 18** (blackout Jul 22) (5) **Dist day expiry path:** Jun 3 → ~Aug 8 → 5/25 | (6) **FTD path:** need S&P close below 7,266.99 for new Day 1; then Day 4-7 +1.25%+ on volume (7) Rate hike odds reduced materially by NFP miss
+- `research_source: websearch_fallback` | Alpaca Day 119 BLOCKED | Perplexity 403 | AV 403
 
 **✅ JUL 2 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — NFP +57K MASSIVE MISS — S&P +0.49% NOT DIST DAY — DIST 6/25 UNCHANGED — ALPACA DAY 119 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 119 BLOCKED

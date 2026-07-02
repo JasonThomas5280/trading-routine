@@ -1,5 +1,18 @@
 
 ---
+## 2026-07-02 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,483.24 BEARISH REVERSAL — NOT DIST DAY — DOW NEW ATH 52,900 — NASDAQ −0.80% — 6/25 UNCHANGED — 0 POSITIONS — NO ACTIONS]
+
+📊 EOD 2026-07-02 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 6 of 25 (market: 🔴 Correction — UNCHANGED)
+Close: S&P 7,483.24 (−0.22%) | SPY $743.90 | DOW 52,900 NEW ATH (+1.14%) | NASDAQ 25,832.67 (−0.80%)
+Dist check: S&P −0.22% meets price threshold but vol 36.18M < yesterday 47.1M → NOT dist day ✅
+Actions today: NONE (Correction + Alpaca Day 119 blocked + 0 positions)
+⚠️ Session: Bearish reversal — opened +0.49% on dovish NFP, closed −0.22% near session lows. TSLA −7%, chips down. Dow hit new ATH 52,900 (rotation to value). Rally low 7,266.99 INTACT but margin narrowed 232→216 pts.
+Tomorrow: JUL 3 + JUL 4 CLOSED. Next session Mon Jul 7.
+Mon Jul 7 priorities: (1) Alpaca restore → SH $625 FIRST (2) LRCX window closes ~Jul 18 (3) Q2 earnings season ~Jul 14
+
+---
 ## 2026-07-02 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — NFP +57K MASSIVE MISS — S&P +0.49% NOT DIST DAY — DIST 6/25 UNCHANGED — ALPACA DAY 119 BLOCKED — NO TRADES — LAST SESSION OF WEEK (JUL 3 FULLY CLOSED)]
 
 📈 Market-check 2026-07-02 10:00 CT
