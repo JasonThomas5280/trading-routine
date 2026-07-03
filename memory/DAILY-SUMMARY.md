@@ -3690,3 +3690,22 @@ Watching: MRVL 74-76/100 (AT THRESHOLD — first entry candidate; needs base + F
 LRCX 72-75/100 — entry window closes ~Jul 18 (blackout Jul 22; earnings Jul 29)
 Bench: NVDA 69-70 | MRVL 74-76 | LRCX 72-75 | ARM 60
 Plan: NO ENTRIES — market closed today. Mon Jul 7: Alpaca restore (SH first) + watch rally low 7,266.99 (216 pts margin) + Q2 earnings season ~Jul 14 (JPM/GS)
+
+---
+## 2026-07-03 10:00 CT [market-check]
+
+📈 Market-check 2026-07-03 10:00 CT
+Market: 🔴 Correction (6/25 dist days) | ⛔ MARKET FULLY CLOSED (Jul 4 observed Friday)
+Actions taken:
+  No entries — ABORT GATES FIRED:
+  [1] Market state ≠ Confirmed Uptrend (🔴 Correction, 6/25 dist)
+  [2] Market fully closed today (Jul 4 holiday observed Fri Jul 3)
+  [3] Alpaca BLOCKED Day 121 — 403 proxy error confirmed
+  [No overnight gap sells — 0 open positions]
+  [No intraday Rule 1/Rule 3 checks — 0 open positions]
+Watchlist status: 0 ready, 4 watching (MRVL 74-76, LRCX 72-75, NVDA 69-70, ARM 60), 0 removed
+Open positions: 0 | Total % deployed: 0%
+Weekly trade count: 0 of 3 used
+Hedge queued: SH $625 (25% portfolio) — awaiting Alpaca restore (Day 121)
+Next check: Mon Jul 7 /pre-market 6:00 AM CT | /market-check 10:00 AM CT
+CRITICAL Jul 7: Alpaca restore → SH $625 FIRST order | Rally low 7,266.99 (216 pts margin) | Q2 earnings season ~Jul 14

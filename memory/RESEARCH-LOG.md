@@ -12705,3 +12705,80 @@ No actions possible — market closed. **Resume Mon Jul 7:**
 5. Q2 earnings season begins ~Jul 14 (JPM, GS) — XLF sector RS #1
 
 `research_source: websearch_fallback` | Alpaca Day 120 BLOCKED | Market CLOSED Jul 3 | Next session Mon Jul 7
+
+---
+
+## 2026-07-03 (Fri) — /market-check (10:00 AM CT) — ⛔ MARKET FULLY CLOSED — ALL ABORT GATES FIRED — NO ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 121 BLOCKED; Perplexity: 403; AV: 403)
+**Market direction:** 🔴 Market in Correction | 6/25 distribution days | FTD window CLOSED
+**Open positions:** 0 | **Weekly trades:** 0/3 | **Equity:** $2,500 (HWM)
+
+---
+
+### Step 1: Abort Gates
+
+| Gate | Status | Result |
+|---|---|---|
+| Market state | 🔴 Correction (≠ Confirmed Uptrend) | ⛔ ABORT |
+| Market session | NYSE/Nasdaq CLOSED — Jul 4 observed Friday | ⛔ ABORT |
+| Alpaca API | BLOCKED Day 121 (403 proxy confirmed) | ⛔ ABORT |
+| Research unavailable | Perplexity 403 + AV 403 → websearch_fallback only | — |
+| Daily circuit breaker | CLEAR ($0 P&L) | ✅ |
+| Weekly circuit breaker | CLEAR ($0 P&L) | ✅ |
+| Drawdown halt | CLEAR ($2,500 = HWM; $0 drawdown) | ✅ |
+| Weekly trade count | 0/3 used | ✅ |
+| Position count | 0 positions | ✅ |
+| Cash buffer | 100% cash | ✅ |
+
+**RESULT: Abort at gate 1 + 2 + 3. No actions of any kind possible or warranted.**
+
+---
+
+### Step 2: Overnight Gap Follow-up
+
+**0 open positions. SKIPPED.** ✅
+
+---
+
+### Step 3: Watchlist Triggers
+
+**Market closed. No quotes available. No triggers possible.**
+
+Primary watchlist items: **NONE** (Correction blocks all longs; 0 items with score ≥75).
+
+Bench status (unchanged from Jul 2 /eod-review — last data point):
+- **MRVL 74-76/100** — closest to threshold; V-recovery ≠ base; NOT actionable
+- **LRCX 72-75/100** — entry window closes Jul 18 (blackout Jul 22; earnings Jul 29); NOT actionable
+- **NVDA 69-70/100** — cup wk 19; no handle; Aug 2026+; NOT actionable
+- **ARM 60/100** — GAAP C-letter fail; blackout Jul 22; NOT actionable
+
+---
+
+### Step 4: Mid-Morning Position Health Check
+
+**0 open positions. SKIPPED.** ✅ sell-rules-engine not invoked.
+
+---
+
+### Step 5: Bench Promotion Check
+
+No data available (market closed + Alpaca blocked). No promotions or demotions.
+All bench items unchanged from pre-market update. WATCHLIST.md not modified.
+
+---
+
+### Step 6: ClickUp Summary
+
+Written to DAILY-SUMMARY.md (CLICKUP_WORKSPACE_ID not set).
+
+---
+
+### Summary
+
+- **All abort gates fired immediately.** Market in Correction + Market CLOSED today + Alpaca BLOCKED Day 121.
+- **No entries, no sells, no stop adjustments, no promotions/demotions.**
+- **NEXT SESSION: Mon Jul 7** — First order on Alpaca restore: SH $625 (25% portfolio, Correction hedge queued since Jun 5).
+- **Critical watch Jul 7:** Rally low 7,266.99 (216 pts margin). If S&P closes below 7,266.99 = new Day 1 → FTD window Jul 10-15. Q2 earnings season begins ~Jul 14 (JPM, GS — XLF sector RS #1).
+
+`research_source: websearch_fallback` | Alpaca Day 121 BLOCKED | Market CLOSED Jul 3 | Next session Mon Jul 7
