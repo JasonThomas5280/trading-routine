@@ -3676,3 +3676,17 @@ Key event TODAY: NFP June 7:30 AM CT (consensus 172K; hot >200K = dist day #7 ri
 Geopolitical: Iran Strait of Hormuz threat → crude +2% → risk-off pre-market
 Dist count: 6/25 UNCHANGED | FTD window CLOSED | Rally low 7,266.99: 232 pts margin (widening)
 Plan: NO entries — Correction + Alpaca Day 118 BLOCKED. SH $625 QUEUED. Monitor NFP reaction.
+
+---
+## 2026-07-03 11:17 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-03 — ⚠️ MARKET FULLY CLOSED (Jul 4 observed on Fri)
+Market: 🔴 Correction 6/25 dist | S&P 7,483.24 (Jul 2 close) | Next session: Mon Jul 7
+Open positions: 0 | Circuit breakers: ALL CLEAR | Alpaca: BLOCKED Day 120
+Overnight gaps: N/A (market closed + 0 positions)
+Week recap (Jun 30-Jul 2): NFP 57K MISS (dovish); Dow ATH 52,900; no new dist days; rally low margin 87→216 pts
+Watchlist ready (>=75): NONE
+Watching: MRVL 74-76/100 (AT THRESHOLD — first entry candidate; needs base + FTD + Alpaca restore)
+LRCX 72-75/100 — entry window closes ~Jul 18 (blackout Jul 22; earnings Jul 29)
+Bench: NVDA 69-70 | MRVL 74-76 | LRCX 72-75 | ARM 60
+Plan: NO ENTRIES — market closed today. Mon Jul 7: Alpaca restore (SH first) + watch rally low 7,266.99 (216 pts margin) + Q2 earnings season ~Jul 14 (JPM/GS)

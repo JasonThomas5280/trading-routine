@@ -12646,3 +12646,62 @@ Key watch: **MRVL at 74-76/100 is the closest name to 75 threshold.** If Correct
 - **Bench watch:** MRVL **74-76/100** (1 pt from threshold — entry enabled ONLY after FTD + base + Alpaca restore)
 - **Hedge:** SH $625 QUEUED (Alpaca Day 118 BLOCKED)
 - **Next routine:** /market-check 10:00 AM CT
+
+---
+
+## 2026-07-03 (Fri) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — MARKET FULLY CLOSED TODAY (Jul 4 observed) — 6/25 DIST DAYS — NEXT SESSION Mon Jul 7 — ALPACA DAY 120 BLOCKED — 0 POSITIONS — NO ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 120 BLOCKED; Perplexity: 403; AV: 403.)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 margin: **216 pts** (from Jul 2 EOD close 7,483.24)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+⚠️ **MARKET FULLY CLOSED TODAY.** NYSE/Nasdaq closed Jul 3, 2026 because Jul 4 (Independence Day) falls on Saturday → holiday observed Friday. No pre-market data, no session, no trading. Next session: **Mon Jul 7.**
+
+### State confirmation (from Jul 2 EOD — last available data)
+
+| Metric | Value |
+|---|---|
+| S&P 500 (Jul 2 close) | 7,483.24 (−0.215%) |
+| Dow (Jul 2 close) | 52,900.07 (+1.14% — NEW ATH) |
+| Nasdaq (Jul 2 close) | 25,832.67 (−0.80%) |
+| Distribution days | **6/25** (Jun 3, 5, 9, 10, 17, 23) — UNCHANGED |
+| Jul 2 dist day? | ❌ NO — volume 36.18M < Jul 1 47.1M → failed volume gate |
+| Market state | 🔴 CORRECTION UNCHANGED |
+| Rally low 7,266.99 margin | **216 pts** (narrowed from 232 Jul 1) |
+| FTD window | CLOSED (Day 7 failed Jun 22) |
+| Alpaca | ⚠️ BLOCKED Day 120 |
+| SH $625 hedge | QUEUED since Jun 5 |
+
+### Bench status
+
+| Symbol | Score | Status |
+|---|---|---|
+| MRVL | **74-76/100 ⬆️** | 🔴 NOT ACTIONABLE — Correction + no base (V-recovery ≠ base; needs 3-5 wk consolidation) |
+| LRCX | **72-75/100 ⬆️** | 🔴 NOT ACTIONABLE — Correction + blackout begins ~Jul 22 → entry window closes Jul 18 |
+| NVDA | **69-70/100** | 🔴 NOT ACTIONABLE — Correction + cup wk 19; no handle; Aug 2026+ |
+| ARM | **60/100** | 🔴 NOT ACTIONABLE — below threshold; GAAP C-letter fails |
+
+### Circuit breakers
+
+ALL CLEAR. $0 P&L. Equity $2,500 (HWM). Weekly trades: 0/3. PDT: 0/3.
+
+### Week summary (Jun 30 – Jul 2)
+
+- NFP June: **57K MISS** (vs 110-172K expected) → DOVISH → rate-hike probability drops sharply
+- Dow new ATH Jul 2 (52,900) | Nasdaq lagging (rotation value vs. growth)
+- No new distribution days Jun 30-Jul 2 ✅
+- S&P rally low 7,266.99 margin widened from 87 pts (Jun 26) → peaked 232 pts (Jul 1) → narrowed to 216 pts (Jul 2 reversal close)
+- MRVL upgraded to 74-76/100 (closest to 75 threshold — FIRST entry candidate on FTD + base + Alpaca restore)
+- LRCX upgraded to 72-75/100 — ⚠️ entry blackout begins Jul 22 (LRCX earnings Jul 29)
+- Warsh ECB Forum hawkish (Jul 1) offset by NFP miss — net: rate environment more benign
+
+### Plan
+
+No actions possible — market closed. **Resume Mon Jul 7:**
+1. ⚠️ **Alpaca restore Day 120** — SH $625 FIRST order on restore
+2. Watch S&P vs rally low 7,266.99 (216 pts margin — if drops below = new Day 1 → FTD window Jul 7-10+)
+3. **MRVL base watch** — stock needs 3-5 wk consolidation from V-recovery ($252→$296); handle not yet forming
+4. **LRCX entry window CLOSES ~Jul 18** (blackout Jul 22 for Jul 29 earnings) — track closely
+5. Q2 earnings season begins ~Jul 14 (JPM, GS) — XLF sector RS #1
+
+`research_source: websearch_fallback` | Alpaca Day 120 BLOCKED | Market CLOSED Jul 3 | Next session Mon Jul 7
