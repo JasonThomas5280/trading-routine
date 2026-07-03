@@ -3709,3 +3709,13 @@ Weekly trade count: 0 of 3 used
 Hedge queued: SH $625 (25% portfolio) — awaiting Alpaca restore (Day 121)
 Next check: Mon Jul 7 /pre-market 6:00 AM CT | /market-check 10:00 AM CT
 CRITICAL Jul 7: Alpaca restore → SH $625 FIRST order | Rally low 7,266.99 (216 pts margin) | Q2 earnings season ~Jul 14
+
+---
+## 2026-07-03 20:20 CT [clickup-placeholder]
+
+📊 EOD 2026-07-03 | MARKET HOLIDAY 🏖️ | Equity $2,500.00 (+0% day, +0% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction — UNCHANGED)
+Actions today: NONE — market closed (Independence Day observed; Jul 4 Sat → Fri Jul 3)
+⚠️ Calendar fix: next session Mon Jul 6 (not Jul 7 as prior notes said)
+Monday Jul 6: (1) Alpaca restore → SH $625 hedge (2) Watch rally low 7,266.99 (216 pts margin) (3) Q2 earnings season ~Jul 14

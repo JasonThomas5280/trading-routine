@@ -46,6 +46,43 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-03 (Fri) — /eod-review (3:15 PM CT) — 🏖️ MARKET HOLIDAY — Independence Day observed — NYSE/Nasdaq FULLY CLOSED — 🔴 CORRECTION UNCHANGED — NO ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED proxy; Perplexity: 403; AV: 403; market closed — confirmed via WebSearch)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (216 pts, last confirmed Jul 2)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Market status (Jul 3, 2026)
+- NYSE and Nasdaq **FULLY CLOSED** — Independence Day observed (Jul 4 falls on Saturday; observed Friday Jul 3)
+- No regular trading session. No price data. No volume. No distribution day possible.
+- Last confirmed market data: S&P 7,483.24 (Jul 2 close), SPY $743.90, Nasdaq 25,832.67
+
+### Distribution day check
+- N/A — market closed. 6/25 UNCHANGED.
+
+### State transition: NONE
+- 🔴 Market in Correction — **UNCHANGED**
+
+### Sell-rules-engine
+- 0 open positions → **SKIPPED** ✅
+
+### Actions today
+- **NONE** — Market holiday + Correction + 0 positions
+
+### Circuit breakers
+- ALL CLEAR | P&L today: $0 (holiday) | P&L week: $0 | Equity: $2,500 (HWM)
+
+### ⚠️ Calendar correction
+- Prior entries referenced "Next session: Mon Jul 7" — **DATE ERROR CORRECTED.** Jul 4 falls on Saturday; observed holiday is Friday Jul 3; next trading day is **Monday Jul 6, 2026.**
+
+### Watchlist status (no change from Jul 2)
+- NVDA: est. ~$193-196 | **69-70/100** | Blocked (Correction + no base)
+- MRVL: est. ~$285-295 | **73-75/100** | Blocked (Correction + no base; V-recovery ≠ proper base)
+- LRCX: est. ~$410-430 | **71-74/100** | Blocked (Correction + earnings blackout ~Jul 22; ⚠️ entry window closes ~Jul 18)
+- ARM: est. ~$315-330 | **60-62/100** | Blocked (GAAP C-letter fail + Correction)
+
+---
+
 ## 2026-07-02 (Thu) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,483.24 BEARISH REVERSAL — NOT DIST DAY — DOW NEW ATH — ALPACA DAY 119 BLOCKED — LAST SESSION BEFORE JUL 4 WEEKEND
 
 **Research source:** `websearch_fallback` (Alpaca: 403 Day 119 BLOCKED; Perplexity: 403; AV: 403. All data via WebSearch.)

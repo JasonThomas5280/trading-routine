@@ -6,10 +6,25 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 2 /eod-review 3:15 PM CT CLOSE: S&P 7,483.24 −0.215% | DOW 52,900.07 +1.14% NEW ATH | NASDAQ 25,832.67 −0.80% | SPY $743.90 vol 36.18M < Jul1 47.1M → NOT dist day ✅ | 6/25 UNCHANGED | Rally low 7,266.99 INTACT (216 pts) | NEXT SESSION Mon Jul 7 | Alpaca Day 119 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 3 /eod-review — MARKET CLOSED (Independence Day observed; Jul 4 Sat → Fri Jul 3) — No trading session — 6/25 UNCHANGED | Rally low 7,266.99 INTACT (216 pts, last confirmed Jul 2) | NEXT SESSION Mon Jul 6)*
 
-**Last updated:** 2026-07-02 (Thu) — `/eod-review` 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P CLOSE 7,483.24 −0.215% BEARISH REVERSAL — NOT DIST DAY (vol 36.18M < 47.1M yesterday) — DIST 6/25 UNCHANGED — DOW NEW ATH 52,900 — NASDAQ −0.80% — RALLY LOW INTACT 216 PTS — 0 POSITIONS — NO ACTIONS**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,483.24 vs low 7,266.99 = **~216 pts margin — NARROWED from 232 Jul 1**)
+**Last updated:** 2026-07-03 (Fri) — HOLIDAY — **🔴 CORRECTION UNCHANGED — MARKET CLOSED (Independence Day observed, Jul 4 Sat → Fri Jul 3) — NO TRADING SESSION — 6/25 DIST UNCHANGED — RALLY LOW 7,266.99 INTACT (216 pts, last confirmed Jul 2) — NEXT SESSION Mon Jul 6 (⚠️ prior notes said "Jul 7" — CORRECTED)**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,483.24 Jul 2 close vs low 7,266.99 = **~216 pts margin — last confirmed Jul 2**)
+
+**🏖️ JUL 3 /eod-review (MARKET HOLIDAY — Independence Day observed — NYSE/Nasdaq FULLY CLOSED — No session — No data — No actions):**
+- **Market state: 🔴 MARKET IN CORRECTION** — UNCHANGED | HOLIDAY — no distribution day possible
+- **Session:** FULLY CLOSED. NYSE/Nasdaq closed Jul 3 (Independence Day observed; Jul 4 falls on Saturday). No trading, no volume, no price data.
+- **Distribution day check:** N/A — market closed ✅
+- **Distribution day accounting:** 6/25 UNCHANGED | Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.**
+- **Rally attempt check:** Last confirmed margin: S&P 7,483.24 (Jul 2) vs low 7,266.99 = **216 pts** — INTACT ✅ (no change, no session)
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 (holiday) | P&L week: $0 | Equity: $2,500 (HWM)
+- **Actions: NONE** (market closed + Correction + 0 positions)
+- **Alpaca:** BLOCKED (403 proxy — consistent with prior sessions; holiday)
+- **⚠️ CALENDAR CORRECTION:** Prior entries said "Next session: Mon Jul 7" — **DATE ERROR**. Jul 4 (Sat) observed Fri Jul 3 → next trading day is **Mon Jul 6, 2026** (not Jul 7).
+- **⚠️ NEXT (Mon Jul 6 — Q3 first full week):** (1) Alpaca restore — SH $625 FIRST order (2) Rally low 7,266.99 — 216 pts margin (3) Q2 earnings season ~Jul 14 (JPM, GS) (4) LRCX entry window CLOSES ~Jul 18 (blackout Jul 22) (5) Dist expiry: Jun 3 → ~Aug 8 → 5/25 | (6) FTD path: need S&P close below 7,266.99 for new Day 1
+- `research_source: websearch_fallback` | Alpaca BLOCKED (403) | HOLIDAY
 
 **✅ JUL 2 EOD (/eod-review 3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,483.24 −0.215% BEARISH REVERSAL — NOT DIST DAY (vol LOWER) — NASDAQ −0.80% — DOW NEW ATH 52,900 — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (216 PTS — NARROWING) — ALPACA DAY 119 BLOCKED — 0 POSITIONS — NO ACTIONS — LAST SESSION BEFORE JUL 4 WEEKEND):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 119 BLOCKED
