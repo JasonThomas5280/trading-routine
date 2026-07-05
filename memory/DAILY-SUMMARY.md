@@ -3719,3 +3719,32 @@ Distribution days: 6/25 (market: 🔴 Correction — UNCHANGED)
 Actions today: NONE — market closed (Independence Day observed; Jul 4 Sat → Fri Jul 3)
 ⚠️ Calendar fix: next session Mon Jul 6 (not Jul 7 as prior notes said)
 Monday Jul 6: (1) Alpaca restore → SH $625 hedge (2) Watch rally low 7,266.99 (216 pts margin) (3) Q2 earnings season ~Jul 14
+
+---
+## 2026-07-05 21:21 CT [clickup-placeholder]
+
+📋 Week prep 2026-07-05
+
+Market: 🔴 Correction (Dist: 6/25, SPY vs 50MA: +0.94%, vs 200MA: +0.18% ⚠️ BARELY ABOVE)
+⚠️ MA CORRECTED: 50d=7,413.44 / 200d=7,469.76 (prior estimates 7,258/6,918 were stale)
+Last close: S&P 7,483.24 (Jul 2) | Rally low 7,266.99 INTACT (216 pts)
+
+🚨 CHIP CRASH Jul 1-2:
+- LRCX -18.9% in 2 days → REMOVED (triple insider selling; earnings blackout Jul 22 PERMANENT)
+- MRVL -23% from ATH, broke $252 support → score 74-76→~45-55; V-recovery INVALIDATED
+
+Top sectors: XLE (Energy, #1), XLI (Industrials), XLP (Staples)
+Dropped: XLF (was #1 → now RRG Lagging), XLK (Tech — RRG Lagging)
+
+Watchlist primary: NONE (Correction — 0 candidates ≥75 | 12th consecutive week)
+Bench: NVDA 67-70/100 (cup wk 20, no handle, Aug 2026+) | MRVL ~45-55 (broken) | ARM 60 (GAAP fail)
+
+SH $625 hedge: QUEUED (Alpaca Day ~122 BLOCKED)
+
+Calendar risks Mon Jul 7 week:
+- ~Jul 9: FOMC minutes (hawkish risk)
+- Jul 10: CPI ⚠️ most important event of week
+- Jul 14+: Q2 earnings (JPM, GS, WFC)
+
+Entry plan Mon: NONE — Correction + 0 candidates + Alpaca blocked
+research_source: websearch_fallback | Alpaca: Day~122 BLOCKED | 12th consecutive degraded week

@@ -6,10 +6,33 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 3 /eod-review — MARKET CLOSED (Independence Day observed; Jul 4 Sat → Fri Jul 3) — No trading session — 6/25 UNCHANGED | Rally low 7,266.99 INTACT (216 pts, last confirmed Jul 2) | NEXT SESSION Mon Jul 6)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 5 /weekly-prep — 6/25 dist days — No expiries until Aug 8 — Rally low 7,266.99 INTACT (216 pts) — ⚠️ S&P barely above 200d MA (+0.18%) — FTD window CLOSED — NEXT SESSION Mon Jul 6)*
 
-**Last updated:** 2026-07-03 (Fri) — HOLIDAY — **🔴 CORRECTION UNCHANGED — MARKET CLOSED (Independence Day observed, Jul 4 Sat → Fri Jul 3) — NO TRADING SESSION — 6/25 DIST UNCHANGED — RALLY LOW 7,266.99 INTACT (216 pts, last confirmed Jul 2) — NEXT SESSION Mon Jul 6 (⚠️ prior notes said "Jul 7" — CORRECTED)**
+**Last updated:** 2026-07-05 (Sun) — /weekly-prep — **🔴 CORRECTION UNCHANGED — 6/25 DIST — S&P 7,483.24 (Jul 2) vs 50d MA 7,413.44 (+0.94%) vs 200d MA 7,469.76 (+0.18% — BARELY ABOVE ⚠️) — MA ESTIMATES CORRECTED (prior ~7,258/6,918 were stale; actual 7,413/7,470) — RALLY LOW 7,266.99 INTACT (216 pts) — FTD WINDOW CLOSED — CHIP SECTOR CRASH Jul 1-2 (LRCX -18.9% / MRVL -23% from ATH)**
 **STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,483.24 Jul 2 close vs low 7,266.99 = **~216 pts margin — last confirmed Jul 2**)
+
+**📋 JUL 5 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — MA DATA CORRECTED — CHIP SECTOR CRASH — LRCX REMOVED FROM BENCH — MRVL SEVERE DOWNGRADE):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~122 BLOCKED | Perplexity 403 | AV 403
+- **S&P 500 Jul 2 CLOSE (last trading session):** 7,483.24 | Weekly gain: +1.7% (best week in 2 months) | YTD: +9.3% | Distance from Jun 2 ATH (~7,612): -1.7%
+- **⚠️ MOVING AVERAGE CORRECTION (prior estimates were stale):**
+  - **50d MA: 7,413.44** (corrected from prior est. ~7,258–7,260; S&P +0.94% above — much tighter than previously estimated)
+  - **200d MA: 7,469.76** (corrected from prior est. ~6,918; S&P +0.18% above — BARELY above 200d MA)
+  - S&P reclaimed 50d MA on Jun 29; reclaimed 200d MA at similar time; BOTH are key support levels near current price
+  - **⚠️ CRITICAL: S&P barely above 200d MA (+0.18%) = fragile structure. A single -1% distribution day tests the 200d MA.**
+- **QQQ Jul 2 CLOSE:** ~$712.60 (est.) | -1.73% on Jul 2 | Nasdaq Composite -0.80% (26,213.72 Jul 1 → ~25,832.67 Jul 2)
+- **Distribution day accounting:** 6/25 UNCHANGED through Jul 2 | Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23 | No new dist days week of Jun 30-Jul 2 (Jul 2: S&P -0.215% met price threshold but LOWER volume = NOT dist day) | Next expiry: Jun 3 → ~Aug 8
+- **State transition:** NONE. 🔴 Market in Correction UNCHANGED.
+- **FTD status:** Window CLOSED. No new Day 1 established (S&P has not closed below rally low 7,266.99). New Day 1 requires S&P close below 7,266.99; then Day 4-7 +1.25%+ on above-avg volume.
+- **⚠️ CHIP SECTOR CRASH JUL 1-2 (critical bench impact):**
+  - **LRCX: $433.33 (Jun 30 ATH) → $391.26 (Jul 1, -8.94%) → $351.41 (Jul 2, -10.19%) = -18.9% in 2 days.** Triggers: Meta cloud excess-capacity report (AI capex peak fear), SK Hynix HBM4 ramp slowdown, TRIPLE insider selling (CEO Archer 30K shs Form 144 + Director Brandt $19.1M + SVP Fernandes $4.6M). **LRCX REMOVED from bench.**
+  - **MRVL: $316.43 ATH (Jun 4) → $245.29 (Jul 2 close) = -23% from ATH; -10.31% on Jul 2 alone.** Broke below Jun 29 low of $252.62 → new bear low. Analyst downgrade to Hold Jun 30 (AI silicon pricing cycle peak). CFO liquidating ~50% of holdings. S&P 500 index "sell-the-news" after Jun 22 inclusion. **MRVL score SEVERE DOWNGRADE: 74-76 → ~45-55/100.**
+  - **NVDA: $194.83 (Jul 2) = -1.39% on Jul 2. Relative outperformance vs peers.** Score unchanged ~67-70/100.
+- **Sector rotation (RRG, 4-week as of Jul 2):** Leading: XLE (+21% YTD), XLI (+16% YTD), XLP, XLB | Lagging: XLF ⬇️ (dropped from prior #1), XLK, XLC, XLY | ⚠️ XLF now in Lagging quadrant (prior sector leader)
+- **Week ahead (Jul 6-10):** Mon Jul 6: ISM Services PMI (delayed from Jul 3) | Wed Jul 8: FOMC Minutes (June meeting) ⚠️ HIGH RISK — Chair Warsh hawkish tone | No CPI/PPI this week (both Jul 14) | Jul 14: CPI (June) + JPM + GS Q2 earnings (same day) — MEGA CATALYST next week
+- **Open positions:** 0 → sell-rules-engine: SKIPPED ✅
+- **Circuit breakers:** ALL CLEAR | P&L: $0 (no trades since inception) | Equity: $2,500 (HWM)
+- **Alpaca restore:** Day ~122. SH $625 FIRST order on restore (Correction hedge — QUEUED since Jun 5).
+- `research_source: websearch_fallback` | Alpaca BLOCKED | Perplexity 403 | AV 403 | `cached_fundamentals`
 
 **🏖️ JUL 3 /eod-review (MARKET HOLIDAY — Independence Day observed — NYSE/Nasdaq FULLY CLOSED — No session — No data — No actions):**
 - **Market state: 🔴 MARKET IN CORRECTION** — UNCHANGED | HOLIDAY — no distribution day possible

@@ -18,28 +18,37 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ACTIVE — Week of 2026-06-30 to 2026-07-03 (4-day week; Jul 4 closed)
+## ⚠️ ARCHIVED — Week of 2026-06-30 to 2026-07-03 — **STALE — rebuilt Jul 5 /weekly-prep**
 
-**Built:** 2026-06-29 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` (Alpaca: Day 112 BLOCKED, Perplexity: 403, Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch + prior-week cached fundamentals) | `cached_fundamentals` mode
+> Archived week of Jun 30–Jul 3. Market state: 🔴 Correction (6/25 dist days). Zero primary candidates. MRVL 74-76/100 (bench, V-recovery thesis INVALIDATED Jul 2 — broke $252 support), LRCX 72-75/100 (REMOVED — -18.9% in 2 days + triple insider selling + earnings blackout Jul 22), NVDA 69-70/100 (bench, cup wk 19-20), ARM 60/100 (below threshold). SH $625 hedge QUEUED (Alpaca Day 122 BLOCKED). Rebuilt Sun Jul 5.
+
+---
+
+## ACTIVE — Week of 2026-07-06 to 2026-07-10
+
+**Built:** 2026-07-05 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~122 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch
 
 **Market direction:** 🔴 Market in Correction (6/25 dist days) | **NO NEW LONG ENTRIES**
-**S&P 500:** 7,354.02 (Jun 26 close) | **50d SMA ~7,258** (+1.3% above) | **200d SMA ~6,918** (+6.3% above) | ABOVE both MAs but critical support 7,334 = only 20 pts below close
-**QQQ:** ~$712 (Jun 26 close) | 50d SMA est. ~$685-700 | 200d SMA est. ~$640-660 | Above both MAs
-**FTD path:** CLOSED (Day 7 failed Jun 22). New Day 1 requires S&P CLOSE below 7,266.99 (rally low). If Day 1 fires Monday Jun 30, FTD window = Jul 7-10.
+**S&P 500:** 7,483.24 (Jul 2 close) | **50d MA: 7,413.44** (+0.94% above) | **200d MA: 7,469.76** (+0.18% above — BARELY ⚠️) | Thin margin above both MAs
+**QQQ:** ~$712.60 (Jul 2 est.) | Above both MAs
+**FTD path:** CLOSED. New Day 1 requires S&P close BELOW 7,266.99 (rally low, 216 pts away).
+**⚠️ MA CORRECTION:** Prior estimates 50d ~7,258 and 200d ~6,918 were stale. Actual values confirm S&P is only barely above both, not 3–6% as previously estimated.
 
-**Top sectors (4-week trailing RS, Jun 27 update):**
-1. **XLF Financials** — best RS in Correction; hawkish higher-for-longer = NIM positive; Q2 earnings begin Jul 14; JPM/GS resilient
-2. **XLV Healthcare** — defensive leader; +3.03% Jun 26; no AI-demand sensitivity; outperforming in risk-off
-3. **XLI Industrials** — CAT +5.81% Jun 25; AI infrastructure capex intact; RRG leading quadrant
-**Avoid:** XLK (NVDA -8% wk; AI capex uncertainty; Nasdaq -4.6%), XLE (Iran oil compression), XLRE (rate-sensitive), XLC (GOOGL overhang)
+**Top sectors (4-week trailing RS, Jul 2 RRG — UPDATED from prior week):**
+1. **XLE Energy** — RRG Leading quadrant; +21% YTD; Iran war oil premium; geopolitical tailwind persists; OPEC supply discipline intact
+2. **XLI Industrials** — RRG Leading; +16% YTD; defense capex + AI infrastructure build-out; CAT/HON resilient
+3. **XLP Consumer Staples** — RRG Leading; defensive outperformance in Correction; low rate-sensitivity
+**Avoid:** XLK (Tech — RRG Lagging; chip sector -18.9%/-23% crashes Jul 1-2), **XLF (Financials — DROPPED from prior #1 to RRG Lagging; bank concerns)**, XLC, XLY
 **Blacklisted sectors:** None
 
-**Universe scan:** DEGRADED — Alpaca Day 112 BLOCKED + AV 403 + Perplexity 403. Per /weekly-prep rules (Market in Correction): **No new-entry watchlist.** Hedge candidates built instead.
-**Candidates scanned via canslim-screener:** N/A — Correction posture; no scoring run this week
-**Passed conviction ≥75: 0** — **ZERO for 11th consecutive week** (Correction gate blocks ALL entries regardless of score; data degraded mode caps scores structurally)
+**Universe scan:** SKIPPED — Correction posture per /weekly-prep rules; build-universe.sh not run; no new-entry watchlist needed
+**Candidates monitored (bench only; degraded websearch mode):** NVDA, MRVL, ARM
+**LRCX: REMOVED from bench this week** (score collapse ~40-48/100; triple insider selling; earnings blackout Jul 22)
+**Passed conviction ≥75: 0** — **ZERO for 12th consecutive week**
 
-> ⚠️ **11th consecutive week with 0 candidates above conviction threshold.**
-> Correction state blocks ALL entries regardless of CAN SLIM score. Data infrastructure degraded (Alpaca Day 112 BLOCKED / AV 403 / Perplexity 403) adds structural cap on scores. Strategy functioning correctly: no trades in Correction = correct behavior.
+> ⚠️ **12th consecutive week with 0 candidates above conviction threshold.**
+> 🚨 CHIP SECTOR CRASH Jul 1-2: LRCX −18.9% in 2 days (triple insider selling CEO+Director+SVP; AI capex peak narrative). MRVL −23% from ATH (broke $252 support, V-recovery INVALIDATED, analyst downgrade to Hold, CFO liquidating ~50% of holdings). Both severely downgraded. Correction gate + degraded data + chip damage = zero actionable setups. Strategy functioning correctly.
 
 ---
 
@@ -51,17 +60,17 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 | Rank | Instrument | Type | Size | Status | Notes |
 |---|---|---|---|---|---|
-| H1 | **SH** | Inverse S&P (−1×) | $625 / 25% portfolio | **QUEUED — Alpaca Day 112 BLOCKED** | Execute as FIRST order on Alpaca restore; queued since Jun 5 |
+| H1 | **SH** | Inverse S&P (−1×) | $625 / 25% portfolio | **QUEUED — Alpaca Day ~122 BLOCKED** | Execute as FIRST order on Alpaca restore; queued since Jun 5 |
 | H2 | **SQQQ** | Inverse NASDAQ (−3×) | Alt: $625 if SH unavailable | Secondary | Only if SH specifically unavailable; SQQQ leverage decay risk for extended holds |
 
-**SH rationale:** Market in Correction (6/25 dist days), Nasdaq -4.6% last week, AI capex narrative shock (OpenAI IPO delay), hawkish FOMC higher-for-longer, BofA warning of 3-wave abc correction through Q3. This is the textbook Correction hedge. Size: $625 / 25% portfolio per TRADING-STRATEGY.md inverse ETF rule.
+**SH rationale:** Correction (6/25 dist days); chip sector crash Jul 1-2; S&P barely above 50d/200d MA (+0.94%/+0.18%); rally margin only 216 pts to 7,266.99 low; NFP +57K massive miss (labor weakness); FOMC minutes risk week of Jul 7; 12 consecutive weeks without a valid setup. Textbook Correction hedge. Size: $625 / 25% portfolio per TRADING-STRATEGY.md.
 **Exit trigger for SH:** Follow-through day confirms new Confirmed Uptrend → exit SH within 2 sessions.
 
 ---
 
 ### Primary Watchlist (score ≥75)
 
-**NONE this week.** Market in Correction. No new long entries. Zero candidates scored (build-universe.sh not run — Correction posture + degraded data). See bench.
+**NONE this week.** Market in Correction. No new long entries. Zero candidates above threshold (Correction gate + chip crash + degraded data). See bench.
 
 ---
 
@@ -69,46 +78,39 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 | Rank | Symbol | Score | Δ | Sector | Status | Re-Score Trigger | Notes |
 |---|---|---|---|---|---|---|---|
-| B1 | NVDA | **68-70/100 ⬇️** | Unchanged | XLK / Semis | 🟡 Cup wk 18; no handle; under pressure | Handle completion (~Aug 2026) + Alpaca+AV restore + GPU lease stabilization | **C:20 A:15 N:5 S:10 L:15 I:4 Base:0.** Price: ~$196-202 est. (Jun 30 pre-mkt; modest recovery +tech bid). New: GB300 GPUs powering Anthropic/Claude on Azure (N-letter minor positive); Indonesia AI facility partnership; analyst consensus $301.92 (+54.7% upside). Triple headwind UNCHANGED: (1) B200 GPU lease $6.11→$4.22/hr; (2) Insider selling $410.6M; (3) OpenAI IPO delay AI demand. YTD +4.4% — severely underperforming AMD +150% / INTC +256%. Cup wk 18; no handle; Aug 2026+ timeline UNCHANGED. Not actionable. `websearch_fallback` `B200_GPU_lease_compression` `insider_selling_flag` `OpenAI_IPO_delay_AI_demand_risk` |
-| B2 | MRVL | **74-76/100 ⬆️⬆️** | ↑↑↑ (RS breakout — +6.65% Jul 1 while NVDA -2%; sector leadership confirmed) | XLK / AI Semis | 🟡 WATCHING — $296.30 intraday Jul 1 (+6.65%); V-recovery $252→$296; no base | FTD + Alpaca restore + 3-5 wk base completion (from $252-300 range) | **C:15 A:10 N:15 S:10 L:16→17 I:7 Base:0.** Price: **$296.30 intraday Jul 1** (+6.65% from ~$278 pre-market; +17.3% recovery from Jun 29 $252.62 low in 3 sessions). STRONG relative strength: outperforming sharply on a day when NVDA -2% and chips broadly mixed. Amazon Trainium read-through: AWS exploring selling MRVL-designed Trainium chips to third-party data centers — direct AI data-center interconnect revenue thesis. UBS upgrade Jun 29: $230→$340 PT. NVIDIA-MRVL equity collaboration confirmed. Score **upgraded 74-76/100** (L-letter now 16-17/15 effective after RS recovery). ⚠️ No base formed — V-recovery $252→$296 is NOT a base; need 3-5 wk consolidation for a valid entry. Correction blocks regardless. Earnings ~late Aug 2026 (no blackout yet). `websearch_fallback` `UBS_upgrade_340_Jun29` `Amazon_Trainium_readthrough_Jul1` `NVDA_MRVL_collaboration` `S&P500_inclusion_Jun22` `RS_breakout_Jul1` |
-| B3 | LRCX | **72-75/100** | ↑ (triple analyst upgrade; score NEAR threshold) | XLK / Semi Equip | 🟡 AT/NEAR THRESHOLD but Correction + no base + earnings blackout blocks | Base formation + Correction end + Alpaca restore | **C:15 A:5 N:15 S:10 L:15 I:7→8 Base:0.** Price: **$414-438 intraday Jul 1** (open $416.29, high $438.50; chip pressure vs analyst bid pulling opposite directions). Triple analyst upgrade: BofA $330→$480 (Buy) + WF $365→$450 (OW) + Cantor $425→$500 (OW). Record revenue + AI advanced packaging + HBM wafer fab demand. Score 72-75/100 — at/near threshold BUT: (1) Correction blocks ALL entries regardless, (2) no base/pivot defined, (3) ⚠️ Earnings Jul 29 — blackout begins ~Jul 22 (5 trading days). Entry window through ~Jul 18 ONLY if Correction ends and base forms. `websearch_fallback` `LRCX_triple_analyst_upgrade` `AI_capex_wafer_fab` |
-| B4 | ARM | **60/100 UNCHANGED** | — | XLK / Semis | ❌ Below threshold; downgraded | C-letter GAAP improvement + base confirm | **C:10 A:10 N:15 S:5 L:15 I:5(capped) Base:0.** Price: est. ~$320-334 (down from $375-385 Jun 23 post-selloff). ⚠️ NEW STREET RESEARCH DOWNGRADE: Neutral (from Buy) — citing 470x trailing P/E = unsustainable. AGI CPU launch + Oracle Cloud partnership (positives, insufficient to change score). CY Q2 results: EPS $0.23 (from $0.10, +130%); Rev $1.14B (+35%) — strong operationally but GAAP C-letter still fails ≥25% CAN SLIM threshold. Score 60/100 — downgrade validates our below-threshold assessment. ⚠️ Earnings Jul 29 CONFIRMED — blackout begins ~Jul 22. `websearch_fallback` `ARM_NewStreet_downgrade_Neutral_470x_PE` `GAAP_Cletter_fail` |
-| — | MU | ⛔ **BLOCKED — PRICE CEILING** | — | XLK / Memory | ❌ REMOVED — price $1,132 > $500 max | N/A — price ceiling permanently blocks | ⚠️ PRICE CEILING BREACH: MU closed $1,132.33 (Jun 26); predicted $1,150.80 Jun 29. Exceeds $10-$500 liquidity rule in TRADING-STRATEGY.md — CANNOT TRADE regardless of conviction score. AI memory thesis intact (massive beat validated). Est. score 78-85/100 on live data is MOOT. No realistic path back below $500. Removed from all consideration. `websearch_fallback` `BLOCKED_PRICE_CEILING` |
-| — | JPM/GS | **WATCH** | NEW | XLF | 🟡 Q2 earnings Jul 14+ | Score after Q2 earnings + base | Q2 earnings season starts ~Jul 14 (JPM, GS). Sector RS #1. JPM C-letter EPS +17% disqualified last check (<25%). GS $1,093 price ceiling blocked (>$500). Monitor post-earnings for score improvement. `cached_fundamentals` |
+| B1 | NVDA | **67-70/100** | Unchanged | XLK / Semis | 🟡 Cup wk 19-20; no handle; sector under pressure | Handle completion (~Aug 2026) + Alpaca+AV restore + GPU lease stabilization | **C:20 A:15 N:5-7 S:10 L:10 I:4 Base:0.** Price: ~$193-196 est. (Jul 2 close — chip sector under pressure). GB300 GPU/Azure partnership (minor N positive). Triple headwind UNCHANGED: (1) B200 GPU lease $6.11→$4.22/hr; (2) Insider selling $410.6M; (3) LRCX/chip capex peak narrative bleeding into NVDA sentiment. Cup wk 19-20; no handle; Aug 2026+ timeline UNCHANGED. Not actionable in Correction. `websearch_fallback` `B200_GPU_lease_compression` `insider_selling_flag` `chip_sector_crash_Jul1-2` |
+| B2 | MRVL | **~45-55/100 ⬇️⬇️⬇️ SEVERE DOWNGRADE** | ↓↓↓ (−23% from ATH; $252 support BROKEN Jul 2; V-recovery thesis INVALIDATED) | XLK / AI Semis | ❌ BELOW THRESHOLD — broken structure; downgraded | New base formation (8+ wks minimum from $245 low) + FTD + Alpaca restore + CFO selling resolved | **C:15 A:10 N:7 S:5 L:5-8 I:4 Base:0.** Price: **~$245.29 (Jul 2 est.)** — broke $252.62 Jun 29 support; −23% from $316.43 ATH (Jun 4). V-recovery $252→$296 COMPLETELY INVALIDATED (gave back entire recovery + more). Analyst downgrade to Hold. CFO liquidating ~50% of holdings (conviction negative). UBS $340 PT still on, but stock behavior contradicts it. Score crashed from 74-76 → ~45-55/100. No base; structure broken; needs 8+ wk rebuild minimum. Not actionable. `websearch_fallback` `V_recovery_invalidated_Jul2` `MRVL_analyst_downgrade_Hold` `CFO_liquidation_50pct` |
+| B3 | ARM | **60/100 UNCHANGED** | — | XLK / Semis | ❌ Below threshold; GAAP C-letter fail | GAAP EPS ≥25% YoY + base confirm | **C:10 A:10 N:15 S:5 L:15 I:5(capped) Base:0.** Price: est. ~$315-330 (Jul 2; down from $375-385 Jun 23 selloff). New Street Research Neutral downgrade (470x trailing P/E). AGI CPU launch + Oracle partnership insufficient to lift C-letter GAAP. ⚠️ **Earnings Jul 29** — blackout begins ~Jul 22. Score 60/100 UNCHANGED. Below threshold. `websearch_fallback` `GAAP_Cletter_fail` `ARM_NewStreet_downgrade_Neutral` |
+| ❌ | ~~LRCX~~ | **~40-48/100 REMOVED** | ↓↓↓↓ REMOVED (−18.9% in 2 days; triple insider selling; AI capex peak) | XLK / Semi Equip | ❌ REMOVED FROM BENCH — structural damage | N/A — earnings blackout Jul 22 permanently closes entry window | **C:5 A:5 N:3 S:5 L:10 I:3 Base:0.** Price: $433.33 (Jun 30 ATH) → **$351.41 (Jul 2)** = **−18.9% in 2 trading days**. Triple insider selling: CEO + Director + SVP all dumping simultaneously. AI capex peak narrative: customers cutting back on wafer fab orders. Score collapsed ~40-48/100. ⚠️ **Earnings Jul 29 → blackout Jul 22 → entry window PERMANENTLY CLOSED** (only 12 trading days remain and correction won't clear in time). Removed from all watch. `websearch_fallback` `LRCX_triple_insider_CEO_Dir_SVP` `LRCX_earnings_blackout_Jul22_PERMANENT` `AI_capex_peak_narrative` |
+| — | MU | ⛔ **BLOCKED — PRICE CEILING** | — | XLK / Memory | ❌ REMOVED — price >$500 | N/A — price ceiling permanently blocks | Price >$500 (est. $1,100–1,200 range). Exceeds $10–$500 liquidity rule in TRADING-STRATEGY.md. Cannot trade regardless of score. Removed from all consideration. `BLOCKED_PRICE_CEILING` |
 
 ---
 
-### Entry Execution Plan — Week of Jun 30 - Jul 3
+### Entry Execution Plan — Week of Jul 6-10
 
-**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day 118 BLOCKED + 0 candidates ≥75)
+**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day ~122 BLOCKED + 0 candidates ≥75)
 
 **FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5)
 
-**Week's critical path (Jul 2 /pre-market update):**
-- ~~Mon Jun 30 (Q2/EOM)~~ ✅ RESOLVED — S&P +0.7% ~7,440; NOT dist day; semi +3.6%; LRCX/MRVL/NVDA all recovered strongly; best Q2 in 6 years ✅
-- ~~Wed Jul 1: Warsh + JOLTS~~ ✅ RESOLVED — Warsh NEUTRAL (no hike signal); JOLTS 7.6M BEAT (labor market strong); S&P +0.80% to 7,499.36 NOT dist day; DOW NEW ATH 52,319; MRVL +6.65% (74-76/100 RS signal); Dist 6/25 UNCHANGED ✅
-- ~~Thu Jul 2: NFP June~~ ✅ RESOLVED — NFP +57K (MASSIVE MISS vs 172K consensus); unemp 4.2% (improved); S&P +0.49% NOT dist day → rate hike odds DROP sharply; dovish reaction; Dist 6/25 UNCHANGED; ⚠️ LRCX intraday weakness (~$381-415 range); Alpaca Day 119 BLOCKED ✅
-- ~~Fri Jul 3:~~ ⚠️ **CORRECTION — Jul 3 is FULLY CLOSED** (NYSE/Nasdaq closed; Jul 4 falls Saturday → observed Friday). NOT half-day as previously noted. No trading.
-- **Mon Jul 7:** Q3 first full week. Q2 earnings season begins ~Jul 14 (JPM, GS). LRCX entry window CLOSES ~Jul 18 (blackout Jul 22). Alpaca restore Day 122 (SH $625 FIRST order).
+**Week's critical path:**
+- **Mon Jul 6:** Q3 opens. First full week after 4-day holiday. Watch for gap-up/down reaction to NFP miss (+57K vs 172K expected). S&P rally margin: 216 pts above 7,266.99 low. Dist 6/25 unchanged (no new dist sessions since Jun 25).
+- **Tue Jul 7 — Thu Jul 10:** FOMC June minutes release (date TBC ~Jul 9). CPI Jul 10 (critical — hot = bearish, cool = relief). Warsh speaking cadence. Watch for any Day 1 signal (close below 7,266.99).
+- **Thu Jul 10 (CPI):** Single most important macro event of the week. HOT = additional dist day risk; COOL = potential rally attempt Day 1 if market sells ahead.
+- **Q2 earnings season begins ~Jul 14:** JPM, GS, WFC. Financial sector (XLF) now in RRG Lagging — do NOT chase earnings beats there.
 
-**Bench re-score priority on FTD (updated):**
-1. MRVL first (74-76/100, closest to 75; needs FTD + base + Alpaca restore)
-2. LRCX (72-75/100, BUT blackout Jul 22 — entry window closes permanently by Jul 18)
-3. NVDA (69-70/100, Aug 2026+ base timeline)
-
-**Conditional FTD plan (if S&P closes below 7,266.99 = new Day 1):**
-- Day 1 filing: Rally attempt restarts; FTD window opens Day 4-7
-- If Day 1 = Jun 30: FTD window = Jul 7-10 (next week)
-- First entry eligible: NOT before FTD confirmed + Alpaca restored + ≥1 candidate ≥75
-- Bench re-score priority on FTD: MU first (est. 78-85/100 live) → MRVL second (71/100 → est. 73-78 live if base forms)
+**FTD scenario (if new Day 1 fires this week):**
+- Day 1 must be a close BELOW 7,266.99 (current rally low)
+- FTD window = Day 4-7 thereafter (e.g., Day 1 = Jul 7 → FTD window Jul 10-15)
+- First entry eligible: FTD confirmed + Alpaca restored + ≥1 candidate re-scores ≥75
+- Re-score priority: NVDA first (68-70; needs base handle + GPU lease stabilization)
 
 **Calendar risks:**
-- ⚠️ Mon Jun 30: Q2/EOM dist day risk
-- ⚠️ Wed Jul 1: Warsh hawkish speech risk
-- ⚠️ Thu Jul 2: NFP June (hot = bearish, cool = relief)
-- ⚠️ **LRCX earnings Jul 29** — begin earnings blackout ~Jul 22 (5 trading days prior); LRCX entry blocked after Jul 22
-- **NVDA earnings: late Aug 2026** — base timeline intact; no blackout yet
-- **MRVL earnings: late Aug 2026** — no blackout yet; 3-5 wk base formation window open
+- ⚠️ **FOMC minutes ~Jul 9** — hawkish tone = dist day risk
+- ⚠️ **CPI Jul 10** — hot = bearish; cool = potential Day 1 rally setup
+- ⚠️ **Q2 earnings Jul 14+** — JPM/GS/WFC; banks now RRG Lagging → no chasing
+- ⚠️ **ARM/LRCX earnings Jul 29** — ARM blackout ~Jul 22; LRCX blackout Jul 22 (PERMANENT block on LRCX)
+- **NVDA earnings: ~Aug 27 2026** — base timeline intact; no blackout
+- **MRVL earnings: ~Aug 2026** — structure broken; needs full base rebuild
 
 ---
 

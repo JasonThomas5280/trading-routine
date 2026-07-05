@@ -46,6 +46,58 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-05 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION UNCHANGED — 12th CONSECUTIVE WEEK ZERO CANDIDATES — CHIP CRASH Jul 1-2 — SECTOR ROTATION UPDATED — MA VALUES CORRECTED
+
+**Research source:** `websearch_fallback` (Alpaca: Day ~122 BLOCKED 403; Perplexity: 403; Alpha Vantage: 403 — all three primary sources blocked since ~Day 1; 12th consecutive week in degraded mode)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (216 pts above Jul 2 close 7,483.24)
+**S&P 500 (Jul 2):** 7,483.24 | **50d MA: 7,413.44** (+0.94%) | **200d MA: 7,469.76** (+0.18% — BARELY ABOVE ⚠️)
+**Sector leaders (top 3):** XLE Energy, XLI Industrials, XLP Consumer Staples (defensive rotation — RRG Leading quadrant)
+**Sector laggards (avoid):** XLK Technology (chip crash), XLF Financials (DROPPED from prior #1 — now RRG Lagging), XLC, XLY
+
+### MA Correction (critical)
+Prior MARKET-DIRECTION.md estimates were stale: 50d MA had been listed as ~7,258 and 200d MA as ~6,918. Actual Jul 2 values via WebSearch (Investing.com): **50d MA 7,413.44 / 200d MA 7,469.76**. S&P is only +0.94% above 50d and +0.18% above 200d — far thinner cushion than previously believed. MARKET-DIRECTION.md updated.
+
+### Chip sector crash Jul 1-2
+- **LRCX:** $433.33 ATH (Jun 30) → **$351.41 (Jul 2)** = **−18.9% in 2 days.** Triple insider selling: CEO Peter Wennink + Director + SVP simultaneously. AI capex peak narrative (customers cutting wafer fab orders). Score collapsed: 72-75/100 → ~40-48/100. Earnings Jul 29 → blackout ~Jul 22 → **entry window PERMANENTLY CLOSED** (only 12 trading days; Correction won't clear in time). **LRCX REMOVED from bench.**
+- **MRVL:** $316.43 ATH (Jun 4) → **$245.29 (Jul 2)** = **−23% from ATH.** Broke Jun 29 $252.62 support Jul 2 → V-recovery from $252→$296 completely invalidated. Analyst downgrade to Hold. CFO liquidating ~50% of holdings. Score: 74-76/100 → **~45-55/100.** V-recovery is NOT a base; needs 8+ wks to rebuild structure.
+
+### Sector rotation update (Jul 2 RRG)
+Prior #1-3: XLF, XLV, XLI → **Now: XLE, XLI, XLP**
+- XLF dropped from #1 → RRG Lagging quadrant (notable reversal)
+- XLE rose to #1 on Iran war oil premium + OPEC discipline + geopolitical tailwind
+- XLP added as defensive leader (Correction rotation)
+- XLK now firmly RRG Lagging (chip crash + AI capex peak narrative)
+
+### Universe scan
+- **SKIPPED** — Correction posture per /weekly-prep rules; build-universe.sh not run
+- No scoring run this week (no new-entry watchlist possible in Correction)
+
+### Scan statistics
+- **Candidates scored:** 0 (formal screen not run — Correction)
+- **Bench candidates monitored:** 3 (NVDA 67-70/100, MRVL ~45-55/100, ARM 60/100)
+- **Passed conviction ≥75:** 0 | **12th consecutive week at zero**
+- **Rejection breakdown (bench only):**
+  - Correction gate: 3/3
+  - Score below threshold: 3/3 (NVDA 67-70, MRVL ~45-55, ARM 60)
+  - Earnings blackout: 1/3 (ARM Jul 29 → Jul 22 blackout)
+  - LRCX removed: triple insider selling + permanent earnings blackout
+- **No candidates below threshold were borderline** — all clearly sub-75 after chip crash damage
+
+### Macro calendar (week of Jul 6-10)
+- Mon Jul 7: Q3 opens; no major data
+- ~Wed-Thu Jul 9: FOMC June minutes (hawkish tone risk)
+- Thu Jul 10: **CPI** — most important macro event of the week (hot = dist day risk; cool = potential Day 1 setup)
+- Jul 14+: Q2 earnings season begins (JPM, GS, WFC)
+
+### Actions taken this /weekly-prep
+- MARKET-DIRECTION.md: Updated 50d/200d MA to correct values; added Jul 5 /weekly-prep block
+- WATCHLIST.md: Archived Jun 30-Jul 3 week; rebuilt Jul 6-10 week; LRCX removed; MRVL severe downgrade; sector rotation updated; MA estimates corrected throughout
+
+### Circuit breakers: ALL CLEAR
+P&L week: $0 | Equity: $2,500 (HWM) | Trades: 0/3 | Positions: 0/4
+
+---
+
 ## 2026-07-03 (Fri) — /eod-review (3:15 PM CT) — 🏖️ MARKET HOLIDAY — Independence Day observed — NYSE/Nasdaq FULLY CLOSED — 🔴 CORRECTION UNCHANGED — NO ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED proxy; Perplexity: 403; AV: 403; market closed — confirmed via WebSearch)
