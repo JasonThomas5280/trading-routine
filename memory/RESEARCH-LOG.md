@@ -46,6 +46,86 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-06 (Mon) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES +0.48% / NQ +1.0% — ISM PMI TODAY — NVDA $195 PRE-MKT — ALPACA DAY 123 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 123; Perplexity: 403; AV: 403 — all three primary sources blocked; 13th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (est. ~250 pts margin at open)
+**Weekly trades:** 0/3 (week of Jul 6 — RESET) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (top 3):** XLE Energy, XLI Industrials, XLP Consumer Staples
+**Sector laggards (avoid):** XLK Technology (chip crash), XLF Financials (RRG Lagging)
+
+### Gap check — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight market snapshot
+- **ES (S&P 500) futures:** ~+0.48% (~7,519 vs Jul 2 close 7,483.24) — pointing higher
+- **NQ (Nasdaq 100) futures:** ~+1.0% — tech/semi bid on positive holiday weekend tone
+- **VIX futures:** ~−2% — calmer session expected
+- **Dollar:** near 101
+- **Expected open:** Positive — holiday weekend gap-up; no major negative catalysts overnight
+- **Key macro TODAY:** ISM Services PMI (8:45 AM ET, consensus 51.3 vs prev 50.7) + ISM Non-Manufacturing PMI (9:00 AM ET). Both released pre-open. HOT = bearish (dist day risk); in-line/cool = neutral/positive
+- **Geopolitical:** No overnight escalation; Iran strait threat not spiking crude
+- **FOMC Minutes:** Wednesday Jul 8-9 ⚠️ HIGH RISK — Warsh hawkish tone potential
+
+### Overnight catalysts — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight catalysts — bench
+
+**NVDA (~$195.33 pre-mkt, +$0.50 / +0.26%):**
+- Nick Parker (26-yr Microsoft veteran, ex-worldwide commercial sales lead) joins NVDA as EVP worldwide field operations — minor N-letter positive (execution/institutional confidence)
+- Blackwell sold out through mid-2026; Rubin architecture arriving ~2 quarters ahead of schedule — demand thesis intact
+- No new negative catalyst overnight | Avg analyst target $301.62 (61 analysts, Strong Buy)
+- Score: **67-70/100 UNCHANGED** | Correction + no base (cup wk 19-20, no handle) → BLOCKED
+
+**MRVL (~$250 est., no specific pre-mkt catalyst):**
+- No new overnight catalyst
+- ⚠️ Ex-dividend $0.06 — ex-date **July 10 (Thu this week)** — price adjusts ~$0.06 at Thursday open
+- UBS $340 target (Jun 29) still on; no new analyst action overnight
+- Score: **~45-55/100 UNCHANGED** — broken structure post-$252 support break Jul 2; V-recovery invalidated → BLOCKED
+
+**ARM (~$315-318 pre-mkt est., AH +$1.12 / +0.35% — noise):**
+- No major overnight catalyst
+- Earnings July 29 → blackout begins ~Jul 22 (16 trading days remaining)
+- AGI CPU launch: $2B demand FY27-28 cited — thesis intact; GAAP C-letter still failing
+- Score: **60/100 UNCHANGED** | BLOCKED (Correction + GAAP C-letter + earnings blackout Jul 22)
+
+### Buy-zone readiness
+
+| Symbol | Pre-mkt Price | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$195.33 | Not defined (no handle yet) | N/A | 🔴 No base/pivot |
+| MRVL | ~$250 est. | Broken (no base) | N/A | 🔴 Below threshold (45-55) |
+| ARM | ~$315-318 est. | Not defined | N/A | 🔴 Below threshold (60) |
+| SH | — | Queued; Alpaca blocked | — | ⏸️ QUEUED Day 123 |
+
+### Circuit breaker check
+- Alpaca API: BLOCKED (403) — cannot pull live account state
+- Last confirmed: $2,500 equity (HWM) | 0 positions | 0 trades
+- Daily CB: ALL CLEAR | Weekly CB: ALL CLEAR (0/3 week resets today) | Drawdown CB: ALL CLEAR
+
+### Distribution day accounting
+- **6/25 UNCHANGED:** Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23
+- No new session since Jul 2 (holiday Jul 3-4)
+- Next expiry: Jun 3 → ~Aug 8 → 5/25
+
+### State transition: NONE
+- 🔴 **CORRECTION UNCHANGED** | FTD window CLOSED | Rally low 7,266.99 intact
+- ES +0.48% → gap-up open expected → rally margin widens to ~250 pts; still far from triggering new Day 1
+- FTD path: need S&P close BELOW 7,266.99 → Day 4-7 +1.25%+ on above-avg volume
+
+### Week ahead (Jul 6-10)
+- **Today:** ISM Services PMI 8:45 AM ET + ISM Non-Mfg 9:00 AM ET — first major Q3 macro data
+- **Wed Jul 8-9:** FOMC June minutes ⚠️
+- **Thu Jul 10:** MRVL ex-div $0.06
+- **Next week Jul 14:** CPI June + JPM + GS Q2 earnings — MEGA CATALYST WEEK
+
+### Actions
+- **NONE** — Correction + Alpaca Day 123 BLOCKED + 0 candidates ≥75 + 0 positions
+- SH $625: QUEUED — execute as first order on Alpaca restore
+
+---
+
 ## 2026-07-05 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION UNCHANGED — 12th CONSECUTIVE WEEK ZERO CANDIDATES — CHIP CRASH Jul 1-2 — SECTOR ROTATION UPDATED — MA VALUES CORRECTED
 
 **Research source:** `websearch_fallback` (Alpaca: Day ~122 BLOCKED 403; Perplexity: 403; Alpha Vantage: 403 — all three primary sources blocked since ~Day 1; 12th consecutive week in degraded mode)

@@ -3748,3 +3748,16 @@ Calendar risks Mon Jul 7 week:
 
 Entry plan Mon: NONE — Correction + 0 candidates + Alpaca blocked
 research_source: websearch_fallback | Alpaca: Day~122 BLOCKED | 12th consecutive degraded week
+
+---
+## 2026-07-06 11:12 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-06
+Market: 🔴 Correction (6/25 dist) | Futures: ES +0.48% (~7,519) NQ +1.0%
+Open positions: 0 | Circuit breakers: NONE | Alpaca: Day 123 BLOCKED
+Overnight gaps: none (0 positions)
+Watchlist ready 🟢: NONE
+Watchlist watching 🟡: NVDA ~$195 (67-70/100, no base/pivot); MRVL ~$250 (45-55/100, broken structure); ARM ~$315 (60/100, GAAP fail)
+Removed: NONE this session
+Key catalyst today: ISM Services PMI 8:45 AM ET + ISM Non-Mfg 9:00 AM ET (pre-open) | FOMC Minutes Wed Jul 8-9 ⚠️ | MRVL ex-div $0.06 Thu Jul 10 | CPI+JPM+GS: next week Jul 14
+Plan: no entries — Correction active + 0 candidates ≥75 + Alpaca blocked; SH $625 hedge QUEUED for Alpaca restore

@@ -6,10 +6,26 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 5 /weekly-prep — 6/25 dist days — No expiries until Aug 8 — Rally low 7,266.99 INTACT (216 pts) — ⚠️ S&P barely above 200d MA (+0.18%) — FTD window CLOSED — NEXT SESSION Mon Jul 6)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 6 /pre-market — 6/25 dist days — No expiries until Aug 8 — Rally low 7,266.99 INTACT (~250 pts est.) — ES +0.48% / NQ +1.0% pre-mkt — ISM PMI today — FOMC Minutes Wed Jul 8-9 — FTD window CLOSED — Alpaca Day 123 BLOCKED)*
 
-**Last updated:** 2026-07-05 (Sun) — /weekly-prep — **🔴 CORRECTION UNCHANGED — 6/25 DIST — S&P 7,483.24 (Jul 2) vs 50d MA 7,413.44 (+0.94%) vs 200d MA 7,469.76 (+0.18% — BARELY ABOVE ⚠️) — MA ESTIMATES CORRECTED (prior ~7,258/6,918 were stale; actual 7,413/7,470) — RALLY LOW 7,266.99 INTACT (216 pts) — FTD WINDOW CLOSED — CHIP SECTOR CRASH Jul 1-2 (LRCX -18.9% / MRVL -23% from ATH)**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,483.24 Jul 2 close vs low 7,266.99 = **~216 pts margin — last confirmed Jul 2**)
+**Last updated:** 2026-07-06 (Mon) — /pre-market — **🔴 CORRECTION UNCHANGED — 6/25 DIST — ES +0.48% gap-up open expected — S&P last confirmed 7,483.24 (Jul 2) vs 50d MA 7,413.44 vs 200d MA 7,469.76 — RALLY LOW 7,266.99 INTACT (~250 pts est.) — FTD WINDOW CLOSED — NVDA $195.33 pre-mkt — ISM Services PMI 8:45 AM ET — FOMC Minutes Wed**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,483.24 Jul 2 close vs low 7,266.99 = **~216 pts margin last confirmed Jul 2; est. ~250 pts at Jul 6 open with ES +0.48%**)
+
+**⏳ JUL 6 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.48% / NQ +1.0% — ISM PMI PENDING — ALPACA DAY 123 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 123 BLOCKED | Perplexity 403 | AV 403
+- **Futures (pre-mkt ~6 AM CT):** ES ~+0.48% (~7,519) | NQ ~+1.0% | VIX ~−2% | Dollar ~101 | Positive holiday weekend gap-up expected
+- **Key macro today:** ISM Services PMI 8:45 AM ET (consensus 51.3 vs prev 50.7) + ISM Non-Manufacturing 9:00 AM ET — first major Q3 data; both released pre-open
+- **Distribution day check:** N/A — pre-market | 6/25 UNCHANGED | No session since Jul 2
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.**
+- **Rally attempt:** S&P 7,483.24 (Jul 2) vs low 7,266.99 = 216 pts last confirmed | ES gap-up widens margin to est. ~250 pts | Rally intact ✅
+- **FTD status:** Window CLOSED. Need new Day 1 (S&P close BELOW 7,266.99); ES gap-up moves S&P AWAY from that level → no new Day 1 today.
+- **Open positions:** 0 → gap check **SKIPPED** ✅
+- **Bench snapshot:** NVDA ~$195.33 pre-mkt (+0.26%) | MRVL ~$250 est. | ARM ~$315-318 est. | All BLOCKED (Correction + below 75)
+- **New catalysts:** NVDA: Nick Parker (ex-MSFT) joins as EVP — minor positive | MRVL: ex-div $0.06 Thu Jul 10 | ARM: no catalyst (earnings Jul 29, blackout Jul 22)
+- **Circuit breakers:** ALL CLEAR | Weekly trades reset: 0/3 | Equity: $2,500 (HWM)
+- **Actions: NONE** (Correction + Alpaca Day 123 BLOCKED + 0 positions + 0 primary watchlist)
+- **⚠️ WEEK AHEAD:** ISM today | FOMC Minutes ~Wed Jul 8-9 ⚠️ | MRVL ex-div Thu Jul 10 | CPI + JPM + GS earnings: next week Jul 14 (MEGA CATALYST)
+- `research_source: websearch_fallback` | Alpaca BLOCKED | Perplexity 403 | AV 403
 
 **📋 JUL 5 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — MA DATA CORRECTED — CHIP SECTOR CRASH — LRCX REMOVED FROM BENCH — MRVL SEVERE DOWNGRADE):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~122 BLOCKED | Perplexity 403 | AV 403
