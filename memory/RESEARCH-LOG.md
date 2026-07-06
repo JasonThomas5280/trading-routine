@@ -12951,3 +12951,66 @@ Written to DAILY-SUMMARY.md (CLICKUP_WORKSPACE_ID not set).
 - **Critical watch Jul 7:** Rally low 7,266.99 (216 pts margin). If S&P closes below 7,266.99 = new Day 1 → FTD window Jul 10-15. Q2 earnings season begins ~Jul 14 (JPM, GS — XLF sector RS #1).
 
 `research_source: websearch_fallback` | Alpaca Day 121 BLOCKED | Market CLOSED Jul 3 | Next session Mon Jul 7
+
+---
+
+## 2026-07-06 (Mon) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,537.43 +0.72% NOT DIST DAY — DOW NEW ATH 53K — ALPACA DAY 124 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 124; Perplexity: 403; AV: 403 — all three primary sources blocked; 13th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~270 pts margin EOD — widening ✅)
+**Weekly trades:** 0/3 (week of Jul 6) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+**Close:** SPY ~$749.25 est. (+0.59%) | QQQ ~$720.58 est. (+1.12%) | S&P 500: 7,537.43 (+0.72%) | Nasdaq: 26,121.16 (+1.12%) | Dow: 53,055.91 NEW ATH (+0.29%)
+**Distribution days:** 6 of 25 trailing sessions (today: new dist? **NO** — positive close +0.72%)
+**Market state:** 🔴 Correction UNCHANGED (6/25 dist; FTD window CLOSED)
+**Positions held:** 0
+**Actions today:** NONE (Correction + Alpaca Day 124 BLOCKED)
+**Circuit breakers:** none
+**P&L today:** $0.00 (0.00%)
+**Equity:** $2,500.00 (HWM)
+
+### Step 1: Market State Check
+
+- S&P 500 close Jul 6: **7,537.43** (+0.72% from Jul 2 close 7,483.24) — strong post-holiday bounce
+- Nasdaq Composite close: **26,121.16** (+1.12%) — tech/semi broadly bid
+- Dow Jones: **53,055.91** (+0.29%) — **NEW ALL-TIME HIGH above 53,000 for first time ✅**
+- SPY est.: **~$749.25** | QQQ est.: **~$720.58**
+- **Distribution day check:** S&P +0.72% → POSITIVE → **NOT a distribution day** ✅
+- **Dist count: 6/25 UNCHANGED** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23)
+- **State transition:** NONE — 🔴 Correction UNCHANGED
+- **Rally attempt:** S&P 7,537.43 vs low 7,266.99 = **~270 pts margin WIDENING** (was 216 pts Jul 2) ✅
+- **50d MA:** S&P 7,537.43 vs 50d MA 7,413.44 = **+1.67% above** ✅ | 200d MA 7,469.76 = **+0.91% above** ✅ (margins widening from fragile +0.18% on Jul 2)
+
+### Step 2: Sell Rules Engine
+
+**0 open positions. SKIPPED.** ✅ sell-rules-engine not invoked.
+
+### Step 3: Portfolio-Level Checks
+
+- **Distribution cluster action:** 6/25 = Correction already in effect. No new dist day. No new portfolio action.
+- **Hedge entry:** SH $625 / 25% — **QUEUED since Jun 5** | Alpaca Day 124 BLOCKED — cannot execute
+- **FTD exit check:** Not applicable (no inverse ETF held)
+
+### Step 4: Circuit Breaker Check
+
+- Today P&L: $0.00 (0.00%) — 0 positions
+- Week P&L: $0.00 (0.00%)
+- Account drawdown from HWM: 0%
+- **All circuit breakers: CLEAR** ✅
+
+### Step 5: Weekly Trade Counter
+
+- Week of Jul 6: **0/3** trades used
+
+### Step 6: ClickUp Summary (→ DAILY-SUMMARY.md)
+
+```
+📊 EOD 2026-07-06 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction UNCHANGED)
+Actions today: NONE (Correction + Alpaca Day 124 BLOCKED)
+Market: S&P 7,537.43 (+0.72%) | Nasdaq 26,121 (+1.12%) | Dow 53,056 NEW ATH
+Rally low 7,266.99 INTACT (~270 pts — widening ✅)
+⚠️ FOMC Minutes Wed Jul 9 (hawkish risk) | CPI + JPM + GS: Jul 14 MEGA CATALYST
+Tomorrow: Alpaca restore → SH $625 FIRST ORDER | No long entries (Correction)
+```

@@ -3786,3 +3786,16 @@ Open positions: 0 | Total deployed: 0%
 Weekly trade count: 0 of 3 used
 Next check: /eod-review 3:15 PM CT
 ⚠️ FOMC Minutes ~Wed Jul 9 (hawkish risk) | MRVL ex-div Thu Jul 10 | CPI+JPM+GS: Jul 14 MEGA CATALYST
+
+---
+
+## 2026-07-06 — EOD Summary
+
+📊 EOD 2026-07-06 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 6/25 (market: 🔴 Correction UNCHANGED)
+Actions today: NONE (Correction + Alpaca Day 124 BLOCKED)
+Market: S&P 7,537.43 (+0.72%) | Nasdaq 26,121.16 (+1.12%) | Dow 53,055.91 NEW ATH
+Rally low 7,266.99 INTACT (~270 pts — widening ✅)
+⚠️ FOMC Minutes Wed Jul 9 (hawkish risk) | CPI + JPM + GS: Jul 14 MEGA CATALYST
+Tomorrow: Alpaca restore → SH $625 FIRST ORDER | No long entries (Correction)

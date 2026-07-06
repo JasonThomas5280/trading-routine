@@ -6,10 +6,32 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 6 /market-check — 6/25 dist days — S&P +0.5% NOT dist day — ISM Services 54.0 BEAT — Rally low 7,266.99 INTACT (~250+ pts — WIDENING) — FTD window CLOSED — NVDA $196.61 — FOMC Minutes Wed Jul 9 ⚠️ — Alpaca Day 123 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 6 /eod-review — 6/25 dist days — S&P CLOSE 7,537.43 +0.72% NOT dist day ✅ — Nasdaq 26,121.16 +1.12% — Dow 53,055.91 NEW ATH above 53K — Rally low 7,266.99 INTACT (~270 pts WIDENING) — FTD window CLOSED — Alpaca Day 124 BLOCKED)*
 
-**Last updated:** 2026-07-06 (Mon) — /market-check 10:00 AM CT — **🔴 CORRECTION UNCHANGED — 6/25 DIST — S&P +0.5% NOT dist day ✅ — ISM Services 54.0% BEAT ✅ — Rally low 7,266.99 INTACT (~250+ pts WIDENING) — FTD WINDOW CLOSED — NVDA $196.61 — No actions — 0 positions — Alpaca Day 123 BLOCKED**
-**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P ~7,519-7,527 intraday Jul 6 vs low 7,266.99 = **~250-260 pts margin — WIDENING ✅**)
+**Last updated:** 2026-07-06 (Mon) — /eod-review 3:15 PM CT — **🔴 CORRECTION UNCHANGED — 6/25 DIST — S&P CLOSE 7,537.43 +0.72% NOT dist day ✅ — Rally margin ~270 pts WIDENING ✅ — Dow NEW ATH 53,055.91 — 0 positions — Alpaca Day 124 BLOCKED**
+**STATE:** 🔴 Market in Correction | UNCHANGED | **6/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | No expiries until Aug 8 (Jun 3 oldest) | FTD window CLOSED (Day 7 failed Jun 22; next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P 7,537.43 EOD Jul 6 vs low 7,266.99 = **~270 pts margin — WIDENING ✅**)
+
+**✅ JUL 6 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,537.43 +0.72% NOT DIST DAY ✅ — NASDAQ 26,121.16 +1.12% — DOW 53,055.91 NEW ATH — 6/25 UNCHANGED — RALLY LOW 7,266.99 INTACT (~270 PTS WIDENING) — ALPACA DAY 124 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 124 BLOCKED
+- **S&P 500 CLOSE Jul 6: 7,537.43 (+0.72% / +54.19 pts** from Jul 2 close 7,483.24) | **Dow 53,055.91 (+0.29% — NEW ATH above 53,000 for first time ✅)** | **Nasdaq Composite 26,121.16 (+1.12% / +288.49 pts** from Jul 2 25,832.67) | SPY est. ~$749.25 (+0.59%) | QQQ est. ~$720.58 (+1.12%)
+- **Session character: BULLISH SURGE.** Post-holiday gap-up sustained into close. Tech/semi broadly bid — WDC +7%, TER +2.8%, MRVL +2% (partial recovery), ORCL +2.5%. MSFT −1.7% (4,800 job cuts) underperformed. ISM Services 54.0 (beat) sustained risk-on all session.
+- **Distribution day check (Jul 6 FINAL):** S&P +0.72% — **POSITIVE → NOT a distribution day** ✅ (up day; can't be distribution)
+- **Distribution day accounting:** No changes. Active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23. **Net: 6/25 UNCHANGED** ✅
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** (6/25 dist = Correction; FTD window CLOSED; S&P 7,537.43 moves FURTHER from 7,266.99 low → no new Day 1 today)
+- **Rally attempt check:** S&P 7,537.43 vs rally low **7,266.99** (Jun 10) → margin **~270 pts (+3.73%)** → rally attempt **INTACT ✅ WIDENING** (was 216 pts Jul 2 → ~260 pts intraday Jul 6 → **270 pts EOD Jul 6**)
+- **50-day MA check:** 50d MA 7,413.44 | S&P 7,537.43 = **+1.67% ABOVE 50d MA** ✅ | 200d MA 7,469.76 | S&P **+0.91% ABOVE 200d MA** ✅ (margins widening from fragile +0.18% on Jul 2)
+- **FTD status:** Window CLOSED. S&P 270 pts above rally low → no new Day 1 today.
+- **Abort gates:** Correction ✅ | Alpaca blocked ✅ | Daily CB clear ✅ | Weekly CB clear ✅ | Drawdown clear ✅ | Trades 0/3 ✅ | Positions 0/4 ✅ | Cash 100% ✅
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Hedge status:** SH $625 / 25% portfolio — **QUEUED — Alpaca Day 124 BLOCKED**. Cannot execute.
+- **Bench check (EOD est.):**
+  - NVDA: **~$198-200 est.** (relative outperformance; +1.5% est.) | **67-70/100 UNCHANGED** | Cup wk 20; no handle; no valid pivot | **No promotion** ✅
+  - MRVL: **~$250-252 est.** (+2% from $245.29 Jul 2 — partial recovery) | **~45-55/100 UNCHANGED** (structure broken; needs 8+ wk new base) | **No promotion** ✅
+  - ARM: **~$318-325 est.** | **60/100 UNCHANGED** (GAAP C-letter fail; earnings blackout Jul 22) | **No promotion** ✅
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 (0%) | P&L week: $0 (0%) | Equity: $2,500 (HWM)
+- **Actions: NONE** (Correction + Alpaca Day 124 BLOCKED + 0 positions + 0 candidates ≥75)
+- **⚠️ WEEK AHEAD:** FOMC Minutes **~Wed Jul 9** ⚠️ HIGH RISK (Warsh hawkish tone potential) | MRVL ex-div $0.06 **Thu Jul 10** | **CPI + JPM + GS: next week Jul 14** (MEGA CATALYST — single most important macro day of Q3) | ARM earnings blackout **Jul 22** (~11 trading days away) | Alpaca restore → SH $625 FIRST ORDER
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day 124) | Perplexity 403 | AV 403
 
 **✅ JUL 6 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P +0.5% NOT DIST DAY — ISM SERVICES 54.0 BEAT — DIST 6/25 UNCHANGED — NVDA $196.61 — ALPACA DAY 123 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 123 BLOCKED
