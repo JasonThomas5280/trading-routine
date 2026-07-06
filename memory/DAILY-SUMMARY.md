@@ -3761,3 +3761,28 @@ Watchlist watching 🟡: NVDA ~$195 (67-70/100, no base/pivot); MRVL ~$250 (45-5
 Removed: NONE this session
 Key catalyst today: ISM Services PMI 8:45 AM ET + ISM Non-Mfg 9:00 AM ET (pre-open) | FOMC Minutes Wed Jul 8-9 ⚠️ | MRVL ex-div $0.06 Thu Jul 10 | CPI+JPM+GS: next week Jul 14
 Plan: no entries — Correction active + 0 candidates ≥75 + Alpaca blocked; SH $625 hedge QUEUED for Alpaca restore
+
+---
+## 2026-07-06 10:00 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-06 10:00 CT
+Market: 🔴 Correction (6/25 dist) | Circuit breakers: NONE
+Actions taken:
+  [No new entries — Correction gate active (6/25 dist days) + Alpaca Day 123 BLOCKED]
+  [No sells — 0 open positions]
+  [SH $625 hedge — QUEUED, awaiting Alpaca restore]
+Market data (10 AM CT):
+  S&P ~+0.5-0.6% (~7,519-7,527) — NOT dist day ✅ | Dist 6/25 UNCHANGED
+  Nasdaq +1.0% | Dow −0.3% | Tech/semi bid on dip-buying
+  ISM Services PMI Jun 2026: 54.0% (BEAT consensus 51.3%) ✅ — expansion month 24
+  Rally low 7,266.99 INTACT (~250-260 pts margin — WIDENING ✅)
+  FTD window: CLOSED (need S&P close <7,266.99 for new Day 1)
+Bench prices (10 AM CT):
+  NVDA $196.61 (67-70/100, cup wk 20, no handle, Aug 2026+) — no promotion
+  MRVL ~$254.99 +3.96% (45-55/100, structure broken, needs new base) — no promotion
+  ARM ~$315-320 est (60/100, GAAP fail, blackout Jul 22) — no promotion
+Watchlist status: 0 ready, 3 watching (NVDA/MRVL/ARM), 0 removed
+Open positions: 0 | Total deployed: 0%
+Weekly trade count: 0 of 3 used
+Next check: /eod-review 3:15 PM CT
+⚠️ FOMC Minutes ~Wed Jul 9 (hawkish risk) | MRVL ex-div Thu Jul 10 | CPI+JPM+GS: Jul 14 MEGA CATALYST
