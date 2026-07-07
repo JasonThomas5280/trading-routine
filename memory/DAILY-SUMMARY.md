@@ -1,5 +1,20 @@
 
 ---
+## 2026-07-07 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — SAMSUNG SELLOFF MU/SanDisk −7% — NVDA +1% RS POSITIVE — DIST DAY #7 RISK — FOMC MINUTES TOMORROW JUL 8]
+
+📈 Market-check 2026-07-07 10:00 AM CT
+Market: 🔴 Correction (6/25 dist — UNCHANGED) | Circuit breakers: NONE
+Actions taken: No new entries (Correction + Alpaca Day 125 BLOCKED) | No sells (0 positions)
+Key catalyst: Samsung Q2 +1,800% profit → SELL THE NEWS → MU/SanDisk −7%; Nasdaq −1%
+NVDA: ~$195.59 +1% (Kyber denial) — RS POSITIVE vs chip sector crash ✅
+MRVL: ~$254.28 +3.59% — recovering from crash; score ~45-55/100 — NOT actionable
+⚠️ DIST DAY #7 RISK: S&P opened −0.41%; confirm/deny at /eod-review 3:15 PM CT
+⚠️ FOMC MINUTES TOMORROW Jul 8 (corrected from ~Jul 9 estimate) — hawkish risk
+⚠️ CPI Thu Jul 10 | JPM+GS Mon Jul 14 MEGA CATALYST WEEK AHEAD
+Watchlist: 0 primary (13th wk); bench NVDA 67-70 / MRVL 45-55 / ARM 60 — all blocked
+SH $625 QUEUED (Alpaca BLOCKED) | Weekly trades: 0/3 | Next: /eod-review 3:15 PM CT
+
+---
 ## 2026-07-07 06:00 CT [pre-market — 🔴 CORRECTION UNCHANGED — ES −0.3% / NQ −0.9% — SAMSUNG CHIP EARNINGS — FOMC MINUTES TOMORROW — ALPACA DAY 125 BLOCKED]
 
 🌅 Pre-market 2026-07-07

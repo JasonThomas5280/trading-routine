@@ -13102,3 +13102,141 @@ Rally low 7,266.99 INTACT (~270 pts — widening ✅)
 ⚠️ FOMC Minutes Wed Jul 9 (hawkish risk) | CPI + JPM + GS: Jul 14 MEGA CATALYST
 Tomorrow: Alpaca restore → SH $625 FIRST ORDER | No long entries (Correction)
 ```
+
+---
+
+## 2026-07-07 (Tue) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — SAMSUNG SELLOFF — NVDA +1% RS POSITIVE — DIST DAY #7 RISK WATCH — ALPACA DAY 125 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 125; Perplexity: 403; AV: 403 — all three primary sources blocked; 13th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, 5, 9, 10, 17, 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~270 pts margin)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Note:** No /pre-market entry in RESEARCH-LOG.md for today; pre-market summary captured in DAILY-SUMMARY.md (ES −0.3% / NQ −0.9%; Samsung earnings flagged)
+
+---
+
+### Step 1: Abort Gates
+
+| Gate | Status | Result |
+|---|---|---|
+| Market state | 🔴 Correction (6/25 dist days) ≠ "Confirmed Uptrend" | ⛔ ABORT — no new long entries |
+| Research unavailable | `websearch_fallback` (WebSearch functional) | — (sells still run; no positions) |
+| Daily circuit breaker | $0 P&L (0 positions) | ✅ CLEAR |
+| Weekly circuit breaker | $0 P&L week-to-date | ✅ CLEAR |
+| Drawdown halt | 0% from $2,500 HWM | ✅ CLEAR |
+| Weekly trade count | 0/3 used | ✅ CLEAR |
+| Position count | 0/4 positions | ✅ CLEAR |
+| Cash buffer | 100% cash | ✅ CLEAR |
+| Alpaca API | ⛔ BLOCKED Day 125 (403 proxy) | ⛔ No execution possible |
+
+**RESULT: Abort at gate 1 + Alpaca gate. No trades of any kind possible.**
+
+---
+
+### Step 2: Overnight Gap Follow-up
+
+**0 open positions. SKIPPED.** ✅
+
+---
+
+### Step 3: Watchlist Triggers — Primary
+
+**Primary watchlist: NONE** — Correction gate blocks all long entries. 0 items with score ≥75 for 13th consecutive week.
+
+**Inverse ETF (SH $625 / 25% portfolio):** QUEUED since Jun 5. Alpaca Day 125 BLOCKED — cannot execute. State unchanged.
+
+---
+
+### Step 4: Mid-Morning Intraday Market Assessment
+
+| Instrument | Intraday (10:00 AM CT est.) | Notes |
+|---|---|---|
+| S&P 500 | Opened 7,506.96 (−0.41% gap from 7,537.43) | Samsung selloff; Nasdaq -1% |
+| SPY | Opened ~$748.74 | −0.07% from $749.25 Jul 6 close est. |
+| Nasdaq Composite | ~−1% | Tech pressure from Samsung earnings read-through |
+| Dow Jones | Mixed | SpaceX Nasdaq-100 inclusion = institutional inflows |
+
+**Samsung Q2 Earnings (July 7) — CHIP SECTOR READ-THROUGH:**
+- Samsung reported Q2 operating profit +1,800-1,900% YoY (89.4 trillion won / ~$58.4B) — beat consensus
+- BUT stock fell >6% (sell the news): investors concerned AI boom sustainability; chipmaker rally in H1 "priced in"
+- Knock-on: MU −7% to $917 | SanDisk −7% to $1,616 | WD −7% to $537 | Asian tech indices plummeted
+- **Key signal:** Market is selling perfect earnings in memory chips → peak AI capex narrative gaining traction (consistent with Jun 23 KOSPI crash thesis)
+
+**Bench name intraday performance:**
+
+| Symbol | Est. Price (10 AM CT) | Move | Notes |
+|---|---|---|---|
+| NVDA | ~$195.59 | +1% | ✅ BUCKING TREND — denied Kyber rack-scale delay report; Goldman calls 21.7x "compelling" post-denial; RS positive vs memory sector −7% |
+| MRVL | ~$254.28 | +3.59% | Recovering from Jul 2 crash ($245.29); score still ~45-55/100 (broken structure); NOT a base — recovery |
+| ARM | ~$320 est. | Mixed | Jul 6: +4.80%; Jul 7: sector headwind from Samsung selloff |
+
+**⚠️ DIST DAY #7 RISK TODAY:** S&P opened −0.41%; Nasdaq −1% intraday. If S&P 500 CLOSES ≤−0.20% on SPY volume above Jul 6 volume → DIST DAY #7 (7/25). State stays 🔴 Correction regardless (already at threshold). Rally low 7,266.99 (requires −3.6% from here to undercut — not realistic today). **Confirm/deny at /eod-review.**
+
+---
+
+### Step 5: Position Health Check
+
+**0 open positions. sell-rules-engine SKIPPED.** ✅ No intraday Rule 1 or Rule 3 triggers possible.
+
+---
+
+### Step 6: Bench Promotion Check
+
+| Symbol | Est. Price | Score | Within 2% of pivot? | Structure | Action |
+|---|---|---|---|---|---|
+| NVDA | ~$195.59 | 67-70/100 | No — cup forming, no pivot defined (handle absent) | Cup wk 20-21; intact | No promotion — no valid entry point |
+| MRVL | ~$254.28 | ~45-55/100 | No — broken structure; needs 8+ wk base from $245 low | Broken; V-recovery ≠ base | No promotion — severely below threshold |
+| ARM | ~$320 est. | 60/100 | No — below threshold; no valid base | No base; blackout Jul 22 | No promotion |
+
+**No promotions. No demotions. WATCHLIST.md unchanged.**
+
+**NVDA relative strength note:** NVDA +1% on a day when memory chips are −7% is a meaningful RS signal. Cup base wk 20-21 remains intact (no damage from today). This does NOT change the score or actionability (still needs handle completion, score ≥75, FTD, Alpaca restore) but it's a positive thesis confirmation for the Aug 2026 timeline.
+
+---
+
+### Step 7: Key Calendar Correction
+
+⚠️ **FOMC MINUTES DATE CORRECTION:** WATCHLIST.md and prior notes estimated "~Jul 9." Actual release: **Tuesday Jul 8** (TOMORROW), per confirmed TradingView/Investing.com sources. The June 16-17 FOMC meeting minutes release tomorrow. Adjust all monitoring accordingly.
+
+**What the minutes are expected to show:**
+- Rate pause extending (rates at 3.50%–3.75%)
+- "Several participants indicated rate cuts warranted later in 2026 if conflict resolved and inflation dissipates" — potentially LESS hawkish than the June 17 dot-plot implied (9/18 hike projection)
+- Market reaction: Hawkish tone → dist day risk (as WATCHLIST.md flagged); Dovish surprise → rally attempt fuel
+
+**Market risk calendar (corrected):**
+- **Tomorrow Jul 8:** FOMC Minutes (June 16-17 meeting) — ⚠️ KEY RISK
+- **Thu Jul 10:** CPI June 2026 (prior logged as Jul 10, confirmed) + MRVL ex-div
+- **Mon Jul 14:** JPM + GS Q2 earnings + CPI reaction follow-through — MEGA CATALYST week
+
+---
+
+### Step 8: Circuit Breaker Check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L (no positions) — CLEAR ✅ |
+| Weekly −6% | $0 week-to-date — CLEAR ✅ |
+| Drawdown −12% HWM | $0 drawdown — CLEAR ✅ |
+| PDT 3/3 | 0 day trades — CLEAR ✅ |
+| Alpaca API | ❌ BLOCKED Day 125 (403 proxy) |
+| **ALL STANDARD CIRCUIT BREAKERS** | **CLEAR** ✅ |
+
+---
+
+### Step 9: ClickUp Summary (→ DAILY-SUMMARY.md)
+
+```
+📈 Market-check 2026-07-07 10:00 AM CT
+Market: 🔴 Correction (6/25 dist — UNCHANGED) | Circuit breakers: NONE
+Actions taken: No new entries (Correction + Alpaca Day 125 BLOCKED) | No sells (0 positions)
+Key catalyst: Samsung Q2 +1,800% profit → SELL THE NEWS → MU/SanDisk −7%; Nasdaq −1%
+NVDA: ~$195.59 +1% (Kyber denial) — RS POSITIVE vs chip sector crash ✅
+MRVL: ~$254.28 +3.59% — recovering from crash; score 45-55/100 — NOT actionable
+⚠️ DIST DAY #7 RISK: S&P opened −0.41%; confirm/deny at /eod-review 3:15 PM CT
+⚠️ FOMC MINUTES TOMORROW Jul 8 (not Jul 9 as estimated) — hawkish risk
+⚠️ CPI Thu Jul 10 | JPM+GS Mon Jul 14 MEGA CATALYST WEEK AHEAD
+Watchlist: 0 primary (score ≥75 for 13th wk); bench NVDA 67-70 / MRVL 45-55 / ARM 60 — all blocked
+SH $625 hedge: QUEUED (Alpaca Day 125 BLOCKED)
+Weekly trade count: 0/3 | Next check: /eod-review 3:15 PM CT
+```
+
+`research_source: websearch_fallback` | Alpaca Day 125 BLOCKED | Correction state UNCHANGED
