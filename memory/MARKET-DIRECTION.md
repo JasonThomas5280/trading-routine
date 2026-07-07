@@ -58,6 +58,22 @@
 - **⚠️ WEEK AHEAD:** FOMC Minutes **~Wed Jul 9** ⚠️ HIGH RISK (Warsh hawkish tone potential — could add dist day) | MRVL ex-div $0.06 **Thu Jul 10** | **CPI + JPM + GS: next week Jul 14** (MEGA CATALYST — single most important macro/earnings day of Q3) | ARM earnings blackout **Jul 22** (only ~11 trading days away — entry window closing fast, though score 60 = blocked anyway) | Alpaca restore → SH $625 FIRST ORDER
 - `research_source: websearch_fallback` | Alpaca BLOCKED | Perplexity 403 | AV 403
 
+**⏳ JUL 7 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES −0.3% / NQ −0.9% PULLBACK — SAMSUNG CHIP EARNINGS — FOMC MINUTES TOMORROW — ALPACA DAY 125 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 125 BLOCKED | Perplexity 403 | AV 403
+- **Futures (pre-mkt ~6 AM CT):** ES ~−0.3% | NQ ~−0.9% | YM ~flat | Profit-taking after Monday's record session (S&P +0.72% / Dow NEW ATH 53,055.91 / Nasdaq +1.12%)
+- **Key events today:** Samsung Electronics Q2 earnings (chip-sector read-through) | SpaceX added to Nasdaq 100 effective today | No major US macro
+- **Key risk TOMORROW:** FOMC June 16-17 minutes (Jul 9 Wed) ⚠️ HIGH RISK — PCE inflation 3.6%, Warsh hawkish tone risk, rate hike signal possible before year-end → potential dist day risk
+- **Distribution day risk today:** ES −0.3% / NQ −0.9% → if S&P closes −0.2%+ on higher volume → dist #7 (6→7/25; still Correction)
+- **Distribution day accounting:** 6/25 UNCHANGED | Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23 | No new dist since Jun 23
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.**
+- **Rally attempt check:** S&P 7,537.43 (Jul 6) vs rally low **7,266.99** → margin **~270 pts** → INTACT ✅ | Pre-mkt −0.3% does not threaten Day 1 (need close BELOW 7,266.99)
+- **Open positions:** 0 → gap check: **SKIPPED** ✅
+- **Bench snapshot:** NVDA ~$193-196 est. (NQ −0.9% headwind) | MRVL ~$250-253 est. (ex-div Thu Jul 10) | ARM ~$328-331 est. (holding Mon +5% gain)
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM)
+- **Actions: NONE** (Correction + Alpaca Day 125 BLOCKED + 0 positions + 0 candidates ≥75)
+- **⚠️ WEEK AHEAD:** Samsung today (chip read) | **FOMC Minutes Wed Jul 9 ⚠️ HIGH RISK** | MRVL ex-div Thu Jul 10 | **CPI + JPM + GS: next week Jul 14 MEGA CATALYST** | ARM blackout Jul 22 (~11 days)
+- `research_source: websearch_fallback` | Alpaca BLOCKED | Perplexity 403 | AV 403
+
 **⏳ JUL 6 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.48% / NQ +1.0% — ISM PMI PENDING — ALPACA DAY 123 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 123 BLOCKED | Perplexity 403 | AV 403
 - **Futures (pre-mkt ~6 AM CT):** ES ~+0.48% (~7,519) | NQ ~+1.0% | VIX ~−2% | Dollar ~101 | Positive holiday weekend gap-up expected

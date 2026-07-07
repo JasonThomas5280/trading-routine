@@ -1,5 +1,20 @@
 
 ---
+## 2026-07-07 06:00 CT [pre-market — 🔴 CORRECTION UNCHANGED — ES −0.3% / NQ −0.9% — SAMSUNG CHIP EARNINGS — FOMC MINUTES TOMORROW — ALPACA DAY 125 BLOCKED]
+
+🌅 Pre-market 2026-07-07
+Market: 🔴 Correction (6/25 dist) | Futures: ES −0.3% / NQ −0.9% (profit-taking after Mon ATH)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+Watchlist ready: none (Correction gate; 0 candidates ≥75 for 13th consecutive week)
+Watchlist watching: NVDA 67-70 (bench, no handle), ARM 60 (bench, blackout Jul 22)
+Removed: MRVL 45-55 (bench, below threshold — broken structure; ex-div Jul 10)
+Key catalysts today: Samsung Q2 earnings (chip read-through) | SpaceX → Nasdaq 100 | No US macro | ⚠️ FOMC minutes TOMORROW Jul 9 (hawkish risk = dist day)
+FOMC context: Fed held 3.5%-3.75% Jun 17 | PCE inflation 3.6% | median dot = 1 more hike possible 2026 | Warsh hawkish → potential distribution day tomorrow
+Plan: NO ENTRIES — Correction + Alpaca Day 125 BLOCKED + 0 candidates ≥75. SH $625 queued for Alpaca restore. Monitor Samsung earnings for chip sector read. Watch dist day count at /eod-review (currently 6/25; risk of 7 today or tomorrow on FOMC).
+research_source: websearch_fallback | Alpaca BLOCKED | Perplexity 403 | AV 403
+
+---
 ## 2026-07-02 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,483.24 BEARISH REVERSAL — NOT DIST DAY — DOW NEW ATH 52,900 — NASDAQ −0.80% — 6/25 UNCHANGED — 0 POSITIONS — NO ACTIONS]
 
 📊 EOD 2026-07-02 | Equity $2,500.00 ($0 day, $0 week)

@@ -46,6 +46,94 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-07 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES −0.3% / NQ −0.9% PULLBACK AFTER ATH — SAMSUNG CHIP EARNINGS TODAY — FOMC MINUTES TOMORROW — ALPACA DAY 125 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 125; Perplexity: 403; AV: 403 — all three primary sources blocked; 14th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **6/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23) | FTD window CLOSED | Rally low 7,266.99 INTACT (~270 pts margin from Jul 6 close 7,537.43)
+**Weekly trades:** 0/3 (week of Jul 7) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (top 3):** XLE Energy, XLI Industrials, XLP Consumer Staples
+**Sector laggards (avoid):** XLK Technology (chip crash), XLF Financials (RRG Lagging)
+
+### Gap check — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight market snapshot
+- **ES (S&P 500) futures:** ~−0.3% — pullback after Monday's strong close (7,537.43 +0.72%)
+- **NQ (Nasdaq 100) futures:** ~−0.9% — tech/AI trade softening; Dow NEW ATH 53,055.91 was yesterday
+- **YM (Dow) futures:** ~flat — Dow digesting record; value rotation
+- **Context:** Futures down on profit-taking after Monday's rally; AI trade "in focus" (per Yahoo Finance Jul 7 pre-market)
+- **Key event TODAY:** Samsung Electronics Q2 earnings — chip-sector sentiment read-through; also SpaceX added to Nasdaq 100 effective Jul 7
+- **Key risk TOMORROW (Jul 9 Wed):** FOMC June 16-17 minutes release ⚠️ HIGH RISK — Fed held at 3.5%-3.75%; June SEP showed PCE inflation 3.6%, unemployment 4.3%; median dot implies 1 potential hike before year-end 2026; Warsh hawkish tone risk → potential distribution day tomorrow
+- **No major US macro today** — quiet between ISM (Jul 6) and FOMC minutes (Jul 9)
+
+### Overnight catalysts — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight catalysts — bench
+
+**NVDA (~$195.84 Jul 6 close; pre-mkt est. ~$192-195 given NQ −0.9%):**
+- Jul 6 session: +1%+ on denial of Kyber NVL144 AI rack delay rumors (confirmed prior session)
+- Goldman Sachs: "quite compelling" valuation; avg analyst target $301.62 (61 analysts, Strong Buy)
+- Nvidia $2B investment in MRVL (NVLink Fusion / XPU collab) — March 31, 2026 event; already baked in
+- NVDA Q2 earnings: **Aug 26, 2026** — no blackout concern (7+ weeks away)
+- No new negative catalyst overnight
+- NQ −0.9% pre-mkt = slight downward pressure on price today; no thesis change
+- Score: **67-70/100 UNCHANGED** | Cup wk 21; no handle; no valid pivot | BLOCKED (Correction + below 75)
+
+**MRVL (~$252-255 est. Jul 6 close; pre-mkt slightly lower given NQ −0.9%):**
+- ⚠️ **Ex-dividend $0.06 — ex-date Thu Jul 10** (3 trading days; price adjusts down ~$0.06 at open Thu)
+- NVDA $2B investment (Mar 31 2026) — old news; already reflected in prior scores
+- UBS $340 target, Buy (Jun 29) — still on; one analyst at $165 Strong Sell
+- CFO liquidation (~50% of holdings) — structural negative remains
+- Broken structure: -27% from Jun ATH, $252 support broken Jul 2 — needs 8+ wk base rebuild
+- Score: **~45-55/100 UNCHANGED** | Below threshold; no pivot defined | BLOCKED (Correction + score + broken structure)
+
+**ARM (~$330.97 Jul 6 close — +5% Monday; pre-mkt slight pullback with NQ):**
+- **ARM +5% on Jul 6** (vs our est. $318-325 — actual close $330.97, above our estimate ✅)
+- AGI CPU for agentic AI workloads; $2B+ customer demand FY2027-2028 cited by management
+- Analyst targets bullish: TD Cowen $475, UBS $470, Mizuho $500 — but avg $280 shows caution on valuation
+- Legal risk: Qualcomm/Nuvia architecture licensing trial late 2026; SoftBank potential overhang
+- **Earnings Jul 29 → entry blackout begins Jul 22 (~11 trading days from today)** — countdown unchanged
+- GAAP C-letter still failing; 470× trailing P/E; New Street Research Neutral downgrade
+- Score: **60/100 UNCHANGED** | BLOCKED (Correction + GAAP C-letter fail + score 60 + blackout approaching)
+
+### Buy-zone readiness
+
+| Symbol | Jul 6 Close | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$195.84 | Not defined (no handle) | N/A | 🔴 No base/pivot; Correction gate |
+| MRVL | ~$252-255 est. | Broken (no base) | N/A | 🔴 Below threshold (45-55); broken structure |
+| ARM | ~$330.97 | Not defined | N/A | 🔴 Below threshold (60); earnings blackout Jul 22 |
+| SH | — | Queued; Alpaca Day 125 BLOCKED | — | ⏸️ QUEUED — execute on Alpaca restore |
+
+### Circuit breaker check
+- Alpaca API: BLOCKED (403 proxy Day 125) — cannot pull live account state
+- Last confirmed: $2,500 equity (HWM) | 0 positions | 0 trades
+- Daily CB: ALL CLEAR | Weekly CB: ALL CLEAR (0/3 week — reset Mon Jul 6) | Drawdown CB: ALL CLEAR
+
+### Distribution day accounting
+- **6/25 UNCHANGED:** Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23
+- ⚠️ **Distribution day risk today:** ES −0.3% / NQ −0.9% pre-mkt → if S&P closes −0.2%+ on higher volume → dist day #7 (6→7/25 — still Correction, worse)
+- ⚠️ **Distribution day risk tomorrow (FOMC minutes Jul 9):** Hawkish tone = sell-off risk = another dist day
+- Next expiry: Jun 3 → ~Aug 8 → 5/25 (still 32 days away)
+
+### State transition: NONE
+- 🔴 **CORRECTION UNCHANGED** | FTD window CLOSED | Rally low 7,266.99 intact (~270 pts margin)
+- Pre-mkt decline narrows today's session margin slightly but not to Day 1 territory (need S&P BELOW 7,266.99 — current is 7,537.43 = 270 pts above)
+
+### Week ahead (Jul 7-10)
+- **Today (Jul 7):** Samsung Q2 earnings (chip read-through) | No US macro | ES −0.3% / NQ −0.9% pullback → watch for distribution day
+- **Wed Jul 9:** FOMC June minutes ⚠️ HIGH RISK (hawkish Warsh tone → dist day risk; rate hike signal possible)
+- **Thu Jul 10:** MRVL ex-div $0.06 (price adjusts down ~$0.06 at open)
+- **Next week Jul 14:** CPI June + JPM + GS Q2 earnings (MEGA CATALYST — single most important macro day of Q3)
+
+### Actions
+- **NONE** — Correction + Alpaca Day 125 BLOCKED + 0 candidates ≥75 + 0 positions
+- SH $625: QUEUED — execute as first order on Alpaca restore
+- ARM blackout countdown: **~11 trading days** to Jul 22 (academic only — score 60 blocks entry anyway)
+
+---
+
 ## 2026-07-06 (Mon) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES +0.48% / NQ +1.0% — ISM PMI TODAY — NVDA $195 PRE-MKT — ALPACA DAY 123 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 123; Perplexity: 403; AV: 403 — all three primary sources blocked; 13th consecutive week degraded mode)
