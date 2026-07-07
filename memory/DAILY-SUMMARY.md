@@ -3829,3 +3829,26 @@ Market: S&P 7,537.43 (+0.72%) | Nasdaq 26,121.16 (+1.12%) | Dow 53,055.91 NEW AT
 Rally low 7,266.99 INTACT (~270 pts — widening ✅)
 ⚠️ FOMC Minutes Wed Jul 9 (hawkish risk) | CPI + JPM + GS: Jul 14 MEGA CATALYST
 Tomorrow: Alpaca restore → SH $625 FIRST ORDER | No long entries (Correction)
+
+---
+
+## 2026-07-07 EOD Summary
+
+📊 EOD 2026-07-07 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 7/25 (🔴 Correction UNCHANGED — DIST DAY #7 ADDED)
+Market: S&P est. ~7,499 (−0.50% DIST DAY) | Nasdaq ~25,860 (−1.0%) | Dow ~52,990 (slipped below 53K)
+Session: Samsung Q2 +19× profit → sell-the-news; SMH −5%; Intel −10%; AMD −8%; Micron −7%; SpaceX −5% (Nasdaq-100 fast-track selling)
+NVDA ~$196 ~flat (RS POSITIVE — bucking Nasdaq −1% chip selloff for 2nd session ✅)
+Rally low 7,266.99 INTACT (~232 pts margin — NARROWING from 270 pts Jul 6)
+50d MA ~+1.14% above | 200d MA ~+0.39% above (WATCH: very close)
+Actions today: NONE (Correction + Alpaca Day 125 BLOCKED)
+Sell-rules-engine: SKIPPED (0 positions)
+Circuit breakers: ALL CLEAR
+⚠️ FOMC Minutes TOMORROW Jul 8 — hawkish risk (Warsh tone; 9/18 hike projection; dist day #8 possible)
+⚠️ MRVL ex-div $0.06 TOMORROW Jul 8
+⚠️ CPI Thu Jul 10 MEGA CATALYST (prior 3.8% YoY; cool = FTD fuel; hot = dist day risk)
+⚠️ Jun 3 dist day expiry ~Jul 9-10 (recheck at /pre-market; prior file note 'Aug 8' flagged as too far)
+⚠️ JPM + GS Q2 earnings Mon Jul 14 — Q3 earnings season start
+SH $625 hedge: QUEUED (Alpaca Day 125 BLOCKED — Day 68 queued since Jun 5)
+Weekly trade count: 0/3 | research_source: websearch_fallback

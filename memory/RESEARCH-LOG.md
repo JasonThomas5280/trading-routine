@@ -13240,3 +13240,112 @@ Weekly trade count: 0/3 | Next check: /eod-review 3:15 PM CT
 ```
 
 `research_source: websearch_fallback` | Alpaca Day 125 BLOCKED | Correction state UNCHANGED
+
+---
+
+## 2026-07-07 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — DIST DAY #7 ADDED — S&P EST. ~7,499 −0.50% — NASDAQ −1.0% — SAMSUNG CHIP SELLOFF — ALPACA DAY 125 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 125; Perplexity: 403; AV: 403 — all three primary sources blocked; 14th consecutive session degraded mode)
+**Market direction:** 🔴 Market in Correction | **7/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, **Jul 7 NEW**) | FTD window CLOSED | Rally low 7,266.99 INTACT (~232 pts margin EOD — NARROWING from 270 pts)
+**Weekly trades:** 0/3 (week of Jul 6) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+**Close:** SPY est. ~$745.49 (−0.50%) | QQQ est. ~$713.37 (−1.0%) | S&P 500 est.: ~7,499 (−0.50%) | Nasdaq est.: ~25,860 (−1.0%) | Dow est.: ~52,990 (−0.12%, below 53K)
+**Distribution days:** 7 of 25 trailing sessions (today: new dist? **YES** — DIST DAY #7 est. confirmed)
+**Market state:** 🔴 Correction UNCHANGED (7/25 dist; FTD window CLOSED)
+**Positions held:** 0
+**Actions today:** NONE (Correction + Alpaca Day 125 BLOCKED)
+**Circuit breakers:** none
+**P&L today:** $0.00 (0.00%)
+**Equity:** $2,500.00 (HWM)
+
+### Step 1: Market State Check
+
+- S&P 500 close Jul 7 est.: **~7,499** (−0.50% from Jul 6 close 7,537.43) | `data_confidence: medium` (websearch cross-ref; Alpaca blocked)
+- Nasdaq Composite close est.: **~25,860** (−1.0% from 26,121.16)
+- Dow Jones est.: **~52,990** (−0.12% from 53,055.91 — slipped below 53,000)
+- SPY est.: **~$745.49** | QQQ est.: **~$713.37**
+- **Session character:** Samsung Q2 +19× profit → sell-the-news (peak AI capex narrative); VanEck SMH −5%; Intel −10%; AMD −8%; Micron −7%; SpaceX −5% (fast-track Nasdaq-100 addition = index arbitrage selling); Oil spikes; NVDA ~flat (Kyber denial held; RS outperformance signal vs chip sector); Dow rotation into value, slipped just below 53K
+
+**Distribution day check:**
+
+| Factor | Assessment |
+|---|---|
+| Magnitude | ~−0.50% est. >> −0.20% threshold ✅ |
+| Volume | Est. ELEVATED (Samsung Q2 catalyst; SMH −5%; institutional chip rotation) — Alpaca Day 125 BLOCKED — vol ratio vs Jul 6 UNCONFIRMED |
+| State change | NONE — already 🔴 Correction |
+| Dist count | **7/25 (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7)** |
+| Data confidence | `medium` — magnitude confirmed via websearch; volume estimated |
+
+**DIST DAY #7 CONFIRMED (est.)** | State: 🔴 Correction UNCHANGED
+
+**Expirations today:** NONE (Jun 3 next to expire ~Jul 9-10; prior note in MARKET-DIRECTION.md 'Aug 8' flagged as likely too far — recheck at /pre-market Jul 10)
+
+### Step 2: Sell Rules Engine
+
+**0 open positions. SKIPPED.** ✅ sell-rules-engine not invoked.
+
+### Step 3: Portfolio-Level Checks
+
+- **Distribution cluster action:** 7/25 = Correction deepening but already in effect. No new portfolio action (0 positions).
+- **Hedge entry:** SH $625 / 25% — **QUEUED since Jun 5** | Alpaca Day 125 BLOCKED — cannot execute
+- **FTD exit check:** Not applicable (no inverse ETF held)
+
+**Rally attempt integrity:**
+- S&P ~7,499 est. vs low **7,266.99** (Jun 10) → margin **~232 pts (+3.2%)** → INTACT ✅
+- NARROWING from 270 pts (Jul 6) → 232 pts (Jul 7) — market pulled back from ATH zone
+- 50d MA ~7,415 est. → S&P ~+1.14% above ✅
+- 200d MA ~7,470 est. → S&P ~+0.39% above ✅ (VERY CLOSE — watch this level)
+
+### Step 4: Circuit Breaker Check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | $0 P&L (no positions) — CLEAR ✅ |
+| Weekly −6% | $0 week-to-date — CLEAR ✅ |
+| Drawdown −12% HWM | $0 drawdown — CLEAR ✅ |
+| PDT 3/3 | 0 day trades — CLEAR ✅ |
+| Alpaca API | ❌ BLOCKED Day 125 (403 proxy) |
+| **ALL STANDARD CIRCUIT BREAKERS** | **CLEAR** ✅ |
+
+### Step 5: Weekly Trade Counter
+
+- Week of Jul 6: **0/3** trades used (unchanged)
+
+### Step 6: Bench EOD Status
+
+| Symbol | Est. Close | Score | Dist Impact | Notes |
+|---|---|---|---|---|
+| NVDA | ~$196 est. | 67-70/100 | Minimal (+RS positive; ~flat vs Nasdaq −1%) | Cup wk 21; no handle; no pivot defined; thesis intact; Aug+ timeline |
+| MRVL | ~$244-248 est. | ~45-55/100 | Negative (chip selloff; partial recovery fading) | Broken structure; ex-div $0.06 TOMORROW Jul 8 |
+| ARM | ~$316-320 est. | 60/100 | Negative (chip selloff headwind) | Earnings blackout Jul 22 (~10 sessions) |
+
+No promotions. No demotions. WATCHLIST.md unchanged.
+
+**NVDA RS signal:** NVDA bucked the Nasdaq −1% chip selloff for the 2nd session. This is meaningful institutional accumulation behavior within a Correction — consistent with cup base thesis. Does NOT change score or actionability but is a positive leading indicator for when Correction resolves.
+
+### Step 7: Calendar — Week Ahead
+
+| Date | Event | Risk |
+|---|---|---|
+| **Tomorrow Jul 8** | FOMC Minutes (Jun 16-17 meeting) | ⚠️ HIGH — Warsh tone; 9/18 projected hike; if hawkish → dist day #8 risk |
+| **Tomorrow Jul 8** | MRVL ex-div $0.06 | Low — negligible given score 45-55/100 |
+| **Thu Jul 10** | CPI June 2026 | 🔴 MEGA — single most important print of Q3; prior 3.8% YoY; hot = dist day risk; cool = potential FTD catalyst |
+| **Thu Jul 10** | Jun 3 dist day ~expiry | If Jun 3 expires: 7→6/25 (still Correction); no state change |
+| **Mon Jul 14** | JPM + GS Q2 earnings | 🔴 MEGA — Q3 earnings season kickoff; XLF sector thesis |
+
+### Step 8: ClickUp Summary (→ DAILY-SUMMARY.md)
+
+```
+📊 EOD 2026-07-07 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 7/25 (🔴 Correction UNCHANGED — DIST DAY #7 ADDED)
+Market: S&P est. ~7,499 (−0.50%) | Nasdaq ~25,860 (−1.0%) | Dow ~52,990 (below 53K)
+Session: Samsung chip selloff — SMH −5%, Intel −10%, AMD −8%, Micron −7%
+NVDA ~$196 flat/+ (RS positive ✅ bucking Nasdaq −1% trend)
+Rally low 7,266.99 INTACT (~232 pts — NARROWING from 270 pts)
+Actions today: NONE (Correction + Alpaca Day 125 BLOCKED)
+⚠️ FOMC Minutes TOMORROW Jul 8 — hawkish risk (dist day #8 possible)
+⚠️ CPI Thu Jul 10 MEGA CATALYST | JPM+GS Mon Jul 14 EARNINGS SEASON START
+SH $625 hedge: QUEUED (Alpaca Day 125 BLOCKED)
+Weekly trade count: 0/3 | Next check: /pre-market 6:00 AM CT Wed Jul 8
+```
