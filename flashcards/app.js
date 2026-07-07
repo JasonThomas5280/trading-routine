@@ -56,6 +56,18 @@
   const customizeEl = $("customize");
   const customizeToggle = $("customizeToggle");
 
+  // coins, theme shop, mascot
+  const coinHome = $("coinHome");
+  const themesBtn = $("themesBtn");
+  const shop = $("shop");
+  const shopClose = $("shopClose");
+  const coinShop = $("coinShop");
+  const themeGrid = $("themeGrid");
+  const resultCoins = $("resultCoins");
+  const mascotEl = $("mascot");
+  const mascotBody = $("mascotBody");
+  const mascotBubble = $("mascotBubble");
+
   // ---------- config ----------
   const TABLES = Array.from({ length: 12 }, (_, i) => i + 1);
   const OPS = ["+", "−", "×", "÷"];
@@ -82,6 +94,8 @@
     // daily streak
     dayStreak: 0, lastDay: null, freezes: 0,
     dailyGoal: 10, todayCorrect: 0, todayDay: null, goalDoneDay: null,
+    // economy + cosmetics
+    coins: 0, themes: ["classic"], theme: "classic",
   });
   function loadStore() {
     try { return Object.assign(defaultStore(), JSON.parse(localStorage.getItem(STORE_KEY)) || {}); }
@@ -206,8 +220,12 @@
   let idx = 0, score = 0, streak = 0, bestStreakRound = 0;
   let locked = false, cardStart = 0, totalTime = 0, answered = 0;
   let roundXp = 0, fastCorrect = false;
+  let roundCoins = 0;
   let lastMissed = [];
   const missed = [];
+
+  // mascot state
+  let mascotActive = false, mascotTimer = null, mascotBonus = 0, lastMascotCard = -99;
 
   // ===================================================================
   // SETUP SCREEN
@@ -409,7 +427,8 @@
     }
     deck = customDeck || buildDeck();
     idx = 0; score = 0; streak = 0; bestStreakRound = 0;
-    answered = 0; totalTime = 0; roundXp = 0; fastCorrect = false; missed.length = 0;
+    answered = 0; totalTime = 0; roundXp = 0; roundCoins = 0; fastCorrect = false; missed.length = 0;
+    lastMascotCard = -99; hideMascotNow();
     scoreNum.textContent = "0"; streakNum.textContent = "0";
     show("quiz");
     renderCard();
@@ -566,6 +585,7 @@
       flashcard.classList.add("correct-glow");
       popStreak();
       tone(true); haptic(true);
+      maybeSpawnMascot(t); // surprise bonus, likelier on streaks + fast answers
     } else {
       streak = 0;
       missed.push({ op: card.op, a: card.a, b: card.b, q: `${card.a} ${card.op} ${card.b}`, ans: card.ans });
@@ -594,6 +614,7 @@
   // ===================================================================
   function finish() {
     stopTimer();
+    hideMascotNow();
     progressFill.style.width = "100%";
     const total = roundLength();
     const correctCount = total - missed.length;
@@ -635,16 +656,22 @@
     if (lastMissed.length) { rbtn.hidden = false; rbtn.textContent = `Practice missed (${lastMissed.length})`; }
     else rbtn.hidden = true;
 
-    // persist round outcome + XP + achievements
+    // coins: per-correct + accuracy bonus + whatever the mascot handed out
+    const coinsEarned = correctCount + (pct === 100 ? 10 : pct >= 80 ? 5 : 0) + roundCoins;
+    resultCoins.textContent = `🪙 +${coinsEarned} coins`;
+    resultCoins.classList.remove("pop"); void resultCoins.offsetWidth; resultCoins.classList.add("pop");
+
+    // persist round outcome + XP + coins + achievements
     store.bestPct = Math.max(store.bestPct, pct);
     store.bestStreak = Math.max(store.bestStreak, bestStreakRound);
     store.games += 1;
+    store.coins = (store.coins || 0) + coinsEarned;
     const before = levelFromXp(store.xp);
     store.xp += roundXp;
     const after = levelFromXp(store.xp);
     saveStore();
 
-    renderProfile(); renderMastery(); renderBestStrip();
+    renderProfile(); renderMastery(); renderBestStrip(); renderWallet();
     show("results");
 
     if (pct === 100) { burstConfetti(); playFanfare(); }     // 🎺 celebration music
@@ -811,6 +838,144 @@
   }
 
   // ===================================================================
+  // COINS · THEMES · MASCOT
+  // ===================================================================
+  const THEMES = {
+    classic: { name: "Classic", cost: 0,   colors: ["#6d5efc", "#b66bff", "#2ad6c8"] },
+    galaxy:  { name: "Galaxy",  cost: 80,  colors: ["#7b6cff", "#a06bff", "#36c5ff"] },
+    forest:  { name: "Forest",  cost: 80,  colors: ["#2fa86b", "#6fcf57", "#ffd24c"] },
+    sunset:  { name: "Sunset",  cost: 100, colors: ["#ff7a4c", "#ff4c8a", "#ffd24c"] },
+    candy:   { name: "Candy",   cost: 120, colors: ["#ff5fa2", "#ff8a4c", "#ffd24c"] },
+    neon:    { name: "Neon",    cost: 150, colors: ["#ff2bd6", "#7a2bff", "#21f3ff"] },
+  };
+  const THEME_ORDER = ["classic", "galaxy", "forest", "sunset", "candy", "neon"];
+  const ownsTheme = (id) => id === "classic" || (store.themes || []).includes(id);
+
+  function applyTheme(id) {
+    const t = THEMES[id] ? id : "classic";
+    if (t === "classic") document.documentElement.removeAttribute("data-theme");
+    else document.documentElement.setAttribute("data-theme", t);
+    store.theme = t;
+  }
+
+  function renderWallet() {
+    const c = store.coins || 0;
+    if (coinHome) coinHome.textContent = c;
+    if (coinShop) coinShop.textContent = c;
+  }
+
+  function buildThemeGrid() {
+    if (!themeGrid) return;
+    themeGrid.innerHTML = "";
+    THEME_ORDER.forEach((id) => {
+      const th = THEMES[id];
+      const owned = ownsTheme(id);
+      const active = store.theme === id;
+      const card = document.createElement("div");
+      card.className = "theme-card" + (active ? " equipped" : "");
+
+      const sw = document.createElement("div");
+      sw.className = "theme-swatch";
+      th.colors.forEach((col) => { const s = document.createElement("span"); s.style.background = col; sw.appendChild(s); });
+
+      const nm = document.createElement("div");
+      nm.className = "theme-name";
+      nm.textContent = th.name;
+
+      const btn = document.createElement("button");
+      if (active) { btn.className = "theme-btn equipped"; btn.textContent = "Equipped ✓"; }
+      else if (owned) { btn.className = "theme-btn equip"; btn.textContent = "Equip"; }
+      else {
+        const can = (store.coins || 0) >= th.cost;
+        btn.className = "theme-btn buy" + (can ? "" : " cant");
+        btn.textContent = "🪙 " + th.cost;
+      }
+      btn.addEventListener("click", () => onThemeClick(id, card));
+
+      card.append(sw, nm, btn);
+      themeGrid.appendChild(card);
+    });
+  }
+
+  function onThemeClick(id, card) {
+    if (store.theme === id) return;
+    if (ownsTheme(id)) {                              // already owned → just equip
+      applyTheme(id); saveStore(); buildThemeGrid();
+      toast("🎨", THEMES[id].name + " equipped", "");
+      return;
+    }
+    const cost = THEMES[id].cost;
+    if ((store.coins || 0) < cost) {                 // can't afford
+      card.classList.remove("shakex"); void card.offsetWidth; card.classList.add("shakex");
+      toast("🪙", "Not enough coins", `${cost - (store.coins || 0)} more to go — keep playing!`);
+      return;
+    }
+    store.coins -= cost;                             // buy + equip
+    store.themes = store.themes || [];
+    store.themes.push(id);
+    applyTheme(id); saveStore();
+    renderWallet(); buildThemeGrid();
+    toast("🎉", "Unlocked " + THEMES[id].name + "!", "Theme equipped");
+    burstConfetti();
+  }
+
+  function openShop() { if (!shop) return; renderWallet(); buildThemeGrid(); shop.removeAttribute("hidden"); }
+  function closeShop() { if (shop) shop.setAttribute("hidden", ""); }
+
+  // ----- mascot (Zip the Fox) -----
+  // Pops out sporadically after a correct answer — likelier the longer your
+  // in-round streak and the faster you answered. Tap for the full bonus.
+  function maybeSpawnMascot(t) {
+    if (mascotActive || settings.mode === "flip") return;
+    if (settings.length > 0 && idx >= deck.length - 1) return; // not on the final card
+    if (idx - lastMascotCard < 3) return;                      // keep it sporadic
+    let chance = 0.05;
+    if (streak >= 3) chance += Math.min((streak - 2) * 0.03, 0.18); // streak reward
+    if (t < 1) chance += 0.2; else if (t < 1.8) chance += 0.1;       // speed reward
+    if (Math.random() > Math.min(chance, 0.5)) return;
+    spawnMascot(10 + Math.min(streak, 10) * 2 + (t < 1.2 ? 10 : 0));
+  }
+
+  function spawnMascot(bonus) {
+    if (!mascotEl) return;
+    mascotActive = true; mascotBonus = bonus; lastMascotCard = idx;
+    mascotBubble.textContent = "Tap me!";
+    mascotEl.classList.remove("leaving");
+    mascotEl.removeAttribute("hidden");
+    haptic(true);
+    clearTimeout(mascotTimer);
+    mascotTimer = setTimeout(() => collectMascot(false), 2800); // miss it → half bonus
+  }
+
+  function collectMascot(tapped) {
+    if (!mascotActive) return;
+    mascotActive = false;
+    clearTimeout(mascotTimer);
+    const amount = tapped ? mascotBonus : Math.ceil(mascotBonus / 2);
+    score += amount; roundXp += amount; scoreNum.textContent = score;
+    const coins = Math.max(1, Math.round(amount / 8));
+    roundCoins += coins;
+    mascotBubble.textContent = `+${amount} ⭐  +${coins} 🪙`;
+    if (tapped) { tone(true); haptic(true); burstConfetti(); }
+    const delay = tapped ? 650 : 0;
+    setTimeout(() => {
+      mascotEl.classList.add("leaving");
+      setTimeout(() => mascotEl.setAttribute("hidden", ""), 350);
+    }, delay);
+  }
+
+  function hideMascotNow() {
+    mascotActive = false; clearTimeout(mascotTimer);
+    if (mascotEl) { mascotEl.classList.remove("leaving"); mascotEl.setAttribute("hidden", ""); }
+  }
+
+  if (mascotBody) mascotBody.addEventListener("click", () => collectMascot(true));
+  if (themesBtn) themesBtn.addEventListener("click", openShop);
+  if (shopClose) shopClose.addEventListener("click", closeShop);
+  if (shop) shop.addEventListener("click", (e) => { if (e.target === shop) closeShop(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && shop && !shop.hasAttribute("hidden")) closeShop(); });
+
+  // ===================================================================
   // SCREEN HELPERS + WIRING
   // ===================================================================
   function show(name) {
@@ -831,7 +996,7 @@
   $("startBtn").addEventListener("click", () => startGame());
   $("againBtn").addEventListener("click", () => startGame());
   $("menuBtn").addEventListener("click", () => show("setup"));
-  $("quitBtn").addEventListener("click", () => { stopTimer(); show("setup"); });
+  $("quitBtn").addEventListener("click", () => { stopTimer(); hideMascotNow(); show("setup"); });
 
   function openCustomize() {
     if (customizeEl && customizeToggle && customizeEl.hasAttribute("hidden")) customizeToggle.click();
@@ -870,6 +1035,9 @@
   buildTableGrid();
   reflectOps();
   reflectModeAndLength();
+  applyTheme(store.theme || "classic");
+  renderWallet();
+  buildThemeGrid();
   renderProfile();
   renderMastery();
   renderBestStrip();

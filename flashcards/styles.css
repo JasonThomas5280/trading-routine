@@ -16,7 +16,16 @@
   --r-lg: 26px;
   --r-md: 18px;
   --r-sm: 12px;
+  --glow1: #241a4d;
+  --glow2: #1a2350;
 }
+
+/* ---------- unlockable themes (cosmetic palette overrides) ---------- */
+html[data-theme="galaxy"] { --brand:#7b6cff; --brand-2:#a06bff; --accent:#36c5ff; --warn:#ffce4f; --glow1:#1b2a6b; --glow2:#3a1d6e; --bg:#0a0c22; --bg-2:#121633; }
+html[data-theme="forest"] { --brand:#2fa86b; --brand-2:#6fcf57; --accent:#ffd24c; --warn:#ffd24c; --glow1:#123a2a; --glow2:#1a3520; --bg:#0a160f; --bg-2:#0f2118; }
+html[data-theme="sunset"] { --brand:#ff7a4c; --brand-2:#ff4c8a; --accent:#ffd24c; --warn:#ffe08a; --glow1:#5e2a1f; --glow2:#3a1d4e; --bg:#160d14; --bg-2:#221324; }
+html[data-theme="candy"]  { --brand:#ff5fa2; --brand-2:#ff8a4c; --accent:#ffd24c; --warn:#ffe08a; --glow1:#5e1f4a; --glow2:#6b2230; --bg:#180c18; --bg-2:#241326; }
+html[data-theme="neon"]   { --brand:#ff2bd6; --brand-2:#7a2bff; --accent:#21f3ff; --warn:#f6ff5a; --glow1:#2a0a4d; --glow2:#0a2350; --bg:#070510; --bg-2:#0c0a1e; }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -31,10 +40,11 @@ html, body {
 
 body {
   background:
-    radial-gradient(1200px 600px at 70% -10%, #241a4d 0%, transparent 55%),
-    radial-gradient(1000px 700px at -10% 110%, #1a2350 0%, transparent 50%),
+    radial-gradient(1200px 600px at 70% -10%, var(--glow1) 0%, transparent 55%),
+    radial-gradient(1000px 700px at -10% 110%, var(--glow2) 0%, transparent 50%),
     linear-gradient(160deg, var(--bg) 0%, var(--bg-2) 100%);
   min-height: 100dvh;
+  transition: background .5s ease;
 }
 
 /* ---------- aurora background ---------- */
@@ -371,6 +381,60 @@ body {
 .toast.levelup { border-color: var(--brand); background: linear-gradient(135deg, var(--brand), var(--brand-2)); }
 @keyframes toastIn { from { opacity: 0; transform: translateY(-20px) scale(.9); } to { opacity: 1; transform: none; } }
 @keyframes toastOut { to { opacity: 0; transform: translateY(-14px) scale(.96); } }
+
+/* ---------- home actions (themes + customize) ---------- */
+.home-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 12px; }
+.home-actions .customize-toggle { margin-top: 0; }
+.home-btn {
+  border: 1px solid var(--stroke); background: var(--surface-2); color: var(--muted);
+  font-family: "Fredoka"; font-weight: 600; font-size: 0.95rem;
+  padding: 12px; border-radius: var(--r-md); cursor: pointer; transition: color .2s, border-color .2s, transform .12s;
+}
+.home-btn:hover { color: var(--text); border-color: var(--brand); }
+.home-btn:active { transform: scale(0.97); }
+.home-btn span { color: var(--warn); }
+
+/* ---------- results coins ---------- */
+.result-coins { font-family: "Fredoka"; font-weight: 600; font-size: 1.1rem; color: var(--warn); min-height: 1.3em; margin-bottom: 6px; }
+.result-coins.pop { animation: pop .5s; }
+
+/* ---------- theme shop modal ---------- */
+.modal { position: fixed; inset: 0; z-index: 80; display: grid; place-items: center; padding: 18px; background: rgba(8, 6, 20, 0.66); backdrop-filter: blur(6px); animation: fadeUp .25s; }
+.modal[hidden] { display: none; }
+.modal-card { width: 100%; max-width: 480px; max-height: 86dvh; overflow-y: auto; background: linear-gradient(160deg, #1b1638, #15112e); border: 1px solid var(--stroke); border-radius: var(--r-lg); padding: 22px; box-shadow: var(--shadow); }
+.modal-head { display: flex; align-items: center; gap: 12px; }
+.modal-title { font-family: "Fredoka"; font-weight: 700; font-size: 1.4rem; flex: 1; }
+.coin-bal { font-family: "Fredoka"; font-weight: 700; color: var(--warn); background: var(--surface-2); border: 1px solid var(--stroke); padding: 6px 12px; border-radius: 999px; }
+.modal-close { flex: none; width: 38px; height: 38px; border-radius: 50%; border: 1px solid var(--stroke); background: var(--surface-2); color: var(--text); font-size: 1.1rem; cursor: pointer; transition: transform .12s, border-color .2s; }
+.modal-close:hover { border-color: var(--bad); }
+.modal-close:active { transform: scale(0.9); }
+.modal-sub { color: var(--muted); font-size: 0.85rem; margin: 8px 0 18px; }
+
+.theme-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.theme-card { border: 1px solid var(--stroke); background: var(--surface-2); border-radius: var(--r-md); padding: 14px; display: grid; gap: 10px; transition: border-color .2s, transform .12s; }
+.theme-card.equipped { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }
+.theme-swatch { height: 46px; border-radius: 12px; display: flex; overflow: hidden; border: 1px solid var(--stroke); }
+.theme-swatch span { flex: 1; }
+.theme-name { font-family: "Fredoka"; font-weight: 600; font-size: 1rem; }
+.theme-btn { border: none; cursor: pointer; font-family: "Fredoka"; font-weight: 600; font-size: 0.9rem; padding: 10px; border-radius: var(--r-sm); transition: transform .12s, filter .2s; }
+.theme-btn:active { transform: scale(0.96); }
+.theme-btn.buy { background: linear-gradient(135deg, var(--brand), var(--brand-2)); color: #fff; }
+.theme-btn.buy.cant { background: var(--surface); color: var(--muted); cursor: not-allowed; }
+.theme-btn.equip { background: var(--surface); color: var(--text); border: 1px solid var(--stroke); }
+.theme-btn.equipped { background: rgba(42,214,200,.16); color: var(--accent); border: 1px solid rgba(42,214,200,.4); cursor: default; }
+.theme-card.shakex { animation: shake .45s; }
+
+/* ---------- mascot ---------- */
+.mascot { position: fixed; right: 16px; bottom: 18px; z-index: 58; display: flex; flex-direction: column; align-items: center; gap: 6px; animation: mascotIn .5s cubic-bezier(.2,1.4,.4,1); }
+.mascot[hidden] { display: none; }
+.mascot.leaving { animation: mascotOut .35s ease forwards; }
+.mascot-bubble { font-family: "Fredoka"; font-weight: 700; font-size: 0.95rem; color: #2a1a00; background: var(--warn); padding: 7px 13px; border-radius: 14px; box-shadow: var(--shadow); white-space: nowrap; position: relative; }
+.mascot-bubble::after { content: ""; position: absolute; left: 50%; bottom: -7px; transform: translateX(-50%); border: 7px solid transparent; border-top-color: var(--warn); border-bottom: 0; }
+.mascot-body { width: 72px; height: 72px; border-radius: 50%; border: 2px solid rgba(255,255,255,.25); background: radial-gradient(circle at 50% 35%, var(--brand-2), var(--brand)); font-size: 2.4rem; line-height: 1; cursor: pointer; box-shadow: 0 14px 30px -8px var(--brand); animation: mascotBob 1.1s ease-in-out infinite; transition: transform .12s; }
+.mascot-body:active { transform: scale(0.9); }
+@keyframes mascotIn { from { opacity: 0; transform: translateY(60px) scale(.5); } to { opacity: 1; transform: none; } }
+@keyframes mascotOut { to { opacity: 0; transform: translateY(40px) scale(.6); } }
+@keyframes mascotBob { 0%,100% { transform: translateY(0) rotate(-3deg); } 50% { transform: translateY(-7px) rotate(3deg); } }
 
 /* ---------- confetti ---------- */
 .confetti { position: fixed; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 50; }

@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="theme-color" content="#6d5efc" />
-  <title>✦ Times Tables — Multiplication Flashcards</title>
+  <title>✦ Math Quest — Arithmetic Flashcards</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet" />
@@ -51,7 +51,10 @@
       </div>
 
       <button id="startBtn" class="btn-primary btn-play">▶&nbsp; Quick Play</button>
-      <button id="customizeToggle" class="customize-toggle" aria-expanded="false" aria-controls="customize">⚙ Customize</button>
+      <div class="home-actions">
+        <button id="themesBtn" class="home-btn">🎨 Themes · 🪙&nbsp;<span id="coinHome">0</span></button>
+        <button id="customizeToggle" class="customize-toggle" aria-expanded="false" aria-controls="customize">⚙ Customize</button>
+      </div>
 
       <div id="customize" class="customize" hidden>
         <div class="card-panel">
@@ -168,6 +171,7 @@
         <div class="result-score">
           <span id="resultScore">10</span><span class="result-of">/ 10</span>
         </div>
+        <div class="result-coins" id="resultCoins"></div>
         <div class="result-stats">
           <div class="stat"><span id="resultPct" class="stat-num">100%</span><span class="stat-lbl">Accuracy</span></div>
           <div class="stat"><span id="resultBest" class="stat-num">12</span><span class="stat-lbl">Best Streak</span></div>
@@ -182,6 +186,25 @@
       </div>
     </section>
   </main>
+
+  <!-- Mascot: pops out mid-quiz for surprise bonus points -->
+  <div id="mascot" class="mascot" hidden>
+    <div class="mascot-bubble" id="mascotBubble">Tap me!</div>
+    <button class="mascot-body" id="mascotBody" aria-label="Tap the mascot for a bonus">🦊</button>
+  </div>
+
+  <!-- Theme shop -->
+  <div id="shop" class="modal" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h2 class="modal-title">🎨 Themes</h2>
+        <span class="coin-bal">🪙 <span id="coinShop">0</span></span>
+        <button id="shopClose" class="modal-close" aria-label="Close themes">✕</button>
+      </div>
+      <p class="modal-sub">Spend coins on a new look. Earn coins every round and from Zip the Fox.</p>
+      <div id="themeGrid" class="theme-grid"></div>
+    </div>
+  </div>
 
   <div id="toastWrap" class="toast-wrap" aria-live="polite"></div>
   <canvas id="confetti" class="confetti" aria-hidden="true"></canvas>

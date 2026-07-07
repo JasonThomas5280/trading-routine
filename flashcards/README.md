@@ -36,6 +36,10 @@ cd flashcards && python3 -m http.server 8000
 - **Pick your numbers** — any combination of 1–12, with Easy / Tricky shortcuts
 - **Round length** — 10, 20, or endless (∞)
 - **🎺 Victory fanfare** — a triumphant melody (Web Audio) plays on a perfect score
+- **🪙 Coins + unlockable themes** — earn coins every round (and from the mascot),
+  spend them in the Themes shop on cosmetic palettes (Galaxy, Forest, Sunset, Candy, Neon)
+- **🦊 Surprise mascot** — Zip the Fox pops out mid-round for bonus points; he shows
+  up more often on hot streaks and fast answers. Tap him for the full bonus + coins
 - **Adaptive practice** — tracks accuracy per fact and weights each round toward
   your weak/unseen facts. A live **Mastery %** shows progress per table, and
   ⚡ **My tricky ones** auto-selects your four weakest tables.
