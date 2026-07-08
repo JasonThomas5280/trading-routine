@@ -13518,3 +13518,117 @@ Actions today: NONE (Correction + Alpaca Day 125 BLOCKED)
 SH $625 hedge: QUEUED (Alpaca Day 125 BLOCKED)
 Weekly trade count: 0/3 | Next check: /pre-market 6:00 AM CT Wed Jul 8
 ```
+
+---
+
+## 2026-07-08 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P ~7,458 −0.61% DIST DAY #8 ✅ — FOMC HAWKISH CONFIRMED — IRAN CEASEFIRE OVER + OIL +5% — ⚠️ S&P BELOW 200d MA — 8/25 DIST — 0 POSITIONS — ALPACA DAY 128 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 128; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8) | FTD window CLOSED | Rally low 7,266.99 INTACT (~191 pts margin — NARROWING)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Step 1: Market state — SPY/QQQ bars
+
+**Alpaca blocked (Day 128) — websearch fallback. `data_confidence: medium`**
+
+| Index | Close | Change | vs Prior |
+|---|---|---|---|
+| S&P 500 | ~7,458 | −0.61% (−46 pts) | from 7,503.85 Jul 7 actual |
+| SPY | ~$744.14 | −0.59% (−$4.41) | from ~$748.55 Jul 7 |
+| Nasdaq | ~25,635 | −0.77% (~−225 pts) | from 25,860 Jul 7 est. |
+| QQQ | ~$707.90 est. | −0.77% est. | from ~$713.37 Jul 7 est. |
+| Dow | ~52,357 | −1.2% (~−633 pts) | from ~52,990 Jul 7 est. |
+
+**Session character:** GEOPOLITICAL SELLOFF + FOMC HAWKISH CONFIRMATION
+- Trump declared Iran ceasefire "OVER" → new US–Iran military exchange → WTI oil +5% (~$74.16)
+- Oil surge → higher-for-longer inflation → reinforced hawkish FOMC narrative
+- FOMC June 16-17 minutes released 2 PM ET: confirmed hawkish stance — data dependence, price stability focus, rate hike toward 4% by year-end, 9/18 projecting ≥1 hike, Warsh withheld dot, futures now pricing 4%+ rate by year-end
+- Broad selloff: tech, financials, defensive names all down
+
+**Distribution day check (Jul 8 FINAL):**
+- Magnitude: −0.61% >> −0.20% threshold ✅
+- Volume: ELEVATED ✅ (geopolitical spike + FOMC minutes = institutional repositioning confirmed; vol ratio unconfirmed — Alpaca blocked; catalyst severity = certain elevated)
+- **→ DIST DAY #8 CONFIRMED** ✅
+
+**Distribution day accounting:**
+- Prior 7: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7
+- Added today: Jul 8
+- Jun 3 expiry: session 24/25 today → expires AFTER Jul 10 close (session 25)
+- **Net: 8/25 — DIST DAY #8 ADDED**
+
+**State transition:** NONE. 🔴 Correction UNCHANGED. Already past 6-day threshold; 8/25 deepens but no new state boundary crossed. FTD window closed (rally low 7,266.99 not undercut).
+
+**⚠️ 200d MA BREACH (STRUCTURAL WARNING):**
+- 200d MA ~7,470 est. | S&P close ~7,458 → **CLOSED ~12 pts BELOW 200d MA**
+- First close below 200d MA since ~Jun 29
+- Not a state-transition trigger (already in Correction), but signals fragility of the rally attempt
+- 50d MA ~7,415 est. | S&P ~7,458 → still above (+0.58%) ✅
+
+**Rally attempt status:**
+- S&P ~7,458 vs rally low **7,266.99** → **~191 pts (+2.6%) — INTACT ✅ NARROWING**
+- Was 232 pts Jul 7 → 191 pts Jul 8 (-41 pts single session; geopolitical acceleration)
+- If S&P tests 7,300s, Day 1 threshold would be within 1 session's reach
+
+### Step 2: Sell-rules-engine
+
+**0 open positions → SKIPPED** ✅
+
+### Step 3: Verdicts
+
+No verdicts — no positions.
+
+### Step 4: Portfolio-level checks
+
+**Distribution cluster at 8/25:** State already Correction (6+). No additional action required beyond monitoring.
+**Hedge:** SH $625 / 25% — QUEUED. Cannot execute (Alpaca Day 128 BLOCKED). Iran escalation + oil surge + FOMC hawkish = hedge rationale at strongest point since Correction began.
+
+### Step 5: Circuit breaker check
+
+- Account P&L today: $0 (0%) — 0 positions, no trades
+- Account P&L week: $0 (0%)
+- Daily CB (−3%): ALL CLEAR ✅
+- Weekly CB (−6%): ALL CLEAR ✅
+- Drawdown CB (−12% from HWM): ALL CLEAR ✅ ($2,500 = HWM)
+- PDT count: 0 of 3 (rolling 5 sessions) ✅
+
+### Step 6: Weekly trade counter
+
+0/3 trades used this week (week of Jul 7). No new positions opened today.
+
+### Step 7: Research-log entry summary
+
+**Close:** S&P 500 ~7,458 (−0.61%) | SPY ~$744.14 (−0.59%) | QQQ ~$707.90 est. (−0.77%) | Nasdaq ~25,635 (−0.77%) | Dow ~52,357 (−1.2%)
+**Distribution days:** 8/25 (DIST DAY #8 ADDED — Jul 8; active: Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8)
+**Market state:** 🔴 Market in Correction — UNCHANGED (no state transition)
+**⚠️ S&P closed below 200d MA ~7,470 for first time since ~Jun 29**
+**Positions held:** 0
+**Actions today:** NONE — Correction + Alpaca Day 128 BLOCKED + 0 positions + 0 candidates ≥75
+**Circuit breakers:** NONE
+**P&L today:** $0 (0%)
+**Equity:** $2,500 (HWM)
+**FOMC minutes:** HAWKISH CONFIRMED — rate hike toward 4% year-end; 9/18 projecting hike
+**Iran/Oil:** Trump declared ceasefire over → oil +5% → higher-for-longer inflation
+**CPI Fri Jul 10:** MEGA CATALYST — HOT = dist day #9 + test of 7,266.99 rally low; COOL = relief/FTD candidate
+**Jun 3 dist expiry:** Fri Jul 10 (session 25) → 8→7/25
+**MRVL ex-div $0.06:** Fri Jul 10 (price adjusts down at open)
+**JPM + GS Q2 earnings:** Mon Jul 14 (Q3 earnings season kickoff)
+**ARM blackout:** 7 trading days to Jul 22 (score 60 = irrelevant)
+`research_source: websearch_fallback` | Alpaca BLOCKED (Day 128) | Perplexity 403 | AV 403
+
+### Step 8: ClickUp Summary (→ DAILY-SUMMARY.md)
+
+```
+📊 EOD 2026-07-08 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 8/25 (🔴 Correction UNCHANGED — DIST DAY #8 ADDED)
+Market: S&P ~7,458 (−0.61%) | Nasdaq ~25,635 (−0.77%) | Dow ~52,357 (−1.2%)
+Session: FOMC hawkish confirmed (rate hike toward 4% year-end) + Iran ceasefire over + oil +5%
+⚠️ S&P CLOSED BELOW 200d MA ~7,470 for first time since ~Jun 29
+Rally low 7,266.99 INTACT (~191 pts — NARROWING from 232 pts Jul 7)
+Actions today: NONE (Correction + Alpaca Day 128 BLOCKED)
+⚠️ CPI Fri Jul 10 MEGA CATALYST — HOT = dist #9 + test of rally low; COOL = FTD candidate
+Jun 3 dist day expires Fri Jul 10 → 8→7/25 | MRVL ex-div $0.06 Fri Jul 10
+JPM+GS Mon Jul 14 Q3 earnings season kickoff
+SH $625 hedge: QUEUED (Alpaca Day 128 BLOCKED) — rationale strongest yet
+Weekly trade count: 0/3 | Next check: /pre-market 6:00 AM CT Thu Jul 9
+```

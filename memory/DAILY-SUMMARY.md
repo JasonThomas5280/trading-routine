@@ -3891,3 +3891,19 @@ Jun 3 dist day: session 23/25 today — expires AFTER Jul 10 close (not today �
 ⚠️ 200d MA ~7,470 — intraday test occurring; watch EOD close
 Next check: /eod-review 3:15 PM CT (dist day #8 confirmation + 200d MA close + Jun 3 expiry count + CPI prep)
 research_source: websearch_fallback | Alpaca Day 127 BLOCKED
+
+---
+
+📊 EOD 2026-07-08 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 8/25 (🔴 Correction UNCHANGED — DIST DAY #8 ADDED)
+Market: S&P ~7,458 (−0.61%) | Nasdaq ~25,635 (−0.77%) | Dow ~52,357 (−1.2%)
+Session: FOMC hawkish confirmed (rate hike toward 4% year-end) + Iran ceasefire over + oil +5%
+⚠️ S&P CLOSED BELOW 200d MA ~7,470 for first time since ~Jun 29
+Rally low 7,266.99 INTACT (~191 pts — NARROWING from 232 pts Jul 7)
+Actions today: NONE (Correction + Alpaca Day 128 BLOCKED)
+⚠️ CPI Fri Jul 10 MEGA CATALYST — HOT = dist #9 + test of rally low; COOL = FTD candidate
+Jun 3 dist day expires Fri Jul 10 → 8→7/25 | MRVL ex-div $0.06 Fri Jul 10
+JPM+GS Mon Jul 14 Q3 earnings season kickoff
+SH $625 hedge: QUEUED (Alpaca Day 128 BLOCKED) — rationale strongest yet
+Weekly trade count: 0/3 | Next check: /pre-market 6:00 AM CT Thu Jul 9
