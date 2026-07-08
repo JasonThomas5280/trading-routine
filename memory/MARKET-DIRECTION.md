@@ -6,9 +6,9 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — DIST DAY #7 ADDED** *(Jul 7 /eod-review — 7/25 dist days — S&P CLOSE est. ~7,499 −0.50% DIST DAY ✅ — Nasdaq ~25,860 −1.0% — Dow ~52,990 below 53K — Samsung chip selloff; SMH −5% — Rally low 7,266.99 INTACT (~232 pts NARROWING) — FTD window CLOSED — Alpaca Day 125 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 8 /pre-market — 7/25 dist days — ⚠️ FOMC MINUTES TODAY 1 PM CT HAWKISH RISK — DIST DAY #8 POSSIBLE — MRVL −8.75% JUL 7 — Rally low 7,266.99 INTACT (~232 pts) — FTD window CLOSED — Alpaca Day 126 BLOCKED)*
 
-**Last updated:** 2026-07-07 (Tue) — /eod-review 3:15 PM CT — **🔴 CORRECTION UNCHANGED — DIST DAY #7 ADDED (7/25) — S&P EST. ~7,499 −0.50% DIST ✅ — NASDAQ ~25,860 −1.0% — DOW BELOW 53K — 0 POSITIONS — ALPACA DAY 125 BLOCKED**
+**Last updated:** 2026-07-08 (Wed) — /pre-market 6:00 AM CT — **🔴 CORRECTION UNCHANGED — 7/25 DIST — ⚠️ FOMC MINUTES TODAY HAWKISH — DIST #8 RISK — 0 POSITIONS — ALPACA DAY 126 BLOCKED**
 **STATE:** 🔴 Market in Correction | DIST DAY #7 ADDED | **7/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7) | Jun 3 expiry ~Jul 9-10 (⚠️ prior note 'Aug 8' appears too far — recheck at pre-market Jul 10) | FTD window CLOSED (next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P ~7,499 est. vs low 7,266.99 = **~232 pts margin — NARROWING from 270 pts Jul 6**)
 
 **✅ JUL 7 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — DIST DAY #7 ADDED — S&P EST. ~7,499 −0.50% DIST ✅ — NASDAQ ~25,860 −1.0% — DOW ~52,990 BELOW 53K — SAMSUNG CHIP SELLOFF SMH −5% — 7/25 DIST — RALLY LOW 7,266.99 INTACT (~232 PTS NARROWING) — 0 POSITIONS — ALPACA DAY 125 BLOCKED):**
@@ -80,6 +80,32 @@
 - **Actions: NONE** (Correction + Alpaca Day 123 BLOCKED + 0 positions + 0 primary candidates)
 - **⚠️ WEEK AHEAD:** FOMC Minutes **~Wed Jul 9** ⚠️ HIGH RISK (Warsh hawkish tone potential — could add dist day) | MRVL ex-div $0.06 **Thu Jul 10** | **CPI + JPM + GS: next week Jul 14** (MEGA CATALYST — single most important macro/earnings day of Q3) | ARM earnings blackout **Jul 22** (only ~11 trading days away — entry window closing fast, though score 60 = blocked anyway) | Alpaca restore → SH $625 FIRST ORDER
 - `research_source: websearch_fallback` | Alpaca BLOCKED | Perplexity 403 | AV 403
+
+**⏳ JUL 8 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚠️ FOMC MINUTES TODAY 1 PM CT HAWKISH RISK — ES SLIGHTLY RED / DOW MODESTLY HIGHER — OIL RISING — MRVL −8.75% JUL 7 — ALPACA DAY 126 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 126 BLOCKED | Perplexity 403 | AV 403
+- **Futures (pre-mkt ~6 AM CT):** ES slightly RED | Dow futures modestly HIGHER | NQ slightly weaker | Mixed tone; oil rising on Strait of Hormuz tensions; rate jitters building ahead of FOMC
+- **⚠️ KEY EVENT TODAY: FOMC June 16-17 meeting minutes — 2 PM ET (1 PM CT)**
+  - Pre-reporting HAWKISH: 9/18 officials projecting ≥1 rate hike end 2026; Warsh withheld dot (unprecedented); removed cut hints; 17/18 say inflation risks skewed upside; median rate 3.8% 2026
+  - Minutes are the primary forward-guidance signal this cycle (Warsh deliberate silence elevates their importance)
+  - September rate hike odds ~50% priced in
+  - **DIST DAY #8 RISK: HIGH** — if S&P closes −0.2%+ on elevated volume post-minutes → 8/25 (still Correction; no state change but deepens)
+- **Distribution day accounting:** 7/25 UNCHANGED (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7) | Jun 3 expiry ~today/tomorrow (session ~24) — track at /eod-review
+- **State transition:** NONE. 🔴 Correction UNCHANGED. FTD window CLOSED.
+- **Rally attempt check:** S&P est. ~7,499 (Jul 7 close) vs rally low **7,266.99** → margin **~232 pts** → INTACT ✅ (FOMC selloff today would narrow further but not threaten Day 1 level)
+- **50-day MA check:** 50d MA ~7,415 est. | S&P ~7,499 = **~+1.14% ABOVE** ✅ | 200d MA ~7,470 est. | S&P **~+0.39% ABOVE** ✅ | margins thin; FOMC selloff could challenge 200d MA proximity
+- **Open positions:** 0 → gap check: **SKIPPED** ✅
+- **Bench snapshot:**
+  - NVDA: ~$196.93 pre-mkt (+0.71% overnight; Kyber denied; Goldman bullish 21.7×) | **67-70/100 UNCHANGED** | Cup wk 21; no handle | **No promotion** ✅
+  - MRVL: **−8.75% on Jul 7** → est. ~$230-234 (from ~$252-255 Jul 6 close; post-S&P inclusion profit-taking + Samsung selloff + CFO liquidation + rate pressure) | **~40-50/100 ⬇️ DOWNGRADE** (from 45-55; further structural damage) | Structure: shattered; -27% from ATH | Ex-div CORRECTED to **Jul 10** (not Jul 8 as erroneously noted Jul 7 EOD) | **No promotion** ✅
+  - ARM: ~$318-325 est. | **60/100 UNCHANGED** | Blackout ~9 trading days (Jul 22) | AGI CPU demand doubling positive | SoftBank margin loan risk | **No promotion** ✅
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM) | P&L today: $0
+- **Hedge status:** SH $625 / 25% portfolio — **QUEUED — Alpaca Day 126 BLOCKED**. Cannot execute.
+- **Actions: NONE** (Correction + Alpaca Day 126 BLOCKED + 0 positions + 0 candidates ≥75)
+- **⚠️ TODAY:** FOMC Minutes 1 PM CT — monitor for dist day #8 at /eod-review
+- **⚠️ TOMORROW Jul 9:** Jun 3 dist day expires (session ~25) → dist count may drop 7→6/25
+- **⚠️ Fri Jul 10:** CPI June 2026 MEGA CATALYST (HOT = bearish; COOL = potential relief) | MRVL ex-div $0.06 [corrected date ✅]
+- **⚠️ Mon Jul 14:** JPM + GS Q2 earnings — banks RRG Lagging → do NOT chase
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day 126) | Perplexity 403 | AV 403
 
 **⏳ JUL 7 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES −0.3% / NQ −0.9% PULLBACK — SAMSUNG CHIP EARNINGS — FOMC MINUTES TOMORROW — ALPACA DAY 125 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 125 BLOCKED | Perplexity 403 | AV 403

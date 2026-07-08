@@ -134,6 +134,106 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-08 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚠️ FOMC MINUTES TODAY 1 PM CT HAWKISH — ES SLIGHTLY RED / DOW MODESTLY HIGHER — MRVL −8.75% JUL 7 — ALPACA DAY 126 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 126; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **7/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7) | FTD window CLOSED | Rally low 7,266.99 INTACT (~232 pts margin from Jul 7 close est. ~7,499)
+**Weekly trades:** 0/3 (week of Jul 7) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (top 3):** XLE Energy, XLI Industrials, XLP Consumer Staples
+**Sector laggards (avoid):** XLK Technology (chip crash continuing; MRVL −8.75% Jul 7), XLF Financials (RRG Lagging)
+
+### Gap check — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight market snapshot
+- **ES (S&P 500) futures:** slightly RED — cautious ahead of FOMC minutes; oil/rate jitters building
+- **NQ (Nasdaq 100) futures:** slightly weaker — chip sector still under pressure (MRVL −8.75% yesterday)
+- **Dow futures:** modestly HIGHER — value rotation continuing (Dow held above 53K territory)
+- **Oil:** RISING — Strait of Hormuz tensions elevating; feeds higher-for-longer rate expectations (UK gilt yields >4.8%)
+- **Treasury yields:** little changed overnight but 2-year sensitive to today's FOMC minutes read
+- **September rate hike odds:** ~50% probability priced into bond markets
+- **⚠️ KEY EVENT TODAY: FOMC June 16-17 meeting minutes — 2 PM ET (1 PM CT)**
+  - Pre-reporting indicates HAWKISH tone confirmed: 9 of 18 officials projecting ≥1 rate hike by end 2026
+  - Chair Warsh submitted NO dot (unprecedented — first chair to withhold since dot-plot launched Jan 2012)
+  - Fed removed earlier cut hints; shifted focus to inflation control
+  - 17 of 18 participants said inflation risks skewed to the upside
+  - Median policy rate lifted to 3.8% for 2026
+  - Minutes are the PRIMARY rate-signal source this cycle (Warsh deliberate silence = minutes more important than usual)
+  - **DIST DAY #8 RISK: HIGH** — if hawkish wording moves bond yields up → S&P −0.2%+ on elevated volume → 8/25 dist
+- **Jun 3 dist day expiry:** ~today's session or tomorrow (session ~24-25 from Jun 3) — recheck count below
+- **⚠️ CPI TOMORROW (Jul 9 / Fri Jul 10):** ⚠️ Correction in scheduling note — CPI June 2026 is Friday Jul 10 (prior research log Jul 7 erroneously listed it as "next week Jul 14" — MARKET-DIRECTION.md and TRADE-LOG correctly show Jul 10 ✅)
+- **⚠️ MRVL ex-div $0.06: Friday Jul 10** (confirmed from investor.marvell.com; prior Jul 7 EOD note erroneously said "tomorrow Jul 8" — corrected ✅)
+
+### Overnight catalysts — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight catalysts — bench
+
+**NVDA (~$196-197 est. pre-mkt; +0.71% overnight → −0.42% AH = net ~$196.93):**
+- Kyber NVL144 AI rack delay rumor DENIED by company (Jul 7) — already captured in Jul 7 /market-check; no incremental negative
+- Goldman Sachs: 21.7× forward P/E "compelling" (close to S&P avg; well below 5-yr avg of 72×); stock down ~13% over past month = near-term buying opportunity framing
+- Chinese firms moving to domestic AI chips — slight negative sentiment overlay; not material to near-term thesis
+- NVDA stock "nearly flat for 2026" framing from financial media — repositioning/accumulation narrative building
+- **Thesis assessment:** No material change. B200 GPU lease compression + insider selling $410.6M ongoing. Cup wk 21; no handle. Base timeline Aug 2026+ UNCHANGED.
+- Score: **67-70/100 UNCHANGED** | Cup wk 21; no handle; no valid pivot | BLOCKED (Correction + below 75)
+
+**MRVL (~$230-234 est. based on −8.75% move Jul 7 from ~$252-255 Jul 6 close):**
+- **⚠️ −8.75% on Jul 7** (Samsung chip selloff + post-S&P 500 inclusion profit-taking + mechanical passive buying concluded + "sell-the-news" unwinding + CFO liquidation fears + rate pressure on high-beta)
+- Running total from Jun ATH ~$316 → ~$230-234 = approx −26-27% from ATH (with $252 support broken Jul 2; V-recovery completely invalidated)
+- **Ex-dividend $0.06 — ex-date CONFIRMED Jul 10 (Friday)** [CORRECTION: Prior Jul 7 EOD notes said "tomorrow Jul 8" — confirmed ex-date is Jul 10 per investor.marvell.com ✅]
+- Positive fundamentals cited: $2B Nvidia investment (NVLink Fusion), Teralynx T100 AI switch launch, S&P 500 inclusion Jun 22, Jensen Huang "next trillion-dollar company" — but stock behavior contradicts thesis completely
+- CFO Meintjes liquidated significant equity holdings — conviction negative ongoing
+- Structure: BROKEN (below $252 support; -26% from ATH; needs minimum 8-wk base rebuild from current levels ~$230)
+- Score: **~40-50/100 ⬇️ FURTHER DOWNGRADE** (from 45-55/100; additional session of structural damage; lower end of range now reflects -8.75% Jul 7 leg down) | Below threshold | BLOCKED (Correction + score + broken structure)
+
+**ARM (~$318-325 est.; recovering from chip selloff; +4.80% Jul 6 close $330.97 → est. pullback Jul 7):**
+- AGI CPU for agentic AI workloads — customer demand doubled for FY2027-2028 (positive for long-term N-letter)
+- SoftBank 86.4% ownership stake; 72% of total shares pledged as collateral for $8.5B margin loan — systemic drawdown tail risk
+- Valuation: 470× trailing P/E; New Street Research Neutral; practical bull case $390-460, bear case $300-340
+- **Earnings Jul 29 → blackout begins ~Jul 22** = **9 trading days from today** (Jul 9, 10, 13, 14, 15, 16, 17, 20, 21 = 9 sessions to blackout) — academic (score 60 blocks entry regardless)
+- GAAP C-letter still failing. No base. Score UNCHANGED.
+- Score: **60/100 UNCHANGED** | BLOCKED (Correction + GAAP C-letter fail + below 75 + blackout approaching)
+
+### Buy-zone readiness
+
+| Symbol | Pre-mkt est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$196.93 | Not defined (no handle) | N/A | 🔴 No base/pivot; Correction gate |
+| MRVL | ~$230-234 | Broken (needs 8+ wk rebuild) | N/A | 🔴 Below threshold (~40-50); broken structure |
+| ARM | ~$318-325 | Not defined | N/A | 🔴 Below threshold (60); blackout ~9 days |
+| SH | — | Queued; Alpaca Day 126 BLOCKED | — | ⏸️ QUEUED — execute on Alpaca restore |
+
+### Circuit breaker check
+- Alpaca API: BLOCKED (403 proxy Day 126) — cannot pull live account state
+- Last confirmed: $2,500 equity (HWM) | 0 positions | 0 trades this week
+- Daily CB: ALL CLEAR | Weekly CB: ALL CLEAR (0/3 week) | Drawdown CB: ALL CLEAR
+
+### Distribution day accounting
+- **7/25:** Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7
+- Jun 3 expiry: Session ~24 today from Jun 3. Expires after session ~25 (~today or tomorrow Jul 9 session). Recount: Jun trading days after Jun 3 = Jun 4,5,6,9,10,11,12,15,16,17,18,(19=Juneteenth closed),22,23,24,25,26,29,30 = 18 sessions. Jul sessions = Jul 1,2,(4th holiday),6,7,8 = 5 sessions. Total = 23 sessions after Jun 3 as of today. **Jun 3 expiry: Jul 9 (tomorrow = session 24) or Jul 10 (session 25).** Track at /eod-review tonight.
+- ⚠️ **DIST DAY #8 RISK TODAY:** FOMC minutes 1 PM CT — hawkish confirmed pre-reporting → if S&P closes −0.2%+ on elevated volume → 8/25 dist day (deepens Correction but still Correction state)
+- ⚠️ **DIST DAY RISK FRIDAY:** CPI Jul 10 — if hot → additional dist day risk
+
+### State transition
+- 🔴 **CORRECTION UNCHANGED** | FTD window CLOSED
+- FTD path: Need S&P close BELOW 7,266.99 (new Day 1) → then Day 4-7 FTD window
+- Today's FOMC hawkish reaction cannot trigger FTD (S&P ~7,499 = 232 pts above low)
+
+### Week ahead (Jul 8-10)
+- **TODAY (Jul 8):** ⚠️ FOMC Minutes 1 PM CT — HIGH DIST DAY #8 RISK | Oil rising (geopolitical) | ES slightly red
+- **Tomorrow (Jul 9):** Jun 3 dist day may expire → could drop from 7 to 6/25 after close; post-FOMC digestion
+- **Friday Jul 10:** CPI June 2026 MEGA CATALYST ⚠️ HOT = bearish; COOL = potential relief | MRVL ex-div $0.06 [CONFIRMED ✅]
+- **Next week Jul 14:** JPM + GS Q2 earnings → Q2 earnings season kickoff (banks now RRG Lagging — don't chase)
+- **ARM blackout Jul 22:** ~9 trading days — academic (score 60); no entry possible
+
+### Actions
+- **NONE** — Correction + Alpaca Day 126 BLOCKED + 0 candidates ≥75 + 0 positions
+- SH $625: QUEUED — execute as first order on Alpaca restore (if hedge still warranted)
+- Monitor dist day count at /eod-review tonight (7→8 possible on FOMC hawkish reaction)
+- Monitor Jun 3 dist day expiry at /eod-review (session ~24-25 today — could drop to 6/25 tomorrow)
+
+---
+
 ## 2026-07-06 (Mon) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES +0.48% / NQ +1.0% — ISM PMI TODAY — NVDA $195 PRE-MKT — ALPACA DAY 123 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 123; Perplexity: 403; AV: 403 — all three primary sources blocked; 13th consecutive week degraded mode)

@@ -1,5 +1,24 @@
 
 ---
+## 2026-07-08 06:00 CT [pre-market — 🔴 CORRECTION UNCHANGED — ⚠️ FOMC MINUTES TODAY 1 PM CT — DIST #8 RISK — MRVL −8.75% JUL 7 — ALPACA DAY 126 BLOCKED]
+
+🌅 Pre-market 2026-07-08
+Market: 🔴 Correction (7/25 dist) | Futures: ES slightly RED / Dow modestly higher / oil rising (Strait of Hormuz)
+Open positions: 0 | Circuit breakers: NONE | Equity: $2,500 HWM
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE (Correction; 0 candidates ≥75 for 14th consecutive week)
+Watchlist watching: NVDA 67-70 (bench; cup wk 21; no handle; Kyber denied; Goldman bullish 21.7×)
+Removed/flagged: MRVL ~40-50 ⬇️ (bench; −8.75% Jul 7 → est. ~$230-234; post-S&P inclusion sell + Samsung + CFO dump; ex-div CORRECTED to Jul 10 ✅) | ARM 60 (bench; blackout Jul 22 = ~9 days)
+⚠️ KEY CATALYST TODAY: FOMC June 16-17 minutes — 1 PM CT
+  → Pre-reporting: HAWKISH (9/18 hike dots, Warsh withheld dot, removed cut hints, 17/18 say inflation risks up, median rate 3.8%)
+  → DIST DAY #8 RISK: HIGH — S&P −0.2%+ on elevated vol post-minutes → 8/25
+  → Sep rate hike odds: ~50%
+⚠️ Jun 3 dist day nearing expiry: session ~24 today; may expire tomorrow (session 25) → potential 7→6/25
+⚠️ CPI Fri Jul 10 (CORRECTED — not "next week Jul 14" as erroneously logged Jul 7) | MRVL ex-div Fri Jul 10 ✅
+Plan: NO ENTRIES — Correction + Alpaca Day 126 BLOCKED + 0 candidates ≥75. Monitor FOMC minutes at 1 PM CT for dist day #8. SH $625 QUEUED for Alpaca restore.
+research_source: websearch_fallback | Alpaca BLOCKED | Perplexity 403 | AV 403
+
+---
 ## 2026-07-07 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — SAMSUNG SELLOFF MU/SanDisk −7% — NVDA +1% RS POSITIVE — DIST DAY #7 RISK — FOMC MINUTES TOMORROW JUL 8]
 
 📈 Market-check 2026-07-07 10:00 AM CT
