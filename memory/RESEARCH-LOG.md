@@ -134,6 +134,75 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-08 (Wed) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — S&P −0.65% / DOW −1.2% — IRAN CEASEFIRE OVER + OIL SURGE — DIST DAY #8 RISK EXTREME — FOMC MINUTES 1 PM CT AHEAD — ALPACA DAY 127 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 127; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **7/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7) | FTD window CLOSED | Rally low 7,266.99 INTACT (~188-198 pts margin — NARROWING SHARPLY)
+**Weekly trades:** 0/3 | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (top 3):** XLE Energy (oil surge; Iran escalation), XLI Industrials, XLP Consumer Staples (defensive bid)
+**Sector laggards (avoid):** XLK Technology, XLF Financials, XLC Communication
+
+### ABORT GATES (all checked — skip to summary)
+
+| Gate | Status |
+|---|---|
+| Market state | 🔴 CORRECTION → **ABORT — no new long entries** |
+| Research degraded | `websearch_fallback` (NOT DEGRADED) → clear |
+| Daily CB −3% | ALL CLEAR (0 positions; 0% P&L) |
+| Weekly CB −6% | ALL CLEAR (0/3 trades) |
+| Drawdown −12% | ALL CLEAR ($2,500 HWM) |
+| Weekly trade count | 0/3 → clear |
+| Position count | 0/4 → clear |
+| Cash buffer | 100% cash → clear |
+
+**Primary abort gate fires: MARKET IN CORRECTION → NO NEW LONG ENTRIES.** Proceeding to bench/hedge check only.
+
+### Gap check — open positions
+- **0 open positions → SKIPPED** ✅
+
+### Market snapshot (10:00 AM CT, July 8)
+- **S&P 500:** −0.65% (est. ~7,455-7,465 from 7,503.85 Jul 7 close)
+- **Dow Jones:** −1.2% / −640+ pts (below 53,000 again)
+- **Nasdaq:** −0.5%
+- 🚨 **TRUMP declares Iran ceasefire "OVER"**: new strikes exchanged → oil +3%+ (WTI) → higher-for-longer inflation → reinforces hawkish FOMC read
+- **FOMC June 16-17 minutes:** 2:30 PM ET (1:30 PM CT) — still ahead at time of this check. Hawkish pre-read: 9/18 projecting rate hike; Warsh withheld dot; 17/18 inflation risks upside; median rate 3.8% 2026. Sept hike odds ~50%.
+- **Distribution day #8 risk: EXTREME** — S&P −0.65% (>threshold) + elevated volume (geopolitical + FOMC) virtually certain → confirm at /eod-review
+
+### Watchlist triggers — primary items
+- **0 primary items** (Correction; 0 candidates ≥75 for **13th consecutive week**) → SKIPPED ✅
+
+### Position health check
+- **0 positions** → sell-rules-engine: SKIPPED ✅
+
+### Bench promotion check (10:00 AM CT)
+
+| Symbol | Est. Price | Score | Status | Promotion? |
+|---|---|---|---|---|
+| NVDA | ~$192-196 | 67-70/100 | Cup wk 22; no handle; no pivot | ❌ No |
+| MRVL | ~$218-226 | ~40-50/100 | Broken; −27%+ from ATH; oil/rate pressure | ❌ No |
+| ARM | ~$310-320 | 60/100 | Blackout Jul 22 (8 trading days); GAAP fail | ❌ No |
+
+**Bench promotions/demotions:** NONE. All remain below 75 threshold with no valid pivots.
+
+### Hedge queue status
+- **SH $625 / 25% portfolio** — QUEUED; Alpaca Day 127 BLOCKED. Rationale reinforced by Iran escalation + oil surge.
+- **Cannot execute** until Alpaca proxy unblocks.
+
+### Critical watches for /eod-review (today)
+- ⚠️ **DIST DAY #8**: If S&P closes −0.2%+ on elevated volume → 8/25 (Correction deepens; no state change)
+- ⚠️ **200d MA ~7,470**: S&P intraday threatening — watch close relative to 200d MA
+- ⚠️ **FOMC minutes 1:30 PM CT**: Hawkish wording = additional selling pressure → dist day more likely
+- ⚠️ **Jun 3 dist day expiry**: Confirmed session 23/25 today; expires AFTER Jul 10 close (not today)
+- ⚠️ **CPI Jul 10 (Fri)**: MEGA CATALYST — hot = additional dist day #9 risk + potential test of 7,266.99 rally low
+- ⚠️ **MRVL ex-div $0.06**: Friday Jul 10 (price adjusts down at open)
+
+### Actions
+- **NONE** — Correction + Alpaca Day 127 BLOCKED + 0 candidates ≥75 + 0 positions
+- SH $625: QUEUED — execute as first order on Alpaca restore (Iran escalation = hedge rationale even stronger)
+- ARM blackout countdown: **8 trading days** to Jul 22 (academic — score 60 blocks entry regardless)
+
+---
+
 ## 2026-07-08 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚠️ FOMC MINUTES TODAY 1 PM CT HAWKISH — ES SLIGHTLY RED / DOW MODESTLY HIGHER — MRVL −8.75% JUL 7 — ALPACA DAY 126 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 126; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)

@@ -6,9 +6,9 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 8 /pre-market — 7/25 dist days — ⚠️ FOMC MINUTES TODAY 1 PM CT HAWKISH RISK — DIST DAY #8 POSSIBLE — MRVL −8.75% JUL 7 — Rally low 7,266.99 INTACT (~232 pts) — FTD window CLOSED — Alpaca Day 126 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 8 /market-check 10:00 AM CT — 7/25 dist days — S&P −0.65% / Dow −1.2% / Nasdaq −0.5% — TRUMP IRAN CEASEFIRE OVER + OIL SURGING — ⚠️ DIST DAY #8 RISK EXTREME (FOMC minutes 1 PM CT still ahead) — Rally low 7,266.99 INTACT (~225 pts) — FTD window CLOSED — Alpaca Day 127 BLOCKED)*
 
-**Last updated:** 2026-07-08 (Wed) — /pre-market 6:00 AM CT — **🔴 CORRECTION UNCHANGED — 7/25 DIST — ⚠️ FOMC MINUTES TODAY HAWKISH — DIST #8 RISK — 0 POSITIONS — ALPACA DAY 126 BLOCKED**
+**Last updated:** 2026-07-08 (Wed) — /market-check 10:00 AM CT — **🔴 CORRECTION UNCHANGED — 7/25 DIST — ⚠️ DIST DAY #8 RISK EXTREME — IRAN CEASEFIRE OVER + OIL SURGE + FOMC MINUTES 1 PM CT — 0 POSITIONS — ALPACA DAY 127 BLOCKED**
 **STATE:** 🔴 Market in Correction | DIST DAY #7 ADDED | **7/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7) | Jun 3 expiry ~Jul 9-10 (⚠️ prior note 'Aug 8' appears too far — recheck at pre-market Jul 10) | FTD window CLOSED (next FTD requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P ~7,499 est. vs low 7,266.99 = **~232 pts margin — NARROWING from 270 pts Jul 6**)
 
 **✅ JUL 7 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — DIST DAY #7 ADDED — S&P EST. ~7,499 −0.50% DIST ✅ — NASDAQ ~25,860 −1.0% — DOW ~52,990 BELOW 53K — SAMSUNG CHIP SELLOFF SMH −5% — 7/25 DIST — RALLY LOW 7,266.99 INTACT (~232 PTS NARROWING) — 0 POSITIONS — ALPACA DAY 125 BLOCKED):**
@@ -80,6 +80,36 @@
 - **Actions: NONE** (Correction + Alpaca Day 123 BLOCKED + 0 positions + 0 primary candidates)
 - **⚠️ WEEK AHEAD:** FOMC Minutes **~Wed Jul 9** ⚠️ HIGH RISK (Warsh hawkish tone potential — could add dist day) | MRVL ex-div $0.06 **Thu Jul 10** | **CPI + JPM + GS: next week Jul 14** (MEGA CATALYST — single most important macro/earnings day of Q3) | ARM earnings blackout **Jul 22** (only ~11 trading days away — entry window closing fast, though score 60 = blocked anyway) | Alpaca restore → SH $625 FIRST ORDER
 - `research_source: websearch_fallback` | Alpaca BLOCKED | Perplexity 403 | AV 403
+
+**✅ JUL 8 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P −0.65% / DOW −1.2% / NQ −0.5% — IRAN CEASEFIRE OVER + OIL SURGING — ⚠️ DIST DAY #8 RISK EXTREME — FOMC MINUTES 1 PM CT AHEAD — ALPACA DAY 127 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 127 BLOCKED
+- **S&P 500 intraday (10:00 AM CT):** −0.65% (est. ~7,455-7,465 from 7,503.85 Jul 7 close) | **Dow −1.2% / −640+ pts** (below 53,000) | **Nasdaq −0.5%** | All major indices RED
+- **Session character: GEOPOLITICAL RISK SPIKE + PRE-FOMC ANXIETY.**
+  - 🚨 **TRUMP declares Iran ceasefire "OVER"** — new Middle East strikes exchanged → oil prices surging (WTI +3%+ est.)
+  - Oil surge → higher-for-longer inflation pressure → bond yields rising → hawkish FOMC narrative reinforced
+  - ⚠️ **FOMC June 16-17 minutes still ahead at 2:30 PM ET (1:30 PM CT)** — hawkish pre-read confirmed; minutes are PRIMARY rate-signal source this cycle
+- **Distribution day check (INTRADAY — NOT final):** S&P est. −0.65% >> −0.20% threshold | Volume: likely ELEVATED (geopolitical; oil spike; pre-FOMC hedging) → **DIST DAY #8 RISK EXTREMELY HIGH** — confirm at /eod-review
+- **Distribution day accounting (current):** 7/25 (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7) | **Jun 3 expiry RECOUNT: session 23 of 25 today** (session 24 = Jul 9; session 25 = Jul 10 → Jun 3 expires AFTER Jul 10 close) | Jun 3 NOT expiring today — **CONFIRMED RECOUNT** ✅
+- **State transition:** NONE. 🔴 Correction UNCHANGED. FTD window CLOSED.
+- **Rally attempt check:** S&P est. ~7,455-7,465 intraday vs rally low **7,266.99** → margin **~188-198 pts — NARROWING SHARPLY** (was 232 pts Jul 7 close) | Day 1 level still ~190 pts away; geopolitical pressure increasing
+- **50-day MA check:** 50d MA ~7,415 est. | S&P ~7,460 = **~+0.6% ABOVE** (down from +1.14% at Jul 7 close) | 200d MA ~7,470 est. | S&P **threatening 200d MA intraday** ⚠️ | Watch for close relative to 200d MA at /eod-review
+- **Abort gates:** Correction ✅ | Alpaca blocked ✅ | Daily CB clear ✅ | Weekly CB clear ✅ | Drawdown clear ✅ | Trades 0/3 ✅ | Positions 0/4 ✅ | Cash 100% ✅
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Watchlist triggers:** 0 primary items → SKIPPED (Correction; 0 candidates ≥75 for 13th consecutive week)
+- **Bench check (10:00 AM CT est.):**
+  - NVDA: **~$192-196 est.** (Nasdaq −0.5%; tracking; range) | **67-70/100 UNCHANGED** | Cup wk 22; no handle; no valid pivot | **No promotion** ✅
+  - MRVL: **~$218-226 est.** (bleeding; market down; oil/rate negative; already broken) | **~40-50/100 UNCHANGED** | Ex-div $0.06 FRIDAY Jul 10 | **No promotion** ✅
+  - ARM: **~$310-320 est.** (chip sector weak; market down) | **60/100 UNCHANGED** | ⚠️ Blackout Jul 22 = **8 trading days** remaining | SoftBank margin loan tail risk elevated on market stress | **No promotion** ✅
+- **Bench promotions/demotions:** NONE. All three remain well below 75 threshold.
+- **Hedge status:** SH $625 / 25% portfolio — **QUEUED — Alpaca Day 127 BLOCKED**. Rationale even stronger (geopolitical escalation + oil surge).
+- **Circuit breakers:** ALL CLEAR | Weekly trades: 0/3 | Equity: $2,500 (HWM) | P&L today: $0
+- **Actions: NONE** (Correction + Alpaca Day 127 BLOCKED + 0 positions + 0 primary candidates)
+- **⚠️ FLAGS FOR /eod-review:**
+  - ⚠️ DIST DAY #8: S&P −0.65% morning + Iran/oil + FOMC minutes → confirm if closes −0.2%+ on elevated volume → 8/25
+  - ⚠️ 200d MA ~7,470 intraday test — watch close relationship
+  - ⚠️ Jun 3 dist day expires AFTER Jul 10 close (session 25) — not today
+  - ⚠️ CPI Friday Jul 10 MEGA CATALYST | MRVL ex-div $0.06 Fri Jul 10
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day 127) | Perplexity 403 | AV 403
 
 **⏳ JUL 8 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚠️ FOMC MINUTES TODAY 1 PM CT HAWKISH RISK — ES SLIGHTLY RED / DOW MODESTLY HIGHER — OIL RISING — MRVL −8.75% JUL 7 — ALPACA DAY 126 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 126 BLOCKED | Perplexity 403 | AV 403

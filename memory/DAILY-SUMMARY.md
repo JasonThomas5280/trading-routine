@@ -3871,3 +3871,23 @@ Circuit breakers: ALL CLEAR
 ⚠️ JPM + GS Q2 earnings Mon Jul 14 — Q3 earnings season start
 SH $625 hedge: QUEUED (Alpaca Day 125 BLOCKED — Day 68 queued since Jun 5)
 Weekly trade count: 0/3 | research_source: websearch_fallback
+
+---
+
+## 2026-07-08 Market-Check Summary
+
+📈 Market-check 2026-07-08 10:00 AM CT
+Market: 🔴 CORRECTION (7/25 dist) | Circuit breakers: NONE
+Actions taken: No new entries — Correction gate | No open positions — sell-rules-engine skipped
+S&P: −0.65% intraday (est. ~7,455-7,465) | Dow: −1.2% | Nasdaq: −0.5%
+🚨 TRUMP declares Iran ceasefire OVER → oil +3%+ → hawkish inflation reinforced
+⚠️ FOMC June minutes 1:30 PM CT — hawkish pre-read (9/18 hike; Warsh withheld dot) → DIST DAY #8 RISK EXTREME
+Bench: NVDA ~$192-196 (67-70/100 no handle); MRVL ~$218-226 (~40-50/100 broken); ARM ~$310-320 (60/100 blackout 8d)
+Watchlist status: 0 ready, 3 watching, 0 removed — 13th consecutive week with 0 candidates ≥75
+Open positions: 0 | Cash: 100% | Weekly trades: 0/3
+SH $625 hedge: QUEUED (Alpaca Day 127 BLOCKED — rationale strengthened by geopolitical escalation)
+Jun 3 dist day: session 23/25 today — expires AFTER Jul 10 close (not today — RECOUNT CORRECTED)
+⚠️ CPI Fri Jul 10 MEGA CATALYST | MRVL ex-div $0.06 Fri Jul 10
+⚠️ 200d MA ~7,470 — intraday test occurring; watch EOD close
+Next check: /eod-review 3:15 PM CT (dist day #8 confirmation + 200d MA close + Jun 3 expiry count + CPI prep)
+research_source: websearch_fallback | Alpaca Day 127 BLOCKED
