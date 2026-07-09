@@ -3940,3 +3940,24 @@ Watching: NVDA 66-69 (−1.5% DeepSeek inference chip) | MRVL ~40-50 (+4.4% NVDA
 ⚠️ FRAGILE: S&P below 200d MA; 50d MA approaching; rally low 7,267 now ~152 pts away
 Plan: NO ENTRIES — Correction + Alpaca Day 129 BLOCKED. SH $625 QUEUED.
 research_source: websearch_fallback | Alpaca 403 BLOCKED | Perplexity 403 | AV 403
+
+---
+## 2026-07-09 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — S&P ~7,483 VOLATILE RECOVERY — RALLY LOW TESTED INTRADAY (RECOVERED) — JUN 3 EXPIRES → 7/25 — 0 ACTIONS]
+
+📈 Market-check 2026-07-09 10:00 CT
+Market: 🔴 Correction | 8→7/25 dist at close (Jun 3 expires today; no new dist day) | Alpaca: Day 129 BLOCKED
+Circuit breakers: NONE triggered | Equity: $2,500 HWM | Weekly trades: 0/3
+S&P ~7,483 intraday (est. +0.33% vs Jul 8 ~7,458) — VOLATILE: deep intraday low ~7,245 est. (rally low 7,266.99 tested, RECOVERED; no Day 1 close) | Oil declining from $79+ | Tech/AI rebounding; 6/11 sectors positive
+Actions taken:
+  No new entries — Correction + Alpaca Day 129 BLOCKED
+  0 primary watchlist items (0 candidates ≥75 — 14th consecutive week)
+  0 open positions → sell-rules-engine SKIPPED
+Bench (intraday): NVDA $198.60 +0.85% (67-70/100, no promotion) | MRVL $227.74 −1.28% (40-50/100, no promotion; ex-div $0.06 TOMORROW Jul 10) | ARM $292.52 −2.63% (60/100, no promotion; blackout Jul 22 = 9 days)
+Watchlist status: 0 primary, 3 bench, 0 removed
+Open positions: 0 | 100% cash | Weekly trades: 0/3 used
+⚠️ EOD watch: Confirm S&P close vs 7,266.99 (no Day 1 expected); confirm Jun 3 dist expires → 7/25 net; confirm 200d MA position at close
+⚠️ TOMORROW Jul 10: MRVL ex-div $0.06 only (NO CPI — confirmed Jul 14)
+⚠️ TRIPLE CATALYST Jul 14: CPI 8:30 AM ET + JPM Q2 + GS Q2 earnings (hawkish CPI = dist #9 + test 7,266 low; cool CPI = relief/FTD path)
+SH $625 hedge: QUEUED (Alpaca Day 129 BLOCKED — first order on restore)
+Next check: /eod-review 3:15 PM CT
+research_source: websearch_fallback | Alpaca 403 BLOCKED | Perplexity 403 | AV 403

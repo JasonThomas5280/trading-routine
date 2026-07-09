@@ -6,10 +6,10 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 9 /pre-market 6:00 AM CT — 8/25 dist days (Jun 3 expires TODAY after close → 7/25) — ES −0.52% / NQ −1.76% premarket red — Iran war escalating + Brent $79+ — NVDA −1.5% DeepSeek inference chip — ⚠️ CPI CORRECTED: July 14 (NOT Jul 10) — FTD window CLOSED — Alpaca Day 129 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 9 /market-check 10:00 AM CT — 7/25 dist days est. at close (Jun 3 expires today; no new dist day) — S&P ~7,483 intraday volatile (deep intraday low ~7,245 est. — rally low 7,266.99 TESTED intraday, RECOVERED; NO Day 1 close) — oil declining — tech rebounding — NVDA $198.60 +0.85% / MRVL $227.74 −1.28% / ARM $292.52 −2.63% — FTD window CLOSED — Alpaca Day 129 BLOCKED)*
 
-**Last updated:** 2026-07-09 (Thu) — /pre-market 6:00 AM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — JUN 3 EXPIRES TODAY → 7/25 AT CLOSE — ES −0.52%/NQ −1.76% RED — IRAN/OIL SURGE — NVDA DEEPSEEK HIT — CPI JULY 14 (CORRECTED) — ALPACA DAY 129 BLOCKED**
-**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8) | ⚠️ Jun 3 expires TODAY after close → **8→7/25** | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally attempt INTACT (S&P ~7,458 vs low 7,266.99 = ~191 pts margin) | ⚠️ S&P BELOW 200d MA (~7,470) as of Jul 8 close
+**Last updated:** 2026-07-09 (Thu) — /market-check 10:00 AM CT — **🔴 CORRECTION UNCHANGED — JUN 3 EXPIRES TODAY → 7/25 AT CLOSE — S&P ~7,483 INTRADAY RECOVERY — RALLY LOW 7,266.99 INTACT (TESTED INTRADAY, NOT CLOSED BELOW) — OIL DECLINING — NVDA +0.85% / MRVL −1.28% / ARM −2.63% — ALPACA DAY 129 BLOCKED**
+**STATE:** 🔴 Market in Correction | **8→7/25 dist days at close** (Jun 3 expires today; Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8 remain) | No new dist day today (S&P up ~+0.33% intraday vs Jul 8) | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally low 7,266.99 INTACT (intraday low ~7,245 est. recovered; close ~7,483 = ~216 pts above Day 1 trigger) | ⚠️ S&P recovering above 200d MA (~7,470) intraday — fragile
 
 **⏳ JUL 9 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES −0.52%/NQ −1.76% RED — IRAN OIL SURGE BRENT $79+ — NVDA −1.5% DEEPSEEK INFERENCE CHIP — MRVL +4.4% RECOVERY — JUN 3 EXPIRES TODAY (8→7/25 AT CLOSE) — ⚠️ CPI CORRECTED: JUL 14 NOT JUL 10 — ALPACA DAY 129 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 129 BLOCKED | Perplexity 403 | AV 403
@@ -42,6 +42,30 @@
   - Monitor rally low 7,266.99 — if S&P breaks it intraday + closes below → Day 1 NEW RALLY ATTEMPT
   - MRVL ex-div $0.06 TOMORROW Jul 10 — no action needed; monitor price adjustment
   - ARM blackout countdown: **9 trading days** to Jul 22 (academic — score 60 blocks entry regardless)
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day 129) | Perplexity 403 | AV 403
+
+**✅ JUL 9 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,483 INTRADAY VOLATILE RECOVERY — DEEP LOW ~7,245 EST. (RALLY LOW 7,266.99 TESTED INTRADAY, RECOVERED — NO DAY 1 CLOSE) — JUN 3 EXPIRES TODAY → 8→7/25 AT CLOSE — NO NEW DIST DAY — OIL DECLINING — NVDA $198.60 +0.85% / MRVL $227.74 −1.28% / ARM $292.52 −2.63% — ALPACA DAY 129 BLOCKED — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 129 BLOCKED | Perplexity 403 | AV 403
+- **S&P 500 intraday (~10:00 AM CT / 11:00 AM ET):** ~7,483 | Volatile session — large intraday swing (est. low ~7,245 = below rally low 7,266.99) | S&P RECOVERED sharply to ~7,483; six of 11 sectors positive; oil declining from $79+; tech/AI rebounding
+- **⚠️ INTRADAY RALLY LOW TEST:** Estimated intraday low ~7,245 = BELOW Day 1 trigger 7,266.99. Market RECOVERED to ~7,483 → **NO Day 1 close signal** (close must be below 7,266.99 to establish Day 1). Rally low 7,266.99 **INTACT** on close basis. FTD window **REMAINS CLOSED**. Monitor closely — intraday proximity elevated.
+- **Distribution day check:** S&P ~7,483 vs Jul 8 close ~7,458 = **+0.33% intraday → NO new dist day** ✅ | Jun 3 dist day expires after today's close → **8→7/25 net** ✅ (still Correction at 7/25; threshold 6+)
+- **50d MA check:** 50d MA ~7,415 est. | S&P ~7,483 = **~+0.9% ABOVE** ✅ (margin restored from pre-market concern)
+- **200d MA:** ~7,470 est. | S&P ~7,483 = **~+0.9% ABOVE** ✅ (recovered above 200d MA after Jul 8 breach — fragile; confirm at close)
+- **Abort gates:** Correction ✅ | Alpaca blocked ✅ | Daily CB clear ✅ | Weekly CB clear ✅ | Drawdown clear ✅ | Trades 0/3 ✅ | Positions 0/4 ✅ | Cash 100% ✅ | **→ ALL GATES FIRED — NO TRADES**
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Hedge status:** SH $625 / 25% portfolio — **QUEUED — Alpaca Day 129 BLOCKED**
+- **Bench check (intraday ~10:00 AM CT):**
+  - NVDA: **$198.60 (+0.85%)** | DeepSeek inference fears fading; AI demand resilient | **67-70/100 UNCHANGED** | Cup wk 23; no handle | **No promotion** ✅
+  - MRVL: **$227.74 (−1.28%)** | ⚠️ Ex-div $0.06 TOMORROW Jul 10 (price adjusts ~$0.06 at open) | **~40-50/100 UNCHANGED** | Broken structure; no base | **No promotion** ✅
+  - ARM: **$292.52 (−2.63%)** | Continued weakness; SoftBank margin loan risk | **60/100 UNCHANGED** | ⚠️ Blackout Jul 22 = **9 trading days** | **No promotion** ✅
+- **Watchlist triggers:** NONE (0 primary items — Correction posture; 0 candidates ≥75 for 14th consecutive week)
+- **Actions: NONE** (Correction + Alpaca Day 129 BLOCKED + 0 positions + 0 candidates ≥75)
+- **⚠️ EOD WATCH FLAGS:**
+  - Confirm S&P close vs 7,266.99 (Day 1 signal if close BELOW; not expected from ~7,483 level)
+  - Confirm Jun 3 dist expires → net 7/25 at close
+  - Confirm S&P vs 200d MA (~7,470) at close
+  - MRVL ex-div $0.06 TOMORROW Jul 10 — price adjusts ~$0.06 at open; no action needed
+- **Next routine:** /eod-review 3:15 PM CT
 - `research_source: websearch_fallback` | Alpaca BLOCKED (Day 129) | Perplexity 403 | AV 403
 
 **✅ JUL 8 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — DIST DAY #8 ADDED — S&P ~7,458 −0.61% DIST ✅ — FOMC MINUTES HAWKISH CONFIRMED — IRAN CEASEFIRE OVER + OIL +5% — 8/25 DIST — ⚠️ S&P BELOW 200d MA — RALLY LOW 7,266.99 INTACT (~191 PTS) — 0 POSITIONS — ALPACA DAY 128 BLOCKED):**
