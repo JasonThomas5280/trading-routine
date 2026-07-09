@@ -13731,3 +13731,51 @@ Weekly trade count: 0/3 | Next check: /pre-market 6:00 AM CT Thu Jul 9
 - Confirm Jun 3 dist day expiry at /eod-review (7/25 expected at close today)
 - Flag for /eod-review: dist day #9 risk if S&P closes −0.2%+ today
 
+
+---
+
+## 2026-07-09 (Thu) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,543.64 +0.81% NOT DIST ✅ — JUN 3 EXPIRED → 7/25 — SOXX +5.2% CHIP SURGE — 0 POSITIONS — ALPACA DAY 130 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 130; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **7/25 distribution days** (Jun 3 expired today ✅; Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8 remain) | FTD window CLOSED | Rally low 7,266.99 INTACT (+276 pts from close)
+**Weekly trades:** 0/3 (week of Jul 6) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Close data (Jul 9, 2026)
+
+- **S&P 500:** 7,543.64 (+0.81% / +60.93 pts from 7,482.71 Jul 8 actual)
+- **Nasdaq Composite:** 26,206.89 (+1.30%)
+- **Dow Jones:** 52,487.41 (+0.27% / +139 pts)
+- **SPY est.:** ~$754.36 (+0.81%)
+- **QQQ est.:** ~$723.86 (+1.75%)
+- **SOXX:** +5.2% (semiconductor ETF — major surge)
+
+### Session character
+SEMICONDUCTOR SURGE / AI DEMAND CONFIRMATION. SK Hynix US IPO oversubscribed → AI memory trade bullish institutional signal. MU +7.5% (Micron announced $3B US capex investment), AMD +7.2%, AVGO +3.3%, SOXX +5.2%, MRVL up. Iran tensions ongoing but market completely shrugged geopolitical narrative — chip/AI overwhelmed everything. Oil declining from $79+ highs (reducing hawkish inflation narrative). S&P recovered decisively above 200d MA (~7,470) after Jul 8 intraday concern.
+
+### Distribution day check
+- S&P +0.81% — **NOT a distribution day** ✅
+- Jun 3 dist day expires today (session 25/25) → removed from count
+- **Net: 7/25 at close** (down from 8/25) ✅
+- State: 🔴 Correction UNCHANGED (7/25 ≥ 6 threshold)
+
+### Sell-rules-engine
+- **0 open positions → SKIPPED** ✅
+
+### Circuit breaker check
+- Alpaca API: BLOCKED (403 proxy Day 130) — cannot pull live account state
+- Last confirmed: $2,500 equity (HWM) | 0 positions | 0 trades this week
+- Daily CB: ALL CLEAR | Weekly CB: ALL CLEAR | Drawdown CB: ALL CLEAR
+
+### Bench check (EOD est.)
+- **NVDA:** ~$207-212 est. (SOXX +5.2%; DeepSeek inference fear from yesterday absorbed; SK Hynix IPO = AI demand confirmed) | **68-72/100 SLIGHT UPGRADE** | Cup wk 24; no handle; no valid pivot | BLOCKED ✅
+- **MRVL:** ~$233-240 est. (chip surge; MRVL noted jumping; ⚠️ ex-div $0.06 TOMORROW Jul 10) | **~42-52/100 UNCHANGED** | Broken structure; no base | BLOCKED ✅
+- **ARM:** ~$298-308 est. (chip sector up; ARM participates) | **60/100 UNCHANGED** | ⚠️ Blackout Jul 22 = 8 trading days | BLOCKED ✅
+
+### Key upcoming catalysts
+- **TOMORROW Jul 10:** MRVL ex-div $0.06 (price adjusts ~$0.06 at open; no action needed) | No major macro
+- **Tue Jul 14 TRIPLE CATALYST:** CPI June 2026 (8:30 AM ET) + JPM Q2 earnings + GS Q2 earnings — highest-volatility day of Q3
+- **Jul 22:** ARM earnings blackout (8 trading days; academic — score 60 blocks entry regardless)
+
+### Actions
+- **NONE** — Correction + Alpaca Day 130 BLOCKED + 0 candidates ≥75 + 0 positions
+- SH $625: QUEUED — execute as first order on Alpaca restore

@@ -6,10 +6,10 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 9 /market-check 10:00 AM CT — 7/25 dist days est. at close (Jun 3 expires today; no new dist day) — S&P ~7,483 intraday volatile (deep intraday low ~7,245 est. — rally low 7,266.99 TESTED intraday, RECOVERED; NO Day 1 close) — oil declining — tech rebounding — NVDA $198.60 +0.85% / MRVL $227.74 −1.28% / ARM $292.52 −2.63% — FTD window CLOSED — Alpaca Day 129 BLOCKED)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 9 /eod-review 3:15 PM CT — 7/25 dist days (Jun 3 expired today ✅; no new dist day) — S&P CLOSE 7,543.64 +0.81% — Nasdaq 26,206.89 +1.30% — Dow 52,487.41 +0.27% — SOXX +5.2% semiconductor surge — SK Hynix US IPO oversubscribed — rally low 7,266.99 INTACT (+276 pts WIDENING) — 200d MA ~7,470 RECOVERED ✅ — FTD window CLOSED — Alpaca Day 130 BLOCKED)*
 
-**Last updated:** 2026-07-09 (Thu) — /market-check 10:00 AM CT — **🔴 CORRECTION UNCHANGED — JUN 3 EXPIRES TODAY → 7/25 AT CLOSE — S&P ~7,483 INTRADAY RECOVERY — RALLY LOW 7,266.99 INTACT (TESTED INTRADAY, NOT CLOSED BELOW) — OIL DECLINING — NVDA +0.85% / MRVL −1.28% / ARM −2.63% — ALPACA DAY 129 BLOCKED**
-**STATE:** 🔴 Market in Correction | **8→7/25 dist days at close** (Jun 3 expires today; Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8 remain) | No new dist day today (S&P up ~+0.33% intraday vs Jul 8) | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally low 7,266.99 INTACT (intraday low ~7,245 est. recovered; close ~7,483 = ~216 pts above Day 1 trigger) | ⚠️ S&P recovering above 200d MA (~7,470) intraday — fragile
+**Last updated:** 2026-07-09 (Thu) — /eod-review 3:15 PM CT — **🔴 CORRECTION UNCHANGED — S&P CLOSE 7,543.64 +0.81% NOT DIST DAY ✅ — JUN 3 EXPIRED → 7/25 AT CLOSE ✅ — RALLY LOW 7,266.99 INTACT (+276 PTS WIDENING) — 200d MA RECOVERED — SOXX +5.2% CHIP SURGE — ALPACA DAY 130 BLOCKED**
+**STATE:** 🔴 Market in Correction | **7/25 dist days** (Jun 3 expired; Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8) | No new dist day today (S&P +0.81%) | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally low 7,266.99 INTACT (S&P 7,543.64 = +276 pts / +3.81% above) | 200d MA ~7,470 → S&P +0.98% ABOVE ✅ (recovered from Jul 8 breach) | 50d MA ~7,415 → S&P +1.73% ABOVE ✅
 
 **⏳ JUL 9 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES −0.52%/NQ −1.76% RED — IRAN OIL SURGE BRENT $79+ — NVDA −1.5% DEEPSEEK INFERENCE CHIP — MRVL +4.4% RECOVERY — JUN 3 EXPIRES TODAY (8→7/25 AT CLOSE) — ⚠️ CPI CORRECTED: JUL 14 NOT JUL 10 — ALPACA DAY 129 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 129 BLOCKED | Perplexity 403 | AV 403
@@ -67,6 +67,31 @@
   - MRVL ex-div $0.06 TOMORROW Jul 10 — price adjusts ~$0.06 at open; no action needed
 - **Next routine:** /eod-review 3:15 PM CT
 - `research_source: websearch_fallback` | Alpaca BLOCKED (Day 129) | Perplexity 403 | AV 403
+
+**✅ JUL 9 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CLOSE 7,543.64 +0.81% NOT DIST ✅ — NASDAQ 26,206.89 +1.30% — DOW 52,487.41 +0.27% — JUN 3 EXPIRED → 7/25 AT CLOSE ✅ — SOXX +5.2% CHIP SURGE — SK HYNIX US IPO OVERSUBSCRIBED — 200d MA RECOVERED ✅ — RALLY LOW 7,266.99 INTACT (+276 PTS WIDENING) — 0 POSITIONS — ALPACA DAY 130 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 130 BLOCKED | Perplexity 403 | AV 403
+- **S&P 500 CLOSE Jul 9: 7,543.64 (+0.81% / +60.93 pts** from 7,482.71 Jul 8 actual) | **Nasdaq Composite: 26,206.89 (+1.30%)** | **Dow: 52,487.41 (+0.27% / +139 pts)** | SPY est. ~$754.36 (+0.81%) | QQQ est. ~$723.86 (+1.75%) | `data_confidence: medium` (Alpaca blocked; websearch cross-reference)
+- **Session character: SEMICONDUCTOR SURGE / AI DEMAND CONFIRMATION.** SK Hynix US IPO oversubscribed → AI memory institutional demand bullish. MU +7.5% ($3B US capex investment announced), AMD +7.2%, AVGO +3.3%, SOXX +5.2%, MRVL up. Iran tensions ongoing but market fully shrugged geopolitical narrative — chips/AI overtook. Oil declining from $79+ highs. S&P recovered decisively above 200d MA (~7,470).
+- **Distribution day check (Jul 9 FINAL):** S&P +0.81% — **POSITIVE → NOT a distribution day** ✅
+- **Distribution day accounting:** Jun 3 expires TODAY after close (session 25 of 25 ✅) → removed. No new dist day. Active: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8. **Net: 7/25 — JUN 3 EXPIRED** ✅
+- **State transition:** NONE. 🔴 Correction UNCHANGED. (7/25 ≥ 6; FTD window CLOSED; S&P well above 7,266.99)
+- **200d MA check:** 200d MA ~7,470 est. | S&P 7,543.64 = **+0.98% ABOVE 200d MA** ✅ — decisive recovery from Jul 8 close concern
+- **50d MA check:** 50d MA ~7,415 est. | S&P 7,543.64 = **+1.73% ABOVE 50d MA** ✅
+- **Rally attempt check:** S&P 7,543.64 vs rally low **7,266.99** → margin **~276 pts (+3.81%)** → **INTACT ✅ WIDENING** (191 pts Jul 8 → 276 pts Jul 9 — margin expanded +85 pts in a single session)
+- **FTD status:** Window CLOSED. S&P 276 pts above rally low → no new Day 1 today. FTD path unchanged.
+- **Abort gates:** Correction ✅ | Alpaca blocked ✅ | Daily CB clear ✅ | Weekly CB clear ✅ | Drawdown clear ✅ | Trades 0/3 ✅ | Positions 0/4 ✅ | Cash 100% ✅
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Hedge status:** SH $625 / 25% portfolio — **QUEUED — Alpaca Day 130 BLOCKED**. Rationale still strong (7/25 dist; Correction state). Priority #1 order on Alpaca restore.
+- **Bench check (EOD est. — SOXX +5.2% session):**
+  - NVDA: **~$207-212 est.** (chip surge; DeepSeek fear absorbed; AI demand confirmed by SK Hynix IPO oversubscription) | **68-72/100 SLIGHT UPGRADE** (AI demand signal positive for N-letter; cup wk 24; no handle; no valid pivot) | **No promotion** ✅ (Correction blocks)
+  - MRVL: **~$233-240 est.** (chip sector surge; MRVL noted jumping; ⚠️ ex-div $0.06 TOMORROW Jul 10 — price adjusts ~$0.06 at open) | **~42-52/100 UNCHANGED** (structure still broken despite rally; needs 8+ wk base rebuild) | **No promotion** ✅
+  - ARM: **~$298-308 est.** (chip sector up; ARM participates) | **60/100 UNCHANGED** | ⚠️ Blackout Jul 22 = **8 trading days** | SoftBank margin loan risk | **No promotion** ✅
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 (0%) | P&L week: $0 (0%) | Equity: $2,500 (HWM)
+- **Actions: NONE** (Correction + Alpaca Day 130 BLOCKED + 0 positions + 0 candidates ≥75)
+- **⚠️ TOMORROW Jul 10:** MRVL ex-div $0.06 — price adjusts ~$0.06 at open (no action needed) | No major macro | Watch chip momentum continuation
+- **⚠️ Tue Jul 14 TRIPLE CATALYST:** CPI June 2026 (8:30 AM ET) + JPM Q2 earnings + GS Q2 earnings — highest-volatility day of Q3. Hawkish CPI = potential dist day #8 (8/25); cool CPI = relief / potential FTD-path opener.
+- **⚠️ Jul 22:** ARM earnings blackout (8 trading days away — moot; score 60 + Correction both block)
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day 130) | Perplexity 403 | AV 403
 
 **✅ JUL 8 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — DIST DAY #8 ADDED — S&P ~7,458 −0.61% DIST ✅ — FOMC MINUTES HAWKISH CONFIRMED — IRAN CEASEFIRE OVER + OIL +5% — 8/25 DIST — ⚠️ S&P BELOW 200d MA — RALLY LOW 7,266.99 INTACT (~191 PTS) — 0 POSITIONS — ALPACA DAY 128 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 128 BLOCKED | Perplexity 403 | AV 403

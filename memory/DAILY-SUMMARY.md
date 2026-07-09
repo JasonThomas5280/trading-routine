@@ -3961,3 +3961,30 @@ Open positions: 0 | 100% cash | Weekly trades: 0/3 used
 SH $625 hedge: QUEUED (Alpaca Day 129 BLOCKED — first order on restore)
 Next check: /eod-review 3:15 PM CT
 research_source: websearch_fallback | Alpaca 403 BLOCKED | Perplexity 403 | AV 403
+
+---
+
+## 📊 EOD 2026-07-09 (Thu) | Equity $2,500.00 (+$0 day, +$0 week)
+
+**Open:** 0 positions, 100% cash
+**Distribution days:** 7 of 25 (Jun 3 expired today → 7/25 ✅; market: 🔴 Correction)
+**Alpaca:** BLOCKED Day 130 (403 proxy — all API calls fail)
+
+**Close:**
+- S&P 500: 7,543.64 (+0.81%) | Nasdaq: 26,206.89 (+1.30%) | Dow: 52,487.41 (+0.27%)
+- SOXX +5.2% | MU +7.5% | AMD +7.2% | AVGO +3.3% — chip sector surge on SK Hynix US IPO oversubscription (AI memory demand bullish)
+- Oil declining from $79+ | Iran tensions ongoing but ignored by market
+- 200d MA (~7,470) RECOVERED ✅ | Rally low 7,266.99 intact (+276 pts)
+
+**Actions today:** NONE (Correction + Alpaca blocked + 0 positions)
+
+**Sell-rules-engine:** SKIPPED (0 positions)
+**Circuit breakers:** ALL CLEAR
+
+**Tomorrow (Jul 10):** MRVL ex-div $0.06 at open (minor; no action) | No major macro
+
+**Next major catalyst: Tue Jul 14 TRIPLE — CPI June 2026 + JPM Q2 + GS Q2**
+- Hawkish CPI → potential dist day #8 (8/25); cool CPI → relief / FTD-path opener
+- Hedge SH $625: QUEUED pending Alpaca restore
+
+`research_source: websearch_fallback` | Alpaca BLOCKED (Day 130) | Perplexity 403 | AV 403
