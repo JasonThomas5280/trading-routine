@@ -3907,3 +3907,36 @@ Jun 3 dist day expires Fri Jul 10 → 8→7/25 | MRVL ex-div $0.06 Fri Jul 10
 JPM+GS Mon Jul 14 Q3 earnings season kickoff
 SH $625 hedge: QUEUED (Alpaca Day 128 BLOCKED) — rationale strongest yet
 Weekly trade count: 0/3 | Next check: /pre-market 6:00 AM CT Thu Jul 9
+
+---
+## 2026-07-09 06:00 CT [pre-market — 🔴 CORRECTION UNCHANGED — ES −0.52%/NQ −1.76% RED — IRAN OIL $79 — NVDA −1.5% DEEPSEEK — MRVL +4.4% — JUN 3 EXPIRES TODAY (7/25 AT CLOSE) — ⚠️ CPI CORRECTED: JUL 14 — ALPACA DAY 129 BLOCKED]
+
+🌅 Pre-market 2026-07-09
+Market: 🔴 Correction (8/25 dist; Jun 3 expires today → 7/25 at close) | Futures: ES −0.52% / NQ −1.76% RED | Oil: Brent $79+ (Iran war; IEA "largest supply disruption in history")
+Open positions: 0 | Circuit breakers: NONE | Equity: $2,500 HWM
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE (Correction; 0 candidates ≥75 for 14th consecutive week)
+Watchlist watching: NVDA 66-69 ↓ (bench; cup wk 22-23; no handle; -1.5% premarket — DeepSeek inference chip) | MRVL ~40-50 (bench; +4.37% premarket to ~$256 — NVDA delay rumors; broken base; ex-div $0.06 Fri Jul 10) | ARM 60 (bench; 9 days to blackout Jul 22)
+Removed/flagged: NONE (existing removals intact)
+⚠️ CPI CALENDAR CORRECTION: June 2026 CPI = Tuesday JULY 14 (NOT July 10). Jul 7 pre-market was correct; Jul 8 "correction" was wrong. July 14 = TRIPLE CATALYST: CPI 8:30 AM + JPM Q2 + GS Q2
+⚠️ TODAY (Jul 9): Jobless Claims 8:30 AM ET (~218K consensus); ES/NQ red; dist day #9 risk if S&P −0.2%+ on elevated vol; Jun 3 dist expires today at close (8→7/25)
+⚠️ TOMORROW (Jul 10): MRVL ex-div $0.06 only — NO major macro (CPI corrected to Jul 14)
+⚠️ FRAGILE: S&P below 200d MA (~7,470); 50d MA (~7,415) approaching intraday; rally low 7,266.99 now ~152 pts away premarket
+Plan: NO ENTRIES — Correction + Alpaca Day 129 BLOCKED + 0 candidates ≥75. Monitor Jobless Claims 8:30 AM ET; watch for dist day #9. SH $625 QUEUED for Alpaca restore.
+research_source: websearch_fallback | Alpaca BLOCKED | Perplexity 403 | AV 403
+
+
+---
+## 2026-07-09 11:15 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-09
+Market: 🔴 Correction (8/25 dist; Jun 3 expires today → 7/25 at close) | Futures: ES −0.52% / NQ −1.76% RED | Oil: Brent $79+ (Iran war)
+Open positions: 0 | Circuit breakers: NONE | Equity: $2,500 HWM
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE (14th consecutive week 0 candidates ≥75)
+Watching: NVDA 66-69 (−1.5% DeepSeek inference chip) | MRVL ~40-50 (+4.4% NVDA delay rumors; ex-div Fri Jul 10) | ARM 60 (9 days to blackout Jul 22)
+⚠️ CPI CORRECTED: July 14 NOT Jul 10 — Jul 14 = TRIPLE CATALYST (CPI + JPM + GS)
+⚠️ TODAY: Jobless Claims 8:30 AM ET (~218K); dist day #9 risk; Jun 3 expires at close (7/25)
+⚠️ FRAGILE: S&P below 200d MA; 50d MA approaching; rally low 7,267 now ~152 pts away
+Plan: NO ENTRIES — Correction + Alpaca Day 129 BLOCKED. SH $625 QUEUED.
+research_source: websearch_fallback | Alpaca 403 BLOCKED | Perplexity 403 | AV 403

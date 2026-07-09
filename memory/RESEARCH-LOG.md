@@ -13632,3 +13632,102 @@ JPM+GS Mon Jul 14 Q3 earnings season kickoff
 SH $625 hedge: QUEUED (Alpaca Day 128 BLOCKED) — rationale strongest yet
 Weekly trade count: 0/3 | Next check: /pre-market 6:00 AM CT Thu Jul 9
 ```
+
+---
+
+## 2026-07-09 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES −0.52% / NQ −1.76% RED — IRAN OIL SURGE — NVDA −1.5% DEEPSEEK CHIP — MRVL +4.4% RECOVERY — ⚠️ CPI CORRECTION: JUL 14 NOT JUL 10 — ALPACA DAY 129 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 129; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8) | FTD window CLOSED | Rally low 7,266.99 INTACT (~191 pts margin from Jul 8 close ~7,458)
+**Weekly trades:** 0/3 (week of Jul 7) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (top 3):** XLE Energy (oil surge; Iran escalation), XLI Industrials, XLP Consumer Staples (defensive bid)
+**Sector laggards (avoid):** XLK Technology (chip weakness), XLF Financials (RRG Lagging)
+
+### Gap check — open positions
+- **0 open positions → SKIPPED ✅**
+
+### ⚠️ CALENDAR CORRECTION — CPI IS JULY 14, NOT JULY 10
+- **BLS June 2026 CPI release: CONFIRMED Tuesday July 14** — multiple sources (BLS, Robinhood prediction markets, financecalendar.com, Investrade calendar) all confirm July 14
+- The Jul 8 /pre-market entry that "corrected" the date to Jul 10 was **WRONG**. The Jul 7 /pre-market that said "next week Jul 14" was **CORRECT**
+- **July 14 = TRIPLE CATALYST: CPI 8:30 AM ET + JPM Q2 earnings + GS Q2 earnings** (JPM/GS confirmed Tuesday Jul 14, not Monday as earlier noted)
+- May 2026 CPI: +4.17% YoY (last actual print Jun 10). Cleveland Fed nowcast June ~4% YoY
+- Friday July 10 only has: MRVL ex-div $0.06 + Jun 3 dist day expiry (minor)
+- **Implication:** No major macro risk Friday Jul 10. Full risk concentration moves to Tuesday July 14
+
+### Overnight market snapshot
+- **ES (S&P 500) futures:** −0.52% overnight — market digesting yesterday's FOMC hawkish minutes + Iran escalation
+- **NQ (Nasdaq 100) futures:** −1.76% overnight — chip/AI sentiment hit by DeepSeek inference chip news; outsized Nasdaq weakness
+- **Oil:** Brent crude above $79/bbl (+1.5% Thursday morning, after +5% Wednesday); WTI ~$74 — IEA characterized Strait of Hormuz closure as "largest supply disruption in history of global oil market"
+- **Iran:** US struck Iranian targets for second consecutive day; Tehran threatened "large retaliatory operation"; ceasefire declared OVER — geopolitical premium intact; stagflation narrative building
+- **Jobless Claims (8:30 AM ET today):** consensus ~218K vs prior 215K — labor market read; elevated = dovish signal; low = hawkish (more rate hike pressure)
+- **S&P 500 Jul 8 close (confirmed):** ~7,458 (−0.61%) — below 200d MA (~7,470) ⚠️ | Rally low 7,266.99 intact (~191 pts)
+- **Context:** Futures red; geopolitical + FOMC hawkish carry-over; Nasdaq leading to downside on chip pressure. S&P continues to probe below 200d MA
+
+### Overnight catalysts — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight catalysts — bench
+
+**NVDA (est. ~$188-193 premarket, −1.5% from ~$192 Jul 8 close est.):**
+- 🚨 **DeepSeek (Chinese AI startup) designing its own AI inference chip** — direct competitive threat to NVDA's inference workload dominance; this is a new structural negative for the N-letter (new competition for the most profitable segment of NVDA's data center TAM)
+- Inference was NVDA's fastest-growing segment; a credible domestic Chinese alternative directly challenges the moat
+- Compounding existing headwinds: B200 GPU lease compression ($6.11→$4.22/hr), insider selling $410.6M, OpenAI IPO delay (AI demand uncertainty)
+- Score impact: N-letter further impaired; revising estimate **66-69/100** (was 67-70; minor downward revision on new competitive headwind)
+- Cup wk 22-23; no handle; no valid pivot; Aug 2026+ timeline UNCHANGED
+- Score: **66-69/100 SLIGHT DOWNGRADE** | Cup wk 22-23; no handle; no valid pivot | BLOCKED (Correction + below 75)
+
+**MRVL (premarket est. ~$256, +4.37% per WebSearch — partial recovery; data_confidence: low — Alpaca blocked):**
+- 🟡 **+4.37% premarket** — attributed to reports of delays/cancellations in Nvidia's AI hardware roadmap, which opens market share opportunity for custom chipmakers (MRVL competes in custom silicon / XPU)
+- MRVL up ~189% YTD per WebSearch — massive outperformer on the year despite recent -27% drawdown from ATH
+- Recovery to ~$256 would RECLAIM the $252 support level broken Jul 2 — structurally encouraging but 1 session; still needs 8+ wk base rebuild
+- **Ex-dividend $0.06 — ex-date CONFIRMED Friday Jul 10** — price adjusts down $0.06 at open tomorrow; minor
+- CFO liquidation ongoing; broken base structure; score still well below threshold
+- Score: **~40-50/100 UNCHANGED** — partial price recovery does NOT change score or base structure | Below threshold | BLOCKED (Correction + score + broken base)
+
+**ARM (est. ~$310-320 from search data; down ~7.56% for the week):**
+- No new material overnight catalyst
+- Analyst consensus bullish long-term (TD Cowen $475, UBS $470, Mizuho $500) but valuation at 470× trailing P/E remains stretched
+- **Earnings Jul 29 → blackout begins Jul 22** = **9 trading days remaining to potential entry** (academic — score 60 blocks; Correction blocks)
+- SoftBank margin loan tail risk elevated on market stress ($8.5B loan, 72% of shares pledged)
+- GAAP C-letter failing. No base. Score UNCHANGED.
+- Score: **60/100 UNCHANGED** | BLOCKED (Correction + GAAP C-letter fail + below 75 + blackout 9 trading days)
+
+### Buy-zone readiness
+
+| Symbol | Pre-mkt est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$188-193 | Not defined (no handle; cup wk 22-23) | N/A | 🔴 No base/pivot; Correction gate; DeepSeek risk |
+| MRVL | ~$256 est. | Broken (needs 8+ wk rebuild from ~$230-256 range) | N/A | 🔴 Below threshold (~40-50); broken structure |
+| ARM | ~$310-320 | Not defined | N/A | 🔴 Below threshold (60); earnings blackout Jul 22 |
+| SH | — | Queued; Alpaca Day 129 BLOCKED | — | ⏸️ QUEUED — execute on Alpaca restore |
+
+### Circuit breaker check
+- Alpaca API: BLOCKED (403 proxy Day 129) — cannot pull live account state
+- Last confirmed: $2,500 equity (HWM) | 0 positions | 0 trades this week
+- Daily CB: ALL CLEAR | Weekly CB: ALL CLEAR (0/3 week) | Drawdown CB: ALL CLEAR
+
+### Distribution day accounting
+- **8/25:** Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8 (added yesterday)
+- **⚠️ Jun 3 expires TODAY (Jul 9) after close:** Session count from Jun 3 = session 25 today → **8→7/25 after today's close** ✅ (still Correction at 7/25; no state change)
+- ⚠️ **Dist day #9 risk today:** ES −0.52% / NQ −1.76% premarket → if S&P closes −0.2%+ on elevated volume → dist day #9 → 9/25 (state UNCHANGED; worsens depth of Correction)
+- ⚠️ **Dist day risk Jul 14:** CPI June 2026 — hot read + JPM/GS earnings volatility = high potential dist day
+
+### State transition: NONE
+- 🔴 **CORRECTION UNCHANGED** | FTD window CLOSED | Rally low 7,266.99 intact
+- Day 1 requires S&P close BELOW 7,266.99 (currently ~7,458 = 191 pts above)
+- ES −0.52% premarket → est. S&P open ~7,419; would need further 152 pt decline to threaten Day 1
+- If dist day #9 confirms today: 9/25 (still Correction; no new state trigger from distribution count alone)
+
+### Week ahead (Jul 9-13)
+- **TODAY (Jul 9):** Jobless Claims 8:30 AM ET (consensus ~218K) | ES −0.52%/NQ −1.76% red premarket | Iran oil surge | ⚠️ Dist day #9 risk | Jun 3 expires today (7/25 at close)
+- **Friday Jul 10:** MRVL ex-div $0.06 (price adjustment at open — minor) | **NO CPI** (corrected — was erroneously listed for today in prior entries)
+- **Tue Jul 14 MEGA CATALYST:** ⚠️⚠️ CPI June 2026 (8:30 AM ET) + JPM Q2 earnings + GS Q2 earnings — triple catalyst; highest-volatility day of Q3; potential dist day OR FTD-path opener
+- **ARM blackout Jul 22:** ~9 trading days — academic (score 60 and Correction both block entry)
+- **NVDA earnings: Aug 26** — no blackout concern; base timeline intact (no valid entry anyway)
+
+### Actions
+- **NONE** — Correction + Alpaca Day 129 BLOCKED + 0 candidates ≥75 + 0 positions
+- SH $625: QUEUED — execute as first order on Alpaca restore (geopolitical + FOMC hawkish = rationale strengthens daily)
+- Confirm Jun 3 dist day expiry at /eod-review (7/25 expected at close today)
+- Flag for /eod-review: dist day #9 risk if S&P closes −0.2%+ today
+
