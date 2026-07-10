@@ -46,6 +46,96 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-10 (Fri) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES +0.2% MUTED — MRVL EX-DIV TODAY — FOMC HAWKISH (9-TO-8 HIKE SPLIT) — CPI+JPM+GS JUL 14 MEGA CATALYST — ALPACA DAY ~127 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~127; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **est. 7/25 distribution days** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7⚠️probable — vol unconfirmed, Alpaca blocked) | FTD window CLOSED | Rally low 7,266.99 INTACT (~276 pts from Jul 9 close 7,543.64)
+**Weekly trades:** 0/3 (week of Jul 7 — FINAL DAY) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (top 3):** XLE Energy (Iran premium↑), XLI Industrials, XLP Consumer Staples
+**Sector laggards (avoid):** XLK Technology (FOMC hawkish + yield 4.58% headwind), XLF Financials (RRG Lagging)
+
+### Gap check — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight market snapshot
+- **ES (S&P 500) futures:** ~+0.2% — muted; investors cautious into CPI/earnings mega-week (Jul 14)
+- **NQ (Nasdaq 100) futures:** ~slightly positive — yields at 4.58% remain headwind for high-P/E tech
+- **10-yr Treasury yield:** 4.58% — elevated; inflation concerns linger post-FOMC hawkish minutes
+- **Oil:** Iran tensions persist; oil elevated but stabilized post-Jul 8 spike
+- **Key events today (Jul 10):** MRVL ex-div $0.06 (price adjusts -$0.06 at open — trivial) | No major US macro | Final trading session of week
+- **No CPI today** — CPI June release is Monday Jul 14 (alongside Warsh testimony + JPM + GS)
+- **This week recap (Jul 7-9):**
+  - **Jul 7:** Trump declared Iran ceasefire "OVER" at NATO summit → Dow −570+ pts, oil +6% → S&P big down day → ⚠️ PROBABLE DIST DAY #7
+  - **Jul 8:** S&P recovered ("closes higher as chip stocks rise, oil slides") → S&P ~7,482.71 → NOT dist day (positive close vs Jul 7)
+  - **Jul 9:** FOMC June 16-17 minutes released 2 PM ET → Fed **SPLIT 9-TO-8 ON RATE HIKE** ⚠️; inflation forecasts revised higher → BUT market RALLIED on chip sector strength → S&P +0.81% to 7,543.64 / Nasdaq +1.30% to 26,206.89 → NOT dist day ✅
+
+### Overnight catalysts — open positions
+- **0 open positions → SKIPPED ✅**
+
+### Overnight catalysts — bench
+
+**NVDA (~$195-200 est., post-Jul 9 rally):**
+- ✅ **Kyber NVL144 AI rack delay DENIED (Jul 7 news):** Nvidia denied reports that its upcoming Kyber NVL144 platform would be pushed to 2028 — confirmed on schedule. Removes a key N-letter headwind.
+- ✅ **Goldman Sachs:** "quite compelling" at 21.7x forward earnings; strong analyst consensus ($301.62 avg target, 61 analysts, Strong Buy)
+- ✅ **China H200 access (limited):** China reportedly allowed top AI companies limited H200 chip purchases → potential demand incremental positive
+- ⚠️ Headwinds unchanged: B200 GPU lease compression ($6.11→$4.22/hr); insider selling $410.6M; LRCX/chip capex peak narrative
+- **Score REVISED: ~70-72/100** (↑1-2 from 67-70 — Kyber delay denial restores some N-letter; Goldman/analyst support adds I-letter weight; headwinds partially offset) | Cup wk ~21-22; no handle; no valid pivot; Aug 2026+ timeline UNCHANGED | **BLOCKED** (Correction + below 75)
+- **NVDA Q2 earnings: Aug 26, 2026** — no blackout concern (7+ weeks away)
+
+**MRVL (~$250-255 est.; ex-div today $0.06):**
+- **Ex-dividend Jul 10:** $0.06/share to record holders as of today; payable Jul 30 → price adjusts -$0.06 at open (trivial, ~0.02% impact)
+- No new material catalyst overnight
+- Score: **~45-55/100 UNCHANGED** | Structure broken ($245.29 low Jul 2); needs 8+ wk base rebuild → Oct 2026 at earliest | CFO liquidation ~50% holdings ongoing | **BLOCKED** (Correction + score + broken structure)
+
+**ARM (~$328-335 est., after +5% Jul 6 / partial pull in week):**
+- **Earnings Jul 29 AMC confirmed** (BusinessWire Jul 8 press release) | EPS est. $0.36 vs $0.35 YoY; Revenue est. $1.27B vs $1.05B YoY
+- Analyst bullish: UBS $470, TD Cowen $475, Mizuho $500
+- Valuation concern: 370.9× trailing P/E (elevated expectations baked in)
+- **ARM +5% on Jul 6** was the standout; no additional catalyst this week
+- Score: **60/100 UNCHANGED** | GAAP C-letter fail; 470× trailing P/E | **Entry blackout begins ~Jul 22 — ~8 trading days remaining** (academic only — 60/100 blocks entry regardless) | **BLOCKED**
+
+### Buy-zone readiness
+
+| Symbol | Last Known Close | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$198-200 est. | Not defined (cup, no handle) | N/A | 🔴 No pivot; Correction gate; score 70-72 |
+| MRVL | ~$250-255 est. | Broken (no base) | N/A | 🔴 Score 45-55; broken structure; Correction |
+| ARM | ~$328-335 est. | Not defined | N/A | 🔴 Score 60; earnings blackout Jul 22; Correction |
+| SH | — | Queued; Alpaca Day ~127 BLOCKED | — | ⏸️ QUEUED — execute on Alpaca restore |
+
+### Circuit breaker check
+- Alpaca API: BLOCKED (403 proxy Day ~127) — cannot pull live account state
+- Last confirmed: $2,500 equity (HWM) | 0 positions | 0 trades this week
+- Daily CB (Jul 10): ES +0.2% → no down session → CLEAR
+- Weekly CB (week of Jul 7): 0 trades, $0 P&L → CLEAR
+- Drawdown CB: $2,500 = HWM → 0% drawdown → CLEAR
+- **Circuit breakers: ALL CLEAR** (inferred)
+
+### Distribution day accounting
+- **Prior confirmed: 6/25** — Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23
+- **Jul 7 ⚠️ PROBABLE DIST DAY #7:** Dow −570+ (Iran ceasefire "over", oil +6%); S&P materially down on high-volume geopolitical shock; volume spike highly probable vs Jul 6 (which was a positive moderate-volume day). Alpaca blocked — cannot confirm. **Treating as probable dist day; est. 7/25.**
+- **Jul 8:** S&P "closes higher" from Jul 7 → NOT dist day ✅ (positive close)
+- **Jul 9:** S&P +0.81% → NOT dist day ✅ (positive close)
+- **Est. dist count: 7/25** (Jun 3, Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7⚠️) | Next expiry: Jun 3 → ~Aug 8
+- ⚠️ **Even with 7/25 (vs 6/25), market state UNCHANGED: Correction** — threshold is ≥6 dist days
+
+### State transition: NONE
+- 🔴 **CORRECTION UNCHANGED** | FTD window CLOSED | Rally low 7,266.99 intact (~276 pts margin, WIDENING ✅)
+- ES +0.2% today continues AWAY from 7,266.99 → no new Day 1 possible
+- FOMC hawkish (9-to-8 hike split) + 10yr at 4.58% = rate hike risk before year-end 2026 elevated → Correction posture appropriate
+
+### Week ahead (Jul 14 — MEGA CATALYST)
+- **Mon Jul 14:** ⚠️⚠️⚠️ **CPI June + Warsh congressional testimony + JPM Q2 earnings + GS Q2 earnings — ALL SAME DAY** | HOT CPI → additional dist day risk; yields spike; COOL CPI → potential relief rally but no FTD possible | JPM/GS as financial sector leaders — note XLF is RRG Lagging; do NOT chase earnings beats in XLF
+- **Jul 22:** ARM earnings blackout (~8 trading days — academic; score 60 blocks entry)
+- **Jul 29:** ARM earnings Q1 FY2027 AMC | NVDA earnings **~Aug 26**
+- **Alpaca restore:** SH $625 FIRST ORDER on restore (queued since Jun 5)
+
+### Actions
+- **NONE** — Correction + Alpaca Day ~127 BLOCKED + 0 candidates ≥75 + 0 positions
+- SH $625 / 25% portfolio: QUEUED — execute as FIRST order on Alpaca restore
+
+---
+
 ## 2026-07-07 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES −0.3% / NQ −0.9% PULLBACK AFTER ATH — SAMSUNG CHIP EARNINGS TODAY — FOMC MINUTES TOMORROW — ALPACA DAY 125 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 125; Perplexity: 403; AV: 403 — all three primary sources blocked; 14th consecutive week degraded mode)
