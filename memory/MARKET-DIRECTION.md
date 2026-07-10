@@ -6,10 +6,41 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 10 /pre-market 6:00 AM CT — 7/25 dist days confirmed (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8; Jun 3 expired Jul 9) — S&P CLOSE 7,543.64 +0.81% Jul 9 NOT dist ✅ — SOXX +5.2% chip surge — MRVL ex-div $0.06 TODAY — rally low 7,266.99 INTACT (+276 pts WIDENING) — 200d MA ~7,470 RECOVERED ✅ — FTD window CLOSED — Alpaca Day 131 BLOCKED — ES +0.2% muted — CPI Jul 14 MEGA CATALYST)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 10 /market-check 10:00 AM CT — 7/25 dist days CONFIRMED — S&P +0.09% intraday ~7,550 NOT dist day ✅ — NVDA +6% on China H200 access confirmed — rally low 7,266.99 INTACT (+283 pts) — FTD window CLOSED — Alpaca Day 131 BLOCKED)*
 
-**Last updated:** 2026-07-10 (Fri) — /pre-market 6:00 AM CT — **🔴 CORRECTION UNCHANGED — 7/25 DIST CONFIRMED — S&P CLOSE 7,543.64 Jul 9 +0.81% NOT DIST ✅ — JUN 3 EXPIRED → 7/25 ✅ — RALLY MARGIN ~276 PTS WIDENING ✅ — 200d MA RECOVERED — MRVL EX-DIV TODAY — ES +0.2% — ALPACA DAY 131 BLOCKED**
-**STATE:** 🔴 Market in Correction | **7/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8; Jun 3 expired Jul 9) | No new dist day today expected (ES +0.2%) | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally low 7,266.99 INTACT (S&P 7,543.64 = +276 pts / +3.81% above) | 200d MA ~7,470 → S&P +0.98% ABOVE ✅ | 50d MA ~7,415 → S&P +1.73% ABOVE ✅
+**Last updated:** 2026-07-10 (Fri) — /market-check 10:00 AM CT — **🔴 CORRECTION UNCHANGED — 7/25 DIST CONFIRMED — S&P +0.09% INTRADAY NOT DIST ✅ — NVDA +6% CHINA H200 CONFIRMED — RALLY MARGIN ~283 PTS WIDENING ✅ — ALPACA DAY 131 BLOCKED**
+**STATE:** 🔴 Market in Correction | **7/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8; Jun 3 expired Jul 9) | No new dist day today (S&P +0.09%) | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally low 7,266.99 INTACT (S&P ~7,550 est. = +283 pts / +3.90% above) | 200d MA ~7,470 → S&P +1.07% ABOVE ✅ | 50d MA ~7,415 → S&P +1.82% ABOVE ✅
+
+**✅ JUL 10 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P +0.09% INTRADAY ~7,550 NOT DIST ✅ — NVDA +6% CHINA H200 CONFIRMED — MRVL $243.27 POST EX-DIV — ARM ~$310-315 — 7/25 DIST UNCHANGED — ALPACA DAY 131 BLOCKED — 0 ACTIONS — FINAL DAY OF WEEK):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 131 BLOCKED | Perplexity 403 | AV 403
+- **S&P 500 intraday (~10:00 AM CT):** ~7,550 (+0.09% from 7,543.64 Jul 9 close) | Nasdaq −0.02% | Dow +0.31% | Russell 2000 +1.22% — mixed; muted end to week
+- **Distribution day check:** S&P +0.09% → POSITIVE → **NOT a dist day** ✅ | Dist 7/25 UNCHANGED
+- **Abort gates:**
+  - Correction (7/25 dist days) ✅ FIRED → NO new long entries
+  - Alpaca blocked (Day 131) ✅ FIRED → No execution
+  - Daily CB: $0 P&L → CLEAR ✅ | Weekly CB: $0 → CLEAR ✅ | Drawdown: $0 → CLEAR ✅
+  - Trades: 0/3 → CLEAR ✅ | Positions: 0/4 → CLEAR ✅ | Cash: 100% → CLEAR ✅
+  - **ALL ABORT GATES FIRED** (Correction + Alpaca) → NO TRADES
+- **Overnight gap follow-up:** 0 positions → SKIPPED
+- **Primary watchlist triggers:** NONE (0 candidates ≥75 — 15th consecutive week)
+- **Position health check:** 0 open positions → sell-rules-engine SKIPPED ✅
+- **Key market news today:**
+  - **NVDA +6%**: China H200 chip access confirmed — Beijing allowing Alibaba, ByteDance, DeepSeek to buy H200s. N-letter improvement. NVDA ~$204-207 intraday; prior close $202.78.
+  - **Meta +4%**: AI chip production announcement — target own AI chip by Sep 2026.
+  - **MRVL $243.27**: post ex-div $0.06 today; price action consistent with adjustment.
+  - **ARM ~$310-315 est.**: earnings blackout Jul 22 = **8 trading days** (moot; 60/100).
+  - **SK Hynix US IPO**: 7× oversubscribed — continued AI memory demand signal.
+  - **Oil stabilizing**: Iran tension ongoing but market shrugged.
+- **Bench score updates (10 AM CT):**
+  - NVDA: **72-74/100 ↑** (China H200 confirmed → N-letter improves +2-3pts; was 70-72) | Price ~$204-207 | Cup wk ~24; no handle; no pivot → NO PROMOTION (below 75 + Correction)
+  - MRVL: **~45-52/100 UNCHANGED** | Price $243.27 post ex-div | Broken base structure | **No promotion** ✅
+  - ARM: **60/100 UNCHANGED** | Price ~$310-315 est. | GAAP C-letter fail | Blackout **Jul 22 = 8 trading days** | **No promotion** ✅
+- **Bench promotion check:** No items within 2% of pivot (no pivot defined — all bench items lack completed bases). No demotions. Watchlist unchanged.
+- **Hedge status:** SH $625 / 25% portfolio — QUEUED — Alpaca Day 131 BLOCKED
+- **Actions: NONE** (Correction + Alpaca Day 131 BLOCKED + 0 positions + 0 candidates ≥75)
+- **Week closed:** 0/3 positions opened | $0 P&L | Equity $2,500 (HWM)
+- **⚠️ NEXT WEEK Jul 14 MEGA CATALYST:** CPI June + Warsh congressional testimony + JPM Q2 + GS Q2 — ALL MONDAY — HOT CPI = dist day #8+ risk; COOL = relief / potential FTD-path opener; XLF (RRG Lagging) — do NOT chase bank earnings
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day 131) | Perplexity 403 | AV 403
 
 **⏳ JUL 10 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.2% MUTED — MRVL EX-DIV $0.06 TODAY — 7/25 DIST CONFIRMED — CPI JUL 14 TRIPLE CATALYST — ALPACA DAY 131 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 131 BLOCKED | Perplexity 403 | AV 403

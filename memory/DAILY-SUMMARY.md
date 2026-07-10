@@ -3844,3 +3844,34 @@ Watching: NVDA 70-72 (Kyber denial +, cup wk 22 no handle); MRVL 45-55 (broken);
 Removed: none this week
 Key catalyst: ⚠️ CPI + Warsh + JPM + GS — ALL JUL 14 (Mon MEGA CATALYST)
 Plan: NO ENTRIES — Correction + Alpaca blocked + 0 candidates >=75. SH $625 QUEUED for Alpaca restore.
+
+---
+## 2026-07-10 15:16 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-10 10:00 CT (FINAL DAY OF WEEK)
+Market: 🔴 Correction 7/25 dist days | Circuit breakers: NONE
+Alpaca: BLOCKED Day 131 | Perplexity: 403 | AV: 403 | WebSearch: ✅
+
+Actions taken:
+  [No new entries — Correction gate (7/25 dist) + Alpaca Day 131 BLOCKED]
+  [No sells — 0 open positions]
+  [SH $625 hedge — QUEUED, awaiting Alpaca restore]
+
+Market data (10 AM CT, WebSearch):
+  S&P ~7,550 (+0.09%) — NOT dist day ✅ | Dist 7/25 UNCHANGED
+  Nasdaq −0.02% | Dow +0.31% | Russell 2000 +1.22% — mixed, muted end of week
+  NVDA +6% (~$204-207) — China H200 CONFIRMED (Alibaba/ByteDance/DeepSeek approved) 🚨
+  MRVL $243.27 — post ex-div $0.06 | ARM ~$310-315 est. — blackout Jul 22 (8 days)
+
+Bench scores (updated):
+  NVDA 72-74/100 ↑↑ (+2-4 pts — China H200 confirmed = N-letter improved)
+  MRVL ~45-52/100 UNCHANGED (broken structure) | ARM 60/100 UNCHANGED
+
+Watchlist status: 0 ready, 3 watching (NVDA/MRVL/ARM), 0 removed — 15th consecutive week with 0 candidates ≥75
+Open positions: 0 | Total deployed: 0% | Equity: $2,500 (HWM)
+Weekly trade count: 0 of 3 used (week closed)
+
+⚠️ NEXT WEEK JUL 14 MEGA CATALYST: CPI + Warsh testimony + JPM Q2 + GS Q2 — ALL MONDAY
+  HOT CPI = dist day #8 risk; COOL CPI = relief / FTD-path opener
+  XLF (RRG Lagging) — do NOT chase bank earnings
+Next check: /eod-review 3:15 PM CT | /weekly-review 3:30 PM CT

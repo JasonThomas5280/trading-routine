@@ -13869,3 +13869,109 @@ SEMICONDUCTOR SURGE / AI DEMAND CONFIRMATION. SK Hynix US IPO oversubscribed →
 ### Actions
 - **NONE** — Correction + Alpaca Day 130 BLOCKED + 0 candidates ≥75 + 0 positions
 - SH $625: QUEUED — execute as first order on Alpaca restore
+
+---
+
+## 2026-07-10 (Fri) — /market-check (10:00 AM CT — FINAL DAY OF WEEK)
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day 131; Alpha Vantage: 403 BLOCKED; Perplexity: 403 BLOCKED; all data via WebSearch)
+**Market direction:** 🔴 MARKET IN CORRECTION (7/25 dist days) | ALL LONG ENTRIES BLOCKED
+**data_confidence: websearch_fallback** — All live APIs unavailable.
+
+### Infrastructure status
+
+| System | Status | Impact |
+|---|---|---|
+| Alpaca broker API | ❌ 403 proxy reject (Day 131) | No live quotes, no order execution |
+| Alpaca data API | ❌ 403 proxy reject | No bars, no volume confirmation |
+| Alpha Vantage | ❌ 403 proxy reject | No fundamentals |
+| Perplexity | ❌ 403 blocked | No research synthesis |
+| Native WebSearch | ✅ functional | All data via fallback |
+| ClickUp | ✅ (placeholder mode) | Appending to DAILY-SUMMARY.md |
+
+### Abort gate check (ALL required to trade — first hit blocks)
+
+| Gate | Status | Result |
+|---|---|---|
+| Market direction | 🔴 CORRECTION (7/25 dist) | ❌ ABORT — no new longs |
+| Research degraded | websearch_fallback (Perplexity 403, WebSearch ✅) | ✅ Not fully degraded |
+| Daily circuit breaker | $0 P&L today | ✅ CLEAR |
+| Weekly circuit breaker | $0 P&L this week | ✅ CLEAR |
+| Drawdown halt | $0 from $2,500 HWM | ✅ CLEAR |
+| Weekly trade count | 0/3 used | ✅ CLEAR |
+| Position count | 0/4 | ✅ CLEAR |
+| Cash buffer | 100% | ✅ CLEAR |
+
+**RESULT: Correction gate fires → NO TRADES.**
+
+### Market data (10:00 AM CT — WebSearch)
+
+- **S&P 500:** ~7,550 intraday (+0.09% from 7,543.64 Jul 9 close) — **NOT a dist day** ✅
+- **Nasdaq:** −0.02% (flat)
+- **Dow:** +0.31%
+- **Russell 2000:** +1.22%
+- **10yr yield:** ~4.58% (unchanged — hawkish FOMC overhang)
+- **Character:** Mixed session. Semiconductor strength (NVDA +6%) vs. other sector weakness.
+
+### Distribution day check
+
+S&P +0.09% → positive → **NOT a distribution day** ✅
+Dist count: **7/25 UNCHANGED** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8)
+State transition: NONE. 🔴 Correction UNCHANGED.
+
+### Key market-moving news (Jul 10)
+
+- **CHINA H200 CONFIRMED (NVDA):** Beijing approving Alibaba, ByteDance, DeepSeek to purchase H200 chips. NVDA +6% intraday (~$204-207 from $202.78). China revenue path reopening vs. complete shutout. N-letter materially improves.
+- **Meta +4%:** Targeting production of own AI chip by September 2026.
+- **SK Hynix US IPO:** 7× oversubscribed — continued institutional demand for AI memory confirmed.
+- **Oil:** Stabilizing from Iran shock highs.
+
+### Overnight gap follow-up
+
+No open positions. SKIPPED.
+
+### Primary watchlist triggers
+
+**Primary list: NONE** (0 candidates ≥75 — 15th consecutive week). No triggers evaluated.
+
+### Position health check (sell-rules-engine)
+
+**0 open positions. SKIPPED.** ✅
+
+### Bench promotion check
+
+| Symbol | Price | Pivot | Distance | Action |
+|---|---|---|---|---|
+| NVDA | ~$204-207 | UNDEFINED (no handle) | N/A — no pivot | No promotion — no base complete |
+| MRVL | $243.27 | UNDEFINED (broken base) | N/A | No promotion — broken structure |
+| ARM | ~$310-315 est. | UNDEFINED | N/A | No promotion — below threshold + blackout Jul 22 |
+
+No items within 2% of pivot (no pivots defined — no complete bases). No demotions. Watchlist unchanged.
+
+### Bench score updates
+
+| Symbol | Score | Δ | Notes |
+|---|---|---|---|
+| NVDA | **72-74/100 ↑↑** | +2-4 | China H200 confirmed (Alibaba/ByteDance/DeepSeek approved) = N-letter from 7-9 → 10-12. Price ~$204-207. Cup wk ~24; no handle; no pivot. `China_H200_CONFIRMED_Jul10` |
+| MRVL | **~45-52/100** | UNCHANGED | $243.27 post ex-div $0.06. Structure broken. Needs 8+ wk base rebuild from $245 low. |
+| ARM | **60/100** | UNCHANGED | ~$310-315 est. GAAP C-letter fail. ⚠️ **Blackout Jul 22 = 8 trading days** (moot; 60/100 blocks entry regardless). |
+
+### Result
+
+**NO ENTRIES. NO EXITS. NO ACTIONS.**
+- Primary reason: 🔴 Market in Correction (7/25 dist days) — M-gate blocks ALL new longs
+- Secondary: Alpaca Day 131 BLOCKED — no execution regardless
+- Tertiary: 0 candidates ≥75 (15th consecutive week)
+
+**NVDA NOTE:** China H200 access confirmation is a meaningful positive for the bench thesis. Score now 72-74/100. Still below 75 threshold AND no base handle. When Correction clears + base handle forms + Alpaca restores → NVDA re-score priority. Monitor Aug 2026 earnings closely.
+
+### Week closed (Jul 7-10)
+
+- **Trades:** 0/3
+- **P&L:** $0 (0.00%)
+- **Equity:** $2,500.00 (HWM)
+- **Dist days added this week:** 2 (Jul 7 #7, Jul 8 #8 CONFIRMED; Jun 3 expired Jul 9 → net 7/25)
+- **Next routine:** /eod-review 3:15 PM CT | /weekly-review 3:30 PM CT (Fri)
+- **⚠️ NEXT WEEK: Jul 14 MEGA CATALYST** — CPI June + Warsh testimony + JPM Q2 + GS Q2 (ALL MONDAY). HOT CPI = dist day #8 risk; COOL = relief / FTD-path opener.
+
+`research_source: websearch_fallback` | Alpaca BLOCKED (Day 131) | Perplexity 403 | AV 403
