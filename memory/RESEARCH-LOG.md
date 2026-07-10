@@ -13975,3 +13975,120 @@ No items within 2% of pivot (no pivots defined — no complete bases). No demoti
 - **⚠️ NEXT WEEK: Jul 14 MEGA CATALYST** — CPI June + Warsh testimony + JPM Q2 + GS Q2 (ALL MONDAY). HOT CPI = dist day #8 risk; COOL = relief / FTD-path opener.
 
 `research_source: websearch_fallback` | Alpaca BLOCKED (Day 131) | Perplexity 403 | AV 403
+
+---
+
+## 2026-07-10 (Fri) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P ~7,550 EST. NOT DIST DAY ✅ — QQQ ~$719 EST. LIGHT VOL — 7/25 UNCHANGED — NVDA $209.14 +3.1% CHINA H200 — WEEK CLOSED 0/3 — ALPACA DAY 131 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 Day 131 BLOCKED; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **7/25 distribution days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8; Jun 3 expired Jul 9) | FTD window CLOSED | Rally low 7,266.99 INTACT (~284 pts WIDENING)
+**Weekly trades:** 0/3 (WEEK CLOSED) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+### Close: S&P 500 + QQQ (Jul 10 — estimates, Alpaca blocked)
+
+| Index | Close (est.) | Change (est.) | Dist Day? |
+|---|---|---|---|
+| S&P 500 | ~7,550 est. | ~+0.09% to +0.5% | ❌ No (positive close) |
+| Nasdaq Composite | ~flat | ~−0.02% to +0.3% | ❌ No |
+| Dow Jones | ~52,478 | +0.3% | ❌ No |
+| Russell 2000 | — | +1.22% | N/A |
+| QQQ | ~$719.01 est. | ~flat | ❌ No (volume below avg) |
+
+**Data confidence:** WebSearch fallback — exact close prices not confirmed (Alpaca/AV/Perplexity all 403). NVDA confirmed $209.14 +3.1% via search. QQQ ~$719 with range $711.97–$724.23 and vol 33.6M vs 30d avg 41.8M (below avg).
+
+**Distribution day check (Jul 10):** S&P positive → **BELOW −0.20% threshold → NOT a distribution day** ✅ | QQQ volume below 30d avg → volume gate FAILS → NOT a distribution day ✅
+**Dist count: 7/25 UNCHANGED** | Active: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8
+**State: 🔴 CORRECTION UNCHANGED**
+
+### Sell-rules-engine results
+
+0 open positions → **SKIPPED** ✅ (no active positions to evaluate)
+
+### Distribution day assessment
+
+- S&P ~7,550 est. → positive → NOT dist day ✅
+- QQQ ~$719 est. → volume ~33.6M vs 30d avg ~41.8M → **BELOW average** → NOT dist day ✅
+- **Dist count: 7/25 UNCHANGED** ✅
+- **State: CORRECTION UNCHANGED** ✅
+- No expiry today (Jun 3 already expired Jul 9)
+
+### Rally attempt update
+
+S&P ~7,550 est. vs rally low **7,266.99** (Jun 10) → margin ~**284 pts (~3.90%)** → rally attempt **INTACT ✅ WIDENING**
+Trend: 152 pts (Jul 8 crisis intraday low) → 276 pts (Jul 9 close) → ~284 pts (Jul 10 est.) — buffer expanding each session ✅
+
+### Portfolio-level checks
+
+- Dist 7/25 — no new threshold crossed ✅
+- 0 positions ✅
+- Hedge: SH $625 QUEUED | Alpaca Day 131 BLOCKED ✅
+- Distribution cluster rule (Rule 4): 7/25 — already in Correction posture; no new action triggered ✅
+
+### Session narrative
+
+Constructive close to a volatile week. Key drivers:
+- **NVDA +3.1% ($209.14):** Gave back some morning gains (peaked +6%) but held major China H200 catalyst — Beijing approving H200 purchases by Alibaba, ByteDance, DeepSeek. N-letter improvement confirmed.
+- **Meta +4%:** Own AI chip production target Sep 2026; 14 GW compute target 2027.
+- **SK Hynix US IPO:** Debuted strongly (7× oversubscribed pre-IPO); confirmed institutional AI memory demand.
+- **Micron:** Expanded US investment plan from $170B to $250B through 2035 ($3B GlobalWafers deal).
+- **Rotation:** Russell 2000 +1.22%, Dow +0.31% — value/small-cap outperformed tech on the close.
+- **Volume:** Light (QQQ ~20% below 30d avg) — typical for end of week before major catalyst week.
+- **Oil:** Stabilizing from Iran shock highs — less geopolitical premium.
+
+### Bench status update (Jul 10 close)
+
+| Symbol | Score | EOD close | Change | Promotion? |
+|---|---|---|---|---|
+| NVDA | **72-74/100 ↑** | $209.14 | +3.1% | ❌ No pivot (cup no handle); Correction gate; score barely below 75 |
+| MRVL | **~45-52/100** | ~$243 est. | (ex-div $0.06 today — minor adj.) | ❌ Broken base; needs 8+ wk rebuild |
+| ARM | **60/100** | ~$310-315 est. | est. | ❌ GAAP C-letter fail; blackout Jul 22 = 8 days |
+
+**Bench promotions/demotions: NONE.** Correction blocks all entries regardless of score.
+
+**NVDA note:** China H200 confirmation is the largest positive catalyst in months. Score now 72-74/100. If Correction clears (FTD) + base handle forms + Alpaca restores → NVDA re-score will be first priority. Aug 26 Q2 earnings are critical — watch for any blackout approach (entry window closes ~Aug 19, ~5 weeks away).
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR ($0 P&L, 0 positions) |
+| Weekly -6% | ✅ CLEAR ($0 P&L week) |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day 131 (SH $625 still queued) |
+
+### Actions taken
+
+**NONE.** Correction + Alpaca BLOCKED + 0 positions + 0 primary watchlist items (15th consecutive week).
+
+### Week of Jul 7-10 — CLOSED
+
+| Item | Value |
+|---|---|
+| New positions | 0/3 |
+| Sells | 0 |
+| P&L | $0 (0.00%) |
+| Equity | $2,500.00 (HWM) |
+| Dist days added | +2 (Jul 7 #7, Jul 8 #8); Jun 3 expired Jul 9 → net +1 vs prior week |
+| Dist count | 7/25 (from 6/25) |
+| Key events | Jul 7: Iran ceasefire "over" Dow −570+ (dist #7) | Jul 8: FOMC hawkish 9-to-8 (dist #8) + 200d MA breach | Jul 9: Chip recovery SOXX +5.2% / Jun 3 expired (8→7/25) | Jul 10: China H200 confirmed / NVDA +3.1% / SK Hynix IPO |
+
+### ⚠️ Watch at /weekly-review 3:30 PM CT (today Fri)
+
+1. **Week postmortem:** 15 consecutive weeks 0/3 trades — all blocked by Correction + Alpaca
+2. **Market thesis update:** China H200 confirmation = meaningful N-letter improvement for NVDA; monitor whether this marks inflection in AI regulation sentiment
+3. **NVDA score:** 72-74/100 — nearest to 75 threshold; re-score priority when Correction clears
+4. **SH $625 hedge logic:** Still valid (7/25 Correction active); re-evaluate timing with Alpaca restore
+
+### ⚠️ NEXT WEEK — JUL 14 TRIPLE CATALYST (HIGHEST RISK OF Q3)
+
+1. **🔴 CPI June 2026 (Tue Jul 14, 8:30 AM ET):** HOT = dist day #8 risk + 200d MA re-test + rally low pressure; COOL = potential relief / FTD-path opener; prior reading: 3.8% YoY
+2. **⚠️ Warsh congressional testimony (Tue Jul 14):** Senate Banking Committee; hawkish signal = volatility
+3. **⚠️ JPM Q2 earnings (Tue Jul 14 pre-mkt):** XLF is RRG Lagging — do NOT chase bank beats
+4. **⚠️ GS Q2 earnings (Tue Jul 14 pre-mkt):** Same caution
+5. **ARM blackout: Jul 22** (8 trading days — moot; 60/100 blocks entry regardless)
+6. **NVDA Q2 earnings: Aug 26** (5+ weeks away; no blackout concern yet)
+7. **Alpaca restore: SH $625 FIRST ORDER on restore** — Correction posture demands hedge
+
+`research_source: websearch_fallback` | Alpaca BLOCKED (Day 131) | Perplexity 403 | AV 403
+

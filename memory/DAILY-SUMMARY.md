@@ -3875,3 +3875,29 @@ Weekly trade count: 0 of 3 used (week closed)
   HOT CPI = dist day #8 risk; COOL CPI = relief / FTD-path opener
   XLF (RRG Lagging) — do NOT chase bank earnings
 Next check: /eod-review 3:15 PM CT | /weekly-review 3:30 PM CT
+
+---
+## 2026-07-10 20:23 CT [clickup-placeholder]
+
+📊 EOD 2026-07-10 (Fri) | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions, 100% cash | Market: 🔴 CORRECTION (7/25 dist days)
+Distribution days: 7/25 UNCHANGED (today NOT dist day ✅)
+Rally low 7,266.99 INTACT (~284 pts WIDENING) | FTD window: CLOSED
+
+Close (est. — Alpaca Day 131 blocked):
+  • S&P ~7,550 est. (+0.09%–+0.5%) | QQQ ~$719 est. (light volume)
+  • NVDA $209.14 +3.1% (China H200 confirmed ✅ — N-letter ↑)
+  • Meta +4% (own AI chip Sep 2026) | Russell +1.22% (value rotation)
+
+Sell-rules-engine: SKIPPED (0 positions)
+Actions today: NONE (Correction + Alpaca blocked + 0 candidates ≥75)
+SH $625 hedge: QUEUED — execute FIRST on Alpaca restore
+
+WEEK CLOSED (Jul 7-10): 0/3 trades | $0 P&L | 15th consecutive week 0/3
+
+⚠️ NEXT WEEK — JUL 14 TRIPLE CATALYST (highest risk of Q3):
+  • CPI June (8:30 ET) — HOT = dist #8 risk; COOL = FTD path opener
+  • Warsh congressional testimony + JPM Q2 + GS Q2 (ALL MONDAY)
+  • ARM blackout: Jul 22 (8 days — moot; score 60)
+  • NVDA Q2 earnings: Aug 26 (no blackout concern yet)
+  • Alpaca restore: SH $625 FIRST ORDER
