@@ -3901,3 +3901,54 @@ WEEK CLOSED (Jul 7-10): 0/3 trades | $0 P&L | 15th consecutive week 0/3
   • ARM blackout: Jul 22 (8 days — moot; score 60)
   • NVDA Q2 earnings: Aug 26 (no blackout concern yet)
   • Alpaca restore: SH $625 FIRST ORDER
+
+---
+## 2026-07-10 20:42 CT [clickup-placeholder]
+
+### Week ending 2026-07-10
+
+## FireLit Swing — Weekly Review: Week ending 2026-07-10
+
+**Week:** Jul 6–10, 2026 | **Week #:** 13 | **State:** 🔴 Market in Correction
+
+---
+
+### Performance
+- Equity: $2,500.00 → $2,500.00 | Return: 0.00% | SPY: ~+0.89% | Alpha: ~−0.89%
+- Trades: 0/3 (13th consecutive 0-trade week) | W:L: N/A | HWM: $2,500 (maintained)
+- Alpaca: BLOCKED Day 131 | Perplexity: 403 | AV: 403
+
+### Rule Adherence: 100/100
+- No violations. All Correction gates honored. No conviction workarounds.
+
+### Market Direction
+- Start: 🔴 Correction 6/25 → End: 🔴 Correction 7/25 (+1 net)
+- Jul 7 DIST #7 (Iran ceasefire 'OVER' — Dow −570+, oil +6%)
+- Jul 8 DIST #8 (FOMC hawkish minutes: 9-to-8 split — S&P −0.61%, 200d MA breached)
+- Jul 9 recovery (+0.81%), Jun 3 expired → 7/25; 200d MA recovered
+- Jul 10 NVDA +3.1% China H200 confirmed; Russell +1.22%; muted close
+- FTD window CLOSED. Rally low 7,266.99 INTACT (+284 pts / +3.90%)
+
+### Bench Scores (Jul 10)
+- NVDA: 72-74/100 ↑ (China H200 → N-letter improved; cup wk ~24, no handle, Aug 2026+)
+- MRVL: ~45-52/100 ⬇️⬇️ (broken structure; 8+ wk rebuild; CFO liquidation)
+- ARM: 60/100 (GAAP fail; blackout Jul 22)
+- LRCX: REMOVED permanently
+
+### Lessons
+1. **Research:** Intraday recovery articles can mask a negative close when FOMC minutes fire at 1 PM ET. Tag AFTERNOON_CATALYST sessions for explicit EOD verification.
+2. **Market:** Back-to-back distribution days (Iran + FOMC) can cluster in 48 hrs. Rally low intact = survivable. Rally low broken = capitulation.
+3. **Bench:** China H200 improves NVDA N-letter but does NOT accelerate the base-pattern requirement. 72-74/100 is still below 75. Patience unchanged.
+
+### Proposed Rule Changes
+- Proposal 19: Afternoon Catalyst EOD verification protocol (NEW)
+- Proposals 1–18 from prior weeks: All pending Jason approval
+
+### Next Week Setup
+- ⚠️⚠️ JUL 14 TRIPLE CATALYST (HIGHEST RISK OF Q3): CPI June + Warsh testimony + JPM Q2 + GS Q2 — ALL MONDAY
+- HOT CPI → DIST #8 risk + 200d MA re-test | COOL CPI → relief rally / FTD-path opener
+- XLF RRG Lagging — do NOT chase bank earnings beats
+- ARM blackout Jul 22 (moot at 60/100)
+- SH $625 QUEUED — execute as FIRST order on Alpaca restore
+- Conviction posture: 0 entries until Correction clears via FTD
+- Emotional state: DISCIPLINED. Capital $2,500 intact. Watching for FTD + Alpaca restore + NVDA handle.

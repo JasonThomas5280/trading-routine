@@ -1365,3 +1365,201 @@ Priority ranking this week:
   - **Jun 30 economic data:** Check for any ISM Manufacturing (Jul 1), JOLTS, or other macro data that could serve as dist day catalyst
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, **3/3 weekly trade slots available (ALL blocked by Correction)**. SH hedge $625 QUEUED — Alpaca Day 111 BLOCKED. Capital at HWM since inception.
 - **Emotional state check:** DISCIPLINED and CORRECTLY POSITIONED. Eleven consecutive 0-trade weeks. This week's +1.59% alpha (cash outperformed declining market by sitting flat) continues the pattern of Week 8 (S&P −1.76%) where the strategy's conservative Correction posture was rewarded. The MU MASSIVE BEAT validated the AI demand thesis for semis — the sector WILL produce trading opportunities. But the market needs to confirm a new uptrend via FTD, and Alpaca needs to be restored, before we can participate. The accumulating proposal backlog (17 proposals, all pending Jason approval) is the only non-disciplined element of the system — these refinements would make the strategy materially more robust. No FOMO, no revenge trading, no "just this once" entries. Cash is the position. The next Confirmed Uptrend + Alpaca restore will be worth waiting for.
+
+---
+
+## Week ending 2026-07-03 (Holiday — abbreviated)
+
+> **Context:** Week 12 of live operation. Alpaca API blocked Day 112–119 (3 trading sessions — Jun 30, Jul 1, Jul 2). Jul 3 observed Independence Day holiday (markets closed); Jul 4 Independence Day (closed). **3-session trading week only.** Perplexity + Alpha Vantage blocked same IP allowlist issue. All research via WebSearch fallback. Zero trades executed. Market: 🔴 Correction (6/25 dist days) UNCHANGED entire week — no new distribution days added; Q2/EOM rebalancing risk cleared. S&P 7,354.02 (Jun 26 close) → 7,483.24 (Jul 2 final close) = **+1.77%** — cash missed the EOM rally. Weekly review skipped on Friday Jul 4 (holiday); abbreviated entry added retroactively at Jul 10 /weekly-review.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Jun 30 open — carry-in from Week 11)
+- Ending equity: $2,500.00 (Thu Jul 2 final close — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 7,354.02 Jun 26 → 7,483.24 Jul 2 = **+1.77%** → **−1.77% alpha — missed EOM rally in Correction posture**)
+- Trades taken: **0** (max 3/week, used 0 — **twelfth consecutive 0-trade week**)
+- Winners: 0 | Losers: 0 | W:L ratio: N/A | Largest winner: N/A | Largest loser: N/A
+- **Root causes of zero trades:**
+  1. Alpaca API 403 blocked all 3 sessions (Day 112–119) — execution hard-halted
+  2. Market state: 🔴 Correction all 3 sessions — all new long entries blocked
+  3. Zero candidates ≥75 conviction score: MRVL **74-76/100 ⬇️ invalidated Jul 2** (broke $252 support; V-recovery thesis DEAD; analyst downgrade to Hold; CFO liquidating ~50% of holdings); LRCX **REMOVED** (−18.9% in 2 days + triple insider selling + earnings blackout Jul 22 = permanent block); NVDA 69-70/100; ARM 60/100
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted | Adherence score: **100/100** *(no trades = no violations)*
+- Any -7% stops hit? **N/A** | Mental stops? **N/A** | Amateur hour entries? **NO**
+- Circuit breakers triggered? **NONE** (daily -3%, weekly -6%, drawdown -12%, PDT — all CLEAR)
+
+### Market Direction Accuracy
+
+- M state: **🔴 Market in Correction** (6/25 dist days throughout — UNCHANGED)
+
+| Date | S&P Close | Change | Dist Day? | Count | Notes |
+|---|---|---|---|---|---|
+| Jun 29 (Mon) | 7,417.45 | +0.86% | **NO** | 6/25 | DOW 52K first-ever; GOOGL joins Dow; TSLA +8.06%; LRCX +6.62%; MRVL −4.97% ⚠️ RS warning ✅ |
+| Jun 30 (Tue) | ~7,440 act. | +0.31% | **NO** | 6/25 | Q2/EOM dist risk CLEARED; Semi +3.6%; best Q2 in 6 yrs ✅ |
+| Jul 1 (Wed) | 7,499.36 | +0.80% | **NO** | 6/25 | DOW NEW ATH 52,319; NASDAQ +1.5%; volume avg → NOT dist ✅ |
+| Jul 2 (Thu) | 7,483.24 | −0.215% | **NO** | 6/25 | Volume LOWER than prior day (confirmed) → below dist threshold ✅ SPY near session low — bearish reversal character but NOT dist |
+| Jul 3 (Fri) | **CLOSED** | N/A | N/A | 6/25 | Independence Day observed — US markets closed |
+
+- Accuracy: **CLEAN** — 6/25 dist count held correctly all week. Jul 2 bearish reversal (-0.215%) correctly NOT counted (volume lower). No missed distribution days.
+- Key structural concern: MRVL broke $252 support Jul 2 — V-recovery thesis FULLY INVALIDATED. Score crashed 74-76 → ~45-52/100.
+- LRCX permanent removal: −18.9% in 2 days + triple insider selling (CEO+Director+SVP simultaneously) + earnings blackout Jul 22 = REMOVED from bench entirely (entry window permanently closed).
+
+### Lessons (Holiday Week — Abbreviated)
+
+**Lesson 1 — Strategy: MRVL's rapid score collapse (74-76 → 45-52 in one week) validates holding the 75 conviction floor with no exceptions.**
+MRVL sat just below the 75 threshold throughout the prior weeks. It never reached 75 with full live data. Now: CFO liquidating ~50% of holdings, analyst downgrade to Hold, $252 support breached, V-recovery completely invalidated. If the threshold had been "bent" to 74 for MRVL, that would be a realized −20%+ loss. The floor held for the right reason.
+
+**Lesson 2 — Strategy: LRCX's triple insider selling (CEO + Director + SVP simultaneously) is the clearest possible I-letter red flag.**
+All three sold within a narrow window ahead of an −18.9% two-day collapse. Simultaneous multi-tier insider selling is an institutional-quality signal that the company's own leadership has lost confidence. The I-letter penalty for this should be maximum. Add to /pre-market watchlist scan: any triple-tier simultaneous insider selling is an immediate REMOVE from bench, regardless of other scores.
+
+### Proposed Rule Changes
+
+**Proposal 18 — NEW: Triple-tier simultaneous insider selling → immediate bench removal.**
+When CEO + a Director + another officer sell within the same 2-week rolling window (verifiable via SEC Form 4 or websearch), flag `⚠️ TRIPLE_INSIDER_SELL` and remove from bench immediately, regardless of other scores. Rationale: LRCX's signal was clear in advance of the collapse. Individual insider selling (normal diversification) is discounted in the I-letter; multi-tier simultaneous selling is a qualitatively different signal.
+Status: **NEW — pending Jason approval.**
+
+### Next Week Setup (entering Jul 7-10)
+
+- Market: 🔴 Correction 6/25 dist. S&P 7,483.24 barely above 200d MA (~7,470). FTD CLOSED. FOMC minutes release Thu Jul 10 risk. CPI Jun 10 (correction: CPI Jul 14). ARM blackout Jul 22. First order on Alpaca restore: SH $625.
+- Bench: NVDA 69-70/100, MRVL 45-52/100 (needs 8+ wk base rebuild), ARM 60/100, LRCX REMOVED.
+
+---
+
+## Week ending 2026-07-10 (Fri)
+
+> **Context:** Week 13 of live operation. Alpaca API blocked Day 120–131 (all 5 sessions — Day 131 at Friday close; 26+ consecutive weeks blocked). Perplexity + Alpha Vantage blocked same IP allowlist issue. All research via WebSearch fallback — **13th consecutive week of full fallback mode.** Zero trades executed. Market: 🔴 Correction throughout; distribution count rose from 6/25 → 7/25 (net: +2 new dist days Jul 7 + Jul 8; −1 Jun 3 expired Jul 9 = net +1). Key events: Jul 7 DIST #7 (Iran ceasefire "OVER" — Dow −570+, oil +6%); Jul 8 DIST #8 (FOMC hawkish minutes: 9-to-8 Fed split on rate hike, S&P −0.61% to 7,458, 200d MA breached); Jul 9 recovery (+0.81%, Jun 3 expired → 7/25, 200d MA recovered); Jul 10 NVDA +3.1% (China H200 confirmed: Alibaba/ByteDance/DeepSeek approved). No actions taken. S&P 7,483.24 (Jul 2) → ~7,550 (Jul 10 est.) ≈ +0.89% for the week. ⚠️ NEXT WEEK: CPI June + Warsh congressional testimony + JPM Q2 + GS Q2 ALL MONDAY JUL 14 — highest single-day risk of Q3.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Jul 7 open — carry-in from Week 12)
+- Ending equity: $2,500.00 (Fri Jul 10 — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 7,483.24 Jul 2 → ~7,550 Jul 10 est. = **~+0.89%** → **~−0.89% alpha — missed rally in correct Correction posture**)
+- Trades taken: **0** (max 3/week, used 0 — **thirteenth consecutive 0-trade week**)
+- Winners: 0 (avg N/A) | Losers: 0 (avg N/A) | Winner:loser ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Cumulative alpha since inception (13 weeks): approx. −1.77% vs SPY** (prior −1.86% through Week 12; this week −0.89% but the prior holiday week math carries; overall approximately −2–3% cumulative underperformance vs buy-and-hold, but correct CAN SLIM posture in a 7/25-dist Correction)
+- **Root causes of zero trades (ranked by severity):**
+  1. Alpaca API 403 blocked all 5 sessions (Day 120–131) — execution hard-halted per TRADING-STRATEGY.md
+  2. Market state: 🔴 Correction (6→7/25 dist days) — ALL new long entries blocked
+  3. Zero candidates ≥75 conviction: NVDA 72-74/100 (↑ China H200 improved N-letter; still below 75), MRVL ~45-52/100 (severe downgrade — broken structure), ARM 60/100, LRCX REMOVED
+  4. SH $625 hedge still QUEUED — Alpaca Day 131 BLOCKED
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any −7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries during Correction? **NO** — gates correctly honored all 5 sessions
+- Any entries on Alpaca-blocked sessions? **NO** — rule honored (13th consecutive week)
+- Any conviction-score workarounds? **NO** — NVDA held at 72-74/100 (below 75); no promotions despite China H200 catalyst
+- Circuit breakers triggered? **NONE** (daily -3%, weekly -6%, drawdown -12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(thirteenth consecutive perfect score — no trades = no violations. Structurally uninformative until execution infrastructure restored. Key behavioral validation: NVDA improved to 72-74/100 on China H200 — score gate correctly held even as sentiment turned bullish.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🔴 Market in Correction** (6/25 dist days: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jun 3)
+- M state at week end: **🔴 Market in Correction** (7/25 dist days: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8)
+
+| Date | S&P Close | Change | Dist Day? | Running Count | Notes |
+|---|---|---|---|---|---|
+| Jul 6 (Mon) | ~7,537 est. | +0.72% | **NO** | 6/25 | ISM Services 54.0 BEAT. Dow NEW ATH 53,055.91. S&P +0.72%. Rally day. NOT dist ✅ |
+| Jul 7 (Tue) | ~7,504 est. | ~−0.44% | **YES — DIST #7** | 7/25 | Trump: Iran ceasefire "OVER" at NATO summit. Dow −570+. Oil +6%. S&P −0.44% on heavy vol → DIST #7 ✅ |
+| Jul 8 (Wed) | 7,458 | −0.61% | **YES — DIST #8** | 8/25 | FOMC June minutes: 9-to-8 Fed split on rate hike. 200d MA (~7,470) BREACHED. S&P −0.61% confirmed (initial websearch estimate "positive/NOT dist" — corrected next AM) → DIST #8 ✅ |
+| Jul 9 (Thu) | 7,543.64 | +0.81% | **NO** | 7/25 | Market rallied on chip sector +5.2% (SOXX). SK Hynix US IPO 7× oversubscribed. Jun 3 dist expired → 7/25. NOT dist ✅ |
+| Jul 10 (Fri) | ~7,550 est. | ~+0.09% | **NO** | 7/25 | NVDA +3.1% (China H200 confirmed). MRVL ex-div $0.06. Russell 2000 +1.22%. QQQ volume below 30d avg → NOT dist ✅ |
+
+- **Dist day math:** Start 6/25 + Jul 7 (#7) + Jul 8 (#8) − Jun 3 expired (Jul 9) = **7/25** ✅
+- **⚠️ DATA ACCURACY FAILURE — Jul 8:** Initial /market-check websearch estimated "S&P recovered; closes higher; NOT dist day." Actual confirmed: S&P −0.61% to 7,458, 200d MA breached — DIST #8. The error was caught the next morning (Jul 9 /pre-market). This is the Nth websearch index-close estimation error — the pattern of getting the direction wrong on low-conviction days persists.
+- **200d MA breach (Jul 8):** S&P closed below 200d MA (~7,470) — a bearish technical event. Recovered above 200d MA Jul 9 (+0.81%). Not a new state trigger but reinforces Correction fragility.
+- **FTD status:** CLOSED (requires new Day 1 = S&P close below 7,266.99 rally low). With S&P ~7,550, that's 283 pts away — not in play.
+- Any missed distribution days? **None confirmed** — Jul 6 and Jul 9-10 all correctly excluded.
+- Accuracy verdict: **CLEAN — all final state calls correct.** One intraday estimation error (Jul 8) corrected before next session; no incorrect state transitions taken.
+
+### Sector Performance
+
+- Sectors traded: **NONE** (no trades — Correction)
+- Sector highlights this week:
+  - **XLK Technology / Semis:** Week of extremes. Jul 7: chip selloff on Iran shock. Jul 8: 200d MA breach. Jul 9: SOXX +5.2% on SK Hynix IPO signal. Jul 10: NVDA +3.1% on China H200 confirmation. Net: semis recovering; AI demand thesis reinforced. But no entries (Correction + scores below 75).
+  - **XLE Energy:** Iran ceasefire "OVER" drove oil +6% Jul 7. XLE strongest sector that day. But oil stabilized quickly — XLE rally reversed by week end. No tradeable entries (no valid bases; Correction).
+  - **XLI Industrials:** Held steady through Iran shock and FOMC disruption. Best risk-adjusted sector in the Correction.
+  - **XLF Financials:** RRG Lagging — downgraded from prior sector rotation. Q2 earnings upcoming (JPM/GS Jul 14) — do NOT chase bank beats in a Lagging sector.
+  - **XLP Consumer Staples:** Emerging defensive bid. RRG Leading. Top-3 this week in relative strength.
+- **4-week sector RS (updated):** 1. XLE Energy 2. XLI Industrials 3. XLP Consumer Staples. Avoid: XLK (Correction + rate headwind), XLF (RRG Lagging), XLC, XLY.
+- Sectors to blacklist: **None** (zero trade history — 2-consecutive-fail rule has no inputs)
+
+### Conviction Correlation
+
+- Trades with conviction ≥85: 0 — N/A
+- Trades with conviction 75–85: 0 — N/A
+- Sub-threshold correctly blocked:
+  - NVDA: **72-74/100 ↑** (China H200 confirmed → N-letter +2-3pts; was 70-72/100 entering week). Cup wk ~24; no handle; no valid pivot; Aug 2026+ earnings (Aug 27). Correctly BLOCKED (below 75 + Correction).
+  - MRVL: **~45-52/100 UNCHANGED** — broken structure; $245.29 low post Jul 2 collapse; 8+ wk base rebuild needed; CFO liquidating ~50% of holdings. Not actionable.
+  - ARM: **60/100 UNCHANGED** — GAAP C-letter fail (non-GAAP does not qualify); ⚠️ earnings blackout Jul 22 (8 trading days away — moot at 60/100 regardless). Not actionable.
+  - LRCX: **REMOVED** — permanently off bench (−18.9% in 2 days Jun 30-Jul 2; triple insider selling CEO+Dir+SVP; AI capex peak narrative; earnings blackout Jul 22 permanently closes entry window).
+- **13th consecutive week with zero candidates ≥75.** NVDA improved to 72-74 — closest any candidate has been to threshold since inception. Score discrimination functioning correctly. China H200 confirmation moves NVDA materially closer to actionability — but the cup needs a handle (~Aug 2026) before any entry can be considered.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked Day 120–131 — 13th consecutive 0-perplexity week)
+- Sessions on websearch_fallback: **~15** (5 days × 3 routines)
+- Sessions DEGRADED: **0** (WebSearch consistently available)
+- Research source for trades placed: **N/A**
+- **Data quality event this week — Jul 8 direction error:**
+  - Jul 8 /market-check: estimated "S&P recovered; chip stocks rose, oil slid; NOT dist day." Reported close ~7,482.71 positive.
+  - Jul 9 /pre-market (confirmed): S&P Jul 8 actual close 7,458 (−0.61%). FOMC hawkish minutes released → 200d MA breached → DIST #8. Estimate was wrong by ~0.61pp AND wrong direction.
+  - Root cause: WebSearch retrieved chip stock recovery stories (true during mid-session) but the close was a net down day driven by FOMC minutes (released 1 PM ET — after many market-check web articles were published). Intraday narrative ≠ closing price.
+  - Impact: Low (Alpaca blocked + Correction = no entries possible). But misclassification stood for ~18 hours before being corrected.
+  - Pattern: This is the 5th confirmed index-close estimation error across 13 weeks. Proposal 12 (date-explicit EOD query) would reduce but not eliminate this.
+- Positive: China H200 confirmation for NVDA captured accurately and promptly at /market-check Jul 10. N-letter score improvement (+2-3 pts) was correctly attributed with the right caveats.
+
+### Lessons
+
+**Lesson 1 — Research: Intraday recovery narratives published before market close can mask a negative closing price — especially on FOMC-minutes days when the dominant catalyst hits at 1 PM ET.**
+Jul 8: Chip stocks recovered mid-session (Iran shock faded, oil slid). Multiple news articles published at 11 AM–1 PM CT described the market as "recovering." WebSearch pulled these articles at /market-check (10 AM CT / retrieved data from earlier), estimated a positive close. The FOMC June minutes released at 1 PM ET (2 PM ET) revealed the 9-to-8 rate hike split — market sold off the final 90 minutes. Close: −0.61%. The intraday snapshot was accurate; the EOD estimate was wrong because the key catalyst fired after the typical "recovery" articles.
+Fix: When a known scheduled catalyst releases after /market-check (FOMC minutes, Fed speakers, afternoon data drops), add an explicit evening EOD verification step with a direct query for the actual closing price. Tag "⚠️ AFTERNOON_CATALYST — EOD PRICE UNCONFIRMED UNTIL EVENING QUERY."
+
+**Lesson 2 — Market: The Iran ceasefire collapse (Jul 7) and FOMC hawkish minutes (Jul 8) in back-to-back sessions demonstrates that geopolitical shocks and policy shocks can cluster, compressing distribution days into a narrow window.**
+Two distribution days in two sessions (Jul 7 and Jul 8) — the fastest the count has increased in this cycle. The Iran shock came from a completely unexpected geopolitical reversal (ceasefire declared "OVER" at NATO summit). The FOMC hawkish shock came from a confirmed policy split (9-to-8 on rate hike). Neither was fully priced. Takeaway: during a Correction, the market is fragile and susceptible to dual-shock clustering. A back-to-back pair of distribution days can be survivable (as this was — the market recovered strongly Jul 9–10) OR can signal capitulation into a deeper Correction (if the rally low 7,266.99 had been breached). The line between "cluster shock + recovery" and "cluster shock + deeper sell" is the rally low. The 7,266.99 low INTACT at +284 pts away by Jul 10 is the key structural positive.
+
+**Lesson 3 — Bench: NVDA's China H200 confirmation (Jul 10) materially improves the N-letter but does not change the cup timeline. A catalyst improving an intermediate letter score does not accelerate the base-pattern requirement.**
+China's approval for Alibaba, ByteDance, and DeepSeek to purchase H200 chips reopens a revenue path that was effectively $0 (China represented ~32% of 2024 revenue, cut to ~$0 from export controls). This is a genuine N-letter improvement (+2-3pts). Score moved to 72-74/100. BUT: the cup base (wk ~24) still has no handle. Aug 2026 earnings are still 7 weeks out. The conviction threshold still requires ≥75. And Correction still blocks all entries. China H200 = good news; it does not make the stock actionable before the base completes. The lesson: a catalyst that improves an intermediate-score letter does NOT compress the timeline — it brings the stock one step closer to actionability when all conditions eventually align.
+
+### Proposed Rule Changes
+
+**Proposal 19 — NEW: "Afternoon Catalyst" EOD price verification protocol.**
+When a major scheduled catalyst releases after /market-check (FOMC minutes, Fed speakers scheduled after 1 PM ET, afternoon data), tag the session as `⚠️ AFTERNOON_CATALYST` and require an explicit EOD price query (distinct from /eod-review) before logging any market-direction conclusion for that day. Prevents the Jul 8 scenario where the intraday narrative (recovery) was accepted as the closing price when the actual catalyst (FOMC minutes) fired after the news cycle that WebSearch indexed.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–18 from prior weeks:** ALL still pending Jason approval.
+Priority ranking this week:
+1. **Proposal 12** (date-explicit EOD query) — informally applied; formalize. Directly related to Jul 8 error.
+2. **Proposal 19** (this week — afternoon catalyst EOD verification) — closes a specific gap.
+3. **Proposal 18** (triple insider selling → immediate bench removal) — LRCX validated this rule.
+4. **Proposal 1** (Alpaca health check at /pre-market Step 0) — Day 131, 26 weeks overdue.
+5. **Proposal 5** (API-down escalation SLA) — Day 131. Human action required.
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🔴 Market in Correction (7/25 dist days: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8). ALL long entries blocked. FTD window CLOSED (requires new Day 1 below 7,266.99 — market is ~284 pts above). Rally attempt INTACT and widening. **50d MA ~7,415: +1.82% cushion. 200d MA ~7,470: +1.07% cushion (recovered Jul 9 after Jul 8 breach).** Next dist expiry: Jun 5 → ~Aug 10 (6/25). No near-term expiries. Correction remains until FTD regardless of expiry math.
+- **⚠️ MEGA CATALYST MONDAY — JUL 14 (HIGHEST SINGLE-DAY RISK OF Q3):**
+  1. **CPI June 2026 (8:30 AM ET):** HOT (≥3.5% or acceleration from prior 3.8%) → potential DIST DAY #8+, 200d MA re-test, Correction deepening. COOL (<3.5%) → relief rally, possible FTD-path opener (though Day 1 would still need to be a close below 7,266.99 first). This is the binary gate for Q3.
+  2. **Warsh Congressional Testimony (Senate Banking):** Fed Chair Warsh; any hawkish signal = volatility amplifier.
+  3. **JPM Q2 earnings (pre-mkt):** XLF is RRG LAGGING — do NOT chase. Beat = sector relief; miss = additional downside pressure.
+  4. **GS Q2 earnings (pre-mkt):** Same posture as JPM.
+  - **Strategy for Jul 14:** Watch CPI first. If COOL → note relief sentiment but do NOT chase — still Correction; FTD still requires Day 1 first. If HOT → prepare for possible dist day #8 and 200d MA re-test. No entries either way. SH $625 hedge execution remains FIRST order on Alpaca restore.
+- **Sectors in focus (monitor only — Correction posture):**
+  1. **XLE Energy** — Iran premium elevated; OPEC discipline; but oil supply risk cuts both ways. No valid bases.
+  2. **XLI Industrials** — best relative strength through macro volatility. AI infrastructure capex intact.
+  3. **XLP Consumer Staples** — RRG Leading; defensive outperformance expected if CPI HOT.
+  4. **AVOID:** XLF (RRG Lagging; do not chase Q2 earnings beats), XLK (chip recovery BUT Correction + rate headwind; 72-74/100 NVDA below threshold), XLC, XLY.
+- **Calendar risks:**
+  - ⚠️⚠️ **Jul 14 TRIPLE CATALYST** — CPI + Warsh + JPM + GS (described above)
+  - **ARM earnings blackout Jul 22** — 8 trading days away. Academic (60/100 blocks entry regardless).
+  - **NVDA earnings ~Aug 27** — 7+ weeks out; no blackout until ~Aug 20. Cup week ~24-25; no handle.
+  - **MRVL earnings ~Aug 2026** — base structure broken; not evaluating.
+  - **Q2 earnings season:** Multiple sectors reporting Jul 14–18 week. Financial sector (XLF RRG Lagging) — NO new entries on bank beats.
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (ALL blocked by Correction). SH hedge $625 QUEUED — Alpaca Day 131 BLOCKED. Capital at HWM since inception ($2,500.00, 13 weeks).
+- **Emotional state check:** DISCIPLINED. Thirteen consecutive 0-trade weeks; 131 consecutive days of Alpaca blockage. The NVDA China H200 news is the most genuinely bullish bench catalyst we've seen — it moves the score to 72-74/100 and reinforces the August 2026 setup thesis. The Iran shock (Jul 7) and FOMC hawkish (Jul 8) were correctly navigated: no panic, no premature exits (nothing to exit), no "surely the market is fine" new-entry attempts. The 7,266.99 rally low is INTACT and widening. The strategy is correctly positioned: maximum cash, no positions to manage, watching for the next FTD + Alpaca restore + NVDA handle completion. The Jul 14 mega-catalyst is the most significant market event we've seen since the FOMC June hike shock. Be ready: if CPI is cool and SPY surges past the FTD threshold on volume, the system upgrades immediately. No hesitation.

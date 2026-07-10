@@ -24,7 +24,9 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ACTIVE — Week of 2026-07-06 to 2026-07-10
+## ⚠️ ARCHIVED — Week of 2026-07-06 to 2026-07-10 — **STALE — Rebuild via /weekly-prep Sun Jul 12**
+
+> Archived week of Jul 6–10. Market state: 🔴 Correction (7/25 dist days). Zero primary candidates (12th consecutive week). NVDA 72-74/100 (bench, cup wk ~24, no handle, Aug 2026+ timeline; China H200 confirmed Jul 10 → N-letter improved); MRVL ~45-52/100 (severe downgrade — broken structure, 8+ wk base rebuild needed, CFO liquidation ongoing); ARM 60/100 (GAAP C-letter fail, blackout Jul 22). LRCX REMOVED permanently. SH $625 QUEUED (Alpaca Day 131 BLOCKED). ⚠️ NEXT WEEK: CPI+JPM+GS+Warsh Jul 14 TRIPLE CATALYST. Full rebuild required Sun Jul 12.
 
 **Built:** 2026-07-05 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~122 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch
