@@ -46,6 +46,57 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-12 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CONFIRMED 7,575.39 — 50d MA REVISED 7,509.17 ⚠️ — CPI+JPM+GS+WARSH TUE JUL 14 — ALPACA DAY ~133 BLOCKED — WEEK OF JUL 14-18 SETUP
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~133; Perplexity: 403; AV: 403 — all three primary sources blocked; 14th consecutive week in degraded mode; `research_source: websearch_fallback` logged)
+**Market direction:** 🔴 Market in Correction | **7/25 distribution days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8; Jun 3 expired Jul 9) | FTD window CLOSED | Rally low 7,266.99 INTACT (S&P 7,575.39 = +4.25% above)
+**Weekly trades:** 0/3 (week of Jul 7-10, CLOSED) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (4-week trailing RS, Jun 12→Jul 10):** XLK Technology (+3-5% est.), XLI Industrials (+2-4% est.), XLC Communication (+2-3% est.)
+**Sector laggards (avoid):** XLE (oil −21% from ceasefire; WTI ~$77), XLF (RRG Lagging; bank earnings wk), XLRE (Sep hike risk; 10yr 4.58%)
+
+### Scan stats
+
+**Universe:** SKIPPED — Correction posture; no universe scan required; build-universe.sh not run; Alpaca+AV both 403 blocked.
+
+| Metric | Value |
+|---|---|
+| Total universe scanned | 0 (skipped — Correction) |
+| Bench candidates evaluated | 3 (NVDA, MRVL, ARM) |
+| canslim-screener calls | 1 (NVDA: 74/100 ❌) |
+| Pre-filtered (data preflight fail) | 3/3 (all: Alpaca 403 + AV 403) |
+| Conviction ≥75 | **0** — 13th consecutive week |
+| Rejection breakdown | NVDA: conviction<75(74) + no_base + Correction_gate + data_preflight_fail; MRVL: conviction<75(~45) + broken_base + Correction_gate; ARM: conviction<75(60) + earnings_blackout_Jul22 + Correction_gate |
+| Data mode | `websearch_fallback` + `cached_fundamentals` |
+| Score confidence | LOW (Alpaca/AV/Perplexity all 403; all scores estimated) |
+
+### Key research findings this week
+
+- **S&P 50d MA CONFIRMED REVISION:** Was estimated ~7,415 in prior entries. WebSearch confirms **7,509.17**. S&P at 7,575.39 = only **+0.88% / 66 pts above 50d MA**. Prior +1.82% estimate was significantly too optimistic. CPI hot print on Jul 14 could push S&P below 50d MA. **HIGHEST NEAR-TERM RISK THIS SYSTEM HAS FLAGGED.**
+- **SPY/QQQ bearish cross:** SPY 50d (739.53) < 200d (745.25); QQQ 50d (720.15) < 200d (725.29). Both ETFs in technical death cross while S&P index itself shows golden cross (50d 7,509 > 200d 7,473). Divergence due to dividend price adjustments. Adds caution layer.
+- **MRVL CONFIRMED $235.81** (vs. estimate $243.27 = down 4.13% on Jul 10 beyond ex-div). Score revised to ~40-50/100. Broken structure accelerating.
+- **NVDA Q1 FY2027:** EPS +131% YoY; Revenue +85%; 3 consecutive quarters acceleration; Q2 guide $91B. Strong fundamentals but no base pattern (cup wk ~25, no handle). Score 74/100 (1 pt below threshold). 52w high $212.19; current $210.57 = 99.2% of high.
+- **China H200 CONFIRMED:** Beijing approved Alibaba, ByteDance, DeepSeek for <200K H200 chips. Reopens China revenue path (was 20% of Data Center = ~$15-25B/yr potential). N-letter improved +2 pts.
+- **ARM:** 7 trading days to Jul 22 earnings blackout. ARM EXITS actionable universe for this cycle regardless of score/market state.
+- **CPI June (Jul 14 Tue):** Headline likely SOFT/NEGATIVE (oil −21% from Hormuz reopening; WTI $77). Core likely STICKY (NY Fed 1yr expectations 3.7% = highest since Sep 2023). Soft headline + hot core = confusion = vol. Warsh testimony same day (hawkish "family fight" — Sep hike priced at FOMC Jul 28-29).
+- **Q2 earnings season:** Blended EPS growth 23.3%; full year 25% (vs <16% at start of year). Strong fundamentals; however stretched positioning + thin equity risk premium + rate uncertainty = vulnerability.
+- **Wall St strategist (24/7 Wall St):** S&P target up to 8,800 (+16% from 7,575); potential 10-20% correction Aug-Oct per one strategist. July expected relatively stable; bigger risk Aug-Oct.
+
+### Bench updates (canslim-screener degraded mode)
+
+- **NVDA: 74/100 ❌** (↑2 from prior 72-74 range midpoint; China H200 + 52w high proximity improved N:10→12 and L:10→12) | Cup wk ~25, no handle, no pivot | Score path: add handle (+2), base bonus (+10) = potential **86/100 with base** — but requires handle formation + Uptrend + Alpaca restore
+- **MRVL: ~40-50/100 ❌** (↓ downgrade; confirmed close $235.81; -25% from ATH) | Base rebuild 8+ wks from $235 → Oct 2026 earliest | CFO liquidation ongoing | Not actionable this cycle
+- **ARM: 60/100 ❌ → EXIT WATCH** (earnings blackout Jul 22 = 7 trading days; permanently blocks entry for this cycle)
+
+### Actions taken
+- MARKET-DIRECTION.md: Updated with confirmed data + /weekly-prep entry + 50d MA correction
+- WATCHLIST.md: Rebuilt week of Jul 14-18; Correction posture; bench updated; ARM exit from watch universe
+- RESEARCH-LOG.md: This entry
+- ClickUp: Summary sent via scripts/clickup.sh
+- canslim-screener: NVDA scored 74/100 (data preflight failed — degraded mode)
+- `research_source: websearch_fallback` | Alpaca Day ~133 BLOCKED | Perplexity 403 | AV 403
+
+---
+
 ## 2026-07-10 (Fri) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES +0.2% MUTED — MRVL EX-DIV TODAY — FOMC HAWKISH (9-TO-8 HIKE SPLIT) — CPI+JPM+GS JUL 14 MEGA CATALYST — ALPACA DAY ~127 BLOCKED
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~127; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)

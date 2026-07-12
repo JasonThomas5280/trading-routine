@@ -3952,3 +3952,18 @@ WEEK CLOSED (Jul 7-10): 0/3 trades | $0 P&L | 15th consecutive week 0/3
 - SH $625 QUEUED — execute as FIRST order on Alpaca restore
 - Conviction posture: 0 entries until Correction clears via FTD
 - Emotional state: DISCIPLINED. Capital $2,500 intact. Watching for FTD + Alpaca restore + NVDA handle.
+
+---
+## 2026-07-12 21:20 CT [clickup-placeholder]
+
+📋 Week prep 2026-07-14
+Market: 🔴 CORRECTION (Dist: 7/25, S&P 7,575.39, 50d MA 7,509 = +0.88% ⚠️ THIN CUSHION)
+⚠️ KEY UPDATE: 50d MA CONFIRMED 7,509 (was est 7,415). Only 66 pts cushion. CPI can breach it.
+Top sectors (4-wk RS): 1.XLK 2.XLI 3.XLC | Avoid: XLE/XLF/XLRE
+Primary watchlist: NONE — Correction. 0 candidates >=75 (13th consecutive week)
+Bench: NVDA 74/100 (cup wk 25, no handle, 99.2% of 52w high) | MRVL ~40-50 (broken base, $235.81 confirmed) | ARM 60 -> EXIT WATCH (blackout Jul 22 = 7 days)
+Hedge: SH $625 QUEUED (Alpaca Day ~133 BLOCKED)
+Calendar: ⚠️⚠️ TUE JUL 14: CPI + Warsh testimony + JPM + GS (SIMULTANEOUS)
+HOT CPI = dist #8 + 50d MA breach | COOL CPI = relief only, no FTD possible
+PPI+Beige Book Wed | Retail sales Thu | FOMC Jul 28-29
+Entry plan week: ZERO entries. research_source: websearch_fallback

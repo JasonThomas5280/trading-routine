@@ -6,10 +6,57 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 10 /eod-review 3:15 PM CT — 7/25 dist days UNCHANGED — S&P ~7,550 est. NOT dist day ✅ — NVDA closed $209.14 +3.1% (China H200) — QQQ ~$719 est. light volume — rally low 7,266.99 INTACT (~284 pts) — FTD window CLOSED — Alpaca Day 131 BLOCKED — WEEK CLOSED 0/3 trades)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 12 /weekly-prep — 7/25 dist days — S&P CONFIRMED 7,575.39 Jul 10 close (+0.42%) — 50d MA REVISED: 7,509.17 (+0.88% cushion ⚠️ THIN) — 200d MA: 7,472.59 (+1.38%) — FTD CLOSED — SPY 50d/200d BEARISH CROSS ⚠️ — MRVL CONFIRMED $235.81 Jul 10 (−4.13%; below est.) — NVDA wknd ~$210.57 / 52w high $212.19 — rally low 7,266.99 INTACT (+4.25%) — Alpaca Day ~133 BLOCKED — 0 positions — SH $625 QUEUED)*
+
+**⚠️ MAJOR DATA CORRECTION (Jul 12 /weekly-prep via WebSearch):**
+- S&P 50d MA was ESTIMATED ~7,415 in prior entries. CONFIRMED value: **7,509.17** — S&P cushion above 50d is only **+0.88%** (66 pts), NOT +1.82% as estimated. CPI hot print on Jul 14 could breach 50d MA.
+- MRVL Jul 10 CONFIRMED close: **$235.81** (was estimated $243.27). Down 4.13% on Jul 10 beyond the $0.06 ex-div. Score revised down.
+- SPY 50d MA: 739.53 < SPY 200d MA: 745.25 = **BEARISH CROSS ON SPY** ⚠️ (S&P index itself: 50d 7,509 > 200d 7,473 = golden cross intact, but SPY technically in death cross due to dividend adjustments)
+
+**⏳ JUL 12 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — S&P CONFIRMED 7,575.39 — 50d MA REVISED 7,509.17 (⚠️ THIN +0.88%) — 7/25 DIST UNCHANGED — CPI+JPM+GS+WARSH TUE JUL 14 MEGA CATALYST — ALPACA DAY ~133 BLOCKED — WEEK OF JUL 14-18 SETUP):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~133 BLOCKED | Perplexity 403 | AV 403
+- **S&P 500 Jul 10 CONFIRMED close: 7,575.39** (+0.42% on day = +31.75 pts | Weekly: +1%+ | Dow/S&P/Nasdaq ALL closed higher Fri to end the week)
+- **S&P 50d MA CONFIRMED: 7,509.17** (⚠️ MAJOR REVISION — prior estimate ~7,415 was significantly understated) | S&P vs 50d: **+0.88% / +66 pts ONLY** — HOT CPI Jul 14 could breach
+- **S&P 200d MA CONFIRMED: 7,472.59** | S&P vs 200d: **+1.38% / +103 pts** ✅
+- **SPY technical cross:** SPY 50d MA 739.53 < SPY 200d MA 745.25 = **BEARISH CROSS ON SPY ETF** ⚠️ (S&P index itself: 50d 7,509 > 200d 7,473 = golden cross intact; divergence due to dividend price adjustments)
+- **QQQ technical:** 50d ~720.15, 200d ~725.29 | QQQ also 50d BELOW 200d ⚠️ — both ETFs in bearish cross while index shows golden cross; technical divergence adds caution
+- **Distribution day accounting:** 7/25 UNCHANGED (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8) | Jun 3 expired Jul 9 | No new dist day Jul 10 ✅ | **Still CORRECTION**
+- **Rally attempt check:** S&P 7,575.39 vs rally low **7,266.99** → **+308 pts / +4.25%** → rally attempt **INTACT ✅** (widening each week)
+- **FTD window:** **CLOSED** — Day 7 expired Jun 22. Requires NEW Day 1 (S&P close BELOW 7,266.99) to restart. With S&P at 7,575 = 4.25% above rally low → no new Day 1 possible without a major shock. **FTD IMPOSSIBLE this week (Jul 14-18).**
+- **Dist day expiry path:** Jun 5→~Aug 10(6/25) | Jun 9→~Aug 12(5/25) | Jun 10→~Aug 13(4/25) | Jun 17→~Aug 22(3/25) | Jun 23→~Sep 24(2/25) | Jul 7→~Sep 11(1/25) | Jul 8→~Sep 14(0/25) | **State REMAINS CORRECTION until FTD regardless of expiry**
+- **NVDA weekend:** ~$210.57 (wknd est.) | 52-week high: **$212.19** | Current = **99.2% of 52w high** ⬆️ | cup wk ~25; no handle; no valid pivot; Aug 26 earnings (clear) | canslim-screener: **74/100 ❌** (1pt below threshold; no base; Correction gate) | research_source: websearch_fallback
+- **MRVL CONFIRMED Jul 10 close: $235.81** (⚠️ was estimated $243.27; actual down 4.13% on day beyond ex-div — significant additional deterioration) | Score revised: **~40-50/100** ↓ | Broken base; needs 8+ wk rebuild
+- **ARM:** ~$310-315 est. | 60/100 UNCHANGED | ⚠️ EARNINGS BLACKOUT JUL 22 = **7 TRADING DAYS from Mon Jul 14** — ARM exits actionable universe for this cycle regardless
+- **SH hedge:** $625 / 25% → QUEUED — Alpaca Day ~133 BLOCKED | Execute FIRST on restore
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | 0 positions | P&L: $0
+- **⚠️ WEEK OF JUL 14-18 — MEGA CATALYST WEEK (HIGHEST EVENT DENSITY OF Q3):**
+  1. **TUE JUL 14 — SIMULTANEOUS TRIPLE CATALYST:**
+     - CPI June 2026 (8:30 AM ET): Headline LIKELY SOFT/NEGATIVE (oil −21% from Hormuz reopening; WTI ~$77); Core STICKY (NY Fed 1yr inflation expectations 3.7% = highest since Sep 2023); soft headline with hot core = MIXED signal → market vol guaranteed
+     - Fed Chair Warsh congressional testimony (10 AM ET, House Financial Services): hawkish "family fight" — Sep hike being priced; any hawkish signal = market pressure → dist day #8 risk
+     - JPM Q2 earnings (pre-mkt): EPS est. $5.44–5.61 (+9-10% YoY); investment banking +10-20%; NII slightly below Q1; options pricing 4.4% move
+     - GS Q2 earnings (pre-mkt): EPS est. $14.47; rev est. $16.49B (+13.1% YoY); NII $3.85B (+24%); options pricing 6.0% move
+  2. **WED JUL 15:** PPI June + Fed Beige Book (4:15 PM ET) — most current anecdotal input before Jul 28-29 FOMC; WFC/C/BAC earnings
+  3. **THU JUL 16:** Retail sales June — spending momentum read ahead of FOMC
+  4. **ADDITIONAL CONTEXT:** Q2 blended EPS growth = 23.3%; full-year now 25% (vs <16% at start of year) — strong fundamentals; Sep rate hike priced; FOMC Jul 28-29 = key decision
+- **Dist day risk this week:**
+  - HOT CPI + HAWKISH WARSH (Tue Jul 14): dist day #8 risk → 8/25 (deep Correction); 50d MA breach risk (S&P 7,575 / 50d 7,509 = only 66 pts cushion)
+  - COOL CPI + DOVISH WARSH: relief rally → NOT a dist day; market remains in Correction (7/25) but tone improves
+  - JPM/GS miss: XLF selling → potential partial dist if broad enough
+- **State transition possible this week?**
+  - NO FTD possible (rally low 7,266.99 is 4.25% below; can't create new Day 1 and FTD in one week)
+  - Upgrade path: FTD requires new Day 1 FIRST → multiple weeks away at minimum
+  - Downgrade risk: HOT CPI → dist day #8 → 8/25 → deeper Correction; 50d MA breach
+  - State: 🔴 CORRECTION UNCHANGED. NO NEW LONG ENTRIES.
+- **Sector leadership (4-week trailing RS, Jun 12 → Jul 10, websearch_fallback):**
+  1. XLK Technology — NVDA +4% wk / China H200 / Meta +6% / SOXX recovery; partially offset LRCX -18.9% + MRVL -23% from ATH; Jul 9 week: XLK +1.75% (led all sectors); 4-wk: est. +3-5%
+  2. XLI Industrials — RRG leading; AI capex + defense + aerospace; steady; 4-wk: est. +2-4%
+  3. XLC Communication — Meta dominant (+6% wk); AI infrastructure narrative; 4-wk: est. +2-3%
+  - AVOID: XLE (oil -21% from ceasefire; $77 WTI = no energy premium); XLF (RRG Lagging; bank earnings this wk but sector weak); XLRE (hawkish Fed / Sep hike / 10yr 4.58%)
+- **Actions: NONE** (Correction + Alpaca Day ~133 blocked + 0 positions + 0 candidates ≥75)
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~133) | Perplexity 403 | AV 403
 
 **Last updated:** 2026-07-10 (Fri) — /eod-review 3:15 PM CT — **🔴 CORRECTION UNCHANGED — 7/25 DIST UNCHANGED — S&P ~7,550 EST. NOT DIST ✅ — NVDA $209.14 +3.1% — QQQ ~$719 EST. LIGHT VOL — WEEK CLOSED 0/3 — ALPACA DAY 131 BLOCKED**
-**STATE:** 🔴 Market in Correction | **7/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8; Jun 3 expired Jul 9) | No new dist day today (S&P positive, light volume) | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally low 7,266.99 INTACT (S&P ~7,550 est. = ~284 pts / +3.90% above) | 200d MA ~7,470 → S&P +1.07% ABOVE ✅ | 50d MA ~7,415 → S&P +1.82% ABOVE ✅
+**STATE:** 🔴 Market in Correction | **7/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8; Jun 3 expired Jul 9) | No new dist day today (S&P positive, light volume) | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally low 7,266.99 INTACT (S&P ~7,550 est. = ~284 pts / +3.90% above) | 200d MA ~7,472 → S&P +1.07% ABOVE ✅ | 50d MA ~7,509 (REVISED) → S&P +0.88% ABOVE ⚠️
 
 **✅ JUL 10 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,550 EST. NOT DIST DAY ✅ — QQQ ~$719 EST. LIGHT VOL NOT DIST ✅ — 7/25 UNCHANGED — NVDA $209.14 +3.1% CHINA H200 — RALLY LOW 7,266.99 INTACT (~284 PTS WIDENING) — ALPACA DAY 131 BLOCKED — 0 POSITIONS — WEEK CLOSED 0/3 — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day 131 BLOCKED | Perplexity 403 | AV 403

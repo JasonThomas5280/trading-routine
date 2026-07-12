@@ -24,6 +24,100 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⛔ CURRENT — Week of 2026-07-14 to 2026-07-18 — `/weekly-prep` Sun Jul 12 4:00 PM CT
+
+**Built:** 2026-07-12 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~133 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch
+
+**Market direction:** 🔴 Market in Correction (7/25 dist days) | **NO NEW LONG ENTRIES**
+**S&P 500 CONFIRMED:** 7,575.39 (Jul 10 close, +0.42%, +1%+ on week) | **50d MA CONFIRMED: 7,509.17** (⚠️ S&P only +0.88% above — 66 pts cushion — prior estimate of ~7,415 was significantly understated) | **200d MA CONFIRMED: 7,472.59** (+1.38%) | Rally low: 7,266.99 INTACT (+4.25%)
+**FTD status:** CLOSED (requires new Day 1 below 7,266.99 — impossible near-term; FTD this week: IMPOSSIBLE)
+**SPY/QQQ cross:** SPY 50d (739.53) < 200d (745.25) ⚠️ BEARISH CROSS ON ETF | QQQ 50d (720.15) < 200d (725.29) ⚠️ — index shows golden cross but ETFs show death cross (dividend adj. divergence)
+**NVDA canslim-screener result:** 74/100 ❌ (1 pt below threshold; no base; Correction gate; all sources blocked)
+
+**Top sectors (4-week trailing RS, Jun 12 → Jul 10, websearch_fallback):**
+1. **XLK Technology** — Jul 9 week led all sectors (+1.75%); NVDA China H200 +6% / Meta +6%; SOXX recovery; partially offset LRCX -18.9% + MRVL -23% ATH crash; YTD +33%; est. 4-wk: +3-5%
+2. **XLI Industrials** — RRG Leading quadrant; AI capex + defense + aerospace; steady +0.62% Jul 9 week; YTD +20%; est. 4-wk: +2-4%
+3. **XLC Communication** — Meta dominant (+6% Jul 9 wk); AI infrastructure narrative; est. 4-wk: +2-3%
+**Avoid:** XLE (oil −21% from Iran ceasefire; WTI ~$77; energy premium gone); XLF (RRG Lagging; bank earnings this wk but sector weak; do NOT chase beats); XLRE (hawkish Fed; Sep hike priced; 10yr 4.58%)
+**Blacklisted sectors:** None (no 2-consecutive-fail trade history; zero trades placed to date)
+
+**Universe scan:** SKIPPED — Correction posture per /weekly-prep rules; build-universe.sh not run; Alpaca+AV both blocked; no new-entry watchlist needed
+**Candidates monitored (bench only):** NVDA (74/100), MRVL (~40-50/100), ARM (60/100 — blackout Jul 22)
+**ARM: EXIT WATCH UNIVERSE** — earnings blackout Jul 22 = 7 trading days from Mon Jul 14. Even if score improves, entry is permanently blocked for this cycle.
+**Passed conviction ≥75: 0** — **ZERO for 13th consecutive week**
+
+> ⚠️ **13th consecutive week with 0 candidates above conviction threshold.**
+> 🔑 KEY UPDATE THIS WEEK: S&P 50d MA CONFIRMED at 7,509 (was estimated ~7,415). The actual cushion is only +0.88% (66 pts) — far thinner than thought. CPI on Tue Jul 14 is existential: hot core print = dist day #8 + potential 50d MA breach = deeper Correction + additional pressure on bench names. Cool headline print = relief but no FTD possible (rally low too far down). Strategy functioning correctly. Patience IS the position.
+> 🚨 MRVL CONFIRMED $235.81 Jul 10 (was estimated $243.27): score revised DOWN to ~40-50/100. Broken base + CFO liquidation + 8+ wk rebuild path.
+> 🚨 ARM: 7 trading days to Jul 22 blackout. ARM exits the actionable universe for this cycle regardless of score or market state.
+
+---
+
+## ⛔ CORRECTION POSTURE — NO NEW LONG ENTRIES — HEDGE CANDIDATES ONLY
+
+**Entry gate: ⛔ ZERO new long entries** (Market in Correction — all new longs blocked)
+
+### Hedge Candidates (Correction Protocol Active)
+
+| Rank | Instrument | Type | Size | Status | Notes |
+|---|---|---|---|---|---|
+| H1 | **SH** | Inverse S&P (−1×) | $625 / 25% portfolio | **QUEUED — Alpaca Day ~133 BLOCKED** | Execute as FIRST order on Alpaca restore; queued since Jun 5 (~6 weeks) |
+| H2 | **SQQQ** | Inverse NASDAQ (−3×) | Alt: $625 if SH unavailable | Secondary | Only if SH specifically unavailable; SQQQ leverage decay risk for extended holds |
+
+**SH rationale (UPDATED):** Correction (7/25 dist days); S&P only +0.88% above 50d MA (confirmed — not +1.82% as estimated); SPY in death cross (50d<200d); QQQ in death cross; chip sector crash residuals (LRCX −18.9%, MRVL −23% from ATH); FOMC hawkish 9-to-8 hike split; Sep rate hike priced; oil demand premium gone ($77 WTI); 13 consecutive weeks without valid setup. CPI Jul 14 = dist day risk. SH hedge becomes MORE compelling given confirmed thin 50d MA cushion.
+**Exit trigger for SH:** Follow-through day confirms new Confirmed Uptrend (requires new Day 1 FIRST — weeks away minimum) → exit SH within 2 sessions.
+
+---
+
+### Primary Watchlist (score ≥75)
+
+**NONE this week.** Market in Correction. No new long entries. Zero candidates above threshold. See bench.
+
+---
+
+### Bench (Correction monitor only — score below 75)
+
+| Rank | Symbol | Score | Δ | Sector | Status | Re-Score Trigger | Notes |
+|---|---|---|---|---|---|---|---|
+| B1 | NVDA | **74/100 ↑** | ↑2 (China H200 CONFIRMED + 52w high $212.19 proximity) | XLK / Semis | 🟡 Cup wk ~25; no handle; 99.2% of 52w high | Handle completion (~Aug-Sep 2026) + Alpaca+AV restore + base bonus +10 | **C:20 A:15 N:12 S:10 L:12 I:5 Base:0.** Price: $209.14 (Jul 10 close) / ~$210.57 (wknd est.). 52w high: $212.19 = only 0.8% away ⬆️. Q1 FY2027: EPS +131% YoY; revenue +85% YoY; Data Center $75B +92% YoY; 3 consecutive quarters of acceleration = C-letter remains 20/20. Vera CPU launch = new $200B market. China H200 fully confirmed Jul 10 (Alibaba/ByteDance/DeepSeek; <200K chips; reopening 20% of prior Data Center revenue). Goldman 21.7x PE "compelling" vs 72x avg. Q2 FY2027 guide: $91B (+11.7% QoQ, ~+80%+ YoY). **Needs: handle formation (~2-6 wks min) + Uptrend + base bonus = 84/100 potential.** Headwinds: (1) B200 GPU lease $6.11→$4.22/hr compression; (2) DeepSeek building own chip (Jul 9 news, NVDA slipped 2%); (3) Insider selling $410.6M ongoing; (4) Float ~24B shares (massive S-letter headwind). Aug 26 earnings — no blackout issue. `websearch_fallback` `China_H200_CONFIRMED_Jul10` `Q1FY2027_EPS_131pct_YoY` `Vera_CPU_new_market` `B200_lease_compression` `DeepSeek_own_chip_risk` |
+| B2 | MRVL | **~40-50/100 ⬇️⬇️** | ↓ CONFIRMED FURTHER DECLINE ($235.81 vs est. $243.27; −4.13% Jul 10 beyond ex-div) | XLK / AI Semis | ❌ BELOW THRESHOLD — broken structure; severe downgrade | New base formation (8+ wks minimum from $235 low) + FTD + Alpaca restore + CFO selling resolved | **C:15 A:10 N:7 S:5 L:5 I:4 Base:0.** Price: **$235.81 CONFIRMED** (Jul 10 close; −4.13% on day; −7% below prior estimate of $243.27; −25% from $316.43 ATH). CFO liquidating ~50% of holdings (conviction negative). UBS $340 PT still out there but stock behavior contradicts it. Analyst downgrade to Hold. V-recovery thesis COMPLETELY INVALIDATED. Needs 8+ wk base rebuild from $235 level → Oct 2026 at earliest. Not actionable for this cycle. `websearch_fallback` `MRVL_confirmed_235.81_Jul10` `V_recovery_invalidated` `CFO_liquidation_ongoing` |
+| ❌ | ~~ARM~~ | **60/100 → EXIT WATCH** | — | XLK / Semis | ❌ ⚠️ EARNINGS BLACKOUT JUL 22 = 7 TRADING DAYS — EXITING UNIVERSE | N/A — blackout permanently closes entry window for this cycle | **C:10 A:10 N:15 S:5 L:15 I:5 Base:0.** Price: est. ~$310-315 (Jul 10). **⚠️ Earnings Jul 29 → blackout begins ~Jul 22 = 7 trading days from Mon Jul 14.** Even if score improves to ≥75 this week (impossible from 60), the 5-trading-day pre-earnings rule blocks entry. ARM exits the actionable universe for this entire earnings cycle. Re-evaluate after Jul 29 earnings results + 5-day clearance period (~Aug 5+). `ARM_blackout_Jul22_7days` `GAAP_C_letter_fail` `exit_watchlist_this_cycle` |
+
+---
+
+### Entry Execution Plan — Week of Jul 14-18
+
+**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day ~133 BLOCKED + 0 candidates ≥75)
+
+**FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5)
+
+**Week's critical path:**
+- **Tue Jul 14 — MEGA EVENT:** CPI June + Warsh testimony + JPM Q2 + GS Q2 (ALL SAME MORNING)
+  - COOL CPI (<3.0% core) + DOVISH WARSH: Relief rally; NOT dist day; tone improves but state unchanged (Correction); do NOT chase
+  - HOT CPI (≥3.5%+ core) + HAWKISH WARSH: Dist day #8 risk → 8/25; potential 50d MA breach (7,575 vs 7,509 = 66 pts only); DEEPER Correction
+  - JPM/GS beats absorbed: XLF in RRG Lagging → no chasing bank earnings
+  - JPM/GS misses: additional selling pressure → compound dist day risk
+- **Wed Jul 15:** PPI + Beige Book — secondary read; WFC/C/BAC earnings
+- **Thu Jul 16:** Retail sales — consumer spending health
+- **ARM BLACKOUT BEGINS JUL 22** — no ARM evaluation or entry attempts next week or beyond for this cycle
+
+**FTD scenario (impossible this week, but tracking):**
+- Day 1 requires S&P close BELOW 7,266.99 (4.25% below current) — not possible without major macro shock
+- Even if Day 1 fires this week (extreme scenario): FTD window = Day 4-7 = earliest next week
+- Most likely path: S&P oscillates 7,400-7,650 range through July while dist days expire; CORRECTION clears organically only via FTD (which requires a new lower low first)
+
+**Calendar risks remainder of week:**
+- **⚠️⚠️ Tue Jul 14: CPI + Warsh + JPM + GS** — HIGHEST RISK DAY OF Q3 (quadruple simultaneous catalysts)
+- Wed Jul 15: PPI + Beige Book + WFC/C/BAC earnings
+- Thu Jul 16: Retail sales
+- **Mon Jul 21+:** ARM blackout active (academic; 60/100 already blocks)
+- **Jul 22:** ARM earnings blackout begins
+- **Jul 28-29:** FOMC meeting (last CPI read was Jul 14 — today's print sets the tone)
+- **~Aug 26:** NVDA Q2 FY2027 earnings — no blackout issue; base timeline ~Aug-Sep 2026
+
+---
+
 ## ⚠️ ARCHIVED — Week of 2026-07-06 to 2026-07-10 — **STALE — Rebuild via /weekly-prep Sun Jul 12**
 
 > Archived week of Jul 6–10. Market state: 🔴 Correction (7/25 dist days). Zero primary candidates (12th consecutive week). NVDA 72-74/100 (bench, cup wk ~24, no handle, Aug 2026+ timeline; China H200 confirmed Jul 10 → N-letter improved); MRVL ~45-52/100 (severe downgrade — broken structure, 8+ wk base rebuild needed, CFO liquidation ongoing); ARM 60/100 (GAAP C-letter fail, blackout Jul 22). LRCX REMOVED permanently. SH $625 QUEUED (Alpaca Day 131 BLOCKED). ⚠️ NEXT WEEK: CPI+JPM+GS+Warsh Jul 14 TRIPLE CATALYST. Full rebuild required Sun Jul 12.
