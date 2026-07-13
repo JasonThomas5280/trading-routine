@@ -3967,3 +3967,33 @@ Calendar: ⚠️⚠️ TUE JUL 14: CPI + Warsh testimony + JPM + GS (SIMULTANEOU
 HOT CPI = dist #8 + 50d MA breach | COOL CPI = relief only, no FTD possible
 PPI+Beige Book Wed | Retail sales Thu | FOMC Jul 28-29
 Entry plan week: ZERO entries. research_source: websearch_fallback
+
+---
+## 2026-07-13 11:12 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-13
+
+⚠️ ELEVATED RISK ALERT — US-IRAN RE-ESCALATION + CHIP SECTOR BREAKDOWN
+
+Market: 🔴 CORRECTION (7/25 dist) | Futures: ES -0.23% / NQ -0.89% / DJIA +0.13%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 positions)
+
+NEW OVERNIGHT RISKS:
+- US-Iran 4th round strikes Sat-Sun; Iran declares Hormuz closed (US denies). Oil WTI +4.0% to $74.26 / Brent +3.9%. Energy premium RETURNS.
+- SK Hynix -15% RECORD (HBM4 miss) — global chip stocks dragged lower. NVDA ~$208 (-0.5%).
+- DIST DAY #8 RISK MONDAY (HIGH): NQ -0.89% + chip drag + Iran fear = likely negative close on vol.
+
+Watchlist ready: NONE (Correction — 14th consecutive week 0 candidates >=75)
+SH $625 QUEUED (Alpaca Day ~134 BLOCKED) — thesis STRENGTHENS
+
+Tue Jul 14 MEGA CATALYSTS:
+- CPI June 8:30 ET: headline ~3.8% est. (June oil pre-Hormuz = soft); core 2.9% sticky
+- Warsh House 10 AM ET: 24% Jul hike; Sep base case
+- JPM Q2: EPS $5.44-5.61 (+10% YoY) | GS Q2: EPS $14.47 (+32% YoY)
+- XLF in RRG Lagging — do NOT chase bank beats
+
+Bench: NVDA 74/100 | MRVL 40-50/100 | ARM 60/100 (blackout Jul 22 = 6 days)
+
+Plan: NO entries. Monitor Mon for dist day #8. CPI Tue existential — hot core + Warsh = 50d MA breach risk.
+research_source: websearch_fallback | Alpaca BLOCKED Day ~134

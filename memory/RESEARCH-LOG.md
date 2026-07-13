@@ -14143,3 +14143,73 @@ Constructive close to a volatile week. Key drivers:
 
 `research_source: websearch_fallback` | Alpaca BLOCKED (Day 131) | Perplexity 403 | AV 403
 
+
+---
+
+## 2026-07-13 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚠️ US-IRAN RE-ESCALATES: 4TH ROUND STRIKES + STRAIT OF HORMUZ "CLOSED" — OIL WTI +4% TO $74.26 — SK HYNIX -15% RECORD (HBM4 MISS) — CHIP SECTOR UNDER PRESSURE — NQ FUTURES -0.89% — 0 POSITIONS — ALPACA DAY ~134 BLOCKED)
+
+`research_source: websearch_fallback` | Alpaca BLOCKED (Day ~134) | Perplexity 403 | AV 403
+
+### Overnight gap check — open positions
+
+**0 open positions.** Gap check: SKIPPED. No hard stop risk.
+
+### Overnight catalyst summary
+
+**⚠️ GEOPOLITICAL ESCALATION — HIGHEST SEVERITY:**
+- US-Iran entered 4th round of airstrikes over weekend (Jul 12-13). US hit 140+ targets Sat; more strikes Sun. Iran IRGC attacked container ship transiting Hormuz → US retaliated via CENTCOM.
+- Iran declared Strait of Hormuz closed "until further notice." US Central Command denies ability to close it; launched additional strikes to ensure freedom of navigation.
+- **Oil: WTI +4.0% to $74.26 / Brent +3.9% to $78.96** — reverses ceasefire-driven decline; weekly gain already +5.4%. Energy premium RETURNS.
+- This REVERSES the thesis that "energy premium is gone" from prior weekly preps. XLE/XLE sector logic changes.
+
+**⚠️ CHIP SECTOR STRUCTURAL NEGATIVE:**
+- SK Hynix (SKHY) — fresh Nasdaq debut — CRASHED -15% record (biggest single-day decline in company history). Reason: HBM4 (High Bandwidth Memory Gen 4) shipments did NOT increase as expected from Q2. Investors sold into US listing (profit-taking post +13% debut Friday Jul 11). AI memory demand narrative softening at the margin.
+- Global chip stocks dragged lower: Samsung -9%+ last week, broader SOX under pressure.
+- **NVDA implication:** HBM4 goes into H200/B200 GPUs. SK Hynix HBM4 miss = supplier-side demand signal; may reflect slower-than-expected H200 ramp. NVDA ~$208 Jul 13 (vs $209.14 Jul 10 close = -0.5%). Watch for further pressure Monday.
+
+**ES/NQ futures (Sun evening):** ES -0.23% | NQ -0.89% | DJIA +0.13% (energy stocks lifting Dow; tech/semis dragging Nasdaq)
+
+**Asian shares:** Slipping broadly on geopolitical/chip concerns.
+
+### Market overnight check
+
+- **Monday open bias:** NEGATIVE for tech/semis; POSITIVE for energy (XLE). DIST DAY #8 RISK if S&P closes down on elevated volume.
+- **Tuesday Jul 14 calendar (UNCHANGED — ELEVATED):**
+  - **CPI June 2026 (8:30 AM ET):** Headline est. ~3.8% YoY (below May's 4.2% — June oil prices were low post-ceasefire before this weekend's re-escalation); Core est. ~0.3% MoM / 2.9% YoY — sticky. Key: June data captured BEFORE this weekend's Hormuz crisis → headline should still be soft. July CPI (Aug 14) will be much hotter.
+  - **Warsh House testimony (10 AM ET, House Financial Services):** Inflation "too high." 24% July hike probability (too low to move without both hot CPI + overtly hawkish Warsh). Sep hike base case. Lean: neutral-to-hawkish confirmation.
+  - **JPM Q2 (pre-mkt):** EPS est. $5.44-5.61 (+10% YoY); 4.4% move priced. XLF in RRG Lagging — do NOT chase.
+  - **GS Q2 (pre-mkt):** EPS est. $14.47 (+32% YoY); 6.0% move priced. Same.
+
+### Watchlist update
+
+**No primary watchlist (CORRECTION — 14th consecutive week with 0 candidates ≥75).**
+
+Bench updates:
+- **NVDA (~$208):** SK Hynix HBM4 miss is a near-term negative read on H200 demand. Score unchanged 74/100 (Correction + no base). Monitor: if NVDA falls below $200 (cup lower low), base pattern invalidated. Cup wk ~25. No handle. 52w high $212.19 still close. No action.
+- **MRVL (~$235.81):** SK Hynix miss adds further pressure on broken base. Score ~40-50/100 unchanged. No action.
+- **ARM (~$310-315):** ARM EARNINGS BLACKOUT NOW 6 TRADING DAYS (Jul 22). Permanently exits actionable universe this cycle. No action.
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR (0 positions, $0) |
+| Weekly -6% | ✅ CLEAR ($0 P&L, 0/3 trades) |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day ~134 |
+
+### Buy-zone status
+
+**NO BUY ZONES.** Correction + 0 primary candidates. SH $625 hedge QUEUED (Alpaca BLOCKED).
+
+### Actions
+
+**NONE.** Correction (7/25 dist days) + Alpaca BLOCKED + 0 positions + 0 candidates ≥75 + geopolitical escalation adds risk (not opportunity).
+
+**⚠️ DIST DAY #8 RISK MONDAY:** Iran escalation + NQ -0.89% futures + chip drag = elevated probability of a negative close on elevated volume Monday → if confirmed = 8/25 dist days → DEEPER Correction. Will update at /eod-review.
+
+**SH HEDGE:** Thesis STRENGTHENS. Iran re-escalation + Hormuz risk + NQ -0.89% + SK Hynix -15% + chip sector breakdown = SH more compelling than ever. First order on Alpaca restore unchanged.
+
+**WEEK TRADE COUNT RESET:** Week of 2026-07-14: 0/3 trades used ✅
+

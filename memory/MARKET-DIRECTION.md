@@ -6,12 +6,27 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 12 /weekly-prep — 7/25 dist days — S&P CONFIRMED 7,575.39 Jul 10 close (+0.42%) — 50d MA REVISED: 7,509.17 (+0.88% cushion ⚠️ THIN) — 200d MA: 7,472.59 (+1.38%) — FTD CLOSED — SPY 50d/200d BEARISH CROSS ⚠️ — MRVL CONFIRMED $235.81 Jul 10 (−4.13%; below est.) — NVDA wknd ~$210.57 / 52w high $212.19 — rally low 7,266.99 INTACT (+4.25%) — Alpaca Day ~133 BLOCKED — 0 positions — SH $625 QUEUED)*
+**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 13 /pre-market — 7/25 dist days — ⚠️ NEW: US-IRAN 4TH ROUND STRIKES + STRAIT OF HORMUZ THREAT — OIL WTI +4% TO $74.26 — SK HYNIX -15% RECORD (HBM4 MISS) — NQ FUTURES -0.89% — DIST DAY #8 RISK MONDAY — S&P CONFIRMED 7,575.39 Jul 10 close — 50d MA 7,509.17 (+0.88% cushion ⚠️ THIN) — 200d MA 7,472.59 — FTD CLOSED — SPY 50d/200d BEARISH CROSS ⚠️ — NVDA ~$208 / MRVL $235.81 / ARM blackout Jul 22 = 6 days — rally low 7,266.99 INTACT — Alpaca Day ~134 BLOCKED — 0 positions — SH $625 QUEUED — SH thesis STRENGTHENS)*
 
 **⚠️ MAJOR DATA CORRECTION (Jul 12 /weekly-prep via WebSearch):**
 - S&P 50d MA was ESTIMATED ~7,415 in prior entries. CONFIRMED value: **7,509.17** — S&P cushion above 50d is only **+0.88%** (66 pts), NOT +1.82% as estimated. CPI hot print on Jul 14 could breach 50d MA.
 - MRVL Jul 10 CONFIRMED close: **$235.81** (was estimated $243.27). Down 4.13% on Jul 10 beyond the $0.06 ex-div. Score revised down.
 - SPY 50d MA: 739.53 < SPY 200d MA: 745.25 = **BEARISH CROSS ON SPY** ⚠️ (S&P index itself: 50d 7,509 > 200d 7,473 = golden cross intact, but SPY technically in death cross due to dividend adjustments)
+
+**⚠️ JUL 13 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚠️ US-IRAN RE-ESCALATION — OIL WTI +4% $74.26 — SK HYNIX -15% (HBM4 MISS) — NQ -0.89% — DIST DAY #8 RISK MONDAY — ALPACA DAY ~134 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~134 BLOCKED | Perplexity 403 | AV 403
+- **⚠️ CRITICAL NEW DEVELOPMENT: US-Iran 4th round of strikes weekend Jul 12-13.** US CENTCOM hit 140+ targets. Iran IRGC attacked container ship in Hormuz. Iran declared Strait of Hormuz closed "until further notice" (US denies ability to close it; ongoing strikes for freedom of navigation). **Oil: WTI +4.0% to $74.26 / Brent +3.9% to $78.96.** Energy premium RETURNS. XLE thesis reverses from prior week. July CPI (Aug 14) will be much hotter.
+- **⚠️ SK HYNIX (SKHY) -15% RECORD:** HBM4 shipments missed expectations. Global chip stocks dragged lower. NVDA implication: HBM4 used in H200/B200 GPUs — soft signal on AI memory demand. NVDA ~$208 (-0.5% from $209.14 Jul 10 close).
+- **Futures:** ES -0.23% | NQ -0.89% | DJIA +0.13% (energy lifting Dow; tech/semis dragging Nasdaq)
+- **DIST DAY #8 RISK MONDAY (HIGH):** Iran escalation + chip selloff + NQ -0.89% = elevated probability of negative close on elevated volume Monday → if confirmed = 8/25 dist days → DEEPER Correction
+- **50d MA proximity:** S&P 7,575 vs 50d 7,509 = 66 pts cushion ONLY ⚠️. If dist day #8 materializes with a -0.66%+ move = 50d MA breach risk.
+- **Tuesday Jul 14 catalysts (UNCHANGED):** CPI June (headline ~3.8% est. ← June oil data = pre-Hormuz crisis, should be soft; core 2.9% sticky) + Warsh House testimony (24% Jul hike; Sep base case) + JPM/GS Q2 earnings (XLF in RRG Lagging — do NOT chase)
+- **Open positions: 0** → gap check SKIPPED | sell-rules-engine SKIPPED
+- **Bench:** NVDA ~$208 (74/100 — HBM4 miss = marginal negative; no base; Correction gate; no action) | MRVL ~$235.81 (40-50/100; broken; no action) | ARM ~$310-315 (60/100; BLACKOUT JUL 22 = 6 trading days; exits universe this cycle)
+- **SH hedge:** QUEUED $625 — thesis STRENGTHENS (Iran escalation + NQ -0.89% + chip selloff). Alpaca BLOCKED (Day ~134). First order on restore UNCHANGED.
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Week Jul 14: 0/3 trades reset
+- **Actions: NONE**
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~134) | Perplexity 403 | AV 403
 
 **⏳ JUL 12 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — S&P CONFIRMED 7,575.39 — 50d MA REVISED 7,509.17 (⚠️ THIN +0.88%) — 7/25 DIST UNCHANGED — CPI+JPM+GS+WARSH TUE JUL 14 MEGA CATALYST — ALPACA DAY ~133 BLOCKED — WEEK OF JUL 14-18 SETUP):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~133 BLOCKED | Perplexity 403 | AV 403
