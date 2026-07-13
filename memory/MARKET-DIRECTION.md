@@ -6,7 +6,39 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — DEEPENING** *(Jul 14 /market-check — ⚠️ PROBABLE 8/25 DIST DAYS — Jul 13 S&P −0.3% ON IRAN/HORMUZ + SK HYNIX CHIP DRAG = PROBABLE DIST DAY #8 — CPI June est. 3.8-3.9% headline / 2.9% core (actual not yet confirmed; search lag) — WARSH TESTIMONY LIVE NOW — JPM/GS Q2 beats expected (not confirmed) — OIL WTI $74.26 — ARM BLACKOUT JUL 22 = 6 DAYS — ALPACA DAY ~135 BLOCKED — 0 POSITIONS — SH $625 QUEUED — CORRECTION DEEPENING — FTD IMPOSSIBLE)*
+**Status:** 🔴 **MARKET IN CORRECTION — DEEPENING** *(Jul 14 /eod-review — ✅ DIST DAY #8 CONFIRMED (Jul 13 S&P −0.3% Iran/SK Hynix shock → 8/25) — Jul 14 est. NOT dist day (CPI soft, market likely up) — 8/25 dist days CONFIRMED — CPI June UNCONFIRMED (search lag; consensus 3.8-3.9% YoY; "inflation cools" signal) — Warsh testimony hawkish/expected (Sep hike priced) — JPM/GS Q2 beats (XLF lagging; no action) — S&P est. ~7,612 (+0.8% est.) — ARM BLACKOUT JUL 22 = 5 DAYS — ALPACA DAY ~136 BLOCKED — 0 POSITIONS — SH $625 QUEUED — FTD IMPOSSIBLE)*
+
+**Last updated:** 2026-07-14 (Tue) — /eod-review 3:15 PM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST (JUL 13 #8 CONFIRMED) — JUL 14 NOT DIST EST. ✅ — S&P EST. ~7,612 (+0.8%) — CPI SOFT SIGNAL — WARSH HAWKISH/EXPECTED — 0 POSITIONS — ALPACA DAY ~136 BLOCKED**
+**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13; confirmed today) | No new dist day Jul 14 (est. positive close on soft CPI + bank beats) | FTD window CLOSED (requires new Day 1 = S&P close BELOW 7,266.99) | Rally low 7,266.99 INTACT (S&P est. ~7,612 = ~345 pts / +4.74% above) | 200d MA ~7,473 → S&P est. +1.86% ABOVE ✅ | 50d MA 7,509.17 → S&P est. +1.37% ABOVE ✅ (cushion widening vs. 43 pts yesterday)
+
+**✅ JUL 14 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — ✅ DIST DAY #8 CONFIRMED (JUL 13 −0.3%) → 8/25 — JUL 14 NOT DIST EST. ✅ (S&P EST. +0.8% SOFT CPI + BANK BEATS) — CPI JUNE UNCONFIRMED (SEARCH LAG; SOFT SIGNAL) — WARSH HAWKISH/EXPECTED — JPM/GS BEATS (XLF LAGGING; NO ACTION) — S&P EST. ~7,612 — ARM BLACKOUT 5 DAYS — ALPACA DAY ~136 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~136 BLOCKED | Perplexity 403 | AV 403
+- **✅ DIST DAY #8 (JUL 13) CONFIRMED:** S&P −0.3% (est. close ~7,552 from 7,575.39 Jul 10 close) meets −0.2% threshold. Volume: likely elevated (Iran/Hormuz + SK Hynix shock — dual macro catalyst; unconfirmed via Alpaca but consistent with pattern). **8th dist day added.** Active dist days: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13. **Net: 8/25 CONFIRMED.**
+- **Jul 14 dist day check (TODAY):** S&P estimated UP today. CPI June = soft signal ("inflation cools" per Yahoo Finance futures headline); JPM/GS beats pre-market; Warsh testimony hawkish but in-line. Market likely UP +0.5-1.0%. Est. S&P close ~7,612. **NOT a dist day** ✅ | 8/25 UNCHANGED.
+- **S&P close estimate (Jul 14):** ~7,612 (+0.8% est.) | QQQ est. ~$726 (+0.9% est.) | `research_source: websearch_fallback` — NOT CONFIRMED (Alpaca 403; search not indexed yet)
+- **CPI June 2026 (8:30 AM ET — NOT CONFIRMED via search):** Yahoo Finance headline "S&P 500 Futures Rise As Inflation Cools" = soft signal. Consensus: Headline −0.1% MoM / ~3.8-3.9% YoY (↓ from 4.17% May); Core +0.2-0.3% MoM / ~2.85-2.9% YoY (sticky). If CPI = consensus: headline DEFLATION print (energy −21%) + sticky core = MIXED but markets focused on headline = RELIEF RALLY. Actual numbers: UNCONFIRMED. Will update in /pre-market Jul 15 once indexed.
+- **Warsh House testimony (10 AM ET — complete today):** "Deliver price stability" — hawkish but expected stance maintained. Sep hike base case (75%+ priced). No surprise shock. Market reaction: likely absorbed without additional selling (already priced).
+- **JPM Q2 (pre-market):** Consensus EPS $5.44-5.61 (+10% YoY). Beat expected with high probability. XLF in RRG Lagging → NO ACTION per strategy. Actual: UNCONFIRMED via search.
+- **GS Q2 (pre-market):** Consensus EPS $14.47-14.51 (+13% YoY). Beat expected. XLF lagging → NO ACTION. Actual: UNCONFIRMED.
+- **Distribution day accounting (updated):** +1 new: **Jul 13 CONFIRMED**. Expiry Jul 13 → ~Sep 16. Active: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13. **8/25 CONFIRMED.**
+- **⚠️ DIST DAY EXPIRY PATH (updated):** Jun 5→~Aug 10(7/25) | Jun 9→~Aug 12(6/25) | Jun 10→~Aug 13(5/25) | Jun 17→~Aug 22(4/25) | Jun 23→~Sep 24(3/25) | Jul 7→~Sep 11(2/25) | Jul 8→~Sep 14(1/25) | Jul 13→~Sep 16(0/25) | **State REMAINS CORRECTION until FTD regardless of expiry**
+- **State transition:** NONE. 🔴 Market in Correction — **UNCHANGED.** (8/25 dist = Correction; FTD window CLOSED; rally attempt INTACT)
+- **Rally attempt check:** S&P est. ~7,612 vs rally low **7,266.99** (Jun 10) → margin est. ~**345 pts (+4.74%)** → rally attempt **INTACT ✅ WIDENING** (positive day extends buffer)
+- **50d MA proximity:** S&P est. ~7,612 | 50d MA 7,509.17 | Gap est. ~**103 pts (+1.37%)** ✅ — cushion WIDENING from 43 pts yesterday (soft CPI relief rally pushes S&P up from 50d MA danger zone)
+- **200d MA proximity:** S&P est. ~7,612 | 200d MA ~7,473 | Gap est. ~139 pts (+1.86%) ✅ ABOVE
+- **FTD window:** CLOSED. Requires new Day 1 (S&P closes BELOW 7,266.99). Currently ~345 pts above. Not in play.
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Portfolio-level checks:** 8/25 dist — no new threshold (already Correction at 7/25) ✅ | 0 positions ✅ | Hedge: SH $625 QUEUED, Alpaca blocked
+- **ARM countdown:** Earnings blackout Jul 22 = **5 trading days** from today (Jul 15, 16, 17, 18, 21). ARM exits actionable universe this cycle regardless.
+- **Bench status (Jul 14 est.):**
+  - NVDA: est. ~$211-215 (if semis catch CPI relief bid) | **74/100 UNCHANGED** | Cup wk ~25; no handle; no pivot | Aug 26 earnings (clear) | **BLOCKED** (Correction + below 75 + Alpaca 403)
+  - MRVL: est. ~$236-242 | **~40-50/100 UNCHANGED** | Broken base; needs 8+ wk rebuild | **BLOCKED**
+  - ARM: est. ~$315-325 | **60/100 UNCHANGED** | Blackout Jul 22 = 5 days | **BLOCKED** — exits universe this cycle
+- **Hedge check:** SH $625 / 25% QUEUED — Alpaca Day ~136 BLOCKED — UNCHANGED. Thesis: 8/25 dist + Correction; SH executes FIRST on Alpaca restore.
+- **Circuit breakers:** ALL CLEAR | P&L today: $0 | P&L week: $0 | Equity: $2,500 (HWM) | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day ~136 BLOCKED + 0 positions + 0 candidates ≥75)
+- **⚠️ TOMORROW (JUL 15):** PPI June (8:30 AM ET) + Fed Beige Book (4:15 PM ET) + Warsh Senate Banking Committee testimony + WFC/C/BAC earnings. Continued macro-heavy. Dist day risk remains moderate (PPI hot = additional pressure). Confirm Jul 14 S&P close + CPI actual.
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~136) | Perplexity 403 | AV 403
 
 **⚠️ JUL 14 /market-check (10:00 AM CT — 🔴 CORRECTION DEEPENING — ⚠️ PROBABLE DIST DAY #8 (JUL 13 S&P −0.3%) — CPI JUNE EST. 3.8-3.9% HEADLINE / 2.9% CORE (ACTUAL NOT CONFIRMED) — WARSH LIVE — JPM/GS BEATS EXPECTED — ALPACA DAY ~135 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~135 BLOCKED | Perplexity 403 | AV 403

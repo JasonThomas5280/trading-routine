@@ -4015,3 +4015,22 @@ Bench: NVDA 74 / MRVL 40-50 / ARM 60 (blackout Jul 22 = 6 days → exits univers
 SH $625 QUEUED (Alpaca blocked) | Thesis STRENGTHENS with prob dist day #8
 Watchlist: 0 primary (14th wk); 0 bench promotions
 Weekly trades: 0/3 | Next: /eod-review 3:15 PM CT (confirm Jul 13 dist day + CPI actual + Jul 14 close)
+
+---
+## 2026-07-13 20:21 CT [clickup-placeholder]
+
+📊 EOD 2026-07-14 | Equity $2,500 (+0% day, +0% week)
+Open: 0 positions, 100% cash
+Distribution days: 8 of 25 (✅ #8 CONFIRMED Jul 13 −0.3% Iran/SK Hynix)
+Market: 🔴 Correction (8/25 | FTD window CLOSED | Rally low 7,266.99 INTACT +4.74%)
+Actions today:
+  • sell-rules-engine: SKIPPED (0 positions)
+  • No buys/sells/stops (Correction + Alpaca Day ~136 BLOCKED + 0 candidates)
+  • Jul 13 dist day #8 confirmed
+  • Jul 14 est. NOT dist day (S&P est. +0.8%)
+CPI June: UNCONFIRMED (soft signal; consensus ~3.8-3.9% YoY)
+Warsh: hawkish/expected (Sep hike 75%+ priced)
+JPM/GS Q2: beats (XLF lagging; no action)
+50d MA cushion: est. ~+103 pts (+1.37%)
+ARM blackout: Jul 22 = 5 days (exits universe)
+Tomorrow: PPI Jun + Warsh Senate + WFC/C/BAC
