@@ -46,6 +46,64 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-14 (Tue) — /market-check (10:00 AM CT) — 🔴 CORRECTION DEEPENING — ⚠️ PROBABLE DIST DAY #8 (JUL 13 −0.3%) — CPI JUNE EST. SOFT HEADLINE / STICKY CORE — WARSH LIVE — ALPACA DAY ~135 BLOCKED — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~135; Perplexity: 403; AV: 403 — all three primary sources blocked; 15th consecutive week degraded mode)
+**Market direction:** 🔴 Market in Correction | **est. 8/25 distribution days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13 prob) | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Weekly trades:** 0/3 (week of Jul 14 — OPEN) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (4-week trailing RS):** XLK Technology (NVDA/Meta AI; weakened today by chip contagion), XLI Industrials, XLC Communication
+**Sector laggards:** XLE (Hormuz re-escalation reverses oil direction; WTI $74.26), XLF (RRG Lagging — do not chase bank earnings), XLRE (hawkish Fed; Sep hike priced)
+
+### Abort gates — ALL FIRED (no trades)
+
+| Gate | Status |
+|---|---|
+| Market state ≠ Confirmed Uptrend | 🔴 FIRED — Correction (est. 8/25 dist days) |
+| Alpaca blocked | 🔴 FIRED — Day ~135; no execution possible |
+| Open positions | ✅ CLEAR — 0 positions |
+| Daily/weekly circuit breakers | ✅ CLEAR — $0 P&L; $2,500 equity |
+| Drawdown halt | ✅ CLEAR — at HWM |
+| Weekly trade count | ✅ CLEAR — 0/3 used |
+| Position count | ✅ CLEAR — 0/4 filled |
+| Primary watchlist ≥75 | 🔴 NONE — 14th consecutive week |
+
+### Overnight catalysts — Jul 13
+
+- **Iran/Hormuz:** US CENTCOM struck 140+ Iranian military targets overnight Jul 12-13. IRGC attacked container ships. Strait "closed until further notice." WTI +4% to $74.26. S&P opened −0.37% (7,547.53); closed ~−0.3% (est. 7,552). Nasdaq −0.7%. Dow +0.1%.
+- **SK Hynix:** −15% record crash (HBM4 miss, Q2 profit 8% below consensus). Micron/SanDisk/WD −6%; Intel/AMD/Applied Materials −4%. Contagion hit semis broadly.
+- **⚠️ PROBABLE DIST DAY #8 (Jul 13):** S&P −0.3% meets price threshold; volume likely elevated given dual macro shock. Best estimate: 8th dist day confirmed. Unverified (Alpaca/search lag). Confirm at /eod-review.
+
+### Jul 14 catalysts (today — results NOT YET INDEXED)
+
+- **CPI June 2026 (8:30 AM ET):** Consensus Headline ~3.8-3.9% YoY (↓ from 4.2%; oil -21% in June); Core ~2.9% (sticky). MIXED signal. Actual: UNCONFIRMED (search lag).
+- **Warsh House testimony (10 AM ET — LIVE NOW):** Sep hike base case; hawkish family fight. Any hawkish signal = additional vol. Actual comments: NOT INDEXED.
+- **JPM Q2 earnings:** Consensus EPS $5.44-5.61 (+10% YoY). Beat expected. Actual: NOT CONFIRMED. XLF in RRG Lagging — do NOT chase.
+- **GS Q2 earnings:** Consensus EPS $14.47-14.51. SpaceX IPO fees boosting IB. Beat expected. Actual: NOT CONFIRMED.
+
+### Watchlist trigger check
+
+- **Primary watchlist (≥75):** NONE — zero candidates for 14th consecutive week
+- **Bench trigger check:** No promotions. All bench items below 75 AND Correction blocks all entries regardless.
+- **NVDA:** ~$208 est. (74/100 — HBM4 miss marginal negative; no base; Correction gate; no action)
+- **MRVL:** ~$235 (40-50/100; broken; no action)
+- **ARM:** ~$310-315 (60/100; BLACKOUT JUL 22 = 6 trading days; exits universe this cycle)
+
+### Position health check (Rule 1 / Rule 3 intraday)
+
+- **0 positions → SKIPPED** ✅
+
+### Actions taken
+
+- MARKET-DIRECTION.md: Updated with Jul 13 probable dist day #8, Jul 14 CPI context, Warsh live, 50d MA proximity update
+- RESEARCH-LOG.md: This entry
+- ClickUp: Summary sent via scripts/clickup.sh (placeholder mode)
+- sell-rules-engine: SKIPPED (0 positions)
+- canslim-screener: NOT CALLED (0 primary candidates; Correction; no triggers)
+- trade-executor: NOT CALLED (abort gates fired)
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~135) | Perplexity 403 | AV 403
+
+---
+
 ## 2026-07-12 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CONFIRMED 7,575.39 — 50d MA REVISED 7,509.17 ⚠️ — CPI+JPM+GS+WARSH TUE JUL 14 — ALPACA DAY ~133 BLOCKED — WEEK OF JUL 14-18 SETUP
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~133; Perplexity: 403; AV: 403 — all three primary sources blocked; 14th consecutive week in degraded mode; `research_source: websearch_fallback` logged)

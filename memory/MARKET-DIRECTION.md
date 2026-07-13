@@ -6,7 +6,30 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION — UNCHANGED** *(Jul 13 /pre-market — 7/25 dist days — ⚠️ NEW: US-IRAN 4TH ROUND STRIKES + STRAIT OF HORMUZ THREAT — OIL WTI +4% TO $74.26 — SK HYNIX -15% RECORD (HBM4 MISS) — NQ FUTURES -0.89% — DIST DAY #8 RISK MONDAY — S&P CONFIRMED 7,575.39 Jul 10 close — 50d MA 7,509.17 (+0.88% cushion ⚠️ THIN) — 200d MA 7,472.59 — FTD CLOSED — SPY 50d/200d BEARISH CROSS ⚠️ — NVDA ~$208 / MRVL $235.81 / ARM blackout Jul 22 = 6 days — rally low 7,266.99 INTACT — Alpaca Day ~134 BLOCKED — 0 positions — SH $625 QUEUED — SH thesis STRENGTHENS)*
+**Status:** 🔴 **MARKET IN CORRECTION — DEEPENING** *(Jul 14 /market-check — ⚠️ PROBABLE 8/25 DIST DAYS — Jul 13 S&P −0.3% ON IRAN/HORMUZ + SK HYNIX CHIP DRAG = PROBABLE DIST DAY #8 — CPI June est. 3.8-3.9% headline / 2.9% core (actual not yet confirmed; search lag) — WARSH TESTIMONY LIVE NOW — JPM/GS Q2 beats expected (not confirmed) — OIL WTI $74.26 — ARM BLACKOUT JUL 22 = 6 DAYS — ALPACA DAY ~135 BLOCKED — 0 POSITIONS — SH $625 QUEUED — CORRECTION DEEPENING — FTD IMPOSSIBLE)*
+
+**⚠️ JUL 14 /market-check (10:00 AM CT — 🔴 CORRECTION DEEPENING — ⚠️ PROBABLE DIST DAY #8 (JUL 13 S&P −0.3%) — CPI JUNE EST. 3.8-3.9% HEADLINE / 2.9% CORE (ACTUAL NOT CONFIRMED) — WARSH LIVE — JPM/GS BEATS EXPECTED — ALPACA DAY ~135 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~135 BLOCKED | Perplexity 403 | AV 403
+- **⚠️ PROBABLE DIST DAY #8 — JUL 13 (MONDAY):** S&P fell ~−0.3% (est. close ~7,552; Dow +0.1%, Nasdaq −0.7%) on Iran/Hormuz re-escalation + SK Hynix −15% chip contagion. Meets −0.2% price threshold. Volume: likely elevated given macro shock (unconfirmed — Alpaca blocked). **Best estimate: DIST DAY #8 CONFIRMED → 8/25 dist days.** Will confirm at /eod-review when close data indexed.
+- **Distribution day accounting (probable):** +1 new: Jul 13. Active est.: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, **Jul 13 (prob)**. **Est. 8/25** | Correction DEEPENS if confirmed.
+- **CPI June 2026 (Jul 14, 8:30 AM ET — ACTUAL NOT YET INDEXED):** Search lag — only consensus available. Est. Headline: ~**3.8-3.9%** YoY (↓ from 4.2% May; driven by oil -21% in June from ceasefire/Hormuz reopening). Est. Core: ~**2.9%** YoY (sticky; +0.2-0.3% MoM). MIXED signal likely. Headline SOFT (energy) + Core STICKY = confusion; may not resolve dist day risk. Actual: `UNCONFIRMED — search lag`. Will update at /eod-review.
+- **Warsh House Financial Services testimony (10 AM ET — LIVE):** First semiannual monetary policy testimony to Congress. Sep rate hike base case (24% Jul hike priced). Any hawkish language = additional market pressure. Actual comments: `NOT YET INDEXED`.
+- **JPM Q2 earnings (pre-market):** Consensus EPS $5.44-5.61 (vs $4.96 YoY, +10%). Beat widely expected (96% prediction market probability). XLF in RRG Lagging → do NOT chase. Actual: `NOT YET CONFIRMED`.
+- **GS Q2 earnings (pre-market):** Consensus EPS $14.47-14.51 (strong IB/trading). Lead underwriter on SpaceX IPO. Beat expected. Actual: `NOT YET CONFIRMED`.
+- **Iran/Hormuz (UNCHANGED — ACTIVE ESCALATION):** US struck 140+ Iranian military targets overnight Jul 12-13. Iran IRGC attacked container ships. Strait "closed until further notice" (Iran); US denies ability to close. Shipping effectively halted. WTI $74.26 (+4.0%). Note: June CPI captured June oil (~$77 pre-re-escalation) → SOFT headline print is backward-looking; July CPI (Aug 14) will capture re-escalation = expect HOT August print.
+- **SK Hynix (Jul 13 update):** −15% record crash on HBM4 miss (Q2 profit 8% below consensus). US ADRs −9.3%. KOSPI circuit breaker. Micron/SanDisk/WD/Applied Materials all −4-6% contagion. NVDA implication: marginal negative (HBM4 = H200/B200 GPU memory; soft shipments = soft AI accelerator demand signal near-term).
+- **50d MA risk (ELEVATED):** S&P Jul 10 close 7,575.39 | 50d MA 7,509.17. If Jul 13 close ~7,552, cushion now ~**+43 pts (+0.57%)** — even thinner than before. ONE MORE -0.57%+ distribution day = 50d MA breach.
+- **S&P rally low (7,266.99 — Jun 10):** INTACT. From est. Jul 13 close 7,552 = +285 pts (+3.77%). No new Day 1 possible without a major shock.
+- **Open positions:** 0 → sell-rules-engine: SKIPPED ✅
+- **Watchlist triggers:** NONE — 0 primary candidates ≥75 (14th consecutive week); Correction gate blocks all longs
+- **Bench:** NVDA ~$208 est. (74/100; HBM4 miss marginal negative; no action) | MRVL ~$235 (40-50/100; broken; no action) | ARM ~$310-315 (60/100; BLACKOUT JUL 22 = 5-6 days; exits universe)
+- **ARM final countdown:** Jul 22 blackout = 6 trading days from today. ARM exits actionable universe for this cycle. Remove from bench evaluation next week.
+- **SH hedge:** $625 QUEUED — Alpaca Day ~135 BLOCKED — thesis STRENGTHENS with prob dist day #8 + 50d MA at 43 pts from current
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Week Jul 14: 0/3 trades
+- **Actions: NONE** (Correction + Alpaca BLOCKED + 0 positions + 0 candidates)
+- **FTD path:** IMPOSSIBLE this week. Day 1 requires S&P CLOSE BELOW 7,266.99 — currently ~285 pts above.
+- **Next check:** /eod-review 3:15 PM CT — confirm Jul 13 dist day with indexed close data; confirm Jul 14 CPI actual and market close
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~135) | Perplexity 403 | AV 403
 
 **⚠️ MAJOR DATA CORRECTION (Jul 12 /weekly-prep via WebSearch):**
 - S&P 50d MA was ESTIMATED ~7,415 in prior entries. CONFIRMED value: **7,509.17** — S&P cushion above 50d is only **+0.88%** (66 pts), NOT +1.82% as estimated. CPI hot print on Jul 14 could breach 50d MA.

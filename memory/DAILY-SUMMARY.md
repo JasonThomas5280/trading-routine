@@ -3997,3 +3997,21 @@ Bench: NVDA 74/100 | MRVL 40-50/100 | ARM 60/100 (blackout Jul 22 = 6 days)
 
 Plan: NO entries. Monitor Mon for dist day #8. CPI Tue existential — hot core + Warsh = 50d MA breach risk.
 research_source: websearch_fallback | Alpaca BLOCKED Day ~134
+
+---
+## 2026-07-13 15:19 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-14 10:00 AM CT
+Market: 🔴 Correction | ⚠️ PROB DIST DAY #8 (Jul 13 S&P −0.3% Iran/chip drag) | est. 8/25 dist days
+Circuit breakers: NONE
+Actions taken: No entries (Correction + Alpaca Day ~135 BLOCKED) | No sells (0 positions)
+CPI June: est. 3.8-3.9% headline / 2.9% core (actual not indexed — search lag; confirm /eod-review)
+Warsh testimony: LIVE NOW (10 AM ET) — hawkish risk; Sep hike base case
+JPM/GS Q2: Beats expected pre-market; actual unconfirmed; XLF RRG Lagging — no chase
+Iran/Hormuz: ACTIVE ESCALATION — US struck 140+ targets; shipping halted; WTI $74.26
+SK Hynix −15% (HBM4 miss) → chip contagion; NVDA ~$208 marginal negative
+50d MA: 7,509 vs S&P est. ~7,552 → cushion NOW ~43 pts (0.57%) ⚠️ CRITICAL
+Bench: NVDA 74 / MRVL 40-50 / ARM 60 (blackout Jul 22 = 6 days → exits universe)
+SH $625 QUEUED (Alpaca blocked) | Thesis STRENGTHENS with prob dist day #8
+Watchlist: 0 primary (14th wk); 0 bench promotions
+Weekly trades: 0/3 | Next: /eod-review 3:15 PM CT (confirm Jul 13 dist day + CPI actual + Jul 14 close)
