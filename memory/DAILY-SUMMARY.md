@@ -4048,3 +4048,22 @@ Removed: ARM exits universe Jul 21 COB (blackout Jul 22 = 4 days; 60/100)
 Bench: NVDA 74/100 BLOCKED | MRVL ~30-45/100 (Jul 14 range $212-231; AI capex plateau narrative) | ARM exits cycle
 Key catalyst today: ⚠️ PPI June 8:30 AM ET (hot core 5.2% YoY est. = dist day #9 risk) | Warsh Senate 10 AM ET | BAC Q2 pre-mkt (XLF lagging; no action) | Beige Book 4:15 PM ET
 Plan: NO ENTRIES — Correction posture. SH $625 queued (Alpaca Day ~137 BLOCKED). PPI hot core = dist day #9 risk. Confirm Jul 14 close at /eod-review.
+
+---
+## 2026-07-14 15:17 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-15 10:00 AM CT
+Market: 🔴 Correction (8/25 dist) | Circuit breakers: NONE
+Actions: No new entries (Correction gate) | No sells (0 positions)
+Key updates:
+  ✅ Jul 13 CONFIRMED: 7,515.34 (-0.79%; was est. -0.3%) DIST #8 confirmed
+  ⚠️ 50d MA near-miss: Jul 13 only 6 pts above 50d MA (EXTREME DANGER)
+  ✅ CPI June CONFIRMED: -0.4% MoM / 3.5% YoY (MAJOR BEAT vs -0.2%/3.8% est.)
+  Jul 14 close est. revised: ~7,545-7,553 (was ~7,612; Iran/oil capped CPI relief)
+  PPI June actual: AWAITED (core 5.2% YoY consensus = hot core risk)
+  ARM EXITS UNIVERSE: blackout Jul 22 = 4 days; removed from bench
+  MRVL score down: ~25-40/100 (price est. ~17.53 = -7.8% from Jul 10)
+  NVDA: 74/100 UNCHANGED | Cup wk ~26; no handle
+Watchlist: 0 primary (15th wk zero); bench: NVDA 74 / MRVL 25-40 / ARM REMOVED
+Positions: 0 | Cash: 100% | Weekly trades: 0/3 | SH QUEUED (Alpaca blocked)
+Next: /eod-review 3:15 PM CT

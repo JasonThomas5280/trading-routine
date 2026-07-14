@@ -156,6 +156,98 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-15 (Wed) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 13 CONFIRMED 7,515.34 (−0.79%) — ✅ CPI −0.4%/3.5% — PPI AWAITED — WARSH SENATE LIVE — ARM EXITS UNIVERSE — 0 POSITIONS — ALPACA DAY ~137 BLOCKED — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~137; Perplexity: 403; AV: 403 — 18th consecutive session in degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** | Jul 13 close CONFIRMED 7,515.34 | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Weekly trades:** 0/3 (week of Jul 14) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders:** XLK Technology (SMH +1.8% pre-mkt semi relief), XLI Industrials, XLC Communication
+**Sector laggards:** XLE (Iran/Hormuz WTI elevated; energy remains bid but corrective vs Jun), XLF (RRG Lagging; bank beats irrelevant), XLRE (Sep hike; 10yr 4.58%+)
+
+### Abort gate check
+
+| Gate | Status |
+|---|---|
+| Market state | 🔴 CORRECTION (8/25 dist) — **GATE FIRED** — no new longs |
+| Research unavailable | ✅ CLEAR (websearch_fallback active; not DEGRADED) |
+| Daily circuit breaker | ✅ CLEAR |
+| Weekly circuit breaker | ✅ CLEAR |
+| Drawdown halt | ✅ CLEAR |
+| Weekly trade count | ✅ CLEAR (0/3) |
+| Position count | ✅ CLEAR (0/4) |
+| Cash buffer | ✅ CLEAR (100% cash) |
+
+**Result: ABORT GATE #1 FIRED (Correction).** Skip to step 6 summary. No trades possible.
+
+### Key confirmed data (from WebSearch)
+
+**✅ Jul 13 close: 7,515.34 CONFIRMED (−0.79% from 7,575.39 Jul 10)**
+- Prior estimate: ~7,552 / −0.3% — ACTUAL WAS MORE SEVERE (−0.79%)
+- Cause: Trump Iran/Hormuz "blockade reinstated" (Jul 12-13 overnight) + SK Hynix −15% (HBM4 miss)
+- 50d MA proximity CRITICAL: 7,515.34 − 7,509.17 = **+6.17 pts only** (0.08% above 50d MA — EXTREME DANGER ZONE)
+- DIST DAY #8 CONFIRMED ✅ (active: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13)
+
+**✅ CPI June 2026 CONFIRMED: −0.4% MoM / 3.5% YoY (MAJOR BEAT)**
+- Consensus was −0.2% MoM / 3.8% YoY
+- Actual: MoM **−0.4%** (deflationary month), YoY **3.5%** (down from 4.17% May)
+- Best headline inflation print in years. Driven by energy (−21% YoY) from Iran ceasefire pre-re-escalation.
+- NOTE: backward-looking June data. Jul CPI (Aug 14) will capture Hormuz re-escalation oil spike.
+- Market reaction Jul 14: initial relief rally; held back by Iran/oil + SK Hynix HBM4 continuation → S&P est. +0.3-0.5% close (~7,545-7,553 est.)
+
+**Jul 14 close estimate (UPDATED):**
+- Prior estimate: +0.8% to ~7,612 — REVISED DOWN
+- New estimate: +0.3-0.5% to ~7,545-7,553 (relief rally but capped by Iran/oil; TheStreet: "drops as Middle East tensions escalate" — conflicting signals; consensus leans mild positive)
+- **NOT a distribution day** ✅ → 8/25 UNCHANGED
+- 50d MA cushion est. as of Jul 14: ~+36 pts (+0.47%) — thin but safer than Jul 13's 6 pts
+
+**PPI June (8:30 AM ET today — NOT YET INDEXED):**
+- Consensus: Headline −0.1% MoM / 6.2% YoY (cool); Core +0.4% MoM / **5.2% YoY (HOT)**
+- Actual: `UNCONFIRMED — search not yet indexed`
+- If HOT core > 5.2%: additional selling pressure risk → potential dist day #9 today
+- If in-line/cool: CPI relief trade extends; S&P holds
+
+**Warsh Senate Banking Committee testimony (10 AM ET — LIVE NOW):**
+- Same hawkish stance expected: "price stability" emphasis; Sep hike base case (CPI beat may soften tone slightly)
+- If dovish shift: bullish surprise → S&P relief extension
+- If hawkish hardening: potential dist day pressure
+- Actual: `LIVE — not indexed`
+
+### Step 2: Gap follow-up
+0 positions → SKIPPED ✅
+
+### Step 3: Watchlist triggers
+- 0 primary candidates ≥75 (15th consecutive week with zero ≥75 candidates)
+- Correction gate blocks all longs regardless
+- ZERO triggers evaluated
+
+### Step 4: Mid-morning position health check
+- 0 open positions → sell-rules-engine SKIPPED ✅
+
+### Step 5: Bench promotion check
+
+| Symbol | Score | Status | Action |
+|---|---|---|---|
+| NVDA | 74/100 | Cup wk ~26; no handle; ~$205-215 est. (Jul 15); no pivot | ❌ No promotion (Correction gate; no handle; <75) |
+| MRVL | ~25-40/100 | $217.53 confirmed (Jul 15 search); broken structure deepening | ❌ No promotion; score declining |
+| ARM | 60/100 | **BLACKOUT JUL 22 = 4 TRADING DAYS (Jul 15, 16, 17, 21)** | ❌ **REMOVED FROM BENCH** this run |
+
+**ARM bench removal:** ARM exits actionable universe effective today (Jul 15). Blackout active in 4 trading days (Jul 22). Remove from bench evaluation next week (Jul 21 is last theoretical day; academic only — 60/100 far below threshold and Correction gate blocks all longs). Re-evaluate post-earnings: Jul 29 + 5-day clearance = Aug 5+ window.
+
+**MRVL score correction:** Confirmed price ~$217.53 (Jul 15 est.) = cumulative −7.8% from Jul 10 close. Score revised DOWN to ~25-40/100 from prior 30-45. L-letter and S-letter further impaired.
+
+### Actions taken
+
+- MARKET-DIRECTION.md: Updated with Jul 13 CONFIRMED close (7,515.34 / −0.79%), CPI CONFIRMED (−0.4%/3.5%), Jul 14 close revised estimate, Jul 15 /market-check entry
+- WATCHLIST.md: ARM removed from bench (blackout); MRVL score revised ⬇️ (25-40); header updated with confirmed Jul 13 data + CPI
+- RESEARCH-LOG.md: This entry
+- DAILY-SUMMARY.md: Market-check summary (clickup.sh)
+- sell-rules-engine: SKIPPED (0 positions)
+- canslim-screener: NOT CALLED (Correction + 0 candidates ≥75)
+- trade-executor: NOT CALLED (all abort gates fired)
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~137) | Perplexity 403 | AV 403
+
+---
+
 ## 2026-07-14 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — ✅ DIST DAY #8 CONFIRMED (JUL 13 → 8/25) — JUL 14 NOT DIST EST. ✅ — CPI JUNE UNCONFIRMED (SOFT SIGNAL) — 0 POSITIONS — ALPACA DAY ~136 BLOCKED — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~136; Perplexity: 403; AV: 403 — all three primary sources blocked; 16th consecutive session in degraded mode)
