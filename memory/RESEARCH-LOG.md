@@ -46,6 +46,76 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-15 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 14 CONFIRMED 7,543.59 (+0.38% NOT DIST) — JUL 15 UNCONFIRMED (SEARCH LAG) — PPI JUNE UNCONFIRMED — 0 POSITIONS — ALPACA DAY ~137 BLOCKED — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~137; Perplexity: 403; AV: 403 — 17th+ consecutive session in degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades:** 0/3 (week of Jul 14 — open)
+
+### Step 1: Market state (SPY/QQQ bars — Alpaca blocked, WebSearch)
+
+**✅ JUL 14 CONFIRMED:**
+- S&P 500: **7,543.59 (+0.38%)** — NOT a dist day ✅ (⚠️ prior est. ~7,612 was +68 pts too high)
+- Nasdaq: **26,107.01 (+0.9%)**
+- SMH: **+2.5%** (semiconductor relief bid — CPI-soft continuation + AMAT/LRCX +3%+)
+- MRVL: **$217.53** confirmed Jul 14 close (additional −1.6% from $221 Jul 13)
+- 50d MA cushion: 7,543.59 − 7,509.17 = **+34.42 pts (+0.46%)** — improving from +6.17 pts Jul 13 but still dangerously thin
+- 200d MA cushion: ~7,543 − 7,473 = **+70 pts (+0.95%)** ✅
+- Rally margin: 7,543.59 − 7,266.99 = **+276.60 pts (+3.81%)** INTACT ✅
+
+**JUL 15 (UNCONFIRMED — search lag):**
+- S&P 500 Jul 15 close: NOT INDEXED
+- PPI June actual (8:30 AM ET): NOT INDEXED (consensus: headline −0.1%/6.2%, core +0.4%/5.2% HOT)
+- Pre-market was: ES flat / NQ +0.5% / SMH +1.8% → setup was mildly bullish
+- Warsh Senate: hawkish/in-line ("pledged to get monetary policy right") — no surprise; Sep hike base case unchanged
+- BAC Q2: XLF RRG Lagging → NO ACTION
+- Estimate: S&P ~7,540-7,590; probably NOT a dist day (will confirm at /pre-market Jul 16)
+
+**Distribution day check:**
+- Jul 14: NOT dist (confirmed +0.38%) ✅
+- Jul 15: UNCONFIRMED → 8/25 UNCHANGED pending confirmation
+
+### Step 2-3: Sell-rules-engine / position verdicts
+
+**0 open positions → SKIPPED** ✅
+
+Batch evaluated: 0 | Results: [] | Market-level: {dist_days: 8, state: "Market in Correction"}
+
+### Step 4: Portfolio-level checks
+
+- Distribution cluster (Rule 4): 8/25 already Correction; no new threshold today ✅
+- Hedge check: SH $625 / 25% QUEUED — Alpaca BLOCKED (Day ~137) — thesis intact (8/25 dist; 50d MA thin; Iran escalation active)
+- FTD exit: N/A (no inverse ETF held — Alpaca blocked from placing SH order)
+- Follow-through day: NONE — Correction active
+
+### Step 5: Circuit breakers
+
+- Account P&L today: $0 (0 positions)
+- Week P&L: $0 (0 positions)
+- -3% day breaker: NOT triggered ✅
+- -6% week breaker: NOT triggered ✅
+- -12% drawdown: NOT triggered ✅ (equity = $2,500 = HWM)
+- PDT count: 0 of 3 ✅
+
+### Step 6: Weekly trade counter
+
+- Week of Jul 14: 0/3 positions opened (UNCHANGED — Correction gate blocks all entries)
+
+### Catalysts / forward-looking
+
+- **CPI June CONFIRMED −0.4%/3.5% YoY** — major disinflation beat. June = pre-Hormuz-re-escalation data; July CPI (Aug 14) will be hotter due to oil spike.
+- **Warsh House + Senate (Jul 14-15):** Hawkish in-line; "mission accomplished" rejected; Sep hike base case; no dovish surprise.
+- **JPM/GS Q2 beats confirmed** — XLF RRG Lagging; no strategy action.
+- **MRVL score revised ⬇️:** $217.53 confirmed Jul 14; broken structure; AI spend narrative weakening; CFO selling; ~25-35/100. Needs 8+ wk base rebuild.
+- **ARM blackout:** 3 trading days remain (Jul 16, 17, 21) before Jul 22 blackout → exits actionable universe Jul 21 COB. Remove from bench next week.
+- **⚠️ TOMORROW (Jul 16):** Retail Sales June (8:30 AM ET) + Jobless Claims + confirm Jul 15 close + confirm PPI June actual (once indexed). ARM final days before exit.
+
+### New candidates flagged
+
+None — 0 primary candidates ≥75 (15th+ consecutive week; Correction gate blocks all longs)
+
+---
+
 ## 2026-07-15 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ES FLAT / NQ +0.5% / SMH +1.8% — PPI 8:30 AM ET TODAY — WARSH SENATE 10 AM ET — BAC Q2 TODAY — 0 POSITIONS — ALPACA DAY ~137 BLOCKED — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~137; Perplexity: 403; AV: 403 — all three primary sources blocked; 17th consecutive session in degraded mode)

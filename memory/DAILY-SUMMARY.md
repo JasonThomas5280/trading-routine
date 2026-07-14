@@ -1,5 +1,20 @@
 
 ---
+## 2026-07-15 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — ✅ JUL 14 CONFIRMED 7,543.59 (+0.38% NOT DIST) — JUL 15 UNCONFIRMED (SEARCH LAG) — PPI JUNE UNCONFIRMED — 0 POSITIONS — NO ACTIONS]
+
+📊 EOD 2026-07-15 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 8 of 25 (market: 🔴 Correction — UNCHANGED)
+Close: ✅ JUL 14 CONFIRMED S&P 7,543.59 (+0.38%) | Nasdaq 26,107.01 (+0.9%) | SMH +2.5% [⚠️ prior est. ~7,612 was +68 pts high]
+JUL 15 close: UNCONFIRMED (search lag — PPI June actual + Jul 15 S&P not indexed; est. flat to +0.3%; probably NOT dist day)
+Dist check: Jul 14 NOT dist ✅ (confirmed +0.38%); Jul 15 UNCONFIRMED; 8/25 UNCHANGED
+Actions today: NONE (Correction + Alpaca Day ~137 BLOCKED + 0 positions + 0 candidates ≥75; sell-rules-engine SKIPPED — 0 positions)
+Key confirms: ✅ CPI June −0.4%/3.5% CONFIRMED | Warsh Senate hawkish/in-line | MRVL $217.53 confirmed Jul 14 (broken; score ⬇️ ~25-35) | ARM blackout 3 days (exits universe Jul 21 COB)
+SH hedge: $625 / 25% QUEUED — Alpaca Day ~137 BLOCKED — thesis intact
+Tomorrow (Jul 16): Retail Sales Jun (8:30 ET) + Jobless Claims + C/WFC earnings (XLF lagging; no action) + confirm Jul 15 close + PPI June actual (once indexed)
+research_source: websearch_fallback | Alpaca BLOCKED (Day ~137) | Perplexity 403 | AV 403
+
+---
 ## 2026-07-07 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — SAMSUNG SELLOFF MU/SanDisk −7% — NVDA +1% RS POSITIVE — DIST DAY #7 RISK — FOMC MINUTES TOMORROW JUL 8]
 
 📈 Market-check 2026-07-07 10:00 AM CT
@@ -4067,3 +4082,18 @@ Key updates:
 Watchlist: 0 primary (15th wk zero); bench: NVDA 74 / MRVL 25-40 / ARM REMOVED
 Positions: 0 | Cash: 100% | Weekly trades: 0/3 | SH QUEUED (Alpaca blocked)
 Next: /eod-review 3:15 PM CT
+
+---
+## 2026-07-14 20:24 CT [clickup-placeholder]
+
+📊 EOD 2026-07-15 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 8 of 25 (market: 🔴 Correction — UNCHANGED)
+Close: ✅ Jul 14 CONFIRMED S&P 7,543.59 (+0.38%, NOT dist ✅) | Nasdaq +0.9% 26,107.01 | SMH +2.5% [⚠️ prior est ~7,612 was +68 pts high]
+Jul 15 close: UNCONFIRMED (search lag; est. flat to +0.3%, probably not dist)
+Actions today:
+  • NONE — Correction + Alpaca Day ~137 BLOCKED + 0 positions + 0 candidates ≥75
+  • sell-rules-engine: SKIPPED (0 positions)
+Key data: ✅ CPI Jun −0.4%/3.5% confirmed | Warsh Senate hawkish/in-line | MRVL $217.53 confirmed (broken ~25-35/100) | ARM blackout 3 days → exits universe Jul 21 COB
+SH hedge: $625 QUEUED (Alpaca still blocked)
+Tomorrow (Jul 16): Retail Sales Jun (8:30 ET) + Jobless Claims + C/WFC/BAC earnings (XLF lagging; no action) + confirm Jul 15 close + PPI Jun actual
