@@ -46,6 +46,116 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-15 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ES FLAT / NQ +0.5% / SMH +1.8% — PPI 8:30 AM ET TODAY — WARSH SENATE 10 AM ET — BAC Q2 TODAY — 0 POSITIONS — ALPACA DAY ~137 BLOCKED — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~137; Perplexity: 403; AV: 403 — all three primary sources blocked; 17th consecutive session in degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13 CONFIRMED) | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Weekly trades:** 0/3 (week of Jul 14 — open) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+**Sector leaders (4-week trailing RS):** XLK Technology, XLI Industrials, XLC Communication
+**Sector laggards:** XLE (Iran/Hormuz WTI elevated; June energy softness backward-looking), XLF (RRG Lagging), XLRE (Sep hike priced; 10yr 4.58%+)
+
+### Step 1-2: Open positions — overnight gap check / catalyst scan
+
+**0 open positions → SKIPPED** ✅
+
+### Step 3: Catalyst scan — bench watchlist
+
+**NVDA:**
+- Pre-market estimate: ~$205-215 (consistent with Jul 10 close $209.14; semis relief bid)
+- SMH (semi ETF) +1.8% pre-market (AMAT +3%+, LRCX +3%+, Micron +3%) = relief read-through continues from Jul 14 soft CPI
+- No new thesis-changing catalyst overnight
+- Score: **74/100 UNCHANGED** | Cup wk ~26; no handle; no base bonus
+- Status: 🔴 BLOCKED (Correction + 74/100 below threshold + no base)
+- Action: NONE
+
+**MRVL:**
+- Jul 13 confirmed: −6.26% (from $235.81 Jul 10 close → ~$221.00 Jul 13 est. close)
+- Jul 14 intraday range: **$212.93 — $231.10** (search confirmed; significant further deterioration)
+- Jul 14 close est.: ~$218-225 (midrange; unconfirmed via Alpaca)
+- New narrative: "sustainability of enterprise AI spending decelerating; cloud CSP capex plateau for networking hardware; R&D cost headwinds"
+- Score revised: **~30-45/100 ⬇️** (further below prior 40-50 estimate; broken structure deepens)
+- Status: 🔴 BLOCKED — broken base, CFO selling ongoing, AI spend concerns deepen
+- Action: NONE
+
+**ARM:**
+- Investor profit-taking ahead of Jul 29 earnings (179% YTD); shares declining into earnings
+- Score: **60/100 UNCHANGED**
+- ⚠️ **BLACKOUT JUL 22 = 4 TRADING DAYS** (Jul 15, 16, 17, 21) — ARM exits actionable universe this cycle permanently after Jul 21 COB
+- Status: 🔴 EXITS UNIVERSE — Correction + 60/100 + 4 days to blackout
+- Action: NONE; remove from bench evaluation next week
+
+### Step 4: Market overnight check
+
+**Futures (6:00 AM CT Jul 15):**
+- ES (S&P E-mini): flat (−1 pt / −0.01%)
+- NQ (Nasdaq-100): +0.5% — tech/semi relief bid continues
+- DJIA: −66 pts / −0.1%
+- SMH (VanEck Semi ETF): +1.8% pre-market (AMAT +3%+, LRCX +3%+, Micron +3%, Teradyne +3%+) — continuation of CPI-soft relief rally from Jul 14
+
+**Overnight developments:**
+- Iran/Hormuz: ACTIVE — US/Iran strikes continuing; Strait status contested; WTI elevated
+- No new major macro surprises overnight; Asian/European markets quiet
+- Jul 14 CPI: Headline −0.1% MoM / ~3.8-3.9% YoY (SOFT, energy -21% June); Core +0.2% MoM / ~2.9% YoY (sticky) — confirmed SOFT HEADLINE signal driving semi relief bid
+- Jul 14 Warsh House testimony: hawkish/in-line ("deliver price stability"); Sep hike base case; market absorbed without damage
+- Jul 14 JPM/GS beats: confirmed per search (XLF lagging — no action taken)
+- Jul 14 S&P close: **UNCONFIRMED via search (lag)** | File estimate: ~7,612 (+0.8%) → NOT dist day | 8/25 UNCHANGED
+
+**Key risks today (Jul 15):**
+- **⚠️ PPI June 8:30 AM ET**: Consensus Headline −0.1% MoM / 6.2% YoY (↓ from 6.5%, cool from energy); Core +0.4% MoM / **5.2% YoY (↑ from 4.9% — HOT)**. HOT CORE = potential additional selling pressure = dist day #9 risk. COOL HEADLINE likely absorbed. ASML also reporting (EUV demand signal for semis).
+- **Warsh Senate Banking Committee 10 AM ET**: Second day of testimony; same hawkish stance expected; any surprise dovish "AI productivity" thesis = bullish read; any hawkish escalation = selling pressure
+- **BAC Q2 (today — this morning)**: EPS consensus $1.12 (+25.5% YoY); Rev $30.77B (+16.3% YoY). XLF in RRG Lagging → **NO ACTION regardless of result**
+- **Fed Beige Book 4:15 PM ET**: Secondary; look for credit stress / consumer weakness signals; typically market-neutral
+- **WFC/C (Jul 14 — yesterday)**: Reported before open; search confirms WFC EPS +12.3% expected, C EPS +38.8% expected. Actual results not indexed (XLF lagging → irrelevant for action)
+
+**S&P 500 Jul 14 close status:**
+- UNCONFIRMED: "S&P 500 headed for modest move" per Bloomberg (pre-market article); Schwab: "Market on Edge Watching Strait" (Iran)
+- File estimate (Jul 14 EOD): ~7,612 (+0.8%) → NOT dist day → 8/25 UNCHANGED
+- If actual Jul 14 close was NEGATIVE (unconfirmed scenario): could add dist day #9 → 9/25 → Deeper Correction. Confirm at /eod-review tonight.
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Last Est. | Pivot | Distance | Status |
+|---|---|---|---|---|
+| NVDA | ~$207-212 | undefined (no handle) | n/a | 🔴 BLOCKED |
+| MRVL | ~$218-225 est. | broken | n/a | 🔴 BLOCKED |
+| ARM | ~$305-320 est. | n/a | n/a | 🔴 EXITS UNIVERSE |
+| SH | queued | $62ish | n/a | ⏳ QUEUED (Alpaca blocked) |
+
+### Step 6: Circuit breakers
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | ✅ CLEAR ($0 P&L) |
+| Weekly −6% | ✅ CLEAR ($0 P&L this week) |
+| Drawdown −12% | ✅ CLEAR (at $2,500 HWM) |
+| PDT rolling 5-day | ✅ CLEAR (0 of 3) |
+
+**No circuit breakers active.**
+
+### Step 7: Plan for today's session
+
+- Correction posture — NO new long entries under any scenario today
+- PPI 8:30 AM ET: watch. HOT CORE (5.2%+ YoY) = additional dist day risk; COOL HEADLINE likely absorbed
+- Warsh Senate 10 AM ET: monitor for dovish "AI productivity" surprise (bullish read) vs. hawkish hardening (bearish)
+- BAC Q2 result: irrelevant for action (XLF RRG Lagging)
+- Fed Beige Book 4:15 PM ET: secondary; log in /eod-review
+- SH $625 hedge: remains QUEUED — Alpaca Day ~137 BLOCKED
+- ARM: 4 trading days to blackout. Last day to theoretically evaluate: Jul 21 (academic — 60/100 far below threshold)
+- /eod-review 3:15 PM CT: Confirm Jul 14 actual close + dist day status; confirm PPI result + dist day check; update ARM countdown to 3 days
+
+### Actions taken
+
+- MARKET-DIRECTION.md: Updated with Jul 15 pre-market status
+- RESEARCH-LOG.md: This entry
+- WATCHLIST.md: ARM countdown updated to 4 days; MRVL price range updated
+- sell-rules-engine: SKIPPED (0 positions)
+- canslim-screener: NOT CALLED (Correction + 0 candidates ≥75 + Alpaca blocked)
+- trade-executor: NOT CALLED (all abort gates fired)
+- ClickUp: Pre-market summary sent via scripts/clickup.sh
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~137) | Perplexity 403 | AV 403
+
+---
+
 ## 2026-07-14 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — ✅ DIST DAY #8 CONFIRMED (JUL 13 → 8/25) — JUL 14 NOT DIST EST. ✅ — CPI JUNE UNCONFIRMED (SOFT SIGNAL) — 0 POSITIONS — ALPACA DAY ~136 BLOCKED — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~136; Perplexity: 403; AV: 403 — all three primary sources blocked; 16th consecutive session in degraded mode)

@@ -4034,3 +4034,17 @@ JPM/GS Q2: beats (XLF lagging; no action)
 50d MA cushion: est. ~+103 pts (+1.37%)
 ARM blackout: Jul 22 = 5 days (exits universe)
 Tomorrow: PPI Jun + Warsh Senate + WFC/C/BAC
+
+---
+## 2026-07-14 11:14 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-15 (Wed)
+Market: 🔴 Correction (8/25 dist) | Futures: ES flat / NQ +0.5% / SMH +1.8%
+Open positions: 0 | Circuit breakers: NONE ACTIVE
+Overnight gaps: NONE (0 positions)
+Watchlist ready: NONE (Correction gate — 0 candidates ≥75)
+Watching: NONE
+Removed: ARM exits universe Jul 21 COB (blackout Jul 22 = 4 days; 60/100)
+Bench: NVDA 74/100 BLOCKED | MRVL ~30-45/100 (Jul 14 range $212-231; AI capex plateau narrative) | ARM exits cycle
+Key catalyst today: ⚠️ PPI June 8:30 AM ET (hot core 5.2% YoY est. = dist day #9 risk) | Warsh Senate 10 AM ET | BAC Q2 pre-mkt (XLF lagging; no action) | Beige Book 4:15 PM ET
+Plan: NO ENTRIES — Correction posture. SH $625 queued (Alpaca Day ~137 BLOCKED). PPI hot core = dist day #9 risk. Confirm Jul 14 close at /eod-review.
