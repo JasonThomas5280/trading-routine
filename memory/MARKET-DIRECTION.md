@@ -6,10 +6,30 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 15 /eod-review 3:15 PM CT — 8/25 dist days UNCHANGED — ✅ JUL 14 CLOSE CONFIRMED 7,543.59 (+0.38% NOT DIST ✅) — ✅ CPI JUNE CONFIRMED −0.4%/3.5% — JUL 15 CLOSE UNCONFIRMED (search lag) — PPI JUNE UNCONFIRMED (consensus hdl −0.1%/6.2%, core +0.4%/5.2% HOT) — WARSH SENATE HAWKISH/IN-LINE — ARM BLACKOUT 3 DAYS (Jul 16,17,21) — ALPACA DAY ~137 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 16 /pre-market 6:00 AM CT — 8/25 dist days — JUL 15 CLOSE EST. ~7,555-7,590 NOT DIST (est.) ⚠️ UNCONFIRMED — NVDA $211.80 CONFIRMED (Jul 15) — MRVL $223.43 CONFIRMED (Jul 15) — PPI JUNE UNCONFIRMED (consensus: HDL −0.1%/6.2% COOL; CORE +0.4%/5.2% HOT) — RETAIL SALES JUN BEAT (+9.4% NRF) — FUTURES UP (ES/NQ) — ARM BLACKOUT 3 DAYS (Jul 16,17,21) → EXITS JUL 21 COB — ALPACA DAY ~138 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
 
-**Last updated:** 2026-07-15 (Wed) — /eod-review 3:15 PM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — JUL 14 CONFIRMED 7,543.59 (+0.38% NOT DIST ✅) — JUL 15 UNCONFIRMED (search lag) — 0 POSITIONS — ALPACA DAY ~137 BLOCKED**
-**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | Jul 15 UNCONFIRMED (search lag) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 14 close +34.42 pts (+0.46%) ABOVE ⚠️ | 200d MA ~7,473 → Jul 14 +71 pts (+0.95%) ABOVE ✅
+**Last updated:** 2026-07-16 (Thu) — /pre-market 6:00 AM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — JUL 15 CLOSE EST. NOT DIST (UNCONFIRMED) — NVDA $211.80 CONFIRMED — 0 POSITIONS — ALPACA DAY ~138 BLOCKED**
+**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | Jul 15 close EST. ~7,555-7,590 (NOT dist — est.; UNCONFIRMED search lag) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 15 est. +46-81 pts ABOVE | 200d MA ~7,473 → Jul 15 est. +82-117 pts ABOVE ✅
+
+**⚠️ JUL 16 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — JUL 15 CLOSE EST. ~7,555-7,590 NOT DIST (est.) — NVDA $211.80 CONFIRMED NEAR 52-WK HIGH $212.19 — MRVL $223.43 CONFIRMED — PPI JUNE UNCONFIRMED — RETAIL SALES JUN BEAT — FUTURES UP — ARM 3 DAYS TO BLACKOUT — ALPACA DAY ~138 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~138 BLOCKED | Perplexity 403 | AV 403
+- **Abort gate: FIRED — Correction (8/25 dist days)** → no new entries. SH $625 QUEUED but Alpaca BLOCKED. Skip to summary.
+- **JUL 15 close (ESTIMATED — search lag):** NVDA confirmed $211.80 close; MRVL confirmed $223.43; pre-market was positive (ES flat/NQ +0.5%/SMH +1.8%); Warsh hawkish/in-line; PPI likely absorbed at consensus. Est. S&P **~7,555-7,590** — LIKELY **NOT a dist day** ✅ → **8/25 UNCHANGED** (confirm at /eod-review Jul 16).
+  - 50d MA cushion (Jul 15 est.): ~7,555-7,590 − 7,509.17 = **+46-81 pts** — improving from 34.42 pts Jul 14 ✅
+  - 200d MA cushion: est. **+82-117 pts** ✅
+  - Rally margin (Jul 15 est.): ~7,555-7,590 − 7,266.99 = **+288-323 pts** INTACT ✅
+- **PPI June actual (8:30 AM ET Jul 15 — UNCONFIRMED via search lag):** BLS.gov still showing May 2026 results. Consensus: Headline −0.1% MoM / 6.2% YoY (cool, energy); Core +0.4% MoM / 5.2% YoY (HOT). Search result snippet ("Retail Sales Beat Expectations as Fed Signals Higher Rates Ahead") implies data absorbed without major shock. Confirm at /eod-review Jul 16.
+- **Overnight (Jul 15→16):** ES UP / NQ UP / DJIA futures UP. Trump vowed "very hard strikes on Iran" — market NOT panicking (retail sales beat dominates). **Retail Sales June 2026:** NRF data shows **+9.4% YoY BEAT** (9th consecutive month of gains; back-to-school pull-forward; Census Bureau official data 8:30 AM ET Jul 16). **Jobless Claims** (prior 215K wk ending Jul 4): new data releases 8:30 AM ET Jul 16.
+- **NVDA Jul 15 confirmed:** Closed **$211.80** (AH −$0.16 → ~$211.64). ⚠️ **TESTING 52-WEEK HIGH $212.19 — only $0.39 away.** Morgan Stanley reiterated "Overweight." US official formally confirmed H200 chips shipping to China (Alibaba/ByteDance/DeepSeek). $80B share repurchase confirmed. **Score: 74/100 UNCHANGED** (N-letter formal China confirmation is incremental — not a step-change from Jul 10 approval; handle still absent; base bonus 0). If NVDA closes above $212.19 today → NEW 52-WK HIGH → strengthens cup formation; N-letter approaches 15 when handle also completes. STILL BLOCKED (Correction + no handle + no base bonus).
+- **MRVL Jul 15 confirmed:** Closed **$223.43** (range $218.63-$232.87; up from $217.53 Jul 14 = +2.7%). Acquisitions of Celestial AI + XConn Technologies; NVDA NVLink Fusion partnership added to platform. Despite recovery, structure remains broken. **Score: 25-35/100 UNCHANGED.** 8+ wk base rebuild still required. CFO selling ongoing. BLOCKED.
+- **ARM:** ~$305-320 est. | 60/100 | **BLACKOUT JUL 22 = 3 TRADING DAYS (Jul 16, 17, 21)** → **exits actionable universe Jul 21 COB.** Academic only.
+- **Today's events (Jul 16):** 8:30 AM ET: Retail Sales June (Census official; BEAT est.) + Jobless Claims | Citigroup (C) Q2 earnings — XLF in RRG Lagging → NO ACTION | Iran: monitoring; if oil +5%+ = dist day risk
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L today: $0 | P&L week: $0 | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day ~138 BLOCKED + 0 positions + 0 candidates ≥75)
+- **FTD path:** IMPOSSIBLE — Day 1 requires S&P CLOSE BELOW 7,266.99 (~288-323 pts below est. current)
+- **Next check:** /market-check 10:00 AM CT — confirm Retail Sales actual + dist day risk (Iran) + Jobless Claims + Jul 15 close confirmation
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~138) | Perplexity 403 | AV 403
 
 **✅ JUL 15 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 14 CONFIRMED 7,543.59 (+0.38% NOT DIST ✅) — ✅ CPI JUNE −0.4%/3.5% CONFIRMED — JUL 15 CLOSE UNCONFIRMED (SEARCH LAG) — PPI JUNE UNCONFIRMED (CONS: HDL −0.1%/6.2%, CORE +0.4%/5.2% HOT) — WARSH SENATE HAWKISH/IN-LINE — ARM BLACKOUT 3 DAYS (Jul 16,17,21) — ALPACA DAY ~137 BLOCKED — 0 POSITIONS — SELL-ENGINE SKIPPED — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~137 BLOCKED | Perplexity 403 | AV 403

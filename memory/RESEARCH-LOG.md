@@ -46,6 +46,77 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-16 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — JUL 15 CLOSE EST. NOT DIST — NVDA $211.80 CONFIRMED — MRVL $223.43 CONFIRMED — RETAIL SALES JUN BEAT — FUTURES UP — 0 POSITIONS — ALPACA DAY ~138 BLOCKED — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~138; Perplexity: 403; AV: 403 — 18th consecutive session in degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades:** 0/3 (week of Jul 14 — open)
+**Sector leaders (4-week trailing RS):** XLK Technology, XLI Industrials, XLC Communication (unchanged from weekly prep)
+**Sector laggards:** XLE (Iran/energy premium compressed), XLF (RRG Lagging), XLRE (Sep hike priced; 10yr 4.58%+)
+
+### Step 1: Open positions — overnight gap check
+
+**0 open positions → SKIPPED** ✅
+
+### Step 2-3: Catalyst scan (positions + watchlist)
+
+**0 primary watchlist candidates (15th consecutive week ≥75 threshold unmet)**
+
+**Bench overnight news:**
+
+- **NVDA (74/100 BLOCKED):** Closed **$211.80** Jul 15 (AH: −$0.16 → ~$211.64). ⚠️ Testing 52-wk high $212.19 — only $0.39 below. Morgan Stanley reiterated "Overweight." US official formally confirmed H200 chips shipping to China (Alibaba/ByteDance/DeepSeek approved). $80B share repurchase confirmed. Score unchanged at **74/100** — formal China shipping confirmation is incremental vs Jul 10 approval; handle still absent; no base bonus. If NVDA breaks $212.19 today on volume → NEW 52-WK HIGH → cup strengthens; N-letter approaches 15 upon handle completion. **Still: Correction + no handle + 74/100 (just below threshold) → BLOCKED.** `MS_overweight_reiterated` `H200_China_shipping_US_official_confirmed` `80B_buyback` `52wk_high_proximity`
+- **MRVL (~25-35/100 BLOCKED):** Closed **$223.43** Jul 15 (range $218.63-$232.87; up +2.7% from $217.53 Jul 14). Some recovery. Celestial AI + XConn Technologies acquisitions + NVDA NVLink Fusion platform partnership announced. Despite recovery, broken structure unchanged; CFO selling ongoing; AI capex deceleration narrative unchanged. **Score: 25-35/100 UNCHANGED.** Needs 8+ wk base rebuild. Not actionable. `Celestial_AI_acquisition` `XConn_acquisition` `NVLink_Fusion_partnership` `structure_still_broken`
+- **ARM (60/100 → BLACKOUT):** ~$305-320 est. **3 TRADING DAYS to Jul 22 blackout (Jul 16, 17, 21) → exits universe Jul 21 COB.** Academic only (60/100 far below threshold). `ARM_exits_Jul21_COB`
+
+### Step 4: Market overnight check
+
+**Jul 15 close (ESTIMATED — confirmed via NVDA/MRVL prices; S&P close not indexed yet):**
+- S&P 500: est. **~7,555-7,590** — LIKELY **NOT a dist day** ✅ (NVDA +$4-5 from ~$207-210 range; MRVL +$6 from $217.53; SMH was +1.8% pre-mkt; Warsh hawkish/in-line; PPI likely absorbed)
+- 50d MA cushion: est. +46-81 pts (improving from +34 pts Jul 14) ✅
+- 200d MA cushion: est. +82-117 pts ✅
+- Rally margin: +288-323 pts INTACT ✅
+- Dist day Jul 15: LIKELY NOT (est.) → **8/25 UNCHANGED** (confirm at /eod-review Jul 16)
+
+**PPI June actual (8:30 AM ET Jul 15 — UNCONFIRMED):** BLS.gov still showing May 2026. Consensus: headline −0.1% MoM / 6.2% YoY (cool, energy-driven); core +0.4% MoM / 5.2% YoY (HOT ↑ from 4.9%). Market snippet suggests absorbed without major shock. Confirm at /eod-review.
+
+**Overnight Jul 15→16:**
+- **Futures:** ES UP / NQ UP / DJIA futures UP (risk-on despite Iran)
+- **Iran:** Trump "very hard strikes on Iran" — market NOT panicking; oil/geopolitical noise absorbed; retail sales beat dominating narrative
+- **Retail Sales June 2026 (8:30 AM ET Jul 16):** NRF Retail Monitor shows **+9.4% YoY BEAT** (9th consecutive monthly gain; back-to-school pull-forward; electronics +14.16%; sporting goods +18.53%; clothing +13.65%). Official Census Bureau data releases 8:30 AM ET. Bullish read for consumer health and GDP. Hawkish read for Fed (strong spending = no rate cut reason).
+- **WFC Q2 (pre-market Jul 14):** EPS $2.00, Revenue $22.6B (+9%), ROTCE 17.7%. Solid but XLF in RRG Lagging → NO ACTION.
+- **Jobless Claims** (prior 215K wk ending Jul 4): New data 8:30 AM ET Jul 16. Labor market remains tight.
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Status | Jul 15 Close | Pivot | Distance | Signal |
+|---|---|---|---|---|---|
+| NVDA | 🔴 BLOCKED | $211.80 (conf.) | None (no handle) | N/A — no pivot | Correction + 74/100 |
+| MRVL | 🔴 BLOCKED | $223.43 (conf.) | None (broken base) | N/A | Correction + 25-35/100 |
+| ARM | 🔴 REMOVED | ~$305-320 (est.) | N/A | N/A | 3 days to blackout |
+
+**Primary candidates ≥75: 0 (15th consecutive week)**
+
+### Step 6: Circuit breaker check
+
+- Account P&L: $0 | Week P&L: $0 | Equity: $2,500 (HWM)
+- -3% day breaker: NOT triggered ✅ | -6% week breaker: NOT triggered ✅ | -12% drawdown: NOT triggered ✅
+- PDT count: 0 of 3 ✅
+- **No circuit breakers active.**
+
+### Today's critical events (Jul 16, Thursday)
+
+- **8:30 AM ET: Retail Sales June** (Census official — NRF +9.4% signals BEAT; positive for consumer) — if wildly above est.: mild dist day risk from "too-hot = no cut" narrative; if in-line: absorbed
+- **8:30 AM ET: Initial Jobless Claims** (prior 215K wk ending Jul 4; est. ~218K) — labor market health check
+- **Citigroup (C) Q2 earnings:** XLF in RRG Lagging → NO ACTION regardless of result
+- **Iran:** Monitoring for oil spike; if WTI +5%+ = potential dist day risk
+- **ARM:** 3 trading days remaining (Jul 16, 17, 21) before Jul 22 blackout → remove from bench at Jul 21 COB
+
+### New candidates flagged
+
+None — 0 primary candidates ≥75. **Notable watch: NVDA $211.80 testing 52-wk high $212.19.** If NVDA sets NEW 52-WK HIGH today on above-avg volume → N-letter approaches 15 (new high from base) → score potential **75/100** when handle completes (~Aug-Sep 2026). Correction gate still blocks all entries regardless.
+
+---
+
 ## 2026-07-15 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 14 CONFIRMED 7,543.59 (+0.38% NOT DIST) — JUL 15 UNCONFIRMED (SEARCH LAG) — PPI JUNE UNCONFIRMED — 0 POSITIONS — ALPACA DAY ~137 BLOCKED — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~137; Perplexity: 403; AV: 403 — 17th+ consecutive session in degraded mode)

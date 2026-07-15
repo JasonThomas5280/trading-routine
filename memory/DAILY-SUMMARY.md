@@ -1,5 +1,22 @@
 
 ---
+## 2026-07-16 06:00 CT [pre-market — 🔴 CORRECTION UNCHANGED — JUL 15 EST. NOT DIST — NVDA $211.80 NEAR 52-WK HIGH — RETAIL SALES BEAT — FUTURES UP — 0 POSITIONS — NO ACTIONS]
+
+🌅 Pre-market 2026-07-16
+Market: 🔴 Correction (8/25 dist) | Futures: ES UP / NQ UP (despite Trump Iran threats)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: None (0 positions)
+Jul 15 close: EST. ~7,555-7,590 NOT dist (est.) ⚠️ unconfirmed | NVDA $211.80 CONFIRMED | MRVL $223.43 CONFIRMED | PPI June UNCONFIRMED
+Retail Sales Jun: BEAT +9.4% NRF (Census official 8:30 AM ET today) | Jobless Claims: 8:30 AM ET
+Watchlist ready: NONE (0 candidates ≥75 — 15th consecutive week)
+Watchlist watching: NONE
+Removed: ARM (3 days to Jul 22 blackout → exits universe Jul 21 COB)
+Key catalyst today: Retail Sales Jun (BEAT; bullish consumer; hawkish Fed read) + Trump Iran "very hard strikes" (oil risk) + C earnings (XLF lagging; no action)
+Notable: NVDA $211.80 testing 52-wk high $212.19 (only $0.39 away) — if new 52-wk high today on volume → cup strengthens; still BLOCKED (Correction + 74/100 + no handle)
+Plan: NO ENTRIES — Correction active (8/25 dist). SH $625 hedge QUEUED; Alpaca Day ~138 BLOCKED. Monitor Iran oil risk for dist day #9. Confirm Jul 15 close + PPI June at /eod-review.
+research_source: websearch_fallback | Alpaca BLOCKED (~Day 138) | Perplexity 403 | AV 403
+
+---
 ## 2026-07-15 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — ✅ JUL 14 CONFIRMED 7,543.59 (+0.38% NOT DIST) — JUL 15 UNCONFIRMED (SEARCH LAG) — PPI JUNE UNCONFIRMED — 0 POSITIONS — NO ACTIONS]
 
 📊 EOD 2026-07-15 | Equity $2,500.00 ($0 day, $0 week)
