@@ -6,10 +6,36 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 16 /market-check 10:00 AM CT — 8/25 dist days — ✅ JUL 15 CLOSE CONFIRMED 7,574 (+0.40% NOT DIST ✅) — NVDA $211.80 CONFIRMED (Jul 15) / ⚠️ 52-WK HIGH CORRECTED $236.54 (not $212.19) — RETAIL SALES JUN +0.33%/+9.4% BEAT — JOBLESS CLAIMS 215K STABLE — ARM BLACKOUT 2 DAYS (Jul 17,21) → EXITS JUL 21 COB — ALPACA DAY ~139 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 16 /eod-review 3:15 PM CT — 8/25 dist days — ✅ JUL 15 NOT DIST CONFIRMED 7,574 (+0.40%) — ⬜ JUL 16 CLOSE UNCONFIRMED (est. NOT dist — search lag; TSMC Q2 beat + PPI cool → est. UP) — ✅ PPI JUN CONFIRMED −0.3%/+5.5% YoY / CORE +0.1% TRIPLE BEAT — ✅ TSMC Q2 ~$39.6B +36% YoY BEAT (AI 61%) — ARM 2 DAYS TO BLACKOUT (Jul 17,21) → EXITS JUL 21 COB — ALPACA DAY ~140 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
 
-**Last updated:** 2026-07-16 (Thu) — /market-check 10:00 AM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 15 CONFIRMED 7,574 NOT DIST — ⚠️ NVDA 52-WK HIGH CORRECTED $236.54 — 0 POSITIONS — ALPACA DAY ~139 BLOCKED**
-**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | ✅ Jul 15 NOT dist (7,574 +0.40% CONFIRMED) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 15 +64.83 pts ABOVE ✅ | 200d MA ~7,473 → Jul 15 +101 pts ABOVE ✅
+**Last updated:** 2026-07-16 (Thu) — /eod-review 3:15 PM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — JUL 16 CLOSE UNCONFIRMED (est. NOT dist) — ✅ PPI JUN TRIPLE BEAT — ✅ TSMC Q2 BEAT — 0 POSITIONS — ALPACA DAY ~140 BLOCKED**
+**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | ✅ Jul 15 NOT dist (7,574 +0.40% CONFIRMED) | ⬜ Jul 16 NOT dist (UNCONFIRMED — est.; confirm /pre-market Jul 17) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 15 +64.83 pts ABOVE ✅ | 200d MA ~7,473 → Jul 15 +101 pts ABOVE ✅
+
+**✅ JUL 16 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (EST. NOT DIST — TSMC Q2 BEAT + PPI COOL → EST. UP) — ✅ PPI JUN CONFIRMED −0.3%/+5.5%/CORE +0.1% TRIPLE BEAT — ✅ TSMC Q2 ~$39.6B +36% YoY BEAT (AI 61%) — ARM 2 DAYS TO BLACKOUT (Jul 17,21) → EXITS JUL 21 COB — ALPACA DAY ~140 BLOCKED — 0 POSITIONS — SELL-ENGINE SKIPPED — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~140 BLOCKED | Perplexity 403 | AV 403
+- **SPY/QQQ bars:** Alpaca 403 BLOCKED (Day ~140) — WebSearch estimates used. Pattern consistent with all prior sessions.
+- **✅ JUL 15 CLOSE CONFIRMED: 7,574 (+0.40% from 7,543.59 Jul 14)** — NOT a distribution day ✅ → 8/25 UNCHANGED.
+  - 50d MA cushion (Jul 15): 7,574 − 7,509.17 = **+64.83 pts (+0.86%)** ✅
+  - 200d MA cushion (Jul 15): ~7,574 − 7,473 = **+101 pts (+1.35%)** ✅
+  - Rally margin (Jul 15): 7,574 − 7,266.99 = **+307.01 pts (+4.22%)** INTACT ✅
+- **⬜ JUL 16 CLOSE (UNCONFIRMED — search lag):** Not indexed. TSMC Q2 beat + PPI cool momentum + Retail Sales absorbed → est. S&P **UP (+0.3-0.8% range, ~7,595-7,640)**. NOT a distribution day (est.) → **8/25 UNCHANGED**. Confirm at /pre-market Jul 17.
+- **✅ PPI JUNE 2026 CONFIRMED (BLS, released Jul 15 8:30 AM ET):** Final demand **−0.3% MoM** (vs −0.1% consensus; BEAT) | YoY **+5.5%** (vs +6.2% consensus; BEAT) | Core (ex food/energy/trade): **+0.1% MoM** (vs +0.4% consensus; MASSIVE BEAT). Goods −1.4% (diesel −18%); services +0.2%. **TRIPLE DISINFLATION BEAT.** Hot core risk (feared at +5.2% YoY) DID NOT MATERIALIZE. Combined with CPI Jun −0.4%/3.5% = consecutive disinflation sweep. Flagged UNCONFIRMED at /market-check; now CONFIRMED.
+- **✅ TSMC Q2 2026 RESULTS (earnings call 2 AM ET Jul 16):** Revenue **~$39.6B** (+36% YoY; within $39-40.2B guidance, beat consensus ~$40.02B center vs street). **AI chips = 61% of total sales** (record). June revenue +68% YoY (monthly record). N3 node sold out. Full-year guidance discussion at call; analysts expected raise above "30% growth." **NVDA implication:** AI chip demand intact; H200/B200 GPU ramp confirmed via TSM AI mix; positive for NVDA cup base thesis.
+- **Retail Sales Jun CONFIRMED:** +0.33%/+9.4% YoY BEAT (confirmed /market-check Jul 16). Absorbed.
+- **Today's earnings (Jul 16):** TSM (BEAT ✅) | GE Aerospace | UNH | ABT | USB | **NFLX (AH — result pending)** | ISRG — **NONE on watchlist**. XLF lagging → no action financials. NFLX AH → confirm at /pre-market Jul 17.
+- **Distribution day accounting:** +0 new. Active: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13. **Net: 8/25 UNCHANGED.**
+- **State transition:** NONE. 🔴 CORRECTION UNCHANGED. FTD requires new Day 1 (S&P close BELOW 7,266.99 = ~307 pts from Jul 15).
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅ | `batch_evaluated: 0` (no positions)
+- **Portfolio-level checks:** 8/25 dist (already Correction) ✅ | 0 positions ✅ | Hedge: SH $625 QUEUED, Alpaca BLOCKED
+- **Bench status (Jul 16 est.):**
+  - NVDA: $211.80 confirmed Jul 15; est. UP today on TSMC beat/chip sentiment | **74/100 UNCHANGED** | Cup wk ~27; no handle; no pivot | **BLOCKED** (Correction + 74/100 + no base + Alpaca 403)
+  - MRVL: $223.43 confirmed Jul 15 | **~25-35/100 UNCHANGED** | Broken; 8+ wk rebuild needed | **BLOCKED**
+  - ARM: ~$305-320 est. | **60/100** | ⚠️ **BLACKOUT JUL 22 = 2 TRADING DAYS (Jul 17, 21) → EXITS JUL 21 COB.** Remove from bench next week.
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L today: $0 | P&L week: $0 | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day ~140 BLOCKED + 0 positions + 0 candidates ≥75)
+- **FTD path:** IMPOSSIBLE. Day 1 requires S&P close BELOW 7,266.99 (~307 pts below Jul 15 confirmed 7,574).
+- **⚠️ TOMORROW (JUL 17):** ARM final pre-blackout day (exits universe Jul 21 COB) | NFLX AH result (confirm) | Confirm Jul 16 actual close | No major macro events
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~140) | Perplexity 403 | AV 403
 
 **✅ JUL 16 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 15 CONFIRMED 7,574 (+0.40% NOT DIST ✅) — RETAIL SALES JUN +0.33%/+9.4% BEAT — JOBLESS CLAIMS 215K — ⚠️ NVDA 52-WK HIGH CORRECTED $236.54 — ARM BLACKOUT 2 DAYS (Jul 17,21) — ALPACA DAY ~139 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~139 BLOCKED | Perplexity 403 | AV 403

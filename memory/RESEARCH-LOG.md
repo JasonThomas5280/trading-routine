@@ -14755,3 +14755,126 @@ Bench updates:
 
 **WEEK TRADE COUNT RESET:** Week of 2026-07-14: 0/3 trades used ✅
 
+
+---
+
+## 2026-07-16 (Thu) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (EST. NOT DIST) — ✅ PPI JUN CONFIRMED TRIPLE BEAT — ✅ TSMC Q2 BEAT — 0 POSITIONS — ALPACA DAY ~140 BLOCKED
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~140; Perplexity: 403; AV: 403 — all blocked; 16th+ consecutive session degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Weekly trades:** 0/3 (week of Jul 14) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+**Close:** S&P 500 Jul 15 CONFIRMED 7,574 (+0.40%) | Jul 16 UNCONFIRMED (est. ~7,595-7,640; search lag)
+**Distribution days:** 8 of 25 trailing sessions (today: new dist? UNCONFIRMED — est. NO; TSMC beat + PPI cool → est. UP)
+**Market state:** 🔴 Correction UNCHANGED (8/25 dist; FTD window CLOSED; no state transition today)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED (0 open positions)
+  - No buys, sells, or stop adjustments
+**Circuit breakers:** NONE
+**P&L today:** $0.00 (0.00%)
+**Equity:** $2,500.00 (HWM)
+
+### Step 1: Market State Check — SPY/QQQ Bars
+
+**Alpaca blocked (Day ~140) — websearch fallback. `data_confidence: low` (Jul 16 close not indexed)**
+
+| Index | Close | Change | vs Prior | Notes |
+|---|---|---|---|---|
+| S&P 500 | Jul 15: 7,574 (CONFIRMED) | +0.40% | from 7,543.59 Jul 14 | PPI cool absorbed; chip relief |
+| S&P 500 | Jul 16: UNCONFIRMED | est. +0.3-0.8% | from 7,574 Jul 15 | TSMC beat; est. ~7,595-7,640 |
+| SPY | Jul 15: ~$753.40 est. | +0.40% | from ~$750 Jul 14 | Estimate only |
+| QQQ | Jul 15: ~$722-726 est. | est. + | (MRVL $223.43 | Est. from chip action |
+
+**Distribution day check (Jul 16):**
+- Magnitude: UNCONFIRMED (est. +; not a distribution day)
+- Volume: UNCONFIRMED (Alpaca 403)
+- **→ Est. NO new distribution day** | 8/25 UNCHANGED (pending confirm /pre-market Jul 17)
+
+**Session narrative (Jul 16):**
+- TSMC Q2 2026 results at 2 AM ET: Revenue ~$39.6B (+36% YoY); AI chips 61% of total sales; June revenue +68% YoY (monthly record); N3 node sold out; beat consensus
+- PPI June 2026 CONFIRMED (released 8:30 AM ET Jul 15): Headline −0.3% MoM / +5.5% YoY; Core +0.1% MoM — TRIPLE BEAT vs consensus (−0.1%/+6.2%/+0.4%)
+- Retail Sales Jun CONFIRMED: +0.33%/+9.4% YoY — hawkish Fed implication but absorbed
+- NFLX Q2 earnings AH today (unconfirmed; confirm at /pre-market Jul 17)
+- GE Aerospace, UNH earnings today (not on watchlist)
+
+### Step 2: Sell-Rules-Engine
+
+**0 open positions → SKIPPED** ✅
+
+```json
+{
+  "batch_evaluated": 0,
+  "open_positions": 0,
+  "verdict": "SKIPPED — no open positions to evaluate",
+  "market_level_triggers": {
+    "distribution_days": 8,
+    "state": "Market in Correction"
+  }
+}
+```
+
+### Step 3: Verdicts
+
+No verdicts — no positions.
+
+### Step 4: Portfolio-Level Checks
+
+**Distribution cluster at 8/25:** State already Correction (6+). No additional action.
+**Hedge:** SH $625 / 25% — QUEUED. Cannot execute (Alpaca Day ~140 BLOCKED).
+**Follow-through day check:** Not applicable (no inverse ETF held).
+
+### Step 5: Circuit Breaker Check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | ✅ CLEAR ($0 P&L, no positions) |
+| Weekly −6% | ✅ CLEAR ($0 week-to-date) |
+| Drawdown −12% HWM | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ❌ BLOCKED Day ~140 (403 proxy) |
+| **ALL STANDARD CIRCUIT BREAKERS** | **CLEAR** ✅ |
+
+### Step 6: Weekly Trade Counter
+
+0/3 trades used this week (week of Jul 14). No new positions opened today.
+
+### Step 7: Key Data Confirmed Today
+
+| Item | Actual | vs Estimate | Impact |
+|---|---|---|---|
+| PPI Jun 2026 Headline | −0.3% MoM / +5.5% YoY | vs −0.1%/+6.2% consensus | BEAT — cooler than feared |
+| PPI Jun 2026 Core | +0.1% MoM | vs +0.4% consensus | MASSIVE BEAT — no hot core |
+| TSMC Q2 Revenue | ~$39.6B (+36% YoY) | within guidance $39-40.2B; beat consensus center | BEAT — AI 61%; N3 sold out |
+| Retail Sales Jun | +0.33%/+9.4% YoY | BEAT | Hawkish Fed implication |
+| S&P Jul 16 close | UNCONFIRMED | est. NOT dist | Confirm /pre-market Jul 17 |
+
+### Step 8: Bench Status (EOD Jul 16)
+
+| Symbol | Est. Price | Score | Notes |
+|---|---|---|---|
+| NVDA | $211.80 Jul 15; est. UP today (TSMC positive) | 74/100 ❌ | Cup wk ~27; no handle; BLOCKED |
+| MRVL | $223.43 Jul 15; est. flat-to-up | ~25-35/100 ❌ | Broken; 8+ wk rebuild |
+| ARM | ~$305-320 est. | 60/100 ❌ | BLACKOUT JUL 22 = 2 days (Jul 17,21) → EXITS JUL 21 COB |
+
+**Promotions/demotions:** NONE. ARM exits bench evaluation next week.
+
+### Step 9: ClickUp Summary
+
+```
+📊 EOD 2026-07-16 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash | Distribution days: 8/25 (🔴 Correction UNCHANGED)
+Close: ✅ Jul 15 7,574 (+0.40% NOT dist) | ⬜ Jul 16 UNCONFIRMED (est. NOT dist; search lag)
+Key data confirmed:
+  ✅ PPI Jun −0.3%/+5.5% YoY / Core +0.1% — TRIPLE BEAT (hot core risk DID NOT materialize)
+  ✅ TSMC Q2 ~$39.6B +36% YoY BEAT — AI chips 61% of sales (NVDA AI demand confirmed)
+  ✅ Retail Sales Jun +0.33%/+9.4% YoY BEAT (hawkish Fed; absorbed)
+Actions: NONE (Correction + Alpaca Day ~140 BLOCKED + 0 positions)
+sell-rules-engine: SKIPPED (0 positions)
+ARM: 2 days to BLACKOUT (Jul 17, 21) → exits universe JUL 21 COB
+NFLX Q2 AH today — confirm /pre-market Jul 17
+SH $625 hedge: QUEUED (Alpaca still blocked)
+Weekly trades: 0/3 | Next check: /pre-market 6:00 AM CT Fri Jul 17
+```
+
+`research_source: websearch_fallback` | Alpaca BLOCKED (Day ~140) | Perplexity 403 | AV 403

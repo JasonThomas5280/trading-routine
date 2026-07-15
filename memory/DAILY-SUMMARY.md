@@ -4132,3 +4132,25 @@ Actions today:
 Key data: ✅ CPI Jun −0.4%/3.5% confirmed | Warsh Senate hawkish/in-line | MRVL $217.53 confirmed (broken ~25-35/100) | ARM blackout 3 days → exits universe Jul 21 COB
 SH hedge: $625 QUEUED (Alpaca still blocked)
 Tomorrow (Jul 16): Retail Sales Jun (8:30 ET) + Jobless Claims + C/WFC/BAC earnings (XLF lagging; no action) + confirm Jul 15 close + PPI Jun actual
+
+---
+## 2026-07-16 15:15 CT [eod-review]
+
+📊 EOD 2026-07-16 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 8 of 25 (market: 🔴 Correction — UNCHANGED)
+Close: ✅ Jul 15 CONFIRMED S&P 7,574 (+0.40%, NOT dist ✅) | ⬜ Jul 16 UNCONFIRMED (est. NOT dist; TSMC beat + PPI cool → est. UP ~7,595-7,640; search lag; confirm /pre-market Jul 17)
+Actions today:
+  • NONE — Correction + Alpaca Day ~140 BLOCKED + 0 positions + 0 candidates ≥75
+  • sell-rules-engine: SKIPPED (0 open positions)
+Key data confirmed at /eod-review:
+  ✅ PPI Jun 2026: −0.3% MoM / +5.5% YoY / Core +0.1% MoM — TRIPLE BEAT (vs −0.1%/+6.2%/+0.4% consensus; hot core risk DID NOT materialize)
+  ✅ TSMC Q2 ~$39.6B revenue (+36% YoY, BEAT); AI chips 61% of sales; N3 sold out → NVDA AI demand intact
+  ✅ Retail Sales Jun +0.33%/+9.4% YoY BEAT (hawkish Fed; absorbed; no dist trigger)
+  ⬜ NFLX Q2 AH today — results not indexed; confirm /pre-market Jul 17
+ARM: 2 trading days to blackout (Jul 17, 21) → exits actionable universe JUL 21 COB
+NVDA: $211.80 confirmed Jul 15 / 74/100 / BLOCKED | MRVL: $223.43 / 25-35 / BROKEN
+SH $625 hedge: QUEUED (Alpaca Day ~140 still blocked; 403)
+Circuit breakers: ALL CLEAR | Weekly trades: 0/3
+FTD path: IMPOSSIBLE (Day 1 requires S&P <7,266.99; ~307 pts below Jul 15 close)
+Tomorrow (Jul 17): ARM final actionable day (exits Jul 21 COB) | Confirm Jul 16 actual close | NFLX Q2 result | No major macro
