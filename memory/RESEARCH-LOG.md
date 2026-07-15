@@ -46,6 +46,69 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-16 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 15 CONFIRMED 7,574 (+0.40% NOT DIST ✅) — RETAIL SALES JUN +0.33%/+9.4% BEAT — JOBLESS CLAIMS 215K — ⚠️ NVDA 52-WK HIGH CORRECTED $236.54 — ARM BLACKOUT 2 DAYS (Jul 17,21) — ALPACA DAY ~139 BLOCKED — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~139; Perplexity: 403; AV: 403 — 19th consecutive session in degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades:** 0/3 (week of Jul 14 — open)
+**Sector leaders (4-week trailing RS):** XLK Technology, XLI Industrials, XLC Communication (unchanged)
+**Sector laggards:** XLE (Iran/energy compressed), XLF (RRG Lagging), XLRE (hawkish Fed; Sep hike priced)
+
+### Abort gate check
+
+**FIRED: Market in Correction (8/25 dist days)** → All long entries BLOCKED. SH $625 QUEUED but Alpaca Day ~139 BLOCKED.
+
+### ✅ JUL 15 CLOSE CONFIRMED
+
+**S&P 500 Jul 15: 7,574 (+0.40% from 7,543.59)** — NOT a distribution day ✅ → **8/25 UNCHANGED**
+- 50d MA cushion (Jul 15): 7,574 − 7,509.17 = **+64.83 pts (+0.86%)** ✅ (up from +34 pts Jul 14; continuing recovery from 6-pt near-miss Jul 13)
+- 200d MA cushion (Jul 15): ~7,574 − 7,473 = **+101 pts (+1.35%)** ✅
+- Rally margin (Jul 15): 7,574 − 7,266.99 = **+307.01 pts (+4.22%)** INTACT ✅
+
+### Today's data (Jul 16)
+
+- **Retail Sales June 2026 (Census Bureau / NRF, 8:30 AM ET):** +0.33% MoM SA / **+9.4% YoY** — 9th consecutive monthly gain — BEAT. Clothing +13.65%; electronics +14.16%; core retail +10.08% YoY. Headline: "Retail Sales Beat Expectations as **Fed Signals Higher Rates Ahead**" ⚠️ → strong spending = hawkish Fed read; Sep hike base case reinforced; no rate cut justification.
+- **Jobless Claims (wk ending Jul 4):** 215K (−2K from 217K; stable) — labor market tight; supports hawkish Fed.
+- **Today's earnings:** TSM, GE Aerospace (GE), UNH, ABT, USB, NFLX, ISRG — **none on watchlist.** XLF lagging → no action on financials.
+
+### ⚠️ NVDA 52-WEEK HIGH DATA CORRECTION
+
+**Prior WATCHLIST.md estimate of 52-wk high = $212.19 was WRONG.** Confirmed via search: NVDA 52-week high = **$236.54**. NVDA at ~$210.32 (Jul 16 intraday) = **~10.6% BELOW 52-wk high**. The "only $0.39 from 52-wk high / TESTING 52-WK HIGH" language in Jul 15 notes is invalidated. N-letter breakout to new 52-wk high requires price above $236.54 — materially further away than assumed. Score **74/100 UNCHANGED** (N-letter already at 12/15 without breakout credit; this worsens the N-letter path but score was already below threshold). WATCHLIST.md + TRADE-LOG.md corrected. `NVDA_52wk_high_corrected_Jul16` `research_source: websearch_fallback`
+
+### Watchlist status
+
+| Symbol | Status | Price | Score | Signal |
+|---|---|---|---|---|
+| NVDA | 🔴 BLOCKED | ~$210.32 est. (Jul 16 intraday) | 74/100 | Correction + 74/100 + no handle + 52-wk high 10.6% away ($236.54) |
+| MRVL | 🔴 BLOCKED | $223.43 (conf. Jul 15) | ~25-35/100 | Broken structure; AI capex deceleration; 8+ wk rebuild |
+| ARM | 🔴 REMOVED | ~$305-320 est. | 60/100 | **2 TRADING DAYS to Jul 22 blackout (Jul 17, 21) → exits universe Jul 21 COB** |
+
+**Primary candidates ≥75: 0 (16th consecutive week)**
+
+### Open positions — intraday sell check
+
+**0 open positions → SKIPPED** ✅
+
+### Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR (0 positions, $0) |
+| Weekly -6% | ✅ CLEAR ($0 P&L, 0/3 trades) |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day ~139 |
+
+### Buy-zone status
+
+**NO BUY ZONES.** Correction + 0 primary candidates. SH $625 hedge QUEUED (Alpaca BLOCKED).
+
+### Actions
+
+**NONE.** Correction (8/25 dist days) + Alpaca Day ~139 BLOCKED + 0 positions + 0 candidates ≥75.
+
+---
+
 ## 2026-07-16 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — JUL 15 CLOSE EST. NOT DIST — NVDA $211.80 CONFIRMED — MRVL $223.43 CONFIRMED — RETAIL SALES JUN BEAT — FUTURES UP — 0 POSITIONS — ALPACA DAY ~138 BLOCKED — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~138; Perplexity: 403; AV: 403 — 18th consecutive session in degraded mode)

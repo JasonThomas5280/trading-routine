@@ -1,5 +1,23 @@
 
 ---
+## 2026-07-16 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — ✅ JUL 15 CONFIRMED 7,574 NOT DIST — RETAIL SALES +9.4% BEAT — JOBLESS CLAIMS 215K — NVDA 52-WK HIGH CORRECTED $236.54 — ARM 2 DAYS TO BLACKOUT — 0 POSITIONS — NO ACTIONS]
+
+📈 Market-check 2026-07-16 10:00 CT
+Market: 🔴 Correction (8/25 dist) | Circuit breakers: NONE
+Actions taken: No new entries — Correction active (abort gate: Market in Correction 8/25 dist days)
+  ✅ JUL 15 CONFIRMED: S&P 7,574 (+0.40%) NOT dist | 50d MA cushion +64.83 pts ✅ | Rally margin +307 pts ✅
+  Retail Sales Jun: +0.33% MoM / +9.4% YoY BEAT (9th consecutive month; consumer strong; hawkish Fed read)
+  Jobless Claims: 215K stable (labor tight; hawkish Fed)
+  ⚠️ NVDA 52-wk high CORRECTED: $236.54 (was $212.19 — WRONG; NVDA ~10.6% below 52-wk high; prior 'testing 52-wk high' narrative INVALIDATED)
+  ARM: 2 trading days to blackout (Jul 17, 21) → exits universe Jul 21 COB
+Watchlist status: 0 ready, 0 watching, ARM removed (exits Jul 21 COB)
+Open positions: 0 | Cash deployed: 0% | 100% cash
+Weekly trade count: 0/3 used
+SH $625 hedge QUEUED — Alpaca Day ~139 BLOCKED — thesis intact (8/25 dist; hawkish retail print)
+Next check: /eod-review 3:15 PM CT — confirm Jul 16 close + dist day count + PPI June actual (if indexed)
+research_source: websearch_fallback | Alpaca BLOCKED (~Day 139) | Perplexity 403 | AV 403
+
+---
 ## 2026-07-16 06:00 CT [pre-market — 🔴 CORRECTION UNCHANGED — JUL 15 EST. NOT DIST — NVDA $211.80 NEAR 52-WK HIGH — RETAIL SALES BEAT — FUTURES UP — 0 POSITIONS — NO ACTIONS]
 
 🌅 Pre-market 2026-07-16

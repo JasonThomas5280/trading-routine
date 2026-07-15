@@ -6,10 +6,34 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 16 /pre-market 6:00 AM CT — 8/25 dist days — JUL 15 CLOSE EST. ~7,555-7,590 NOT DIST (est.) ⚠️ UNCONFIRMED — NVDA $211.80 CONFIRMED (Jul 15) — MRVL $223.43 CONFIRMED (Jul 15) — PPI JUNE UNCONFIRMED (consensus: HDL −0.1%/6.2% COOL; CORE +0.4%/5.2% HOT) — RETAIL SALES JUN BEAT (+9.4% NRF) — FUTURES UP (ES/NQ) — ARM BLACKOUT 3 DAYS (Jul 16,17,21) → EXITS JUL 21 COB — ALPACA DAY ~138 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 16 /market-check 10:00 AM CT — 8/25 dist days — ✅ JUL 15 CLOSE CONFIRMED 7,574 (+0.40% NOT DIST ✅) — NVDA $211.80 CONFIRMED (Jul 15) / ⚠️ 52-WK HIGH CORRECTED $236.54 (not $212.19) — RETAIL SALES JUN +0.33%/+9.4% BEAT — JOBLESS CLAIMS 215K STABLE — ARM BLACKOUT 2 DAYS (Jul 17,21) → EXITS JUL 21 COB — ALPACA DAY ~139 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
 
-**Last updated:** 2026-07-16 (Thu) — /pre-market 6:00 AM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — JUL 15 CLOSE EST. NOT DIST (UNCONFIRMED) — NVDA $211.80 CONFIRMED — 0 POSITIONS — ALPACA DAY ~138 BLOCKED**
-**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | Jul 15 close EST. ~7,555-7,590 (NOT dist — est.; UNCONFIRMED search lag) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 15 est. +46-81 pts ABOVE | 200d MA ~7,473 → Jul 15 est. +82-117 pts ABOVE ✅
+**Last updated:** 2026-07-16 (Thu) — /market-check 10:00 AM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 15 CONFIRMED 7,574 NOT DIST — ⚠️ NVDA 52-WK HIGH CORRECTED $236.54 — 0 POSITIONS — ALPACA DAY ~139 BLOCKED**
+**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | ✅ Jul 15 NOT dist (7,574 +0.40% CONFIRMED) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 15 +64.83 pts ABOVE ✅ | 200d MA ~7,473 → Jul 15 +101 pts ABOVE ✅
+
+**✅ JUL 16 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 15 CONFIRMED 7,574 (+0.40% NOT DIST ✅) — RETAIL SALES JUN +0.33%/+9.4% BEAT — JOBLESS CLAIMS 215K — ⚠️ NVDA 52-WK HIGH CORRECTED $236.54 — ARM BLACKOUT 2 DAYS (Jul 17,21) — ALPACA DAY ~139 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~139 BLOCKED | Perplexity 403 | AV 403
+- **Abort gate: FIRED — Correction (8/25 dist days)** → no new entries. SH $625 QUEUED but Alpaca BLOCKED. Skip to summary.
+- **✅ JUL 15 CLOSE CONFIRMED: 7,574 (+0.40% from 7,543.59)** — NOT a distribution day ✅ → **8/25 UNCHANGED**
+  - 50d MA cushion (Jul 15): 7,574 − 7,509.17 = **+64.83 pts (+0.86%)** ✅ (up from +34 pts Jul 14 — continuing recovery from 6-pt near-miss Jul 13)
+  - 200d MA cushion (Jul 15): ~7,574 − 7,473 = **+101 pts (+1.35%)** ✅
+  - Rally margin (Jul 15): 7,574 − 7,266.99 = **+307.01 pts (+4.22%)** INTACT ✅
+- **Retail Sales June 2026 CONFIRMED (Census Bureau / NRF, 8:30 AM ET Jul 16):** +0.33% MoM SA / **+9.4% YoY** — **9th consecutive monthly gain** — BEAT. Clothing +13.65%; electronics +14.16%. Headline: "Retail Sales Beat Expectations as **Fed Signals Higher Rates Ahead**" ⚠️ → strong spending = no Fed rate cut justification → hawkish read → Sep hike base case intact.
+- **Jobless Claims (wk ending Jul 4):** 215K (−2K from 217K prior; stable) — labor market tight; supports hawkish Fed. No distress signal.
+- **⚠️ NVDA 52-WEEK HIGH CORRECTION (CRITICAL DATA UPDATE):** Prior estimate in WATCHLIST.md of "52-wk high $212.19" was WRONG. Confirmed 52-wk high: **$236.54** — NVDA at ~$210.32 (Jul 16 intraday est.) = **~10.6% BELOW 52-wk high**. The "testing 52-wk high" and "only $0.39 away" language in prior entries is INVALIDATED. N-letter breakout requires NVDA above $236.54. Score **74/100 UNCHANGED** (N-letter was already at 12/15 without breakout credit; this correction worsens the N-letter path but score was already sub-threshold). WATCHLIST.md + TRADE-LOG.md updated. Still blocked.
+- **Today's earnings (Jul 16):** TSM, GE Aerospace, UNH, ABT, USB, NFLX, ISRG — **NONE on watchlist.** XLF lagging → no action on financials.
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Watchlist triggers:** NONE — 0 primary candidates ≥75 (16th consecutive week); Correction gate blocks all longs
+- **Bench status (Jul 16 est.):**
+  - NVDA: ~$210.32 est. intraday | **74/100 UNCHANGED** | Cup wk ~27; no handle; no pivot | 52-wk high $236.54 (~10.6% away) | **BLOCKED** (Correction + 74/100 + no base + Alpaca 403)
+  - MRVL: $223.43 confirmed Jul 15 | **~25-35/100 UNCHANGED** | Broken structure; 8+ wk rebuild needed | **BLOCKED**
+  - ARM: ~$305-320 est. | **60/100** | ⚠️ **BLACKOUT JUL 22 = 2 TRADING DAYS (Jul 17, 21)** → **ARM EXITS ACTIONABLE UNIVERSE JUL 21 COB.** Academic only.
+- **Bench promotion check:** No promotions (no name within 2% of a valid pivot; no pivots defined in Correction). No demotions beyond existing BLOCKED/REMOVED status.
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L today: $0 | P&L week: $0 | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day ~139 BLOCKED + 0 positions + 0 candidates ≥75)
+- **FTD path:** IMPOSSIBLE near-term. Day 1 requires S&P CLOSE BELOW 7,266.99 (~307 pts below Jul 15 confirmed 7,574).
+- **Next check:** /eod-review 3:15 PM CT — confirm Jul 16 close + dist day count + PPI June actual (if now indexed) + TSM/GE/UNH earnings read
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~139) | Perplexity 403 | AV 403
 
 **⚠️ JUL 16 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — JUL 15 CLOSE EST. ~7,555-7,590 NOT DIST (est.) — NVDA $211.80 CONFIRMED NEAR 52-WK HIGH $212.19 — MRVL $223.43 CONFIRMED — PPI JUNE UNCONFIRMED — RETAIL SALES JUN BEAT — FUTURES UP — ARM 3 DAYS TO BLACKOUT — ALPACA DAY ~138 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~138 BLOCKED | Perplexity 403 | AV 403
