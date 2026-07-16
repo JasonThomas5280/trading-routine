@@ -29,7 +29,7 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 **Built:** 2026-07-12 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~133 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch
 
-**Market direction:** 🔴 Market in Correction (8/25 dist days — Jul 13 CONFIRMED) | **NO NEW LONG ENTRIES**
+**Market direction:** 🟡 Uptrend Under Pressure (5/25 dist days CORRECTED — Jun 5/Jun 9/Jun 10 all expired; ⚠️ TODAY Jul 17 DIST DAY RISK — TSMC fell 4% / chip sector / Nasdaq fut −1.5% — confirm /eod-review) | **NO NEW LONG ENTRIES** (Under Pressure blocks new longs)
 **S&P 500:** Jul 10 close 7,575.39 → **Jul 13 close CONFIRMED 7,515.34 (−0.79%; DIST DAY #8)** | ⚠️ **50d MA NEAR-MISS: only 6.17 pts above 50d MA on Jul 13** (50d MA 7,509.17) | **Jul 14 close est. ~7,545-7,553** (NOT dist; CPI −0.4%/3.5% relief, but Iran/oil held back) | 200d MA ~7,472.59 | Rally low 7,266.99 INTACT (~280 pts from current)
 **CPI June CONFIRMED:** −0.4% MoM / 3.5% YoY (major disinflation beat; best print in years; backward-looking June data)
 **FTD status:** CLOSED (requires new Day 1 below 7,266.99 — ~280 pts below; impossible near-term)

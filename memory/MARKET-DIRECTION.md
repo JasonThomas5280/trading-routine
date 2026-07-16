@@ -6,10 +6,59 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 17 /pre-market 6:00 AM CT — 8/25 dist days — ✅ JUL 15 NOT DIST 7,574 — ⬜ JUL 16 CLOSE UNCONFIRMED (est. NOT dist; search lag — confirm /market-check Jul 17) — ✅ MRVL $222.44 CONF JUL 16 — ✅ ARM $277.01 CONF JUL 16 (AH ~$273) — NVDA JUL 16 UNCONF — NFLX AH UNCONF — HOUSING STARTS 8:30 AM — UMICH 10:00 AM — ARM PENULTIMATE DAY (EXITS JUL 21 COB) — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
+**Status:** 🟡 **UPTREND UNDER PRESSURE** *(Jul 17 /market-check 10:00 AM CT — ⚠️ DIST COUNT CORRECTED: 5/25 — Jun 5 expired Jul 14 / Jun 9 expired Jul 16 / Jun 10 EXPIRES TODAY — ✅ JUL 16 CONFIRMED 7,561 (−0.17% NOT DIST ✅) — ⚠️ STATE CHANGE: CORRECTION → UNDER PRESSURE — ⚠️ TODAY DIST DAY RISK (TSMC −4% on beat; chip sector; futures −0.5%; confirm /eod-review) — ⬜ NVDA JUL 16 UNCONF (est. ~$205-208) — ⬜ NFLX Q2 AH UNCONF — ⬜ HOUSING STARTS JUN UNCONF — ⬜ UMICH JUL PRELIM UNCONF — ARM PENULTIMATE TODAY (EXITS JUL 21 COB) — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW LONGS)*
 
-**Last updated:** 2026-07-17 (Fri) — /pre-market 6:00 AM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (est. NOT dist; search lag) — ✅ MRVL $222.44 CONF — ✅ ARM $277.01 CONF / AH ~$273 — ALPACA DAY ~141 BLOCKED**
-**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | ✅ Jul 15 NOT dist (7,574 +0.40% CONFIRMED) | ⬜ Jul 16 NOT dist (UNCONFIRMED — est.; search lag; confirm /market-check Jul 17) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 15 +64.83 pts ABOVE ✅ | 200d MA ~7,473 → Jul 15 +101 pts ABOVE ✅
+**Last updated:** 2026-07-17 (Fri) — /market-check 10:00 AM CT — **🟡 UPTREND UNDER PRESSURE — 5/25 DIST (CORRECTED — 3 missed expiries applied: Jun 5/Jun 9/Jun 10) — STATE CHANGE: CORRECTION EXITED — ✅ JUL 16 7,561 NOT DIST — ⚠️ JUL 17 DIST RISK (TSMC −4%; confirm /eod-review)**
+**STATE:** 🟡 Uptrend Under Pressure | **5/25 dist days (CORRECTED)** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13 | ⚠️ EXPIRIES CORRECTED TODAY: Jun 5 (Day 24=Jul 13; expired start Jul 14 — MISSED), Jun 9 (Day 24=Jul 15; expired start Jul 16 — MISSED), Jun 10 (Day 24=Jul 16; expires start Jul 17 TODAY) | ✅ Jul 16 NOT dist CONFIRMED 7,561 (−0.17%) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ⚠️ JUL 17 DIST RISK (TSMC −4%; chip sector; futures −0.5%; confirm /eod-review) | FTD window OPEN (Day 4 of rally from Jul 14 Day 1; FTD threshold ~7,655; window closes Jul 22; Day 1 close 7,543.59 = invalidation level today) | Rally low 7,266.99 INTACT | 50d MA est. ~7,512 | 200d MA est. ~7,476 | S&P ABOVE BOTH MAs ✅
+
+**✅ JUL 17 /market-check (10:00 AM CT — 🟡 UPTREND UNDER PRESSURE — ⚠️ DIST COUNT CORRECTED 5/25 — STATE CHANGE: CORRECTION EXITED — ✅ JUL 16 7,561 NOT DIST — ⚠️ 3 MISSED EXPIRIES CORRECTED — TSMC −4% TODAY — ⚠️ TODAY DIST RISK — ARM PENULTIMATE — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🟡 UPTREND UNDER PRESSURE** — All new long entries BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~141 BLOCKED | Perplexity 403 | AV 403
+- **Abort gate: FIRED — Under Pressure (5/25 dist days corrected)** → no new entries. Skip to summary.
+- **⚠️ CRITICAL CORRECTION — THREE MISSED DISTRIBUTION DAY EXPIRIES:**
+  - Verification anchor: Jun 3 dist expired end of Jul 9 session (Day 0=Jun 3, Day 24=Jul 9). Confirmed by TRADE-LOG "Jun 3 dist expired → 7/25."
+  - **Jun 5 (Day 0) → Day 24 = Jul 13 → EXPIRED at start of Jul 14.** Carried forward incorrectly Jul 14-17.
+  - **Jun 9 (Day 0) → Day 24 = Jul 15 → EXPIRED at start of Jul 16.** Carried forward incorrectly Jul 16-17.
+  - **Jun 10 (Day 0) → Day 24 = Jul 16 → EXPIRES at start of TODAY Jul 17.**
+  - Prior count: 8/25 (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) — INCORRECT
+  - **Corrected count: 5/25** (Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) — EFFECTIVE TODAY
+  - **State change: 🔴 Correction → 🟡 Uptrend Under Pressure** (50d MA recovered: S&P 7,561 vs 50d MA ~7,512 = +49 pts ✅)
+- **✅ JUL 16 CLOSE CONFIRMED: 7,561 (−0.17% / −13 pts from 7,574)** — NOT a distribution day (threshold: −0.2%) ✅
+  - 50d MA cushion (Jul 16 est.): ~+49 pts ✅ | 200d MA cushion: ~+85 pts ✅ | Rally margin: +294 pts ✅
+  - Chip sector fell ~3% (AI hyperscaler spending skepticism); UNH +7% offset. S&P held above dist threshold.
+- **⚠️ TODAY JUL 17 DISTRIBUTION DAY RISK:**
+  - TSMC Q2 2026: 77% annual earnings gain, AI chips 61% revenue — but TSM fell ~4% ("sell the news"; spending skepticism)
+  - Chip sector broadly under pressure; Nasdaq futures were −1.5% pre-mkt; S&P futures −0.5%
+  - Treasury yields rising; hawkish Fed narrative persisting
+  - IF S&P closes ≤−0.2% on volume above Jul 16 → new dist day → 6/25 → BACK TO CORRECTION
+  - Confirm at /eod-review 3:15 PM CT
+- **FTD WINDOW NOW OPEN (changed from CLOSED):**
+  - Under Pressure (not Correction) → FTD does NOT require new low below 7,266.99
+  - Active rally attempt: Day 1=Jul 14 (7,543.59) | Day 2=Jul 15 (7,574) | Day 3=Jul 16 (7,561; down but above Day 1 close)
+  - **TODAY = Day 4. FTD window = Day 4-7 = Jul 17-22.** FTD threshold today ~7,655. UNLIKELY (chip headwinds).
+  - Invalidation: S&P closes below 7,543.59 (Day 1 close) → rally attempt invalidated → need new Day 1
+  - Day 5=Jul 20 (Mon), Day 6=Jul 21 (Tue — ARM final), Day 7=Jul 22 (Wed)
+- **Dist day expiry schedule (remaining, if no new dist days added):**
+  - Jun 17 (Day 24=Jul 23) → expires Jul 24 → 4/25
+  - Jun 23 (Day 24=Jul 29) → expires Jul 30 → 3/25
+  - Jul 7 (Day 24=Aug 10) → expires Aug 11 → 2/25
+  - Jul 8 (Day 24=Aug 11) → expires Aug 12 → 1/25
+  - Jul 13 (Day 24=Aug 14) → expires Aug 17 → 0/25
+  - If no new dist days: Confirmed Uptrend possible as early as Jul 24 (FTD + 4/25 = <5)
+- **Today's macro data (UNCONFIRMED — search lag):**
+  - Housing Starts June (8:30 AM ET): NOT INDEXED. May=1,177K SAAR (−15.4%). Expect seasonal improvement; hawkish Fed headwind. Confirm /eod-review.
+  - UMich Consumer Sentiment July prelim (10:00 AM ET): NOT INDEXED. Jun final 49.5. Confirm /eod-review.
+  - NFLX Q2 2026 AH (Jul 16): NOT INDEXED. Expected $12.57B rev / $0.79 EPS. Not on watchlist. Confirm /eod-review.
+- **Bench status:**
+  - NVDA (74/100 BLOCKED): Jul 16 close UNCONF (pre-mkt was $208.81; TSMC −4% today → chip headwind → est. $200-207 today). Cup wk ~28; no handle; 52-wk high $236.54. BLOCKED: Under Pressure + 74/100 + no handle.
+  - MRVL (~25-35/100 BLOCKED): Jul 16 confirmed $222.44. Score UNCHANGED. BLOCKED.
+  - ARM (60/100 — EXITS JUL 21 COB): TODAY = PENULTIMATE trading day. Jul 16 confirmed $277.01 (AH ~$273). TODAY likely further pressure. EXITS UNIVERSE after Jul 21 COB. Academic only.
+- **Watchlist triggers:** NONE — 0 primary candidates ≥75 (17th consecutive week). Under Pressure blocks all longs.
+- **Open positions:** 0 → sell-rules-engine: SKIPPED ✅
+- **SH hedge:** Queued ($625 / 25% portfolio). Under Pressure = hedge protocol STILL ACTIVE. Alpaca Day ~141 BLOCKED.
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Weekly trades: 0/3
+- **Actions: NONE** (Under Pressure + Alpaca Day ~141 BLOCKED + 0 positions + 0 candidates ≥75)
+- **Next check:** /eod-review 3:15 PM CT — confirm Jul 17 close + dist day (stays 5/25 or goes 6/25?) + FTD Day 4 result + Housing Starts + UMich + NFLX AH + NVDA actual close
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~141) | Perplexity 403 | AV 403
 
 **⚠️ JUL 17 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (EST. NOT DIST — SEARCH LAG) — ✅ MRVL $222.44 CONF JUL 16 — ✅ ARM $277.01 CONF JUL 16 (AH ~$273) — NVDA JUL 16 UNCONF — NFLX AH UNCONF — HOUSING STARTS 8:30 AM ET — UMICH 10:00 AM ET — ARM PENULTIMATE DAY → EXITS JUL 21 COB — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~141 BLOCKED | Perplexity 403 | AV 403

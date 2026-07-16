@@ -1,5 +1,30 @@
 
 ---
+## 2026-07-17 10:00 CT [market-check — 🟡 UNDER PRESSURE — ⚠️ DIST COUNT CORRECTED 5/25 — STATE CHANGE: CORRECTION EXITED — ✅ JUL 16 7,561 NOT DIST — ⚠️ TODAY DIST RISK — 0 POSITIONS — NO ACTIONS]
+
+📈 Market-check 2026-07-17 10:00 CT
+Market: 🟡 Under Pressure (5/25 dist CORRECTED) | ⚠️ STATE CHANGE: Correction → Under Pressure | Circuit breakers: NONE
+Actions taken: No new entries — Under Pressure active (abort gate: Under Pressure 5/25 dist days)
+  ⚠️ CRITICAL CORRECTION — 3 MISSED DISTRIBUTION DAY EXPIRIES:
+    Jun 5 expired at start of Jul 14 (Day 24=Jul 13) — missed by prior routines
+    Jun 9 expired at start of Jul 16 (Day 24=Jul 15) — missed by prior routines
+    Jun 10 expires at start of TODAY Jul 17 (Day 24=Jul 16)
+    Prior count: 8/25 → Corrected count: 5/25 → STATE: Correction → Under Pressure
+  ✅ JUL 16 CONFIRMED: S&P 7,561 (−0.17%) NOT dist | 50d MA cushion ~+49 pts | Rally margin +294 pts
+  ⚠️ TODAY (Jul 17) DIST DAY RISK: TSMC fell 4% on Q2 beat (hyperscaler spending skepticism); chip sector broadly lower; Nasdaq fut −1.5% / S&P fut −0.5%. Confirm /eod-review.
+  FTD window NOW OPEN: Day 4 of rally from Jul 14 Day 1. Window Jul 17-22. Threshold ~7,655. Unlikely today.
+  Dist expiry schedule: Jun 17→Jul 24, Jun 23→Jul 30, Jul 7→Aug 11, Jul 8→Aug 12, Jul 13→Aug 17
+  ARM: Today = PENULTIMATE trading day. FINAL = Jul 21 COB. EXITS UNIVERSE.
+  NVDA: 74/100 BLOCKED (Under Pressure + no handle + Alpaca blocked). Jul 16 close unconfirmed (est. ~$205-208).
+  Housing Starts Jun / UMich Jul prelim / NFLX Q2 AH: all UNCONFIRMED (search lag) — confirm /eod-review
+Watchlist status: 0 ready, 0 watching (0 candidates ≥75 — 17th consecutive week)
+Open positions: 0 | Cash deployed: 0% | 100% cash
+Weekly trade count: 0/3 used
+SH $625 hedge QUEUED — Alpaca Day ~141 BLOCKED — Under Pressure = hedge protocol still active
+Next check: /eod-review 3:15 PM CT — confirm Jul 17 close (5/25 or 6/25?), FTD Day 4 result, Housing Starts, UMich, NFLX AH, NVDA actual close
+research_source: websearch_fallback | Alpaca BLOCKED (~Day 141) | Perplexity 403 | AV 403
+
+---
 ## 2026-07-16 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — ✅ JUL 15 CONFIRMED 7,574 NOT DIST — RETAIL SALES +9.4% BEAT — JOBLESS CLAIMS 215K — NVDA 52-WK HIGH CORRECTED $236.54 — ARM 2 DAYS TO BLACKOUT — 0 POSITIONS — NO ACTIONS]
 
 📈 Market-check 2026-07-16 10:00 CT

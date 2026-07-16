@@ -46,6 +46,56 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-17 (Fri) — /market-check (10:00 AM CT) — 🟡 UNDER PRESSURE — DIST COUNT CORRECTED 5/25 — STATE CHANGE — ✅ JUL 16 7,561 NOT DIST — ⚠️ TODAY DIST RISK — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~141; Perplexity: 403; AV: 403 — 21st consecutive degraded session)
+**Market direction:** 🟡 Uptrend Under Pressure | **5/25 dist days (CORRECTED)** — Jun 5/Jun 9/Jun 10 all expired (3 missed by prior routines); active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13
+**Abort gate:** FIRED (Under Pressure) → no new entries. Skip to summary.
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades:** 0/3
+
+### Critical correction: 3 missed distribution day expiries
+
+Verification anchor: Jun 3 dist Day 24 = Jul 9 (confirmed TRADE-LOG). Applying same math:
+- **Jun 5 Day 24 = Jul 13 → EXPIRED start Jul 14** (missed Jul 14-17)
+- **Jun 9 Day 24 = Jul 15 → EXPIRED start Jul 16** (missed Jul 16-17)
+- **Jun 10 Day 24 = Jul 16 → EXPIRES start of today Jul 17**
+- Corrected dist count: 8 → **5/25** | State: Correction → Under Pressure
+
+### Jul 16 confirmation
+
+- ✅ S&P 500 close: 7,561 (−0.17%) — NOT a distribution day (threshold −0.2%) ✅
+- ✅ MRVL: $222.44 (−0.44%) — confirmed
+- ✅ ARM: $277.01 (−1.48%; AH ~$273) — confirmed; TODAY = PENULTIMATE day
+- ⬜ NVDA Jul 16 close: UNCONFIRMED (pre-mkt was $208.81; TSMC −4% today = chip headwind)
+- ⬜ NFLX Q2 AH results: UNCONFIRMED (search lag)
+
+### Today's market (Jul 17)
+
+- TSMC Q2 2026 beat (77% earnings, AI 61%) but fell ~4% ("sell the news"; hyperscaler spending skepticism)
+- Nasdaq futures −1.5% pre-mkt; S&P futures −0.5%; chip sector broadly lower
+- **⚠️ DISTRIBUTION DAY RISK TODAY** — confirm at /eod-review 3:15 PM CT
+- Housing Starts June, UMich July prelim: both released today but NOT INDEXED (search lag)
+- ARM: TODAY = PENULTIMATE trading day; FINAL = Jul 21 COB; exits universe
+
+### FTD window update
+
+- Now OPEN (Under Pressure, not Correction) — does not require new low below 7,266.99
+- Day 4 of rally attempt from Jul 14 Day 1 (7,543.59). FTD window Day 4-7 = Jul 17-22.
+- FTD threshold today: ~7,655. UNLIKELY given chip headwinds.
+- Invalidation: S&P close below 7,543.59 (Day 1) → rally attempt invalidated
+
+### Bench status
+
+- NVDA 74/100 BLOCKED (Under Pressure + no handle + Alpaca blocked)
+- MRVL ~25-35/100 BLOCKED (broken structure)
+- ARM 60/100 PENULTIMATE (exits Jul 21 COB)
+
+### Actions taken
+
+NONE. (Under Pressure + Alpaca blocked + 0 positions + 0 candidates ≥75)
+
+---
+
 ## 2026-07-17 (Fri) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (est. NOT dist; search lag) — ✅ MRVL $222.44 JUL 16 CONF — ✅ ARM $277.01 JUL 16 CONF (AH −$4.01 → ~$273) — NVDA JUL 16 UNCONF — NFLX AH UNCONF — HOUSING STARTS JUN 8:30 AM — UMICH 10:00 AM — ARM PENULTIMATE DAY (FINAL JUL 21 COB) — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~141; Perplexity: 403; AV: 403 — 20th consecutive session in degraded mode)
