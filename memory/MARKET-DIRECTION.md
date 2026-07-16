@@ -6,10 +6,27 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 16 /eod-review 3:15 PM CT — 8/25 dist days — ✅ JUL 15 NOT DIST CONFIRMED 7,574 (+0.40%) — ⬜ JUL 16 CLOSE UNCONFIRMED (est. NOT dist — search lag; TSMC Q2 beat + PPI cool → est. UP) — ✅ PPI JUN CONFIRMED −0.3%/+5.5% YoY / CORE +0.1% TRIPLE BEAT — ✅ TSMC Q2 ~$39.6B +36% YoY BEAT (AI 61%) — ARM 2 DAYS TO BLACKOUT (Jul 17,21) → EXITS JUL 21 COB — ALPACA DAY ~140 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 17 /pre-market 6:00 AM CT — 8/25 dist days — ✅ JUL 15 NOT DIST 7,574 — ⬜ JUL 16 CLOSE UNCONFIRMED (est. NOT dist; search lag — confirm /market-check Jul 17) — ✅ MRVL $222.44 CONF JUL 16 — ✅ ARM $277.01 CONF JUL 16 (AH ~$273) — NVDA JUL 16 UNCONF — NFLX AH UNCONF — HOUSING STARTS 8:30 AM — UMICH 10:00 AM — ARM PENULTIMATE DAY (EXITS JUL 21 COB) — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW ENTRIES)*
 
-**Last updated:** 2026-07-16 (Thu) — /eod-review 3:15 PM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — JUL 16 CLOSE UNCONFIRMED (est. NOT dist) — ✅ PPI JUN TRIPLE BEAT — ✅ TSMC Q2 BEAT — 0 POSITIONS — ALPACA DAY ~140 BLOCKED**
-**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | ✅ Jul 15 NOT dist (7,574 +0.40% CONFIRMED) | ⬜ Jul 16 NOT dist (UNCONFIRMED — est.; confirm /pre-market Jul 17) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 15 +64.83 pts ABOVE ✅ | 200d MA ~7,473 → Jul 15 +101 pts ABOVE ✅
+**Last updated:** 2026-07-17 (Fri) — /pre-market 6:00 AM CT — **🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (est. NOT dist; search lag) — ✅ MRVL $222.44 CONF — ✅ ARM $277.01 CONF / AH ~$273 — ALPACA DAY ~141 BLOCKED**
+**STATE:** 🔴 Market in Correction | **8/25 dist days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | ✅ Jul 14 NOT dist (7,543.59 +0.38%) | ✅ Jul 15 NOT dist (7,574 +0.40% CONFIRMED) | ⬜ Jul 16 NOT dist (UNCONFIRMED — est.; search lag; confirm /market-check Jul 17) | FTD window CLOSED (requires new Day 1 = S&P BELOW 7,266.99) | Rally low 7,266.99 INTACT | 50d MA 7,509.17 → Jul 15 +64.83 pts ABOVE ✅ | 200d MA ~7,473 → Jul 15 +101 pts ABOVE ✅
+
+**⚠️ JUL 17 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (EST. NOT DIST — SEARCH LAG) — ✅ MRVL $222.44 CONF JUL 16 — ✅ ARM $277.01 CONF JUL 16 (AH ~$273) — NVDA JUL 16 UNCONF — NFLX AH UNCONF — HOUSING STARTS 8:30 AM ET — UMICH 10:00 AM ET — ARM PENULTIMATE DAY → EXITS JUL 21 COB — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — NO ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~141 BLOCKED | Perplexity 403 | AV 403
+- **Abort gate: FIRED — Correction (8/25 dist days)** → no new entries. SH $625 QUEUED but Alpaca BLOCKED.
+- **⬜ JUL 16 CLOSE (UNCONFIRMED — search lag — 20th consecutive session):** Not indexed. Est. NOT dist (TSMC beat + PPI cool backdrop). Confirm at /market-check Jul 17.
+- **✅ MRVL Jul 16 CONFIRMED: $222.44** (−$0.99 / −0.44% from $223.43 Jul 15) — modest drift lower. Score ~25-35/100 UNCHANGED.
+- **✅ ARM Jul 16 CONFIRMED: $277.01** (−$4.16 / −1.48%) + **AH −$4.01 → ~$273**. Profit-taking ahead of Jul 29 earnings. ⚠️ $277 is materially below $305-320 prior estimate — ARM has been trending down. Score 60/100 UNCHANGED. **TODAY (Jul 17) = PENULTIMATE TRADING DAY. Final = Jul 21 COB. EXITS UNIVERSE JUL 21 COB.**
+- **⬜ NVDA Jul 16 UNCONFIRMED** (last confirmed $211.80 Jul 15; TSMC AI beat = positive read-through). Score 74/100 UNCHANGED.
+- **⬜ NFLX AH results (Jul 16): UNCONFIRMED** (guidance: $12.57B revenue / $0.78 EPS; street: $12.63B / $0.84). Not on watchlist. Confirm at /market-check.
+- **Today Jul 17 data:** 8:30 AM ET Housing Starts + Building Permits June (weak expected — hawkish Fed headwind); 10:00 AM ET UMich prelim July. TRV/TFC/FITB earnings (XLF lagging → no action).
+- **Distribution day accounting:** +0 confirmed today (Jul 16 unconfirmed). Active: Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13. **Net: 8/25 UNCHANGED.**
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L today: $0 | P&L week: $0 | Weekly trades: 0/3
+- **Actions: NONE** (Correction + Alpaca Day ~141 BLOCKED + 0 positions + 0 candidates ≥75)
+- **FTD path:** IMPOSSIBLE. Day 1 requires S&P close BELOW 7,266.99 (~307 pts below Jul 15 confirmed 7,574).
+- **⚠️ NEXT WEEK:** ARM EXITS UNIVERSE JUL 21 COB | FOMC Jul 28-29 | NVDA cup wk ~28 (handle still absent; Aug-Sep timeline) | dist expiry chain begins Aug 10+
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~141) | Perplexity 403 | AV 403
 
 **✅ JUL 16 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (EST. NOT DIST — TSMC Q2 BEAT + PPI COOL → EST. UP) — ✅ PPI JUN CONFIRMED −0.3%/+5.5%/CORE +0.1% TRIPLE BEAT — ✅ TSMC Q2 ~$39.6B +36% YoY BEAT (AI 61%) — ARM 2 DAYS TO BLACKOUT (Jul 17,21) → EXITS JUL 21 COB — ALPACA DAY ~140 BLOCKED — 0 POSITIONS — SELL-ENGINE SKIPPED — NO ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** — ALL LONG ENTRIES BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~140 BLOCKED | Perplexity 403 | AV 403

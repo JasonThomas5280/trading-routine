@@ -46,6 +46,70 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-17 (Fri) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ⬜ JUL 16 CLOSE UNCONFIRMED (est. NOT dist; search lag) — ✅ MRVL $222.44 JUL 16 CONF — ✅ ARM $277.01 JUL 16 CONF (AH −$4.01 → ~$273) — NVDA JUL 16 UNCONF — NFLX AH UNCONF — HOUSING STARTS JUN 8:30 AM — UMICH 10:00 AM — ARM PENULTIMATE DAY (FINAL JUL 21 COB) — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~141; Perplexity: 403; AV: 403 — 20th consecutive session in degraded mode)
+**Market direction:** 🔴 Market in Correction | **8/25 distribution days** (Jun 5, Jun 9, Jun 10, Jun 17, Jun 23, Jul 7, Jul 8, Jul 13) | FTD window CLOSED | Rally low 7,266.99 INTACT
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades:** 0/3 (week of Jul 14 — open)
+**Sector leaders (4-week trailing RS):** XLK Technology, XLI Industrials, XLC Communication (unchanged)
+**Sector laggards:** XLE (Iran/energy compressed), XLF (RRG Lagging), XLRE (hawkish Fed; Sep hike priced)
+
+### Step 1: Open positions — overnight gap check
+
+**0 open positions → SKIPPED** ✅
+
+### Step 2-3: Catalyst scan (positions + watchlist)
+
+**0 primary watchlist candidates (17th consecutive week ≥75 threshold unmet)**
+
+**Bench overnight / Jul 16 close news:**
+
+- **NVDA (74/100 BLOCKED):** Jul 16 close UNCONFIRMED (search lag). Last confirmed: $211.80 Jul 15. TSMC Q2 beat (AI chips = 61% of revenue; N3 node sold out) is a positive read-through for NVDA AI demand thesis. **Score: 74/100 UNCHANGED.** Still: Correction + no handle + 74/100 (1 pt below threshold) + 52-wk high $236.54 (~10.6% away) → BLOCKED. Cup wk ~28. `TSMC_Q2_AI61pct_readthrough_positive` `websearch_fallback`
+- **MRVL (~25-35/100 BLOCKED):** ✅ **Jul 16 close CONFIRMED: $222.44** (−$0.99 / −0.44% from $223.43 Jul 15). Modest drift lower. Structure remains broken. CFO selling ongoing. AI capex deceleration narrative unchanged. **Score: ~25-35/100 UNCHANGED.** 8+ wk rebuild needed. Not actionable. `MRVL_Jul16_conf_222.44`
+- **ARM (60/100 → EXITS JUL 21 COB):** ✅ **Jul 16 close CONFIRMED: $277.01** (−$4.16 / −1.48%) + **AH −$4.01 → ~$273 pre-market Jul 17**. Decline attributed to profit-taking ahead of Jul 29 earnings — stock up ~179% YTD, investors locking gains; broader market caution. **⚠️ NOTE: $277 is materially below the $305-320 estimate used in prior weeks** — ARM has been declining. Score **60/100 UNCHANGED** (far below 75 threshold; GAAP C-letter fail unchanged). **TODAY (Jul 17) = PENULTIMATE TRADING DAY. Final trading day = Jul 21 COB. ARM exits universe Jul 21 COB. Academic only.** `ARM_Jul16_conf_277.01` `ARM_AH_273_premarket` `ARM_exits_Jul21_COB_final`
+- **NFLX (not on watchlist — informational):** Q2 2026 results released Jul 16 AH (1:01 PM PT). Guidance/consensus: revenue $12.57B / EPS $0.78 (Netflix own guide) vs. street $12.63B / $0.84. Ad-supported tier 250M+ monthly active viewers worldwide. **ACTUAL RESULTS NOT INDEXED** (search lag). NFLX not on watchlist; XLC sector (#3 sector) — monitor for sector sentiment impact at /market-check. `NFLX_AH_results_unconfirmed_searchlag`
+
+### Step 4: Market overnight check
+
+**Jul 16 close (UNCONFIRMED — search lag — 20th consecutive session):**
+- S&P 500 Jul 16 close: **UNCONFIRMED.** Prior estimate from /eod-review Jul 16: NOT dist (est. +0.3-0.8%, ~7,595-7,640). TSMC beat + PPI cool + Retail Sales absorbed = constructive backdrop. Confirm at /market-check Jul 17.
+- Dist day risk: If Jul 16 was NOT dist → **8/25 UNCHANGED** ✅. If somehow dist → **9/25** (would not change state — already in Correction).
+- Pre-market Jul 17 context: Prior session had Nasdaq 100 pre-market −0.54%, S&P −0.17% (possible risk-off open — ARM AH weakness, possible NFLX reaction depending on results).
+
+**Today's economic calendar (Jul 17):**
+- **8:30 AM ET: Housing Starts + Building Permits June 2026** — High importance. Context: housing under structural pressure from Fed's hawkish stance (Sep rate hike priced; 10yr 4.58%+). One source indicates June housing starts were weak (lowest since May 2020 referenced in same context). A weak print reinforces hawkish-Fed-is-hurting-housing narrative; a strong print surprises to upside. **Neither outcome changes market direction (Correction) or strategy (no entries).** Watch for dist day risk on weak headline.
+- **10:00 AM ET: UMich Consumer Sentiment (Preliminary July)** — Secondary read. Consumer confidence proxy. Tariff/Iran/hawkish Fed overhang → pessimism likely; any positive surprise = bullish read.
+- **Earnings (XLF lagging — no action):** TRV (Travelers), TFC (Truist Financial), FITB (Fifth Third Bancorp). All XLF. XLF in RRG Lagging per sector rotation rules. No action on financials per strategy.
+- **No FOMC events today.** FOMC July 28-29 meeting next week — any data today feeds into that narrative.
+
+**Geopolitical / overnight:** No major new geopolitical escalation indexed. Iran/Hormuz monitoring ongoing (oil ~$77 WTI). Trump hawkish posture maintained.
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Status | Jul 16 Close | Score | Signal |
+|---|---|---|---|---|
+| NVDA | 🔴 BLOCKED | UNCONFIRMED (est. UP on TSMC beat) | 74/100 | Correction + 74/100 + no handle + 52-wk high 10.6% away |
+| MRVL | 🔴 BLOCKED | $222.44 CONFIRMED | ~25-35/100 | Broken structure; 8+ wk rebuild needed |
+| ARM | 🔴 EXITS JUL 21 | $277.01 CONF / ~$273 AH | 60/100 | PENULTIMATE day; exits universe; academic |
+
+**NO BUY ZONES.** Correction + 0 primary candidates. SH $625 hedge QUEUED (Alpaca BLOCKED).
+
+### Step 6: Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily -3% | ✅ CLEAR (0 positions, $0) |
+| Weekly -6% | ✅ CLEAR ($0 P&L, 0/3 trades) |
+| Drawdown -12% | ✅ CLEAR ($2,500 = HWM) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ⚠️ BLOCKED Day ~141 |
+
+### Actions
+
+**NONE.** Correction (8/25 dist days) + Alpaca Day ~141 BLOCKED + 0 positions + 0 candidates ≥75.
+
+---
+
 ## 2026-07-16 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — 8/25 DIST — ✅ JUL 15 CONFIRMED 7,574 (+0.40% NOT DIST ✅) — RETAIL SALES JUN +0.33%/+9.4% BEAT — JOBLESS CLAIMS 215K — ⚠️ NVDA 52-WK HIGH CORRECTED $236.54 — ARM BLACKOUT 2 DAYS (Jul 17,21) — ALPACA DAY ~139 BLOCKED — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~139; Perplexity: 403; AV: 403 — 19th consecutive session in degraded mode)

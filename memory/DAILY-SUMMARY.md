@@ -4154,3 +4154,20 @@ SH $625 hedge: QUEUED (Alpaca Day ~140 still blocked; 403)
 Circuit breakers: ALL CLEAR | Weekly trades: 0/3
 FTD path: IMPOSSIBLE (Day 1 requires S&P <7,266.99; ~307 pts below Jul 15 close)
 Tomorrow (Jul 17): ARM final actionable day (exits Jul 21 COB) | Confirm Jul 16 actual close | NFLX Q2 result | No major macro
+
+---
+## 2026-07-16 11:14 CT [clickup-placeholder]
+
+Pre-market 2026-07-17 (Fri)
+Market: CORRECTION (8/25 dist days) | Alpaca BLOCKED Day ~141 | Perplexity 403 | AV 403
+Open positions: 0 | Circuit breakers: ALL CLEAR
+Overnight gaps: NONE (0 positions)
+Jul 16 close: UNCONFIRMED (search lag 20th session; est. NOT dist)
+MRVL Jul 16 CONF: $222.44 (-0.44%; 25-35/100 BLOCKED)
+ARM Jul 16 CONF: $277.01 (-1.48%; AH ~$273 profit-taking). PENULTIMATE DAY - exits Jul 21 COB. Academic (60/100).
+NVDA Jul 16: UNCONF. Last $211.80 Jul 15. TSMC Q2 AI 61% = positive read-through.
+NFLX AH Jul 16: UNCONF. Guide $12.57B/$0.78. Not on watchlist. XLC sentiment monitor.
+Key data: 8:30 AM Housing Starts Jun (weak exp); 10:00 AM UMich prelim Jul. TRV/TFC/FITB (XLF lagging no action).
+FTD: IMPOSSIBLE (Day 1 needs S&P below 7,266.99 = 307 pts below 7,574).
+Plan: NO ENTRIES. Confirm Jul 16 close + NFLX AH at /market-check 10 AM. SH $625 QUEUED for Alpaca restore.
+research_source: websearch_fallback
