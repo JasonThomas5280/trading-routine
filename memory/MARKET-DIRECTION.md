@@ -6,10 +6,59 @@
 
 ## Current Status
 
-**Status:** 🟡 **UPTREND UNDER PRESSURE** *(Jul 17 /market-check 10:00 AM CT — ⚠️ DIST COUNT CORRECTED: 5/25 — Jun 5 expired Jul 14 / Jun 9 expired Jul 16 / Jun 10 EXPIRES TODAY — ✅ JUL 16 CONFIRMED 7,561 (−0.17% NOT DIST ✅) — ⚠️ STATE CHANGE: CORRECTION → UNDER PRESSURE — ⚠️ TODAY DIST DAY RISK (TSMC −4% on beat; chip sector; futures −0.5%; confirm /eod-review) — ⬜ NVDA JUL 16 UNCONF (est. ~$205-208) — ⬜ NFLX Q2 AH UNCONF — ⬜ HOUSING STARTS JUN UNCONF — ⬜ UMICH JUL PRELIM UNCONF — ARM PENULTIMATE TODAY (EXITS JUL 21 COB) — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — SH $625 QUEUED — NO NEW LONGS)*
+**Status:** 🟡 **UPTREND UNDER PRESSURE** *(Jul 17 /eod-review 3:15 PM CT — ⚠️ JUL 17 CLOSE UNCONFIRMED (est. ~7,515-7,525; est. −0.47-0.60% — LIKELY DIST DAY #6 — OPTIONS EXPIRY FRIDAY HIGH VOL; Yahoo Fin "Dow/S&P/Nasdaq fall as semis sell off" — confirm Mon /pre-market) — IF CONFIRMED: 6/25 → 🔴 CORRECTION — RALLY ATTEMPT INVALIDATED (est. < 7,543.59 Day 1) — FTD WINDOW CLOSED — ✅ NFLX Q2 CONF $12.6B +13%/EPS $0.80 BEAT — ⬜ NVDA "DEFIED CHIP SELLOFF" (UNCONF) — ⬜ HOUSING STARTS JUN UNCONF — ⬜ UMICH JUL PRELIM UNCONF — ARM PENULTIMATE DONE (EXITS JUL 21 COB) — ALPACA DAY ~142 BLOCKED — 0 POSITIONS — SH $625 QUEUED — WEEK CLOSED 0/3)*
 
-**Last updated:** 2026-07-17 (Fri) — /market-check 10:00 AM CT — **🟡 UPTREND UNDER PRESSURE — 5/25 DIST (CORRECTED — 3 missed expiries applied: Jun 5/Jun 9/Jun 10) — STATE CHANGE: CORRECTION EXITED — ✅ JUL 16 7,561 NOT DIST — ⚠️ JUL 17 DIST RISK (TSMC −4%; confirm /eod-review)**
-**STATE:** 🟡 Uptrend Under Pressure | **5/25 dist days (CORRECTED)** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13 | ⚠️ EXPIRIES CORRECTED TODAY: Jun 5 (Day 24=Jul 13; expired start Jul 14 — MISSED), Jun 9 (Day 24=Jul 15; expired start Jul 16 — MISSED), Jun 10 (Day 24=Jul 16; expires start Jul 17 TODAY) | ✅ Jul 16 NOT dist CONFIRMED 7,561 (−0.17%) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ⚠️ JUL 17 DIST RISK (TSMC −4%; chip sector; futures −0.5%; confirm /eod-review) | FTD window OPEN (Day 4 of rally from Jul 14 Day 1; FTD threshold ~7,655; window closes Jul 22; Day 1 close 7,543.59 = invalidation level today) | Rally low 7,266.99 INTACT | 50d MA est. ~7,512 | 200d MA est. ~7,476 | S&P ABOVE BOTH MAs ✅
+**Last updated:** 2026-07-17 (Fri) — /eod-review 3:15 PM CT — **🟡 UPTREND UNDER PRESSURE (CANDIDATE: 6/25 → 🔴 CORRECTION — JUL 17 DIST DAY HIGHLY LIKELY — UNCONFIRMED — confirm Mon Jul 20 /pre-market)**
+**STATE:** 🟡 Uptrend Under Pressure (holding until confirmed) | **5/25 dist days active + Jul 17 CANDIDATE → 6/25** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13 | ⚠️ CANDIDATE NEW DIST DAY: Jul 17 (est. −0.47-0.60%; options expiry vol; Yahoo Fin confirms fall) | Jun 10 EXPIRED today Jul 17 ✅ | RALLY ATTEMPT INVALIDATED (est. close ~7,515-7,525 < Day 1 7,543.59) | FTD window CLOSED | 50d MA critically thin (est. 7,515-7,525 vs MA ~7,515) | Rally low 7,266.99 INTACT | ✅ Jul 16 NOT dist CONFIRMED 7,561 (−0.17%) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%)
+
+**⚠️ JUL 17 /eod-review (3:15 PM CT — 🟡 UNDER PRESSURE — ⚠️ JUL 17 CLOSE UNCONFIRMED (EST. ~7,515-7,525; LIKELY DIST DAY #6 → 6/25 → 🔴 CORRECTION — OPTIONS EXPIRY FRIDAY; Yahoo Fin "Dow/S&P/Nasdaq fall as semis sell off, oil spikes") — RALLY ATTEMPT INVALIDATED — FTD CLOSED — ✅ NFLX Q2 $12.6B/EPS $0.80 BEAT — ⬜ NVDA/HOUSING STARTS/UMICH UNCONF — ARM PENULTIMATE DONE — ALPACA DAY ~142 BLOCKED — 0 POSITIONS — SELL-ENGINE SKIPPED — 0 ACTIONS):**
+- **Market state: 🟡 UPTREND UNDER PRESSURE** (holding until Jul 17 dist day confirmed Mon) | `research_source: websearch_fallback` | Alpaca Day ~142 BLOCKED | Perplexity 403 | AV 403
+- **SPY/QQQ bars:** Alpaca 403 BLOCKED. WebSearch: S&P Jul 17 est. ~7,515-7,525 (−0.47-0.60% from 7,561). Yahoo Finance headline: "Dow, S&P 500, Nasdaq fall as semiconductors sell off, oil prices jump." Nasdaq est. ~−1.0-1.5%. Search engine lagged (22nd consecutive degraded session).
+- **⚠️ JUL 17 LIKELY DISTRIBUTION DAY (UNCONFIRMED — confirm Mon Jul 20 /pre-market):**
+  - Est. S&P close: ~7,515-7,525 (−0.47 to −0.60% from 7,561)
+  - Dist threshold: ≤ 7,546.1 (−0.20% from 7,561) → est. well below threshold ✅
+  - Volume: OPTIONS EXPIRY FRIDAY (third Friday of July = monthly expiry) → volume almost certainly elevated above Jul 16 ✅
+  - Additional signals: TSMC −4% yesterday (spreading chip weakness); S&P futures −0.5% pre-mkt; Nasdaq futures −1.5% pre-mkt; oil prices spiking (Hormuz tensions); Schwab morning: "Chips, Oil, Weigh Early Despite Solid TSM Results"
+  - NVDA note: "NVDA Defies Market Trends Amidst Semiconductor Sell-off" (gurufocus headline) → NVDA may have held up; not sufficient to offset broader weakness
+  - **Assessment: HIGH PROBABILITY DISTRIBUTION DAY — treated as LIKELY DIST; conservative approach per rules**
+  - IF confirmed: **6/25 → STATE CHANGE: 🟡 Under Pressure → 🔴 Market in Correction**
+  - Confirm at /pre-market Mon Jul 20
+- **RALLY ATTEMPT INVALIDATED (est.):**
+  - Day 1 close Jul 14: 7,543.59 (invalidation level)
+  - Est. Jul 17 close ~7,515-7,525 < 7,543.59 → **RALLY ATTEMPT INVALIDATED**
+  - FTD threshold was ~7,655; no chance → FTD window CLOSED
+  - Need NEW Day 1 (S&P must establish a new intraday low and close up the same day)
+  - Current rally low: 7,266.99 (Jun 10) INTACT (no breach estimated today)
+- **✅ NFLX Q2 2026 CONFIRMED (AH Jul 16):**
+  - Revenue: $12.56B (+13% YoY) — in-line with $12.57B est.
+  - EPS: $0.80 (beat $0.79 est.) | Operating income $4.2B; Operating margin 33.4%
+  - Not on watchlist → no action. EPS beat absorbed; not a market mover for us.
+- **⬜ JUL 17 DATA (UNCONFIRMED — released today; search lag):**
+  - Housing Starts June 2026 (8:30 AM ET): Not indexed. May was 1,177K (6-yr low). Confirm Mon /pre-market.
+  - UMich Consumer Sentiment July 2026 prelim (10:00 AM ET): Not indexed. June final 49.5. Confirm Mon /pre-market.
+  - NVDA Jul 17 close: "NVDA Defies Semiconductor Sell-off" headline → likely flat to UP despite chip weakness. Last confirmed $211.80 Jul 15. Score 74/100 UNCHANGED. BLOCKED.
+  - ARM Jul 17 close: PENULTIMATE DAY DONE. Likely under pressure. Exits universe after Jul 21 COB.
+  - MRVL Jul 17 close: UNCONFIRMED. Likely down (chip sector). Score 25-35/100 UNCHANGED.
+- **Distribution day accounting:**
+  - Jun 10 EXPIRED today Jul 17 ✅ (already removed in this morning's /market-check correction)
+  - Active (5/25): Jun 17, Jun 23, Jul 7, Jul 8, Jul 13
+  - CANDIDATE: Jul 17 → 6/25 if confirmed → CORRECTION
+  - Next expiry (no new days): Jun 17 (Day 24=Jul 23) → expires Jul 24 → 4/25 (or 5/25 if Jul 17 dist confirmed)
+- **50d MA / 200d MA cushion (est.):**
+  - S&P est. ~7,515-7,525 vs 50d MA est. ~7,515 = **CRITICALLY THIN (~0-10 pts)**
+  - ⚠️ Monitor 50d MA breach risk next week. If S&P breaches 50d MA on volume → additional sell rule trigger.
+- **Open positions:** 0 → sell-rules-engine: **SKIPPED** ✅ | `batch_evaluated: 0`
+- **Portfolio checks:** 5+1 candidate dist days; 0 positions (nothing to reduce); SH $625 QUEUED; Alpaca BLOCKED
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L today: $0 | P&L week: $0 | Weekly trades: 0/3
+- **Actions: NONE** (Under Pressure + Alpaca Day ~142 BLOCKED + 0 positions + 0 candidates ≥75)
+- **Week of Jul 14-17 CLOSED:** 0/3 positions | Daily: +0.38%, +0.40%, −0.17%, est. −0.5-0.6% → week est. FLAT to SLIGHT LOSS
+- **⚠️ NEXT WEEK (Jul 20-24):**
+  - Mon Jul 20: Confirm Jul 17 close + dist day count (5/25 vs 6/25) + Housing Starts Jun + UMich Jul prelim | **If dist confirmed → 🔴 CORRECTION; ALL LONGS BLOCKED; SH hedge active (Alpaca permitting)**
+  - Tue Jul 21: ARM FINAL trading day → exits universe end of session ← REMOVE FROM BENCH AFTER COB
+  - Thu Jul 24: Jun 17 dist day expires (→ 4/25 or 5/25 depending on Jul 17 outcome)
+  - FOMC Jul 28-29 (quiet pre-meeting week expected)
+  - NVDA: Cup ~wk 29; handle still absent; 52-wk high $236.54; BLOCKED regardless of market state
+- `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~142) | Perplexity 403 | AV 403
 
 **✅ JUL 17 /market-check (10:00 AM CT — 🟡 UPTREND UNDER PRESSURE — ⚠️ DIST COUNT CORRECTED 5/25 — STATE CHANGE: CORRECTION EXITED — ✅ JUL 16 7,561 NOT DIST — ⚠️ 3 MISSED EXPIRIES CORRECTED — TSMC −4% TODAY — ⚠️ TODAY DIST RISK — ARM PENULTIMATE — ALPACA DAY ~141 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🟡 UPTREND UNDER PRESSURE** — All new long entries BLOCKED | `research_source: websearch_fallback` | Alpaca Day ~141 BLOCKED | Perplexity 403 | AV 403

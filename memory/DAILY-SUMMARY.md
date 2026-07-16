@@ -4196,3 +4196,28 @@ Key data: 8:30 AM Housing Starts Jun (weak exp); 10:00 AM UMich prelim Jul. TRV/
 FTD: IMPOSSIBLE (Day 1 needs S&P below 7,266.99 = 307 pts below 7,574).
 Plan: NO ENTRIES. Confirm Jul 16 close + NFLX AH at /market-check 10 AM. SH $625 QUEUED for Alpaca restore.
 research_source: websearch_fallback
+
+---
+## 2026-07-17 15:15 CT [eod-review]
+
+📊 EOD 2026-07-17 (Fri — Week CLOSED) | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 5/25 active + ⚠️ JUL 17 CANDIDATE → 6/25 (market: 🟡 Under Pressure → LIKELY 🔴 Correction — UNCONFIRMED; confirm Mon)
+Close: ✅ Jul 16 CONFIRMED S&P 7,561 (−0.17%, NOT dist ✅) | ⚠️ Jul 17 UNCONFIRMED (est. ~7,515-7,525; LIKELY DIST DAY #6; options expiry Fri high vol; Yahoo Fin "Dow/S&P/Nasdaq fall as semis sell off, oil spikes"; search lag — confirm Mon /pre-market)
+FTD: RALLY ATTEMPT INVALIDATED (est. Jul 17 close < Day 1 7,543.59) | FTD window CLOSED
+Actions today:
+  • NONE — Under Pressure + Alpaca Day ~142 BLOCKED + 0 positions + 0 candidates ≥75
+  • sell-rules-engine: SKIPPED (0 open positions) ✅
+Data confirmed today:
+  ✅ NFLX Q2 2026: $12.56B revenue (+13% YoY) / EPS $0.80 (beat $0.79) — not on watchlist; no action
+  ✅ Jobless Claims wk Jul 11: 208K (beat 218K est.) — tight labor, hawkish Fed signal
+  ⬜ Housing Starts Jun 2026: UNCONFIRMED (released 8:30 AM ET; search lag; May was 1,177K 6-yr low)
+  ⬜ UMich Consumer Sentiment Jul prelim: UNCONFIRMED (released 10:00 AM ET; Jun was 49.5)
+  ⬜ NVDA Jul 17: "DEFIED CHIP SELLOFF" headline — UNCONFIRMED
+  ⬜ ARM Jul 17: PENULTIMATE DAY DONE — exits universe after Jul 21 COB
+Bench: NVDA 74/100 BLOCKED | MRVL ~25-35/100 BLOCKED | ARM 60/100 EXITS JUL 21 COB
+SH $625 hedge: QUEUED (Alpaca Day ~142 BLOCKED; 403)
+Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | Week closed
+50d MA cushion: CRITICALLY THIN (est. S&P ~7,515-7,525 vs MA ~7,515 = ~0-10 pts) ⚠️
+Monday (Jul 20): Confirm Jul 17 dist day (5/25 → holds Under Pressure OR 6/25 → back to Correction) | ARM FINAL trading day Tue Jul 21 | Jun 17 dist expires Jul 24
+research_source: websearch_fallback | Alpaca BLOCKED Day ~142
