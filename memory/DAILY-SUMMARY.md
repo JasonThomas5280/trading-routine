@@ -4221,3 +4221,19 @@ Circuit breakers: ALL CLEAR | Weekly trades: 0/3 | Week closed
 50d MA cushion: CRITICALLY THIN (est. S&P ~7,515-7,525 vs MA ~7,515 = ~0-10 pts) ⚠️
 Monday (Jul 20): Confirm Jul 17 dist day (5/25 → holds Under Pressure OR 6/25 → back to Correction) | ARM FINAL trading day Tue Jul 21 | Jun 17 dist expires Jul 24
 research_source: websearch_fallback | Alpaca BLOCKED Day ~142
+
+---
+## 2026-07-17 11:20 CT [clickup-placeholder]
+
+Pre-market 2026-07-20 (Mon)
+Market: CORRECTION 6/25 dist confirmed + Jul 17 candidate 7/25
+CORRECTION: Jul 16 actual 7,533.77 (-0.53% DIST DAY #6) prior NOT dist was wrong
+Jul 17 close UNCONF (est. ~7,490-7,500; DIST #7 candidate) confirm /market-check
+UMich Jul prelim UP vs May | Inflation exp 4.6% (down from 4.8%) mild positive
+Housing Starts Jun unconf | ARM Jul 17 62.01 (-5.41%) penultimate done
+ARM FINAL = JUL 21 COB (tomorrow Tue) exits bench permanently after Tue
+Futures: ES ~7,535-7,563 est | No major overnight news
+Open positions: 0 | Circuit breakers: NONE | Alpaca Day ~143 BLOCKED
+SH 25 hedge: QUEUED (execute on Alpaca restore)
+Watchlist: 0 candidates 75+ (18th consecutive week)
+Plan: NO ENTRIES. Confirm Jul 17 close + dist count at /market-check 10 AM CT.

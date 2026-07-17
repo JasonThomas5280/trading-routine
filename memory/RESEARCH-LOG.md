@@ -15041,3 +15041,168 @@ Weekly trades: 0/3 | Next check: /pre-market 6:00 AM CT Fri Jul 17
 ```
 
 `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~140) | Perplexity 403 | AV 403
+
+`research_source: websearch_fallback` | Alpaca BLOCKED (Day ~140) | Perplexity 403 | AV 403
+
+---
+
+## 2026-07-20 (Mon) — /pre-market (6:00 AM CT) — 🔴 CORRECTION — ⚠️ JUL 16 CLOSE CORRECTED: 7,533.77 (−0.53% DIST DAY #6) — ⚠️ JUL 17 LIKELY DIST DAY #7 (UNCONF) — STATE: CORRECTION CONFIRMED — ARM $262.01 JUL 17 (PENULTIMATE ✅) — NVDA "DEFIED SELLOFF" — UMICH JUL PRELIM CONFIRMED ↑ — HOUSING STARTS JUN UNCONF — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — NO ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~143; Perplexity: 403; AV: 403 — all blocked; 23rd consecutive session degraded mode)
+**Market direction:** 🔴 Market in Correction | Dist count: **6/25 confirmed + Jul 17 candidate → 6-7/25** | Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16 (CORRECTED NEW) | FTD impossible (new Day 1 needed) | Rally low 7,266.99 INTACT
+**Weekly trades (week of Jul 20):** 0/3 (reset) | **Open positions:** 0 | **Equity:** $2,500 (HWM)
+
+---
+
+### Step 1: Overnight gap check — open positions
+
+**0 open positions.** Gap check: SKIPPED ✅
+
+---
+
+### Step 2: Catalyst scan — open positions
+
+**0 open positions.** SKIPPED ✅
+
+---
+
+### Step 3: Catalyst scan — primary watchlist
+
+**0 primary watchlist names** (0 candidates ≥75 — 18th consecutive week). SKIPPED ✅
+
+---
+
+### Step 4: Market overnight check — S&P 500 Jul 16-17 close confirmation
+
+⚠️ **CRITICAL DATA CORRECTION — JUL 16 CLOSE:**
+
+| Item | Prior Memory Entry | CONFIRMED (WebSearch) | Impact |
+|---|---|---|---|
+| Jul 16 S&P close | 7,561 (−0.17% "NOT dist") ← WRONG | **7,533.77 (−0.53%)** ← CORRECTED | DISTRIBUTION DAY (−0.53% > −0.20% threshold) |
+| Jul 16 dist day | ❌ No | ✅ **YES — DIST DAY #6** | State was CORRECTION from Jul 16 COB |
+| Rally attempt (Day 3) | 7,561 > 7,543.59 Day 1 (valid) | 7,533.77 < 7,543.59 → **INVALIDATED** | Rally attempt ended Jul 16 (not Jul 17) |
+
+**Source:** TheStreet "Stock Market Today (July 16, 2026): Nasdaq, S&P 500 fall as semiconductor slide continues" — confirmed 7,533.77 (−0.51–0.53%). CNBC live updates article corroborates. Magnitude well above −0.20% dist threshold; chip sector selloff (SMH −4%, ARM −5.41%) strongly implies elevated volume. **Classifying Jul 16 as CONFIRMED DIST DAY #6.**
+
+**⚠️ IMPLICATION:** The Jul 17 /market-check "state change to Under Pressure (5/25)" was PREMATURE. Jul 16 was already dist day #6 → Correction from Jul 16 COB. State never actually returned to Under Pressure.
+
+**Jul 17 (Fri) close estimate:**
+- Yahoo Finance: "Dow, S&P 500, Nasdaq fall as semiconductors sell off, oil prices jump"
+- ARM $262.01 (−5.41% from $277.01 Jul 16) ✅ CONFIRMED
+- S&P est. from 7,533.77 base × estimated −0.47-0.60% = ~7,490-7,500
+- Options expiry Friday → elevated volume → DIST DAY HIGHLY LIKELY → **CANDIDATE DIST DAY #7**
+- July 17 close and dist status: **UNCONFIRMED (search lag)** — confirm /market-check Jul 20
+
+---
+
+### Step 4b: Key unconfirmed data from Jul 17
+
+| Item | Status | Notes |
+|---|---|---|
+| S&P 500 Jul 17 close | ⬜ UNCONFIRMED | Est. ~7,490-7,500 (from corrected 7,533.77 base); confirm /market-check |
+| Housing Starts Jun 2026 | ⬜ UNCONFIRMED | Released Jul 17 8:30 AM ET; not indexed. May was 1,177K (6-yr low). Confirm /market-check. |
+| UMich Consumer Sentiment Jul prelim | ✅ **CONFIRMED ↑** | Rose ~10% vs May; still 13% below Feb 2026 (pre-Iran war); year-ahead inflation expectations 4.6% (↓ from 4.8%). Mildly positive. Long-run business conditions +16%. Still "unfavorable territory." |
+| NVDA Jul 17 close | ⬜ UNCONFIRMED | Headline: "NVIDIA Defies Market Trends Amidst Semiconductor Sell-off" (gurufocus). Est. ~$210-216 (flat to slight decline despite chip weakness). Score 74/100 UNCHANGED. |
+| ARM Jul 17 close | ✅ **$262.01 CONFIRMED** | −5.41% from $277.01. AH ~$258-260 est. PENULTIMATE DONE. FINAL = Jul 21 COB. |
+| MRVL Jul 17 close | ⬜ UNCONFIRMED | Chip sector fell; est. significant decline from $222.44 Jul 16. Score 25-35/100 UNCHANGED. |
+
+---
+
+### Step 4c: Overnight/weekend news (Jul 18-20)
+
+- **Geopolitics:** US-Iran tensions ongoing (Jul 13 fourth-round airstrikes + Hormuz "closure"). No weekend resolution confirmed. Oil risk persists (WTI elevated). No ceasefire signal.
+- **AI/Tech:** No major overnight chip news found. Broader market chip selloff from Jul 16-17 expected to weigh on Monday open at the margin.
+- **Macro:** FOMC Jul 28-29 (pre-meeting week; minimal Fed communication expected). No major Monday economic releases scheduled.
+- **Earnings:** No major watchlist earnings this week. ARM Jul 29 earnings remain the next calendar event of note.
+- **ES/NQ futures (Mon morning):** Limited data (search lag). ES range suggested ~7,535-7,563 (premarket window). Low confidence — use /market-check at 10:00 AM CT for actual price action.
+- `research_source: websearch_fallback` — confidence: LOW on futures data
+
+---
+
+### Step 5: Buy-zone readiness
+
+**Entry gate: ⛔ ZERO new long entries** (Market in Correction — M-gate absolute block)
+
+| Symbol | Status | Est. Price | Notes |
+|---|---|---|---|
+| NVDA | 🔴 BLOCKED | ~$210-216 est. | Cup wk ~30; no handle; 52-wk high $236.54 (far); 74/100 |
+| MRVL | 🔴 BLOCKED | Declining (est. <$220) | Broken structure; 25-35/100; 8+ wk rebuild |
+| ARM | 🔴 EXITS JUL 21 COB | $262.01 Jul 17; est. ~$258-262 | **FINAL TRADING DAY TOMORROW (Jul 21)**. Score 60/100. Remove from bench Wed Jul 22. |
+
+No names within 2% of a pivot (no pivots defined). No promotions. No demotions except ARM scheduled removal.
+
+---
+
+### Step 6: Circuit breaker check
+
+| Breaker | Status |
+|---|---|
+| Daily −3% | ✅ CLEAR ($0 P&L, 0 positions) |
+| Weekly −6% | ✅ CLEAR (new week; $0 prior week P&L) |
+| Drawdown −12% HWM | ✅ CLEAR ($2,500 = HWM, no drawdown) |
+| PDT count | ✅ 0 of 3 |
+| Alpaca API | ❌ BLOCKED Day ~143 (403 proxy) — SH $625 QUEUED; cannot execute |
+| **ALL STANDARD CIRCUIT BREAKERS** | **CLEAR** ✅ |
+
+---
+
+### Distribution day accounting (corrected)
+
+**Active dist days (6/25):** Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, **Jul 16** (CORRECTED — was missing)
+**Candidate:** Jul 17 → 7/25 if confirmed at /market-check
+
+**Expiry schedule (no new dist days assumed):**
+| Day | Expiry | → Count |
+|---|---|---|
+| Jun 17 | Jul 24 | 5/25 (or 6 if Jul 17 conf.) |
+| Jun 23 | Jul 30 | 4/25 (or 5) |
+| Jul 7 | Aug 11 | 3/25 (or 4) |
+| Jul 8 | Aug 12 | 2/25 (or 3) |
+| Jul 13 | Aug 17 | 1/25 (or 2) |
+| Jul 16 | Aug 20 | 0/25 (or 1) |
+| Jul 17 (cand.) | Aug 21 | 0/25 (if confirmed) |
+
+Earliest possible Confirmed Uptrend (no new dist days): Aug 17-21. FTD also required (new Day 1 first).
+
+---
+
+### Step 7: Weekly trade counter reset
+
+**Week of 2026-07-20:** 0/3 trades used. (Week of Jul 14 closed: 0/3 positions, $0 P&L.)
+
+---
+
+### Step 8: ARM universe exit schedule
+
+| Date | Event |
+|---|---|
+| ✅ Jul 17 (Fri) | ARM penultimate trading day ($262.01) |
+| Jul 20 (Mon, TODAY) | ARM second-to-last (exits TOMORROW after COB) |
+| **Jul 21 (Tue)** | **ARM FINAL trading day → EXITS UNIVERSE after COB** |
+| Jul 22 (Wed) | ARM blackout begins (earnings Jul 29) |
+| Jul 22 | Remove ARM from bench permanently this cycle |
+
+**Action: Remove ARM from bench in WATCHLIST.md after Jul 21 /eod-review.** Not today — ARM still trades tomorrow.
+
+---
+
+### Step 9: ClickUp/Summary
+
+```
+🌅 Pre-market 2026-07-20 (Mon)
+Market: 🔴 CORRECTION — 6/25 dist confirmed + Jul 17 candidate → 6-7/25
+Overnight: No major weekend news; Iran tensions ongoing; FOMC Jul 28-29 quiet pre-meeting week
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: N/A (0 positions)
+⚠️ CRITICAL CORRECTION: Jul 16 CONFIRMED 7,533.77 (−0.53%) = DIST DAY #6 (prior entry "7,561 NOT dist" was WRONG due to search lag)
+⚠️ Jul 17 close unconfirmed; est. ~7,490-7,500; DIST DAY #7 candidate — confirm /market-check
+✅ UMich Jul prelim: Rose vs May; inflation expectations 4.6% (↓ from 4.8%) — mildly positive
+⬜ Housing Starts Jun: Not indexed — confirm /market-check
+✅ ARM Jul 17: $262.01 (−5.41%) penultimate done | FINAL = Jul 21 COB (TOMORROW)
+⬜ NVDA Jul 17: "Defied selloff" headline; est. flat — score 74/100 unchanged
+Watchlist ready: NONE (0 candidates ≥75 — 18th consecutive week)
+SH $625 hedge: QUEUED — Alpaca Day ~143 BLOCKED (execute on restore)
+Plan: NO ENTRIES. Correction posture. Confirm Jul 17 close + dist count at /market-check 10 AM CT.
+```
+
+`research_source: websearch_fallback` | Alpaca BLOCKED (Day ~143) | Perplexity 403 | AV 403

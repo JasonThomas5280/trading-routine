@@ -24,12 +24,14 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ⛔ CURRENT — Week of 2026-07-14 to 2026-07-18 — `/weekly-prep` Sun Jul 12 4:00 PM CT
+## ⛔ CURRENT — Week of 2026-07-20 to 2026-07-25 — (ROLLING — NO REBUILD; prior `/weekly-prep` Sun Jul 12)
 
-**Built:** 2026-07-12 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
-Alpaca: Day ~133 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; all data via WebSearch
+**Updated:** 2026-07-20 (Mon) — `/pre-market` 6:00 AM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~143 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all blocked; 23rd consecutive degraded session
 
-**Market direction:** 🟡 Uptrend Under Pressure (5/25 dist days CORRECTED — Jun 5/Jun 9/Jun 10 all expired; ⚠️ TODAY Jul 17 DIST DAY RISK — TSMC fell 4% / chip sector / Nasdaq fut −1.5% — confirm /eod-review) | **NO NEW LONG ENTRIES** (Under Pressure blocks new longs)
+**⚠️ DATA CORRECTIONS vs prior week:** Jul 16 close CORRECTED to 7,533.77 (−0.53% DIST DAY #6; prior "7,561 NOT dist" was wrong). State: 🔴 Correction (6/25 confirmed + Jul 17 candidate). Jul 17 /market-check "Under Pressure 5/25" was premature.
+
+**Market direction:** 🔴 Market in Correction (6/25 dist days confirmed + Jul 17 candidate → 7/25) | **NO NEW LONG ENTRIES** (Correction blocks all longs)
 **S&P 500:** Jul 10 close 7,575.39 → **Jul 13 close CONFIRMED 7,515.34 (−0.79%; DIST DAY #8)** | ⚠️ **50d MA NEAR-MISS: only 6.17 pts above 50d MA on Jul 13** (50d MA 7,509.17) | **Jul 14 close est. ~7,545-7,553** (NOT dist; CPI −0.4%/3.5% relief, but Iran/oil held back) | 200d MA ~7,472.59 | Rally low 7,266.99 INTACT (~280 pts from current)
 **CPI June CONFIRMED:** −0.4% MoM / 3.5% YoY (major disinflation beat; best print in years; backward-looking June data)
 **FTD status:** CLOSED (requires new Day 1 below 7,266.99 — ~280 pts below; impossible near-term)
@@ -81,41 +83,36 @@ Alpaca: Day ~133 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 
 | Rank | Symbol | Score | Δ | Sector | Status | Re-Score Trigger | Notes |
 |---|---|---|---|---|---|---|---|
-| B1 | NVDA | **74/100 ↑** | ↑2 (China H200 CONFIRMED + 52w high $212.19 proximity) | XLK / Semis | 🟡 Cup wk ~25; no handle; 99.2% of 52w high | Handle completion (~Aug-Sep 2026) + Alpaca+AV restore + base bonus +10 | **C:20 A:15 N:12 S:10 L:12 I:5 Base:0.** Price: $209.14 (Jul 10 close) / $211.80 (Jul 15 CONFIRMED) / **~$210.32 est. (Jul 16 intraday)**. ⚠️ **52-WK HIGH CORRECTED: $236.54** (prior estimate $212.19 was WRONG — NVDA is ~10.6% BELOW 52-wk high, NOT near a new high; 'testing 52-wk high / only $0.39 away' narrative INVALIDATED by /market-check Jul 16). N-letter breakout to new 52-wk high requires NVDA above $236.54 — meaningfully further away than estimated. MS "Overweight" reiterated Jul 15. US official formally confirmed H200 shipping to China (Alibaba/ByteDance/DeepSeek). $80B buyback confirmed. Q1 FY2027: EPS +131% YoY; revenue +85% YoY; Data Center $75B +92% YoY; 3 consecutive quarters of acceleration = C-letter remains 20/20. Vera CPU launch = new $200B market. China H200 fully confirmed Jul 10 (Alibaba/ByteDance/DeepSeek; <200K chips; reopening 20% of prior Data Center revenue). Goldman 21.7x PE "compelling" vs 72x avg. Q2 FY2027 guide: $91B (+11.7% QoQ, ~+80%+ YoY). **Needs: handle formation (~2-6 wks min) + Uptrend + base bonus = 84/100 potential.** Headwinds: (1) B200 GPU lease $6.11→$4.22/hr compression; (2) DeepSeek building own chip (Jul 9 news, NVDA slipped 2%); (3) Insider selling $410.6M ongoing; (4) Float ~24B shares (massive S-letter headwind). Aug 26 earnings — no blackout issue. `websearch_fallback` `China_H200_CONFIRMED_Jul10` `Q1FY2027_EPS_131pct_YoY` `Vera_CPU_new_market` `B200_lease_compression` `DeepSeek_own_chip_risk` |
-| B2 | MRVL | **~25-35/100 ⬇️⬇️⬇️⬇️** | ↓↓ ONGOING DETERIORATION (Jul 13 −6.26% CONFIRMED; Jul 14 $217.53 CONFIRMED; Jul 15 $223.43 CONFIRMED; Jul 16 $222.44 CONFIRMED — slight drift lower) | XLK / AI Semis | ❌ BELOW THRESHOLD — broken structure; 8+ wk rebuild needed | New base formation (8+ wks minimum from ~$213 low) + FTD + Alpaca restore + CFO selling resolved | **C:10 A:10 N:5 S:3 L:3 I:4 Base:0.** Price: **✅ Jul 16 CONFIRMED $222.44** (−$0.99 / −0.44% from $223.43 Jul 15). Celestial AI + XConn Technologies acquisitions + NVDA NVLink Fusion partnership noted (Jul 15); insufficient to change broken structure or score. CFO selling ongoing; AI capex deceleration narrative unchanged. Score **~25-35/100 UNCHANGED.** 8+ wk rebuild from ~$213 low → Nov 2026 at earliest. Not actionable this cycle or Q3. `websearch_fallback` `MRVL_Jul16_conf_222.44` `AI_capex_decel_narrative` `CFO_liquidation_ongoing` `base_rebuild_Nov2026` |
-| ❌ | ~~ARM~~ | **60/100 → EXITS JUL 21 COB** | — | XLK / Semis | ❌ ⚠️ PENULTIMATE TRADING DAY TODAY (JUL 17) — FINAL = JUL 21 COB — **REMOVED FROM UNIVERSE** (/market-check Jul 15; updated Jul 16-17) | N/A — blackout permanently closes entry window for this cycle | **C:10 A:10 N:15 S:5 L:15 I:5 Base:0.** Price: ✅ **$277.01 CONFIRMED Jul 16** (−$4.16 / −1.48%; profit-taking ahead of Jul 29 earnings; AH −$4.01 → ~$273 pre-mkt Jul 17). Prior estimate of $305-320 was too high — ARM has been trending down. Score 60/100 UNCHANGED (GAAP C-letter fail; far below 75 threshold). ⚠️ **TODAY (Jul 17) = PENULTIMATE trading day. FINAL = Jul 21 COB.** ARM EXITS universe Jul 21 COB. Re-evaluate post-earnings: Jul 29 + 5-day clearance = Aug 5+ re-entry window. `ARM_Jul16_conf_277.01` `ARM_AH_273` `ARM_penultimate_day_Jul17` `ARM_exits_Jul21_COB` `GAAP_C_letter_fail` |
+| B1 | NVDA | **74/100** | UNCHANGED | XLK / Semis | 🟡 Cup wk ~30; no handle; 52-wk high $236.54 | Handle completion (~Aug-Sep 2026) + Uptrend restore + Alpaca+AV restore + base bonus | **C:20 A:15 N:12 S:10 L:12 I:5 Base:0.** Price: $211.80 (Jul 15 CONFIRMED) / ⬜ Jul 17 UNCONF (headline: "NVDA Defies Semiconductor Sell-off" — est. ~$210-216; held vs chip peers). Cup wk ~30; no handle; 52-wk high $236.54 (~12% away). C-letter 20/20 (EPS +131% YoY Q1 FY2027). Score unchanged 74/100. BLOCKED: Correction gate + 74/100 + no handle + Alpaca blocked. Not actionable until: handle forms + Confirmed Uptrend + Alpaca restore = est. 84/100. `websearch_fallback` `NVDA_Jul17_est_defied_selloff` `Cup_wk30_no_handle` |
+| B2 | MRVL | **~25-35/100 ⬇️** | ↓ chip sector pressure (Jul 16-17 selloff) | XLK / AI Semis | ❌ BELOW THRESHOLD — broken structure; 8+ wk rebuild | New base formation + FTD + Alpaca restore + CFO selling resolved | **C:10 A:10 N:5 S:3 L:3 I:4 Base:0.** Price: ✅ $222.44 (Jul 16 CONFIRMED); ⬜ Jul 17 UNCONF (est. significantly lower on chip sector selloff — SMH −4%, broader semis weak). Score ~25-35/100 UNCHANGED. CFO selling ongoing; AI capex decel. 8+ wk rebuild path from ~$213 low. Not actionable Q3 2026. `websearch_fallback` `MRVL_broken_base` `CFO_liquidation_ongoing` |
+| ❌ | ~~ARM~~ | **60/100 → EXITS JUL 21 COB** | — | XLK / Semis | ❌ ⚠️ FINAL TRADING DAY = TOMORROW (JUL 21 COB) — EXITS UNIVERSE PERMANENTLY THIS CYCLE | N/A — blackout permanently closes entry window | **C:10 A:10 N:15 S:5 L:15 I:5 Base:0.** Price: ✅ **$262.01 CONFIRMED Jul 17** (−5.41% from $277.01 Jul 16 — chip sector selloff). Score 60/100 UNCHANGED (GAAP C-letter fail). **TODAY (Jul 20) = SECOND-TO-LAST trading day. TOMORROW (Jul 21 Tue) = FINAL.** ARM EXITS universe after Jul 21 COB. Remove from bench permanently Wed Jul 22. Re-evaluate post-earnings: Jul 29 + 5-trading-day clearance = Aug 5+ re-entry window. `ARM_Jul17_conf_262.01` `ARM_exits_Jul21_COB_TOMORROW` `GAAP_C_letter_fail` |
 
 ---
 
-### Entry Execution Plan — Week of Jul 14-18
+### Entry Execution Plan — Week of Jul 20-25
 
-**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day ~133 BLOCKED + 0 candidates ≥75)
+**Entry gate: ⛔ ZERO new long entries** (Correction 6-7/25 + Alpaca Day ~143 BLOCKED + 0 candidates ≥75 — 18th consecutive week)
 
 **FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5)
 
-**Week's critical path:**
-- **Tue Jul 14 — MEGA EVENT:** CPI June + Warsh testimony + JPM Q2 + GS Q2 (ALL SAME MORNING)
-  - COOL CPI (<3.0% core) + DOVISH WARSH: Relief rally; NOT dist day; tone improves but state unchanged (Correction); do NOT chase
-  - HOT CPI (≥3.5%+ core) + HAWKISH WARSH: Dist day #8 risk → 8/25; potential 50d MA breach (7,575 vs 7,509 = 66 pts only); DEEPER Correction
-  - JPM/GS beats absorbed: XLF in RRG Lagging → no chasing bank earnings
-  - JPM/GS misses: additional selling pressure → compound dist day risk
-- **Wed Jul 15:** PPI + Beige Book — secondary read; WFC/C/BAC earnings
-- **Thu Jul 16:** Retail sales — consumer spending health
-- **ARM BLACKOUT BEGINS JUL 22** — no ARM evaluation or entry attempts next week or beyond for this cycle (4 trading days remain: Jul 15, 16, 17, 21 — all academic; 60/100 far below threshold)
+**Week's critical path (Jul 20-25):**
+- **Mon Jul 20 (TODAY):** Confirm Jul 17 close at /market-check | ARM second-to-last trading day (academic; exits tomorrow) | No major US macro releases | FOMC pre-meeting quiet week
+- **Tue Jul 21 (TOMORROW):** ⚠️ ARM FINAL TRADING DAY → EXITS UNIVERSE after COB | Remove ARM from bench Wed Jul 22
+- **Thu Jul 24:** Jun 17 dist day expires (→ 5/25 if Jul 17 NOT confirmed; → 6/25 if Jul 17 confirmed dist day)
+- **Fri Jul 25:** End of week — approach FOMC Jul 28-29 in full cash / Correction posture
 
-**FTD scenario (impossible this week, but tracking):**
-- Day 1 requires S&P close BELOW 7,266.99 (4.25% below current) — not possible without major macro shock
-- Even if Day 1 fires this week (extreme scenario): FTD window = Day 4-7 = earliest next week
-- Most likely path: S&P oscillates 7,400-7,650 range through July while dist days expire; CORRECTION clears organically only via FTD (which requires a new lower low first)
+**FTD scenario:**
+- New Day 1 requires S&P intraday new low THEN closes up on elevated volume — highly uncertain
+- Current Correction: 6-7/25 dist days. Earliest Uptrend possible: ~Aug 17-21 (assuming no new dist days)
+- Jul 20 week: FOMC pre-meeting quiet; chip sector damage from Jul 13-17 selloff needs to stabilize first
 
-**Calendar risks remainder of week:**
-- **⚠️⚠️ Tue Jul 14: CPI + Warsh + JPM + GS** — HIGHEST RISK DAY OF Q3 (quadruple simultaneous catalysts)
-- Wed Jul 15: PPI + Beige Book + WFC/C/BAC earnings
-- Thu Jul 16: Retail sales
-- **Mon Jul 21+:** ARM blackout active (academic; 60/100 already blocks)
-- **Jul 22:** ARM earnings blackout begins
-- **Jul 28-29:** FOMC meeting (last CPI read was Jul 14 — today's print sets the tone)
-- **~Aug 26:** NVDA Q2 FY2027 earnings — no blackout issue; base timeline ~Aug-Sep 2026
+**Key calendar risks (Jul 20-25):**
+- **Tue Jul 21:** ARM exits universe (academic; 60/100 far below threshold — no scenario where ARM was tradeable this cycle)
+- **Thu Jul 24:** Jun 17 dist day expires → count drops (improving trajectory if no new dist days)
+- **Mon Jul 28 – Tue Jul 29:** FOMC meeting — potentially hawkish (9-to-8 split precedent); rate decision will be major catalyst
+- **Jul 29:** ARM earnings (now in blackout; no action)
+- **~Aug 5:** ARM post-earnings re-evaluation window opens (if score improves post-results)
+- **~Aug 26:** NVDA Q2 FY2027 earnings — no blackout concern; base timeline Aug-Sep 2026
 
 ---
 
