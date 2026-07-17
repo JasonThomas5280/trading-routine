@@ -24,6 +24,12 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-07-14 to 2026-07-17 — **STALE — archived via /weekly-review Fri Jul 17; rebuild via /weekly-prep Sun Jul 20**
+
+> Archived week of Jul 14–17. Market state: 🔴 Correction (7/25 dist days at close). Zero primary candidates (14th consecutive week). NVDA 74/100 (bench, cup wk ~31, no handle, 52-wk high $236.54 now 15.2% away after $200.53 Jul 17 close). MRVL ~15-25/100 (broken structure; CFO $65M sell filing; reduced to watch-only). ARM 60/100 (GAAP C-letter fail; penultimate trading day Jul 17; exits universe permanently after Jul 21 COB). SOX entered bear market (−20%+ from highs). Moonshot AI Kimi-K3 + Netflix −11% = AI capex narrative fracture. SH $625 QUEUED (Alpaca Day ~142 BLOCKED). **Rebuild required Sun Jul 20 /weekly-prep before Mon /pre-market.** Key next event: FOMC Jul 28-29.
+
+---
+
 ## ⛔ CURRENT — Week of 2026-07-20 to 2026-07-25 — (ROLLING — NO REBUILD; prior `/weekly-prep` Sun Jul 12)
 
 **Updated:** 2026-07-20 (Mon) — `/market-check` 10:00 AM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode

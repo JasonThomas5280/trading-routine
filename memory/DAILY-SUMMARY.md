@@ -4288,3 +4288,96 @@ Closes: S&P 7,457.69 (−1.01% DIST#7) | Nasdaq 25,520.24 (−1.40%) | NVDA $200
 SOX entered bear market. 'NVDA defied selloff' was wrong.
 Week Jul 14-18: CLOSED | 0/3 trades | Circuit breakers: ALL CLEAR
 Mon Jul 20: ARM penultimate | Jun 17 dist expires Jul 24 | FOMC Jul 28-29
+
+---
+## 2026-07-17 20:44 CT [clickup-placeholder]
+
+### Week ending 2026-07-17
+
+## Week ending 2026-07-17 (Fri) — Weekly Review
+
+**Week 14 | Alpaca Day 142 BLOCKED | 14th consecutive 0-trade week | research_source: websearch_fallback**
+
+---
+
+### Performance
+
+- Starting equity: $2,500.00 | Ending equity: $2,500.00 | Weekly return: **0.00%**
+- S&P 500 weekly: ~7,550 → 7,457.69 = **−1.22%** → **+1.22% alpha — FIRST POSITIVE ALPHA WEEK since inception (cash outperformed)**
+- Trades taken: **0/3** (14th consecutive 0-trade week)
+- Cumulative alpha since inception: approx. −1% vs SPY (improved from ~−2% through Week 13)
+- Largest winner: N/A | Largest loser: N/A | W:L ratio: N/A
+
+### Root Causes — Zero Trades
+
+1. Alpaca API 403 blocked all 5 sessions (Day 132–142) — execution hard-halted per strategy rule
+2. Market state: Correction (7/25 dist days at close) — all new long entries blocked
+3. Zero candidates above 75 conviction: NVDA 74/100 (1 pt below threshold; cup wk 31; no handle), MRVL ~15-25/100 (broken structure + CFO $65M sell filing), ARM 60/100 (exits Jul 21 COB)
+4. SH $625 hedge QUEUED — Alpaca blocked
+
+### Rule Adherence: 100/100
+
+No violations. No trades placed = no violations possible. Key discipline moment: four straight macro beats (CPI, PPI, Retail Sales, Jobless Claims) created maximum temptation to re-enter. System held Correction posture throughout. No override attempted.
+
+### Market Direction
+
+| Date | S&P Close | Change | Dist Day? | Notes |
+|---|---|---|---|---|
+| Jul 13 Mon | 7,515.34 | −0.79% | YES | Chip weakness |
+| Jul 14 Tue | 7,543.59 | +0.38% | NO | CPI June BEAT (−0.4% / 3.5% YoY) |
+| Jul 15 Wed | 7,574.00 | +0.40% | NO | PPI TRIPLE BEAT |
+| Jul 16 Thu | 7,533.77 | −0.53% | YES | Initially misreported 7,561 NOT dist; CORRECTED Jul 17; rally attempt INVALIDATED; FTD CLOSED |
+| Jul 17 Fri | 7,457.69 | −1.01% | YES | Moonshot AI Kimi-K3 + Netflix −11% + monthly options expiry; SOX bear market entered |
+
+Active dist days at week close: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17 = **7/25**
+Three expiries corrected this week: Jun 5 (expired Jul 13), Jun 9 (expired Jul 15), Jun 10 (expired Jul 16) — had been missed by prior routines; caught and corrected Jul 17 /market-check.
+Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed next week).
+State throughout: Correction. S&P closed below both 50d MA (~7,509) and 200d MA (~7,473). Death cross confirmed on SPY and QQQ.
+
+### Key Macro Events
+
+- CPI June: −0.4%/3.5% YoY — major disinflation beat. Market didn't sustain rally.
+- PPI June: −0.3%/+5.5%/Core +0.1% — triple beat. Absorbed without durable upside.
+- Retail Sales Jun: +0.33% MoM / +9.4% YoY BEAT
+- Jobless Claims wk Jul 11: 208K (beat 218K est.)
+- TSMC Q2: ~$39.6B +36% YoY beat (AI = 61% revenue) — stock −4% sell-the-news
+- Moonshot AI Kimi-K3: Chinese open-source model claims world's most powerful → AI capex doubt
+- Netflix Q2: $12.6B/EPS $0.80 beat but stock −11% (guidance miss concerns)
+- SOX: entered bear market (−20%+ from prior highs)
+- UMich Jul prelim: rose vs May; 4.6% inflation expectations — mildly positive
+
+### Bench at Week Close
+
+| Symbol | Jul 17 Close | Score | Status |
+|---|---|---|---|
+| NVDA | $200.53 (−3.52%) | 74/100 | Cup wk ~31; no handle; 52-wk high $236.54 (15.2% away); BLOCKED |
+| MRVL | $188.30 (−8.71%) | ~15-25/100 | CFO $65M sell; broken structure; reduced to WATCH-ONLY |
+| ARM | $262.01 (−5.41%) | 60/100 | PENULTIMATE trading day; exits universe Jul 21 COB |
+
+### Sector Summary
+
+- Best relative strength: XLI Industrials (held through chip sector collapse)
+- Worst: XLK / Semis (SOX bear market; AI narrative fractured)
+- Rising: XLP Consumer Staples (defensive rotation in Correction)
+- Avoid: XLF (RRG Lagging; Q2 bank beats = zero sector lift), XLC (Netflix hit), XLE (non-directional)
+
+### Lessons
+
+1. Options Expiry + Afternoon Catalyst EOD underestimation is a repeating pattern. Jul 17 close underestimated by 60+ pts because final-hour selloff (options expiry + Netflix miss) exceeded intraday trend. Must run multi-source EOD verification on 3rd-Friday and major AH earnings sessions.
+2. Macro perfection cannot overcome narrative fear. Four macro beats in 3 days failed to produce a follow-through day. The market is pricing AI capex forward-looking uncertainty (Kimi-K3 + Netflix + TSMC sell-news), not backward-looking June inflation data. Correction posture correctly held.
+3. Dist day expiry accounting needs automation. Three missed expiries (Jun 5, Jun 9, Jun 10) caught in one session. Need a standing Expiry Calendar table in MARKET-DIRECTION.md checked at every /pre-market.
+
+### Proposed Rule Changes
+
+- **Proposal 20:** Distribution day Expiry Calendar table in MARKET-DIRECTION.md, checked at every /pre-market. Prevents multi-expiry miss cascade.
+- **Proposal 21:** Options Expiry / Afternoon Catalyst EOD verification protocol (extends Proposal 19 from last week).
+- Proposals 1–19: All still pending Jason approval.
+
+### Next Week Setup
+
+- Market: Correction (7/25 dist; Jun 17 expires Thu Jul 24 → 6/25 if clean Mon-Wed)
+- ARM exits universe Mon Jul 21 COB (final trading day; 60/100 — academic)
+- FOMC Jul 28-29: biggest calendar risk of Q3; pre-meeting quiet week expected
+- Bench: NVDA 74/100 watching for handle (Aug-Sep timeline), MRVL watch-only only, ARM exiting
+- Book status: 0 positions, $2,500 cash (HWM), SH $625 QUEUED (Alpaca blocked — execute first on restore)
+- Emotional state: DISCIPLINED. First positive-alpha week. Cash preserved while SOX entered bear market. Patience is the position through FOMC.
