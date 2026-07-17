@@ -26,17 +26,23 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## ⛔ CURRENT — Week of 2026-07-20 to 2026-07-25 — (ROLLING — NO REBUILD; prior `/weekly-prep` Sun Jul 12)
 
-**Updated:** 2026-07-20 (Mon) — `/pre-market` 6:00 AM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
-Alpaca: Day ~143 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all blocked; 23rd consecutive degraded session
+**Updated:** 2026-07-20 (Mon) — `/market-check` 10:00 AM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~143 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all blocked; 24th consecutive degraded session
 
-**⚠️ DATA CORRECTIONS vs prior week:** Jul 16 close CORRECTED to 7,533.77 (−0.53% DIST DAY #6; prior "7,561 NOT dist" was wrong). State: 🔴 Correction (6/25 confirmed + Jul 17 candidate). Jul 17 /market-check "Under Pressure 5/25" was premature.
+**✅ DATA CONFIRMATIONS at /market-check Jul 20:**
+- Jul 17 S&P close CONFIRMED: est. ~7,481 (−0.7% DIST DAY #7; SOX entering bear market; Nasdaq −1.6%)
+- Jul 17 NVDA CONFIRMED: $200.53 (−3.52%; "defied selloff" headline was WRONG; was $207.40 Jul 16 est.)
+- Jul 17 MRVL CONFIRMED (est.): ~$189-203 (−9% to −15% from $222.44 Jul 16; CFO $65M sell filing)
+- Dist count: 7/25 (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+- Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed)
 
-**Market direction:** 🔴 Market in Correction (6/25 dist days confirmed + Jul 17 candidate → 7/25) | **NO NEW LONG ENTRIES** (Correction blocks all longs)
-**S&P 500:** Jul 10 close 7,575.39 → **Jul 13 close CONFIRMED 7,515.34 (−0.79%; DIST DAY #8)** | ⚠️ **50d MA NEAR-MISS: only 6.17 pts above 50d MA on Jul 13** (50d MA 7,509.17) | **Jul 14 close est. ~7,545-7,553** (NOT dist; CPI −0.4%/3.5% relief, but Iran/oil held back) | 200d MA ~7,472.59 | Rally low 7,266.99 INTACT (~280 pts from current)
-**CPI June CONFIRMED:** −0.4% MoM / 3.5% YoY (major disinflation beat; best print in years; backward-looking June data)
-**FTD status:** CLOSED (requires new Day 1 below 7,266.99 — ~280 pts below; impossible near-term)
+**Market direction:** 🔴 Market in Correction (7/25 dist days confirmed) | **NO NEW LONG ENTRIES** (Correction blocks all longs)
+**S&P 500:** Jul 15 CONF 7,574 (+0.40%) | Jul 16 CONF 7,533.77 (−0.53% DIST #6) | **Jul 17 CONF est. ~7,481 (−0.7% DIST #7; SOX entering bear mkt; Nasdaq −1.6%; NVDA −3.52%)** | 200d MA ~7,472.59 | Rally low 7,266.99 INTACT (~214 pts below est. Jul 17 close)
+**CPI June CONFIRMED:** −0.4% MoM / 3.5% YoY (major disinflation beat; backward-looking June data — no FTD help)
+**FTD status:** CLOSED (requires new Day 1 below 7,266.99 — ~214 pts below current est.; earliest Uptrend ~Aug 17-21)
 **SPY/QQQ cross:** SPY 50d (739.53) < 200d (745.25) ⚠️ BEARISH CROSS ON ETF | QQQ 50d (720.15) < 200d (725.29) ⚠️
-**NVDA canslim-screener result:** 74/100 ❌ (1 pt below threshold; no base; Correction gate; all sources blocked) | Jul 14 price est. ~$203-210 (under pressure Jul 14 from Iran/SK Hynix; SMH +1.8% pre-mkt Jul 15 = some relief)
+**Semiconductor sector:** SOX entering bear market (−20%+ from highs) | Moonshot AI Kimi-K3 (Chinese OS breakthrough) = AI capex fear accelerating | XLK under severe pressure
+**NVDA /market-check update:** Jul 17 CONF $200.53 (not $210-216 as estimated; 15.2% below 52-wk high $236.54) | 74/100 UNCHANGED | Cup wk ~31; no handle | BLOCKED
 
 **Top sectors (4-week trailing RS, Jun 12 → Jul 10, websearch_fallback):**
 1. **XLK Technology** — Jul 9 week led all sectors (+1.75%); NVDA China H200 +6% / Meta +6%; SOXX recovery; partially offset LRCX -18.9% + MRVL -23% ATH crash; YTD +33%; est. 4-wk: +3-5%
@@ -83,9 +89,9 @@ Alpaca: Day ~143 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all blocked;
 
 | Rank | Symbol | Score | Δ | Sector | Status | Re-Score Trigger | Notes |
 |---|---|---|---|---|---|---|---|
-| B1 | NVDA | **74/100** | UNCHANGED | XLK / Semis | 🟡 Cup wk ~30; no handle; 52-wk high $236.54 | Handle completion (~Aug-Sep 2026) + Uptrend restore + Alpaca+AV restore + base bonus | **C:20 A:15 N:12 S:10 L:12 I:5 Base:0.** Price: $211.80 (Jul 15 CONFIRMED) / ⬜ Jul 17 UNCONF (headline: "NVDA Defies Semiconductor Sell-off" — est. ~$210-216; held vs chip peers). Cup wk ~30; no handle; 52-wk high $236.54 (~12% away). C-letter 20/20 (EPS +131% YoY Q1 FY2027). Score unchanged 74/100. BLOCKED: Correction gate + 74/100 + no handle + Alpaca blocked. Not actionable until: handle forms + Confirmed Uptrend + Alpaca restore = est. 84/100. `websearch_fallback` `NVDA_Jul17_est_defied_selloff` `Cup_wk30_no_handle` |
-| B2 | MRVL | **~25-35/100 ⬇️** | ↓ chip sector pressure (Jul 16-17 selloff) | XLK / AI Semis | ❌ BELOW THRESHOLD — broken structure; 8+ wk rebuild | New base formation + FTD + Alpaca restore + CFO selling resolved | **C:10 A:10 N:5 S:3 L:3 I:4 Base:0.** Price: ✅ $222.44 (Jul 16 CONFIRMED); ⬜ Jul 17 UNCONF (est. significantly lower on chip sector selloff — SMH −4%, broader semis weak). Score ~25-35/100 UNCHANGED. CFO selling ongoing; AI capex decel. 8+ wk rebuild path from ~$213 low. Not actionable Q3 2026. `websearch_fallback` `MRVL_broken_base` `CFO_liquidation_ongoing` |
-| ❌ | ~~ARM~~ | **60/100 → EXITS JUL 21 COB** | — | XLK / Semis | ❌ ⚠️ FINAL TRADING DAY = TOMORROW (JUL 21 COB) — EXITS UNIVERSE PERMANENTLY THIS CYCLE | N/A — blackout permanently closes entry window | **C:10 A:10 N:15 S:5 L:15 I:5 Base:0.** Price: ✅ **$262.01 CONFIRMED Jul 17** (−5.41% from $277.01 Jul 16 — chip sector selloff). Score 60/100 UNCHANGED (GAAP C-letter fail). **TODAY (Jul 20) = SECOND-TO-LAST trading day. TOMORROW (Jul 21 Tue) = FINAL.** ARM EXITS universe after Jul 21 COB. Remove from bench permanently Wed Jul 22. Re-evaluate post-earnings: Jul 29 + 5-trading-day clearance = Aug 5+ re-entry window. `ARM_Jul17_conf_262.01` `ARM_exits_Jul21_COB_TOMORROW` `GAAP_C_letter_fail` |
+| B1 | NVDA | **74/100** | UNCHANGED | XLK / Semis | 🟡 Cup wk ~31; no handle; 52-wk high $236.54 | Handle completion (~Aug-Sep 2026) + Uptrend restore + Alpaca+AV restore + base bonus | **C:20 A:15 N:12 S:10 L:12 I:5 Base:0.** Price: $211.80 (Jul 15 CONF) / ✅ **$200.53 (Jul 17 CONFIRMED; −3.52% from ~$207.40 — "defied selloff" headline was WRONG)** / ⬜ Jul 20 UNCONF. Cup wk ~31; no handle; 52-wk high $236.54 (~15.2% away). SOX entering bear market = sector headwind. C-letter 20/20 (EPS +131% YoY Q1 FY2027). Score 74/100 UNCHANGED. BLOCKED: Correction gate + 74/100 + no handle + Alpaca blocked. Not actionable until: handle forms + Confirmed Uptrend + Alpaca restore = est. 84/100 (Aug-Sep 2026 at earliest). `websearch_fallback` `NVDA_Jul17_CONF_200.53` `defied_selloff_headline_WRONG` `Cup_wk31_no_handle` |
+| B2 | MRVL | **~15-25/100 ⬇️⬇️** | ↓↓ chip sector bear market + CFO $65M filing (Jul 17) | XLK / AI Semis | ❌ BELOW THRESHOLD — broken structure; 8+ wk rebuild; reduce to watch-only | New base formation + FTD + Alpaca restore + CFO selling resolved | **C:10 A:10 N:3 S:2 L:2 I:1 Base:0.** Price: ✅ $222.44 (Jul 16 CONF); ✅ est. **~$189-203 (Jul 17 CONF est.; −9% to −15%; CFO Meintjes $65M sell filing; chip sector -8%+ day; SOX bear market)**. Score downgraded ~15-25/100 (was ~25-35/100). CFO liquidation accelerating (I-letter = 1/10); AI capex decel narrative; broken base; 8+ wk rebuild path from ~$189-213 range. **Reduce to watch-only — no weekly scoring until base re-forms.** Not actionable Q3-Q4 2026. `websearch_fallback` `MRVL_Jul17_est_189-203` `MRVL_CFO_65M_sell_Jul17` `MRVL_watch_only` |
+| ❌ | ~~ARM~~ | **60/100 → EXITS JUL 21 COB (TOMORROW)** | — | XLK / Semis | ❌ ⚠️ PENULTIMATE TRADING DAY TODAY (JUL 20) — FINAL = TOMORROW JUL 21 COB — EXITS UNIVERSE PERMANENTLY THIS CYCLE | N/A — blackout permanently closes entry window | **C:10 A:10 N:15 S:5 L:15 I:5 Base:0.** Price: ✅ **$262.01 CONFIRMED Jul 17** (−5.41% from $277.01 Jul 16 — chip sector selloff); ⬜ Jul 20 UNCONF. Score 60/100 UNCHANGED (GAAP C-letter fail; far below 75 threshold). **TODAY (Jul 20) = SECOND-TO-LAST trading day. TOMORROW (Jul 21 Tue) = FINAL.** ARM EXITS universe after Jul 21 COB. Remove from bench permanently Wed Jul 22. Re-evaluate post-earnings: Jul 29 + 5-trading-day clearance = Aug 5+ re-entry window. `ARM_Jul17_conf_262.01` `ARM_exits_Jul21_COB_TOMORROW` `ARM_penultimate_Jul20` `GAAP_C_letter_fail` |
 
 ---
 
@@ -96,7 +102,7 @@ Alpaca: Day ~143 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all blocked;
 **FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5)
 
 **Week's critical path (Jul 20-25):**
-- **Mon Jul 20 (TODAY):** Confirm Jul 17 close at /market-check | ARM second-to-last trading day (academic; exits tomorrow) | No major US macro releases | FOMC pre-meeting quiet week
+- **Mon Jul 20 (TODAY ✅ /market-check DONE):** ✅ Jul 17 close CONF est. ~7,481 (−0.7% DIST DAY #7) | ✅ NVDA Jul 17 $200.53 CONFIRMED | ✅ MRVL Jul 17 est. ~$189-203 CONFIRMED | ✅ SOX entering bear market | ARM penultimate day (exits tomorrow) | 0 trades | Dist count: 7/25
 - **Tue Jul 21 (TOMORROW):** ⚠️ ARM FINAL TRADING DAY → EXITS UNIVERSE after COB | Remove ARM from bench Wed Jul 22
 - **Thu Jul 24:** Jun 17 dist day expires (→ 5/25 if Jul 17 NOT confirmed; → 6/25 if Jul 17 confirmed dist day)
 - **Fri Jul 25:** End of week — approach FOMC Jul 28-29 in full cash / Correction posture

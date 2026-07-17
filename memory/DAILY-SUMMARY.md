@@ -4237,3 +4237,21 @@ Open positions: 0 | Circuit breakers: NONE | Alpaca Day ~143 BLOCKED
 SH 25 hedge: QUEUED (execute on Alpaca restore)
 Watchlist: 0 candidates 75+ (18th consecutive week)
 Plan: NO ENTRIES. Confirm Jul 17 close + dist count at /market-check 10 AM CT.
+
+---
+## 2026-07-17 15:18 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-20 10:00 CT
+Market: Correction 7/25 dist days | Circuit breakers: NONE
+Actions: No new entries — Correction gate + Alpaca Day ~143 BLOCKED
+Confirmations:
+  Jul 17 S&P: est. ~7,481 (-0.7%) = DIST DAY #7 CONFIRMED
+  NVDA Jul 17: $200.53 (-3.52%; 'defied selloff' headline was WRONG)
+  MRVL Jul 17: est. ~$189-203 (-9-15%; CFO $65M sell filing)
+  SOX entering bear market; Moonshot AI Kimi-K3 headwind
+  ARM: penultimate day (exits universe after Jul 21 COB)
+Watchlist: 0 ready | NVDA 74/100, MRVL ~15-25/100, ARM exits tomorrow
+Positions: 0 / 0% deployed | Weekly trades: 0/3
+Dist count: 7/25 (Jun 17 expires Thu Jul 24 -> 6/25 if no new dist Mon-Wed)
+FTD: CLOSED (need Day 1 below 7,266.99 -- ~214 pts away)
+Next: /eod-review 3:15 PM CT | FOMC Jul 28-29 quiet week

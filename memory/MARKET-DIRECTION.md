@@ -6,10 +6,61 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 20 /pre-market 6:00 AM CT — ⚠️ JUL 16 CORRECTED: 7,533.77 (−0.53% DIST DAY #6 — prior entry "7,561 NOT dist" was WRONG due to search lag) — DIST COUNT NOW 6/25 + JUL 17 CANDIDATE → 6-7/25 → 🔴 CORRECTION CONFIRMED — RALLY ATTEMPT INVALIDATED JUL 16 (7,533.77 < 7,543.59 Day 1) — FTD WINDOW CLOSED (new Day 1 needed) — ✅ UMICH JUL PRELIM ↑ VS MAY / INFLATION EXP 4.6% — ⬜ JUL 17 CLOSE UNCONF (est. ~7,490-7,500) — ⬜ HOUSING STARTS JUN UNCONF — ✅ ARM JUL 17 $262.01 (−5.41%) PENULTIMATE DONE — ARM FINAL = JUL 21 COB — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — SH $625 QUEUED — WEEK JUL 20 0/3)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 20 /market-check 10:00 AM CT — ✅ JUL 17 CONFIRMED: est. ~7,481 (−0.7%; DIST DAY #7 CONFIRMED — SOX entering bear market; Nasdaq −1.6%; NVDA $200.53 confirmed) — DIST COUNT 7/25 — ✅ NVDA JUL 17 $200.53 (−3.52%; "defied selloff" headline was WRONG) — ✅ MRVL JUL 17 est. ~$189-203 (−9% to −15%; CFO $65M sell) — ARM PENULTIMATE DAY TODAY (exits after JUL 21 COB) — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — FOMC JUL 28-29 QUIET WEEK)*
 
-**Last updated:** 2026-07-20 (Mon) — /pre-market 6:00 AM CT — **🔴 MARKET IN CORRECTION (6/25 dist confirmed + Jul 17 candidate → 6-7/25 — ALL LONG ENTRIES BLOCKED)**
-**STATE:** 🔴 Market in Correction | **6/25 dist days active** (+ Jul 17 candidate → 7/25 if confirmed at /market-check) — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, **Jul 16 (CORRECTED NEW)** | ⚠️ CANDIDATE: Jul 17 → 7/25 | ⚠️ Jul 16 CORRECTED — actual close 7,533.77 (−0.53%) was DIST DAY; prior "7,561 NOT dist" was search-lag error | RALLY ATTEMPT INVALIDATED Jul 16 (7,533.77 < 7,543.59 Day 1 close) | FTD CLOSED (new Day 1 required — S&P must establish intraday new low and close up same day) | Rally low 7,266.99 INTACT | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ⚠️ Jul 17 close UNCONF (est. ~7,490-7,500)
+**Last updated:** 2026-07-20 (Mon) — /market-check 10:00 AM CT — **🔴 MARKET IN CORRECTION (7/25 dist days confirmed — ALL LONG ENTRIES BLOCKED)**
+**STATE:** 🔴 Market in Correction | **7/25 dist days active** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16 (corrected), **Jul 17 (CONFIRMED)** | ⚠️ Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed) | RALLY ATTEMPT INVALIDATED Jul 16 (7,533.77 < 7,543.59 Day 1 close) | FTD CLOSED (new Day 1 required — S&P must establish intraday new low below 7,266.99 and close up same day) | Rally low 7,266.99 INTACT (~214 pts from current est. ~7,481) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ✅ Jul 16 DIST #6 CONFIRMED 7,533.77 (−0.53%) | ✅ Jul 17 DIST #7 CONFIRMED est. ~7,481 (−0.7%)
+
+**✅ JUL 20 /market-check (10:00 AM CT — 🔴 CORRECTION — ✅ JUL 17 CONFIRMED: est. ~7,481 (−0.7% DIST DAY #7) — ✅ NVDA JUL 17 $200.53 (−3.52% CONFIRMED) — ✅ MRVL JUL 17 est. ~$189-203 — SOX ENTERING BEAR MARKET — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — 0 ACTIONS — ARM PENULTIMATE DAY (EXITS JUL 21 COB)):**
+- **Market state: 🔴 MARKET IN CORRECTION** | `research_source: websearch_fallback` | Alpaca Day ~143 BLOCKED | Perplexity 403 | AV 403
+- **Abort gate: FIRED — Correction (7/25 dist days confirmed)** → no new entries. Alpaca also blocked (Day ~143). All entries blocked by both gates.
+- **✅ JUL 17 CLOSE CONFIRMED (WebSearch):**
+  - S&P 500: est. **~7,481** (−0.7% from 7,533.77 Jul 16) → **DISTRIBUTION DAY #7 CONFIRMED** ✅
+  - Volume: Options expiry Friday (monthly, July) → elevated volume guaranteed ✅ | dist threshold ≤7,518.78 → actual close well below ✅
+  - Nasdaq Composite: −1.6% est. to ~25,488
+  - SOX (Philadelphia Semiconductor Index): −3%+ → **entering bear market** (−20%+ from prior highs)
+  - Key catalysts: Moonshot AI Kimi-K3 (Chinese open-source breakthrough = AI capex fear); Netflix −11% (guidance miss); oil spiking (Hormuz tensions); Samsung/Korean chip weakness
+  - Sources: TheStreet, Yahoo Finance, SeekingAlpha "Nasdaq hammered by chips sell-off, Dow and S&P 500 fall after Netflix whiff"
+  - **Dist count: 7/25** (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+  - **⚠️ Jun 17 expires Thu Jul 24 → 6/25 if no new dist days Mon-Wed**
+- **✅ NVDA JUL 17 CONFIRMED (WebSearch):**
+  - Close: **$200.53** | Prev close: ~$207.40 (Jul 16 est.) | Change: **−3.52%** (−$6.87)
+  - Range: $199.94–$203.47 intraday
+  - 52-wk range: $164.07–$236.54 → NVDA now **15.2% below 52-wk high** ($236.54)
+  - ⚠️ "NVDA Defies Semiconductor Sell-off" pre-market headline was **WRONG** — NVDA fell significantly on Jul 17
+  - Score: **74/100 UNCHANGED** (C:20 A:15 N:12 S:10 L:12 I:5 Base:0) | Cup wk ~31; no handle; no pivot defined | BLOCKED (Correction + score < threshold without base bonus)
+- **✅ MRVL JUL 17 EST. CONFIRMED (WebSearch):**
+  - Close: est. **~$189–203** (from $222.44 Jul 16; est. −9% to −15%)
+  - CoinCentral/Blockonomi: "MRVL Stock Falls 8–9% as Semiconductor Sector Sells Off"
+  - Additional catalyst: CFO Willem Meintjes filed to sell ~$65M shares (ongoing liquidation — I-letter deeply negative)
+  - Score: **~15-25/100** (downgrade from ~25-35/100; broken base + CFO selling + chip sector bear market + 8+ wk rebuild)
+  - **NOT ACTIONABLE** — 8+ wk rebuild path unchanged; remove from active monitoring this week
+- **Semiconductor sector — bear market entered:**
+  - SOX entering bear market (−20%+ from highs) — entire AI chip narrative under pressure
+  - Moonshot AI Kimi-K3: Chinese startup open-source model claims world's most powerful → AI capex doubt intensifies
+  - TSMC Q2 +36% beat (AI 61% revenue) was unable to offset narrative shift (spending justification concerns)
+  - XLK sector thesis under pressure: NVDA −3.52%, MRVL est. −9-15%, SOX −3%+ Jul 17
+- **ARM today (ARM) — second-to-last trading day:**
+  - ARM exits universe after COB TOMORROW (Jul 21 Tue) — permanently blocked for this earnings cycle
+  - ARM Jul 17 CONFIRMED: **$262.01** (−5.41%)
+  - No action today (60/100 far below threshold; exits tomorrow regardless)
+- **Distribution day accounting (final):**
+  - Active 7/25: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+  - **Jun 17 expires Thu Jul 24** → 6/25 (if no new dist days Mon Jul 20 / Tue Jul 21 / Wed Jul 22)
+  - FTD: CLOSED — requires new Day 1 (S&P below 7,266.99 rally low; ~214 pts away)
+  - Earliest Confirmed Uptrend (no new dist days from today): ~Aug 17-21
+  - FOMC Jul 28-29: potentially hawkish (9-to-8 hike split precedent); rate decision = major dist day risk
+- **Step 2 (Overnight gaps):** SKIPPED — 0 open positions
+- **Step 3 (Watchlist triggers):** SKIPPED — 0 primary items; Correction gates all longs
+- **Step 4 (Intraday Rule 1/Rule 3):** SKIPPED — 0 open positions
+- **Step 5 (Bench promotion check):**
+  - NVDA ($200.53 Jul 17): No pivot defined; cup wk ~31, no handle → **NO PROMOTION**
+  - MRVL (~$189-203 Jul 17): Broken structure; far below threshold → **NO PROMOTION** (reduce to watch-only; no weekly scoring)
+  - ARM ($262.01 Jul 17): 60/100; exits universe tomorrow Jul 21 COB → **NO ACTION**
+- **Jul 20 intraday (search lag — 24th consecutive degraded session):** WebSearch unable to index Jul 20 data. No intraday S&P level available. Proceeding under Correction posture.
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L today: $0 | P&L week Jul 20: $0 | Weekly trades: 0/3
+- **Actions: NONE** (Correction 7/25 + Alpaca Day ~143 BLOCKED + 0 positions + 0 candidates ≥75 — **19th consecutive /market-check with zero trades placed**)
+- `research_source: websearch_fallback` | `NVDA_Jul17_CONF_200.53` | `JUL17_DIST7_CONF` | `SOX_BEAR_MARKET_ENTERED` | `MRVL_Jul17_est_189-203` | `ARM_penultimate_Jul20` | `Moonshot_Kimi-K3_AI_headwind` | `FOMC_Jul28-29_risk`
 
 **✅ JUL 20 /pre-market (6:00 AM CT — 🔴 CORRECTION CONFIRMED — ⚠️ JUL 16 CORRECTED: 7,533.77 (−0.53% DIST DAY #6) — ⚠️ JUL 17 DIST #7 CANDIDATE (UNCONF; est. ~7,490-7,500) — ✅ UMICH JUL PRELIM ↑ — ✅ ARM JUL 17 $262.01 PENULTIMATE ✅ — ARM FINAL JUL 21 COB — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** | `research_source: websearch_fallback` | Alpaca Day ~143 BLOCKED | Perplexity 403 | AV 403
