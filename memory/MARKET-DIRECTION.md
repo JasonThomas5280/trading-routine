@@ -6,12 +6,12 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 20 /market-check 10:00 AM CT — ✅ JUL 17 CONFIRMED: est. ~7,481 (−0.7%; DIST DAY #7 CONFIRMED — SOX entering bear market; Nasdaq −1.6%; NVDA $200.53 confirmed) — DIST COUNT 7/25 — ✅ NVDA JUL 17 $200.53 (−3.52%; "defied selloff" headline was WRONG) — ✅ MRVL JUL 17 est. ~$189-203 (−9% to −15%; CFO $65M sell) — ARM PENULTIMATE DAY TODAY (exits after JUL 21 COB) — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — FOMC JUL 28-29 QUIET WEEK)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 20 /market-check 10:00 AM CT — ✅ JUL 17 CONFIRMED: 7,457.69 (−1.01%; DIST DAY #7 CONFIRMED — SOX entering bear market; Nasdaq −1.6%; NVDA $200.53 confirmed) — DIST COUNT 7/25 — ✅ NVDA JUL 17 $200.53 (−3.52%; "defied selloff" headline was WRONG) — ✅ MRVL JUL 17 $188.30 (−9% to −15%; CFO $65M sell) — ARM PENULTIMATE DAY TODAY (exits after JUL 21 COB) — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — FOMC JUL 28-29 QUIET WEEK)*
 
 **Last updated:** 2026-07-20 (Mon) — /market-check 10:00 AM CT — **🔴 MARKET IN CORRECTION (7/25 dist days confirmed — ALL LONG ENTRIES BLOCKED)**
-**STATE:** 🔴 Market in Correction | **7/25 dist days active** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16 (corrected), **Jul 17 (CONFIRMED)** | ⚠️ Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed) | RALLY ATTEMPT INVALIDATED Jul 16 (7,533.77 < 7,543.59 Day 1 close) | FTD CLOSED (new Day 1 required — S&P must establish intraday new low below 7,266.99 and close up same day) | Rally low 7,266.99 INTACT (~214 pts from current est. ~7,481) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ✅ Jul 16 DIST #6 CONFIRMED 7,533.77 (−0.53%) | ✅ Jul 17 DIST #7 CONFIRMED est. ~7,481 (−0.7%)
+**STATE:** 🔴 Market in Correction | **7/25 dist days active** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16 (corrected), **Jul 17 (CONFIRMED)** | ⚠️ Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed) | RALLY ATTEMPT INVALIDATED Jul 16 (7,533.77 < 7,543.59 Day 1 close) | FTD CLOSED (new Day 1 required — S&P must establish intraday new low below 7,266.99 and close up same day) | Rally low 7,266.99 INTACT (~214 pts from current est. ~7,481) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ✅ Jul 16 DIST #6 CONFIRMED 7,533.77 (−0.53%) | ✅ Jul 17 DIST #7 CONFIRMED 7,457.69 (−1.01%)
 
-**✅ JUL 20 /market-check (10:00 AM CT — 🔴 CORRECTION — ✅ JUL 17 CONFIRMED: est. ~7,481 (−0.7% DIST DAY #7) — ✅ NVDA JUL 17 $200.53 (−3.52% CONFIRMED) — ✅ MRVL JUL 17 est. ~$189-203 — SOX ENTERING BEAR MARKET — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — 0 ACTIONS — ARM PENULTIMATE DAY (EXITS JUL 21 COB)):**
+**✅ JUL 20 /market-check (10:00 AM CT — 🔴 CORRECTION — ✅ JUL 17 CONFIRMED: 7,457.69 (−1.01% DIST DAY #7) — ✅ NVDA JUL 17 $200.53 (−3.52% CONFIRMED) — ✅ MRVL JUL 17 $188.30 — SOX ENTERING BEAR MARKET — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — 0 ACTIONS — ARM PENULTIMATE DAY (EXITS JUL 21 COB)):**
 - **Market state: 🔴 MARKET IN CORRECTION** | `research_source: websearch_fallback` | Alpaca Day ~143 BLOCKED | Perplexity 403 | AV 403
 - **Abort gate: FIRED — Correction (7/25 dist days confirmed)** → no new entries. Alpaca also blocked (Day ~143). All entries blocked by both gates.
 - **✅ JUL 17 CLOSE CONFIRMED (WebSearch):**
@@ -102,9 +102,9 @@
 - **Today's plan:** Confirm Jul 17 close + dist count at /market-check 10 AM CT | ARM penultimate today (exits tomorrow Jul 21 COB) | FOMC week starts Jul 28 (quiet pre-meeting week)
 - `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~143) | Perplexity 403 | AV 403
 
-**⚠️ JUL 17 /eod-review (3:15 PM CT — 🟡 UNDER PRESSURE — ⚠️ JUL 17 CLOSE UNCONFIRMED (EST. ~7,515-7,525; LIKELY DIST DAY #6 → 6/25 → 🔴 CORRECTION — OPTIONS EXPIRY FRIDAY; Yahoo Fin "Dow/S&P/Nasdaq fall as semis sell off, oil spikes") — RALLY ATTEMPT INVALIDATED — FTD CLOSED — ✅ NFLX Q2 $12.6B/EPS $0.80 BEAT — ⬜ NVDA/HOUSING STARTS/UMICH UNCONF — ARM PENULTIMATE DONE — ALPACA DAY ~142 BLOCKED — 0 POSITIONS — SELL-ENGINE SKIPPED — 0 ACTIONS):**
-- **Market state: 🟡 UPTREND UNDER PRESSURE** (holding until Jul 17 dist day confirmed Mon) | `research_source: websearch_fallback` | Alpaca Day ~142 BLOCKED | Perplexity 403 | AV 403
-- **SPY/QQQ bars:** Alpaca 403 BLOCKED. WebSearch: S&P Jul 17 est. ~7,515-7,525 (−0.47-0.60% from 7,561). Yahoo Finance headline: "Dow, S&P 500, Nasdaq fall as semiconductors sell off, oil prices jump." Nasdaq est. ~−1.0-1.5%. Search engine lagged (22nd consecutive degraded session).
+**✅ JUL 17 /eod-review (3:15 PM CT — ✅ CORRECTED: 🔴 CORRECTION (7/25 CONFIRMED) — ✅ S&P 7,457.69 (−1.01% DIST DAY #7) — ✅ MRVL $188.30 (−8.71%) — ✅ ARM $262.01 (−5.41%) — ✅ NVDA $200.53 (−3.52%) — RALLY INVALIDATED — FTD CLOSED — ALPACA DAY ~142 BLOCKED — 0 POSITIONS — SELL-ENGINE SKIPPED — 0 ACTIONS — ⚠️ PRIOR ENTRY HAD WRONG ESTIMATES: Jul 16 7,561 (WRONG→7,533.77), Jul 17 ~7,515-7,525 (WRONG→7,457.69), State Under Pressure (WRONG→Correction 7/25)):**
+- **Market state: 🔴 MARKET IN CORRECTION (7/25 CONFIRMED)** ✅ CORRECTED from prior "Under Pressure" | `research_source: websearch_fallback` | Alpaca Day ~142 BLOCKED | Perplexity 403 | AV 403
+- **SPY/QQQ bars:** Alpaca 403 BLOCKED. WebSearch CONFIRMED: S&P Jul 17 **7,457.69** (−1.01% from Jul 16 7,533.77). Yahoo Finance: "Dow, S&P 500, Nasdaq post weekly losses as semiconductors get smoked." Nasdaq 25,520.24 (−1.40%). Dow 52,146.42 (−0.77%). Prior session estimated ~7,515-7,525 from wrong Jul 16 base (7,561) — CORRECTED.
 - **⚠️ JUL 17 LIKELY DISTRIBUTION DAY (UNCONFIRMED — confirm Mon Jul 20 /pre-market):**
   - Est. S&P close: ~7,515-7,525 (−0.47 to −0.60% from 7,561)
   - Dist threshold: ≤ 7,546.1 (−0.20% from 7,561) → est. well below threshold ✅

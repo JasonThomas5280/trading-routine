@@ -1,5 +1,26 @@
 
 ---
+## 2026-07-17 15:15 CT [eod-review — ✅ CORRECTED — 🔴 CORRECTION CONFIRMED 7/25 — ✅ S&P 7,457.69 (−1.01% DIST DAY #7) — ✅ MRVL $188.30 — ✅ ARM $262.01 — ✅ NVDA $200.53 — 0 POSITIONS — 0 ACTIONS — WEEK CLOSED]
+
+📊 EOD 2026-07-17 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Market: 🔴 Correction | Distribution days: 7/25 CONFIRMED (Jul 16 DIST #6 + Jul 17 DIST #7 — both confirmed at EOD; prior 10 AM entry had wrong counts)
+Open: 0 positions | 100% cash | SH $625 hedge QUEUED (Alpaca Day ~142 BLOCKED)
+Actions today:
+  • NONE — 0 positions; Correction 7/25; Alpaca BLOCKED (Day ~142)
+  • sell-rules-engine: SKIPPED (0 positions) ✅
+Confirmed closes (WebSearch):
+  • S&P 500: 7,457.69 (−1.01%) — DIST DAY #7 CONFIRMED ✅
+  • Nasdaq: 25,520.24 (−1.40%) | Dow: 52,146.42 (−0.77%)
+  • MRVL: $188.30 (−8.71%) | ARM: $262.01 (−5.41%) — PENULTIMATE done
+  • NVDA: $200.53 (−3.52%) — "defied selloff" headline was WRONG ✅
+  • SOX: entered bear market (−20%+ from highs) ✅
+⚠️ CORRECTIONS (vs 10 AM entry): Jul 16 was DIST #6 (7,533.77 −0.53%, NOT 7,561 −0.17%); Jul 17 actual 7,457.69 (NOT est. ~7,515-7,525); State = Correction (NOT Under Pressure); dist count = 7/25 (NOT 5/25+candidate)
+Bench: NVDA 74/100 BLOCKED | MRVL ~15-25/100 WATCH-ONLY | ARM 60/100 FINAL=Jul21
+Week Jul 14-18: CLOSED | 0/3 trades | P&L $0 | Circuit breakers: ALL CLEAR
+Tomorrow: /pre-market Mon Jul 20 — ARM penultimate | Jun 17 dist expires Thu Jul 24 | FOMC Jul 28-29
+research_source: websearch_fallback | Alpaca BLOCKED (~Day 142) | Perplexity 403 | AV 403
+
+---
 ## 2026-07-17 10:00 CT [market-check — 🟡 UNDER PRESSURE — ⚠️ DIST COUNT CORRECTED 5/25 — STATE CHANGE: CORRECTION EXITED — ✅ JUL 16 7,561 NOT DIST — ⚠️ TODAY DIST RISK — 0 POSITIONS — NO ACTIONS]
 
 📈 Market-check 2026-07-17 10:00 CT
@@ -4255,3 +4276,15 @@ Positions: 0 / 0% deployed | Weekly trades: 0/3
 Dist count: 7/25 (Jun 17 expires Thu Jul 24 -> 6/25 if no new dist Mon-Wed)
 FTD: CLOSED (need Day 1 below 7,266.99 -- ~214 pts away)
 Next: /eod-review 3:15 PM CT | FOMC Jul 28-29 quiet week
+
+---
+## 2026-07-17 20:26 CT [clickup-placeholder]
+
+📊 EOD 2026-07-17 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Market: 🔴 Correction | Dist days: 7/25 CONFIRMED (Jul 16 DIST #6 + Jul 17 DIST #7)
+Open: 0 positions | 100% cash | SH $625 hedge QUEUED (Alpaca blocked)
+Actions today: NONE | sell-rules-engine: SKIPPED (0 positions)
+Closes: S&P 7,457.69 (−1.01% DIST#7) | Nasdaq 25,520.24 (−1.40%) | NVDA $200.53 (−3.52%) | MRVL $188.30 (−8.71%) | ARM $262.01 (−5.41%)
+SOX entered bear market. 'NVDA defied selloff' was wrong.
+Week Jul 14-18: CLOSED | 0/3 trades | Circuit breakers: ALL CLEAR
+Mon Jul 20: ARM penultimate | Jun 17 dist expires Jul 24 | FOMC Jul 28-29
