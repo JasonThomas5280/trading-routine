@@ -4381,3 +4381,25 @@ State throughout: Correction. S&P closed below both 50d MA (~7,509) and 200d MA 
 - Bench: NVDA 74/100 watching for handle (Aug-Sep timeline), MRVL watch-only only, ARM exiting
 - Book status: 0 positions, $2,500 cash (HWM), SH $625 QUEUED (Alpaca blocked — execute first on restore)
 - Emotional state: DISCIPLINED. First positive-alpha week. Cash preserved while SOX entered bear market. Patience is the position through FOMC.
+
+---
+## 2026-07-19 21:26 CT [clickup-placeholder]
+
+📋 Week prep 2026-07-19
+Market: 🔴 Correction (Dist: 7/25; SPY vs 50MA: −1.02% BELOW; S&P near/below 200d MA ~7,464)
+TWO CORRECTION TRIGGERS ACTIVE: (1) 7/25 dist days, (2) 50d MA breach (first since Apr 2026)
+SOX: bear market confirmed (−20.2% from peak)
+Top sectors: XLE #1, XLU #2, XLP #3 (ALL DEFENSIVE — rotation away from growth)
+Worst sector: XLK #11 (tech — core watchlist universe)
+Primary watchlist: NONE — 0 candidates ≥75 (14th consecutive week; no qualifying setups)
+Bench: NVDA 74/100 (~$200-202; cup ~32 wks; dist below 50d — NO ENTRY); ARM exits universe Tue Jul 21 COB (permanently removed)
+Hedge: SH $625 QUEUED (pending Alpaca API restore — Day ~144 blocked)
+Calendar risks this week:
+  - Mon Jul 21: ARM penultimate bench day, no entries
+  - Tue Jul 22 AMC: GOOGL + TSLA earnings (blackout window opens Mon)
+  - Wed Jul 23 AMC: INTC earnings
+  - Thu Jul 24: Jun 17 dist expires → 6/25 (if no new dist days Mon-Wed)
+  - Jul 28-29: FOMC (Warsh hawkish; 86-89% hold expected)
+Entry plan Mon Jul 21: NO ENTRIES — Correction posture, dual MA breach, defensive rotation
+FTD scenario: New Day 1 needed below 7,266.99 (rally attempt invalidated Jul 16); dual MA breach makes near-term FTD unlikely
+research_source: websearch_fallback (APIs blocked Day ~144)

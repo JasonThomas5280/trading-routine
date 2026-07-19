@@ -15276,3 +15276,82 @@ Plan: NO ENTRIES. Correction posture. Confirm Jul 17 close + dist count at /mark
 ```
 
 `research_source: websearch_fallback` | Alpaca BLOCKED (Day ~143) | Perplexity 403 | AV 403
+
+---
+
+## 2026-07-19 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION DEEPENING — ⚠️ S&P CONFIRMED BELOW 50d MA (7,457.69 vs ~7,534.75) + NEAR/BELOW 200d MA — SOX BEAR −20.2% — SECTOR ROTATION FULLY DEFENSIVE — 7/25 DIST — 14th CONSECUTIVE WEEK ZERO CANDIDATES
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~144; Perplexity: 403; AV: 403 — 25th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | Confirmed by TWO independent triggers: (1) 7/25 dist days + (2) S&P close below 50d MA
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades:** 0/3 | **Week Jul 20-25 OPEN**
+
+### Market data (WebSearch — primary sources: dshort.com, Yahoo Finance, Bloomberg, Nasdaq.com)
+
+- **S&P 500 Jul 17 close:** 7,457.69 (−1.01% day, −1.6% week)
+  - 50d MA: **~7,534.75** → S&P **−1.02% BELOW 50d MA** ← ⚠️ FIRST 50d MA BREACH SINCE APR 2026 (Source: Advisor Perspectives/dshort "S&P 500 Snapshot: Index Drops Below 50-Day MA" Jul 17, 2026)
+  - 200d MA: **~7,464.61** → S&P **−0.09% BELOW 200d MA** ← ⚠️ 200d MA BREACH CONFIRMED
+  - ⚠️ PRIOR MEMORY MA CORRECTIONS: "50d MA ~7,509" (WRONG → 7,534.75); "200d MA ~7,472" (WRONG → 7,464.61)
+- **QQQ Jul 17 close:** $695.17 | Nasdaq: 25,520.24 (−1.40%)
+  - 50d MA ~$717-718 (−3.1% below) | 200d MA ~$637 (+8.7% above)
+  - ⚠️ Prior memory "QQQ 200d MA $725.29" CORRECTED → actual ~$637 (QQQ well above 200d, unlike S&P)
+- **SOX:** Peak 14,655.29 (Jun 22) → ~11,694 est. (Jul 17) = **−20.2% BEAR MARKET** | SMH −9%+ for week
+- **Dist count (our methodology):** 7/25 | IBD count: 4/25 S&P / 0/25 Nasdaq (discrepancy noted; IBD calls "Confirmed Uptrend" — irrelevant to our rules; both our triggers fire regardless)
+
+### Sector leadership (4-week RS, Jun 20 → Jul 17 — WebSearch)
+
+| Rank | Sector | Signal | Notes |
+|---|---|---|---|
+| 1 | XLE Energy | ↑ Strong | +8%+ recent 2 wks; geopolitical tailwind |
+| 2 | XLU Utilities | ↑ Defensive | Rate-hold environment; defensive rotation |
+| 3 | XLP Consumer Staples | ↑ Defensive | 5-day return +2.8%; safety bid |
+| 4-8 | XLV, XLRE, XLF, XLI, XLB | Mixed | Moderate; no standout signal |
+| 9 | XLC Comm. Services | ↓ Lagging | Alphabet weak; AI capex narrative |
+| 10 | XLY Consumer Disc. | ↓ Lagging | Growth-sensitive selloff |
+| 11 | XLK Technology | ↓ WORST | Chip rout −9%+ wk; SOX bear market |
+
+⚠️ MAJOR SHIFT: Prior weekly-prep had XLK as sector #1-3. XLK is now LAST (11 of 11). Full defensive rotation underway.
+
+### Scan statistics
+
+- **Universe scan:** SKIPPED — Correction posture; Alpaca+AV both blocked (403); no live constituent data; build-universe.sh cannot run
+- **Candidates pre-filtered:** N/A (Correction gate blocks all new entries regardless of score)
+- **Candidates formally scored:** 0 (all three prior bench names re-assessed below, no new names added)
+  - NVDA: 74/100 UNCHANGED (Base:0 = key gap; cup wk ~32, no handle)
+  - MRVL: ~15-25/100 UNCHANGED (broken structure; watch-only)
+  - ARM: 60/100 → EXITS UNIVERSE TUE JUL 21 COB (FINAL trading day Mon Jul 20 TOMORROW)
+- **Candidates passing ≥75:** 0 — **14th consecutive week with zero qualifying setups**
+- **Rejection breakdown:** All candidates fail primary gates: (1) Correction gate blocks longs regardless of score; (2) Alpaca/AV blocked = no live volume/bars for technical letters; (3) NVDA below threshold (74 < 75); (4) MRVL far below threshold; (5) ARM expires
+
+### New developments vs prior memory
+
+1. S&P 500 CONFIRMED below 50d MA — additional Correction trigger fires (per TRADING-STRATEGY.md, SPY below 50d MA = Correction; now confirmed)
+2. S&P 500 fractionally below 200d MA — extreme danger zone; institutional algorithms may accelerate selling
+3. Sector rotation to defensives fully confirmed (XLE/XLU/XLP lead; XLK last)
+4. FOMC Jul 28-29: Chair Kevin Warsh confirmed hawkish ("Prices are too high"); rate 3.50-3.75% held since Dec 2025; 86-89% hold probability; split committee (some open to hike before year-end)
+5. KEY WEEK AHEAD: GOOGL+TSLA earnings Tue Jul 22 AMC (AI narrative binary), INTC Wed Jul 23 AMC (semi sentiment), ARM exits Mon Jul 21 COB, Jun 17 dist expires Thu Jul 24 → 6/25
+6. Jul 29 = FOMC decision + META + MSFT + ARM earnings = most volatile session of Q3 2026
+7. MRVL: Sandeep Bharathi (President DC) sold $1.79M Jul 16 (additional insider selling). Capital raise shelf filed Jul 9.
+8. ARM: Some sources cite Jul 17 close $267.19 (+1.98%) vs memory $262.01 (−5.41%). Discrepancy noted; ARM exits universe regardless.
+9. NVDA: 92% of 63 analysts BUY; avg PT $301.97 (+49% upside from $202). Goldman: "21.7x fwd P/E compelling." Kyber NVL144 delay reports DENIED by NVIDIA. Long-term thesis intact but cup wk ~32, no handle = no entry until Aug-Sep 2026 at earliest.
+10. GOOGL: Earnings Jul 22 AMC (blackout active). Was 77/100 in Week 4 (May 2026). Re-evaluate post-earnings when XLC sector recovers and market reaches Uptrend.
+
+### FTD path (updated)
+
+- Rally low: 7,266.99 (Jun 10) — ~191 pts below Jul 17 close of 7,457.69
+- S&P now below 50d AND 200d MA: increases probability of new Day 1 establishment (institutional stops firing → may test rally low)
+- Day 1 requirements: S&P intraday new low BELOW 7,266.99 + close up same day on elevated volume
+- If Day 1 fires this week: FTD window Day 4-7 = ~Jul 28-Aug 1 (right into FOMC+mega-earnings = difficult FTD context)
+- Earliest Uptrend (no new dist days, Day 1 fires late this week): ~Aug 4-8
+- Earliest Uptrend (no Day 1 yet): ~Aug 17-21
+
+### Actions
+
+**NONE.** Correction posture + dual MA breach + Alpaca BLOCKED + 0 candidates ≥75
+
+SH $625 hedge: QUEUED (Alpaca Day ~144 BLOCKED — execute on restore)
+
+### Circuit breakers
+
+Equity: $2,500 HWM | P&L week: $0 | ALL CLEAR (daily −3%, weekly −6%, drawdown −12%)
+
+`research_source: websearch_fallback` | `SP500_below_50d_MA_CONFIRMED` | `SP500_below_200d_MA_CONFIRMED` | `SOX_bear_market_20pct` | `defensive_rotation_XLE_XLU_XLP` | `XLK_worst_sector` | `FOMC_Jul28-29_hawkish_Warsh` | `GOOGL_blackout_Jul22` | `ARM_exits_Jul21_COB` | `14th_week_zero_candidates`

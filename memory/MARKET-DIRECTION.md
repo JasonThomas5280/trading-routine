@@ -8,8 +8,59 @@
 
 **Status:** 🔴 **MARKET IN CORRECTION** *(Jul 20 /market-check 10:00 AM CT — ✅ JUL 17 CONFIRMED: 7,457.69 (−1.01%; DIST DAY #7 CONFIRMED — SOX entering bear market; Nasdaq −1.6%; NVDA $200.53 confirmed) — DIST COUNT 7/25 — ✅ NVDA JUL 17 $200.53 (−3.52%; "defied selloff" headline was WRONG) — ✅ MRVL JUL 17 $188.30 (−9% to −15%; CFO $65M sell) — ARM PENULTIMATE DAY TODAY (exits after JUL 21 COB) — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — FOMC JUL 28-29 QUIET WEEK)*
 
-**Last updated:** 2026-07-20 (Mon) — /market-check 10:00 AM CT — **🔴 MARKET IN CORRECTION (7/25 dist days confirmed — ALL LONG ENTRIES BLOCKED)**
-**STATE:** 🔴 Market in Correction | **7/25 dist days active** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16 (corrected), **Jul 17 (CONFIRMED)** | ⚠️ Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed) | RALLY ATTEMPT INVALIDATED Jul 16 (7,533.77 < 7,543.59 Day 1 close) | FTD CLOSED (new Day 1 required — S&P must establish intraday new low below 7,266.99 and close up same day) | Rally low 7,266.99 INTACT (~214 pts from current est. ~7,481) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ✅ Jul 16 DIST #6 CONFIRMED 7,533.77 (−0.53%) | ✅ Jul 17 DIST #7 CONFIRMED 7,457.69 (−1.01%)
+**Last updated:** 2026-07-19 (Sun) — /weekly-prep 4:00 PM CT — **🔴 MARKET IN CORRECTION DEEPENING (7/25 dist + S&P BELOW 50d MA + NEAR/BELOW 200d MA — ALL LONG ENTRIES BLOCKED)**
+**STATE:** 🔴 Market in Correction | **7/25 dist days active** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16 (corrected), **Jul 17 (CONFIRMED)** | ⚠️ Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed) | RALLY ATTEMPT INVALIDATED Jul 16 (7,533.77 < 7,543.59 Day 1 close) | FTD CLOSED (new Day 1 required — S&P must establish intraday new low below 7,266.99 and close up same day) | Rally low 7,266.99 INTACT (~191 pts from Jul 17 close 7,457.69) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ✅ Jul 16 DIST #6 CONFIRMED 7,533.77 (−0.53%) | ✅ Jul 17 DIST #7 CONFIRMED 7,457.69 (−1.01%) | ⚠️ S&P CONFIRMED BELOW 50d MA (7,457.69 vs ~7,534.75 = −1.02%) — FIRST 50d MA BREACH SINCE APR 2026 | ⚠️ S&P CONFIRMED NEAR/BELOW 200d MA (~7,464.61 = −0.09%) | TWO CORRECTION TRIGGERS ACTIVE: dist 7/25 + 50d MA breach
+
+**✅ JUL 19 /weekly-prep (Sunday 4:00 PM CT — 🔴 CORRECTION DEEPENING — ⚠️ S&P CONFIRMED BELOW 50d MA: 7,457.69 vs ~7,534.75 (−1.02%) — ⚠️ S&P FRACTIONALLY BELOW 200d MA: ~7,464.61 (−0.09%) — SOX BEAR MARKET −20.2% — 7/25 DIST — SECTOR ROTATION FULLY DEFENSIVE — ALPACA DAY ~144 BLOCKED — 0 POSITIONS — SH QUEUED):**
+- **Market state: 🔴 MARKET IN CORRECTION** — confirmed by TWO independent triggers per TRADING-STRATEGY.md: (1) internal dist day count 7/25 (>6 threshold) AND (2) S&P 500 close BELOW 50-day MA | `research_source: websearch_fallback` | Alpaca Day ~144 BLOCKED | Perplexity 403 | AV 403 | 25th consecutive degraded session
+- **S&P 500 Jul 17 (confirmed via Advisor Perspectives/dshort.com):**
+  - Close: **7,457.69** (−1.01% day, −1.6% week)
+  - 50-day MA: **~7,534.75** | S&P is **−1.02% BELOW 50d MA** ← ⚠️ FIRST 50d MA BREACH SINCE APR 2026 — Source: "S&P 500 Snapshot: Index Drops Below 50-Day MA" — dshort.com Jul 17, 2026
+  - 200-day MA: **~7,464.61** | S&P is **−0.09% BELOW 200d MA** ← ⚠️ 200d MA BREACH CONFIRMED (7 pts below)
+  - ⚠️ PRIOR MEMORY MA ESTIMATES CORRECTED: "50d MA ~7,509" was wrong → actual ~7,534.75; S&P is further below than previously estimated
+  - Correction trigger: "SPY closes below 50-day MA on volume" → ✅ FIRED (Jul 17 = options expiry, volume elevated confirmed)
+- **QQQ Jul 17 (confirmed via WebSearch):**
+  - Close: **$695.17** | Nasdaq Composite: 25,520.24 (−1.40%)
+  - 50-day MA: **~$717–718** | QQQ **−3.1% BELOW 50d MA** ← BEARISH
+  - 200-day MA: **~$636–639** | QQQ **+8.7% ABOVE 200d MA** ← Cushion intact
+  - ⚠️ PRIOR MEMORY "QQQ 200d MA $725.29" CORRECTED → actual 200d MA ~$637 (QQQ still well above 200d)
+- **SOX Philadelphia Semiconductor Index (confirmed via Bloomberg/Bloomingbit):**
+  - 52-week high: **14,655.29** (Jun 22, 2026 peak) | Estimated Jul 17 level: **~11,694**
+  - Decline from peak: **−20.2%** → **BEAR MARKET CONFIRMED** (crossed −20% threshold on Jul 17)
+  - Jul 2026 decline: −18%+ in one month = steepest monthly decline since 2025
+  - SMH (VanEck Semiconductor ETF): −9%+ for week of Jul 14-17
+- **Distribution day accounting (dual methodology):**
+  - **Our internal count: 7/25** (Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17) — Active trigger
+  - **IBD count (aiStockSelection.com, WebSearch): 4/25 S&P 500 / 0/25 Nasdaq** — IBD classifies market as "Confirmed Uptrend" using Nasdaq zero-dist methodology
+  - **Resolution:** Two independent Correction triggers under OUR rules fire regardless of IBD count discrepancy: (1) 7/25 internal dist days (>6 threshold) AND (2) S&P close below 50d MA. Our methodology prevails. Correction confirmed.
+  - Jun 17 expires Jul 24 → 6/25 (if no new dist days Jul 20-23)
+  - Next expiry: Jun 23 → Jul 30 | Jul 7 → Aug 11 | Jul 8 → Aug 12 | Jul 13 → Aug 17
+  - Earliest Confirmed Uptrend (no new dist days from Jul 19): **~Aug 17-21**
+- **Sector leadership — 4-week RS (WebSearch, Jun 20 → Jul 17):**
+  - **TOP 3 (DEFENSIVE — Correction rotation confirmed):**
+    - #1 **XLE Energy** (+8% recent 2 wks; oil geopolitics; Middle East tailwind)
+    - #2 **XLU Utilities** (defensive rotation as semis sold off; rate-hold helps)
+    - #3 **XLP Consumer Staples** (defensive bid; 5-day return ~+2.8%)
+  - **BOTTOM 3 (AVOID):**
+    - #9 XLC Communication Services | #10 XLY Consumer Discretionary | #11 **XLK Technology** (WORST — chip rout −9%+ week; SOX bear market)
+  - ⚠️ MAJOR ROTATION SHIFT: Prior weekly-prep had XLK as sector #1-3. XLK is now dead LAST. Defensive rotation is fully underway.
+  - Blacklisted sectors: None (no 2-consecutive-fail trade history)
+- **Benchmark names (Jul 17, confirmed via WebSearch — multiple sources):**
+  - **NVDA:** $200.53 (Yahoo Finance, prior memory confirmed) / $202.81 alt (TradingKey) — day range $197.97-$206.65 | Score **74/100 UNCHANGED** (C:20 A:15 N:12 S:10 L:12 I:5 Base:0) | Cup wk ~32, no handle, 52-wk high $236.54 (+15.7% away) | 92% of 63 analysts BUY, avg PT $301.97 (+49% upside) | BLOCKED: Correction gate + 74/100 + no handle + Alpaca blocked
+  - **MRVL:** $186.76-$188.30 (WebSearch range, two sources) | Score **~15-25/100** | Watch-only; broken structure 8+ wk rebuild; CFO selling ongoing; capital raise shelf filed Jul 9 (dilution risk); MRVL-NVDA custom ASIC deal expansion (positive LT); Erste Group downgraded Hold
+  - **ARM:** $262.01 (Yahoo/memory) / $267.19 (Nasdaq.com, possible date discrepancy) | Score **60/100** | **EXITS UNIVERSE MON JUL 21 COB** → Remove from bench permanently after Wed Jul 22 | Earnings Jul 29 AMC; no entry window ever opened this cycle
+- **Week of Jul 20-25 critical path:**
+  - **Mon Jul 21: ARM FINAL TRADING DAY** → exits universe permanently after COB; remove from bench Wed Jul 22
+  - **Tue Jul 22 AMC: GOOGL earnings** — Q2 est. EPS $2.88-$2.90, rev ~$116.9B (+21.3% YoY). Major AI narrative catalyst; beat could spark rally day (not FTD-eligible without prior Day 1); miss = potential dist day #8
+  - **Tue Jul 22 AMC: TSLA earnings** — Q2 est. EPS $0.52, rev ~$25.99B (+15% YoY)
+  - **Wed Jul 23 AMC: INTC earnings** — Q2 est. EPS $0.22; semiconductor sector sentiment read
+  - **Thu Jul 24: Jobless claims** (est. ~214K) + **Jun 17 dist EXPIRES** → count drops to 6/25 (if no new dist days Mon-Wed)
+  - **Mon Jul 28 - Tue Jul 29: FOMC** — Chair Kevin Warsh hawkish ("Prices are too high"); 86-89% hold probability; split committee (June mins: ~half open to hike before year-end); rate currently 3.50-3.75% (held since Dec 2025); Jul 29 = also META+MSFT+ARM earnings → most volatile single session of Q3
+- **GOOGL bench note (new):** GOOGL was 77/100 in prior weeks. Currently in earnings blackout (Jul 22 AMC → earliest entry Aug 5). Sector XLC is now #9 (lagging). Post-earnings re-evaluate score; market must be in Confirmed Uptrend for any entry. File under FUTURE WATCH.
+- **FTD path:** CLOSED — requires new Day 1 first. S&P must establish intraday low BELOW 7,266.99 (rally low; ~191 pts below Jul 17 close) and close up same day. With S&P now below BOTH 50d and 200d MA, fresh Day 1 establishment becomes more likely — monitor closely. Earliest Confirmed Uptrend if Day 1 fires this week: ~Aug 4-8. If no Day 1: ~Aug 17-21.
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Weekly trades: 0/3 (week Jul 20 OPEN)
+- **Actions: NONE** (Correction posture + 50d+200d MA breach + Alpaca Day ~144 BLOCKED + 0 candidates ≥75 — 15th consecutive week with zero candidates above threshold)
+- `research_source: websearch_fallback` | `SP500_below_50d_MA_CONFIRMED_Jul17` | `SP500_below_200d_MA_CONFIRMED_Jul17` | `SOX_bear_market_20pct_CONFIRMED` | `50d_MA_breach_CORRECTION_TRIGGER_FIRED` | `200d_MA_breach_CONFIRMED` | `defensive_rotation_XLE_XLU_XLP` | `XLK_worst_sector_11of11` | `FOMC_Jul28-29_hawkish_Warsh` | `GOOGL_earnings_Jul22_blackout` | `ARM_final_day_Jul21`
 
 **✅ JUL 20 /market-check (10:00 AM CT — 🔴 CORRECTION — ✅ JUL 17 CONFIRMED: 7,457.69 (−1.01% DIST DAY #7) — ✅ NVDA JUL 17 $200.53 (−3.52% CONFIRMED) — ✅ MRVL JUL 17 $188.30 — SOX ENTERING BEAR MARKET — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — 0 ACTIONS — ARM PENULTIMATE DAY (EXITS JUL 21 COB)):**
 - **Market state: 🔴 MARKET IN CORRECTION** | `research_source: websearch_fallback` | Alpaca Day ~143 BLOCKED | Perplexity 403 | AV 403
