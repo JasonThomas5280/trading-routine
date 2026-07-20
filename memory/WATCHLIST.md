@@ -46,12 +46,13 @@ Alpaca: Day ~144 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - **FOMC Jul 28-29:** Chair Kevin Warsh ("Prices are too high" — hawkish); rate 3.50-3.75% held since Dec 2025; 86-89% hold prob; split committee (some open to hike); Jul 29 = META+MSFT+ARM earnings also → most volatile session of Q3
 - **Key week events:** GOOGL+TSLA earnings Tue Jul 22 AMC (AI narrative read) | INTC earnings Wed Jul 23 AMC (semi sentiment) | ARM FINAL DAY Mon Jul 21 COB (exits universe permanently) | Jun 17 dist expires Thu Jul 24 → 6/25 | Jobless claims Thu Jul 24 (~214K est.)
 
-**✅ DATA CONFIRMATIONS at /market-check Jul 20:**
-- Jul 17 S&P close CONFIRMED: est. ~7,481 (−0.7% DIST DAY #7; SOX entering bear market; Nasdaq −1.6%)
-- Jul 17 NVDA CONFIRMED: $200.53 (−3.52%; "defied selloff" headline was WRONG; was $207.40 Jul 16 est.)
-- Jul 17 MRVL CONFIRMED (est.): ~$189-203 (−9% to −15% from $222.44 Jul 16; CFO $65M sell filing)
-- Dist count: 7/25 (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
-- Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed)
+**✅ DATA CONFIRMATIONS at /market-check Jul 20 (UPDATED):**
+- ✅ Jul 20 S&P close CONFIRMED: est. ~7,504.7 (+0.63% NOT DIST ✅) | Nasdaq +1.02% | Dow +0.23% | Source: TheStreet/Yahoo Finance
+- ✅ Jul 17 S&P close CONFIRMED: 7,457.69 (−1.01% DIST DAY #7; SOX entering bear market; Nasdaq −1.6%)
+- ✅ Jul 17 NVDA CONFIRMED: $200.53 (−3.52%; "defied selloff" headline was WRONG)
+- ✅ Jul 17 MRVL CONFIRMED: $188.30 (−8.71% from $222.44 Jul 16; CFO $65M sell filing)
+- Dist count: 7/25 UNCHANGED (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+- Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Tue Jul 22 / Wed Jul 23)
 
 **✅ DATA UPDATE at /pre-market Jul 20 (6:00 AM CT):**
 - **Futures:** ES +0.3% | NQ +0.6% | Dow +131 pts — risk-on; chipmakers bouncing

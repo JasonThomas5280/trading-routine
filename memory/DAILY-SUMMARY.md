@@ -1,5 +1,25 @@
 
 ---
+## 2026-07-20 10:00 CT [market-check — 🔴 CORRECTION — ✅ JUL 20 est. +0.63% NOT DIST — 7/25 UNCHANGED — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-07-20 10:00 CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+✅ Jul 20 close (est.): S&P +0.63% ~7,504.7 | Nasdaq +1.02% | Dow +0.23% | NOT a dist day
+Actions taken:
+  No new entries — Correction gate (7/25 dist; S&P below 50d+200d MA; no candidates ≥75)
+  Abort gate: FIRED (Correction + Alpaca Day ~144 BLOCKED + 0 primary candidates)
+  sell-rules-engine: SKIPPED (0 open positions)
+Watchlist status: 0 ready, 2 watching (NVDA 74/100, MRVL ~15-25/100), ARM exits Tue Jul 21 COB
+Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%)
+Weekly trade count: 0 of 3 used
+Dist count: 7/25 UNCHANGED | Jun 17 expires Thu Jul 24 → 6/25 (if no new dist Tue-Wed)
+ARM: FINAL day Tue Jul 21 COB — remove from bench permanently Wed Jul 22
+NVDA bench: 74/100 | cup wk ~32, no handle | BLOCKED
+Key next: GOOGL+TSLA earnings Tue Jul 22 AMC | INTC Wed Jul 23 AMC | Jobless claims Thu Jul 24
+Next check: /eod-review 3:15 PM CT today
+research_source: websearch_fallback | Alpaca 403 | Perplexity 403 | AV 403
+
+---
 ## 2026-07-20 06:00 CT [pre-market — 🔴 CORRECTION — ES +0.3% NQ +0.6% — IRAN DIPLOMATIC SIGNAL — CHIPMAKERS BOUNCE — ARM PENULTIMATE — 0 POSITIONS — 0 ACTIONS]
 
 🌅 Pre-market 2026-07-20

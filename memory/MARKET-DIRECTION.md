@@ -6,7 +6,7 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 20 /market-check 10:00 AM CT — ✅ JUL 17 CONFIRMED: 7,457.69 (−1.01%; DIST DAY #7 CONFIRMED — SOX entering bear market; Nasdaq −1.6%; NVDA $200.53 confirmed) — DIST COUNT 7/25 — ✅ NVDA JUL 17 $200.53 (−3.52%; "defied selloff" headline was WRONG) — ✅ MRVL JUL 17 $188.30 (−9% to −15%; CFO $65M sell) — ARM PENULTIMATE DAY TODAY (exits after JUL 21 COB) — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — FOMC JUL 28-29 QUIET WEEK)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 20 /market-check 10:00 AM CT — ✅ JUL 20 CONF: est. ~7,504.7 (+0.63% NOT DIST ✅) | Nasdaq +1.02% | Dow +0.23% | DIST COUNT 7/25 UNCHANGED — ✅ JUL 17 CONFIRMED: 7,457.69 (−1.01% DIST DAY #7; SOX bear market) — NVDA $200.53 | MRVL $188.30 — ARM EXITS TUE JUL 21 COB — ALPACA DAY ~144 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — GOOGL+TSLA TUE JUL 22 AMC — FOMC JUL 28-29)*
 
 **Last updated:** 2026-07-19 (Sun) — /weekly-prep 4:00 PM CT — **🔴 MARKET IN CORRECTION DEEPENING (7/25 dist + S&P BELOW 50d MA + NEAR/BELOW 200d MA — ALL LONG ENTRIES BLOCKED)**
 **STATE:** 🔴 Market in Correction | **7/25 dist days active** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16 (corrected), **Jul 17 (CONFIRMED)** | ⚠️ Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed) | RALLY ATTEMPT INVALIDATED Jul 16 (7,533.77 < 7,543.59 Day 1 close) | FTD CLOSED (new Day 1 required — S&P must establish intraday new low below 7,266.99 and close up same day) | Rally low 7,266.99 INTACT (~191 pts from Jul 17 close 7,457.69) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ✅ Jul 16 DIST #6 CONFIRMED 7,533.77 (−0.53%) | ✅ Jul 17 DIST #7 CONFIRMED 7,457.69 (−1.01%) | ⚠️ S&P CONFIRMED BELOW 50d MA (7,457.69 vs ~7,534.75 = −1.02%) — FIRST 50d MA BREACH SINCE APR 2026 | ⚠️ S&P CONFIRMED NEAR/BELOW 200d MA (~7,464.61 = −0.09%) | TWO CORRECTION TRIGGERS ACTIVE: dist 7/25 + 50d MA breach
@@ -119,7 +119,7 @@
   - NVDA ($200.53 Jul 17): No pivot defined; cup wk ~31, no handle → **NO PROMOTION**
   - MRVL (~$189-203 Jul 17): Broken structure; far below threshold → **NO PROMOTION** (reduce to watch-only; no weekly scoring)
   - ARM ($262.01 Jul 17): 60/100; exits universe tomorrow Jul 21 COB → **NO ACTION**
-- **Jul 20 intraday (search lag — 24th consecutive degraded session):** WebSearch unable to index Jul 20 data. No intraday S&P level available. Proceeding under Correction posture.
+- **✅ Jul 20 close CONFIRMED (WebSearch — TheStreet/Yahoo Finance):** S&P 500 **+0.63%** → est. close ~7,504.7 (from 7,457.69 Jul 17) | Nasdaq **+1.02%** | Dow **+0.23%** | Russell 2000 **−0.42%** | **NOT a distribution day** ✅ (S&P UP) | Chipmakers bounced on Iran mediation proposals (FM Baghaei diplomatic signal + IRNA confirmed mediator contact) + earnings week (GOOGL+TSLA Tue Jul 22 AMC, INTC Wed Jul 23 AMC) | Dist count: **7/25 UNCHANGED** | ARM exits universe TOMORROW Tue Jul 21 COB ✅
 - **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L today: $0 | P&L week Jul 20: $0 | Weekly trades: 0/3
 - **Actions: NONE** (Correction 7/25 + Alpaca Day ~143 BLOCKED + 0 positions + 0 candidates ≥75 — **19th consecutive /market-check with zero trades placed**)
 - `research_source: websearch_fallback` | `NVDA_Jul17_CONF_200.53` | `JUL17_DIST7_CONF` | `SOX_BEAR_MARKET_ENTERED` | `MRVL_Jul17_est_189-203` | `ARM_penultimate_Jul20` | `Moonshot_Kimi-K3_AI_headwind` | `FOMC_Jul28-29_risk`
