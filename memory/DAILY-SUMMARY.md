@@ -4438,3 +4438,41 @@ Calendar risks this week:
 Entry plan Mon Jul 21: NO ENTRIES — Correction posture, dual MA breach, defensive rotation
 FTD scenario: New Day 1 needed below 7,266.99 (rally attempt invalidated Jul 16); dual MA breach makes near-term FTD unlikely
 research_source: websearch_fallback (APIs blocked Day ~144)
+
+---
+
+## 2026-07-20 — /eod-review 3:15 PM CT
+
+📊 EOD 2026-07-20 | Equity $2,500.00 (+$0.00 day, +$0.00 week)
+Open: 0 positions, 100% cash
+Distribution days: 7 of 25 trailing 25 sessions (today: NOT dist ✅ — S&P +0.63%)
+Market state: 🔴 CORRECTION UNCHANGED (7/25 dist + SPX below 50d MA)
+
+Close:
+  SPX ~7,504.7 (+0.63%) | Nasdaq +1.02% | Dow +0.23% | Russell −0.42%
+  QQQ est. ~$702-705 | SPY est. ~$747
+  SPX vs 50d MA (~7,533-7,536): −0.38% BELOW (correction trigger active)
+  SPX vs 200d MA (~7,464.61): +0.54% ABOVE (fractional breach Jul 17 now recovered ✅)
+
+Actions today:
+  • NONE (Correction + Alpaca Day ~146 proxy-blocked + 0 positions + 0 candidates ≥75)
+  • sell-rules-engine: SKIPPED (0 open positions)
+  • SH $625 hedge: STILL QUEUED (Alpaca blocked)
+
+Context:
+  • Iran: FM diplomatic signal (mediators confirmed contact) → chipmakers +1%; geopolitical risk easing at margin
+  • ARM: FINAL day tomorrow Tue Jul 21 COB → exits universe permanently Wed Jul 22
+  • GOOGL+TSLA earnings Tue Jul 22 AMC → major catalyst; miss = potential dist day #8 on Wed
+  • Jun 17 dist expires Thu Jul 24 → drops to 6/25 IF no new dist days Tue-Wed
+  • FOMC Jul 28-29 (Warsh hawkish; Jul 29 = META+MSFT+ARM all report — most volatile Q3 session)
+  • FTD: CLOSED — new Day 1 required (S&P must drop below 7,266.99; ~261 pts away)
+  • Earliest Confirmed Uptrend (no new dist days): ~Aug 17-21
+
+Circuit breakers: ALL CLEAR | PDT: 0/3 | Weekly trades: 0/3
+
+Tomorrow (/pre-market Tue Jul 21 6:00 AM CT):
+  Watch: ARM final day (no action); GOOGL/TSLA earnings setup (CNBC/WebSearch)
+  Dist risk: LOW tomorrow (light Monday follow-through expected); HIGH risk Wed post-earnings
+  SH: Still queued — check if Alpaca proxy unblocked first thing
+
+research_source: websearch_fallback | Alpaca: BLOCKED Day ~146

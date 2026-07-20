@@ -15424,3 +15424,58 @@ SH $625 hedge: QUEUED (Alpaca Day ~144 BLOCKED — execute on restore)
 Equity: $2,500 HWM | P&L week: $0 | ALL CLEAR (daily −3%, weekly −6%, drawdown −12%)
 
 `research_source: websearch_fallback` | `SP500_below_50d_MA_CONFIRMED` | `SP500_below_200d_MA_CONFIRMED` | `SOX_bear_market_20pct` | `defensive_rotation_XLE_XLU_XLP` | `XLK_worst_sector` | `FOMC_Jul28-29_hawkish_Warsh` | `GOOGL_blackout_Jul22` | `ARM_exits_Jul21_COB` | `14th_week_zero_candidates`
+
+---
+
+## 2026-07-20 (Mon) — /eod-review (3:15 PM CT) — 🔴 CORRECTION 7/25 UNCHANGED — NOT DIST ✅ — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: CONNECT 403 BLOCKED Day ~146; Perplexity: 403; AV: 403 — 27th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days UNCHANGED** | Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 20):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Close data (July 20, 2026)
+
+- **S&P 500:** est. **~7,504.7** (+0.63% from 7,457.69 Jul 17) — Source: TheStreet "Stock Market Today July 20, 2026" confirmed
+- **Nasdaq Composite:** +1.02% — modest chipmaker bounce (Iran FM diplomatic signal; "Iran worries derail Nasdaq/S&P despite modest chip comeback" — TheStreet headline)
+- **Dow Jones:** +0.23%
+- **Russell 2000:** −0.42% (small-caps lagged; defensive posture)
+- **QQQ:** est. ~$702-705 (from $695.17 Jul 17 × +1.02%; search returned $704.62 last close)
+- **SPY:** est. ~$747 (from $742.49 Jul 17 × +0.63%)
+- **S&P vs 50d MA (~7,533-7,536):** est. −0.38% BELOW 50d MA — still below (correction trigger active)
+- **S&P vs 200d MA (~7,464.61):** est. +0.54% ABOVE 200d MA — partial recovery above 200d (positive signal; fractional breach Jul 17 now closed)
+- **Iran:** US 10th consecutive day of strikes; Iran retaliation (Kuwait/allies); FM Baghaei hinted at diplomatic settlement via IRNA confirmed mediators → oil reversed earlier gains; sentiment improved modestly
+- **NVDA:** est. ~$204-207 (pre-mkt est. $203.81; chipmakers modestly positive today; exact close unconfirmed due to Alpaca block)
+
+### Distribution day check
+
+- **S&P +0.63% today → UP close → NOT a distribution day** ✅
+- Distribution count: **7/25 UNCHANGED** (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+- **Jun 17 expires Thu Jul 24 → drops to 6/25** IF no new dist days Tue Jul 22 / Wed Jul 23
+- **Next dist day risk: HIGH — GOOGL+TSLA earnings Tue Jul 22 AMC** → if miss → potential dist day #8 on Wed Jul 23 open
+
+### Sell-rules-engine
+
+- **SKIPPED — 0 open positions** ✅
+
+### Actions taken
+
+- **NONE** — Correction gate + Alpaca proxy blocked (Day ~146) + 0 positions + 0 candidates ≥75
+
+### Circuit breaker check
+
+- **Today P&L:** $0 (no positions; Alpaca inaccessible)
+- **Week P&L (Jul 20):** $0
+- **Daily breaker (−3%):** NOT triggered ✅
+- **Weekly breaker (−6%):** NOT triggered ✅
+- **Drawdown from HWM (−12%):** NOT triggered ✅ (equity $2,500 = HWM)
+- **ALL CLEAR**
+
+### Tomorrow's critical path
+
+- **Tue Jul 21: ARM FINAL TRADING DAY** → exits universe permanently after COB; remove from bench permanently Wed Jul 22
+- **Tue Jul 22 AMC: GOOGL earnings** (EPS est. $2.88; Rev ~$116.9B) — AI narrative catalyst; miss = potential dist #8
+- **Tue Jul 22 AMC: TSLA earnings** (EPS est. $0.52; Rev ~$25.99B)
+- **Thu Jul 24: Jun 17 dist expires** → 6/25 (if clean Tue-Wed)
+- **FOMC Jul 28-29:** Warsh hawkish; Jul 29 = META+MSFT+ARM earnings (most volatile session Q3)
+
+`research_source: websearch_fallback` | `SPX_Jul20_NOT_DIST_CONF` | `dist_7of25_UNCHANGED` | `SPX_above_200d_recovery` | `SPX_below_50d_ACTIVE` | `ARM_final_Jul21` | `GOOGL_TSLA_earnings_Jul22_AMC` | `SH_625_QUEUED` | `Alpaca_Day146_BLOCKED` | `Iran_diplomatic_signal`
