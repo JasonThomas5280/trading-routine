@@ -53,6 +53,15 @@ Alpaca: Day ~144 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - Dist count: 7/25 (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
 - Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed)
 
+**✅ DATA UPDATE at /pre-market Jul 20 (6:00 AM CT):**
+- **Futures:** ES +0.3% | NQ +0.6% | Dow +131 pts — risk-on; chipmakers bouncing
+- **Iran:** FM Baghaei diplomatic signal → geopolitical risk easing; oil reversed gains
+- **NVDA est. $203.81** (+1.6% from $200.53 Fri) — testing $200 support; score 74/100 UNCHANGED; BLOCKED
+- **ARM:** PENULTIMATE DAY TODAY (Jul 20); FINAL = Tue Jul 21 COB → EXITS UNIVERSE PERMANENTLY after Tue COB
+- **Today dist risk:** LOW (ES +0.3% UP open; monitor S&P close)
+- **GOOGL+TSLA earnings Tue Jul 22 AMC** — key AI narrative read; GOOGL EPS $2.88 est. (+24.2% YoY), Rev $117B est. (+21% YoY)
+- `pre-market_Jul20` | `websearch_fallback` | `ES_+0.3pct` | `Iran_diplomatic`
+
 **Market direction:** 🔴 Market in Correction (7/25 dist days confirmed) | **NO NEW LONG ENTRIES** (Correction blocks all longs)
 **S&P 500:** Jul 15 CONF 7,574 (+0.40%) | Jul 16 CONF 7,533.77 (−0.53% DIST #6) | **Jul 17 CONF est. ~7,481 (−0.7% DIST #7; SOX entering bear mkt; Nasdaq −1.6%; NVDA −3.52%)** | 200d MA ~7,472.59 | Rally low 7,266.99 INTACT (~214 pts below est. Jul 17 close)
 **CPI June CONFIRMED:** −0.4% MoM / 3.5% YoY (major disinflation beat; backward-looking June data — no FTD help)

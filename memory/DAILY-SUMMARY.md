@@ -1,5 +1,20 @@
 
 ---
+## 2026-07-20 06:00 CT [pre-market — 🔴 CORRECTION — ES +0.3% NQ +0.6% — IRAN DIPLOMATIC SIGNAL — CHIPMAKERS BOUNCE — ARM PENULTIMATE — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-07-20
+Market: 🔴 Correction (7/25 dist days) | Futures: ES +0.3% / NQ +0.6% / Dow +131 pts
+Open positions: 0 / 100% cash | Circuit breakers: NONE
+Overnight gaps: N/A (0 positions)
+Overnight catalyst: Iran FM hints at diplomatic settlement → risk-on; chipmakers bouncing; oil easing
+Watchlist ready: NONE (Correction — no entries allowed)
+Bench: NVDA est. $203.81 (+1.6%) — 74/100 BLOCKED | MRVL watch-only | ARM PENULTIMATE (exits Tue Jul 21 COB)
+Removed: ARM → exits universe permanently after Tue Jul 21 COB (60/100; earnings Jul 29)
+Key catalysts: GOOGL+TSLA Tue Jul 22 AMC | INTC Wed Jul 23 AMC | Jun 17 dist expires Thu Jul 24 → 6/25 | FOMC Jul 28-29
+Today dist risk: LOW (ES +0.3% → UP open) | Plan: NO ENTRIES — Correction + Alpaca Day ~145 BLOCKED
+research_source: websearch_fallback | Alpaca 403 | Perplexity 403 | AV 403
+
+---
 ## 2026-07-17 15:15 CT [eod-review — ✅ CORRECTED — 🔴 CORRECTION CONFIRMED 7/25 — ✅ S&P 7,457.69 (−1.01% DIST DAY #7) — ✅ MRVL $188.30 — ✅ ARM $262.01 — ✅ NVDA $200.53 — 0 POSITIONS — 0 ACTIONS — WEEK CLOSED]
 
 📊 EOD 2026-07-17 | Equity $2,500.00 (+0.00% day, +0.00% week)

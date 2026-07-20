@@ -46,6 +46,75 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-20 (Mon) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 dist) — ES +0.3% NQ +0.6% — IRAN DIPLOMATIC HINTS — CHIPMAKERS BOUNCE — ARM PENULTIMATE DAY — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~145; Perplexity: 403; AV: 403 — 26th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 20):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Overnight market (pre-market 6:00 AM CT)
+
+- **ES futures:** +0.3% (~+22 pts) | **NQ futures:** +0.6% | **Dow futures:** +131 pts (+0.3%)
+- **Chipmakers:** Bouncing higher pre-market after Friday bear-market close (SOXX −20%+ from highs)
+- **Iran:** US completed 9th consecutive day of strikes overnight; **Iranian FM Esmail Baghaei hinted at diplomatic settlement** → risk-on bid; oil reversed earlier gains
+- **Oil:** Easing from spike; geopolitical premium fading slightly on Iran diplomatic signal
+- **Macro today:** No major economic releases scheduled for July 20 (light data week; earnings-focused)
+- **AMD earnings noted this week** (in addition to GOOGL+TSLA Tue Jul 22 AMC; INTC Wed Jul 23 AMC)
+- Source: CNBC "Stock futures are higher to start the week as U.S. oil reverses gains, chipmakers rise" Jul 19 | Benzinga Jul 20 | WebSearch Jul 20 2026
+
+### Open position gap check
+
+- **0 open positions** → SKIP (no gap checks needed)
+
+### Position catalyst scan
+
+- **SKIP** (0 positions)
+
+### Primary watchlist catalyst scan
+
+- **0 primary candidates** (15th consecutive week with zero names ≥75/100; Correction blocks all entries) → SKIP
+
+### Bench name updates
+
+- **NVDA:** Pre-market ~$203.81 (est., up ~+1.6% from $200.53 Fri close). Testing $200 support level → bouncing on chipmaker bid. Score **74/100 UNCHANGED** | Cup wk ~32, no handle, 52-wk high $236.54 (+15.3% away). BLOCKED: Correction gate + 74/100 + Alpaca blocked. Key AI narrative read comes from GOOGL earnings Tue Jul 22 AMC. `NVDA_Jul20_est_203.81` `testing_200_support`
+- **MRVL:** No pre-market update; last confirmed $186.76-$188.30 (Jul 17). Score ~15-25/100 WATCH-ONLY. Not monitoring actively; 8+ wk base rebuild path unchanged. `MRVL_watch_only`
+- **ARM:** ⚠️ **PENULTIMATE TRADING DAY TODAY (Jul 20)**. Score 60/100. Exits universe permanently after **Tue Jul 21 COB**. Remove from bench permanently Wed Jul 22. Earnings Jul 29 AMC confirmed. `ARM_penultimate_Jul20` `ARM_final_Jul21_COB`
+
+### Buy-zone readiness
+
+| Symbol | Status | Notes |
+|---|---|---|
+| NVDA | ⛔ BLOCKED | Correction gate; 74/100 (<75 effective + no base bonus); no pivot defined |
+| MRVL | ⛔ REMOVED | ~15-25/100; broken structure; watch-only |
+| ARM | ⛔ EXITS TUE | 60/100; final day tomorrow; earnings blackout Jul 22 |
+| SH | QUEUED | $625/25%; execute FIRST on Alpaca restore; queued since Jun 5 (~7 wks) |
+
+### Today's dist day risk
+
+- **ES +0.3% pre-market → UP open likely → TODAY (Jul 20) LOW RISK for dist day #8**
+- IF S&P closes DOWN ≥0.2% on elevated volume today → DIST #8 (6/25 becoming 7/25 again if Jun 17 expires Thu)
+- Jun 17 dist expires **Thu Jul 24** → drops to 6/25 IF no new dist days Mon-Wed
+- Next key dist risk: GOOGL/TSLA miss Tue Jul 22 AMC → Wed Jul 23 open selloff potential
+
+### This week's critical path (Jul 20-25)
+
+- **Mon Jul 20 (TODAY):** ARM penultimate day; no action; monitor S&P close for dist day risk (LOW — futures up); pre-market chipmaker bounce
+- **Tue Jul 21:** ⚠️ **ARM FINAL TRADING DAY → exits universe permanently after COB** | Remove from bench Wed Jul 22
+- **Tue Jul 22 AMC: GOOGL earnings** (EPS $2.88 est. +24.2% YoY; Rev $117B +21% YoY) + **TSLA earnings** (EPS $0.52 +30% YoY; Rev $25.99B +15% YoY) — KEY AI narrative read; beat → possible Wed relief rally; miss → potential dist day #8
+- **Wed Jul 23 AMC: INTC earnings** (EPS $0.22 est.) — semi sector sentiment
+- **Thu Jul 24: Jun 17 dist EXPIRES → 6/25** (if no new dist days Mon-Wed) + Jobless claims (est. ~214K)
+- **Fri Jul 25:** Enter FOMC quiet week in full Correction / 100% cash posture
+
+### Actions today
+
+**NONE.** Correction (7/25 dist) + Alpaca Day ~145 BLOCKED + 0 positions + 0 candidates ≥75 (15th consecutive week).
+- SH $625 hedge: QUEUED — Alpaca BLOCKED; execute when restored
+- sell-rules-engine: SKIP (0 positions)
+
+`research_source: websearch_fallback` | `Alpaca_Day145_BLOCKED` | `Perplexity_403` | `AV_403` | `ES_futures_+0.3pct` | `NQ_futures_+0.6pct` | `Iran_diplomatic_signal` | `chipmakers_bounce` | `ARM_penultimate_Jul20` | `NVDA_est_203.81` | `dist_count_7of25_UNCHANGED` | `15th_consecutive_week_zero_candidates`
+
+---
+
 ## 2026-07-17 (Fri) — /eod-review (3:15 PM CT) — ✅ CORRECTED — 🔴 CORRECTION (7/25 dist CONFIRMED) — ✅ S&P 7,457.69 (−1.01% DIST DAY #7) — ✅ MRVL $188.30 (−8.71%) — ✅ ARM $262.01 (−5.41%) — ✅ NVDA $200.53 (−3.52%) — RALLY INVALIDATED — FTD CLOSED — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~142; Perplexity: 403; AV: 403 — 22nd consecutive degraded session)

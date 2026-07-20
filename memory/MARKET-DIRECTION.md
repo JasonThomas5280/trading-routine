@@ -62,6 +62,17 @@
 - **Actions: NONE** (Correction posture + 50d+200d MA breach + Alpaca Day ~144 BLOCKED + 0 candidates ≥75 — 15th consecutive week with zero candidates above threshold)
 - `research_source: websearch_fallback` | `SP500_below_50d_MA_CONFIRMED_Jul17` | `SP500_below_200d_MA_CONFIRMED_Jul17` | `SOX_bear_market_20pct_CONFIRMED` | `50d_MA_breach_CORRECTION_TRIGGER_FIRED` | `200d_MA_breach_CONFIRMED` | `defensive_rotation_XLE_XLU_XLP` | `XLK_worst_sector_11of11` | `FOMC_Jul28-29_hawkish_Warsh` | `GOOGL_earnings_Jul22_blackout` | `ARM_final_day_Jul21`
 
+**✅ JUL 20 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.3% NQ +0.6% — IRAN DIPLOMATIC SIGNAL — CHIPMAKERS BOUNCE — ARM PENULTIMATE — ALPACA DAY ~145 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~145 BLOCKED | Perplexity 403 | AV 403 (26th consecutive degraded session)
+- **Futures pre-market (6:00 AM CT):** ES +0.3% (~+22 pts) | NQ +0.6% | Dow +131 pts (+0.3%) — **risk-on bounce off Friday lows**
+- **Catalyst: Iran FM Baghaei hinted at diplomatic settlement** → investor sentiment improved; chipmakers trading higher; oil reversed earlier gains (9th consecutive day of US strikes; market positioning for diplomatic resolution)
+- **NVDA pre-market:** est. ~$203.81 (+1.6% from $200.53 Jul 17) — testing $200 support; score 74/100 UNCHANGED; BLOCKED
+- **ARM:** PENULTIMATE DAY TODAY (Jul 20); FINAL = Jul 21 COB → exits universe permanently; no action taken
+- **Today dist risk:** LOW — ES +0.3% UP open → if S&P closes positive today, NOT a dist day; risk rises on GOOGL/TSLA miss Tue Jul 22 AMC
+- **Macro today:** No major economic data releases Jul 20 (light data; earnings-focused week)
+- **Actions: NONE** (Correction 7/25 + Alpaca Day ~145 BLOCKED + 0 candidates ≥75)
+- `ES_+0.3pct_premarket` | `NQ_+0.6pct_premarket` | `Iran_FM_diplomatic_signal` | `chipmakers_bounce_Jul20` | `NVDA_est_203.81` | `ARM_penultimate_Jul20` | `dist_today_risk_LOW`
+
 **✅ JUL 20 /market-check (10:00 AM CT — 🔴 CORRECTION — ✅ JUL 17 CONFIRMED: 7,457.69 (−1.01% DIST DAY #7) — ✅ NVDA JUL 17 $200.53 (−3.52% CONFIRMED) — ✅ MRVL JUL 17 $188.30 — SOX ENTERING BEAR MARKET — ALPACA DAY ~143 BLOCKED — 0 POSITIONS — 0 ACTIONS — ARM PENULTIMATE DAY (EXITS JUL 21 COB)):**
 - **Market state: 🔴 MARKET IN CORRECTION** | `research_source: websearch_fallback` | Alpaca Day ~143 BLOCKED | Perplexity 403 | AV 403
 - **Abort gate: FIRED — Correction (7/25 dist days confirmed)** → no new entries. Alpaca also blocked (Day ~143). All entries blocked by both gates.
