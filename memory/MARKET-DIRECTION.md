@@ -3137,3 +3137,20 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 - **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Weekly trades: 0/3
 - **Actions: NONE** (Correction 7/25 + Alpaca Day ~146 BLOCKED + 0 positions + 0 candidates ≥75 — **20th consecutive /eod-review with zero actions**)
 - `research_source: websearch_fallback` | `SPX_Jul20_NOT_DIST_CONF` | `dist_7of25_UNCHANGED` | `SPX_above_200d_RECOVERED` | `SPX_below_50d_ACTIVE` | `ARM_final_Jul21_COB` | `GOOGL_TSLA_earnings_Jul22_AMC_risk` | `SH_625_QUEUED` | `Alpaca_Day146_BLOCKED` | `Iran_diplomatic_signal`
+
+**⚠️ JUL 20 CLOSE CORRECTION (confirmed Jul 21 /pre-market):** Prior /eod-review estimated ~7,504.7 (+0.63%) — WRONG. CONFIRMED: 7,443.28 (−0.19%). Still NOT a dist day (−0.19% < −0.20% threshold ✅). Dist count 7/25 UNCHANGED. BUT: S&P now −1.21% below 50d MA and −1.43% below 200d MA — WORSE than previously thought. The "200d recovery" noted in /eod-review was incorrect.
+
+**✅ JUL 21 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.5% NQ +1.3% — ARM FINAL DAY TODAY — GOOGL+TSLA AMC TONIGHT — ALPACA DAY ~147 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~147 BLOCKED | Perplexity 403 | AV 403 (28th consecutive degraded session)
+- **Futures pre-market (6:00 AM CT):** ES +0.5% | NQ +1.3% | Dow +0.3% — chip names reviving; Big Tech earnings week
+- **Jul 20 close CONFIRMED:** 7,443.28 (−0.19%) — NOT dist day ✅ | Distribution count: **7/25 UNCHANGED**
+- **Active dist days:** Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+- **S&P vs MAs (CORRECTED):** 7,443.28 vs 50d MA ~7,534.75 = **−1.21% below** | 7,443.28 vs 200d MA ~7,464.61 = **−1.43% below** — S&P remains below BOTH MAs; Correction triggers both active
+- **Bench updates:** NVDA ~$203.28 (pre-mkt; score 74/100 UNCHANGED; blocked) | MRVL $193.09 pre-mkt (−2.34%; score ~15-25/100; watch-only) | ARM $263.30 (⚠️ FINAL DAY TODAY — exits universe COB)
+- **ARM FINAL DAY:** Jul 21 COB = ARM exits universe permanently. Remove from bench starting Wed Jul 22. Earnings Jul 29 AMC. Post-earnings re-entry window: Aug 5+ (if score ≥75 and market Uptrend).
+- **GOOGL/TSLA AMC tonight:** GOOGL Rev est. $116.91B (+21% YoY); EPS +26% est. TSLA 480K deliveries; EPS $0.54 est. Miss = dist day #8 risk tomorrow.
+- **INTC AMC Wed Jul 23** — semiconductor sector read
+- **Jun 17 dist expires Thu Jul 24** → 6/25 (if clean tonight + Wed)
+- **FOMC Jul 28-29 + META+MSFT+ARM Jul 29 AMC** — most volatile session Q3
+- **Actions: NONE** — Correction 7/25 + Alpaca Day ~147 BLOCKED + 0 candidates ≥75
+- `ES_+0.5pct` | `NQ_+1.3pct` | `Jul20_CONF_7443.28_NOT_DIST` | `SPX_below_50d_1.21pct` | `SPX_below_200d_1.43pct` | `ARM_final_day_Jul21_COB` | `GOOGL_TSLA_AMC_tonight` | `dist_7of25_unchanged`

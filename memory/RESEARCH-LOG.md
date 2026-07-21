@@ -15479,3 +15479,128 @@ Equity: $2,500 HWM | P&L week: $0 | ALL CLEAR (daily −3%, weekly −6%, drawdo
 - **FOMC Jul 28-29:** Warsh hawkish; Jul 29 = META+MSFT+ARM earnings (most volatile session Q3)
 
 `research_source: websearch_fallback` | `SPX_Jul20_NOT_DIST_CONF` | `dist_7of25_UNCHANGED` | `SPX_above_200d_recovery` | `SPX_below_50d_ACTIVE` | `ARM_final_Jul21` | `GOOGL_TSLA_earnings_Jul22_AMC` | `SH_625_QUEUED` | `Alpaca_Day146_BLOCKED` | `Iran_diplomatic_signal`
+
+---
+
+## 2026-07-21 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION 7/25 UNCHANGED — ES +0.5% NQ +1.3% — ARM FINAL DAY — GOOGL+TSLA AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: CONNECT 403 BLOCKED Day ~147; Perplexity: 403; AV: 403 — 28th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days UNCHANGED** | Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 20):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+---
+
+### ⚠️ CORRECTION: Jul 20 Close Data Error in /eod-review
+
+**Prior /eod-review estimate:** ~7,504.7 (+0.63%) — WRONG (source: TheStreet websearch; data was stale/incorrect)
+**CONFIRMED (WebSearch, multiple sources incl. CNBC/Yahoo Finance):** S&P 500 Jul 20 close = **7,443.28 (−0.19%)**
+
+- Jul 20 S&P: 7,443.28 (−0.19%) | Dow: 51,839.26 (−0.59%) | Nasdaq: −0.05%
+- Headline: "Iran worries derail Nasdaq, S&P 500 despite modest chip comeback" (TheStreet)
+- The prior /eod-review "not dist" verdict STANDS: −0.19% < −0.20% distribution threshold ✅
+- **BUT:** S&P is now −1.21% BELOW 50d MA (7,443.28 vs ~7,534.75) — WORSE than Jul 17's −1.02%
+- **AND:** S&P is now −1.43% BELOW 200d MA (7,443.28 vs ~7,464.61) — the "200d recovery" noted in /eod-review was WRONG; S&P never recovered above 200d
+- Distribution count remains **7/25 UNCHANGED** ✅ (−0.19% below threshold; volume unconfirmable via Alpaca)
+
+---
+
+### 1. Overnight gap check — open positions
+
+**SKIP** — 0 open positions.
+
+---
+
+### 2. Catalyst scan — open positions
+
+**SKIP** — 0 open positions.
+
+---
+
+### 3. Catalyst scan — watchlist names
+
+#### NVDA (Bench B1 — 74/100)
+- Pre-market Jul 21: **~$202.81 close → $203.28-203.54 range** (stable; slight uptick from Jul 20)
+- Close Jul 20: ~$202.81 (rebounded from $200.53 Jul 17; testing $200 support zone)
+- Overnight news: No material catalyst. Stock stabilizing above $200; chip stocks reviving on Iran peace talk hopes.
+- Motley Fool flags MSFT earnings Jul 29 as key: "Hyperscaler AI capex = NVDA demand signal"
+- NVDA earnings Aug 26, 2026 — no blackout window this week
+- **Thesis change: NONE.** Score 74/100 UNCHANGED. Cup wk ~33 (no handle). Blocked by Correction gate + 74/100 + no handle.
+
+#### MRVL (Bench B2 — ~15-25/100)
+- Pre-market Jul 21: **$191.99-$202.08 range** (opened lower; pre-market $193.09 = −2.34% from ~$197.97)
+- No specific MRVL catalyst found overnight. Pressure from broader semi selloff.
+- KeyBanc raised PT to $400 (Jul 14) — doesn't change broken base structure or score
+- CFO selling ongoing; capital raise shelf filed Jul 9 (dilution risk active)
+- **Thesis change: NONE.** Score ~15-25/100 UNCHANGED. Broken structure; watch-only.
+
+#### ARM (Bench — 60/100 — FINAL DAY TODAY)
+- Jul 21 close: ~$263.30 (−22.7% below 20d MA; HSBC downgraded to Hold Jul 2026; KeyBanc raised to $430 OW)
+- **⚠️ TODAY IS ARM'S FINAL TRADING DAY IN OUR UNIVERSE** — exits permanently after COB today (Jul 21)
+- Earnings Jul 29 AMC confirmed (Q1 FY2027)
+- Post-earnings earliest re-entry window: Aug 5+ (5 trading days after Jul 29 earnings)
+- **ACTION: Remove ARM from bench permanently starting Wed Jul 22**
+
+---
+
+### 4. Market overnight check
+
+**Futures (Jul 21 pre-market 6:00 AM CT):**
+- **ES:** +0.5% (~+37 pts from ~7,443)
+- **NQ:** +1.3% — chip names leading
+- **Dow futures:** +0.3%
+
+**Catalyst:** Chip stocks reviving ahead of Big Tech earnings week. Iran peace talk hopes (ongoing diplomatic back-channel signals). Markets bouncing off Monday's Iran-driven dip.
+
+**Key events this week:**
+- **Tue Jul 22 AMC: GOOGL earnings** — Rev est. $116.91B (+21% YoY); EPS +26% est.; Cloud 60% growth focus. Beat → Wed rally (NOT FTD-eligible). Miss → dist day #8 risk.
+- **Tue Jul 22 AMC: TSLA earnings** — 480K deliveries (+25% YoY) already public; EPS $0.54 est.; Rev $26.4B; 7% options swing priced
+- **Wed Jul 23 AMC: INTC earnings** — EPS $0.22 est.; semiconductor sentiment read
+- **Thu Jul 24: Jun 17 dist expires** → 6/25 IF no new dist days Tue-Wed
+- **Mon Jul 28 - Tue Jul 29: FOMC** + META+MSFT+ARM earnings same day → most volatile session Q3
+
+**Expected direction today:** Mild positive open (ES +0.5%); chip names leading. Watch for reversal if Iran tensions spike or oil jumps.
+
+---
+
+### 5. Buy-zone readiness
+
+**Entry gate: ⛔ BLOCKED — Correction (7/25 dist days)**
+
+| Symbol | Price (Jul 21 pre-mkt) | Score | Pivot | Dist from Pivot | Status |
+|---|---|---|---|---|---|
+| NVDA | ~$203.28 | 74/100 | ~$237 (est. cup rim) | −14.2% | 🔴 BLOCKED (Correction + <75 + no handle + Alpaca blocked) |
+| MRVL | ~$193.09 | ~15-25/100 | broken | — | 🔴 BLOCKED (broken structure + score far below 75) |
+| ARM | ~$263.30 | 60/100 | N/A | N/A | 🔴 EXITS UNIVERSE TODAY COB |
+
+All names blocked. Market in Correction. Zero candidates ≥75.
+
+---
+
+### 6. Circuit breaker check
+
+- **Account equity:** $2,500 (HWM — no trades placed, no P&L)
+- **Daily P&L:** $0 (no positions)
+- **Weekly P&L (week Jul 20 open):** $0
+- **Daily breaker (−3%):** NOT triggered ✅
+- **Weekly breaker (−6%):** NOT triggered ✅
+- **Drawdown from HWM (−12%):** NOT triggered ✅
+- **PDT count:** 0 of 3
+
+**ALL CLEAR — no circuit breakers active**
+
+---
+
+### Actions
+
+**NONE.** Correction posture + 7/25 dist days + Alpaca Day ~147 BLOCKED + 0 candidates ≥75 + 15th consecutive week zero candidates.
+
+SH $625 hedge: QUEUED (Alpaca blocked — execute on restore as first order)
+
+### Tomorrow's critical path
+
+- **Tonight Jul 22 AMC:** GOOGL + TSLA earnings — binary catalyst. Miss = dist #8 risk Wed Jul 23.
+- **Wed Jul 23 AMC:** INTC earnings — chip sector direction
+- **Thu Jul 24:** Jun 17 dist expires → 6/25 (if clean Tue-Wed)
+- **ARM exits universe permanently starting Wed Jul 22** — remove from all bench tracking
+
+`research_source: websearch_fallback` | `Jul20_CORRECTED_7443.28_neg0.19pct` | `dist_7of25_UNCHANGED` | `SPX_below_50d_1.21pct` | `SPX_below_200d_1.43pct` | `ES_+0.5pct_NQ_+1.3pct` | `ARM_final_day_Jul21_COB` | `GOOGL_TSLA_AMC_tonight` | `NVDA_203.28_score74_unchanged` | `MRVL_193_score15-25_unchanged` | `Alpaca_Day147_BLOCKED` | `28th_consecutive_degraded` | `15th_week_zero_candidates`

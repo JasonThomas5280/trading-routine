@@ -46,8 +46,20 @@ Alpaca: Day ~144 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - **FOMC Jul 28-29:** Chair Kevin Warsh ("Prices are too high" — hawkish); rate 3.50-3.75% held since Dec 2025; 86-89% hold prob; split committee (some open to hike); Jul 29 = META+MSFT+ARM earnings also → most volatile session of Q3
 - **Key week events:** GOOGL+TSLA earnings Tue Jul 22 AMC (AI narrative read) | INTC earnings Wed Jul 23 AMC (semi sentiment) | ARM FINAL DAY Mon Jul 21 COB (exits universe permanently) | Jun 17 dist expires Thu Jul 24 → 6/25 | Jobless claims Thu Jul 24 (~214K est.)
 
+**⚠️ JUL 20 CLOSE CORRECTION (Jul 21 /pre-market):** Prior "est. ~7,504.7 (+0.63%)" was WRONG. CONFIRMED: **7,443.28 (−0.19%)** (CNBC/Yahoo Finance/multiple sources). NOT dist day ✅ (−0.19% < −0.20% threshold). S&P now −1.21% below 50d MA + −1.43% below 200d MA. Correction triggers both active. Dist count 7/25 UNCHANGED.
+
+**✅ DATA UPDATE at /pre-market Jul 21 (6:00 AM CT):**
+- **Jul 20 CONFIRMED:** 7,443.28 (−0.19%) | Dow: 51,839.26 (−0.59%) | Nasdaq: −0.05% | NOT dist day ✅
+- **Futures Jul 21:** ES +0.5% | NQ +1.3% — chip names reviving; Big Tech earnings week
+- **NVDA:** ~$203.28 (pre-mkt; stable; score 74/100 UNCHANGED; BLOCKED; cup wk ~33 no handle)
+- **MRVL:** ~$193.09 pre-mkt (−2.34%; range $191.99-$202.08; score ~15-25/100; watch-only; no catalyst)
+- **ARM:** ~$263.30 | ⚠️ **FINAL TRADING DAY TODAY (Jul 21 COB)** → Remove from bench permanently Wed Jul 22
+- **GOOGL+TSLA AMC TONIGHT:** Miss = dist #8 risk; Beat = rally (not FTD-eligible)
+- `pre-market_Jul21` | `websearch_fallback` | `Jul20_CORR_7443.28` | `ARM_FINAL_Jul21_COB` | `ES_+0.5pct` | `NQ_+1.3pct`
+
 **✅ DATA CONFIRMATIONS at /market-check Jul 20 (UPDATED):**
-- ✅ Jul 20 S&P close CONFIRMED: est. ~7,504.7 (+0.63% NOT DIST ✅) | Nasdaq +1.02% | Dow +0.23% | Source: TheStreet/Yahoo Finance
+- ⚠️ Jul 20 S&P close CORRECTED: **7,443.28 (−0.19% NOT DIST ✅)** — prior estimate ~7,504.7 (+0.63%) was WRONG
+- ✅ Jul 20 CORRECTED: S&P −1.21% below 50d MA (7,534.75) | −1.43% below 200d MA (7,464.61) — 200d "recovery" was incorrect
 - ✅ Jul 17 S&P close CONFIRMED: 7,457.69 (−1.01% DIST DAY #7; SOX entering bear market; Nasdaq −1.6%)
 - ✅ Jul 17 NVDA CONFIRMED: $200.53 (−3.52%; "defied selloff" headline was WRONG)
 - ✅ Jul 17 MRVL CONFIRMED: $188.30 (−8.71% from $222.44 Jul 16; CFO $65M sell filing)

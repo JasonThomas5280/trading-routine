@@ -4476,3 +4476,34 @@ Tomorrow (/pre-market Tue Jul 21 6:00 AM CT):
   SH: Still queued — check if Alpaca proxy unblocked first thing
 
 research_source: websearch_fallback | Alpaca: BLOCKED Day ~146
+
+---
+
+## 🌅 Pre-market 2026-07-21
+
+**Market:** 🔴 Correction (7/25 dist) | **Futures:** ES +0.5% NQ +1.3%
+**Open positions:** 0 | **Circuit breakers:** NONE
+**Overnight gaps:** None (0 positions)
+
+**⚠️ JUL 20 CLOSE CORRECTION:** Prior /eod-review est. ~7,504.7 (+0.63%) was WRONG.
+**CONFIRMED:** S&P 7,443.28 (−0.19%, NOT dist ✅). SPX −1.21% below 50d MA, −1.43% below 200d MA.
+200d "recovery" from /eod-review was incorrect — SPX never crossed back above 200d. Dist count 7/25 UNCHANGED.
+
+**Watchlist ready:** NONE (Correction gate)
+**Watchlist watching:** NONE (0 scores ≥75; 15th consecutive week)
+**Removed today:** ⚠️ ARM — FINAL TRADING DAY (exits universe permanently COB today; earnings Jul 29 AMC; re-entry window Aug 5+ post-earnings if score improves + market recovers)
+
+**Bench status:**
+- NVDA $203.28 pre-mkt | 74/100 | cup wk ~33, no handle | BLOCKED
+- MRVL $193.09 pre-mkt (−2.34%) | ~15-25/100 | broken structure | WATCH ONLY
+- ARM $263.30 | 60/100 | EXITS UNIVERSE TODAY COB — Remove from bench Wed Jul 22
+
+**Key catalyst tonight:** GOOGL + TSLA AMC
+- GOOGL: Rev $116.91B (+21% YoY) / EPS +26% est. — miss = dist #8 risk
+- TSLA: EPS $0.54 / Rev $26.4B / 480K deliveries (+25%) — 7% move priced
+- INTC Wed Jul 23 AMC — chip sector read
+
+**Thu Jul 24:** Jun 17 dist expires → 6/25 (if clean tonight + Wed)
+**FOMC Jul 28-29:** Warsh hawkish | Jul 29 = META+MSFT+ARM earnings same day
+
+**Plan:** NO ENTRIES — Correction (7/25 dist) + Alpaca Day ~147 BLOCKED + 0 candidates ≥75. SH $625 QUEUED for Alpaca restore. Monitor GOOGL/TSLA tonight for dist #8 risk.
