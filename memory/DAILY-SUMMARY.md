@@ -1,5 +1,26 @@
 
 ---
+## 2026-07-21 10:00 CT [market-check — 🔴 CORRECTION — S&P ~7,496 +0.71% NOT DIST — 7/25 UNCHANGED — ARM FINAL COB — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-07-21 10:00 CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+✅ Jul 21 intraday (10:00 AM CT / 11:00 AM ET): S&P ~7,496 (+0.71%) | Nasdaq +1.0% (chip names leading) | NOT a dist day
+✅ Jul 20 CONFIRMED: 7,443.28 (−0.19% NOT DIST ✅) — dist count 7/25 UNCHANGED
+Actions taken:
+  No new entries — Correction gate (7/25 dist; S&P below 50d+200d MA; no candidates ≥75)
+  Abort gate: FIRED (Correction + Alpaca Day ~148 BLOCKED + 0 primary candidates)
+  sell-rules-engine: SKIPPED (0 open positions)
+  ARM: ⚠️ FINAL TRADING DAY TODAY (COB Jul 21) → EXITS UNIVERSE PERMANENTLY → Remove from bench Wed Jul 22
+Watchlist status: 0 ready, 2 watching (NVDA 74/100, MRVL ~15-25/100), ARM exits after COB today
+Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%)
+Weekly trade count: 0 of 3 used
+Bench: NVDA $203.27 (+1%; stake in Nebius NBIS disclosed; cup wk ~33, no handle; 74/100 UNCHANGED; BLOCKED)
+Dist count: 7/25 UNCHANGED | Jun 17 expires Thu Jul 24 → 6/25 (if no new dist today/Wed)
+⚠️ TONIGHT: GOOGL+TSLA AMC — beat = Wed rally (NOT FTD-eligible); miss = dist day #8 risk
+Next check: /eod-review 3:15 PM CT today
+research_source: websearch_fallback | Alpaca 403 (~Day 148) | Perplexity 403 | AV 403
+
+---
 ## 2026-07-20 10:00 CT [market-check — 🔴 CORRECTION — ✅ JUL 20 est. +0.63% NOT DIST — 7/25 UNCHANGED — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-07-20 10:00 CT

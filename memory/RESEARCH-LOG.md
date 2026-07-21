@@ -15604,3 +15604,61 @@ SH $625 hedge: QUEUED (Alpaca blocked — execute on restore as first order)
 - **ARM exits universe permanently starting Wed Jul 22** — remove from all bench tracking
 
 `research_source: websearch_fallback` | `Jul20_CORRECTED_7443.28_neg0.19pct` | `dist_7of25_UNCHANGED` | `SPX_below_50d_1.21pct` | `SPX_below_200d_1.43pct` | `ES_+0.5pct_NQ_+1.3pct` | `ARM_final_day_Jul21_COB` | `GOOGL_TSLA_AMC_tonight` | `NVDA_203.28_score74_unchanged` | `MRVL_193_score15-25_unchanged` | `Alpaca_Day147_BLOCKED` | `28th_consecutive_degraded` | `15th_week_zero_candidates`
+
+---
+
+## 2026-07-21 (Tue) — /market-check (10:00 AM CT) — 🔴 CORRECTION 7/25 UNCHANGED — S&P ~+0.71% NOT DIST — ARM EXITS COB — GOOGL+TSLA AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~148; Perplexity: 403; AV: 403 — 28th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days UNCHANGED** | Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 20):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Abort gate result
+
+**FIRED — Correction (7/25 dist days).** No new entries. Alpaca also blocked (Day ~148). Zero primary candidates ≥75/100.
+
+### Intraday market (11:00 AM ET / 10:00 AM CT)
+
+- **S&P 500:** ~7,496 (+0.71% from 7,443.28 Jul 20 close) | NOT a dist day ✅
+- **Nasdaq:** +1.0% — chip stocks leading (ARM rebound; Iran geopolitical tension easing)
+- **Driver:** Global chip stock rebound; Alphabet earnings anticipation; Iran diplomatic back-channel signals
+- **Dist day verdict:** NO — advancing market on chip revival, not a selling session
+
+### Bench updates (intraday)
+
+- **NVDA:** $203.27 (+~1%) | NVDA disclosed minority stake in neocloud Nebius Group (NBIS) — small positive; not score-moving | Score 74/100 UNCHANGED | Cup wk ~33, no handle | BLOCKED
+- **ARM:** ~$277.01 intraday est. (bouncing off recent lows) | ⚠️ **COB TODAY = EXITS UNIVERSE PERMANENTLY** | Remove from bench starting Wed Jul 22 | Earnings Jul 29 AMC; re-entry window opens ~Aug 5 at earliest (score must improve + market must be Uptrend)
+- **MRVL:** Watch-only ~15-25/100; no new catalyst
+
+### Watchlist trigger scan
+
+- **Primary candidates:** NONE (0 names ≥75/100 — 15th consecutive week with zero qualifying setups)
+- **Trigger evaluation:** SKIPPED (no primary candidates to evaluate)
+
+### Open position health check (sell-rules-engine)
+
+- **SKIPPED** — 0 open positions | `batch_evaluated: 0`
+
+### Bench promotion/demotion
+
+- **NVDA:** 74/100, no handle, no pivot → STAYS on bench; no promotion
+- **MRVL:** ~15-25/100 broken structure → STAYS watch-only
+- **ARM:** ⚠️ **EXITS universe permanently after COB today (Jul 21)** → REMOVE from bench Wed Jul 22
+
+### Circuit breakers
+
+- **Daily P&L:** $0 | **Weekly P&L:** $0 | **Equity:** $2,500 (HWM)
+- Daily −3%: CLEAR | Weekly −6%: CLEAR | Drawdown −12% from HWM: CLEAR | PDT: 0/3
+
+### Actions
+
+**NONE.** Correction gate fired. Alpaca blocked. 0 positions. 0 candidates.
+
+### Tonight / next 48 hrs
+
+- **GOOGL + TSLA AMC tonight (Jul 22):** Binary catalyst. Beat = Wed relief rally (NOT FTD-eligible without prior Day 1). Miss = potential dist day #8 Wed Jul 23 — would restart 7/25 even after Jun 17 expiry.
+- **Wed Jul 23 AMC: INTC earnings** — chip sector sentiment read
+- **Thu Jul 24: Jun 17 dist expires** → 6/25 (if GOOGL+TSLA don't cause dist Wed)
+- **ARM removal:** Execute Wed Jul 22 — remove from all bench/watchlist references permanently
+
+`research_source: websearch_fallback` | `Jul21_intraday_SPX_7496_+0.71pct` | `NOT_dist_day` | `NVDA_203.27_Nebius_stake` | `ARM_exits_universe_COB_Jul21` | `dist_7of25_UNCHANGED` | `Alpaca_Day148_BLOCKED` | `GOOGL_TSLA_AMC_tonight` | `15th_week_zero_candidates`

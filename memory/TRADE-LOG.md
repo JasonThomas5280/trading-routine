@@ -46,7 +46,7 @@ For SELL entries, additionally log:
 |---|---|---|---|---|---|---|---|---|
 | — | — | — | — | — | — | — | — | — |
 
-*(Updated 2026-07-21 /pre-market — 0 open positions | ⚠️ JUL 20 CORRECTED: 7,443.28 (−0.19% NOT DIST ✅) — prior est. ~7,504.7 (+0.63%) WRONG | SPX −1.21% below 50d MA | SPX −1.43% below 200d MA (200d "recovery" incorrect) | DIST COUNT 7/25 UNCHANGED | ARM FINAL DAY TODAY (Jul 21 COB) | GOOGL+TSLA AMC tonight (dist #8 risk on miss) | P&L: $0 | Equity: $2,500 HWM | circuit breakers: ALL CLEAR | SH $625 QUEUED | Week Jul 20: 0/3 | FOMC Jul 28-29 | `research_source: websearch_fallback` | Alpaca Day ~147 BLOCKED)*
+*(Updated 2026-07-21 /market-check 10:00 AM CT — 0 open positions | ✅ JUL 21 INTRADAY: S&P ~7,496 (+0.71% NOT DIST ✅) | ✅ JUL 20 CONF: 7,443.28 (−0.19% NOT DIST ✅) | SPX −1.21% below 50d MA | SPX −1.43% below 200d MA | DIST COUNT 7/25 UNCHANGED | ⚠️ ARM EXITS UNIVERSE COB TODAY (Jul 21) — remove bench Wed Jul 22 | GOOGL+TSLA AMC TONIGHT (dist #8 risk on miss) | NVDA $203.27 Nebius stake | P&L: $0 | Equity: $2,500 HWM | circuit breakers: ALL CLEAR | SH $625 QUEUED | Week Jul 20: 0/3 | FOMC Jul 28-29 | `research_source: websearch_fallback` | Alpaca Day ~148 BLOCKED)*
 
 ---
 

@@ -57,6 +57,16 @@ Alpaca: Day ~144 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - **GOOGL+TSLA AMC TONIGHT:** Miss = dist #8 risk; Beat = rally (not FTD-eligible)
 - `pre-market_Jul21` | `websearch_fallback` | `Jul20_CORR_7443.28` | `ARM_FINAL_Jul21_COB` | `ES_+0.5pct` | `NQ_+1.3pct`
 
+**✅ DATA UPDATE at /market-check Jul 21 (10:00 AM CT):**
+- **Jul 21 intraday (11:00 AM ET):** S&P ~7,496 (+0.71%) | Nasdaq +1.0% chip-led | NOT a dist day ✅
+- **NVDA:** $203.27 (+~1%) | NVDA disclosed stake in neocloud Nebius (NBIS) | Score 74/100 UNCHANGED | BLOCKED
+- **ARM:** $277.01 intraday (est.) | ⚠️ **COB TODAY = EXITS UNIVERSE PERMANENTLY** | Remove from bench Wed Jul 22
+- **MRVL:** Watch-only; no new catalyst; ~15-25/100 UNCHANGED
+- **Abort gate: FIRED** — Correction 7/25 + Alpaca Day ~148 BLOCKED + 0 candidates ≥75 → 0 trades
+- **Dist count: 7/25 UNCHANGED** | Jun 17 expires Thu Jul 24 → 6/25 (if GOOGL+TSLA don't cause dist tomorrow)
+- **GOOGL+TSLA AMC TONIGHT:** key binary catalyst; miss on GOOGL = dist #8 risk Wed Jul 23
+- `market-check_Jul21` | `websearch_fallback` | `Jul21_intraday_+0.71pct` | `NVDA_203.27_Nebius_stake` | `ARM_EXITS_COB_TODAY` | `dist_7of25_UNCHANGED`
+
 **✅ DATA CONFIRMATIONS at /market-check Jul 20 (UPDATED):**
 - ⚠️ Jul 20 S&P close CORRECTED: **7,443.28 (−0.19% NOT DIST ✅)** — prior estimate ~7,504.7 (+0.63%) was WRONG
 - ✅ Jul 20 CORRECTED: S&P −1.21% below 50d MA (7,534.75) | −1.43% below 200d MA (7,464.61) — 200d "recovery" was incorrect
