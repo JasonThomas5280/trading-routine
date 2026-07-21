@@ -3154,3 +3154,38 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 - **FOMC Jul 28-29 + META+MSFT+ARM Jul 29 AMC** — most volatile session Q3
 - **Actions: NONE** — Correction 7/25 + Alpaca Day ~147 BLOCKED + 0 candidates ≥75
 - `ES_+0.5pct` | `NQ_+1.3pct` | `Jul20_CONF_7443.28_NOT_DIST` | `SPX_below_50d_1.21pct` | `SPX_below_200d_1.43pct` | `ARM_final_day_Jul21_COB` | `GOOGL_TSLA_AMC_tonight` | `dist_7of25_unchanged`
+
+**✅ JUL 21 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P +0.89% 7,509.18 NOT DIST ✅ — NASDAQ +1.29% — DIST 7/25 UNCHANGED — S&P STILL −0.34% BELOW 50d MA — ARM EXITS UNIVERSE COB — GOOGL+TSLA AMC TOMORROW — ALPACA DAY ~149 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~149 BLOCKED | Perplexity 403 | AV 403 (29th consecutive degraded session)
+- **S&P 500 Jul 21 CLOSE (confirmed via TheStreet/ts2.tech/Yahoo Finance):**
+  - Close: **7,509.18** (+0.89% / +65.90 pts from 7,443.28) | SPY $742.09
+  - Dist day verdict: **NOT a distribution day ✅** (index UP +0.89% — no distribution possible on up days)
+  - 50d MA: **~7,534.75** | S&P now **−0.34% below 50d MA** (improvement from −1.21% yesterday but still below → Correction trigger still ACTIVE)
+  - 200d MA: **~7,464.61** | S&P now **+0.59% above 200d MA** (200d recovered again)
+  - Sources: TheStreet "Stock Market Today Jul 21 2026"; ts2.tech "SPY ends session at $742.09"; Yahoo Finance Jul 21
+- **Nasdaq Composite Jul 21 CLOSE:** **25,837.21** (+1.29%) — chip-led rally; strongest of three major indexes
+- **QQQ Jul 21 CLOSE:** ~$696.06
+- **Dow Jones Jul 21 CLOSE:** 52,224.64 (+0.74%)
+- **Distribution day accounting:**
+  - **Our internal count: 7/25 UNCHANGED** (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+  - Jul 21 = NOT dist ✅ (UP day)
+  - **Jun 17 expires Thu Jul 24** → 6/25 (if GOOGL+TSLA don't cause dist day on Jul 22 close)
+  - Even at 6/25, two correction triggers remain: (1) ≥6 dist days per TRADING-STRATEGY.md AND (2) S&P below 50d MA — Correction unchanged
+- **Rally attempt status:**
+  - FTD CLOSED — no new Day 1 established (index went UP today; need intraday undercut of 7,266.99 to establish new Day 1)
+  - Today's +0.89% bounce from Jul 20 low (7,443.28) does NOT constitute Day 1 per our rules (needs to close below prior correction low first)
+  - Earliest Confirmed Uptrend (clean path): ~Aug 17-21 if no new dist days from here
+- **Today's session drivers:**
+  - Chipmakers revival; GOOGL/TSLA earnings anticipation (AMC tomorrow Jul 22)
+  - 3M Q2 beat (+7%+ surge) | GM Q2 beat (+5%) | 88% of ~66 S&P500 reporters beating bottom-line estimates (FactSet)
+  - Volume: Broadly risk-on with active chip participation; exact vol comparison vs Jul 20 unavailable
+- **ARM exits universe:** ✅ COB TODAY (Jul 21) — ARM exits universe permanently; remove from bench Wed Jul 22 as scheduled
+- **GOOGL / TSLA earnings (AMC TOMORROW Jul 22):** Note — prior /market-check note said "AMC tonight" but these report AFTER Jul 22 close (Wednesday). Miss = potential dist day #8 on Jul 23 close.
+- **INTC AMC Jul 23** — semiconductor sector read
+- **Jun 17 expires Thu Jul 24** → 6/25 if no new dist days Wed Jul 22 / Thu (still in Correction per ≥6 rule + 50d breach)
+- **FOMC Jul 28-29 + META+MSFT+ARM Jul 29 AMC** — highest volatility session Q3; no entries around it
+- **Sell-rules-engine:** SKIPPED (0 open positions)
+- **SH $625 hedge:** STILL QUEUED (Alpaca proxy blocked; execute first trade on restore)
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Weekly trades: 0/3
+- **Actions: NONE** — Correction 7/25 + Alpaca Day ~149 BLOCKED + 0 positions + 0 candidates ≥75 — **21st consecutive /eod-review with zero actions**
+- `research_source: websearch_fallback` | `SPX_Jul21_CLOSE_7509.18_+0.89pct` | `SPX_NOT_DIST_Jul21` | `dist_7of25_UNCHANGED` | `SPX_below_50d_0.34pct` | `SPX_above_200d_RECOVERED_0.59pct` | `Nasdaq_25837_+1.29pct` | `QQQ_696.06` | `ARM_exits_universe_CONFIRMED_Jul21_COB` | `GOOGL_TSLA_AMC_Jul22_tomorrow` | `SH_625_QUEUED` | `Alpaca_Day149_BLOCKED` | `21st_consecutive_eod_zero_actions`

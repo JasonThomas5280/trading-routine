@@ -15662,3 +15662,82 @@ SH $625 hedge: QUEUED (Alpaca blocked — execute on restore as first order)
 - **ARM removal:** Execute Wed Jul 22 — remove from all bench/watchlist references permanently
 
 `research_source: websearch_fallback` | `Jul21_intraday_SPX_7496_+0.71pct` | `NOT_dist_day` | `NVDA_203.27_Nebius_stake` | `ARM_exits_universe_COB_Jul21` | `dist_7of25_UNCHANGED` | `Alpaca_Day148_BLOCKED` | `GOOGL_TSLA_AMC_tonight` | `15th_week_zero_candidates`
+
+---
+
+## 2026-07-21 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P +0.89% 7,509.18 NOT DIST ✅ — DIST 7/25 UNCHANGED — S&P −0.34% BELOW 50d MA — ARM EXITS UNIVERSE — GOOGL+TSLA AMC TOMORROW — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~149; Perplexity: 403; AV: 403 — 29th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days UNCHANGED** | Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 20):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Close: SPY $742.09 (S&P 7,509.18) | QQQ ~$696.06 (Nasdaq 25,837.21)
+
+- **S&P 500 close:** 7,509.18 (+0.89% / +65.90 pts) | SPY $742.09 — chip-led rally; 3M+GM beat; Big Tech earnings anticipation
+- **Nasdaq close:** 25,837.21 (+1.29%) | QQQ ~$696.06 — strongest of three indexes
+- **Dow close:** 52,224.64 (+0.74%)
+- **Sources:** TheStreet "Stock Market Today Jul 21 2026"; ts2.tech "SPY ends $742.09"; Yahoo Finance Jul 21; Benzinga Jul 21
+
+### Distribution day assessment
+
+- **S&P 500 Jul 21:** +0.89% → **NOT a distribution day ✅** (up days cannot be distribution days)
+- **Nasdaq Jul 21:** +1.29% → **NOT a distribution day ✅**
+- **Distribution count: 7/25 UNCHANGED** (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+- **No state transition today** — Correction both triggers still active:
+  - Trigger 1: 7/25 dist days (≥6 threshold) ✅ active
+  - Trigger 2: S&P 7,509.18 vs 50d MA ~7,534.75 = **−0.34% below 50d MA** ✅ active (improvement from −1.21% but still below)
+
+### Market direction update
+
+- **State: 🔴 Market in Correction UNCHANGED**
+- **50d MA:** ~7,534.75 | S&P −0.34% below (closed gap but still below)
+- **200d MA:** ~7,464.61 | S&P +0.59% above (200d recovered)
+- **FTD status:** CLOSED — no Day 1 established (up day from Jul 20 low does NOT qualify — need new intraday low below 7,266.99 to start new rally attempt)
+- **Jun 17 dist expires Thu Jul 24** → 6/25 if GOOGL/TSLA (AMC Jul 22) don't cause dist day Wed
+
+### Sell-rules-engine
+
+- **SKIPPED** — 0 open positions | `batch_evaluated: 0`
+
+### Circuit breakers
+
+- **Daily P&L:** $0 (0 positions, 0 trades) → CLEAR (daily −3% threshold not triggered)
+- **Weekly P&L:** $0 → CLEAR (weekly −6% threshold not triggered)
+- **Drawdown from HWM:** $0 / 0% → CLEAR (−12% threshold not triggered)
+- **PDT count:** 0/3 → CLEAR
+
+### Benchmark name updates
+
+- **NVDA:** $203.27 (from /market-check intraday; final close est. ~$204-207 on +1% chip day) | Score 74/100 UNCHANGED | Cup wk ~33, no handle, pivot undefined | BLOCKED (Correction + score effective <75 + Alpaca blocked)
+- **MRVL:** Watch-only | Score ~15-25/100 | Not tracking; 8+ wk rebuild path
+- **ARM:** ⚠️ **CONFIRMED EXIT — universe departure effective COB Jul 21** | Remove from bench Wed Jul 22 permanently | Note: if market recovers and ARM scores ≥75 post-earnings (Jul 29 AMC), re-evaluate for re-entry at that time
+
+### Key forward-looking items
+
+- **Tomorrow (Jul 22 AMC): GOOGL + TSLA earnings** — major binary catalyst; beat = Wed rally (NOT FTD-eligible); miss = potential dist day #8 on Wed close (Jul 22 index close)
+- **Wed Jul 23 AMC: INTC earnings** — chip sector sentiment
+- **Thu Jul 24: Jun 17 dist expires** → 6/25 (still Correction per ≥6 rule)
+- **Mon Jul 28 - Tue Jul 29: FOMC** (Warsh; hold expected 86-89%); Jul 29 = META+MSFT+ARM same day — most volatile Q3 session
+- **SH $625 hedge:** Still queued — execute first tradeable session when Alpaca unblocks
+
+### Actions
+
+**NONE.** Correction gate. Alpaca blocked. 0 positions. 0 candidates.
+
+### /eod-review structured summary
+
+```
+## 2026-07-21 — /eod-review
+
+Close:     SPY $742.09 (S&P 7,509.18 +0.89%) | QQQ $696.06 (Nasdaq 25,837.21 +1.29%)
+Dist days: 7/25 UNCHANGED (today: NOT dist ✅) | Jun 17 expires Thu Jul 24 → 6/25
+50d MA:    S&P −0.34% below ~7,534.75 (Correction trigger active)
+Market:    🔴 Correction UNCHANGED (21st consecutive EOD zero actions)
+Positions: 0 held
+Actions:   NONE
+Breakers:  ALL CLEAR
+P&L today: $0.00 (0%)
+Equity:    $2,500.00 HWM
+```
+
+`research_source: websearch_fallback` | `SPX_Jul21_CLOSE_7509.18_+0.89pct` | `NOT_dist_Jul21` | `dist_7of25_UNCHANGED` | `SPX_below_50d_0.34pct` | `Nasdaq_25837_+1.29pct` | `QQQ_696.06` | `ARM_exit_CONFIRMED_Jul21` | `GOOGL_TSLA_AMC_Jul22` | `Alpaca_Day149_BLOCKED` | `29th_consecutive_degraded` | `21st_eod_zero_actions`

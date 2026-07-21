@@ -4528,3 +4528,16 @@ research_source: websearch_fallback | Alpaca: BLOCKED Day ~146
 **FOMC Jul 28-29:** Warsh hawkish | Jul 29 = META+MSFT+ARM earnings same day
 
 **Plan:** NO ENTRIES — Correction (7/25 dist) + Alpaca Day ~147 BLOCKED + 0 candidates ≥75. SH $625 QUEUED for Alpaca restore. Monitor GOOGL/TSLA tonight for dist #8 risk.
+
+---
+## 2026-07-21 20:22 CT [clickup-placeholder]
+
+📊 EOD 2026-07-21 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 7/25 (market: 🔴 Correction)
+Close: SPY $742.09 (+0.89%) | QQQ $696.06 (+1.29%) — chip-led rally
+NOT a distribution day ✅ — dist count UNCHANGED
+S&P 7,509.18 vs 50d MA ~7,534.75 = −0.34% below → Correction still active
+Actions today: NONE (Correction gate + Alpaca Day ~149 blocked)
+ARM exits universe CONFIRMED (COB today Jul 21)
+Tomorrow watch: GOOGL+TSLA AMC Jul 22 (dist #8 risk on miss) | INTC AMC Jul 23 | Jun 17 dist expires Thu Jul 24 → 6/25 (still Correction)
