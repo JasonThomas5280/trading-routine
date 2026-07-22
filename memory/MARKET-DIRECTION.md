@@ -6,7 +6,24 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 22 /pre-market 6:00 AM CT — ✅ JUL 21 CONF: S&P 7,509.18 (+0.89% NOT DIST ✅) | SPY $742.09 | Nasdaq 25,837.21 (+1.29%) | S&P −0.34% below 50d MA (~7,534.75) | +0.59% above 200d MA — DIST COUNT 7/25 UNCHANGED — ✅ ARM EXITED UNIVERSE JUL 21 COB CONFIRMED — 🔴 JUL 22 FUTURES: ES −0.3% NQ −0.7% (Iran 11th strike night, oil $92, tariff concerns) — ⚠️ DIST #8 RISK TODAY (ES DOWN OPEN) — GOOGL+TSLA AMC TONIGHT — INTC AMC TOMORROW JUL 23 — JUN 17 DIST EXPIRES TOMORROW JUL 24 → 6/25 IF NO NEW DIST TODAY — ALPACA DAY ~150 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — FOMC JUL 28-29)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 22 /market-check 10:00 AM CT — S&P ~7,509 NEAR FLAT (reversed off −0.30% open) | DIST #8 NOT TRIGGERED as of 10 AM CT (threshold 7,494.15) | DIST RISK LOW-MOD (monitor close) | NVDA ~$205.39 | GOOGL ~$347 + TSLA ~$390 pre-earnings AMC tonight | WTI $86-87 Brent $92-95 (Iran 11th strike Rubio "not serious") | JUN 17 DIST EXPIRES TOMORROW JUL 24 → 6/25 IF NO NEW DIST TODAY | ALPACA DAY ~151 BLOCKED | 0 POSITIONS | 0 ACTIONS | ABORT: CORRECTION + ALPACA BLOCKED | FOMC JUL 28-29)*
+
+**✅ JUL 22 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P NEAR FLAT, REVERSED OFF -0.30% OPEN — DIST #8 NOT TRIGGERED AS OF 10 AM — GOOGL+TSLA AMC TONIGHT — ALPACA DAY ~151 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~151 BLOCKED | Perplexity 403 | AV 403 | 28th consecutive degraded session
+- **Abort gates FIRED:** (1) Correction (7/25 dist days) — no new longs; (2) Alpaca BLOCKED (403) — no order execution. Both gates remain active. Zero actions taken.
+- **S&P 500 intraday (11:00 AM ET / 10:00 AM CT):** ~7,509 (near flat) | Reversed off −0.30% ES open | Dow +0.3% | Nasdaq −0.3% (tech lagging on oil/inflation fear) | Pre-market bear open was absorbed by buyers ahead of GOOGL/TSLA earnings
+- **Distribution day #8 status as of 10 AM CT: NOT TRIGGERED** — threshold 7,494.15; S&P currently ~7,509 (+0 from prior close). Low dist risk as of this hour. Dist #8 requires S&P close ≤7,494.15 on elevated volume. Monitor at /eod-review 3:15 PM CT.
+- **Distribution count: 7/25 UNCHANGED** (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+- **Jun 17 expires TOMORROW Thu Jul 24 → 6/25 IF no new dist today (Jul 22) or tomorrow AM**
+- **NVDA intraday:** ~$205.39 (range $204.50-$207.29) — consolidating; Score **74/100 UNCHANGED** | Deutsche Bank PT raised to $220 | AMD competitive watch: AMD full-stack AI system launched Jul 20 with MSFT+Meta as launch partners (N-letter headwind to watch at next re-score)
+- **GOOGL (pre-earnings, reports AMC tonight Jul 22):** ~$347 | EPS est $2.88 (+25.1% YoY — right at CAN SLIM C-letter threshold) | Rev est $117.01B (+21.3% YoY) | Options ±5.4% implied move (~$18.75) | AI capex ROI is the key watch — beat with strong Cloud/AI → rally tomorrow; miss → dist #8 risk
+- **TSLA (pre-earnings, reports AMC tonight Jul 22):** ~$390 | EPS est $0.54 | Rev est $26.4B | 480K Q2 deliveries already known/priced | Automotive gross margin + Cybercab timeline = the trade. Options ±6.4–7.6% implied
+- **IBM:** also reports AMC tonight (less market-moving; monitoring only)
+- **INTC:** reports AMC tomorrow (Jul 23) — semi sector sentiment
+- **Oil/Iran:** WTI ~$86-87 (+2.3%) | Brent ~$92-95 — US 11th consecutive night of strikes on Iranian military | Rubio: Iran "not serious" about talks; Hormuz freedom key condition | Stagflation noise ahead of FOMC Jul 28-29 (Warsh hawkish; 3.50-3.75% held) | Oil above $90 = inflation re-accel concern
+- **FTD status:** CLOSED — requires new Day 1 below 7,266.99 (~243 pts below current ~7,509). Today's near-flat action is NOT a Day 1 setup.
+- **Actions: NONE** (Correction posture + Alpaca blocked + 0 positions + 0 candidates ≥75 — 15th consecutive week)
+- `market-check_Jul22` | `websearch_fallback` | `Jul22_intraday_nearflat` | `NVDA_205.39` | `GOOGL_347_preearnings` | `TSLA_390_preearnings` | `WTI_87_Brent_95_Iran11th` | `dist_8_NOT_triggered_10am` | `dist_7of25_UNCHANGED` | `Jun17_expires_Jul24`
 
 **✅ JUL 22 /pre-market (6:00 AM CT — 🔴 CORRECTION — ES −0.30% NQ −0.70% — IRAN 11TH STRIKE NIGHT / OIL $87.56 WTI / $94.20 BRENT — GOOGL+TSLA AMC TONIGHT — DIST #8 RISK TODAY — ALPACA DAY ~150 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~150 BLOCKED | Perplexity 403 | AV 403 | 27th consecutive degraded session

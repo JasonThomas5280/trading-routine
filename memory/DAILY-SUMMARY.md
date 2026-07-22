@@ -1,5 +1,37 @@
 
 ---
+## 2026-07-22 10:00 CT [market-check — 🔴 CORRECTION — S&P ~7,509 NEAR FLAT (reversed off −0.30% open) — DIST #8 NOT TRIGGERED 10AM — GOOGL+TSLA AMC TONIGHT — 7/25 UNCHANGED — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-07-22 10:00 CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+✅ Jul 22 intraday (10:00 AM CT / 11:00 AM ET): S&P ~7,509 (near flat) | Dow +0.3% | Nasdaq −0.3% | Reversed off −0.30% ES open — buyers absorbed the sell; earnings anticipation (GOOGL/TSLA AMC) providing the bid
+✅ Jul 21 CONFIRMED: S&P 7,509.18 (+0.89% NOT DIST ✅) | SPY $742.09 | Nasdaq 25,837.21 (+1.29%) | Dist count 7/25 UNCHANGED
+Abort gates FIRED:
+  (1) Correction (7/25 dist days; S&P −0.34% below 50d MA) — no new longs
+  (2) Alpaca Day ~151 BLOCKED (403 proxy) — no order execution
+Actions taken:
+  No new entries — CORRECTION gate (7/25 dist + Alpaca blocked + 0 candidates ≥75 — 15th consecutive week)
+  sell-rules-engine: SKIPPED (0 open positions)
+  SH $625 hedge: QUEUED (unchanged — Alpaca still blocked; executes as FIRST order on Alpaca restore)
+Distribution day #8 status: NOT TRIGGERED as of 10 AM CT | Threshold: 7,494.15 | S&P ~7,509 (+0) | Dist risk: LOW-MOD | Monitor at /eod-review close
+Dist count: 7/25 UNCHANGED (Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+Jun 17 dist expires TOMORROW Thu Jul 24 → 6/25 IF no new dist today (Jul 22) or Thu AM
+Watchlist: 0 primary (entry gate: Correction), 2 bench (NVDA 74/100, MRVL ~15-25/100)
+Bench — NVDA: ~$205.39 (range $204.50-$207.29) | 74/100 UNCHANGED | Cup wk ~33 no handle | Deutsche Bank PT $220 | AMD competitive watch (full-stack AI system + MSFT+Meta Jul 20)
+Bench — MRVL: watch-only (~15-25/100) | broken structure | 8+ wk rebuild
+Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%)
+Weekly trade count: 0 of 3 used
+Macro/catalysts:
+  GOOGL AMC tonight: EPS est $2.88 (+25.1% YoY), Rev est $117B (+21.3%) | ±5.4% implied move | beat+AI ROI = Wed rally (NOT FTD-eligible); miss = dist #8 risk
+  TSLA AMC tonight: EPS est $0.54, Rev est $26.4B | ±6.4% implied | 480K deliveries priced in; margins + Cybercab = key
+  INTC AMC tomorrow (Jul 23): semi sector sentiment
+  FOMC Jul 28-29: Warsh hawkish; 86-89% hold; split committee
+  Oil: WTI ~$87 Brent ~$93-95 | Iran 11th consecutive night of strikes | Rubio "not serious" | stagflation noise pre-FOMC
+FTD status: CLOSED | New Day 1 requires S&P below 7,266.99 (~243 pts away) | Earliest uptrend ~Aug 17-21
+Next check: /eod-review 3:15 PM CT today (will confirm dist #8 status + GOOGL/TSLA post-close impact noted for tomorrow)
+research_source: websearch_fallback | Alpaca 403 (~Day 151) | Perplexity 403 | AV 403
+
+---
 ## 2026-07-21 10:00 CT [market-check — 🔴 CORRECTION — S&P ~7,496 +0.71% NOT DIST — 7/25 UNCHANGED — ARM FINAL COB — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-07-21 10:00 CT
@@ -4559,3 +4591,18 @@ Key catalysts TODAY:
   FOMC Jul 28-29 (Warsh hawkish; oil spike adds rate-hold cover)
 NVDA: 05.53 pre-mkt (-0.85%) | 74/100 | Cup wk ~33 no handle | BLOCKED
 Plan: No entries — Correction (7/25) + Alpaca Day ~150 BLOCKED + 0 candidates >=75 (16th wk). SH 25 queued. Monitor S&P close vs. 7,494.15 at /eod-review.
+
+---
+## 2026-07-22 15:17 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-22 10:00 CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+Jul 22 intraday: S&P ~7,509 near flat; reversed off -0.30% open. Dow +0.3%, Nasdaq -0.3%.
+Abort gates: CORRECTION (7/25) + Alpaca Day 151 BLOCKED. No trades.
+Dist #8: NOT triggered as of 10 AM CT (threshold 7,494.15). Monitor close.
+Dist: 7/25 UNCHANGED. Jun 17 expires Thu Jul 24 -> 6/25 if no new dist today.
+Bench: NVDA ~205.39 (74/100 UNCHANGED, no handle, cup wk 33). MRVL watch-only.
+TONIGHT: GOOGL AMC EPS est 2.88 +25% YoY; TSLA AMC EPS est 0.54. Miss risk = dist 8.
+Oil: WTI 87 Brent 93-95, Iran 11th strike night, Rubio not serious.
+SH 625 hedge QUEUED (Alpaca blocked). Open: 0 pos. Cash: 2500 100%.
+Next: /eod-review 3:15 PM CT
