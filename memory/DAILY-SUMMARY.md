@@ -4606,3 +4606,17 @@ TONIGHT: GOOGL AMC EPS est 2.88 +25% YoY; TSLA AMC EPS est 0.54. Miss risk = dis
 Oil: WTI 87 Brent 93-95, Iran 11th strike night, Rubio not serious.
 SH 625 hedge QUEUED (Alpaca blocked). Open: 0 pos. Cash: 2500 100%.
 Next: /eod-review 3:15 PM CT
+
+---
+## 2026-07-22 20:24 CT [clickup-placeholder]
+
+📊 EOD 2026-07-22 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions | 100% cash
+Dist days: 7/25 UNCHANGED (today: NOT dist ✅ — S&P est. ~7,508 vs threshold 7,494.15)
+Market: 🔴 Correction UNCHANGED | 50d MA: −0.35% below (~7,534.75) | 200d: +0.58% above
+Actions today: NONE (Correction + Alpaca Day ~152 BLOCKED + 0 positions + 0 candidates ≥75 — 22nd consecutive EOD zero actions)
+Bench: NVDA ~+3% (~$213 est.) chip bounce; score 74/100 UNCHANGED (no handle; BLOCKED)
+Pending: GOOGL+TSLA AMC tonight (not yet reported at 3:15 CT) | INTC AMC tomorrow Jul 23
+⚠️ KEY TOMORROW (Thu Jul 24): Jun 17 dist EXPIRES → 6/25 IF no new dist today ✅ + tomorrow | Jobless claims
+FOMC Jul 28-29 (Warsh hawkish) | SH $625 hedge QUEUED (Alpaca BLOCKED)
+Tomorrow watch: INTC AMC (semi sentiment) | GOOGL/TSLA after-hours read | dist expiry

@@ -15822,3 +15822,73 @@ Equity:    $2,500.00 HWM
 - sell-rules-engine: SKIP (0 positions)
 
 `research_source: websearch_fallback` | `Alpaca_Day150_BLOCKED` | `Perplexity_403` | `AV_403` | `ES_-0.3pct` | `NQ_-0.7pct` | `Iran_11th_strike_Rubio_not_serious` | `Brent_94.20_WTI_87.56` | `AMD_competitive_flag_NVDA` | `NVDA_205.53` | `ARM_removed_permanently` | `GOOGL_AMC_2.89_est` | `TSLA_AMC_0.53_est` | `dist8_threshold_7494.15` | `dist_risk_MODERATE-HIGH` | `Jun17_expires_Thu_Jul24` | `16th_consecutive_week_zero_candidates`
+
+---
+
+## 2026-07-22 (Wed) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P ~7,508 FLAT NOT DIST ✅ — NVDA +3% CHIP BOUNCE — GOOGL+TSLA AMC NOT YET REPORTED — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~152; Perplexity: 403; AV: 403 — 29th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+
+### /eod-review structured summary
+
+```
+## 2026-07-22 — /eod-review
+
+Close:     SPY ~$742.00 (S&P est. ~7,508 −0.01%) | QQQ ~$694 (Nasdaq est. −0.3%)
+Dist days: 7/25 UNCHANGED (today: NOT dist ✅ — threshold 7,494.15; est. close ~7,508 = +14 pts above)
+50d MA:    S&P −0.35% below ~7,534.75 (Correction trigger active)
+200d MA:   S&P +0.58% above ~7,464.61 (cushion intact)
+Market:    🔴 Correction UNCHANGED (22nd consecutive EOD zero actions)
+Positions: 0 held
+sell-rules-engine: SKIPPED (0 positions)
+Actions:   NONE
+Breakers:  ALL CLEAR | Daily: $0 (0%) | Weekly: $0 (0%) | Drawdown: $0 from HWM
+P&L today: $0.00 (0%)
+Equity:    $2,500.00 (HWM)
+```
+
+### Market close data (Jul 22, websearch_fallback)
+
+- **S&P 500 (est. close):** ~7,508 (−0.01%) | Sources: CNBC real-time 3:07 PM EDT = 7,508.26; Yahoo Finance live updates "S&P little changed"; Bloomberg "S&P fluctuates"
+- **Dow Jones (est.):** +0.3% (non-tech outperformed; oil shock shrugged off per Motley Fool headline)
+- **Nasdaq (est.):** −0.3% (megacap pressure offset chip sector bounce)
+- **NOT a distribution day ✅** — close ~7,508 vs threshold 7,494.15 (dist requires close ≤7,494.15 on elevated vol)
+- **Dist count: 7/25 UNCHANGED** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+- **⚠️ TOMORROW Thu Jul 24: Jun 17 dist EXPIRES → 6/25** (if no new dist today ✅ + no new dist tomorrow)
+
+### Bench updates (Jul 22)
+
+- **NVDA:** ~$213 est. (+~3% from $207.29 Jul 21 close) — chip sector bounce; Motley Fool "Nvidia +3%" confirmed; Score **74/100 UNCHANGED** (no handle, AMD competitive watch, cup wk ~34); **BLOCKED**: Correction + 74 + no handle + Alpaca blocked
+- **MRVL:** No new data. ~15-25/100 watch-only UNCHANGED.
+- **ARM:** ❌ REMOVED permanently (exited universe Jul 21 COB confirmed)
+
+### GOOGL/TSLA earnings watch (AMC tonight — not yet reported at 3:15 CT)
+
+- **GOOGL Q2:** EPS $2.89 est. (+25.1% YoY) | Rev $116.84B (+21.3%) | Google Cloud ~63-67% growth est. | Beat likely (7 consecutive beats; Q1 driven by Anthropic/SpaceX unrealised gains — watch Q2 quality) | Tomorrow's market reaction = key; miss = dist #8 risk Thu
+- **TSLA Q2:** EPS $0.53 est. | Rev ~$26B | 480K deliveries already known/priced | Automotive gross margin = the actual trade | Monitor pre-market tomorrow (Thu Jul 24 /pre-market)
+
+### Calendar / upcoming events
+
+- **Thu Jul 24: Jun 17 dist EXPIRES → 6/25** (if no new dist today or tomorrow) | Jobless claims (~214K est.) | INTC AMC tonight Jul 23
+- **INTC AMC tomorrow (Jul 23):** EPS $0.22 est.; semiconductor sector sentiment; miss = chip bear deepens
+- **Mon Jul 28 – Tue Jul 29: FOMC** (Warsh hawkish; 86-89% hold; Jul 29 = also META+MSFT+ARM earnings → most volatile Q3 session)
+- **~Aug 5:** ARM post-earnings re-entry window opens
+- **~Aug 26:** NVDA Q2 FY2027 earnings (no blackout; cup continues forming)
+
+### Circuit breaker check
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily −3% | −$75 | ✅ CLEAR ($0 P&L) |
+| Weekly −6% | −$150 | ✅ CLEAR ($0 P&L) |
+| Drawdown −12% HWM | −$300 | ✅ CLEAR ($0 from HWM) |
+| PDT 3 of 3 | 4th day trade | ✅ CLEAR (0 of 3) |
+
+### Actions
+
+**NONE.** Correction (7/25 dist) + Alpaca Day ~152 BLOCKED + 0 positions + 0 candidates ≥75 — 22nd consecutive EOD with zero actions.
+- SH $625 hedge: QUEUED — execute as FIRST order on Alpaca restore
+- sell-rules-engine: SKIPPED (0 positions)
+
+`research_source: websearch_fallback` | `Alpaca_Day152_BLOCKED` | `Perplexity_403` | `AV_403` | `SPX_est_7508_NOT_dist_Jul22` | `dist_7of25_UNCHANGED` | `Jun17_expires_TOMORROW_Jul24` | `NVDA_est_213_+3pct` | `GOOGL_AMC_not_yet_reported` | `TSLA_AMC_not_yet_reported` | `22nd_eod_zero_actions`

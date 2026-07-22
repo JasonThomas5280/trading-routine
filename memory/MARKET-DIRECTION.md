@@ -6,7 +6,26 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 22 /market-check 10:00 AM CT — S&P ~7,509 NEAR FLAT (reversed off −0.30% open) | DIST #8 NOT TRIGGERED as of 10 AM CT (threshold 7,494.15) | DIST RISK LOW-MOD (monitor close) | NVDA ~$205.39 | GOOGL ~$347 + TSLA ~$390 pre-earnings AMC tonight | WTI $86-87 Brent $92-95 (Iran 11th strike Rubio "not serious") | JUN 17 DIST EXPIRES TOMORROW JUL 24 → 6/25 IF NO NEW DIST TODAY | ALPACA DAY ~151 BLOCKED | 0 POSITIONS | 0 ACTIONS | ABORT: CORRECTION + ALPACA BLOCKED | FOMC JUL 28-29)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 22 /eod-review 3:15 PM CT — S&P est. ~7,508 FLAT (−0.01% from 7,509.18) | DIST #8 NOT TRIGGERED ✅ (threshold 7,494.15) | DIST COUNT 7/25 UNCHANGED | JUN 17 EXPIRES TOMORROW JUL 24 → 6/25 IF NO NEW DIST | NVDA ~+3% (~$213 est.) CHIP BOUNCE | GOOGL+TSLA AMC TONIGHT (not yet reported at 3:15 CT) | ALPACA DAY ~152 BLOCKED | 0 POSITIONS | 0 ACTIONS | FOMC JUL 28-29)*
+
+**✅ JUL 22 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P est. ~7,508 FLAT — DIST #8 NOT TRIGGERED ✅ — 7/25 UNCHANGED — JUN 17 EXPIRES TOMORROW → 6/25 — NVDA +3% CHIP BOUNCE — GOOGL+TSLA AMC NOT YET REPORTED — ALPACA DAY ~152 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~152 BLOCKED | Perplexity 403 | AV 403 | 29th consecutive degraded session
+- **S&P 500 Jul 22 close (est.):** ~7,508 (−0.012% from 7,509.18) | **NOT a distribution day ✅** (threshold was 7,494.15 = −0.20%; S&P ~14 pts above threshold) | Source: CNBC real-time ~3:07 PM EDT snapshot 7,508.26; Yahoo Finance market live updates showing "S&P little changed"
+- **SPY (est.):** ~$742.00 (flat from $742.09 Jul 21) | **QQQ (est.):** ~$694 (Nasdaq −0.3% intraday drag from megacap losses)
+- **Dow Jones (est.):** +0.3% (non-tech outperformed; shrugged off oil shock) | **Nasdaq (est.):** −0.3% (megacap losses offset chip bounce)
+- **Distribution count: 7/25 UNCHANGED ✅** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17 — NO new dist day today
+- **CRITICAL TOMORROW (Thu Jul 24): Jun 17 dist EXPIRES → 6/25** (if no new dist day today ✅ confirmed + no new dist tomorrow)
+- **50d MA (est. ~7,534.75):** S&P ~7,508 = −0.35% BELOW → Correction trigger STILL ACTIVE
+- **200d MA (est. ~7,464.61):** S&P ~7,508 = +0.58% ABOVE → 200d cushion intact
+- **NVDA Jul 22:** ~$213 est. (+~3% from $207.29 Jul 21 close) — chip sector bounce with Nasdaq rebounding from morning lows; score **74/100 UNCHANGED** (no base handle, AMD competitive watch unchanged, cup wk ~34 counting); BLOCKED
+- **GOOGL (AMC tonight — not yet reported at 3:15 PM CT):** Q2 EPS est. $2.89, Rev est. $116.84B | Results expected ~4:15-5 PM ET | Beat → Wed rally catalyst tomorrow (not FTD-eligible); miss → Dist #8 risk Thu Jul 24
+- **TSLA (AMC tonight — not yet reported at 3:15 PM CT):** Q2 EPS est. $0.53, Rev est. ~$26B | 480K deliveries record known/priced | Automotive gross margin = key watch
+- **Oil:** WTI ~$86-87 elevated (Iran 11th strike; Rubio "not serious"); Dow shrugged it off; Nasdaq felt it
+- **FTD status:** CLOSED — requires new Day 1 below 7,266.99 (~242 pts below today's est. close)
+- **Actions: NONE** (Correction 7/25 + Alpaca Day ~152 BLOCKED + 0 positions + 0 candidates ≥75 — 22nd consecutive EOD zero actions)
+- **Sell-rules-engine: SKIPPED** (0 open positions)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Daily P&L: $0 | Weekly P&L: $0
+- `eod_Jul22` | `websearch_fallback` | `SPX_est_7508_NOT_dist` | `dist_7of25_UNCHANGED` | `Jun17_expires_TOMORROW_Jul24` | `NVDA_est_213_+3pct_chip_bounce` | `GOOGL_TSLA_AMC_not_yet_reported` | `50d_MA_BELOW_active` | `Alpaca_Day152_BLOCKED` | `22nd_eod_zero_actions`
 
 **✅ JUL 22 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P NEAR FLAT, REVERSED OFF -0.30% OPEN — DIST #8 NOT TRIGGERED AS OF 10 AM — GOOGL+TSLA AMC TONIGHT — ALPACA DAY ~151 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~151 BLOCKED | Perplexity 403 | AV 403 | 28th consecutive degraded session
