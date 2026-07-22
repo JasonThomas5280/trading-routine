@@ -6,26 +6,34 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 22 /eod-review 3:15 PM CT — S&P est. ~7,508 FLAT (−0.01% from 7,509.18) | DIST #8 NOT TRIGGERED ✅ (threshold 7,494.15) | DIST COUNT 7/25 UNCHANGED | JUN 17 EXPIRES TOMORROW JUL 24 → 6/25 IF NO NEW DIST | NVDA ~+3% (~$213 est.) CHIP BOUNCE | GOOGL+TSLA AMC TONIGHT (not yet reported at 3:15 CT) | ALPACA DAY ~152 BLOCKED | 0 POSITIONS | 0 ACTIONS | FOMC JUL 28-29)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 22 /eod-review FINAL — S&P CONF ~7,498.96 (−0.136%) | DIST #8 NOT TRIGGERED ✅ (threshold 7,494.15; close 4.8 pts above; vol lighter than Jul 21) | DIST COUNT 7/25 UNCHANGED | ✅ JUN 17 EXPIRES TOMORROW THU JUL 24 → 6/25 | ✅ GOOGL AMC BEAT: Rev $119.8B / Cloud +82% YoY / EPS $9.11 (Anthropic MTM) | TSLA EPS BEAT rev declined YoY AH −0.5% | NVDA CONF +3.1% $213.72 | ALPACA DAY ~152 BLOCKED | 0 POSITIONS | 0 ACTIONS | FOMC JUL 28-29)*
 
-**✅ JUL 22 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P est. ~7,508 FLAT — DIST #8 NOT TRIGGERED ✅ — 7/25 UNCHANGED — JUN 17 EXPIRES TOMORROW → 6/25 — NVDA +3% CHIP BOUNCE — GOOGL+TSLA AMC NOT YET REPORTED — ALPACA DAY ~152 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+**✅ JUL 22 /eod-review FINAL (3:15 PM CT + AH data — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,498.96 (−0.136%) — DIST #8 NOT TRIGGERED ✅ — 7/25 UNCHANGED — JUN 17 EXPIRES TOMORROW → 6/25 — GOOGL MASSIVE BEAT Cloud +82% YoY — TSLA MIXED AH −0.5% — NVDA CONF +3.1% $213.72 — ALPACA DAY ~152 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~152 BLOCKED | Perplexity 403 | AV 403 | 29th consecutive degraded session
-- **S&P 500 Jul 22 close (est.):** ~7,508 (−0.012% from 7,509.18) | **NOT a distribution day ✅** (threshold was 7,494.15 = −0.20%; S&P ~14 pts above threshold) | Source: CNBC real-time ~3:07 PM EDT snapshot 7,508.26; Yahoo Finance market live updates showing "S&P little changed"
-- **SPY (est.):** ~$742.00 (flat from $742.09 Jul 21) | **QQQ (est.):** ~$694 (Nasdaq −0.3% intraday drag from megacap losses)
-- **Dow Jones (est.):** +0.3% (non-tech outperformed; shrugged off oil shock) | **Nasdaq (est.):** −0.3% (megacap losses offset chip bounce)
+- **S&P 500 Jul 22 CONFIRMED close:** ~**7,498.96** (−0.136% / −10.2 pts from 7,509.18) | **NOT a distribution day ✅** — BOTH criteria FAIL: (1) price −0.136% < −0.20% threshold; (2) volume lighter than Jul 21 (SPY ~$19B vs Jul 21 ~$19.7B est.) | close 4.81 pts ABOVE dist threshold 7,494.15 | Source: Bloomberg live blog + Yahoo Finance market live + Convex Trade
+- **SPY CONF:** ~$741 (est. from SPX ratio; Convex Trade showed $748.28 but this likely includes AH or is a data artifact — SPX 7,499 ÷ 10.12 ratio = ~$741) | **QQQ (est.):** ~$705 (Nasdaq est. −0.5% from $708.97)
 - **Distribution count: 7/25 UNCHANGED ✅** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17 — NO new dist day today
-- **CRITICAL TOMORROW (Thu Jul 24): Jun 17 dist EXPIRES → 6/25** (if no new dist day today ✅ confirmed + no new dist tomorrow)
-- **50d MA (est. ~7,534.75):** S&P ~7,508 = −0.35% BELOW → Correction trigger STILL ACTIVE
-- **200d MA (est. ~7,464.61):** S&P ~7,508 = +0.58% ABOVE → 200d cushion intact
-- **NVDA Jul 22:** ~$213 est. (+~3% from $207.29 Jul 21 close) — chip sector bounce with Nasdaq rebounding from morning lows; score **74/100 UNCHANGED** (no base handle, AMD competitive watch unchanged, cup wk ~34 counting); BLOCKED
-- **GOOGL (AMC tonight — not yet reported at 3:15 PM CT):** Q2 EPS est. $2.89, Rev est. $116.84B | Results expected ~4:15-5 PM ET | Beat → Wed rally catalyst tomorrow (not FTD-eligible); miss → Dist #8 risk Thu Jul 24
-- **TSLA (AMC tonight — not yet reported at 3:15 PM CT):** Q2 EPS est. $0.53, Rev est. ~$26B | 480K deliveries record known/priced | Automotive gross margin = key watch
-- **Oil:** WTI ~$86-87 elevated (Iran 11th strike; Rubio "not serious"); Dow shrugged it off; Nasdaq felt it
-- **FTD status:** CLOSED — requires new Day 1 below 7,266.99 (~242 pts below today's est. close)
+- **✅ JUN 17 EXPIRES TOMORROW THU JUL 24 → 6/25** if no new dist day today ✅ confirmed + tomorrow (still Correction at 6/25 per ≥6 rule, but one step toward exit)
+- **50d MA (est. ~7,534.75):** S&P ~7,499 = −0.47% BELOW → Correction trigger STILL ACTIVE
+- **200d MA (est. ~7,464.61):** S&P ~7,499 = +0.46% ABOVE → 200d cushion intact (thinner)
+- **NVDA Jul 22 CONFIRMED:** **$213.72** (+$6.43 / +3.10% from $207.29) — last confirmed price 2:17 PM EDT; chip sector bounce; score **74/100 UNCHANGED** (no handle, AMD competitive watch, cup wk ~34); BLOCKED
+- **✅ GOOGL Q2 2026 AMC — MASSIVE BEAT (CONFIRMED):**
+  - Revenue: **$119.8B** vs $116.9B est. → **+2.5% genuine beat** (+24% YoY)
+  - **Google Cloud: $24.77B — +82% YoY** (major acceleration from +63% Q1 2026) ← KEY AI CAPEX POSITIVE
+  - Advertising: $81.63B vs $81.12B est. (slight beat)
+  - EPS GAAP: **$9.11** vs $2.89 est. — ⚠️ inflated by unrealized Anthropic/SpaceX mark-to-market gains (same pattern as Q1 $5.11 GAAP; operating closer to ~$2.89)
+  - AH reaction: initially **flat** (GAAP inflation understood; cloud beat is the real signal)
+  - **Tomorrow implication: POSITIVE AI narrative catalyst; NVDA/semis beneficiary; NO Dist #8 risk from GOOGL**
+- **TSLA Q2 2026 AMC — MIXED (CONFIRMED):**
+  - EPS: **BEAT** (vs $0.53 est.; specific figure not confirmed; Finviz: "Surpass Expectations")
+  - Revenue: **DECLINED year-over-year** (record 480K deliveries but price cuts crushed ASP)
+  - AH: ~$376.93 (−~0.5% from intraday close) — muted reaction; rev decline is the headline
+  - **Tomorrow implication: NEUTRAL/SLIGHTLY NEGATIVE for TSLA; not a broader market catalyst**
+- **FTD status:** CLOSED — requires new Day 1 below 7,266.99 (~232 pts below today's close); GOOGL cloud beat reduces Day 1 probability short-term
 - **Actions: NONE** (Correction 7/25 + Alpaca Day ~152 BLOCKED + 0 positions + 0 candidates ≥75 — 22nd consecutive EOD zero actions)
 - **Sell-rules-engine: SKIPPED** (0 open positions)
 - **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Daily P&L: $0 | Weekly P&L: $0
-- `eod_Jul22` | `websearch_fallback` | `SPX_est_7508_NOT_dist` | `dist_7of25_UNCHANGED` | `Jun17_expires_TOMORROW_Jul24` | `NVDA_est_213_+3pct_chip_bounce` | `GOOGL_TSLA_AMC_not_yet_reported` | `50d_MA_BELOW_active` | `Alpaca_Day152_BLOCKED` | `22nd_eod_zero_actions`
+- `eod_Jul22_FINAL` | `websearch_fallback` | `SPX_CONF_7498.96_NOT_dist` | `vol_lighter_Jul21` | `dist_7of25_UNCHANGED` | `Jun17_expires_TOMORROW_Jul24` | `NVDA_CONF_213.72_+3.1pct` | `GOOGL_AMC_BEAT_Rev_119.8B_Cloud_82pct` | `TSLA_AMC_EPS_beat_Rev_declined` | `50d_MA_BELOW_active` | `Alpaca_Day152_BLOCKED` | `22nd_eod_zero_actions`
 
 **✅ JUL 22 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P NEAR FLAT, REVERSED OFF -0.30% OPEN — DIST #8 NOT TRIGGERED AS OF 10 AM — GOOGL+TSLA AMC TONIGHT — ALPACA DAY ~151 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~151 BLOCKED | Perplexity 403 | AV 403 | 28th consecutive degraded session

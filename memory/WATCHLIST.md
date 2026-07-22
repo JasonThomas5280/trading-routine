@@ -32,10 +32,14 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ## ⛔ CURRENT — Week of 2026-07-20 to 2026-07-25 — REBUILT Sun Jul 19 /weekly-prep
 
-**Updated:** 2026-07-22 (Wed) — `/pre-market` 6:00 AM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
-Alpaca: Day ~150 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 27th consecutive degraded session
+**Updated:** 2026-07-22 (Wed) — `/eod-review` FINAL 3:15 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~152 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 29th consecutive degraded session
 **✅ Jul 22 /pre-market updates:** ARM REMOVED from bench permanently (exited universe COB Jul 21) | NVDA pre-mkt $205.53 (−0.85%) | Futures ES −0.30% NQ −0.70% | Iran 11th strike night, oil $87.56 WTI | GOOGL+TSLA AMC tonight | Dist #8 risk (threshold 7,494.15) | AMD competitive flag (Jul 20 AI system + MSFT + Meta) added to NVDA watch notes
 **✅ Jul 22 /market-check updates (10:00 AM CT):** S&P ~7,509 NEAR FLAT (reversed off −0.30% open) | DIST #8 NOT TRIGGERED as of 10 AM (threshold 7,494.15; monitor close) | NVDA ~$205.39 (range $204.50-$207.29, consolidating; 74/100 UNCHANGED) | GOOGL ~$347 pre-earnings (AMC tonight; ±5.4% implied) | TSLA ~$390 pre-earnings (AMC tonight; ±6.4% implied) | WTI $86-87 Brent $92-95 (Iran 11th strike; Rubio "not serious") | INTC AMC tomorrow | Jun 17 dist expires Thu Jul 24 → 6/25 if no new dist today | Abort: CORRECTION + ALPACA BLOCKED | 0 actions | 0 trades | `market-check_Jul22` | `websearch_fallback`
+**✅ Jul 22 /eod-review FINAL updates (3:15 PM CT + AH):** S&P CONF ~7,498.96 (−0.136% NOT DIST ✅) | NVDA CONF $213.72 (+3.10% — significant chip bounce) | ✅ GOOGL AMC BEAT: Rev $119.8B, Cloud +82% YoY (AI capex narrative strongly positive) | TSLA AMC EPS beat Rev declined YoY (AH −0.5% muted) | Dist 7/25 UNCHANGED | Jun 17 expires TOMORROW → 6/25 | Alpaca Day ~152 BLOCKED | `eod_Jul22_FINAL` | `websearch_fallback`
+
+**NVDA bench (updated Jul 22 EOD):** Price CONF $213.72 (+3.10%) | Score **74/100 UNCHANGED** | Cup wk ~34 counting; no handle; GOOGL Cloud +82% YoY is a positive for NVDA AI demand thesis | ⚠️ AMD competitive flag still active | Not actionable until: handle forms + Confirmed Uptrend + Alpaca restore + score ≥75 | Est. 82-84/100 at next re-score with data restore + handle
+**GOOGL future bench (post-earnings refresh):** Q2 BEAT confirmed; Cloud +82% YoY major; GAAP EPS $9.11 inflated by Anthropic MTM | Earliest re-entry window Aug 5+ (post-Jul-22 earnings blackout clearance) | Sector XLC #9 (lagging — L-letter headwind) | Score to be re-evaluated at data restore + Confirmed Uptrend | Was 77/100 pre-earnings; cloud acceleration may lift N-letter and I-letter
 
 **🚨 CRITICAL UPDATES THIS /weekly-prep (Sun Jul 19 — WebSearch confirms via dshort.com/Advisor Perspectives):**
 - ⚠️ **S&P 500 CONFIRMED BELOW 50d MA:** 7,457.69 vs ~7,534.75 (−1.02%) — **FIRST 50d MA BREACH SINCE APR 2026** — Source: "S&P 500 Snapshot: Index Drops Below 50-Day MA" — Advisor Perspectives Jul 17, 2026

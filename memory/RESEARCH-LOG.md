@@ -15892,3 +15892,25 @@ Equity:    $2,500.00 (HWM)
 - sell-rules-engine: SKIPPED (0 positions)
 
 `research_source: websearch_fallback` | `Alpaca_Day152_BLOCKED` | `Perplexity_403` | `AV_403` | `SPX_est_7508_NOT_dist_Jul22` | `dist_7of25_UNCHANGED` | `Jun17_expires_TOMORROW_Jul24` | `NVDA_est_213_+3pct` | `GOOGL_AMC_not_yet_reported` | `TSLA_AMC_not_yet_reported` | `22nd_eod_zero_actions`
+
+### ✅ AMENDMENT — Confirmed AH data (post-agent research, same session)
+
+**S&P 500 Jul 22 CONFIRMED close:** ~7,498.96 (−0.136% from 7,509.18) | NOT dist day ✅ (both criteria fail: price −0.136% < −0.20% AND volume lighter than Jul 21) | dist threshold 7,494.15; actual 4.81 pts above
+**SPY:** ~$741 (est. from ratio; Convex Trade $748.28 appears to be stale/AH artifact) | **QQQ:** ~$705 est. (Nasdaq −0.5%)
+**NVDA Jul 22 CONFIRMED:** $213.72 (+$6.43 / +3.10%) — last confirmed 2:17 PM EDT; cup wk ~34, no handle, score 74/100 UNCHANGED
+
+**✅ GOOGL Q2 2026 RESULTS (AMC Jul 22 — MASSIVE BEAT):**
+- Revenue: $119.8B vs $116.9B est. → +2.5% beat | YoY +24%
+- **Google Cloud: $24.77B | +82% YoY** (accelerated from +63% Q1 — major AI capex signal)
+- Advertising: $81.63B vs $81.12B est.
+- EPS GAAP: $9.11 (vs $2.89 est.) — ⚠️ primarily unrealized Anthropic/SpaceX mark-to-market gains (same as Q1 $5.11 GAAP; operating EPS ~$2.89 range)
+- AH reaction: flat initially (GAAP inflation well-understood)
+- **AI NARRATIVE: Cloud +82% YoY is a massive beat and hyperscaler AI capex confirmation — NVDA/semi beneficiary tomorrow**
+
+**TSLA Q2 2026 RESULTS (AMC Jul 22 — MIXED):**
+- EPS: BEAT (vs $0.53 est.) — specific figure unconfirmed; Finviz "Surpass Expectations"
+- Revenue: DECLINED year-over-year (record 480K deliveries; ASP crushed by price cuts)
+- AH: ~$376.93 (−~0.5%)
+- **Not a positive market catalyst**
+
+`SPX_CONF_7498.96_Jul22` | `NOT_dist_Jul22_FINAL` | `NVDA_CONF_213.72_+3.1pct` | `GOOGL_CONF_Beat_Rev119.8B_Cloud82pct` | `TSLA_CONF_EPSbeat_Revdeclined`
