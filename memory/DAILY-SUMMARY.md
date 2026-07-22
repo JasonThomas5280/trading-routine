@@ -4541,3 +4541,21 @@ S&P 7,509.18 vs 50d MA ~7,534.75 = −0.34% below → Correction still active
 Actions today: NONE (Correction gate + Alpaca Day ~149 blocked)
 ARM exits universe CONFIRMED (COB today Jul 21)
 Tomorrow watch: GOOGL+TSLA AMC Jul 22 (dist #8 risk on miss) | INTC AMC Jul 23 | Jun 17 dist expires Thu Jul 24 → 6/25 (still Correction)
+
+---
+## 2026-07-22 11:17 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-22
+Market: 🔴 Correction (7/25 dist) | Futures: ES -0.30% NQ -0.70%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 open positions)
+Watchlist ready: NONE
+Removed: ARM - exited universe permanently (COB Jul 21 confirmed)
+Key catalysts TODAY:
+  GOOGL+TSLA AMC tonight — dist #8 risk on miss (S&P threshold: 7,494.15)
+  Iran 11th strike night, oil WTI +4% to 7.56 — Rubio: not serious about talks
+  AMD AI system + MSFT/Meta deal (Jul 20) → NVDA N-letter competitive watch
+  INTC AMC tomorrow Jul 23 | Jun 17 dist expires Thu Jul 24 → 6/25
+  FOMC Jul 28-29 (Warsh hawkish; oil spike adds rate-hold cover)
+NVDA: 05.53 pre-mkt (-0.85%) | 74/100 | Cup wk ~33 no handle | BLOCKED
+Plan: No entries — Correction (7/25) + Alpaca Day ~150 BLOCKED + 0 candidates >=75 (16th wk). SH 25 queued. Monitor S&P close vs. 7,494.15 at /eod-review.

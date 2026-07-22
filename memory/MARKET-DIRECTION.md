@@ -6,7 +6,26 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 21 /market-check 10:00 AM CT — ✅ JUL 21 INTRADAY: S&P ~7,496 (+0.71% NOT DIST ✅) | Nasdaq +1.0% chip-led | NVDA $203.27 (+1%) — ✅ JUL 20 CONF: 7,443.28 (−0.19% NOT DIST ✅) | S&P −1.21% below 50d MA | −1.43% below 200d MA — DIST COUNT 7/25 UNCHANGED — ⚠️ ARM FINAL COB TODAY → EXITS UNIVERSE PERMANENTLY — GOOGL+TSLA AMC TONIGHT (DIST #8 RISK ON MISS) — ALPACA DAY ~148 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — FOMC JUL 28-29)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 22 /pre-market 6:00 AM CT — ✅ JUL 21 CONF: S&P 7,509.18 (+0.89% NOT DIST ✅) | SPY $742.09 | Nasdaq 25,837.21 (+1.29%) | S&P −0.34% below 50d MA (~7,534.75) | +0.59% above 200d MA — DIST COUNT 7/25 UNCHANGED — ✅ ARM EXITED UNIVERSE JUL 21 COB CONFIRMED — 🔴 JUL 22 FUTURES: ES −0.3% NQ −0.7% (Iran 11th strike night, oil $92, tariff concerns) — ⚠️ DIST #8 RISK TODAY (ES DOWN OPEN) — GOOGL+TSLA AMC TONIGHT — INTC AMC TOMORROW JUL 23 — JUN 17 DIST EXPIRES TOMORROW JUL 24 → 6/25 IF NO NEW DIST TODAY — ALPACA DAY ~150 BLOCKED — 0 POSITIONS — SH $625 QUEUED — 0 ACTIONS — FOMC JUL 28-29)*
+
+**✅ JUL 22 /pre-market (6:00 AM CT — 🔴 CORRECTION — ES −0.30% NQ −0.70% — IRAN 11TH STRIKE NIGHT / OIL $87.56 WTI / $94.20 BRENT — GOOGL+TSLA AMC TONIGHT — DIST #8 RISK TODAY — ALPACA DAY ~150 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~150 BLOCKED | Perplexity 403 | AV 403 | 27th consecutive degraded session
+- **✅ JUL 21 CLOSE CONFIRMED:** S&P 7,509.18 (+0.89% NOT DIST ✅) | SPY $742.09 | Nasdaq 25,837.21 (+1.29%) | Dow +0.7% | Dist count 7/25 UNCHANGED
+- **50d MA (est. ~7,534.75):** S&P 7,509.18 = −0.34% BELOW 50d MA — Correction trigger still active
+- **200d MA (est. ~7,464.61):** S&P 7,509.18 = +0.59% ABOVE 200d MA — 200d cushion restored
+- **Futures (pre-mkt ~6:00 AM CT):** ES −0.30% (~7,487) | NQ −0.70% | YM −0.10% — Nasdaq leading decline (earnings anxiety)
+- **Iran escalation REVERSES Monday optimism:** US 11th consecutive night of strikes overnight. Secretary Rubio (ASEAN mtg, Philippines): "They're not serious about talks." Hormuz access = central sticking point. Monday FM Baghaei diplomatic signal effectively RETRACTED.
+- **Oil spike: Brent +3.5% to $94.20 | WTI +3.8% to $87.56** — Iran war premium re-building. Stagflation noise ahead of FOMC Jul 28-29 (Warsh already hawkish; oil gives cover for rate-hold or hike discussion).
+- **NVDA pre-mkt: $205.53** (−0.85% from $207.29 Jul 21 est. close) | Score **74/100 UNCHANGED** | Cup wk ~33 no handle | BLOCKED
+- **AMD catalyst (Jul 20 — NVDA competitive watch):** AMD announced first full-stack AI compute system + signed MSFT and Meta as launch partners. Not an immediate NVDA score event but a material N-letter watch item — hyperscaler AI capex is the central battlefield. Flag for NVDA N-letter re-score at next data restore.
+- **GOOGL AMC tonight:** EPS $2.89 est. (+25.1% YoY) | Rev $116.84B est. (+21.2% YoY) | GOOGL pre-mkt −1.38% | Key AI narrative/Cloud read | A miss = **Dist Day #8 risk** (dist threshold: S&P ≤ 7,494.15 on elevated vol)
+- **TSLA AMC tonight:** EPS $0.53 est. | Rev ~$26B est. | 480K Q2 deliveries (record, already known) | TSLA down 22% into earnings | Margin execution = key unknown
+- **INTC AMC TOMORROW (Jul 23):** Semi sector sentiment read
+- **ARM: ✅ EXITS UNIVERSE PERMANENTLY** — COB Jul 21 confirmed; ARM removed from bench as of today
+- **Jun 17 dist expires TOMORROW Thu Jul 24 → 6/25** (if no new dist days today or tomorrow)
+- **Dist Day #8 risk today: MODERATE-HIGH** — ES −0.3% expected down open; oil $87.56 WTI; NQ −0.7%; GOOGL −1.38% pre-mkt drag. Threshold: S&P close ≤ 7,494.15. Intraday rally into earnings close possible — monitor at /eod-review.
+- **Actions: NONE** (Correction 7/25 + Alpaca Day ~150 BLOCKED + 0 positions + 0 candidates ≥75 — 16th consecutive week)
+- `research_source: websearch_fallback` | `Alpaca_Day150_BLOCKED` | `ES_-0.3pct` | `NQ_-0.7pct` | `Iran_11th_strike_night` | `Rubio_not_serious` | `Brent_94.20` | `WTI_87.56` | `AMD_AI_system_MSFT_Meta_Jul20` | `NVDA_205.53_-0.85pct` | `GOOGL_AMC_tonight_2.89est` | `TSLA_AMC_tonight_0.53est` | `ARM_exited_universe_confirmed` | `dist_8_threshold_7494.15` | `Jun17_expires_Thu_Jul24`
 
 **Last updated:** 2026-07-19 (Sun) — /weekly-prep 4:00 PM CT — **🔴 MARKET IN CORRECTION DEEPENING (7/25 dist + S&P BELOW 50d MA + NEAR/BELOW 200d MA — ALL LONG ENTRIES BLOCKED)**
 **STATE:** 🔴 Market in Correction | **7/25 dist days active** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16 (corrected), **Jul 17 (CONFIRMED)** | ⚠️ Jun 17 expires Thu Jul 24 → 6/25 (if no new dist days Mon-Wed) | RALLY ATTEMPT INVALIDATED Jul 16 (7,533.77 < 7,543.59 Day 1 close) | FTD CLOSED (new Day 1 required — S&P must establish intraday new low below 7,266.99 and close up same day) | Rally low 7,266.99 INTACT (~191 pts from Jul 17 close 7,457.69) | ✅ Jul 15 NOT dist CONFIRMED 7,574 (+0.40%) | ✅ Jul 16 DIST #6 CONFIRMED 7,533.77 (−0.53%) | ✅ Jul 17 DIST #7 CONFIRMED 7,457.69 (−1.01%) | ⚠️ S&P CONFIRMED BELOW 50d MA (7,457.69 vs ~7,534.75 = −1.02%) — FIRST 50d MA BREACH SINCE APR 2026 | ⚠️ S&P CONFIRMED NEAR/BELOW 200d MA (~7,464.61 = −0.09%) | TWO CORRECTION TRIGGERS ACTIVE: dist 7/25 + 50d MA breach

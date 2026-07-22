@@ -15741,3 +15741,84 @@ Equity:    $2,500.00 HWM
 ```
 
 `research_source: websearch_fallback` | `SPX_Jul21_CLOSE_7509.18_+0.89pct` | `NOT_dist_Jul21` | `dist_7of25_UNCHANGED` | `SPX_below_50d_0.34pct` | `Nasdaq_25837_+1.29pct` | `QQQ_696.06` | `ARM_exit_CONFIRMED_Jul21` | `GOOGL_TSLA_AMC_Jul22` | `Alpaca_Day149_BLOCKED` | `29th_consecutive_degraded` | `21st_eod_zero_actions`
+
+---
+
+## 2026-07-22 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 dist) — ES −0.30% NQ −0.70% — IRAN 11TH STRIKE / OIL $87.56 — GOOGL+TSLA AMC TONIGHT — DIST #8 RISK — ARM REMOVED — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~150; Perplexity: 403; AV: 403 — 27th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 20):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Jul 21 close — CONFIRMED
+
+- **S&P 500: 7,509.18 (+0.89% NOT DIST ✅)** | SPY $742.09 | Nasdaq 25,837.21 (+1.29%) | Dow +0.7%
+- Dist count: **7/25 UNCHANGED** | Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+- 50d MA (est. ~7,534.75): S&P −0.34% below → Correction trigger active
+- 200d MA (est. ~7,464.61): S&P +0.59% above → 200d cushion restored after Jul 21 recovery
+- Source: TRADE-LOG.md /eod-review Jul 21 (confirmed SPY $742.09, Nasdaq 25,837.21)
+
+### Overnight market (pre-market 6:00 AM CT)
+
+- **ES futures: −0.30%** (~7,487) | **NQ futures: −0.70%** | **YM: −0.10%** — Nasdaq leading decline
+- **Iran escalation:** US 11th consecutive night of strikes. Sec. Rubio (ASEAN FM mtg, Philippines): "They're not serious about talks." Hormuz access = central sticking point. Monday's FM Baghaei diplomatic optimism effectively reversed.
+- **Oil: Brent +3.5% to $94.20 | WTI +3.8% to $87.56** — Iran war premium re-building; stagflation noise for FOMC Jul 28-29 (Warsh hawkish; energy gives rate-hold cover)
+- **GOOGL pre-mkt: −1.38%** | **Brent/WTI spike** dragging index sentiment
+- Source: Yahoo Finance "Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck" Jul 22 | CNBC oil/Iran coverage
+
+### Open position gap check
+
+- **0 open positions** → SKIP
+
+### Bench name updates
+
+- **NVDA:** Pre-mkt $205.53 (−0.85% from est. $207.29 Jul 21 close). Score **74/100 UNCHANGED** | Cup wk ~33, no handle, no pivot defined. BLOCKED.
+  - ⚠️ **AMD COMPETITIVE FLAG (Jul 20):** AMD launched first full-stack AI compute system + signed MSFT and Meta as launch partners → material NVDA N-letter competitive watch. Not a scoring event today but flags for next re-score. Hyperscaler AI capex share is the central long-term battle.
+  - `NVDA_Jul22_premarket_205.53` `AMD_AI_system_MSFT_Meta_competitive_watch`
+- **MRVL:** No overnight catalyst. Score ~15-25/100 UNCHANGED. Watch-only, 8+ wk rebuild path unchanged.
+- **ARM:** ❌ **REMOVED FROM BENCH PERMANENTLY** — exited universe COB Jul 21 as scheduled. Earnings Jul 29 AMC; earliest post-earnings re-entry window Aug 5 (requires new score, base, Uptrend, Alpaca restore). `ARM_removed_Jul22`
+
+### Buy-zone readiness
+
+| Symbol | Pre-mkt | Pivot | % from Pivot | Status |
+|---|---|---|---|---|
+| NVDA | $205.53 | None (no handle) | N/A | 🔴 NO PIVOT — Correction blocks |
+| MRVL | No quote | Broken base | N/A | 🔴 BROKEN |
+| ARM | ❌ REMOVED | — | — | ❌ Exited universe |
+| SH | QUEUED | N/A | N/A | ⏳ Alpaca BLOCKED |
+
+### Tonight's key events (AMC Jul 22)
+
+- **GOOGL Q2:** EPS $2.89 est. (+25.1% YoY from $2.31) | Rev $116.84B (+21.2% YoY from $96.43B) | Google Cloud +63% est. | Beat = likely Wed relief rally (not FTD-eligible) | Miss = **Dist Day #8 risk** (threshold: S&P ≤ 7,494.15 on elevated vol)
+- **TSLA Q2:** EPS $0.53 est. | Rev ~$26B est. | 480K deliveries (record Q2, +25% YoY — beat already known) | TSLA down 22% into earnings | Margin execution = key variable | Wells Fargo Underweight PT $130
+
+### Distribution day risk today (Jul 22)
+
+- **Dist Day #8 threshold: S&P close ≤ 7,494.15** (−0.20% from 7,509.18) on volume > Tuesday's
+- **Risk factors FOR dist day:** ES −0.3% down open; oil +4% stagflation noise; NQ −0.7% big-tech drag; GOOGL −1.38% pre-mkt (large NQ/S&P weight)
+- **Risk factors AGAINST:** Traders often bid into AMC earnings intraday (could lift S&P off lows before close); Tuesday's volume was elevated (chip rally) — not guaranteed to be exceeded; −0.3% futures is mild, not a crash open
+- **Assessment: MODERATE-HIGH** — if session stays in the red without a late-day reversal, close below 7,494.15 is plausible
+- **Monitor at /eod-review:** S&P close vs. 7,494.15 + volume comparison
+
+### Calendar / upcoming events
+
+- **Wed Jul 23 AMC: INTC earnings** (EPS $0.22 est.; semi sector sentiment)
+- **Thu Jul 24: Jun 17 dist EXPIRES → 6/25** (if no new dist days today/tomorrow) | Jobless claims (~214K est.)
+- **Mon Jul 28 – Tue Jul 29: FOMC** (Warsh hawkish; 86-89% hold; split committee; Jul 29 = also META+MSFT+ARM earnings → most volatile Q3 session)
+
+### Circuit breaker check
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily −3% | −$75 | ✅ CLEAR |
+| Weekly −6% | −$150 | ✅ CLEAR |
+| Drawdown −12% HWM | −$300 | ✅ CLEAR |
+| PDT 3 of 3 | 4th day trade | ✅ CLEAR (0 of 3) |
+
+### Actions
+
+**NONE.** Correction (7/25 dist) + Alpaca Day ~150 BLOCKED + 0 positions + 0 candidates ≥75 (16th consecutive week with zero qualifying setups).
+- SH $625 hedge: QUEUED — execute as FIRST order on Alpaca restore
+- sell-rules-engine: SKIP (0 positions)
+
+`research_source: websearch_fallback` | `Alpaca_Day150_BLOCKED` | `Perplexity_403` | `AV_403` | `ES_-0.3pct` | `NQ_-0.7pct` | `Iran_11th_strike_Rubio_not_serious` | `Brent_94.20_WTI_87.56` | `AMD_competitive_flag_NVDA` | `NVDA_205.53` | `ARM_removed_permanently` | `GOOGL_AMC_2.89_est` | `TSLA_AMC_0.53_est` | `dist8_threshold_7494.15` | `dist_risk_MODERATE-HIGH` | `Jun17_expires_Thu_Jul24` | `16th_consecutive_week_zero_candidates`
