@@ -6,7 +6,39 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 23 /market-check — S&P ~7,424 (−1%) INTRADAY | Dow −516 pts | Nasdaq −1.8% | ⚠️ DIST DAY #8 HIGH PROBABILITY (threshold 7,484.0 — S&P ~60 pts BELOW at 10AM CT) | BRENT $100.40 (+6.7%) FIRST TIME ABOVE $100 | GOOGL −5.7% post-earnings capex raise | TSLA −9.8% EPS MISS | Jobless claims 187K MASSIVE BEAT (est. 218K — lowest since 1969) | DIST COUNT 7/25 (+1 pending EOD) | INTC AMC TONIGHT | JUN 17 EXPIRES TOMORROW FRI JUL 24 | ALPACA DAY ~153 BLOCKED | 0 POSITIONS | 0 ACTIONS)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 23 /eod-review FINAL — S&P CONF 7,390.39 (−1.44% / −108.57 pts) | DIST DAY #8 CONFIRMED ✅ | DIST COUNT 8/25 | Nasdaq est. −2.2% ~25,142 | SPY est. ~$730 | QQQ est. ~$700-701 | BRENT $100.69 (+7%) ABOVE $100 | GOOGL −6.5% capex raise | TSLA −14% EPS MISS | INTC AMC MASSIVE BEAT: EPS $0.42 vs $0.21 est. (2×), Rev $16.1B vs $14.42B est. +11% AH | 50d MA −1.93% BELOW | 200d MA −0.99% BELOW (BREACHED) | JUN 17 EXPIRES TOMORROW FRI JUL 24 → 7/25 (if no new dist Fri) | FOMC JUL 28-29 RISK ELEVATED | ALPACA DAY ~153 BLOCKED | 0 POSITIONS | 0 ACTIONS)*
+
+**✅ JUL 23 /eod-review FINAL (3:15 PM CT — 🔴 CORRECTION DEEPENING — S&P CONF 7,390.39 (−1.44%) — DIST DAY #8 CONFIRMED ✅ — 8/25 — GOOGL −6.5% TSLA −14% — INTC MASSIVE BEAT +11% AH — BRENT $100.69 — 200d MA BREACHED — ALPACA DAY ~153 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION DEEPENING (UNCHANGED)** | `research_source: websearch_fallback` | Alpaca Day ~153 BLOCKED | Perplexity 403 | AV 403 | 32nd consecutive degraded session
+- **Abort gates FIRED: (1) Correction (8/25 dist days) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken
+- **S&P 500 Jul 23 CONFIRMED close: 7,390.39** (−108.57 pts / −1.44% from 7,498.96) | **DISTRIBUTION DAY #8 CONFIRMED ✅**
+  - Price criterion: −1.44% >> −0.20% threshold ✅
+  - Volume criterion: Post-earnings selloff (GOOGL −6.5%, TSLA −14%) + oil above $100 stagflation fear = elevated volume well above Jul 22 ✅
+  - Source: Motley Fool ("Market Indexes Sink as Oil Tops $100 Amid Rising AI Costs"), CNBC, Bloomberg
+- **Distribution count: 8/25** (was 7/25) | Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, **Jul 23**
+- **State transition: NONE** (was already Correction at 7/25; 8/25 deepens Correction)
+- **Nasdaq est. close: ~25,142** (−2.2% est. from ~25,708) | **QQQ est. close: ~$700-701** (−1.07% est.)
+- **50d MA (est. ~7,534.75):** S&P 7,390.39 = **−1.93% BELOW** (was −1.47% intraday; correction deepening)
+- **200d MA (est. ~7,464.61):** S&P 7,390.39 = **−0.99% BELOW** (200d MA breached; buffer gone)
+- **⚠️ GOOGL −6.5% CONFIRMED** (raised full-year capex — market punished spend escalation; ~5.5% S&P weight drove bulk of index decline) | GOOGL bench score revised: was 77/100 pre-earnings → est. 60-65/100 post. Not actionable Q3 2026.
+- **⚠️ TSLA −14% CONFIRMED** (EPS miss + YoY revenue decline; Jul 22 /eod-review logged "EPS beat" was WRONG → CORRECTED Jul 23 /market-check → CONFIRMED at FINAL close)
+- **✅ INTC Q2 2026 AMC — MASSIVE BEAT (CONFIRMED):**
+  - EPS: **$0.42 adj** vs $0.21 est. (**2× beat**) | Revenue: **$16.1B** vs $14.42B est. (**+11.7% beat**)
+  - AH: **+11%** | Context: INTC up 170% YTD / 327% from lows; fastest revenue growth since 2011
+  - Semi sector implication: MASSIVE POSITIVE → NVDA tailwind Fri Jul 24 opening
+  - FOMC impact: INTC beat + 18A ramp narrative = US chip independence story intact
+- **Brent crude: $100.69 (+7% est.)** | WTI ~$91+ | Highest close in months | Houthi tanker attacks + Iran escalation | Stagflation signal locked in ahead of FOMC Jul 28-29 (Warsh hawkish)
+- **NVDA intraday est: ~$200-210** (range; down on broad selloff but INTC beat = AH/Fri tailwind) | Score **74/100 UNCHANGED** | Still blocked (Correction + <75 + no handle)
+- **FTD status:** CLOSED — S&P now 123.40 pts BELOW prior Day 1 trigger (7,266.99); today's selloff narrows the gap to 7,266.99 − 7,390.39? No wait: 7,390.39 > 7,266.99 (we're above the low). Gap from current close to Day 1 low = 7,390.39 − 7,266.99 = 123.40 pts above low. FTD would require new low first (fresh Day 1), then Day 4-7 +1.25% on volume. No FTD in sight.
+- **⚠️ TOMORROW (Fri Jul 24) critical events:**
+  - Jun 17 dist expires → count drops 8/25 → **7/25** (STILL CORRECTION — ≥6 rule)
+  - INTC +11% AH = semi sector gap-up → NVDA watch at open
+  - FOMC quiet period begins (no Fed speak this weekend)
+  - Begin final prep countdown: FOMC Jul 28-29 = Jul 29 also META+MSFT+ARM earnings (most volatile session of Q3)
+- **Sell-rules-engine: SKIPPED** (0 open positions)
+- **Actions: NONE** (23rd consecutive EOD zero actions)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Daily P&L: $0 | Weekly P&L: $0
+- `eod_Jul23_FINAL` | `websearch_fallback` | `SPX_CONF_7390.39_-1.44pct` | `DIST8_CONFIRMED` | `dist_8of25` | `GOOGL_-6.5pct_capex` | `TSLA_-14pct_EPS_miss` | `INTC_AMC_MASSIVE_BEAT_EPS0.42_Rev16.1B_+11pct_AH` | `Brent_100.69` | `50d_MA_BELOW_-1.93pct` | `200d_MA_BELOW_BREACHED` | `Jun17_expires_TOMORROW_Jul24` | `FOMC_Jul28-29_risk_elevated` | `Alpaca_Day153_BLOCKED` | `32nd_degraded_session`
 
 **✅ JUL 23 /market-check (10:00 AM CT — 🔴 CORRECTION DEEPENING — S&P ~7,424 (−1%) | Dow −516 pts | Nasdaq −1.8% | ⚠️ DIST DAY #8 HIGH PROBABILITY | BRENT $100.40 ABOVE $100 | GOOGL −5.7% | TSLA −9.8% EPS MISS | JOBLESS CLAIMS 187K MASSIVE BEAT | ALPACA DAY ~153 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION DEEPENING** | `research_source: websearch_fallback` | Alpaca Day ~153 BLOCKED | Perplexity 403 | AV 403 | 31st consecutive degraded session

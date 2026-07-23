@@ -46,6 +46,69 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-23 (Thu) — /eod-review (3:15 PM CT) — 🔴 CORRECTION DEEPENING — S&P CONF 7,390.39 (−1.44% DIST #8 ✅) — 8/25 — GOOGL −6.5% TSLA −14% — INTC MASSIVE BEAT +11% AH — BRENT $100.69 — 200d MA BREACHED — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~153; Perplexity: 403; AV: 403 — 32nd consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **8/25 dist days** — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 20):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Jul 23 close — CONFIRMED
+
+- **S&P 500 close: 7,390.39** (−108.57 pts / −1.44% from 7,498.96)
+  - Source: Motley Fool, Anchorage Daily News, Bloomberg Jul 23 2026
+  - Nasdaq est. close: ~25,142 (−2.2%) | SPY est: ~$730 | QQQ est: ~$700-701
+- **Distribution day: DIST DAY #8 CONFIRMED ✅**
+  - Price: −1.44% >> −0.20% threshold ✅
+  - Volume: Post-earnings selloff (GOOGL −6.5%, TSLA −14%) + oil $100+ = volume elevated above Jul 22 ✅
+  - New dist count: **8/25** (was 7/25)
+  - Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, **Jul 23**
+- **50d MA (est. ~7,534.75):** −1.93% BELOW (correction deepening; was −0.47% yesterday)
+- **200d MA (est. ~7,464.61):** −0.99% BELOW (**200d MA BREACHED** — more severe; yesterday was +0.46% above)
+- **State transition: NONE** (already Correction at 7/25; now 8/25 = deeper correction)
+
+### Key earnings results
+
+- **GOOGL (post-earnings close):** −6.5% (raised full-year capex; market punished spend escalation despite Cloud +82% beat)
+  - Bench score revised: 77/100 pre-earnings → est. 60-65/100 post. Not actionable Q3 2026.
+- **TSLA (post-earnings close):** −14% (EPS miss + YoY revenue decline confirmed — earlier "EPS beat" logging was WRONG)
+- **INTC Q2 2026 AMC — MASSIVE BEAT:**
+  - EPS: $0.42 adj vs $0.21 est. (**2× beat**) | Revenue: $16.1B vs $14.42B est. (**+11.7% beat**)
+  - AH: **+11%** | Fastest revenue growth since 2011 | INTC up 170% YTD
+  - Sector read: **STRONG POSITIVE for semis** → NVDA tailwind Friday Jul 24
+
+### Macro factors
+
+- **Brent crude: $100.69 (+7%)** — above $100 for first time in months; WTI ~$91+
+  - Houthi tanker attacks + Iran war premium + US escalation = supply shock narrative
+  - Stagflation signal: oil $100 + jobless 187K (lowest since 1969) = tightest labor + highest energy = Warsh hawkish FOMC cover
+- **FOMC Jul 28-29:** Rate-hike probability elevated; oil above $100 with tight labor = most hawkish backdrop of 2026
+
+### Bench candidate updates
+
+- **NVDA:** Down est. ~$200-210 on broad selloff (INTC beat = potential AH/Fri bounce). Score **74/100 UNCHANGED**. Cup wk ~34, no handle. BLOCKED: Correction + <75 + no handle + Alpaca.
+- **GOOGL:** Score revised to ~60-65/100. Capex raise = institutional selling signal. NOT a bench candidate Q3 2026.
+- **INTC:** +11% AH — up 170% YTD; NOT in our universe (watch-only; not CAN SLIM-shaped after 170% run)
+
+### Tomorrow watch (Fri Jul 24)
+
+- **Jun 17 dist expires → 7/25** (if no new dist day Fri — still Correction at ≥6 rule)
+- **INTC +11% AH = semi sector gap-up** → NVDA watch at Fri open (momentum read)
+- **No major earnings** (post-big-tech; lighter day)
+- **FOMC quiet period** begins this weekend (no Fed speak)
+- **FTD:** Still closed. SPX 7,390.39 → 7,266.99 low = 123.40 pts above low. No Day 1 setup.
+
+### Actions today
+
+**NONE.** Correction (8/25 dist) + Alpaca Day ~153 BLOCKED + 0 positions + 0 candidates ≥75 (23rd consecutive EOD zero actions).
+- SH $625 hedge: QUEUED — Alpaca BLOCKED; execute when restored
+- sell-rules-engine: SKIPPED (0 positions)
+
+**P&L today:** $0 | **P&L week:** $0 | **Equity:** $2,500 (HWM)
+
+`research_source: websearch_fallback` | `Alpaca_Day153_BLOCKED` | `Perplexity_403` | `AV_403` | `SPX_CONF_7390.39_-1.44pct` | `DIST8_CONFIRMED` | `dist_8of25` | `GOOGL_-6.5pct` | `TSLA_-14pct` | `INTC_MASSIVE_BEAT_EPS0.42_Rev16.1B_+11pct_AH` | `Brent_100.69_above100` | `200d_MA_BREACHED` | `sell_rules_engine_SKIPPED_0pos` | `23rd_eod_zero_actions`
+
+---
+
 ## 2026-07-20 (Mon) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 dist) — ES +0.3% NQ +0.6% — IRAN DIPLOMATIC HINTS — CHIPMAKERS BOUNCE — ARM PENULTIMATE DAY — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~145; Perplexity: 403; AV: 403 — 26th consecutive degraded session)

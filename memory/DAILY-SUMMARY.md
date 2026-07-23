@@ -1,5 +1,28 @@
 
 ---
+## 2026-07-23 15:15 CT [eod-review — 🔴 CORRECTION DEEPENING — S&P CONF 7,390.39 (−1.44% DIST #8 ✅) — 8/25 — GOOGL −6.5% TSLA −14% — INTC MASSIVE BEAT +11% AH — BRENT $100.69 — 200d MA BREACHED — 0 POSITIONS — 0 ACTIONS]
+
+📊 EOD 2026-07-23 | Equity $2,500.00 ($0.00 day / $0.00 week)
+Open: 0 positions, 100% cash
+Distribution days: 8 of 25 (market: 🔴 Correction — DIST #8 CONFIRMED TODAY)
+Actions today:
+  • NONE — Correction (8/25) + Alpaca Day ~153 BLOCKED + 0 positions + 0 candidates ≥75 (23rd consecutive EOD zero actions)
+  • sell-rules-engine: SKIPPED (0 open positions)
+  • SH $625 hedge: QUEUED (Alpaca blocked)
+Market close (confirmed):
+  S&P 500: 7,390.39 (−1.44% / −108.57 pts) | 50d MA −1.93% BELOW | 200d MA −0.99% BELOW (BREACHED)
+  Nasdaq est: ~25,142 (−2.2%) | SPY est: ~$730 | QQQ est: ~$700-701
+  Brent: $100.69 (+7%) above $100 | Jobless 187K (lowest since 1969) = stagflation signal
+Key results:
+  GOOGL −6.5% (capex raise; score revised 77→60-65/100; NOT actionable Q3)
+  TSLA −14% (EPS miss + YoY rev decline; Jul 22 "EPS beat" log CORRECTED)
+  ✅ INTC AMC BEAT: EPS $0.42 vs $0.21 est. (2×), Rev $16.1B vs $14.42B est. — +11% AH (semi tailwind Fri)
+Tomorrow (Fri Jul 24):
+  Jun 17 dist expires → 7/25 (still Correction ≥6)
+  INTC +11% AH → NVDA/semi gap-up watch at open
+  FOMC quiet period begins; FOMC Jul 28-29 + META/MSFT/ARM Jul 29 = most volatile session of Q3
+
+---
 ## 2026-07-23 10:00 CT [market-check — 🔴 CORRECTION DEEPENING — S&P ~7,424 (−1%) — Dow −516 pts — Nasdaq −1.8% — ⚠️ DIST DAY #8 HIGH PROB — BRENT $100.40 ABOVE $100 — GOOGL −5.7% — TSLA −9.8% EPS MISS — JOBLESS 187K BEAT — INTC AMC TONIGHT — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-07-23 10:00 CT
