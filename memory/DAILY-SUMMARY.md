@@ -1,5 +1,43 @@
 
 ---
+## 2026-07-23 10:00 CT [market-check — 🔴 CORRECTION DEEPENING — S&P ~7,424 (−1%) — Dow −516 pts — Nasdaq −1.8% — ⚠️ DIST DAY #8 HIGH PROB — BRENT $100.40 ABOVE $100 — GOOGL −5.7% — TSLA −9.8% EPS MISS — JOBLESS 187K BEAT — INTC AMC TONIGHT — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-07-23 10:00 CT
+Market: 🔴 Correction (7/25 dist days — +1 pending EOD) | Circuit breakers: NONE
+Abort gates FIRED:
+  (1) Correction (7/25 dist days; S&P below 50d MA) — no new longs
+  (2) Alpaca Day ~153 BLOCKED (403 proxy) — no order execution
+Actions taken:
+  No new entries — Correction gate (7/25 + Alpaca blocked + 0 candidates ≥75 — 16th consecutive week)
+  sell-rules-engine: SKIPPED (0 open positions)
+  SH $625 hedge: QUEUED (unchanged — Alpaca still blocked; executes as FIRST order on Alpaca restore)
+Intraday (10:00 AM CT / 11:00 AM ET):
+  S&P 500: ~7,424 (−1.0% / −75 pts from 7,498.96) | Open: 7,489.18 | Range: 7,440.53–7,513.23
+  Dow Jones: −516 pts (−1.0%)
+  Nasdaq: −1.8% (tech leading decline)
+  50d MA ~7,534.75 → S&P −1.47% below | 200d MA ~7,464.61 → S&P −0.54% below (200d breach renewed)
+⚠️ DIST DAY #8 HIGH PROBABILITY:
+  Threshold: 7,484.0 | S&P at ~7,424 = ~60 pts below threshold at 10 AM CT
+  Volume: elevated (magnitude/breadth of move; Nasdaq −1.8%, GOOGL/TSLA −5-10%)
+  If confirmed EOD: active dist count = 8/25 TODAY → Jun 17 expires Fri Jul 24 → 7/25 Fri
+🚨 BRENT $100.40 (+6.7%) — FIRST TIME ABOVE $100 (Houthi Saudi tanker attacks, Red Sea)
+  WTI: ~$91+ (est.) | Stagflation signal: strong labor + oil above $100 = FOMC most hawkish backdrop of 2026
+  FOMC Jul 28-29 risk ESCALATED: Chair Warsh hawkish; oil gives cover for hold/hike; rate-hike probability rising above 11-14% prior est.
+✅ JOBLESS CLAIMS MASSIVE BEAT: 187K vs 218K est. (lowest since 1969; prior 209K; 4-wk MA 207.5K)
+  Net market reaction: NEGATIVE (labor tight + Brent $100 = stagflation > labor strength narrative)
+⚠️ TSLA: −9.8% intraday | EPS MISS (CORRECTION to Jul 22 EOD log: "EPS beat" was WRONG — Finviz AH snapshot was misleading; actual result = weaker profit than estimates + revenue declined YoY) | `TSLA_Jul22_EOD_beat_CORRECTED_to_MISS`
+⚠️ GOOGL: −5.7% intraday | Capex raise punished by market | Bench score revised: 77/100 pre-earnings est. → now 60-65/100 (XLC #9 + L-letter decline + I-letter negative) | NOT actionable Q3 2026 | Earnings blackout through Aug 5
+NVDA: ~$205-210 intraday (est. −1 to −2% from $213.72 CONF) | Score 74/100 UNCHANGED | BLOCKED
+INTC: AMC tonight (EPS $0.22 est. / Rev $14.4B; ±12-15% implied; key semi sector read)
+Jun 17 dist expires TOMORROW Fri Jul 24 → 6/25 (even if today is dist day #8: 8/25 today → 7/25 Fri)
+FTD status: CLOSED | Today's selloff narrows gap: Day 1 trigger 7,266.99 vs intraday low ~7,440 = ~174 pts (down from 232 pts) | Earliest Confirmed Uptrend pushed further out (~Aug-Sep 2026)
+Bench scores: NVDA 74/100 UNCHANGED | MRVL ~15-25/100 UNCHANGED | GOOGL 60-65/100 est. (REVISED DOWN) | INTC to be re-evaluated post-earnings Aug 1+
+Watchlist: 0 primary (entry gate: Correction) | Bench: NVDA (74), MRVL (~15-25), GOOGL (60-65 est.), INTC (post-Aug-1)
+Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%)
+Weekly trade count: 0 of 3 used
+Next check: /eod-review 3:15 PM CT (CRITICAL: confirm dist day #8 + volume; INTC results post-close)
+
+---
 ## 2026-07-22 10:00 CT [market-check — 🔴 CORRECTION — S&P ~7,509 NEAR FLAT (reversed off −0.30% open) — DIST #8 NOT TRIGGERED 10AM — GOOGL+TSLA AMC TONIGHT — 7/25 UNCHANGED — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-07-22 10:00 CT
