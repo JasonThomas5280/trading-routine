@@ -6,7 +6,23 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 22 /eod-review FINAL — S&P CONF ~7,498.96 (−0.136%) | DIST #8 NOT TRIGGERED ✅ (threshold 7,494.15; close 4.8 pts above; vol lighter than Jul 21) | DIST COUNT 7/25 UNCHANGED | ✅ JUN 17 EXPIRES TOMORROW THU JUL 24 → 6/25 | ✅ GOOGL AMC BEAT: Rev $119.8B / Cloud +82% YoY / EPS $9.11 (Anthropic MTM) | TSLA EPS BEAT rev declined YoY AH −0.5% | NVDA CONF +3.1% $213.72 | ALPACA DAY ~152 BLOCKED | 0 POSITIONS | 0 ACTIONS | FOMC JUL 28-29)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 23 /pre-market — ES +0.56% | NQ strong bid | ⚠️ GOOGL −5% AH (capex raise) | INTC earnings AMC tonight | Houthi tanker attacks / Brent $95.71 (+2.5%) | Jobless claims 8:30 AM ET (218K est.) | DIST COUNT 7/25 UNCHANGED | ✅ JUN 17 EXPIRES TOMORROW FRI JUL 24 → 6/25 IF NO DIST TODAY | ALPACA DAY ~153 BLOCKED | 0 POSITIONS | 0 ACTIONS)*
+
+**✅ JUL 23 /pre-market (6:00 AM CT — 🔴 CORRECTION — ES +0.56% / NQ STRONG BID — ⚠️ GOOGL −5% AH CAPEX RAISE — INTC AMC TONIGHT — HOUTHI TANKER ATTACK / BRENT $95.71 — JOBLESS CLAIMS 8:30 AM — ALPACA DAY ~153 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~153 BLOCKED | Perplexity 403 | AV 403 | 30th consecutive degraded session
+- **Jul 22 CONF close: 7,498.96 (−0.136%) NOT dist day ✅** (confirmed prior EOD) | Dist count: **7/25 UNCHANGED** | Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+- **⚠️ JUN 17 EXPIRES TOMORROW FRI JUL 24 → 6/25** IF no new dist day today (Thu Jul 23) | Dist threshold TODAY: **7,484.0** (7,498.96 × 0.998)
+- **Futures (6:00 AM CT):** ES ~7,541 (+0.56%) | NQ ~28,967 (strong bid, +1.4% from overnight open low) — constructive
+- **⚠️ GOOGL −5% AH (NEW post-EOD development):** GOOGL raised full-year capex despite Cloud +82% beat; market punishing spend escalation. ~6% S&P weight = ~−0.30% drag on index at open. Net open: muted despite positive futures.
+- **Oil spike: Brent $95.71 (+2.5%) | WTI $87.99 (+1.7%)** — Houthi militants attacked Saudi tankers Encelia + Layla in Red Sea overnight. Stagflation concern intensifies ahead of FOMC Jul 28-29 (Warsh hawkish).
+- **INTC AMC tonight:** Reports after close. Consensus EPS $0.22 / Rev $14.4B. INTC +8.4% Wed on pre-earnings catalysts (18A yields 85%, Xeon 6700P, Google AI deal). Options ±12-15% implied move. KEY semi sector read.
+- **Jobless claims 8:30 AM ET:** Est. 218K vs prior 215K. Upside surprise = notable.
+- **50d MA (est. ~7,534.75):** S&P 7,499 = −0.47% BELOW → Correction trigger STILL ACTIVE
+- **200d MA (est. ~7,464.61):** S&P 7,499 = +0.46% ABOVE → cushion intact
+- **FTD status:** CLOSED — requires new Day 1 below 7,266.99 (~232 pts away). ES +0.56% pre-mkt moves AWAY from Day 1 setup.
+- **NVDA:** Pre-market range $204.95–$214.39 (≈flat vs CONF $213.72). Score **74/100 UNCHANGED** | INTC 18A foundry news TSMC-neutral for NVDA. BLOCKED.
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | 0 positions | 0 actions
+- `pre-market_Jul23` | `websearch_fallback` | `ES_+0.56pct` | `NQ_strongbid` | `GOOGL_minus5pct_AH_capex` | `Houthi_Brent_95.71_WTI_87.99` | `INTC_AMC_tonight_0.22est_14.4B` | `jobless_218K_est` | `dist_7of25_UNCHANGED` | `Jun17_expires_TOMORROW_Jul24` | `NVDA_premarket_204.95_214.39` | `Alpaca_Day153_BLOCKED`
 
 **✅ JUL 22 /eod-review FINAL (3:15 PM CT + AH data — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,498.96 (−0.136%) — DIST #8 NOT TRIGGERED ✅ — 7/25 UNCHANGED — JUN 17 EXPIRES TOMORROW → 6/25 — GOOGL MASSIVE BEAT Cloud +82% YoY — TSLA MIXED AH −0.5% — NVDA CONF +3.1% $213.72 — ALPACA DAY ~152 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~152 BLOCKED | Perplexity 403 | AV 403 | 29th consecutive degraded session

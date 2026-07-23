@@ -15914,3 +15914,72 @@ Equity:    $2,500.00 (HWM)
 - **Not a positive market catalyst**
 
 `SPX_CONF_7498.96_Jul22` | `NOT_dist_Jul22_FINAL` | `NVDA_CONF_213.72_+3.1pct` | `GOOGL_CONF_Beat_Rev119.8B_Cloud82pct` | `TSLA_CONF_EPSbeat_Revdeclined`
+
+---
+
+## 2026-07-23 — /pre-market (6:00 AM CT)
+
+**Research source:** websearch_fallback (Alpaca: Day ~153 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — 30th consecutive degraded session)
+**Market direction pull:** 🔴 Correction (7/25 dist days + S&P below 50d MA — UNCHANGED)
+**Sector leaders (4-week trailing RS):** XLE Energy, XLI Industrials, XLP Consumer Staples (defensive rotation — UNCHANGED from weekly-prep)
+**Sector laggards:** XLK Tech (worst #11 of 11), XLC Communication (GOOGL capex overhang adding pressure today)
+
+### Overnight catalysts affecting watchlist
+
+- **$GOOGL AH UPDATE (POST-EOD):** ⚠️ GOOGL fell ~5% AH overnight despite Q2 Cloud beat. Catalyst: raised full-year capex guidance (market punishing AI spend escalation eating into margins). Prior EOD noted "flat initially" — confirmed deterioration to −5% AH during overnight session. GOOGL bench re-score impact: L-letter weakening (RS declining AH), I-letter sentiment negative (institutional selling AH). Earliest re-entry window still Aug 5+, but capex overhang likely depresses GOOGL score vs pre-earnings 77/100 estimate.
+- **$NVDA:** Pre-market range $204.95–$214.39 (≈flat to slightly below CONF $213.72). GOOGL Cloud +82% YoY confirms AI demand thesis (positive). INTC 18A foundry yield improvement (85%) is TSMC-neutral for NVDA (NVDA uses TSMC; no direct foundry threat). Score **74/100 UNCHANGED**.
+- **$MRVL:** No specific overnight news. ~15–25/100 watch-only UNCHANGED.
+- **$INTC:** +8.4% yesterday on three pre-earnings catalysts: (1) Xeon 6700P memory upgrade (+20% bandwidth, +25% speed), (2) Google Cloud AI deal expansion, (3) 18A foundry yields 85% (from 65%). Reports AMC TONIGHT. Consensus: EPS $0.22 non-GAAP / Rev $14.4B. Options pricing 12–15% swing. INTC ~$104.80 (YTD +163%, 1yr +317%). ⚠️ INTC is in earnings blackout — entry blocked through ~Jul 31. Post-earnings bench consideration if score qualifies and market turns.
+
+### Buy-zone status (open watchlist items)
+
+- **$NVDA (bench):** Pre-market ~$204.95–$214.39. Dist from 52-wk high $236.54 = ~10–13%. Cup wk ~34, no handle. Score 74/100. 🟡 WATCHING — NOT actionable (Correction + no handle + Alpaca blocked + <75 threshold). Re-score trigger: handle completes + Confirmed Uptrend + Alpaca+AV restore → est. 82-84/100.
+- **$MRVL (watch-only):** No price data (Alpaca blocked). ~15–25/100. ❌ BELOW THRESHOLD — not in buy-zone consideration.
+- **No primary watchlist items.** Correction gate blocks all longs.
+- **SH $625 hedge:** Still QUEUED — Alpaca Day ~153 BLOCKED. Execute as first order on Alpaca restore.
+
+### Open positions — overnight check
+
+- **0 open positions.** No overnight gap check required. ✅
+
+### Market overnight
+
+- **Futures (6:00 AM CT):** ES ~7,541 (+~0.56% vs Jul 22 CONF 7,498.96) | NQ ~28,967 (strong bid, +1.4% off overnight open lows)
+- **GOOGL drag:** −5% AH will weigh on open (~6% S&P weight = ~−0.30% drag from GOOGL alone). Net open likely muted/mixed despite positive futures.
+- **Oil: Brent $95.71 (+2.5%) | WTI $87.99 (+1.7%)** — Houthi militants attacked two Saudi tankers overnight (Encelia and Layla, Red Sea). Supply disruption risk resurfacing. Stagflation concern ahead of FOMC Jul 28-29 (Warsh hawkish).
+- **INTC earnings AMC tonight** — semiconductor sector sentiment binary event. Beat + guidance = chip bounce Thu/Fri; miss = chip bear deepens.
+- **Jobless claims today 8:30 AM ET:** Est. 218K vs prior 215K. Small expected uptick; spike = notable Fed concern.
+- **Existing Home Sales 10:00 AM ET:** Est. 4.19M. Secondary; rate-sensitive sector headwind.
+- **Flash PMI (S&P Global):** Likely today (3rd Thursday); not confirmed. Check calendar.
+
+### Calendar / upcoming events
+
+- **TODAY Thu Jul 23:** Jobless claims 8:30 AM | Existing Home Sales 10:00 AM | **INTC AMC** | Flash PMI (likely)
+- **TOMORROW Fri Jul 24: ⚠️ JUN 17 DIST EXPIRES → 6/25** (if no new dist today Thu Jul 23) | Dist threshold today: 7,484.0 (7,498.96 × 0.998) — LOW risk given ES +0.56%
+- **Mon Jul 28 – Tue Jul 29:** FOMC (Warsh hawkish; 86-89% hold; Jul 29 = also META+MSFT+ARM earnings → most volatile Q3 session)
+- **Wed Jul 30:** AMZN + AAPL earnings
+- **~Aug 5:** ARM post-earnings re-entry window opens | INTC post-earnings blackout clears | GOOGL post-earnings blackout clears
+
+### Circuit breaker check
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily −3% | −$75 | ✅ CLEAR ($0 P&L — 0 positions) |
+| Weekly −6% | −$150 | ✅ CLEAR ($0 P&L) |
+| Drawdown −12% HWM | −$300 | ✅ CLEAR ($0 from HWM) |
+| PDT 3 of 3 | 4th day trade | ✅ CLEAR (0 of 3) |
+
+**Circuit breakers: ALL CLEAR.** No restrictions beyond Correction posture.
+
+### Actions
+
+**NONE.** Correction (7/25 dist) + Alpaca Day ~153 BLOCKED + 0 positions + 0 candidates ≥75 — 23rd consecutive session with zero actions.
+- SH $625 hedge: QUEUED — execute as FIRST order on Alpaca restore
+- sell-rules-engine: SKIPPED (0 positions)
+
+**DATA QUALITY FLAGS:**
+- One source showed Jul 22 S&P close as 7,484 (−0.33%) — contradicts our CONFIRMED 7,498.96 (−0.136%). Our confirmed value stands; source likely using a different index/ETF or stale data.
+- NVDA pre-market baseline conflict ($202.81 vs CONF $213.72). Range $204.95–$214.39 is the reliable indicator; +4.17% claim not verifiable against our confirmed close.
+- GOOGL -5% AH is from overnight research; our EOD noted "flat initially" at 4PM — deterioration happened in extended session.
+
+`research_source: websearch_fallback` | `Alpaca_Day153_BLOCKED` | `Perplexity_403` | `AV_403` | `30th_consecutive_degraded_session` | `ES_+0.56pct` | `NQ_strongbid` | `GOOGL_minus5pct_AH_capex_raise` | `INTC_earnings_AMC_tonight` | `INTC_plus8.4pct_Wed` | `Houthi_tanker_attack_Brent_95.71` | `WTI_87.99` | `jobless_claims_218K_est` | `dist_7of25_UNCHANGED` | `Jun17_expires_TOMORROW_Jul24` | `dist_threshold_today_7484` | `NVDA_premarket_204.95_214.39` | `circuit_breakers_ALL_CLEAR`

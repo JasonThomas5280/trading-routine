@@ -4620,3 +4620,49 @@ Pending: GOOGL+TSLA AMC tonight (not yet reported at 3:15 CT) | INTC AMC tomorro
 ⚠️ KEY TOMORROW (Thu Jul 24): Jun 17 dist EXPIRES → 6/25 IF no new dist today ✅ + tomorrow | Jobless claims
 FOMC Jul 28-29 (Warsh hawkish) | SH $625 hedge QUEUED (Alpaca BLOCKED)
 Tomorrow watch: INTC AMC (semi sentiment) | GOOGL/TSLA after-hours read | dist expiry
+
+---
+## 2026-07-23 06:00 CT [pre-market — 🔴 CORRECTION — ES +0.56% / NQ BID — ⚠️ GOOGL −5% AH CAPEX — INTC AMC TONIGHT — BRENT $95.71 HOUTHI — DIST 7/25 — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-07-23
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+Futures: ES ~7,541 (+0.56%) | NQ ~28,967 (strong bid, +1.4% off overnight open lows)
+Open positions: 0 | Deployed: 0% | Cash: $2,500 (100%) | Alpaca: Day ~153 BLOCKED
+
+⚠️ NEW OVERNIGHT CATALYST — GOOGL −5% AH:
+  After our Jul 22 EOD closed, GOOGL fell −5% in extended hours.
+  Catalyst: raised full-year capex despite Cloud +82% YoY beat (market punishing spend).
+  Impact: ~−0.30% drag on S&P at open from GOOGL alone (~6% index weight).
+  GOOGL bench re-score impact: L-letter weakening, I-letter negative → pre-earnings 77/100 estimate likely LOWER post-capex overhang.
+
+⚠️ OIL SPIKE — HOUTHI TANKER ATTACK:
+  Houthi militants attacked two Saudi tankers (Encelia, Layla) in Red Sea overnight.
+  Brent $95.71 (+2.5%) | WTI $87.99 (+1.7%) — stagflation risk ahead of FOMC Jul 28-29.
+
+INTC earnings AMC TONIGHT:
+  Consensus: EPS $0.22 non-GAAP / Rev $14.4B | ±12-15% options implied move
+  INTC +8.4% Wednesday on 3 catalysts: 18A yield 85%, Xeon 6700P, Google AI deal
+  KEY semi sector read — beat = chip bounce Fri; miss = chip bear deepens
+  ⚠️ INTC in earnings blackout — no entry until ~Aug 1; post-earnings bench consideration
+
+Economic data today (ET):
+  8:30 AM: Jobless claims (218K est. vs 215K prior)
+  10:00 AM: Existing Home Sales (4.19M est.)
+
+Overnight gaps: NONE (0 open positions)
+Watchlist ready: NONE (0 primary candidates ≥75 — 15th consecutive week at zero)
+Watchlist watching: NVDA 🟡 (74/100 bench; pre-mkt range $204.95–$214.39; cup wk ~34 no handle; BLOCKED)
+Removed: GOOGL (post-earnings capex raise → L/I-letter negative; earliest re-eval Aug 5+)
+
+Key catalyst today: INTC AMC (semi sector sentiment binary)
+Tomorrow: ⚠️ JUN 17 DIST EXPIRES → 6/25 if no new dist TODAY (threshold 7,484.0; ES pre-mkt +0.56% = LOW dist risk)
+Plan: NO entries — Correction gate (7/25 dist + S&P below 50d MA) + Alpaca blocked + 0 candidates ≥75
+  SH $625 hedge still QUEUED — executes as FIRST order on Alpaca restore
+  sell-rules-engine: SKIPPED (0 positions)
+FOMC Jul 28-29 | META+MSFT+ARM Jul 29 AMC | AMZN+AAPL Jul 30 AMC
+`pre-market_Jul23` | `websearch_fallback` | `Alpaca_Day153_BLOCKED` | `30th_degraded_session`
+
+---
+## 2026-07-23 11:16 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-23 | Market: 🔴 Correction (7/25 dist) | Futures: ES +0.56% NQ bid | ⚠️ GOOGL −5% AH (capex raise) | Brent $95.71 Houthi attack | INTC AMC tonight | Jobless claims 8:30 AM | Circuit breakers: NONE | Positions: 0 | Plan: NO entries (Correction + Alpaca blocked) | SH $625 QUEUED | Jun 17 dist expires TOMORROW → 6/25 | Alpaca Day ~153 BLOCKED | research_source: websearch_fallback
