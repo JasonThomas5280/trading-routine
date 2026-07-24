@@ -1,5 +1,40 @@
 
 ---
+## 2026-07-24 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — Dow +0.20% NEAR FLAT — DIST #9 RISK LOW — NVDA $208.76 (+2.30%) — INTC $97.35 (−2.87% SELL-THE-NEWS) — AMKR/NVDA $1.5B DEAL — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-07-24 10:00 CT
+Market: 🔴 Correction (7/25 dist days — ✅ Jun 17 EXPIRED TODAY 8→7) | Circuit breakers: NONE
+Abort gates FIRED:
+  (1) Correction (7/25 dist days; S&P below 50d & 200d MA) — no new longs
+  (2) Alpaca Day ~154 BLOCKED (403 proxy) — no order execution
+Actions taken:
+  No new entries — Correction gate + Alpaca blocked + 0 candidates ≥75 (15th consecutive week zero entries)
+  sell-rules-engine: SKIPPED (0 open positions)
+  SH $625 hedge: QUEUED (unchanged — executes as FIRST order on Alpaca restore; queued 7+ weeks since Jun 5)
+Intraday (10:00 AM CT / 11:00 AM ET):
+  Dow Jones: 51,815.71 (+104.06 pts / +0.20%) | S&P est. ~7,405–7,415 (near flat recovery from −1.44% Thu)
+  50d MA ~7,534.75 → S&P still below | 200d MA ~7,464.61 → S&P still below
+  Dist threshold (DIST #9): 7,390.39 × 0.998 = 7,375.61 | DIST DAY #9 RISK: LOW (market recovering)
+  ✅ Jun 17 EXPIRED TODAY → dist count 8/25 → 7/25 (STILL CORRECTION — ≥6 rule)
+Key movers:
+  ✅ NVDA: $208.76 (+2.30%) — INTC beat (AI data center demand confirmation) + AMKR/NVDA $1.5B packaging deal
+  ✅ AMKR: +10–17% (NVDA $1.5B multi-year deal; US Arizona packaging capacity + joint AI chip R&D; NVDA N-letter tailwind)
+  ⚠️ INTC: $97.35 (−2.87% from $100.23 close) — SELL-THE-NEWS despite massive Q2 beat | Range $95.60–$104.48
+      AH peak $110 → fully reversed → now BELOW pre-earnings close | GAAP net loss ~$11B headwind
+      Bloomberg: "Intel Needs More Than Blowout Earnings as Chips Rally Falters"
+      Bench watch UNCHANGED; blackout through Jul 31; earliest entry Aug 1+
+Bench promotion check:
+  NVDA: $208.76 (+2.30%) | 74/100 UNCHANGED | Cup wk ~35 no handle | NO PROMOTION
+  INTC: $97.35 (−2.87%) | Bench watch UNCHANGED | Blackout Jul 31 | Earliest Aug 1+ | NO PROMOTION
+  MRVL: ~15–25/100 UNCHANGED | Watch-only; broken structure | NO PROMOTION
+  GOOGL: ~60–65/100 UNCHANGED | Not actionable Q3; blackout through Aug 5 | NO PROMOTION
+Week Jul 20–24 CLOSING:
+  0/3 trades used | 0/4 positions | $0 P&L | $2,500 HWM maintained
+  15th consecutive week with zero entries | Alpaca Day ~154 still blocked
+  FOMC Jul 28-29 entering quiet period | Most volatile session of Q3 approaching (META+MSFT+ARM Jul 29)
+Next check: /eod-review 3:15 PM CT
+
+---
 ## 2026-07-23 15:15 CT [eod-review — 🔴 CORRECTION DEEPENING — S&P CONF 7,390.39 (−1.44% DIST #8 ✅) — 8/25 — GOOGL −6.5% TSLA −14% — INTC MASSIVE BEAT +11% AH — BRENT $100.69 — 200d MA BREACHED — 0 POSITIONS — 0 ACTIONS]
 
 📊 EOD 2026-07-23 | Equity $2,500.00 ($0.00 day / $0.00 week)
