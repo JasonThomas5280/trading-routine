@@ -46,6 +46,79 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-24 (Fri) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (8/25 → 7/25 today; Jun 17 expires) — ES +0.2% NQ +0.1% — TRUMP TARIFFS EFFECTIVE — BRENT ~$99 PULLBACK — INTC BEAT CONFIRMED +25% YoY — SEMI SECTOR TAILWIND — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~154; Perplexity: 403; AV: 403 — 33rd consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **8/25 dist days; Jun 17 expires TODAY → 7/25** (still Correction ≥6 rule)
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 20):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Overnight market (pre-market 6:00 AM CT)
+
+- **ES futures:** ~+0.2% | **NQ futures:** ~+0.1% | **Dow futures:** ~+0.5% — muted recovery attempt after Thursday's tech rout
+- **INTC post-earnings:** EPS $0.42 adj vs $0.22 est (**+92% beat**); Rev $16.13B vs $14.45B est (**+11.7% beat; +25.4% YoY**); Data Center & AI +59% YoY to $6.26B; Q3 guide $15.80–$16.80B / EPS $0.38. AH: jumped to $110 then reversed; settled ~$104 (+4% from $100.23 close). Bloomberg: "Intel Needs More Than Blowout Earnings as Chips Rally Falters" — market skeptical of sustained momentum despite record beat. Positive AI data center read for NVDA thesis.
+- **⚠️ Trump tariffs effective today (Jul 24):** New US tariffs of 10–12.5% on 60 trade partners take effect at midnight ET (replacing expiring 10% global tariff; forced-labor violation rationale). Tariff overhang = bearish macro headwind. Source: CNBC Daily Open + Yahoo Finance
+- **Oil:** Brent ~$99 (−2% Fri pullback from $100.69 Thursday close; WTI ~$91). Geopolitical premium cooling slightly — Trump threatened Iran military action but market partially digesting. Still elevated. Stagflation backdrop UNCHANGED ahead of FOMC Jul 28-29.
+- **⚠️ S&P 500 Jul 23 close discrepancy:** Prior EOD logged 7,390.39 (−1.44%) via Motley Fool + Bloomberg. New search data shows 7,408.30 (−1.21%) via CNBC/Yahoo Finance. DIST #8 confirmed in BOTH cases (both >> −0.20% threshold). Using 7,390.39 as our logged confirmed close; noting alternative 7,408.30.
+- **Dist threshold today (no-new-dist zone):** 7,390.39 × 0.998 = 7,375.61. With ES +0.2% pre-mkt → dist day risk **LOW** today.
+- **Jun 17 expires today → 7/25** (still Correction; ≥6 rule applies; no change in market posture)
+- Source: Yahoo Finance market live Jul 24 | CNBC Daily Open Jul 24 | Bloomberg Jul 24 oil | FX Leaders INTC | Bloomberg "Intel Needs More" Jul 23
+
+### Open position gap check
+
+- **0 open positions** → SKIP
+
+### Position catalyst scan
+
+- **SKIP** (0 positions)
+
+### Primary watchlist catalyst scan
+
+- **0 primary candidates** (16th consecutive week with zero names ≥75/100; Correction blocks all entries) → SKIP
+
+### Bench name updates
+
+- **NVDA:** Score **74/100 UNCHANGED**. INTC Data Center +59% = AI demand confirmation → **positive N-letter tailwind** for NVDA thesis (AI chip spend accelerating, not slowing). Cup wk ~35, no handle. 52-wk high $236.54. Pre-market not confirmed (Alpaca blocked; last confirmed $213.72 Jul 22 / est. ~$200-210 Jul 23). Expect semi gap-up today on INTC beat. BLOCKED: Correction + 74/100 + no handle + Alpaca. Re-score triggers: handle + Uptrend + Alpaca restore → est. 82-84/100. `NVDA_74of100_UNCHANGED` `INTC_DataCenter_+59pct_AI_demand_tailwind`
+- **MRVL:** Score ~15-25/100 WATCH-ONLY. No new catalyst today. Broken structure; 8+ wk rebuild ongoing. Not monitoring actively. `MRVL_watch_only`
+- **⚠️ INTC — NEW BENCH WATCH CANDIDATE (post-earnings assessment):**
+  - Q2 beat: EPS $0.42 adj vs $0.22 est (+92%); Rev $16.13B vs $14.45B est (+25.4% YoY); fastest rev growth since 2011
+  - Data Center & AI: $6.26B (+59% YoY) — 18A foundry yield improvements driving AI chip demand
+  - Q3 2026 guide: Rev $15.80–$16.80B, EPS $0.38 (sequential deceleration vs Q2 but still strong)
+  - L-letter: INTC up 163% YTD / 327% from lows → RS rank very high (top decile likely)
+  - C-letter: EPS swing from −$0.10 (Q2 2025) → +$0.42 (Q2 2026) = YoY ~loss→profit; Rev +25.4% YoY
+  - N-letter: 18A foundry ramp + Google AI deal + Xeon 6700P launch = new product/new market
+  - BLOCKED: (1) Earnings blackout through ~Jul 31 → **earliest entry window Aug 1+**; (2) Correction gate; (3) Alpaca blocked; (4) Price ($100.23 Jul 23) ✅ in $10-$500 range
+  - ACTION: Run canslim-screener on INTC **when data restores + post-blackout (Aug 1+)**. Preliminary estimate: INTC could score 70-78/100 with live data (C-letter growth outstanding but GAAP vs non-GAAP nuance; base must re-form post-earnings)
+  - `INTC_bench_watch_NEW` `INTC_earnings_blackout_through_Jul31` `INTC_earliest_reentry_Aug1` `INTC_C_letter_outstanding_+25pct_Rev` `INTC_DC_AI_59pct_N_letter`
+
+### Buy-zone readiness
+
+| Symbol | Status | Notes |
+|---|---|---|
+| NVDA | 🔴 NOT ACTIONABLE | 74/100; Correction gate; no handle; Alpaca blocked |
+| MRVL | 🔴 NOT ACTIONABLE | 15-25/100; broken structure; watch only |
+| INTC | 🔴 NOT ACTIONABLE (today) | Earnings blackout through Jul 31; Correction gate; evaluate Aug 1+ |
+
+### Circuit breaker check
+
+- **Daily P&L:** $0 (no positions) → **CLEAR**
+- **Weekly P&L:** $0 (0/3 trades placed week Jul 20) → **CLEAR**
+- **Drawdown from HWM:** $0 ($2,500 equity = HWM) → **CLEAR**
+- **PDT count:** 0/3 → **CLEAR**
+- **Alpaca blocked:** Day ~154 — no orders possible regardless
+
+### Actions today
+
+**NONE.** Correction (7/25 dist after Jun 17 expiry today) + Alpaca Day ~154 BLOCKED + 0 positions + 0 candidates ≥75. 24th consecutive EOD zero actions anticipated.
+- SH $625 hedge: QUEUED — Alpaca BLOCKED; execute when restored
+- sell-rules-engine: SKIPPED (0 positions)
+- INTC: Bench watch flagged — formal canslim-screener eval deferred to Aug 1+
+
+**P&L today:** $0 | **P&L week:** $0 | **Equity:** $2,500 (HWM)
+
+`research_source: websearch_fallback` | `Alpaca_Day154_BLOCKED` | `Perplexity_403` | `AV_403` | `ES_+0.2pct` | `NQ_+0.1pct` | `Trump_tariffs_effective_10-12.5pct_60_countries` | `Brent_~99_pullback` | `WTI_~91` | `INTC_beat_confirmed_EPS0.42_Rev16.13B_+25.4pct_YoY_DC+59pct` | `INTC_bench_watch_NEW` | `NVDA_74of100_UNCHANGED` | `Jun17_expires_TODAY_dist_8of25_→_7of25` | `dist_threshold_7375.61` | `dist_risk_LOW` | `FOMC_Jul28-29_tariff_headwind_elevated` | `33rd_degraded_session`
+
+---
+
 ## 2026-07-23 (Thu) — /eod-review (3:15 PM CT) — 🔴 CORRECTION DEEPENING — S&P CONF 7,390.39 (−1.44% DIST #8 ✅) — 8/25 — GOOGL −6.5% TSLA −14% — INTC MASSIVE BEAT +11% AH — BRENT $100.69 — 200d MA BREACHED — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~153; Perplexity: 403; AV: 403 — 32nd consecutive degraded session)

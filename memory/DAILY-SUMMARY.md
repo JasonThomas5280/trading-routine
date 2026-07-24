@@ -4727,3 +4727,35 @@ FOMC Jul 28-29 | META+MSFT+ARM Jul 29 AMC | AMZN+AAPL Jul 30 AMC
 ## 2026-07-23 11:16 CT [clickup-placeholder]
 
 🌅 Pre-market 2026-07-23 | Market: 🔴 Correction (7/25 dist) | Futures: ES +0.56% NQ bid | ⚠️ GOOGL −5% AH (capex raise) | Brent $95.71 Houthi attack | INTC AMC tonight | Jobless claims 8:30 AM | Circuit breakers: NONE | Positions: 0 | Plan: NO entries (Correction + Alpaca blocked) | SH $625 QUEUED | Jun 17 dist expires TOMORROW → 6/25 | Alpaca Day ~153 BLOCKED | research_source: websearch_fallback
+
+---
+## 2026-07-24 06:00 CT [pre-market — 🔴 CORRECTION (7/25 Jun 17 expires today) — ES +0.2% NQ +0.1% — TRUMP TARIFFS EFFECTIVE — BRENT ~$99 PULLBACK — INTC BEAT CONFIRMED — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-07-24 | Equity $2,500.00
+Market: 🔴 CORRECTION | Futures: ES +0.2% / NQ +0.1%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 positions)
+Dist count: 7/25 (Jun 17 EXPIRES TODAY — was 8/25; still Correction ≥6 rule)
+Dist threshold today: 7,375.61 | Risk: LOW (ES +0.2% pre-mkt)
+
+Watchlist ready: NONE (primary list empty — Correction gate + 0 candidates ≥75, 16th consecutive week)
+Watchlist watching: NONE (bench items below 75 threshold)
+Bench status:
+  NVDA: 74/100 UNCHANGED — cup wk ~35 / no handle / INTC DC beat = AI demand tailwind
+  MRVL: ~15-25/100 WATCH-ONLY — broken structure / no catalyst
+  INTC: NEW BENCH WATCH — post-earnings Q2 beat (EPS $0.42 +92%, Rev $16.13B +25.4% YoY, DC+59%)
+         Blackout through Jul 31 → canslim-screener eval Aug 1+
+         Earliest entry window Aug 1+ (also needs Uptrend ~Aug 17-21)
+
+Key catalysts overnight:
+  ✅ INTC Q2 2026 BEAT: EPS $0.42 vs $0.22 (+92%); Rev $16.13B (+25.4% YoY); Data Center +59% — AH jumped $110, reversed $104 (+4%)
+  ⚠️ Trump tariffs 10-12.5% on 60 countries EFFECTIVE TODAY (forced-labor rationale) — macro headwind
+  Brent ~$99 (-2% pullback from $100.69 Thu close); WTI ~$91 — elevated but cooling slightly
+  ⚠️ FOMC Jul 28-29: stagflation backdrop worsening (tariffs + oil $99 + jobless 187K)
+  Jul 29: also META+MSFT+ARM earnings — most volatile session of Q3
+
+Plan: NO ENTRIES — Correction (7/25) + Alpaca Day ~154 BLOCKED. SH $625 QUEUED for Alpaca restore.
+      Monitor today's S&P close vs dist threshold 7,375.61. INTC: eval Aug 1+ on canslim-screener.
+      Enter FOMC week fully in cash/Correction posture.
+
+research_source: websearch_fallback | Alpaca: Day ~154 BLOCKED | Perplexity: 403 | AV: 403 | 33rd degraded session

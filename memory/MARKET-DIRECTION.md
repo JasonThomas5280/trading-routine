@@ -6,7 +6,26 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 23 /eod-review FINAL — S&P CONF 7,390.39 (−1.44% / −108.57 pts) | DIST DAY #8 CONFIRMED ✅ | DIST COUNT 8/25 | Nasdaq est. −2.2% ~25,142 | SPY est. ~$730 | QQQ est. ~$700-701 | BRENT $100.69 (+7%) ABOVE $100 | GOOGL −6.5% capex raise | TSLA −14% EPS MISS | INTC AMC MASSIVE BEAT: EPS $0.42 vs $0.21 est. (2×), Rev $16.1B vs $14.42B est. +11% AH | 50d MA −1.93% BELOW | 200d MA −0.99% BELOW (BREACHED) | JUN 17 EXPIRES TOMORROW FRI JUL 24 → 7/25 (if no new dist Fri) | FOMC JUL 28-29 RISK ELEVATED | ALPACA DAY ~153 BLOCKED | 0 POSITIONS | 0 ACTIONS)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 24 /pre-market — S&P last CONF 7,390.39 (−1.44% / DIST #8 Jul 23) | DIST COUNT 7/25 (Jun 17 EXPIRED TODAY ✅ 8→7) | ES +0.2% / NQ +0.1% MUTED RECOVERY | TRUMP TARIFFS EFFECTIVE (10–12.5% on 60 countries) | BRENT ~$99 pullback from $100.69 | INTC BEAT CONFIRMED: EPS $0.42 (+92% beat) / Rev $16.13B (+25.4% YoY) / Data Center +59% | 50d MA est. −1.93% BELOW | 200d MA est. −0.99% BELOW (BREACHED) | FOMC JUL 28-29 RISK ELEVATED (stagflation backdrop) | ALPACA DAY ~154 BLOCKED | 0 POSITIONS | 0 ACTIONS)*
+
+**✅ JUL 24 /pre-market (6:00 AM CT — 🔴 CORRECTION (8/25 → 7/25 Jun 17 EXPIRES TODAY) — ES +0.2% / NQ +0.1% MUTED RECOVERY — TRUMP TARIFFS 10-12.5% EFFECTIVE — BRENT ~$99 PULLBACK — INTC BEAT CONFIRMED +25% YoY — ALPACA DAY ~154 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~154 BLOCKED | Perplexity 403 | AV 403 | 33rd consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days as of today) → no new longs | (2) Alpaca BLOCKED (403) → no order execution**
+- **⚠️ Jun 17 DISTRIBUTION DAY EXPIRES TODAY (Jul 24):** Count drops 8/25 → **7/25** (still Correction; ≥6 rule applies; NO state change)
+- **Active dist days after Jun 17 expiry:** Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23 = **7/25**
+- **Dist threshold today:** S&P must close < 7,375.61 (7,390.39 × 0.998) for DIST #9. With ES +0.2% pre-mkt → **dist day risk: LOW**
+- **⚠️ S&P 500 Jul 23 close note:** Prior EOD logged 7,390.39 (−1.44%) via Motley Fool+Bloomberg. New WebSearch shows 7,408.30 (−1.21%) via CNBC/Yahoo. DIST #8 confirmed under BOTH values (>−0.20% threshold). Using 7,390.39 as official logged close. Threshold calculation: 7,390.39 × 0.998 = 7,375.61.
+- **Futures (pre-market):** ES ~+0.2% | NQ ~+0.1% | Dow futures ~+0.5% — muted recovery after Thursday's -1.21%/-2.15% rout
+- **Trump tariffs effective TODAY:** 10–12.5% on 60 trade partners (forced-labor violation rationale) effective at midnight ET → macro headwind for global trade; adds to FOMC stagflation backdrop
+- **Oil:** Brent ~$99 (−2% pullback from $100.69 Thu close) | WTI ~$91 | Geopolitical premium partially cooling but elevated; Trump Iran military threat ongoing
+- **INTC Q2 2026 BEAT CONFIRMED:** EPS $0.42 adj vs $0.22 est (+92%); Rev $16.13B vs $14.45B est (+11.7% beat; +25.4% YoY); Data Center & AI +59% YoY to $6.26B. AH: jumped to $110, reversed to ~$104. Bloomberg: "Intel Needs More Than Blowout Earnings as Chips Rally Falters." Semi sector read: POSITIVE for AI demand narrative; NVDA tailwind at open.
+- **NVDA:** Score **74/100 UNCHANGED** | Cup wk ~35, no handle | INTC beat = AI data center demand confirmation (N-letter tailwind) | Last price est. ~$200-210 (Jul 23 close; no live data) | BLOCKED (Correction + <75 + no handle + Alpaca)
+- **FOMC Jul 28-29 risk:** Elevated — Trump tariffs (10-12.5%) + Brent ~$99 + jobless 187K (lowest since 1969) = stagflation = Warsh hawkish; Jul 29 also META+MSFT+ARM earnings = most volatile session of Q3 (UNCHANGED)
+- **50d MA (est. ~7,534.75):** S&P est. −1.93% BELOW (deep correction; unchanged from Thu estimate)
+- **200d MA (est. ~7,464.61):** S&P est. −0.99% BELOW (200d MA breached; unchanged)
+- **FTD status:** CLOSED — requires new Day 1 below 7,266.99 (~123 pts below Jul 23 close); ES +0.2% moves AWAY from Day 1 setup; Earliest Uptrend ~Aug 17-21
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | 0 positions | 0 actions
+- `pre-market_Jul24` | `websearch_fallback` | `ES_+0.2pct` | `NQ_+0.1pct` | `Jun17_EXPIRES_TODAY_dist_8of25_→_7of25` | `Trump_tariffs_10-12.5pct_effective` | `Brent_~99_pullback` | `INTC_beat_EPS0.42_Rev16.13B_+25.4pct_DC+59pct` | `NVDA_74of100_UNCHANGED` | `FOMC_Jul28-29_risk_elevated` | `Alpaca_Day154_BLOCKED` | `33rd_degraded_session`
 
 **✅ JUL 23 /eod-review FINAL (3:15 PM CT — 🔴 CORRECTION DEEPENING — S&P CONF 7,390.39 (−1.44%) — DIST DAY #8 CONFIRMED ✅ — 8/25 — GOOGL −6.5% TSLA −14% — INTC MASSIVE BEAT +11% AH — BRENT $100.69 — 200d MA BREACHED — ALPACA DAY ~153 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION DEEPENING (UNCHANGED)** | `research_source: websearch_fallback` | Alpaca Day ~153 BLOCKED | Perplexity 403 | AV 403 | 32nd consecutive degraded session
