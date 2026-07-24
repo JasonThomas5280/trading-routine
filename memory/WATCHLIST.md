@@ -30,6 +30,12 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-07-20 to 2026-07-25 — **STALE — archived via /weekly-review Fri Jul 24; rebuild via /weekly-prep Sun Jul 27**
+
+> Archived week of Jul 20-25. Market state: 🔴 Correction (7/25 dist days at close — peaked 8/25 Thu Jul 23, then Jun 17 expired Fri Jul 24 → 7/25). Zero primary candidates (15th consecutive week). NVDA 74/100 (bench, cup wk ~35, no handle; INTC beat + AMKR $1.5B deal = N-letter tailwinds; AMD competitive flag active; 52-wk high $236.54). MRVL ~15-25/100 (watch-only; broken structure). GOOGL declining to est. 60-65/100 (post-earnings capex raise; XLC #9). INTC added as NEW bench watch (beat confirmed; blackout clear Aug 1+; run canslim-screener then). ARM PERMANENTLY REMOVED COB Jul 21 (60/100 GAAP fail). SH $625 QUEUED (Alpaca Day ~154 BLOCKED). **Rebuild required Sun Jul 27 /weekly-prep before Mon /pre-market.** ⚠️ CRITICAL NEXT WEEK: FOMC Jul 28-29 (Warsh hawkish; stagflation risk = hike surprise) + META+MSFT+ARM earnings AMC Jul 29 + AMZN+AAPL AMC Jul 30. DO NOT enter Jul 29 under any circumstances. Jun 23 dist expires Tue Jul 29 → 6/25 (still Correction ≥6 rule). Earliest Uptrend est. Aug 17-21.
+
+---
+
 ## ⛔ CURRENT — Week of 2026-07-20 to 2026-07-25 — REBUILT Sun Jul 19 /weekly-prep
 
 **Updated:** 2026-07-24 (Fri) — `/pre-market` 6:00 AM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode

@@ -1730,3 +1730,171 @@ Current priority ranking:
   - **No new macro data of significance before FOMC:** FOMC is the week's dominant risk; quiet pre-meeting environment expected.
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (ALL blocked by Correction). SH hedge $625 QUEUED — Alpaca Day ~142 BLOCKED. Capital at HWM since inception ($2,500.00, 14 weeks). First positive-alpha week in 14 weeks.
 - **Emotional state check:** DISCIPLINED and vindicated by the week's outcome. Cash outperformed for the first time. The SOX entering bear market, the Moonshot AI Kimi-K3 catalyst, and the MRVL −8.71% day validate the Correction posture entirely. The only frustration is NVDA sitting at 74/100 — 1 point from threshold, cup week 31, handle not yet formed — while the stock has moved from ~$236 (52-wk high) to $200.53. That decline is painful to watch from the bench, but it confirms the "no handle = no entry" rule is protecting capital from a genuine breakdown. The playbook is working. Patience through FOMC (Jul 28-29) and toward the Aug-Sep 2026 NVDA handle setup.
+
+---
+
+## Week ending 2026-07-24 (Fri)
+
+> **Context:** Week 15 of live operation (16th consecutive zero-trade week). Alpaca API blocked Day ~150–154 (all 5 sessions, 403 "CONNECT tunnel failed"). Perplexity 403, Alpha Vantage 403 — 31st–35th consecutive degraded sessions. All research via WebSearch fallback. Zero trades executed. Market: 🔴 Correction throughout. Dist count opened at 7/25, climbed to 8/25 on Thu Jul 23 (DIST #8 — GOOGL capex raise + TSLA miss + oil above $100), then settled at 7/25 by Fri close as Jun 17 expired. S&P closed the week at ~7,411.98 vs. 7,457.69 the prior Friday = −0.61% for the week (cash outperformed for the 2nd time). ARM permanently exited the universe (COB Tue Jul 21). INTC added as new bench watch candidate following a massive Q2 earnings beat. Biggest risk event in Q3 (FOMC Jul 28-29 + META/MSFT/ARM earnings Jul 29) begins Mon.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Jul 20 open — 100% cash, carry-in from Week 14)
+- Ending equity: $2,500.00 (Fri Jul 24 close — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 Jul 17 close 7,457.69 → Jul 24 close ~7,411.98 = **−0.61%** → **+0.61% alpha — cash outperformed for 2nd time this cycle**)
+- S&P 500 daily moves this week: Mon −0.19% (NOT dist ✅) / Tue +0.89% (NOT dist ✅) / Wed −0.136% (NOT dist ✅) / Thu −1.21% (DIST #8 ✅) / Fri +0.05% (NOT dist ✅)
+- Dow +0.7% Fri vs. Nasdaq −0.6% Fri — defensive/value outperforming; chip selloff concentrated
+- Trades taken: **0** (max 3/week, used 0 — **16th consecutive 0-trade week**)
+- Winners: 0 (avg N/A) | Losers: 0 (avg N/A) | W:L ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Cumulative alpha since inception (15 weeks):** ~+0.61% net this week; cumulative alpha roughly flat-to-slight-positive vs. SPY (cash outperformed in Correction weeks; underperformed during Uptrend weeks we missed due to API blockage)
+- **Root causes of zero trades:**
+  1. Alpaca API 403 BLOCKED all 5 sessions (Day 150–154) — execution hard-halted per TRADING-STRATEGY.md
+  2. Market state: 🔴 Correction (7/25 → 8/25 → 7/25) — ALL long entries blocked
+  3. NVDA 74/100 (bench only; 1 pt below threshold; no handle; cup wk ~33-35)
+  4. MRVL ~15-25/100 (broken structure; watch-only; 8+ wk rebuild)
+  5. ARM: PERMANENTLY REMOVED COB Jul 21 (60/100; GAAP C-letter fail; exits universe permanently)
+  6. GOOGL: score declining (est. 60-65/100 post-Jul-22 earnings; capex raise punished; XLC #9)
+  7. Zero candidates ≥75 for 15th consecutive week
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any −7% stops hit manually? **N/A** (no positions — 25th consecutive EOD with 0 open positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries on Alpaca-blocked sessions? **NO** — hard rule honored all 5 sessions (15th consecutive week)
+- Any entries during Correction? **NO** — Correction gate honored every session
+- Any conviction-score workarounds? **NO** — NVDA held at 74/100 block; GOOGL score declining (not promoted); MRVL watch-only
+- TSLA correction to "EPS MISS" handled correctly? **YES** — Jul 22 EOD logged EPS beat (based on AH Finviz snapshot); corrected to EPS MISS at Jul 23 /market-check when full results available. Process: mistake caught within 18 hours. State decisions (no trades) were not affected.
+- GOOGL capex raise processed correctly? **YES** — Jul 22 EOD saw "flat AH" reaction; Jul 23 intraday revealed full −5.7% punishment; bench score immediately revised down to est. 60-65/100. No promotion attempted.
+- SH hedge execution? **QUEUED — Alpaca Day ~154 BLOCKED** (queued since Jun 5; ~7 weeks pending)
+- Circuit breakers triggered? **NONE** (daily −3%, weekly −6%, drawdown −12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(Fifteenth consecutive perfect score — no trades = no violations. Score remains structurally uninformative until Alpaca restored. Behavioral note: INTC Q2 massive beat (+92% EPS, +25.4% Rev YoY) created maximum temptation to place an "obvious" buy — held on earnings blackout rule + Correction gate + Alpaca blocked. GOOGL −5.7% and TSLA −14% on Thursday created secondary temptation to "hedge aggressively" beyond the queued SH — held because Alpaca is the execution gate. No improvisation.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🔴 Market in Correction** (7/25 dist days — Active: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17)
+- M state at week end: **🔴 Market in Correction** (7/25 dist days — Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23)
+- Intermediate state peak: **8/25 dist days** (Thu Jul 23 EOD through Fri AM before Jun 17 expiry)
+
+| Date | S&P Close | Change | Dist Day? | Running Count | Notes |
+|---|---|---|---|---|---|
+| Jul 20 (Mon) | 7,443.28 | −0.19% | **NO** ✅ | 7/25 unchanged | Initial estimate ~7,504 (+0.63%) was WRONG. Corrected at Jul 21 /pre-market. ARM penultimate day; Iran diplomatic signal (FM Baghaei). ES +0.3% pre-mkt. NOT dist (−0.19% < −0.20%). ✅ |
+| Jul 21 (Tue) | 7,509.18 | +0.89% | **NO** ✅ | 7/25 unchanged | ARM FINAL TRADING DAY — exits universe permanently after COB. S&P +0.89% confirmed. Chip stocks leading. GOOGL+TSLA AMC tonight. NOT dist day. ✅ |
+| Jul 22 (Wed) | 7,498.96 | −0.136% | **NO** ✅ | 7/25 unchanged | Just 4.81 pts above dist threshold 7,494.15. Volume LIGHTER than Jul 21. NOT dist ✅. GOOGL AMC: Rev $119.8B/Cloud +82% YoY (beat but capex raise). TSLA AMC: EPS beat (Finviz AH snapshot — INCORRECT; later corrected to miss). Jun 17 expires TOMORROW → 6/25 conditional. |
+| Jul 23 (Thu) | 7,408.30 | −1.21% | **YES — DIST #8** ✅ | 8/25 | GOOGL −6.5% (full capex raise punishment at open). TSLA −14% (EPS miss corrected; revenue declined YoY). 🚨 BRENT $100.40 (+6.7%) ABOVE $100 for first time (Houthi attack Saudi tankers). Jobless claims 187K vs 218K est (lowest since 1969) — market reaction NEGATIVE (stagflation fear). INTC AMC: EPS $0.42/Rev $16.13B (+25.4% YoY) MASSIVE BEAT. 200d MA breached. **⚠️ NOTE: Initial EOD logged as 7,390.39 (Motley Fool/Bloomberg). Multi-source confirms 7,408.30 (CNBC/Yahoo Finance). Both values confirm DIST #8. Official corrected to 7,408.30.** |
+| Jul 24 (Fri) | ~7,411.98 | +0.05% | **NO** ✅ | **7/25** (Jun 17 expired ✅) | Jun 17 dist (from Jun 17 close) expires today (Day 25 from Jun 17). Count: 8/25 → **7/25** (STILL CORRECTION — ≥6 rule active; Jun 23 expires next on Jul 29). NVDA $208.76 (+2.30% on INTC AI data demand confirmation + AMKR/NVDA $1.5B deal). INTC $97.35 (−2.87% sell-the-news; AH $110 fully reversed). Trump tariffs 10-12.5% effective today (largely priced in). FOMC quiet period begins. |
+
+**Active dist day expiry calendar (updated end of week):**
+
+| Dist Day Date | S&P Close | Change | Expiry Date (Day 25) | Status |
+|---|---|---|---|---|
+| Jun 23 | ~7,333 | ~−1.17% | **Tue Jul 29, 2026** | ACTIVE — expires FOMC Day 2 / META+MSFT+ARM earnings day |
+| Jul 7 | ~7,504 | −0.44% | **Mon Aug 11, 2026** | ACTIVE |
+| Jul 8 | ~7,458 | −0.61% | **Tue Aug 12, 2026** | ACTIVE |
+| Jul 13 | 7,515.34 | −0.79% | **Mon Aug 17, 2026** | ACTIVE |
+| Jul 16 | 7,533.77 | −0.53% | **Wed Aug 20, 2026** | ACTIVE |
+| Jul 17 | 7,457.69 | −1.01% | **Thu Aug 21, 2026** | ACTIVE |
+| Jul 23 | 7,408.30 | −1.21% | **Fri Aug 28, 2026** | ACTIVE |
+
+**Path out of Correction (via dist-day natural expiry only, no new dist days):**
+- Aug 11: 7/25 → 6/25 (still Correction)
+- Aug 12: 6/25 → 5/25 (still Correction under ≥6 rule; transitions to Under Pressure)
+- Only once a FTD fires (new Day 1 below 7,266.99 → Day 4-7 +1.25% on volume) does the count fully reset for Confirmed Uptrend status.
+- **FTD status:** CLOSED (S&P ~7,411 is ~145 pts ABOVE prior low 7,266.99 — recovering, not setting up Day 1)
+- **Earliest Confirmed Uptrend estimate:** ~Aug 17-21 (conditional on no new dist days + FTD within that window)
+
+- State transition timing: **CLEAN** — Correction maintained continuously; Jun 17 expiry correctly processed Fri morning; no incorrect upgrades attempted.
+- Accuracy verdict: **CONDITIONALLY CLEAN** — all state calls correct; the Jul 23 close was corrected from 7,390.39 to 7,408.30 (DIST #8 confirmed in both cases; correction did not change conclusion). Correction path properly maintained.
+
+### Sector Performance
+
+- Sectors traded: **NONE** (no trades — Correction)
+
+| Sector | Weekly Direction | Notes |
+|---|---|---|
+| **XLK Technology/Semis** | ⬇️⬇️ WEAK | SOXX −3%+ Fri. NVDA est. ~$200-208 range (−4% Thu, +2.3% Fri). GOOGL −6.5% Thu (capex raise). INTC −2.87% Fri (sell-the-news despite massive Q2 beat). AMD competitive flag (MSFT+Meta launch partners). AI capex sustainability narrative under continued pressure. |
+| **XLC Communication** | ⬇️ DOWN | GOOGL −6.5% Thu = primary driver. Capex raise narrative punishing Mag-7 AI spenders. XLC sector now ranked #9 — dead last. |
+| **XLI Industrials** | ↔️ BEST RS | Best relative strength for 2nd consecutive week. AI infrastructure capex + defense + aerospace intact. No sector-specific negative catalysts. |
+| **XLP Consumer Staples** | ↑ DEFENSIVE | Outperforming on defensive rotation. Dow +0.7% Fri (value/defensive) vs Nasdaq −0.6% (tech) confirms rotation. |
+| **XLE Energy** | ↑↑ OIL SPIKE | Brent hit $100.40 Thu (Houthi tanker attacks on Saudi vessels). WTI ~$91+. Stagflation backdrop. Not tradeable (no valid bases; Correction posture; OPEC noise). |
+| **XLF Financials** | ↔️ FLAT | No major catalyst; rate-sensitive names pressured by FOMC stagflation backdrop. Not actionable per prior XLF RRG lagging call. |
+
+- **4-week sector RS entering next week (UPDATED):**
+  1. **XLI Industrials** — best risk-adjusted performance through Correction; AI capex infrastructure + defense intact
+  2. **XLP Consumer Staples** — defensive outperformance rising; Dow/value leadership
+  3. **XLE Energy** — elevated but non-directional; $100 oil = inflation risk not trading opportunity
+  - **AVOID:** XLK (AI capex narrative under siege; SOXX −3%+ Fri; AMD competitive), XLC (XLC #9 dead last after GOOGL capex), XLF (RRG Lagging), XLRE (hawkish FOMC)
+- Sectors to blacklist: **None** (no 2-consecutive-fail trade history — zero trades since inception)
+
+### Conviction Correlation
+
+- Trades with conviction ≥85: 0 — N/A
+- Trades with conviction 75–85: 0 — N/A
+- Sub-threshold correctly blocked this week:
+  - **NVDA: 74/100 UNCHANGED** — 1 pt below threshold; cup wk ~35 (as of Fri Jul 24); no handle formed; 52-wk high $236.54 (~13% above $208.76 Fri price). N-letter tailwinds this week: INTC Data Center +59% (AI demand confirmed), AMKR/NVDA $1.5B packaging deal (US supply chain commitment at scale). Score 74/100 unchanged despite positive catalysts — the 1-pt gap is from the Base:0 (no handle) penalty which overrides positive news catalysts. Est. 82-85/100 on next re-score WITH handle + live data. **BLOCKED.**
+  - **GOOGL: est. 60-65/100 ⬇️⬇️** — was pre-earnings est. 77/100. Post-Jul-22-earnings: Cloud +82% YoY (positive C-letter) offset by (a) capex raise = L/I-letter headwind (institutional sellers confirmed AH and at open Jul 23); (b) GAAP EPS $9.11 inflated by Anthropic/SpaceX MTM (not organic earnings quality); (c) XLC sector now #9 dead last (L-letter severely damaged). Re-score Aug 5+ (post-earnings blackout). NOT actionable Q3 2026.
+  - **MRVL: ~15-25/100** — watch-only. No catalyst. Broken base; 8+ wk rebuild. Not actively scored.
+  - **INTC: BENCH WATCH (est. 70-78/100 with live data post-blackout)** — massive Q2 beat confirms C-letter will score well; N-letter (18A ramp + Google AI deal); L-letter (up 163% YTD). Cannot formally score until Aug 1+ (blackout clears). Correction gate + Alpaca blocked = not actionable regardless of score. **ACTION: canslim-screener Aug 1+ when data restores.**
+- **15th consecutive week with zero candidates ≥75.** Pipeline integrity intact — correct rejections on every test.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked Day ~150–154 — 15th consecutive 0-perplexity week)
+- Sessions on websearch_fallback: **~15** (5 days × 3 routines/day)
+- Sessions DEGRADED: **0** (WebSearch consistently available as fallback)
+- Research source for trades placed: **N/A**
+- **Data quality events this week:**
+  1. **TSLA Jul 22 EOD correction:** Logged "EPS beat" at Jul 22 /eod-review (based on Finviz AH snapshot showing −0.5% AH with brief "beat" note). Actual full results released overnight: EPS miss + revenue declined YoY. Corrected at Jul 23 /market-check. 18-hour lag. State decisions were unaffected (no positions; no trades planned in TSLA regardless). But the correction narrative matters — an "EPS beat" in a volatile stock can trigger bad forward analysis.
+  2. **Jul 23 close cross-source discrepancy:** Motley Fool + Bloomberg cited 7,390.39 (−1.44%); CNBC/Yahoo Finance cited 7,408.30 (−1.21%). Difference of 18.09 pts (~0.24%). Both confirm DIST #8 (both >> −0.20% threshold); corrected to 7,408.30 as more widely supported. This is the second week in a row (after Jul 17 estimates) with post-close data discrepancy. Pattern: in high-volatility sessions, initial reporting has higher error.
+  3. **INTC "sell-the-news" correction:** Pre-close headlines suggested INTC AH +11%. By Fri open, INTC $97.35 (−2.87% from $100.23 close — AH peak of $110 FULLY REVERSED). The gap from AH narrative to next-day price is predictable (sell-the-news after a 163% YTD run) but the magnitude needed at-open confirmation.
+
+### Lessons
+
+**Lesson 1 — Market: Sell-the-news is the dominant pattern for stocks up 100%+ YTD that beat earnings, even on massive blowout quarters. INTC beat by 92% on EPS and 25% on revenue — and fell 2.87% on the session. GOOGL beat Cloud by 82% — and fell 6.5%.**
+These are not "bad beats" — they're examples of stocks (and sectors) where all the good news was priced in. INTC was up 163% YTD going into earnings; GOOGL had priced in strong Cloud. The market is a discounting machine. For CAN SLIM entries, this reinforces the base pattern requirement: a proper base (cup, flat, double-bottom) represents the market re-digesting and re-loading before the next advance. Stocks that are extended (no base, straight-up run) are vulnerable to sell-the-news regardless of how strong the fundamental print is. The base bonus (+10 pts in the conviction score) is not just a pattern-recognition bonus — it's a "market has digested this story and is ready for the next leg" premium. Never skip it.
+
+**Lesson 2 — Data: In high-volume, high-volatility sessions (especially with major earnings AH), websearch EOD estimates have up to ~18-point S&P 500 close errors and 18-hour TSLA EPS narrative inversions. Two independent confirmation sources with post-4 PM ET timestamps are required before finalizing dist day calls on volatile sessions.**
+This week's two data errors (Jul 23 close discrepancy; TSLA EPS correction) follow the exact pattern identified in prior reviews (Jul 16, Jul 17). The common thread: high-volume AH catalysts (GOOGL −5% AH, TSLA miss, INTC +11% AH) are indexed by search engines in real-time; the S&P final close (which is driven by the full final-hour move AFTER those headlines drop) lags the search index by 30-60 minutes at a minimum. Websearch queries for "S&P 500 close" at /eod-review consistently find articles written during or shortly after earnings AH — not the true 4 PM close. Fix: explicit Proposal 22 (see below).
+
+**Lesson 3 — Strategy: Brent oil crossing $100 (Houthi tanker attack) + jobless claims 187K (lowest since 1969) in the SAME session is a textbook stagflation print — and it delivered −1.21% on the S&P that day. When BOTH inflation shock AND tight labor data arrive simultaneously in an already-hawkish FOMC environment (Warsh; 3.50-3.75% with hike risk), the market discounts a hike on the spot. The FOMC event risk for Jul 28-29 is now the highest in Q3 — both oil above $90 AND jobless below 190K give Warsh cover to hike. Correction posture is not just correct — it's essential through next week.**
+
+### Proposed Rule Changes
+
+**Proposal 22 — NEW: "High-Volatility AH Catalyst" EOD price protocol (extends Proposals 19 and 21).**
+When a session has (a) S&P move >0.80% magnitude AND/OR (b) ≥1 mega-cap (>5% S&P weight: AAPL, MSFT, NVDA, GOOGL, AMZN, META) reporting AH, tag the /eod-review as `⚠️ HIGH_VOL_AH_VERIFY`. At that review: (1) explicitly query "S&P 500 close [exact date] 4:00 PM ET" (NOT "today" — use the date string for precision), (2) require ≥2 sources with timestamps confirming they're post-market close, (3) treat any single-source claim of <−0.20% change as provisional until confirmed multi-source. Root cause: Jul 22 (GOOGL+TSLA AH) and Jul 23 (INTC AH + Brent $100) both had significant final-hour divergence from intraday trends that websearch failed to immediately capture.
+Status: **NEW — pending Jason approval.**
+
+**Proposal 23 — NEW: AH "beat/miss" correction window protocol.**
+When a ticker's AH reaction is reported as "EPS beat" in a session snapshot (e.g., Finviz AH screen) but the next morning's news contradicts it, log `⚠️ EARNINGS_NARRATIVE_CORRECTION — [TICKER] [DATE] AH note OVERWRITTEN` with the corrected outcome at the first routine that catches it. Require: (a) the correction to explicitly note it in TRADE-LOG.md if the ticker is on the active watchlist, (b) a brief 2-sentence re-assessment of any forward analysis that was based on the incorrect AH read. Root cause: TSLA Jul 22 "EPS beat" in EOD (from Finviz $376.93 AH snapshot) led to a brief forward-analysis note that had to be overwritten the next day.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–21 from prior weeks:** ALL still pending Jason approval.
+Priority ranking:
+1. **Proposal 20** (Week 14 — Dist Day Expiry Calendar) — partially implemented this review via in-text table; formal proposal still pending
+2. **Proposal 22** (this week — High-Vol AH Catalyst EOD verify) — directly prevents TSLA and GOOGL/INTC data errors
+3. **Proposal 21** (Week 14 — Options Expiry EOD verify)
+4. **Proposal 19** (Week 13 — FOMC afternoon catalyst EOD verify)
+5. **Proposal 1** (Alpaca API health check at /pre-market Step 0) — Day 154. 30+ weeks of blockage.
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🔴 Market in Correction (7/25 dist days: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23). ALL long entries blocked. S&P 7,411.98 is −1.63% below 50d MA (~7,534.75) AND −0.71% below 200d MA (~7,464.61). Both MA levels are above current price — Correction confirmed on dual criteria. FTD CLOSED (new Day 1 requires close below 7,266.99 = 145 pts lower). **⚠️ CRITICAL: FOMC Jul 28-29 is the highest-risk macro event of Q3.** Warsh hawkish; tariffs (10-12.5%) + Brent ~$99 + jobless 187K (lowest since 1969) = stagflation = potential hike surprise. Jul 29 = FOMC Day 2 AND META+MSFT+ARM earnings AMC = most volatile session of Q3. If FOMC hikes → DIST #9 probable → deeper Correction. **NO new long entries. No entries on Jul 29 under any circumstances.** Also: Jun 23 dist expires Tue Jul 29 (→ 6/25 if no new dist day; still Correction at 6/25 per ≥6 rule).
+- **Sectors in focus (monitor only — Correction posture):**
+  1. **XLI Industrials** — best relative strength 2 consecutive weeks; AI infra + defense intact; MONITOR only
+  2. **XLP Consumer Staples** — defensive outperformance in down market; MONITOR only
+  3. **XLK Tech/Semis** — NVDA 74/100 cup still building; INTC bench-watching; watch ONLY; no entries
+  4. **AVOID new entries in all sectors** — Correction gate is a total moratorium on longs
+- **Calendar risks (week of Jul 28 – Aug 1):**
+  - **Mon Jul 28 – Tue Jul 29: FOMC** — ⚠️ HIGHEST RISK EVENT OF Q3. Chair Warsh; 86-89% hold prob BUT split committee (hike risk) + tariff/oil/labor stagflation triple = hike surprise risk elevated. No entries Mon or Tue AM. FOMC decision ~1:00 PM CT Tue. Post-decision = chaotic.
+  - **Tue Jul 29:** Jun 23 dist expires → 6/25 (still Correction; ≥6 rule). ALSO: **META + MSFT + ARM earnings AMC** — triple mega-cap catalyst; options volatility will be extreme. DO NOT enter within 5 trading days of these earnings (gate already satisfied since none are on watchlist — but FOMC + earnings combo = stay flat).
+  - **Wed Jul 30:** AMZN + AAPL earnings AMC. Second wave of mega-cap catalysts. Market closed Mon Jul 4 week (Memorial Day past, but confirm no holiday; checking: Jul 28 = Mon, not a holiday). Market open all week.
+  - **~Aug 1:** INTC earnings blackout clears. Run canslim-screener on INTC with live data (AV + Alpaca, if restored). Preliminary score est. 70-78/100.
+  - **~Aug 5:** ARM post-earnings re-entry evaluation window opens (Jul 29 earnings + 5 trading days). Run canslim-screener. Previous score 60/100 may improve significantly if ARM reported strong GAAP earnings (the key gating issue).
+  - **~Aug 26:** NVDA Q2 FY2027 earnings — blackout begins ~Aug 20. Cup timeline ~38-40 wks by then; handle may form ~Aug-Sep 2026.
+- **SH hedge status:** QUEUED — Alpaca Day ~154 BLOCKED. First order on Alpaca restore. Unchanged since Jun 5. SH sizing: $625 / 25% portfolio. Correction hedge = mandatory per TRADING-STRATEGY.md.
+- **NVDA status going into FOMC week:** Score 74/100; cup wk ~35; no handle; 52-wk high $236.54 (~13% away). INTC beat (AI data center +59%) and AMKR $1.5B deal = N-letter tailwinds. BUT: AMD full-stack AI system + MSFT+Meta launch partners = N-letter competitive flag. Net: N-letter approximately flat on balance. Next formal re-score: when live AV+Alpaca data restores + handle forms. No change to Aug-Sep 2026 timeline.
+- **INTC new bench watch:** Post-blackout (Aug 1+), run canslim-screener formally. Preliminary: C-letter outstanding (EPS swing loss→$0.42, Rev +25.4% YoY); N-letter strong (18A foundry + Google AI deal + Xeon); L-letter top-decile (up 163% YTD). A-letter and base unknown (GAAP history + post-earnings consolidation needed). Est. 70-78/100 with live data. Entry requires: Confirmed Uptrend (est. Aug 17-21) + score ≥75 + Alpaca restored + base formed.
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (ALL blocked by Correction). SH hedge $625 QUEUED (Alpaca blocked). Capital at HWM since inception ($2,500.00, 15 weeks).
+- **Emotional state check:** DISCIPLINED. Cash outperformed again (−0.61% vs. 0.00%) as the Correction deepened on Thu. The temptation going into FOMC week is to "pre-position for the hike surprise" — that impulse is rejected. Pre-FOMC positioning is prediction, not reaction; CAN SLIM is a reaction system. The SH hedge is ALREADY queued for Alpaca restore; no further action needed until execution infrastructure clears. Watching NVDA build its cup base through what looks like a correction floor is correct behavior. 15 weeks of capital preservation. 0 losers. Full firepower intact. When the FTD fires and Alpaca restores, we deploy with maximum conviction. Until then: wait.

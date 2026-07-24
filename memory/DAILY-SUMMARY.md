@@ -4829,3 +4829,61 @@ SH $625 hedge: STILL QUEUED (Alpaca blocked — execute as first order on restor
 Earliest Uptrend estimate: ~Aug 17-21
 
 research_source: websearch_fallback | Alpaca: Day ~154 BLOCKED | Perplexity: 403 | AV: 403 | 35th degraded session
+
+---
+## 2026-07-24 20:40 CT [clickup-placeholder]
+
+### Week ending 2026-07-24
+
+## Week ending 2026-07-24 (Fri)
+
+**Context:** Week 15 of live operation | 16th consecutive zero-trade week | 🔴 Correction (7/25 dist days) | Alpaca BLOCKED Day ~154 | ,500 HWM | 35th consecutive degraded session (websearch_fallback)
+
+---
+
+### Performance
+
+- Starting equity: $2,500.00 | Ending equity: $2,500.00
+- Weekly return: 0.00% vs S&P −0.61% → **+0.61% alpha (cash outperformed — 2nd time this cycle)**
+- Trades: 0/3 | Winners: 0 | Losers: 0 | HWM: $2,500
+
+### Key Events
+
+- ARM permanently exited universe (COB Jul 21 — GAAP C-letter fail; 60/100)
+- GOOGL Q2: Cloud +82% YoY beat, but capex raise → −6.5% Thu; bench score declining to est. 60-65/100
+- TSLA Q2: EPS MISS (Jul 22 EOD mistakenly logged EPS beat; corrected Jul 23)
+- INTC Q2 MASSIVE BEAT: EPS $0.42 vs $0.22 est (+92%); Rev +25.4% YoY; DC +59% → added as bench watch candidate (Aug 1+)
+- BRENT crossed $100 (Houthi tanker attacks) + Jobless 187K (1969 low) = stagflation → DIST #8 Jul 23
+- AMKR/NVDA $1.5B deal (N-letter tailwind for NVDA)
+- Trump tariffs 10-12.5% effective Fri Jul 24
+- Jun 17 dist expired Fri → 7/25 (still Correction ≥6)
+
+### Market Direction
+
+- Mon: 7,443.28 (−0.19% NOT DIST ✅) | Tue: 7,509.18 (+0.89% NOT DIST ✅)
+- Wed: 7,498.96 (−0.136% NOT DIST ✅) | Thu: 7,408.30 (−1.21% DIST #8 ✅)
+- Fri: ~7,411.98 (+0.05% NOT DIST ✅) | Week: −0.61%
+- Dist count: 7→8→7/25 | State: 🔴 Correction unchanged
+
+### Bench Status
+
+- **NVDA: 74/100 UNCHANGED** (cup wk ~35; no handle; BLOCKED — Correction + <75 + Alpaca)
+- **MRVL: ~15-25/100** (watch-only; broken; 8+ wk rebuild)
+- **GOOGL: est. 60-65/100** (declining; capex raise; XLC #9; NOT actionable Q3)
+- **INTC: NEW bench watch** (run canslim-screener Aug 1+; est. 70-78/100 with live data)
+- **ARM: REMOVED permanently**
+
+### Next Week Critical Path
+
+- 🚨 FOMC Jul 28-29 (Warsh hawkish; hike surprise risk; stagflation backdrop)
+- 🚨 META+MSFT+ARM earnings AMC Jul 29 (most volatile session of Q3)
+- 🚨 AMZN+AAPL earnings AMC Jul 30
+- Jun 23 dist expires Tue Jul 29 → 6/25 (still Correction)
+- **DO NOT enter Jul 29 under any circumstances**
+- Earliest Uptrend est.: Aug 17-21
+- INTC blackout clears Aug 1 → run screener
+- ARM post-earnings re-eval Aug 5+
+
+### Circuit Breakers
+
+ALL CLEAR | Equity $2,500 HWM | SH $625 QUEUED (Alpaca BLOCKED)
