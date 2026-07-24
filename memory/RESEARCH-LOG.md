@@ -16119,3 +16119,63 @@ Equity:    $2,500.00 (HWM)
 - GOOGL -5% AH is from overnight research; our EOD noted "flat initially" at 4PM — deterioration happened in extended session.
 
 `research_source: websearch_fallback` | `Alpaca_Day153_BLOCKED` | `Perplexity_403` | `AV_403` | `30th_consecutive_degraded_session` | `ES_+0.56pct` | `NQ_strongbid` | `GOOGL_minus5pct_AH_capex_raise` | `INTC_earnings_AMC_tonight` | `INTC_plus8.4pct_Wed` | `Houthi_tanker_attack_Brent_95.71` | `WTI_87.99` | `jobless_claims_218K_est` | `dist_7of25_UNCHANGED` | `Jun17_expires_TOMORROW_Jul24` | `dist_threshold_today_7484` | `NVDA_premarket_204.95_214.39` | `circuit_breakers_ALL_CLEAR`
+
+## 2026-07-24 — /eod-review (3:15 PM CT)
+
+**Research source:** websearch_fallback (Alpaca: Day ~154 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — 35th consecutive degraded session)
+**Market direction pull:** 🔴 Correction (7/25 dist days + S&P below 50d MA — UNCHANGED)
+
+**Close:** SPY ~$741.20 (+0.05%) | QQQ ~$695.80 (−0.6%) | Dow ~52,073 (+0.7%)
+**Distribution days:** 7 of 25 trailing sessions | Today: NOT a dist day ✅ (S&P +0.05%, UP day)
+**Market state:** Market in Correction (NO transition — Correction unchanged; ≥6 dist days + 50d MA breach both active)
+**Positions held:** 0
+**Actions today:**
+  - NONE — Correction gate + Alpaca Day ~154 BLOCKED + 0 positions + 0 candidates ≥75
+  - sell-rules-engine: SKIPPED (0 open positions)
+  - SH $625 hedge: still QUEUED (Alpaca blocked)
+**Circuit breakers:** NONE — ALL CLEAR
+**P&L today:** $0 (+0.00%)
+**Equity:** $2,500.00 (HWM)
+
+### Market close detail
+
+- **S&P 500 Jul 24 CONFIRMED close: ~7,411.98** (+0.05% from corrected Jul 23 close of 7,408.30) — NOT a dist day ✅
+- **⚠️ JUL 23 CLOSE CORRECTION:** Official close revised to **7,408.30 (−1.21%)** from 7,390.39. Both values confirmed DIST #8. This is now the confirmed Jul 23 baseline.
+- **Nasdaq:** ~24,988 est. (−0.6%) — chip stocks led decline; SOXX −3%+; AI demand sustainability concerns
+- **Key drivers today:** Iran/Pakistan peace feelers (China initiative) provided floor | SOXX −3%+ on AI capex sustainability concerns (AMD competitive pressure + GOOGL capex raise fallout) | Oil dipped below $100 (Brent) — small tailwind
+- **NVDA est. close:** ~$200-205 (−2 to −4% on chip selloff) | Score 74/100 UNCHANGED | No handle; Correction; Alpaca blocked
+
+### Distribution day accounting
+
+| Date | Move | Verdict | Expires |
+|---|---|---|---|
+| Jun 23 | ??? | DIST #1 (active) | **Jul 29** ← next expiry |
+| Jul 7 | dist | DIST #2 (active) | Aug 11 |
+| Jul 8 | dist | DIST #3 (active) | Aug 12 |
+| Jul 13 | dist | DIST #4 (active) | Aug 19 |
+| Jul 16 | −0.53% | DIST #5 (active) | Aug 20 |
+| Jul 17 | −1.01% | DIST #6 (active) | Aug 21 |
+| Jul 23 | −1.21% | DIST #7 (active) | Aug 28 |
+| Jul 24 | +0.05% | NOT DIST ✅ | — |
+| **TOTAL** | | **7/25** | |
+
+### Key upcoming events (next 5 trading days)
+
+- **Mon Jul 28:** FOMC begins | Pre-FOMC quiet period | No entries
+- **Tue Jul 29:** FOMC decision + META+MSFT+ARM earnings AMC | ⚠️ Jun 23 dist EXPIRES → 6/25 | HIGHEST VOLATILITY SESSION Q3
+- **Wed Jul 30:** AMZN+AAPL earnings AMC
+- **~Aug 5:** INTC/GOOGL/ARM post-earnings blackout clears | Earliest re-score opportunity
+- **~Aug 17-21:** Earliest possible Confirmed Uptrend (requires clean FTD setup)
+
+### Circuit breaker check
+
+| Breaker | Threshold | Status |
+|---|---|---|
+| Daily −3% | −$75 | ✅ CLEAR ($0 P&L — 0 positions) |
+| Weekly −6% | −$150 | ✅ CLEAR ($0 P&L) |
+| Drawdown −12% HWM | −$300 | ✅ CLEAR ($0 from HWM) |
+| PDT 3 of 3 | 4th day trade | ✅ CLEAR (0 of 3) |
+
+**Circuit breakers: ALL CLEAR.** No restrictions beyond Correction posture.
+
+`research_source: websearch_fallback` | `Alpaca_Day154_BLOCKED` | `Perplexity_403` | `AV_403` | `35th_consecutive_degraded_session` | `SPX_CONF_7411.98_+0.05pct_NOT_DIST` | `dist_7of25_UNCHANGED` | `SOXX_-3pct_chip_selloff` | `Nasdaq_-0.6pct` | `Dow_+0.7pct` | `NVDA_est_200-205` | `Jul23_close_CORRECTED_7408.30` | `Jun23_expires_Jul29` | `FOMC_Jul28-29` | `Week_Jul20-24_CLOSED_0of3`

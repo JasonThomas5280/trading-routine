@@ -4794,3 +4794,38 @@ Plan: NO ENTRIES — Correction (7/25) + Alpaca Day ~154 BLOCKED. SH $625 QUEUED
       Enter FOMC week fully in cash/Correction posture.
 
 research_source: websearch_fallback | Alpaca: Day ~154 BLOCKED | Perplexity: 403 | AV: 403 | 33rd degraded session
+
+---
+
+📊 EOD 2026-07-24 | Equity $2,500.00 (+$0 day, +$0 week) | WEEK CLOSED
+Open: 0 positions, 100% cash
+Distribution days: 7 of 25 (market: 🔴 Correction — UNCHANGED)
+Dist day today: NOT triggered ✅ (S&P +0.05%) | Jul 23 close corrected to 7,408.30
+
+Actions today: NONE
+  • Sell-rules-engine: SKIPPED (0 positions — 25th consecutive EOD)
+  • Alpaca: Day ~154 BLOCKED (403) — 35th degraded session — no execution possible
+
+Market close (Jul 24, Fri):
+  • S&P 500: ~7,411.98 (+0.05%) — little changed; near flat
+  • Nasdaq: ~24,988 (−0.6%) — chip selloff; SOXX −3%+
+  • Dow: ~52,073 (+0.7%) — defensive/value outperform
+  • NVDA: est. ~$200-205 (chip sector drag) | Score 74/100 unchanged
+
+Key context:
+  • Iran/Pakistan peace feelers (China initiative) provided floor early
+  • AI demand sustainability concerns driving chip weakness (SOXX −3%+)
+  • Brent oil dipped below $100 — slight macro relief vs Thursday's $100.69 peak
+
+Week Jul 20-24: 0/3 trades | $0 P&L | $2,500 equity (16th consecutive zero-trade week)
+
+Next week — MAJOR RISK EVENTS:
+  • Mon Jul 28: FOMC begins | No entries
+  • Tue Jul 29: FOMC decision + META+MSFT+ARM earnings AMC | Jun 23 dist expires → 6/25 | ⚠️ HIGHEST VOLATILITY SESSION Q3
+  • Wed Jul 30: AMZN+AAPL earnings AMC
+  • Posture: FULLY IN CASH | Correction gate active | No new entries until Confirmed Uptrend
+
+SH $625 hedge: STILL QUEUED (Alpaca blocked — execute as first order on restore)
+Earliest Uptrend estimate: ~Aug 17-21
+
+research_source: websearch_fallback | Alpaca: Day ~154 BLOCKED | Perplexity: 403 | AV: 403 | 35th degraded session

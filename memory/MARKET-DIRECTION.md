@@ -6,7 +6,32 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 24 /market-check — S&P est. ~7,405–7,415 (near flat recovery from −1.44% Thu) | DIST COUNT 7/25 (Jun 17 EXPIRED ✅ 8→7) | DIST DAY #9 RISK: LOW | NVDA $208.76 (+2.30%) — AMKR/NVDA $1.5B deal | INTC $97.35 (−2.87% SELL-THE-NEWS) | TRUMP TARIFFS 10–12.5% EFFECTIVE | FOMC JUL 28-29 QUIET PERIOD BEGINS | 50d MA est. −1.93% BELOW | 200d MA est. −0.99% BELOW | ALPACA DAY ~154 BLOCKED | 0 POSITIONS | 0 ACTIONS)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 24 /eod-review FINAL — S&P CONF ~7,411.98 (+0.05%) NOT DIST ✅ | DIST COUNT 7/25 UNCHANGED | Jun 17 EXPIRED ✅ | NASDAQ −0.6% CHIP SELLOFF (SOXX −3%+) | DOW +0.7% | NVDA est. ~$200-205 (chip selloff) | FOMC JUL 28-29 NEXT WEEK (META+MSFT+ARM Jul 29 AMC) | JUN 23 DIST EXPIRES JUL 29 → 6/25 | 50d MA est. −1.63% BELOW | 200d MA est. −0.71% BELOW | ALPACA DAY ~154 BLOCKED | 0 POSITIONS | 0 ACTIONS)*
+
+**✅ JUL 24 /eod-review FINAL (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,411.98 (+0.05%) NOT DIST ✅ — 7/25 UNCHANGED — NASDAQ −0.6% CHIP SELLOFF (SOXX −3%+) — DOW +0.7% — FOMC JUL 28-29 NEXT WEEK — ALPACA DAY ~154 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~154 BLOCKED | Perplexity 403 | AV 403 | 35th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken
+- **S&P 500 Jul 24 CONFIRMED close: ~7,411.98** (+3.68 pts / +0.05% from 7,408.30) | **NOT a distribution day ✅**
+  - Price criterion: +0.05% = UP day — cannot be distribution day ✅
+  - Volume: Lower pre-FOMC Friday; chip selloff concentrated in tech/semis not broad vol signal
+  - Source: Zacks "Stock Market News Jul 24 2026" + CNBC "S&P 500 closes little changed Friday as Iran fears and chip sell-off weigh down market"
+- **Distribution count: 7/25 UNCHANGED ✅** — Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23 | No new dist day today
+- **State transition: NONE** (already Correction; today's +0.05% non-dist day — Correction continues per ≥6 rule + 50d MA breach)
+- **⚠️ JUL 23 CLOSE CORRECTION:** Prior EOD used 7,390.39 (Motley Fool/Bloomberg). Multiple sources (Zacks, CNBC, Yahoo Finance) confirm **7,408.30 (−1.21%)** as the actual Jul 23 close. Both values confirmed DIST #8. Updating official Jul 23 close to **7,408.30**. Today's +0.05% is measured from this corrected base.
+- **Nasdaq Jul 24 close:** ~24,988 est. (−0.6% from 25,137.69 Jul 23 est. close) | **Chip stocks led decline** — SOXX ETF −3%+ | Iran angst + AI demand sustainability concerns resurfacing
+- **Dow Jul 24 close:** ~52,073 est. (+0.7% from 51,711.65 Jul 23 est. close) — defensive/value outperforming
+- **NVDA est. Jul 24 close:** ~$200-205 (est. −2 to −4% on SOXX −3%+ chip selloff from morning $208.76) | Score **74/100 UNCHANGED** | Cup wk ~35, no handle | BLOCKED (Correction + <75 + no handle + Alpaca)
+- **50d MA (est. ~7,534.75):** S&P 7,411.98 = **−1.63% BELOW** (correction deepening from Thu −1.47%)
+- **200d MA (est. ~7,464.61):** S&P 7,411.98 = **−0.71% BELOW** (200d MA breach active — unchanged)
+- **⚠️ NEXT EXPIRY: JUN 23 dist expires TUE JUL 29** (25 trading days from Jun 23 → count drops 7 → 6; still Correction per ≥6 rule; coincides with FOMC day)
+- **FOMC JUL 28-29 RISK:** Trump tariffs 10-12.5% effective this week + Brent near $100 + jobless 187K (lowest since 1969) = stagflation = Warsh hawkish | Jul 29 = also META+MSFT+ARM earnings AMC = HIGHEST VOLATILITY SESSION Q3 — NO ENTRIES
+- **AMZN+AAPL AMC Jul 30** | INTC/GOOGL/ARM post-earnings blackout clear ~Aug 5 | Earliest Uptrend ~Aug 17-21
+- **FTD status:** CLOSED — requires new Day 1 below 7,266.99; S&P 7,412 = 145 pts above low; recovering, NOT setting up Day 1
+- **Week Jul 20-24 CLOSED:** 0/3 trades | 0/4 positions | $0 P&L | $2,500 HWM | 16th consecutive zero-trade week
+- **Sell-rules-engine: SKIPPED** (0 open positions — 25th consecutive EOD zero positions)
+- **Actions: NONE** (24th consecutive EOD zero actions)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Daily P&L: $0 | Weekly P&L: $0
+- `eod_Jul24_FINAL` | `websearch_fallback` | `SPX_CONF_7411.98_+0.05pct_NOT_DIST` | `Jul23_close_CORRECTED_7408.30` | `dist_7of25_UNCHANGED` | `Nasdaq_-0.6pct_SOXX_-3pct_chip_selloff` | `Dow_+0.7pct` | `NVDA_est_200-205` | `50d_MA_BELOW_-1.63pct` | `200d_MA_BELOW_-0.71pct` | `Jun23_expires_Jul29_next_trigger` | `FOMC_Jul28-29_risk_elevated` | `META_MSFT_ARM_Jul29_AMC` | `Alpaca_Day154_BLOCKED` | `35th_degraded_session` | `Week_Jul20-24_CLOSED_0of3`
 
 **✅ JUL 24 /pre-market (6:00 AM CT — 🔴 CORRECTION (8/25 → 7/25 Jun 17 EXPIRES TODAY) — ES +0.2% / NQ +0.1% MUTED RECOVERY — TRUMP TARIFFS 10-12.5% EFFECTIVE — BRENT ~$99 PULLBACK — INTC BEAT CONFIRMED +25% YoY — ALPACA DAY ~154 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~154 BLOCKED | Perplexity 403 | AV 403 | 33rd consecutive degraded session
