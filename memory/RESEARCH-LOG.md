@@ -16179,3 +16179,76 @@ Equity:    $2,500.00 (HWM)
 **Circuit breakers: ALL CLEAR.** No restrictions beyond Correction posture.
 
 `research_source: websearch_fallback` | `Alpaca_Day154_BLOCKED` | `Perplexity_403` | `AV_403` | `35th_consecutive_degraded_session` | `SPX_CONF_7411.98_+0.05pct_NOT_DIST` | `dist_7of25_UNCHANGED` | `SOXX_-3pct_chip_selloff` | `Nasdaq_-0.6pct` | `Dow_+0.7pct` | `NVDA_est_200-205` | `Jul23_close_CORRECTED_7408.30` | `Jun23_expires_Jul29` | `FOMC_Jul28-29` | `Week_Jul20-24_CLOSED_0of3`
+
+## 2026-07-27 — /weekly-prep (4:00 PM CT — Sunday)
+
+**Research source:** websearch_fallback (Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — 37th consecutive degraded session)
+**Baseline:** S&P 7,411.98 (Jul 24 Fri close) | Dist count: 7/25 | 50d MA est. −1.63% below | 200d MA est. −0.71% below
+
+### Scan statistics
+
+| Stage | Count | Notes |
+|---|---|---|
+| Universe seed (top-3 sectors: XLI, XLP, XLE) | SKIPPED | Correction posture + all APIs 403 + FOMC week; build-universe.sh not run |
+| Pre-filters applied | SKIPPED | No universe to filter |
+| Formal canslim-screener passes | 0 | APIs blocked; degraded mode |
+| Candidates scoring ≥75 | **0** | 16th consecutive week |
+| Primary watchlist | **0** | 17th consecutive zero-entry week |
+| Bench (monitored) | 4 | NVDA 74/100, INTC unscored/blackout, MRVL ~15-25/100, GOOGL ~60-65/100 |
+
+### Rejection breakdown
+
+| Symbol | Score | Rejection Reason |
+|---|---|---|
+| NVDA | 74/100 | 1 pt below threshold (Base:0 — no handle on cup wk ~36); Correction gate; Alpaca blocked |
+| INTC | UNSCORED | Earnings blackout through Jul 31; formally score Aug 1-4 |
+| MRVL | ~15-25/100 | Broken structure; CFO selling; shelf filed; 8+ wk rebuild |
+| GOOGL | ~60-65/100 | Capex raise punished; XLC #9; A-letter GAAP MTM inflation; not actionable Q3 |
+| ARM | REMOVED | Permanently exited universe COB Jul 21; re-evaluation Aug 5+ |
+| All other universe names | N/A | Universe scan skipped — Correction + APIs blocked + FOMC week |
+
+### Why zero universe scan is correct this week
+
+Per TRADING-STRATEGY.md: "In Correction — sell losers, hedge with inverse ETFs, go to cash." With:
+1. Market state: 🔴 Correction (7/25 dist days; S&P below both 50d and 200d MAs)
+2. FOMC week (Jul 28-29) = highest-risk macro event of Q3; hike surprise risk elevated
+3. All three primary APIs blocked (Alpaca, Perplexity, AV)
+4. Alpaca cannot execute orders even if a candidate scored ≥75
+
+...there is zero value in running the full universe scan. It would consume AV quota (currently 403 anyway) and produce no actionable output. This is the correct degraded-mode behavior per TRADING-STRATEGY.md.
+
+### Market thesis (websearch_fallback — 4:00 PM CT Sun Jul 27)
+
+- **Macro backdrop:** Trump tariffs (10-12.5%, effective Jul 24) + Brent oil ~$99 + jobless claims 187K (lowest since 1969) = textbook stagflation triple. FOMC Chair Warsh hawkish; rate 3.50-3.75% held since Dec 2025. 86-89% market probability for hold, but committee is split with hike voices. Jul 29 = highest-risk single session of Q3 (FOMC + META+MSFT+ARM earnings = triple catalyst).
+- **Technicals:** S&P 7,411.98 | −1.63% below 50d MA (~7,534.75) | −0.71% below 200d MA (~7,464.61). FTD closed. Rally low 7,266.99 intact (145 pts below Jul 24 close; recovering, NOT setting up Day 1).
+- **Sector leadership (4-wk RS):** XLI (Industrials) > XLP (Staples) > XLE (Energy). XLK dead last (SOXX bear). XLC #9 (GOOGL capex). Total defensive rotation.
+- **Earnings this week:** META+MSFT+ARM (Jul 29 AMC), AMZN+AAPL (Jul 30 AMC). Largest mega-cap volatility cluster since Q1 earnings.
+- **Natural expiry path:** Jun 23 dist expires Jul 29 → 6/25 (still Correction). Next milestone Aug 11-12 (Under Pressure threshold). Earliest Uptrend ~Aug 17-21 with no new dist days.
+
+### Sector ranking (4-week RS, Jun 27 → Jul 24, websearch_fallback)
+
+| Rank | Sector ETF | 4-wk RS | Notes |
+|---|---|---|---|
+| 1 | XLI Industrials | +2-3% | Best RS 2 consecutive weeks; AI infra + defense |
+| 2 | XLP Consumer Staples | +1-2% | Defensive outperformance; Dow/value rotation |
+| 3 | XLE Energy | +2-4% | Brent ~$99; oil spike; stagflation not tradeable |
+| — | XLF | flat | RRG Lagging; FOMC hawkish headwind |
+| — | XLK | −3 to −5% | SOXX bear; GOOGL capex; AMD competitive |
+| — | XLC | −5 to −7% | GOOGL −6.5%; XLC #9 dead last |
+
+### Key events this week
+
+- **Mon Jul 28:** FOMC Day 1. Dist threshold 7,397.14. No entries.
+- **Tue Jul 29:** FOMC decision + Jun 23 dist expires → 6/25 + META+MSFT+ARM AMC. ZERO entries.
+- **Wed Jul 30:** AMZN+AAPL AMC.
+- **Thu Jul 31:** Q2 GDP advance, Core PCE.
+- **Fri Aug 1:** July NFP + INTC blackout clears → run canslim-screener.
+
+### Actions this /weekly-prep
+
+- `memory/MARKET-DIRECTION.md`: Updated with weekly-prep entry (market state confirmed Correction; 7/25; dist expiry calendar; week outlook)
+- `memory/WATCHLIST.md`: Archived week of Jul 20-25; new CURRENT week of Jul 28-Aug 1 written (zero primary candidates; bench updated; INTC added with blackout note)
+- `memory/RESEARCH-LOG.md`: This entry appended
+- ClickUp: Weekly summary sent
+
+`research_source: websearch_fallback` | `Alpaca_Day156_BLOCKED` | `Perplexity_403` | `AV_403` | `37th_degraded_session` | `weekly-prep_Jul27_complete` | `dist_7of25` | `SPX_baseline_7411.98` | `zero_candidates_16th_week` | `FOMC_Jul28-29_risk_elevated` | `INTC_canslim_screener_Aug1` | `ARM_reeval_Aug5` | `universe_scan_skipped_Correction_FOMC`

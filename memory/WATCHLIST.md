@@ -36,7 +36,102 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ⛔ CURRENT — Week of 2026-07-20 to 2026-07-25 — REBUILT Sun Jul 19 /weekly-prep
+## ⛔ CURRENT — Week of 2026-07-28 to 2026-08-01 — REBUILT Sun Jul 27 /weekly-prep
+
+**Built:** 2026-07-27 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 37th consecutive degraded session
+**Market direction:** 🔴 Market in Correction (7/25 dist days) | **NO NEW LONG ENTRIES**
+**S&P 500 baseline (Jul 24 close):** 7,411.98 | **50d MA est. ~7,534.75** (−1.63% BELOW) | **200d MA est. ~7,464.61** (−0.71% BELOW) | Dual MA breach active
+**FTD status:** CLOSED — requires new Day 1 below 7,266.99 (rally low Jun 10; 145 pts below Jul 24 close)
+**Dist expiry schedule this week:** Jun 23 expires **Tue Jul 29** → 7/25 → 6/25 (still Correction ≥6); next milestone Aug 11 (Jul 7 expires → Under Pressure threshold)
+
+**⚠️ FOMC WEEK — HIGHEST RISK OF Q3. ZERO ENTRIES UNDER ANY CIRCUMSTANCES THIS WEEK.**
+- **Mon Jul 28:** FOMC Day 1 (or pre-meeting). No entries. Dist threshold: 7,397.14.
+- **Tue Jul 29:** FOMC formal Day 1 (Tue-Wed pattern). Jun 23 DIST EXPIRES → 6/25 (still Correction). META+MSFT+ARM AMC. **DO NOT ENTER**.
+- **Wed Jul 30 — HIGHEST RISK SESSION Q3:** ⚠️ **FOMC decision ~2 PM ET / 1 PM CT** (**hike prob ~35-37%** per market pricing Jul 26 — 3× our prior estimate; Warsh has stagflation cover) + Warsh press conference + **AMZN+AAPL AMC same night**. Double-catalyst day. **DO NOT ENTER UNDER ANY CIRCUMSTANCES**.
+- **Thu Jul 31:** Q2 GDP advance (est. ~2.0%). Core PCE. ECI.
+- **Fri Aug 1:** July NFP (key stagflation read). INTC blackout CLEARS → run canslim-screener.
+
+**Top sectors (4-week trailing RS, Jun 27 → Jul 24, `websearch_fallback`):**
+1. **XLI Industrials** — best RS 2 consecutive weeks; AI infra + defense stable; est. 4-wk: +2-3%
+2. **XLP Consumer Staples** — defensive outperformance; Dow/value rotation; est. 4-wk: +1-2%
+3. **XLE Energy** — Brent ~$99; stagflation not trading opportunity; est. 4-wk: +2-4% (oil spike)
+**Avoid:** XLK (SOXX −3%+ Fri; AMD competitive flag; AI capex fear), XLC (GOOGL −6.5%; sector #9 dead last), XLF (RRG Lagging; FOMC hawkish), XLRE (rate-sensitive)
+**Blacklisted sectors:** None (zero trades placed to date)
+
+**Universe scan:** SKIPPED — Correction posture + all APIs blocked + FOMC week = zero actionable universe this week. Build-universe.sh NOT run (would require Alpaca + AV both online). Bench monitoring only.
+**Passed conviction ≥75: 0** — **ZERO for 16th consecutive week** (17th consecutive week with zero qualifying entries)
+
+> ⚠️ **16th consecutive week with 0 candidates above conviction threshold.** Correction gate is a total moratorium. ⚠️ FOMC hike probability: **~35-37%** (market-priced as of Jul 26; 3× prior estimate — this is a genuine hike risk, not just a tail scenario). FOMC hike on Wed Jul 30 = likely DIST #8+ → delays natural expiry path further. No FOMO. No improvisation. Patience is the position.
+
+---
+
+## ⛔ CORRECTION POSTURE — NO NEW LONG ENTRIES — HEDGE CANDIDATES ONLY
+
+**Entry gate: ⛔ ZERO new long entries** (Market in Correction — all new longs blocked; FOMC week double-prohibition)
+
+### Hedge Candidates (Correction Protocol Active)
+
+| Rank | Instrument | Type | Size | Status | Notes |
+|---|---|---|---|---|---|
+| H1 | **SH** | Inverse S&P (−1×) | $625 / 25% portfolio | **QUEUED — Alpaca Day ~156 BLOCKED** | Execute as FIRST order on Alpaca restore; queued since Jun 5 (~8 weeks) |
+| H2 | **SQQQ** | Inverse NASDAQ (−3×) | Alt: $625 if SH unavailable | Secondary | Only if SH specifically unavailable; leverage decay risk for extended hold |
+
+**SH rationale:** Correction (7/25 dist days); S&P −1.63% below 50d MA AND −0.71% below 200d MA (dual breach); FOMC hawkish Warsh (potential hike surprise); tariffs 10-12.5% effective; Brent ~$99 (stagflation signal); AI capex sustainability fear (GOOGL capex raise punished −6.5%; SOXX −3%+ Fri). SH textbook Correction hedge.
+**Exit trigger:** Follow-through day confirms new Confirmed Uptrend → exit SH within 2 sessions.
+
+---
+
+### Primary Watchlist (score ≥75)
+
+**NONE this week.** Market in Correction. FOMC double-prohibition. No new long entries. Zero candidates above threshold. See bench.
+
+---
+
+### Bench (Correction monitor only — no action until Uptrend + score ≥75 + Alpaca restored)
+
+| Rank | Symbol | Score | Δ | Sector | Status | Re-Score Trigger | Notes |
+|---|---|---|---|---|---|---|---|
+| B1 | NVDA | **74/100** | UNCHANGED | XLK / Semis | 🟡 Cup wk ~36 (as of Mon Jul 28); no handle; 52-wk high $236.54 | Handle completion (~Aug-Sep 2026) + Uptrend + Alpaca + AV restore | **C:20 A:15 N:12 S:10 L:12 I:5 Base:0.** Price: **$206.84 CONFIRMED** (Jul 24 close, −0.92%; websearch confirms; our prior est. $200-205 was conservative). 52-wk high $236.54 (~14.6% away). Cup wk ~36 (Mon Jul 28 count); no handle. ⚠️ AMD competitive flag active (MSFT+Meta AI system launch partners — N-letter watch). N-letter tailwinds: INTC Data Center +59% confirms AI demand; AMKR/NVDA $1.5B US packaging deal. GOOGL capex raise ($205B) initially seen as bearish for AI capex ROI — watch if this headwind spreads to NVDA next re-score. Score 74/100 UNCHANGED — Base:0 penalty from no handle overrides positive news. Not actionable until: handle forms + Confirmed Uptrend + Alpaca restore = est. 82-85/100 (Aug-Sep 2026 at earliest). `websearch_fallback` `NVDA_CONF_206.84_Jul24` `NVDA_cup_wk36_no_handle` `AMD_competitive_flag_active` `GOOGL_capex_205B_AI_ROI_watch` `SP500_below_50d_200d_MA` |
+| B2 | INTC | **~70-78/100 est. (UNSCORED — BLACKOUT)** | NEW ADDITION (Jul 24 /pre-market) | XLK / Semis | ❌ BELOW THRESHOLD — **BLACKOUT THROUGH JUL 31** | **Run canslim-screener Aug 1–4** with live AV + Alpaca data | **Preliminary (unverified):** C:15-20 A:0-10 N:13-15 S:5-10 L:13-15 I:5-7 Base:0. Q2 2026 CONFIRMED BEAT: EPS $0.42 adj (+92% vs $0.22 est); Rev $16.13B (+25.4% YoY); Data Center & AI +59% YoY. INTC up 163% YTD. N-letter: 18A foundry ramp + Google AI deal + Xeon 6700P. ⚠️ A-letter: prior GAAP losses (multi-year) — this is the key risk; turnaround story may not pass 3-year history criterion. Q3 guide: $15.80-16.80B / EPS $0.38 (deceleration but still positive). GAAP net loss ~$11B cited (watch: is this a restructuring charge? or core GAAP result?). Entry blocked: (1) blackout through Jul 31; (2) Correction gate; (3) Alpaca blocked; (4) score unverified (A-letter critical). **ACTION: Run canslim-screener Aug 1-4.** Earliest entry: Aug 17-21 (if Confirmed Uptrend + score ≥75 + base + Alpaca). `INTC_preliminary_unscored` `INTC_blackout_clears_Aug1` `INTC_EPS0.42_+92pct` `INTC_Rev16.13B_+25.4pct` `INTC_DC_+59pct` `INTC_canslim_screener_Aug1` |
+| B3 | MRVL | **~15-25/100** | UNCHANGED (watch-only) | XLK / AI Semis | ❌ FAR BELOW THRESHOLD — broken structure | New base formation (8+ wks from $186 low) + FTD + Alpaca restore + CFO selling resolved + insider activity normalized | **C:10 A:10 N:3 S:2 L:2 I:1 Base:0.** Price: est. ~$186-190 (Jul 17-24 range; Jul 17 CONF $188.30 / Jul 24 est. lower on SOXX −3%). Insider: CFO sell + Bharathi (President, DC) $1.79M sell Jul 16. Capital raise shelf filed Jul 9 (dilution risk). Erste Group downgraded Hold. MRVL-NVDA custom ASIC deal (LT positive; doesn't fix score). 8+ wk rebuild needed minimum. Not actionable Q3-Q4 2026. `websearch_fallback` `MRVL_watch_only` `MRVL_broken_structure` `MRVL_shelf_filed` `MRVL_insider_sell_Bharathi` |
+| B4 | GOOGL | **~60-65/100 ⬇️⬇️** | ↓↓ (post-Jul-22 earnings; capex raise punished −6.5%) | XLC / Mega-Cap Tech | ❌ BELOW THRESHOLD — not actionable Q3 | Sector XLC recovery + capex digestion + score ≥75 path | **C:15 A:12 N:8 S:8 L:5-8 I:3-5 Base:0.** Q2 cloud +82% YoY (beat) but GAAP EPS $9.11 inflated by Anthropic/SpaceX MTM (not organic quality). XLC sector #9 dead last (L-letter severely damaged). Capex full-year raised sharply → institutional sellers confirmed AH and at open Jul 23 (I-letter negative). Blackout Aug 5+. Not actionable Q3 2026. `GOOGL_post-earnings_60-65` `GOOGL_XLC_sector_9_dead_last` `GOOGL_capex_raise_punished` |
+| — | ARM | **PERMANENTLY REMOVED COB JUL 21 ✅** | — | XLK / Semis | ❌ REMOVED — re-evaluation window Aug 5+ | Prior score 60/100 (GAAP C-letter fail). Reports **Jul 29 AMC** → **re-evaluation window opens Aug 5+** (5 trading days). If Q1 FY2027 GAAP EPS shows ≥25% YoY growth → C-letter improves from 10→20. Still below 75 without base + Uptrend. Re-score Aug 5+. `ARM_removed_Jul21` `ARM_earnings_Jul29_AMC` `ARM_reeval_Aug5_plus` |
+
+---
+
+### Entry Execution Plan — Week of Jul 28 – Aug 1
+
+**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day ~156 BLOCKED + FOMC week + 0 candidates ≥75 — 17th consecutive week zero qualifying entries)
+
+**FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (Correction hedge — QUEUED since Jun 5, ~8 weeks)
+
+**Weekly critical path:**
+
+| Date | Event | Action | Gate |
+|---|---|---|---|
+| Mon Jul 28 | FOMC Day 1. Monitor S&P dist threshold 7,397.14. | NONE | Correction + Alpaca blocked |
+| Tue Jul 29 | ⚠️ FOMC decision ~1 PM CT. Jun 23 dist expires → 6/25. META+MSFT+ARM earnings AMC. | NONE | Correction + FOMC + Alpaca blocked. DO NOT ENTER. |
+| Wed Jul 30 | AMZN+AAPL earnings AMC. Post-FOMC digest. | NONE | Correction + Alpaca blocked |
+| Thu Jul 31 | Q2 GDP advance. Core PCE. ECI. | NONE | Correction + Alpaca blocked |
+| Fri Aug 1 | July NFP. INTC blackout CLEARS. | Run INTC canslim-screener (data sources permitting). | No entries (Correction; Uptrend est. Aug 17-21) |
+
+**FTD scenario for this week:**
+- FOMC hike surprise (low prob but elevated): S&P potentially −2%+ → possible new Day 1 below 7,266.99 (rally low). If this fires: FTD window = Day 4-7 from Day 1 (~Aug 4-7). Would coincide with post-FOMC relief window.
+- FOMC hold (base case): S&P recovers modestly; stays above 7,266.99; Day 1 NOT triggered. FTD path remains closed.
+- Uptrend est. Aug 17-21 **unchanged** from last week (natural dist-day expiry path; no new dist days assumed).
+
+**Rescoring queue (post-FOMC week):**
+1. **INTC — Fri Aug 1 or Mon Aug 4:** blackout clears; run canslim-screener with live data. A-letter GAAP history is the swing factor.
+2. **ARM — ~Aug 5:** post-Jul-29-earnings re-evaluation. GAAP C-letter improvement required (prior fail was on GAAP; if now passes → score may approach 70-75 range).
+3. **NVDA — Aug-Sep 2026:** when handle forms post-cup (~wk 38-45); then formal re-score; est. 82-85/100 with live data + base completion.
+
+---
+
+## ⚠️ ARCHIVED — Week of 2026-07-20 to 2026-07-25 — **STALE — rebuilt Sun Jul 27 /weekly-prep**
+
+**Updated:** 2026-07-24 (Fri) — `/pre-market` 6:00 AM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~154 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 33rd consecutive degraded session
 
 **Updated:** 2026-07-24 (Fri) — `/pre-market` 6:00 AM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~154 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 33rd consecutive degraded session

@@ -4887,3 +4887,18 @@ research_source: websearch_fallback | Alpaca: Day ~154 BLOCKED | Perplexity: 403
 ### Circuit Breakers
 
 ALL CLEAR | Equity $2,500 HWM | SH $625 QUEUED (Alpaca BLOCKED)
+
+---
+## 2026-07-26 21:20 CT [clickup-placeholder]
+
+📋 Week prep 2026-07-27
+Market: 🔴 Correction (7/25 dist days; SPY vs 50d MA: −1.49%; SPY vs 200d MA: −0.71%)
+Top sectors (monitor only): XLI Industrials, XLP Staples, XLE Energy (oil spike)
+Watchlist primary: NONE (16th consecutive zero-entry week — Correction gate)
+⚠️ FOMC WEEK: decision Wed Jul 30 ~2 PM ET | hike prob ~35-37% (elevated — stagflation triple)
+Bench: NVDA 06.84 (74/100; cup wk ~36; no handle; BLOCKED), INTC ~2 (blackout thru Jul 31; score Aug 1-4), MRVL ~94 (~15-25/100; watch-only)
+Calendar risks:
+- Tue Jul 29: META+MSFT+ARM AMC | Jun 23 dist expires → 6/25
+- Wed Jul 30: FOMC decision + AMZN+AAPL AMC — most dangerous session Q3
+- Fri Aug 1: NFP + INTC blackout clears
+Entry plan Mon: ZERO — Correction + FOMC week + Alpaca Day ~156 BLOCKED. SH 25 hedge QUEUED. Earliest Uptrend ~Aug 17-21.

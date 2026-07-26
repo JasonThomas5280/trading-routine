@@ -6,7 +6,60 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 24 /eod-review FINAL — S&P CONF ~7,411.98 (+0.05%) NOT DIST ✅ | DIST COUNT 7/25 UNCHANGED | Jun 17 EXPIRED ✅ | NASDAQ −0.6% CHIP SELLOFF (SOXX −3%+) | DOW +0.7% | NVDA est. ~$200-205 (chip selloff) | FOMC JUL 28-29 NEXT WEEK (META+MSFT+ARM Jul 29 AMC) | JUN 23 DIST EXPIRES JUL 29 → 6/25 | 50d MA est. −1.63% BELOW | 200d MA est. −0.71% BELOW | ALPACA DAY ~154 BLOCKED | 0 POSITIONS | 0 ACTIONS)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 27 /weekly-prep — S&P last close 7,411.98 (Jul 24 Fri) | DIST COUNT 7/25 | 50d MA −1.63% BELOW | 200d MA −0.71% BELOW | ⚠️ FOMC JUL 28-29 (WARSH HAWKISH; HIKE RISK) | JUN 23 EXPIRES TUE JUL 29 → 6/25 | META+MSFT+ARM AMC JUL 29 | AMZN+AAPL AMC JUL 30 | ALPACA DAY ~156 BLOCKED | NO NEW LONGS | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+
+**✅ JUL 27 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — WEEK OF JUL 28 – AUG 1 THESIS — FOMC + MEGA-CAP EARNINGS WEEK — HIGHEST-RISK SESSION Q3 = JUL 29 — ALPACA DAY ~156 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~156 BLOCKED | Perplexity 403 | AV 403 | 37th consecutive degraded session
+- **Abort gates: (1) Correction (7/25 dist days) → NO new longs | (2) Alpaca BLOCKED (403) → NO order execution** | Strategy posture: 100% cash; SH $625 QUEUED
+- **Baseline (last close Fri Jul 24):** S&P 7,411.98 | 50d MA est. ~7,534.75 = **−1.63% BELOW** | 200d MA est. ~7,464.61 = **−0.71% BELOW** | Both MA levels breached = dual Correction triggers active
+- **Distribution day count: 7/25** | Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23
+- **FTD status:** CLOSED — requires new Day 1 below rally low 7,266.99 (145 pts below Jul 24 close); S&P recovering, NOT setting up Day 1. FTD requires follow-through Day 4-7 at +1.25%+ on volume.
+- **Sector leadership (4-week RS, Jun 27 → Jul 24):**
+  - #1 **XLI Industrials** — best relative strength 2 consecutive weeks; AI capex infrastructure + defense intact; MONITOR only
+  - #2 **XLP Consumer Staples** — defensive outperformance; Dow/value leadership; MONITOR only
+  - #3 **XLE Energy** — elevated (Brent ~$99 Jul 24); stagflation vector NOT trading opportunity; MONITOR only
+  - AVOID: XLK (SOXX −3%+ Fri; AMD competitive; AI capex sustainability fear), XLC (GOOGL −6.5% Thu; XLC #9 dead last), XLF (RRG Lagging; hawkish FOMC = NIM positive longer-term but near-term pressure), XLRE (hawkish FOMC = headwind)
+- **⚠️ WEEK OF JUL 28 – AUG 1 CRITICAL PATH (confirmed via websearch Jul 27):**
+  - **Mon Jul 28:** FOMC Day 1 (or pre-meeting). No new entries. Dist threshold: 7,411.98 × 0.998 = 7,397.14.
+  - **Tue Jul 29:** FOMC Day 2 (formal session Day 1 per standard Tue-Wed pattern). **Jun 23 DIST DAY EXPIRES → count drops 7→6/25 (STILL CORRECTION — ≥6 rule).** META+MSFT+ARM earnings AMC (triple mega-cap). DO NOT ENTER.
+  - **Wed Jul 30 — HIGHEST VOLATILITY SESSION Q3:** ⚠️ **FOMC rate decision ~2:00 PM ET / 1:00 PM CT** (standard Fed Wednesday; Warsh press conference 2:30 PM ET). ⚠️ **HIKE PROBABILITY ~35-37%** (websearch confirms — much higher than prior 11-14% estimate; stagflation triple: tariffs 10-12.5% + Brent ~$99 + jobless 187K lowest since 1969 = Warsh has cover to hike). THEN AMZN+AAPL earnings AMC SAME NIGHT. Double-catalyst day — most dangerous session of Q3. DO NOT ENTER UNDER ANY CIRCUMSTANCES.
+  - **Thu Jul 31:** Q2 GDP advance estimate (est. ~2.0%). Core PCE. ECI.
+  - **Fri Aug 1:** ⚠️ July NFP (key stagflation read). INTC earnings blackout CLEARS. Market open. Monitor dist day count.
+- **Distribution day expiry calendar (authoritative — updated this /weekly-prep):**
+
+| Dist Day | S&P Close | Change | Expiry (Day 25) | Action |
+|---|---|---|---|---|
+| Jun 23 | ~7,333 | ~−1.17% | **Tue Jul 29** | EXPIRES NEXT — 7→6/25 (still Correction) |
+| Jul 7 | ~7,504 | −0.44% | **Mon Aug 11** | → 6→5/25 = **UNDER PRESSURE** (if no new dist) |
+| Jul 8 | ~7,458 | −0.61% | **Tue Aug 12** | → 5→4/25 |
+| Jul 13 | 7,515.34 | −0.79% | **Mon Aug 17** | → 4→3/25 |
+| Jul 16 | 7,533.77 | −0.53% | **Wed Aug 20** | → 3→2/25 |
+| Jul 17 | 7,457.69 | −1.01% | **Thu Aug 21** | → 2→1/25 |
+| Jul 23 | 7,408.30 | −1.21% | **Fri Aug 28** | → 1→0/25 |
+
+- **Path out of Correction (no new dist days assumed):**
+  - Aug 11: 7/25 → 6/25 (still Correction)
+  - Aug 12: 6/25 → **5/25 = Under Pressure** ← FIRST state upgrade possible (transition from Correction)
+  - ~Aug 17-21: dist days falling further → Confirmed Uptrend possible IF FTD fires in that window
+  - ⚠️ CAVEAT: FOMC hike on Jul 29 = likely new DIST #8 → expiry pushed to ~Aug 29 → delays Aug 12 improvement by 2-3 weeks
+- **Bench status (confirmed via websearch Jul 27):**
+  - NVDA: **74/100 UNCHANGED** | Cup wk ~36 (as of Mon Jul 28) | No handle | **Jul 24 confirmed close: $206.84** (−0.92% from ~$208.76 intraday; websearch confirms — higher than our est. $200-205) | 52-wk high $236.54 (~14.6% above $206.84) | N-letter tailwinds: INTC Data Center +59% YoY + AMKR $1.5B deal | ⚠️ AMD competitive flag | BLOCKED: Correction + <75 + no handle + Alpaca
+  - INTC: Watch-only | Blackout through Jul 31 | **Run canslim-screener Aug 1–4 with live data** | Preliminary 70-78/100 (A-letter GAAP history = risk; all other letters strong)
+  - MRVL: ~15-25/100 | Watch-only | Broken structure; 8+ wk rebuild; no catalyst
+  - GOOGL: ~60-65/100 | Watch-only | Capex raise punished; XLC #9; not actionable Q3
+  - ARM: **PERMANENTLY REMOVED COB Jul 21** | Reports Jul 29 AMC | **Re-evaluation window Aug 5+** | Prior score 60/100 (GAAP C-letter fail) — may improve if Q1 FY2027 showed strong GAAP EPS
+- **Hedge:** SH $625 / 25% portfolio | QUEUED since Jun 5 (8 weeks) | Execute as FIRST order on Alpaca restore | Exit trigger: FTD confirms Confirmed Uptrend → exit SH within 2 sessions
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | 0 positions | Week Jul 28-Aug 1: 0/3 trades available (all blocked — Correction)
+- **Emotional state:** DISCIPLINED — 16 consecutive weeks capital preserved at HWM; full firepower intact; no improvisation; patience through FOMC
+- **Websearch price confirmations (Jul 27 search agent):**
+  - NVDA Jul 24 close: **$206.84** (−0.92%) ✅ (our est. $200-205 was conservative)
+  - MRVL Jul 24 close: **~$194.23** (down ~5-7% on the day; recovered vs $188 Jul 17 on mid-week chip bounce)
+  - INTC Jul 24 close: **~$92.32** (fell further from $97.35 intraday; sell-the-news accelerated)
+  - ARM Jul 21 final close: **~$277+** (+6.06% — strong exit day; removed from bench after COB as planned)
+  - QQQ Jul 24 close: **~$684.23** | 50d MA: **~$718.51** (QQQ **−4.8% below 50d** — significantly more damaged than SPY) | 200d MA: **~$639.53** (QQQ +7% above 200d — long-term trend intact)
+  - SPY close: ~$738.93 | 50d MA: ~$750.16 | 200d MA: ~$744.26 ← **CORRECTION: 200d MA higher than est.** (~$744 vs prior ~$693 alt = use $744; aligns with S&P 200d est. ~7,465 ✅)
+  - ⚠️ **FOMC HIKE PROBABILITY CORRECTION (key update):** Market pricing as of Jul 26: **~35-37% hike probability** (prior memory estimate was 11-14%; actual is 3× higher). Stagflation triple (tariffs + Brent $99 + jobless 187K) giving Warsh cover. NOT a non-event meeting.
+- `weekly-prep_Jul27` | `websearch_fallback` | `Alpaca_Day156_BLOCKED` | `Perplexity_403` | `AV_403` | `37th_degraded_session` | `dist_7of25_UNCHANGED` | `SPX_baseline_7411.98_Jul24` | `50d_MA_BELOW_-1.49pct_SPY` | `200d_MA_BELOW_-0.71pct` | `QQQ_-4.8pct_below_50d` | `FOMC_Wed_Jul30_decision` | `FOMC_hike_prob_35-37pct` | `Jun23_expires_Jul29_next` | `META_MSFT_ARM_Jul29_AMC` | `AMZN_AAPL_Jul30_AMC_same_day_FOMC` | `NFP_Aug1` | `INTC_blackout_clears_Aug1` | `ARM_reeval_Aug5` | `NVDA_CONF_206.84_74of100_cup_wk36_no_handle` | `MRVL_CONF_~194.23` | `INTC_CONF_~92.32` | `SH_625_QUEUED` | `earliest_uptrend_Aug17-21`
 
 **✅ JUL 24 /eod-review FINAL (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,411.98 (+0.05%) NOT DIST ✅ — 7/25 UNCHANGED — NASDAQ −0.6% CHIP SELLOFF (SOXX −3%+) — DOW +0.7% — FOMC JUL 28-29 NEXT WEEK — ALPACA DAY ~154 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~154 BLOCKED | Perplexity 403 | AV 403 | 35th consecutive degraded session
