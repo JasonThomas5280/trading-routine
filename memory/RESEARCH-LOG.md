@@ -16252,3 +16252,71 @@ Per TRADING-STRATEGY.md: "In Correction — sell losers, hedge with inverse ETFs
 - ClickUp: Weekly summary sent
 
 `research_source: websearch_fallback` | `Alpaca_Day156_BLOCKED` | `Perplexity_403` | `AV_403` | `37th_degraded_session` | `weekly-prep_Jul27_complete` | `dist_7of25` | `SPX_baseline_7411.98` | `zero_candidates_16th_week` | `FOMC_Jul28-29_risk_elevated` | `INTC_canslim_screener_Aug1` | `ARM_reeval_Aug5` | `universe_scan_skipped_Correction_FOMC`
+
+---
+
+## 2026-07-28 — /pre-market 6:00 AM CT | FOMC WEEK DAY 1 | `research_source: websearch_fallback`
+
+**Alpaca:** Day ~157 BLOCKED (403 proxy — 38th consecutive degraded session) | **Perplexity:** 403 | **Alpha Vantage:** 403
+**Market state:** 🔴 Correction (7/25 dist days) | **Entry gate: ⛔ ZERO new entries — Correction + FOMC week double prohibition**
+**Open positions:** 0 — Steps 1 (gap check) and 2 (position catalyst scan) SKIPPED
+
+### Overnight market check
+
+- **ES futures:** +~1.0% (Sunday pre-open) | **NQ futures:** +~1.7% | **Dow futures:** +~550 pts (+1.1%)
+- **Driver:** US-Iran fighting pause — Pakistan brokering back-channel negotiations; Brent crude pulled back from $100+ peak to ~$97. Risk-on relief bid.
+- **Oil:** Brent ~$97 (retreating from $100.69 multi-month high; ceasefire talks = near-term supply relief)
+- **FOMC:** Decision Wednesday ~2 PM ET (1 PM CT). Hike probability: ~35-37% (elevated — Warsh hawkish; stagflation triple: tariffs 10-12.5% + oil $97+ + jobless claims 187K). Base case: hold at 3.50-3.75%.
+- **Expected market direction today:** Higher open (+1%+) on Iran relief; likely fade into close as FOMC and mega-cap earnings loom. Dist day risk today: MINIMAL (opening UP, no distribution possible on up open).
+
+### Catalyst scan — primary watchlist
+
+**NONE** — Zero primary watchlist names. Correction gate + FOMC week prohibition. Step 3 SKIPPED.
+
+### Catalyst scan — bench names (information only)
+
+| Symbol | Recent News | Score Impact |
+|---|---|---|
+| NVDA | ~$206.84 Jul 24 conf; AI demand tailwinds (INTC data center +59% = read-through, AMKR $1.5B deal); AMD competitive flag still active; cup wk ~37 no handle | 74/100 UNCHANGED — no scoring event |
+| INTC | $92.32 close (−7.89%; sell-the-news after Q2 beat; below pre-earnings $100.23 close; AH $110 fully reversed); blackout ACTIVE through Jul 31 | UNSCORED — run canslim-screener Fri Aug 1 |
+| MRVL | ~$194.23 (−7.21% recent; continuing weakness; broken structure; shelf dilution risk) | ~15-25/100 UNCHANGED — watch-only |
+| ARM | Earnings AMC **TODAY Jul 29 or TOMORROW** — Analysts: EPS est. $0.36 / Rev $1.27B (vs $1.05B yr-ago); recent data center royalty >2× YoY | REMOVED from universe; re-eval Aug 5+ (5 trading days after earnings) |
+
+### Market overnight check (4 bullets)
+
+1. **Futures:** ES +1% / NQ +1.7% / Dow +1.1% — US-Iran talks via Pakistan mediators drove Sunday overnight risk-on; oil reversing from $100+ peak
+2. **This week's FOMC:** Chair Warsh decision Wednesday ~2 PM ET; hike probability elevated ~35-37%; if hold = relief rally (not FTD eligible); if hike = likely DIST #8+ → S&P tests 7,266.99 rally low
+3. **Mega-cap earnings cluster:** ARM earnings AMC Jul 29; META+MSFT AMC Jul 29; AMZN+AAPL AMC Jul 30 — largest earnings volatility cluster since Q1; every session Wed-Thu has binary risk
+4. **Key macro:** Q2 GDP advance Thu Jul 31 (~2.0% est.); Core PCE Thu; NFP Fri Aug 1 (~150K-200K est.); Jun 23 dist expires Tue Jul 29 → 6/25 (still Correction ≥6 rule)
+
+### Buy-zone readiness
+
+No primary watchlist names → classification SKIPPED. Correction posture. All bench names: 🔴 REMOVED from primary consideration (Correction gate + score <75 + FOMC week + Alpaca blocked).
+
+### Circuit breaker check
+
+**Alpaca BLOCKED** — cannot pull live account data. Based on last confirmed data (Jul 24 /eod-review):
+- Equity: $2,500 (HWM)
+- Day P&L: $0 (0 positions)
+- Week P&L: $0 (0 positions)
+- ⚠️ Circuit breakers: **ALL CLEAR** (assumed — 0 open positions = no loss possible)
+
+### Distribution day accounting
+
+- **Current count:** 7/25 (Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23)
+- **Dist threshold today (Mon Jul 28):** ~7,397.14 (7,411.98 × 0.998)
+- **Jun 23 expires:** Tue Jul 29 → drops to **6/25** (still Correction; ≥6 rule active; no state change)
+- **Next milestone:** Aug 11-12 (Jul 7 expires → 5/25 = Under Pressure threshold IF no new dist days)
+- **Earliest Uptrend est.:** ~Aug 17-21 (clean expiry path; no new dist days assumed)
+
+### FOMC week critical path (no entries any day)
+
+| Date | Event | Dist threshold | Gate |
+|---|---|---|---|
+| Mon Jul 28 | FOMC Day 1. Iran relief rally expected. | 7,397.14 | Correction + FOMC + Alpaca blocked |
+| Tue Jul 29 | ARM AMC. META+MSFT AMC. Jun 23 dist expires → 6/25. | ~TBD from today's close | Correction + FOMC + earnings binary |
+| Wed Jul 30 | **FOMC DECISION ~1 PM CT** — HIGHEST RISK SESSION. AMZN+AAPL AMC. | ~TBD | Correction + FOMC + Alpaca. DO NOT ENTER. |
+| Thu Jul 31 | Q2 GDP advance. Core PCE. ECI. | ~TBD | Correction + Alpaca blocked |
+| Fri Aug 1 | July NFP. INTC blackout CLEARS → run canslim-screener. | ~TBD | No entries (Correction; est. Uptrend Aug 17-21) |
+
+`research_source: websearch_fallback` | `Alpaca_Day157_BLOCKED` | `Perplexity_403` | `AV_403` | `38th_degraded_session` | `pre-market_Jul28` | `dist_7of25` | `SPX_baseline_7411.98` | `FOMC_decision_Wed_Jul30` | `ARM_earnings_Jul29_AMC` | `META_MSFT_AMC_Jul29` | `INTC_92.32_sell-the-news` | `MRVL_194.23_continued_weakness` | `Iran_pause_futures_+1pct` | `circuit_breakers_ALL_CLEAR_assumed`

@@ -4902,3 +4902,20 @@ Calendar risks:
 - Wed Jul 30: FOMC decision + AMZN+AAPL AMC — most dangerous session Q3
 - Fri Aug 1: NFP + INTC blackout clears
 Entry plan Mon: ZERO — Correction + FOMC week + Alpaca Day ~156 BLOCKED. SH 25 hedge QUEUED. Earliest Uptrend ~Aug 17-21.
+
+---
+## 2026-07-28 06:00 CT [pre-market — 🔴 CORRECTION UNCHANGED — FOMC WEEK DAY 1 — ES +1% NQ +1.7% IRAN RELIEF — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-07-28
+Market: 🔴 Correction (7/25 dist days) | Futures: ES +~1.0% NQ +~1.7% (Iran peace talks; Brent ~$97 pullback)
+Open positions: 0 | Circuit breakers: NONE (assumed — Alpaca Day ~157 BLOCKED)
+Overnight gaps: NONE — 0 open positions (gap check skipped)
+Watchlist ready: NONE — 0 primary candidates (Correction + FOMC week zero entries)
+Watchlist watching: NONE
+Removed: NONE (bench only; all below threshold)
+Key catalyst today: FOMC begins (decision Wed ~1 PM CT); ARM+META+MSFT earnings AMC tomorrow (Jul 29) — HIGHEST RISK SESSION Q3
+⚠️ Dist count: 7/25 | Jun 23 expires Tue Jul 29 → 6/25 (still Correction ≥6 rule)
+⚠️ INTC: $92.32 (−7.89%; sell-the-news; blackout active through Jul 31; canslim-screener Fri Aug 1)
+⚠️ MRVL: ~$194.23 (−7.21%; continued weakness; watch-only; ~15-25/100)
+Plan: ZERO entries all week — Correction + FOMC week double prohibition + Alpaca Day ~157 BLOCKED. SH $625 hedge QUEUED (execute first order on Alpaca restore). Earliest Uptrend est. Aug 17-21.
+`research_source: websearch_fallback` | `Alpaca_Day157_BLOCKED`
