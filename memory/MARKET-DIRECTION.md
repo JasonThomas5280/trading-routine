@@ -6,7 +6,34 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 27 /weekly-prep — S&P last close 7,411.98 (Jul 24 Fri) | DIST COUNT 7/25 | 50d MA −1.63% BELOW | 200d MA −0.71% BELOW | ⚠️ FOMC JUL 28-29 (WARSH HAWKISH; HIKE RISK) | JUN 23 EXPIRES TUE JUL 29 → 6/25 | META+MSFT+ARM AMC JUL 29 | AMZN+AAPL AMC JUL 30 | ALPACA DAY ~156 BLOCKED | NO NEW LONGS | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 27 /market-check — S&P last close 7,411.98 (Jul 24 Fri) | DIST COUNT 7/25 | 50d MA −1.63% BELOW | 200d MA −0.71% BELOW | ⚠️ FOMC TUE JUL 28–WED JUL 29 DECISION (WARSH; HIKE ~34.7%) | JUN 23 EXPIRES WED JUL 29 → 6/25 | META+MSFT+ARM AMC WED JUL 29 | AMZN+AAPL AMC THU JUL 30 | ALPACA DAY ~157 BLOCKED | NO NEW LONGS | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+
+**✅ JUL 27 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — FOMC WEEK (MTG STARTS TUE JUL 28) — 🚨 US-IRAN CEASEFIRE WEEKEND → OIL CRASH → S&P INTRADAY ~7,454 (+0.57%) — DIST #8 RISK: NONE — ALPACA DAY ~157 BLOCKED — 0 POSITIONS — 0 ACTIONS — ⚠️ FOMC DATE CORRECTION):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~157 BLOCKED | Perplexity 403 | AV 403 | 38th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken
+- **S&P 500 baseline (Fri Jul 24 confirmed close):** 7,411.98 | **Dist threshold today:** 7,397.14 (7,411.98 × 0.998)
+- **🚨 WEEKEND CATALYST — US-IRAN CEASEFIRE/PAUSE:** US and Iran paused hostilities over weekend → Dow futures rallied 500 pts Sunday night → markets opened sharply higher Monday. Doha peace talks advancing.
+- **S&P 500 intraday Mon Jul 27 (~10:30 AM ET):** ~**7,454** (+0.57% from 7,411.98) | Source: Trading Economics real-time | Market well above dist threshold | **DIST DAY RISK: ZERO** (market strongly up)
+- **Oil CRASHED:** Brent ~**$89.43** (down from $100.69 Thu Jul 23 — **−11% in 3 sessions**) | WTI ~**$83.37** | Iran premium fully unwound | Oil below $90 for first time since before the Iran escalation began
+- **FOMC hike probability (updated):** With oil at $89 (was $100 when hike odds hit 38%), hike risk reduces. Current: ~**34.7% hike / 65.3% hold** (vs prior estimate 35-37%; directionally lower with oil retreat). Sep hike prob: ~82% (sticky core inflation). Warsh will be pressed on oil disinflationary path in press conference.
+- **⚠️ FOMC DATE CORRECTION (vs. /weekly-prep labels):** Meeting = **Tue Jul 28 (Day 1) → Wed Jul 29 (Decision 2pm ET / 1pm CT + press conf 2:30pm ET)** — prior WATCHLIST/MARKET-DIRECTION labels had dates offset; "Mon Jul 28" in watchlist = actually Tue Jul 28. Confirmed via CME FedWatch + multiple sources.
+- **⚠️ CRITICAL DATES THIS WEEK (CORRECTED):**
+  - **Mon Jul 27 (TODAY):** Pre-FOMC day. Market UP +0.57% on Iran ceasefire + oil crash. No major US macro. **Dist day: NO** (market well above threshold). DO NOT ENTER.
+  - **Tue Jul 28:** FOMC Day 1 (formal meeting starts). ADP Employment. Consumer Confidence (beat, per early reports). KO/BA/UPS/Visa/Boeing earnings. DO NOT ENTER.
+  - **Wed Jul 29 — HIGHEST VOLATILITY SESSION Q3:** ⚠️ **FOMC decision 2pm ET + press conf 2:30pm ET** (Warsh; hike prob ~34.7%; oil retreat = slightly more dovish setup) + **Jun 23 DIST DAY EXPIRES → 7/25 → 6/25 (still Correction ≥6)** + META+MSFT+ARM AMC same night. **DO NOT ENTER UNDER ANY CIRCUMSTANCES.**
+  - **Thu Jul 30:** AMZN+AAPL AMC. Q2 GDP advance (est. ~2.0%). Core PCE. ECI. Jobless Claims.
+  - **Fri Jul 31:** July NFP (key read). INTC blackout CLEARS → run canslim-screener Aug 1 or Mon Aug 4.
+- **Earnings today (Tue Jul 28 BMO):** KO, BA, UPS, V (Visa), SHW, ITW, RCL, GLW, STX — no strategy candidates
+- **Consumer Confidence (Jul 28):** BEAT (Conference Board; "highest level in two years" per early reports; Dow hitting more highs — positive setup for market tone)
+- **Distribution day count: 7/25 UNCHANGED** | Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23
+- **Next expiry: Jun 23 → Wed Jul 29** (FOMC Decision day = most watched expiry this year; count drops 7→6/25 — still Correction)
+- **NVDA:** $206.84 confirmed Jul 24 close | 74/100 UNCHANGED | Cup wk ~37 (Jul 27 count) | No handle | Deutsche Bank PT raised to $220 (positive, doesn't change our score) | BLOCKED
+- **INTC:** Watch-only | Blackout through Jul 31 | Run canslim-screener Mon Aug 4 (Fri Aug 1 also viable)
+- **SH hedge:** $625 QUEUED since Jun 5 (~8 weeks). Iran ceasefire does NOT change hedge status — still Correction with dual MA breach + 7 dist days. Execute on Alpaca restore.
+- **FTD status:** CLOSED (market recovering → moving AWAY from Day 1 trigger 7,266.99; now 187+ pts below current level)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | 0 positions | Week Jul 27-Aug 1: 0/3 trades used (week OPENS TODAY — 0/3)
+- **Actions: NONE** (40th consecutive zero-action session)
+- `market-check_Jul27` | `websearch_fallback` | `Alpaca_Day157_BLOCKED` | `38th_degraded_session` | `US_Iran_ceasefire_weekend_MAJOR` | `Brent_89.43_WTI_83.37_oil_crash_-11pct` | `SPX_intraday_7454_+0.57pct` | `dist_7of25_UNCHANGED` | `dist_day_risk_ZERO` | `FOMC_Day1_Tue_Jul28_Decision_Wed_Jul29_CORRECTED` | `FOMC_hike_prob_34.7pct_hold_65.3pct` | `Sep_hike_prob_82pct` | `Jun23_expires_Wed_Jul29` | `META_MSFT_ARM_AMC_Wed_Jul29` | `AMZN_AAPL_AMC_Thu_Jul30` | `NFP_Fri_Jul31` | `INTC_blackout_clears_Fri_Jul31` | `NVDA_cup_wk37_no_handle_DB_PT_220` | `SH_625_QUEUED` | `Consumer_Confidence_Jul28_BEAT`
 
 **✅ JUL 27 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — WEEK OF JUL 28 – AUG 1 THESIS — FOMC + MEGA-CAP EARNINGS WEEK — HIGHEST-RISK SESSION Q3 = JUL 29 — ALPACA DAY ~156 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~156 BLOCKED | Perplexity 403 | AV 403 | 37th consecutive degraded session

@@ -43,26 +43,36 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 **Market direction:** 🔴 Market in Correction (7/25 dist days) | **NO NEW LONG ENTRIES**
 **S&P 500 baseline (Jul 24 close):** 7,411.98 | **50d MA est. ~7,534.75** (−1.63% BELOW) | **200d MA est. ~7,464.61** (−0.71% BELOW) | Dual MA breach active
 **FTD status:** CLOSED — requires new Day 1 below 7,266.99 (rally low Jun 10; 145 pts below Jul 24 close)
-**Dist expiry schedule this week:** Jun 23 expires **Tue Jul 29** → 7/25 → 6/25 (still Correction ≥6); next milestone Aug 11 (Jul 7 expires → Under Pressure threshold)
+**Dist expiry schedule this week:** Jun 23 expires **Wed Jul 29** (⚠️ CORRECTED from prior "Tue Jul 29" — date label was day-of-week error) → 7/25 → 6/25 (still Correction ≥6); next milestone Mon Aug 11 (Jul 7 expires → Under Pressure threshold)
 
 **⚠️ FOMC WEEK — HIGHEST RISK OF Q3. ZERO ENTRIES UNDER ANY CIRCUMSTANCES THIS WEEK.**
-- **Mon Jul 28:** FOMC Day 1 (or pre-meeting). No entries. Dist threshold: 7,397.14.
-- **Tue Jul 29:** FOMC formal Day 1 (Tue-Wed pattern). Jun 23 DIST EXPIRES → 6/25 (still Correction). META+MSFT+ARM AMC. **DO NOT ENTER**.
-- **Wed Jul 30 — HIGHEST RISK SESSION Q3:** ⚠️ **FOMC decision ~2 PM ET / 1 PM CT** (**hike prob ~35-37%** per market pricing Jul 26 — 3× our prior estimate; Warsh has stagflation cover) + Warsh press conference + **AMZN+AAPL AMC same night**. Double-catalyst day. **DO NOT ENTER UNDER ANY CIRCUMSTANCES**.
-- **Thu Jul 31:** Q2 GDP advance (est. ~2.0%). Core PCE. ECI.
-- **Fri Aug 1:** July NFP (key stagflation read). INTC blackout CLEARS → run canslim-screener.
 
-**Top sectors (4-week trailing RS, Jun 27 → Jul 24, `websearch_fallback`):**
-1. **XLI Industrials** — best RS 2 consecutive weeks; AI infra + defense stable; est. 4-wk: +2-3%
-2. **XLP Consumer Staples** — defensive outperformance; Dow/value rotation; est. 4-wk: +1-2%
-3. **XLE Energy** — Brent ~$99; stagflation not trading opportunity; est. 4-wk: +2-4% (oil spike)
-**Avoid:** XLK (SOXX −3%+ Fri; AMD competitive flag; AI capex fear), XLC (GOOGL −6.5%; sector #9 dead last), XLF (RRG Lagging; FOMC hawkish), XLRE (rate-sensitive)
+**✅ Jul 27 /market-check UPDATE (10:00 AM CT):** 🚨 US-IRAN CEASEFIRE WEEKEND — MAJOR DEVELOPMENT
+- Brent oil crashed from $100.69 → **$89.43** (−11% in 3 sessions) | WTI: $83.37 | Stagflation narrative weakened
+- S&P intraday **~7,454 (+0.57%)** on ceasefire + oil collapse | Dow futures rallied 500pts Sunday night
+- **FOMC hike prob updated: ~34.7% hike / 65.3% hold** (down slightly from 38%; oil disinflationary but core CPI 3.5% still sticky)
+- ⚠️ **FOMC DATES CORRECTED:** Day 1 = **Tue Jul 28** | Decision = **Wed Jul 29 2pm ET** (prior notes incorrectly labeled Mon/Tue/Wed as Jul 28/29/30 — actual days are Tue/Wed/Thu)
+- Dist day risk Mon Jul 27: **ZERO** (market +0.57% well above dist threshold 7,397.14) | 7/25 UNCHANGED
+
+**Corrected week critical path:**
+- **Mon Jul 27 (TODAY):** Pre-FOMC. S&P +0.57% on Iran ceasefire. NOT dist day ✅. DO NOT ENTER.
+- **Tue Jul 28:** FOMC Day 1. ADP Employment. Consumer Confidence (BEAT — Conf Board). KO/BA/UPS/Visa earnings. DO NOT ENTER.
+- **Wed Jul 29 — HIGHEST RISK SESSION Q3:** ⚠️ **FOMC decision 2pm ET / 1pm CT** (hold 65.3% / hike 34.7%) + Warsh press conf 2:30pm ET + **Jun 23 DIST EXPIRES → 6/25 (still Correction)** + META+MSFT+ARM AMC. **DO NOT ENTER UNDER ANY CIRCUMSTANCES.**
+- **Thu Jul 30:** AMZN+AAPL AMC. Q2 GDP advance. Core PCE. ECI. Jobless Claims.
+- **Fri Jul 31:** July NFP. INTC blackout CLEARS → run canslim-screener Aug 1 or Mon Aug 4.
+
+**Top sectors (updated Jul 27 — oil collapse changes picture):**
+1. **XLI Industrials** — best RS; AI infra + defense stable; oil retreat = slight cost input tailwind
+2. **XLP Consumer Staples** — defensive outperformance; value rotation
+3. **XLF Financials** — FOMC hold = no headwind; value; Consumer Confidence beat = positive | MONITOR (not actionable — Correction)
+**Downgraded:** XLE Energy — Brent $89 (from $99-100); energy losing its RS advantage as oil premium unwinds
+**Avoid:** XLK (AI capex sustainability; AMD competitive), XLC (GOOGL sector laggard #9), XLRE (rate-sensitive)
 **Blacklisted sectors:** None (zero trades placed to date)
 
-**Universe scan:** SKIPPED — Correction posture + all APIs blocked + FOMC week = zero actionable universe this week. Build-universe.sh NOT run (would require Alpaca + AV both online). Bench monitoring only.
+**Universe scan:** SKIPPED — Correction posture + all APIs blocked + FOMC week = zero actionable universe this week.
 **Passed conviction ≥75: 0** — **ZERO for 16th consecutive week** (17th consecutive week with zero qualifying entries)
 
-> ⚠️ **16th consecutive week with 0 candidates above conviction threshold.** Correction gate is a total moratorium. ⚠️ FOMC hike probability: **~35-37%** (market-priced as of Jul 26; 3× prior estimate — this is a genuine hike risk, not just a tail scenario). FOMC hike on Wed Jul 30 = likely DIST #8+ → delays natural expiry path further. No FOMO. No improvisation. Patience is the position.
+> ⚠️ **16th consecutive week with 0 candidates above conviction threshold.** Correction gate is total moratorium. Oil crash (Brent $89) reduces stagflation pressure — FOMC hike prob falls to ~34.7%, but core CPI 3.5% keeps hike risk live. FOMC hike on Wed Jul 29 (corrected) = still possible DIST #8+ → delays expiry path. Oil retreat does NOT justify new long entries in Correction. No FOMO. No improvisation. Patience IS the position.
 
 ---
 

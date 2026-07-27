@@ -1,5 +1,33 @@
 
 ---
+## 2026-07-27 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — 🚨 US-IRAN CEASEFIRE → OIL CRASH (BRENT $89) → S&P ~7,454 (+0.57%) — FOMC WEEK (DAY 1 TUE JUL 28 / DECISION WED JUL 29) — DIST #8 RISK: ZERO — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-07-27 10:00 CT
+Market: 🔴 CORRECTION (7/25 dist days) | Circuit breakers: NONE
+Actions taken:
+  No new entries — ALL abort gates fired: (1) Correction gate (7/25 dist days ≥6 threshold); (2) Alpaca Day ~157 BLOCKED (403)
+  Watchlist primary candidates ≥75: ZERO (17th consecutive week)
+  Sell-rules-engine: SKIPPED (0 open positions)
+  Bench promotions: NONE (NVDA 74/100 no handle/pivot; INTC blackout; MRVL/GOOGL far below threshold)
+
+🚨 KEY DEVELOPMENT: US-Iran ceasefire/pause over weekend → Dow futures +500pts Sunday night → S&P intraday ~7,454 (+0.57% from 7,411.98) | Brent $89.43 / WTI $83.37 (oil crashed −11% from $100.69 Thu Jul 23) | Stagflation narrative significantly weakened by oil collapse | FOMC hike prob now ~34.7% (vs 38% prior; oil disinflationary)
+
+⚠️ FOMC DATE CORRECTION: Prior memory had meeting dates offset by 1 day. CORRECTED: FOMC Day 1 = TUE JUL 28 / Decision = WED JUL 29 2pm ET. NOT Wed Jul 30 as previously logged.
+
+This week critical path:
+  Mon Jul 27 (TODAY): Light macro. S&P +0.57% on Iran ceasefire. NOT dist day ✅.
+  Tue Jul 28: FOMC Day 1. ADP Employment. Consumer Confidence (BEAT — Conf Board highest in 2yr). KO/BA/UPS/Visa earnings BMO.
+  Wed Jul 29 ⚠️ HIGHEST RISK SESSION Q3: FOMC Decision 2pm ET (hold 65.3% / hike 34.7%) + Jun 23 dist EXPIRES (→6/25 still Correction) + META+MSFT+ARM AMC. DO NOT ENTER.
+  Thu Jul 30: AMZN+AAPL AMC + Q2 GDP advance + Core PCE + ECI.
+  Fri Jul 31: NFP + INTC blackout CLEARS.
+
+Watchlist status: 0 primary (≥75), 4 bench (NVDA 74, INTC ~70-78 est./blackout, MRVL ~15-25, GOOGL ~60-65)
+Open positions: 0 of 4 | Deployed: 0% | Cash: 100% ($2,500)
+Weekly trade count: 0 of 3 used (week opens today)
+SH $625 hedge: QUEUED (Alpaca blocked — execute on restore)
+Next check: /eod-review 3:15 PM CT (if FOMC decision is Wed, watch Tue EOD for pre-FOMC price action)
+
+---
 ## 2026-07-24 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — Dow +0.20% NEAR FLAT — DIST #9 RISK LOW — NVDA $208.76 (+2.30%) — INTC $97.35 (−2.87% SELL-THE-NEWS) — AMKR/NVDA $1.5B DEAL — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-07-24 10:00 CT
@@ -4919,3 +4947,8 @@ Key catalyst today: FOMC begins (decision Wed ~1 PM CT); ARM+META+MSFT earnings 
 ⚠️ MRVL: ~$194.23 (−7.21%; continued weakness; watch-only; ~15-25/100)
 Plan: ZERO entries all week — Correction + FOMC week double prohibition + Alpaca Day ~157 BLOCKED. SH $625 hedge QUEUED (execute first order on Alpaca restore). Earliest Uptrend est. Aug 17-21.
 `research_source: websearch_fallback` | `Alpaca_Day157_BLOCKED`
+
+---
+## 2026-07-27 15:23 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-27 10:00 CT | Market: 🔴 CORRECTION (7/25 dist) | Alpaca: Day ~157 BLOCKED | Circuit breakers: NONE | 🚨 US-Iran ceasefire → Brent $89 (−11%) → S&P ~7,454 (+0.57%) | No new entries (Correction + Alpaca blocked) | 0 positions | ⚠️ FOMC CORRECTED: Day1=Tue Jul28 / Decision=Wed Jul29 2pm ET | Wed Jul29: FOMC + Jun23 expires (→6/25) + META/MSFT/ARM AMC | Fri Jul31: NFP + INTC blackout clears | NVDA 74/100 cup wk37 no handle | SH $625 QUEUED | Next: /eod-review 3:15 PM CT
