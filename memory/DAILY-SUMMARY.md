@@ -1,5 +1,22 @@
 
 ---
+## 2026-07-27 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,413.18 (+0.02% NOT DIST ✅) — 7/25 UNCHANGED — NVDA $196.43 (−5.03%) — BRENT $88.49 (−8.6%) — 0 POSITIONS — 0 ACTIONS]
+
+📊 EOD 2026-07-27 | Equity $2,500.00 (+$0 day / +$0 week)
+Open: 0 positions, 100% cash
+Distribution days: 7 of 5 (25-session window) — market: 🔴 CORRECTION
+Actions today:
+  • NONE — Correction gate + Alpaca Day ~157 BLOCKED + 0 positions
+  • sell-rules-engine: SKIPPED (0 open positions — 26th consecutive)
+  • SH $625 hedge: still QUEUED (Alpaca blocked)
+Close data confirmed:
+  • S&P 500: ~7,413.18 (+0.02%) — NOT DIST ✅ | Dow: 52,210.08 (+0.51%) | Nasdaq: ~24,932 (−0.18%)
+  • NVDA: $196.43 (−5.03% China AI competition) | Brent: $88.49 (−8.6% Iran ceasefire)
+Tomorrow (Tue Jul 28): FOMC Day 1. ADP Employment. KO/BA/UPS/Visa earnings.
+Wed Jul 29 ⚠️ HIGHEST RISK Q3: FOMC Decision 2pm ET + Jun 23 expires (7→6/25) + META+MSFT+ARM AMC. DO NOT ENTER.
+Earliest Uptrend: ~Aug 17-21 (assuming no new dist days + FTD fires)
+
+---
 ## 2026-07-27 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — 🚨 US-IRAN CEASEFIRE → OIL CRASH (BRENT $89) → S&P ~7,454 (+0.57%) — FOMC WEEK (DAY 1 TUE JUL 28 / DECISION WED JUL 29) — DIST #8 RISK: ZERO — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-07-27 10:00 CT
@@ -4952,3 +4969,19 @@ Plan: ZERO entries all week — Correction + FOMC week double prohibition + Alpa
 ## 2026-07-27 15:23 CT [clickup-placeholder]
 
 📈 Market-check 2026-07-27 10:00 CT | Market: 🔴 CORRECTION (7/25 dist) | Alpaca: Day ~157 BLOCKED | Circuit breakers: NONE | 🚨 US-Iran ceasefire → Brent $89 (−11%) → S&P ~7,454 (+0.57%) | No new entries (Correction + Alpaca blocked) | 0 positions | ⚠️ FOMC CORRECTED: Day1=Tue Jul28 / Decision=Wed Jul29 2pm ET | Wed Jul29: FOMC + Jun23 expires (→6/25) + META/MSFT/ARM AMC | Fri Jul31: NFP + INTC blackout clears | NVDA 74/100 cup wk37 no handle | SH $625 QUEUED | Next: /eod-review 3:15 PM CT
+
+---
+## 2026-07-27 20:26 CT [clickup-placeholder]
+
+📊 EOD 2026-07-27 | Equity $2,500.00 (+$0 day / +$0 week)
+Open: 0 positions, 100% cash
+Distribution days: 7/25 — market: 🔴 CORRECTION
+Actions today:
+  • NONE — Correction gate + Alpaca Day ~157 BLOCKED + 0 positions
+  • sell-rules-engine: SKIPPED (0 open positions — 26th consecutive)
+  • SH $625 hedge: QUEUED (Alpaca blocked)
+Close confirmed:
+  • S&P: ~7,413.18 (+0.02% NOT DIST ✅) | Dow: 52,210 (+0.51%) | Nasdaq: ~24,932 (−0.18%)
+  • NVDA: $196.43 (−5.03%) | Brent: $88.49 (−8.6% Iran ceasefire)
+Wed Jul 29 ⚠️ FOMC Decision + Jun23 expires (7→6/25) + META/MSFT/ARM AMC. DO NOT ENTER.
+Earliest Uptrend: ~Aug 17-21

@@ -6,7 +6,31 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 27 /market-check — S&P last close 7,411.98 (Jul 24 Fri) | DIST COUNT 7/25 | 50d MA −1.63% BELOW | 200d MA −0.71% BELOW | ⚠️ FOMC TUE JUL 28–WED JUL 29 DECISION (WARSH; HIKE ~34.7%) | JUN 23 EXPIRES WED JUL 29 → 6/25 | META+MSFT+ARM AMC WED JUL 29 | AMZN+AAPL AMC THU JUL 30 | ALPACA DAY ~157 BLOCKED | NO NEW LONGS | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 27 /eod-review — S&P close ~7,413.18 (+0.02% NOT DIST ✅) | DIST COUNT 7/25 UNCHANGED | 50d MA ~−1.61% BELOW | 200d MA ~−0.69% BELOW | ⚠️ FOMC DECISION WED JUL 29 2PM ET + JUN 23 EXPIRES → 6/25 (still Correction) + META+MSFT+ARM AMC WED JUL 29 | AMZN+AAPL AMC THU JUL 30 | NFP FRI JUL 31 | ALPACA DAY ~157 BLOCKED | NO NEW LONGS | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+
+**✅ JUL 27 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,413.18 (+0.02% NOT DIST ✅) — 7/25 UNCHANGED — DOW +0.51% / NASDAQ −0.18% MIXED — NVDA $196.43 (−5.03% CHINA COMPETITION) — OIL BRENT $88.49 (−8.6% IRAN CEASEFIRE) — ALPACA DAY ~157 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~157 BLOCKED | Perplexity 403 | AV 403 | 39th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken
+- **S&P 500 Jul 27 CONFIRMED close: ~7,413.18** (+1.20 pts / +0.02% from 7,411.98 Fri close) | **NOT a distribution day ✅**
+  - Price criterion: +0.02% = UP day → cannot be dist day ✅
+  - Source: FX Leaders + Yahoo Finance (Jul 27 "Dow and S&P 500 rise, Nasdaq slips as Nvidia leads chip stocks lower")
+  - **Dow Jones: 52,210.08 (+0.51% / +262.83 pts)** | **Nasdaq Composite: ~24,932.08 (−0.18%)** | Mixed session
+  - SPY close: **$737.92** (−0.14% from $738.93 — below −0.20% dist threshold ✅; range $735.87–$746.29)
+  - QQQ close: **~$682-684 est.** (tracking Nasdaq −0.18%; below −0.20% threshold ✅)
+- **Distribution count: 7/25 UNCHANGED ✅** — Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23
+- **State transition: NONE** (Correction; ≥6 rule active; 50d MA + 200d MA both breached)
+- **NVDA Jul 27 CONFIRMED close: $196.43** (−$10.41 / −5.03% from $206.84 Jul 24) | Range: $195.44–$208.88 | Driver: China AI chip competition concerns (Huawei Ascend 910C) + Nasdaq/semi sector rotation | Score **74/100 UNCHANGED** | Cup wk ~38, no handle | BLOCKED: Correction + <75 + no handle + Alpaca
+- **Oil:** Brent **$88.49** (−8.6%) | WTI **$82.43** (−7.7%) | US-Iran ceasefire holding: Iran confirmed will stop attacks while US refrains → 3rd consecutive pause night → geopolitical risk premium UNWINDING | Stagflation narrative weakened (oil $100.69 Thu Jul 23 → $88.49 Mon Jul 27 = −12.1% in 3 sessions)
+- **50d MA (est. ~7,534.75):** S&P ~7,413.18 = ~**−1.61% BELOW** (slight improvement from −1.63% Fri; still BELOW)
+- **200d MA (est. ~7,464.61):** S&P ~7,413.18 = ~**−0.69% BELOW** (slight improvement from −0.71% Fri; still BELOW)
+- **⚠️ TOMORROW (Tue Jul 28):** FOMC Day 1 (formal meeting starts) | ADP Employment | KO/BA/UPS/Visa/Boeing earnings BMO | Consumer Confidence confirmed BEAT today | DO NOT ENTER
+- **⚠️ WED JUL 29 — HIGHEST VOLATILITY SESSION Q3:** FOMC Decision 2pm ET (Warsh; hike prob ~30-35% with oil at $88 — slightly more dovish vs prior $100 backdrop) + **JUN 23 DIST DAY EXPIRES → 7/25 → 6/25** (still Correction ≥6) + **META+MSFT+ARM AMC** | **DO NOT ENTER UNDER ANY CIRCUMSTANCES**
+- **Sell-rules-engine: SKIPPED** (0 open positions — 26th consecutive EOD zero positions)
+- **Actions: NONE** (41st consecutive zero-action session)
+- **Circuit breakers: ALL CLEAR** | Daily P&L: $0 | Weekly P&L: $0 (week Jul 27 — 0/3 trades) | Equity: $2,500 (HWM)
+- **FTD status:** CLOSED — new Day 1 requires move below rally low 7,266.99 (146 pts below today's close); market recovering
+- **Week Jul 27-Aug 1 status:** OPEN | 0/3 trades used | ALL blocked (Correction + Alpaca)
+- `eod_Jul27` | `websearch_fallback` | `SPX_CONF_~7413.18_+0.02pct_NOT_DIST` | `dist_7of25_UNCHANGED` | `Dow_52210.08_+0.51pct` | `Nasdaq_~24932_-0.18pct` | `SPY_737.92_-0.14pct` | `NVDA_CONF_196.43_-5.03pct_China_comp` | `Brent_88.49_-8.6pct` | `WTI_82.43_-7.7pct` | `Iran_ceasefire_night3` | `FOMC_Day1_Tue_Jul28_Decision_Wed_Jul29` | `Jun23_expires_Wed_Jul29_dist_7→6of25` | `META_MSFT_ARM_AMC_Wed_Jul29` | `AMZN_AAPL_AMC_Thu_Jul30` | `NFP_Fri_Jul31` | `50d_MA_BELOW_~-1.61pct` | `200d_MA_BELOW_~-0.69pct` | `SH_625_QUEUED` | `Alpaca_Day157_BLOCKED` | `39th_degraded_session` | `41st_zero_action_session`
 
 **✅ JUL 27 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — FOMC WEEK (MTG STARTS TUE JUL 28) — 🚨 US-IRAN CEASEFIRE WEEKEND → OIL CRASH → S&P INTRADAY ~7,454 (+0.57%) — DIST #8 RISK: NONE — ALPACA DAY ~157 BLOCKED — 0 POSITIONS — 0 ACTIONS — ⚠️ FOMC DATE CORRECTION):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~157 BLOCKED | Perplexity 403 | AV 403 | 38th consecutive degraded session
