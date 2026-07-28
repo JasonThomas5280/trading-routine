@@ -5008,3 +5008,24 @@ Earliest Uptrend: ~Aug 17-21
 ## 2026-07-28 11:17 CT [clickup-placeholder]
 
 🌅 Pre-market 2026-07-28 | 🔴 CORRECTION (7/25 dist) | Futures: ES ~-0.2% NQ ~-0.32% | Open positions: 0 | Circuit breakers: NONE | Overnight gaps: none | Watchlist ready: NONE (17th consec week zero above 75) | Watching: NVDA 74/100 cup wk38 no handle blocked | Removed: ARM reports AMC tomorrow (FOMC night) reeval Aug 8 | DIST-8 RISK MODERATE threshold 7398.76 chip selloff | Oil Brent 85.08 (-20.5% from Thu peak) 10yr 4.7% YTD high | ADP Jul NER 16500/wk 4th consec decel | Plan: NO ENTRIES - Correction + Alpaca Day 158 BLOCKED + FOMC Day 1 | Tomorrow Wed Jul 29 HIGHEST RISK Q3 FOMC + Jun23 expires + META MSFT ARM AMC DO NOT ENTER | Earliest uptrend Aug 17-21 | websearch_fallback Alpaca_Day158_BLOCKED
+
+---
+## 2026-07-28 10:00 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-28 10:00 AM CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+Actions taken:
+  • NO NEW ENTRIES — Correction gate + Alpaca Day ~159 BLOCKED + FOMC Day 1 prohibition + 0 candidates ≥75
+  • sell-rules-engine: SKIPPED (0 open positions — 27th consecutive)
+  • SH $625 hedge: QUEUED (Alpaca blocked)
+Market update:
+  • S&P ~7,400 (−0.17% from 7,413.18) | NOT dist day ✅ (borderline: 7,398.35 threshold; 1.65 pts margin) | 7/25 UNCHANGED
+  • Chips −6% | NVDA ~$195-197 est. (new risk: $250B OpenAI circular financing fear) | 9/11 sectors positive (breadth healthy)
+  • FOMC Day 1 — decision TOMORROW Wed Jul 29 2pm ET | Hike prob ~25% (down from 35-37%) | Base case: hold 3.50-3.75%
+  • Jun 23 dist expires TOMORROW → 6/25 (still Correction ≥6 rule; no state change)
+Watchlist: 0 ready | 0 watching | 4 bench monitoring | 0 removed today
+Open positions: 0 | 100% cash | Equity: $2,500 (HWM)
+Weekly trade count: 0/3
+⚠️ TOMORROW Wed Jul 29 — HIGHEST RISK Q3: FOMC decision 1pm CT + Jun23 expires → 6/25 + META+MSFT+ARM AMC. DO NOT ENTER.
+Next check: /eod-review 3:15 PM CT
+Earliest Uptrend: ~Aug 17-21 | websearch_fallback | Alpaca_Day159_BLOCKED

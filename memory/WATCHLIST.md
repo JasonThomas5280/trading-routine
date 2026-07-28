@@ -58,6 +58,19 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - Actions: NONE | All gates fired: Correction (7/25) + Alpaca Day ~158 BLOCKED + FOMC Day 1
 - `pre-market_Jul28` | `websearch_fallback` | `dist8_risk_MODERATE_7398.76` | `chip_selloff_deepening` | `Brent_85.08` | `10yr_4.7pct_YTD_high` | `ARM_reports_AMC_Jul29_reeval_Aug8`
 
+**✅ Jul 28 /market-check UPDATE (10:00 AM CT):** 🔴 FOMC DAY 1 — CHIP ROUT EXTENDS — NO ACTION
+- S&P 500 est. **~7,400 (−0.17%** from 7,413.18 Jul 27 close) | Dist threshold: **7,398.35** | **NOT a distribution day ✅** (borderline — only 1.65 pts margin; volume elevated on chip selloff but price threshold not met per rules)
+- ⚠️ **Chip sector −6% (semiconductor index)** | **NVDA est. ~$195-197** (extending Jul 27 −5.03% decline; now ~$40+ off 52-wk high $236.54)
+- 🚨 **NEW NVDA RISK: $250B OpenAI financing backstop** — NVDA reportedly exploring a guarantee for OpenAI compute funding; institutional sellers flagging circular AI financing risk (NVDA selling chips → OpenAI needs NVDA's money to buy chips). Analysts say "fears overblown" but concern is real enough to sell the stock. **Flag for N-letter watch at next re-score.** Score 74/100 UNCHANGED today (no pivot, Correction gate, Alpaca blocked = not re-scorable).
+- Market breadth BROADLY POSITIVE: 9 of 11 S&P sectors higher (Consumer Staples +3.7%, Healthcare +3.0%, Materials +2.2%) — tech/semis the only drag; rotation from chips → defensive/cyclical ongoing
+- FOMC Day 1 (Tue Jul 28) — decision **TOMORROW Wed Jul 29 2pm ET / 1pm CT** + Warsh press conf 2:30pm ET | Hike probability: **~25% hold / 75% hold** (down from 35-37% pre-market; hike risk moderating but not gone)
+- ⚠️ **TOMORROW (Wed Jul 29) — HIGHEST RISK SESSION Q3:** FOMC decision + Jun 23 dist expires → 6/25 + META+MSFT+ARM AMC. **DO NOT ENTER.**
+- Distribution count: **7/25 UNCHANGED** | Jun 23 expires TOMORROW → 6/25 (still Correction ≥6 rule; no state change)
+- Abort: CORRECTION 7/25 + Alpaca Day ~159 BLOCKED + FOMC Day 1 prohibition + 0 candidates ≥75 | 0 actions | 0 trades
+- Sell-rules-engine: SKIPPED (0 positions — 27th consecutive skip)
+- Bench (no score changes): NVDA 74/100 cup wk ~39 no handle ($250B OpenAI risk = new N-letter watch item) | INTC UNSCORED blackout through Jul 31 (run screener Fri Aug 1) | MRVL ~15-25/100 watch-only | GOOGL ~60-65/100 watch-only | ARM: earnings **AMC TOMORROW Jul 29** → re-eval window opens **Aug 5+** (5 trading days)
+- `market-check_Jul28` | `websearch_fallback` | `Alpaca_Day159_BLOCKED` | `chip_sector_minus6pct` | `NVDA_250B_OpenAI_financing_risk` | `NVDA_195-197_est` | `dist_7of25_UNCHANGED_borderline` | `dist_threshold_7398.35` | `FOMC_decision_tomorrow_Jul29_2pmET` | `hike_prob_25pct` | `9of11_sectors_positive` | `ARM_earnings_AMC_Jul29_reeval_Aug5`
+
 **✅ Jul 27 /market-check UPDATE (10:00 AM CT):** 🚨 US-IRAN CEASEFIRE WEEKEND — MAJOR DEVELOPMENT
 - Brent oil crashed from $100.69 → **$89.43** (−11% in 3 sessions) | WTI: $83.37 | Stagflation narrative weakened
 - S&P intraday **~7,454 (+0.57%)** on ceasefire + oil collapse | Dow futures rallied 500pts Sunday night
