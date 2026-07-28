@@ -46,6 +46,65 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-28 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — ES ~−0.2% NQ ~−0.32% — CHIP SELLOFF DEEPENS — OIL BRENT $85.08 — ⚠️ DIST #8 RISK MODERATE — FOMC DAY 1 — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~158; Perplexity: 403; AV: 403 — 40th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days UNCHANGED** — Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 28):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Overnight market (pre-market Tue Jul 28 ~6:00 AM CT)
+
+- **ES futures:** ~−0.2% | **NQ futures:** ~−0.32% to −0.5% | Risk-off; chip sector leading lower into second consecutive session
+- **Tone:** Semiconductor institutional deleveraging continues. Jim Cramer (Jul 27): "monstrous, motivated, margined" sellers — forced selling / leverage unwind. Dow/value outperforming while Nasdaq/semis continue down.
+- **ADP (Jun confirmed / Jul NER Pulse):** Jun private payrolls +98K (vs ~110K est; miss — weakest in 3 months). Jul NER Pulse: ~16,500/wk avg (4th consecutive weekly deceleration; down from 19,250). Hiring cooling — slightly FOMC-dovish input. Counterweight: jobless claims 187K Jul 23 (lowest since 1969) = labor still tight.
+- **10-year yield: ~4.7%** (YTD high) — rate headwind for equities; FOMC hawkish cover for Warsh.
+- **Oil falling:** Brent $85.08 (−3.71% from $88.49 Mon) | WTI $80.11 (−3%) | Iran ceasefire holding day 4 | $100.69 peak Jul 23 → $80.11 today = −20.5% in 4 sessions | Stagflation narrative eroding.
+
+### Distribution day risk assessment — Tue Jul 28
+
+- **Jul 27 close:** 7,413.18 → **Dist threshold today: 7,398.76** (× 0.998)
+- **ES pre-market −0.2% ≈ S&P open ~7,398–7,399** — razor-thin margin above dist threshold
+- **Risk: MODERATE** — chip selloff + NQ weakness could push S&P below 7,398.76 by close
+- **If dist #8 fires:** count → 8/25 | Jun 23 still expires TOMORROW (Wed Jul 29) → net 7/25 (still Correction ≥6) | Uptrend path shifts later
+- **Monitor at /eod-review (3:15 PM CT)**
+
+### Overnight catalysts — no open positions
+
+- No overnight gap check (0 positions). sell-rules-engine: SKIPPED.
+
+### Buy-zone status — watchlist (bench only — no primary ≥75)
+
+- **NVDA (74/100):** $196.43 Jul 27 close | Cup wk ~38 (today Jul 28), no handle | Chip selloff deepening (AMD −8.31%, INTC −3.54%, SMH −4.06% yesterday; institutional deleveraging) | 52-wk high $236.54 (~20.4% above $196.43) | Pre-market est. ≤$196 (chip rout continuing) | Score 74/100 UNCHANGED (Base:0 binding) | **🔴 BLOCKED: Correction + Alpaca + <75 + no handle + FOMC** | Re-score trigger: handle forms (~Aug-Sep) + Uptrend + Alpaca restore → est. 82-84/100
+- **INTC (~70-78/100 est., UNSCORED):** Blackout through **Fri Jul 31** | Run canslim-screener **Fri Aug 1 or Mon Aug 4** | Not actionable until Uptrend (~Aug 17-21+) | **🔴 BLOCKED**
+- **MRVL (~15-25/100):** Watch-only | Broken structure | No catalyst | **🔴 BELOW THRESHOLD**
+- **GOOGL (~60-65/100):** Watch-only | XLC #9 sector | Not actionable Q3 | **🔴 BELOW THRESHOLD**
+- **ARM:** PERMANENTLY REMOVED from bench | Reports AMC tonight (Wed Jul 29 — FOMC decision night) | Re-evaluation window opens ~**Fri Aug 8** (5 trading days: Jul 30, Aug 1, 4, 5, 8) | Score must hit ≥75 + base + Uptrend to be actionable
+
+### Key calendar this week
+
+- **TODAY (Tue Jul 28):** FOMC Day 1 (formal meeting). **DO NOT ENTER.** | ADP Employment (Jul NER Pulse) | BMO: KO, BA, UPS, V, SHW, RCL, GLW, PayPal, Hilton — no strategy candidates
+- **WED JUL 29 ⚠️ HIGHEST RISK SESSION Q3:** FOMC decision 2pm ET + Warsh press conf 2:30pm ET + **Jun 23 DIST EXPIRES → 7→6/25 (still Correction)** + META+MSFT+ARM AMC. **DO NOT ENTER UNDER ANY CIRCUMSTANCES.**
+- **THU JUL 30:** AMZN+AAPL AMC | Q2 GDP advance (est. ~2.0%) | Core PCE | ECI | Jobless Claims
+- **FRI JUL 31:** July NFP (key stagflation read) | **INTC blackout CLEARS → run canslim-screener**
+
+### Circuit breaker check
+
+- **Daily P&L:** $0 → CLEAR
+- **Weekly P&L:** $0 (week Jul 28, 0 trades) → CLEAR
+- **Drawdown from HWM:** $0 ($2,500 = HWM) → CLEAR
+- **PDT count:** 0/3 → CLEAR
+- **Alpaca blocked:** Day ~158 — no orders possible regardless
+
+### Actions today
+
+**NONE.** Abort gates all fired: (1) Correction (7/25 dist days), (2) Alpaca Day ~158 BLOCKED, (3) FOMC Day 1 hard rule. 42nd consecutive zero-action session.
+
+**P&L today:** $0 | **P&L week:** $0 | **Equity:** $2,500 (HWM)
+
+`research_source: websearch_fallback` | `Alpaca_Day158_BLOCKED` | `Perplexity_403` | `AV_403` | `ES_neg0.2pct_NQ_neg0.32pct` | `chip_selloff_deepening` | `Cramer_monstrous_sellers` | `NVDA_196.43_Jul27_confirmed` | `AMD_-8.31pct` | `INTC_-3.54pct` | `SMH_-4.06pct` | `Brent_85.08_-3.71pct` | `WTI_80.11_-3pct` | `10yr_4.7pct_YTD_high` | `ADP_Jun_98K_miss` | `ADP_Jul_NER_16500_4th_consecutive_decel` | `dist_7of25_UNCHANGED` | `dist_threshold_7398.76` | `dist8_risk_MODERATE` | `FOMC_Day1_formal_meeting_starts` | `ARM_reports_AMC_Jul29_FOMC_night` | `40th_degraded_session` | `42nd_zero_action_session`
+
+---
+
 ## 2026-07-27 (Mon) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,413.18 (+0.02% NOT DIST ✅) — 7/25 UNCHANGED — DOW +0.51% / NASDAQ −0.18% — NVDA $196.43 (−5.03%) — BRENT $88.49 (−8.6% IRAN CEASEFIRE) — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~157; Perplexity: 403; AV: 403 — 39th consecutive degraded session)

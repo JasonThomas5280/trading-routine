@@ -1,5 +1,23 @@
 
 ---
+## 2026-07-28 06:00 CT [pre-market — 🔴 CORRECTION (7/25 UNCHANGED) — ES ~−0.2% NQ ~−0.32% — CHIP SELLOFF DEEPENS — BRENT $85.08 — ⚠️ DIST #8 RISK MODERATE — FOMC DAY 1 — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-07-28
+Market: 🔴 CORRECTION (7/25 dist days) | Futures: ES ~−0.2% NQ ~−0.32%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 positions)
+Watchlist ready 🟢: NONE (zero primary candidates ≥75 — 17th consecutive week)
+Watchlist watching 🟡: NVDA (74/100, cup wk ~38 no handle, $196.43 Jul 27 close, BLOCKED) | INTC (est. 70-78/100 unscored — blackout through Jul 31)
+Removed 🔴: ARM (reports AMC tomorrow Wed Jul 29 FOMC night; reeval window opens ~Fri Aug 8)
+Key catalyst today: FOMC Day 1 formal meeting | ADP Jul NER Pulse (~16,500/wk; 4th consecutive decel) | BMO: KO, BA, UPS, V, PayPal, RCL — none strategy candidates
+⚠️ Dist #8 risk MODERATE: threshold 7,398.76; ES futures put S&P near line; chip selloff driver
+⚠️ Oil: Brent $85.08 (−20.5% from $100.69 Thu peak) | 10yr yield ~4.7% YTD high
+Plan: NO ENTRIES — Correction + Alpaca BLOCKED + FOMC Day 1 hard rule. All abort gates fired. 42nd consecutive zero-action session.
+  First order on Alpaca restore (unchanged): Buy SH $625 / 25% portfolio
+  Tomorrow Wed Jul 29 ⚠️ HIGHEST RISK Q3: FOMC decision 2pm ET + Jun 23 expires (7→6/25) + META+MSFT+ARM AMC. DO NOT ENTER.
+`research_source: websearch_fallback` | `Alpaca_Day158_BLOCKED` | `40th_degraded_session`
+
+---
 ## 2026-07-27 15:15 CT [eod-review — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,413.18 (+0.02% NOT DIST ✅) — 7/25 UNCHANGED — NVDA $196.43 (−5.03%) — BRENT $88.49 (−8.6%) — 0 POSITIONS — 0 ACTIONS]
 
 📊 EOD 2026-07-27 | Equity $2,500.00 (+$0 day / +$0 week)
@@ -4985,3 +5003,8 @@ Close confirmed:
   • NVDA: $196.43 (−5.03%) | Brent: $88.49 (−8.6% Iran ceasefire)
 Wed Jul 29 ⚠️ FOMC Decision + Jun23 expires (7→6/25) + META/MSFT/ARM AMC. DO NOT ENTER.
 Earliest Uptrend: ~Aug 17-21
+
+---
+## 2026-07-28 11:17 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-28 | 🔴 CORRECTION (7/25 dist) | Futures: ES ~-0.2% NQ ~-0.32% | Open positions: 0 | Circuit breakers: NONE | Overnight gaps: none | Watchlist ready: NONE (17th consec week zero above 75) | Watching: NVDA 74/100 cup wk38 no handle blocked | Removed: ARM reports AMC tomorrow (FOMC night) reeval Aug 8 | DIST-8 RISK MODERATE threshold 7398.76 chip selloff | Oil Brent 85.08 (-20.5% from Thu peak) 10yr 4.7% YTD high | ADP Jul NER 16500/wk 4th consec decel | Plan: NO ENTRIES - Correction + Alpaca Day 158 BLOCKED + FOMC Day 1 | Tomorrow Wed Jul 29 HIGHEST RISK Q3 FOMC + Jun23 expires + META MSFT ARM AMC DO NOT ENTER | Earliest uptrend Aug 17-21 | websearch_fallback Alpaca_Day158_BLOCKED

@@ -47,6 +47,17 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 
 **⚠️ FOMC WEEK — HIGHEST RISK OF Q3. ZERO ENTRIES UNDER ANY CIRCUMSTANCES THIS WEEK.**
 
+**✅ Jul 28 /pre-market UPDATE (6:00 AM CT):** CHIP SELLOFF DEEPENS — ES ~−0.2% NQ ~−0.32% — ⚠️ DIST #8 RISK MODERATE — FOMC DAY 1 — ARM REPORTS AMC TOMORROW
+- Chip sector institutional deleveraging extending: NVDA closed $196.43 (−5.03% Jul 27) | AMD −8.31% | INTC −3.54% | SMH −9.33% 1-month | Jim Cramer: "monstrous, motivated, margined" sellers
+- Oil falling further: Brent **$85.08** (−3.71%) | WTI **$80.11** (−3%) | $100.69 Thu Jul 23 → $80.11 = −20.5% in 4 sessions | Stagflation premium unwinding
+- 10-year yield: ~**4.7%** (YTD high) — rate headwind; FOMC hawkish cover
+- ADP hiring slowing 4th consecutive week: Jun +98K (miss vs ~110K est.); Jul NER Pulse ~16,500/wk — slightly dovish
+- ⚠️ **DIST #8 RISK TODAY (MODERATE):** Jul 27 close 7,413.18 → threshold **7,398.76** | ES −0.2% = open est. ~7,398-7,399 = RIGHT ON LINE | Monitor at /eod-review
+- **ARM reports AMC TOMORROW (Wed Jul 29 — FOMC decision night):** ARM permanently removed from bench; re-evaluation window opens **Fri Aug 8** (5 trading days after)
+- Bench unchanged: NVDA 74/100 cup wk ~38 no handle | INTC watch-only blackout through Jul 31 | MRVL watch-only ~15-25 | GOOGL watch-only ~60-65
+- Actions: NONE | All gates fired: Correction (7/25) + Alpaca Day ~158 BLOCKED + FOMC Day 1
+- `pre-market_Jul28` | `websearch_fallback` | `dist8_risk_MODERATE_7398.76` | `chip_selloff_deepening` | `Brent_85.08` | `10yr_4.7pct_YTD_high` | `ARM_reports_AMC_Jul29_reeval_Aug8`
+
 **✅ Jul 27 /market-check UPDATE (10:00 AM CT):** 🚨 US-IRAN CEASEFIRE WEEKEND — MAJOR DEVELOPMENT
 - Brent oil crashed from $100.69 → **$89.43** (−11% in 3 sessions) | WTI: $83.37 | Stagflation narrative weakened
 - S&P intraday **~7,454 (+0.57%)** on ceasefire + oil collapse | Dow futures rallied 500pts Sunday night
