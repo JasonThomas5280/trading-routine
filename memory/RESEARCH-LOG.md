@@ -105,6 +105,68 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-28 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P ~7,422 (+0.13% NOT DIST ✅) — 7/25 UNCHANGED — DOW +0.93% / NASDAQ −0.63% — CHIP SELLOFF CONTINUES — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~159; Perplexity: 403; AV: 403 — 41st consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days UNCHANGED** — Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 28):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Jul 28 close — CONFIRMED
+
+- **S&P 500 close: ~7,422** (+9 pts / +0.13% from 7,413.18 Jul 27)
+  - Sources: GuruFocus "US Stocks Diverge Amid Earnings Reports and Semiconductor Pressures" + TheStreet Jul 28 market update
+  - **Dow Jones: ~52,698 (+0.93%)** | **Nasdaq Composite: ~24,775 (−0.63%)**
+  - QQQ volume: 42.68M vs 37.23M avg (+14.6% above avg) — elevated on chip selloff; not dist day (S&P up)
+- **Distribution day: NOT A DISTRIBUTION DAY ✅**
+  - S&P 500 closed UP (+0.13%) → cannot be dist day by definition ✅
+  - Dist threshold was 7,398.76 — S&P ~7,422 = 23 pts above threshold ✅
+  - Dist count: **7/25 UNCHANGED** — Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23
+- **50d MA (est. ~7,534.75):** ~−1.49% BELOW | **200d MA (est. ~7,464.61):** ~−0.57% BELOW — both Correction triggers active
+
+### Key market catalysts today
+
+- **FOMC Day 1:** Formal meeting in progress. No decision today — decision TOMORROW Wed Jul 29 2pm ET. Hike prob ~34.7% / hold 65.3%.
+- **Chip selloff extending:** NVDA −1.1% to ~$194-195 | AMD −5.2% | TSM −3.5% | AVGO −1.7% | Nasdaq-100 >10% below recent record high — full correction territory. Semiconductor deleverage theme continuing.
+- **Earnings BMO (results in):** KO, BA, UPS, V (Visa), SHW — generally solid; Dow +0.93% confirms blue-chip strength. Classic defensive rotation: Dow up, Nasdaq down.
+- **Market structure:** Bifurcated (Dow/value UP / Nasdaq/semis DOWN) — 2nd consecutive day of this pattern. Institutional rotation from AI/semis to defensive/consumer sectors.
+- **Oil:** Brent est. ~$82-84 (continuing decline from $85.08 pre-market; Iran ceasefire holding day 5)
+- **10-yr yield:** ~4.7% (YTD high) — rate headwind persisting; FOMC watch
+
+### Sell-rules-engine results
+
+- **SKIPPED** — 0 open positions (27th consecutive EOD zero positions)
+
+### Buy-zone status — watchlist (bench only)
+
+- **NVDA (74/100):** ~$194-195 Jul 28 close (−1.1% from $196.43) | Cup wk ~39, no handle | Score **74/100 UNCHANGED** | **🔴 BLOCKED: Correction + Alpaca + <75 + no handle**
+- **INTC (~70-78/100 est.):** Blackout clears **Fri Jul 31** → run canslim-screener Fri Aug 1 or Mon Aug 4 | Not actionable until Uptrend (~Aug 17-21)
+- **ARM:** PERMANENTLY REMOVED | Reports AMC TONIGHT (Jul 29 — FOMC decision night) | Re-evaluation window: **Fri Aug 8** (5 trading days post-earnings)
+- **No candidates ≥75 this week** | SH $625 QUEUED
+
+### Circuit breaker check
+
+- **Daily P&L:** $0 → CLEAR
+- **Weekly P&L:** $0 (week Jul 28, 0 trades) → CLEAR
+- **Drawdown from HWM:** $0 ($2,500 = HWM) → CLEAR
+- **PDT count:** 0/3 → CLEAR
+- **Alpaca blocked:** Day ~159 — no orders possible
+
+### Actions today
+
+**NONE.** Abort gates fired: (1) Correction (7/25 dist days), (2) Alpaca Day ~159 BLOCKED, (3) FOMC Day 1 hard rule. 43rd consecutive zero-action session.
+
+**P&L today:** $0 | **P&L week:** $0 | **Equity:** $2,500 (HWM)
+
+### Tomorrow and this week
+
+- **WED JUL 29 ⚠️ HIGHEST RISK SESSION Q3:** FOMC decision 2pm ET (hike prob ~34.7%) + **Jun 23 DIST EXPIRES → 7→6/25 (still Correction ≥6)** + META+MSFT+ARM AMC. **DO NOT ENTER UNDER ANY CIRCUMSTANCES.**
+- **THU JUL 30:** AMZN+AAPL AMC | Q2 GDP advance (est. ~2.0%) | Core PCE | ECI | Jobless Claims
+- **FRI JUL 31:** July NFP | **INTC blackout CLEARS** → run canslim-screener
+
+`research_source: websearch_fallback` | `Alpaca_Day159_BLOCKED` | `Perplexity_403` | `AV_403` | `SPX_~7422_+0.13pct_NOT_DIST` | `Dow_~52698_+0.93pct` | `Nasdaq_~24775_-0.63pct` | `QQQ_vol_42.68M_vs_37.23M_avg` | `dist_7of25_UNCHANGED` | `NVDA_~194-195_-1.1pct` | `AMD_-5.2pct` | `TSM_-3.5pct` | `AVGO_-1.7pct` | `FOMC_Day1_decision_TOMORROW_Jul29_2pm_ET` | `Jun23_expires_TOMORROW_Jul29` | `ARM_reports_AMC_tonight` | `41st_degraded_session` | `43rd_zero_action_session`
+
+---
+
 ## 2026-07-27 (Mon) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,413.18 (+0.02% NOT DIST ✅) — 7/25 UNCHANGED — DOW +0.51% / NASDAQ −0.18% — NVDA $196.43 (−5.03%) — BRENT $88.49 (−8.6% IRAN CEASEFIRE) — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~157; Perplexity: 403; AV: 403 — 39th consecutive degraded session)

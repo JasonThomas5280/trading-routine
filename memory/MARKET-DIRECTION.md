@@ -6,7 +6,27 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 28 /pre-market — ES ~−0.2% NQ ~−0.32% PRE-MARKET | CHIP SELLOFF DEEPENING | DIST COUNT 7/25 UNCHANGED | DIST THRESHOLD TODAY 7,398.76 | ⚠️ DIST DAY #8 RISK: MODERATE (chip-led, futures near threshold) | FOMC DAY 1 TODAY — DECISION WED JUL 29 2PM ET | JUN 23 EXPIRES TOMORROW → 6/25 (still Correction) + META+MSFT+ARM AMC WED JUL 29 | AMZN+AAPL AMC THU JUL 30 | NFP FRI JUL 31 | ALPACA DAY ~158 BLOCKED | NO NEW LONGS | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 28 /eod-review — S&P ~7,422 (+0.13% NOT DIST ✅) | DOW +0.93% / NASDAQ −0.63% CHIP SELLOFF CONTINUES | DIST COUNT 7/25 UNCHANGED | JUN 23 EXPIRES TOMORROW → 6/25 (still Correction ≥6) | ⚠️ FOMC DECISION TOMORROW JUL 29 2PM ET + META+MSFT+ARM AMC | AMZN+AAPL AMC THU JUL 30 | NFP FRI JUL 31 | ALPACA DAY ~159 BLOCKED | NO NEW LONGS | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+
+**✅ JUL 28 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,422 (+0.13% NOT DIST ✅) — DOW +0.93% / NASDAQ −0.63% — CHIP SELLOFF CONTINUES — DIST 7/25 UNCHANGED — ⚠️ FOMC DECISION TOMORROW JUL 29 2PM ET — ALPACA DAY ~159 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~159 BLOCKED | Perplexity 403 | AV 403 | 41st consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6 threshold) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken
+- **S&P 500 Jul 28 CONFIRMED close: ~7,422** (+9 pts / +0.13% from 7,413.18 Jul 27) | **NOT a distribution day ✅**
+  - Price criterion: +0.13% = UP day → cannot be dist day ✅
+  - Sources: GuruFocus "US Stocks Diverge Amid Earnings Reports and Semiconductor Pressures" + TheStreet Jul 28 + 247WallSt live Jul 28
+  - **Dow Jones: ~52,698 (+0.93%)** | **Nasdaq Composite: ~24,775 (−0.63%)**
+  - QQQ volume: 42.68M vs 37.23M avg (+14.6% above avg) — elevated on chip selloff but not dist day (S&P up)
+- **Distribution day: NOT A DISTRIBUTION DAY ✅** — S&P closed UP (+0.13%) | Dist threshold was 7,398.76 — S&P ~7,422 = 23 pts above threshold ✅ | Dist count: **7/25 UNCHANGED**
+- **State transition: NONE** (Correction continues; ≥6 rule active; both 50d + 200d MA still breached)
+- **50d MA (est. ~7,534.75):** S&P ~7,422 = ~**−1.49% BELOW** | **200d MA (est. ~7,464.61):** ~**−0.57% BELOW** — both Correction triggers active
+- **⚠️ TOMORROW (Wed Jul 29 — HIGHEST VOLATILITY SESSION Q3):** FOMC decision 2pm ET + Warsh press conf 2:30pm ET + **JUN 23 DIST EXPIRES → 7/25 → 6/25 (still Correction ≥6)** + META+MSFT+ARM AMC. **DO NOT ENTER UNDER ANY CIRCUMSTANCES.**
+- **⚠️ CHIP SELLOFF CONTINUING:** NVDA −1.1% to ~$194-195 | AMD −5.2% | TSM −3.5% | AVGO −1.7% | Nasdaq-100 now >10% below recent record high
+- **Earnings today BMO (results in):** KO, BA, UPS, V (Visa), SHW — strong (Dow +0.93%) | No strategy candidates
+- **Sell-rules-engine: SKIPPED** (0 open positions — 27th consecutive EOD zero positions)
+- **Actions: NONE** (43rd consecutive zero-action session)
+- **Circuit breakers: ALL CLEAR** | Daily P&L: $0 | Weekly P&L: $0 (week Jul 28 — 0/3 trades) | Equity: $2,500 (HWM)
+- **FTD status:** CLOSED — new Day 1 requires break below 7,266.99 (~155 pts below close); market recovering
+- `eod_Jul28` | `websearch_fallback` | `SPX_~7422_+0.13pct_NOT_DIST` | `Dow_~52698_+0.93pct` | `Nasdaq_~24775_-0.63pct` | `dist_7of25_UNCHANGED` | `Jun23_expires_TOMORROW_Jul29` | `FOMC_decision_TOMORROW_Jul29_2pm_ET` | `NVDA_~194-195_-1.1pct` | `AMD_-5.2pct` | `TSM_-3.5pct` | `QQQ_vol_42.68M` | `Alpaca_Day159_BLOCKED` | `41st_degraded_session` | `43rd_zero_action_session`
 
 **✅ JUL 28 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES ~−0.2% NQ ~−0.32% — CHIP SELLOFF DEEPENS — BRENT $85.08 (−3.71%) — ⚠️ DIST #8 RISK MODERATE — FOMC DAY 1 TODAY — DECISION WED JUL 29 — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~158 BLOCKED | Perplexity 403 | AV 403 | 40th consecutive degraded session

@@ -5029,3 +5029,24 @@ Weekly trade count: 0/3
 ⚠️ TOMORROW Wed Jul 29 — HIGHEST RISK Q3: FOMC decision 1pm CT + Jun23 expires → 6/25 + META+MSFT+ARM AMC. DO NOT ENTER.
 Next check: /eod-review 3:15 PM CT
 Earliest Uptrend: ~Aug 17-21 | websearch_fallback | Alpaca_Day159_BLOCKED
+
+---
+## 2026-07-28 15:15 CT [eod-review]
+
+📊 EOD 2026-07-28 | Equity $2,500 (+$0 day, +$0 week)
+Open: 0 positions | 100% cash
+Distribution days: 7/25 (market: 🔴 Correction — UNCHANGED)
+Actions today:
+  • NO ACTIONS — Correction gate (7/25 dist days) + Alpaca Day ~159 BLOCKED + 0 positions
+  • sell-rules-engine: SKIPPED (0 open positions — 27th consecutive zero-position EOD)
+  • SH $625 hedge: QUEUED (blocked by Alpaca 403)
+Close data:
+  • S&P ~7,422 (+0.13% NOT DIST ✅) | Dow ~52,698 (+0.93%) | Nasdaq ~24,775 (−0.63%)
+  • Chip selloff continues: NVDA ~$194-195 (−1.1%) | AMD −5.2% | TSM −3.5%
+  • Jun 23 DIST EXPIRES TOMORROW Jul 29 → 7/25 → 6/25 (still Correction ≥6)
+Tomorrow ⚠️ HIGHEST RISK Q3:
+  • Wed Jul 29 FOMC decision 2pm ET (hike prob ~34.7% / hold 65.3%) + Jun 23 expires + META+MSFT+ARM AMC
+  • DO NOT ENTER UNDER ANY CIRCUMSTANCES
+  • No positions to manage | Monitor dist count + FOMC outcome
+Earliest Uptrend: ~Aug 17-21 | Circuit breakers: ALL CLEAR
+research_source: websearch_fallback | Alpaca_Day159_BLOCKED | 41st_degraded_session
