@@ -1,5 +1,23 @@
 
 ---
+## 2026-07-29 10:00 CT [market-check — 🚨 IRAN CEASEFIRE BROKEN — OIL BRENT +6.6% ~$90 — S&P −0.7% — ⚠️ DIST #8 HIGH RISK — FOMC 2PM ET — 🔴 CORRECTION — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-07-29 10:00 CT
+Market: 🔴 CORRECTION (6/25 dist days) | Circuit breakers: NONE
+Actions taken: No new entries — ALL abort gates fired:
+  (1) Correction (6/25 dist days ≥6 threshold) → no new longs
+  (2) Alpaca BLOCKED Day ~160 (403) → no order execution
+  (3) FOMC Decision Day hard rule (2pm ET) → no entries
+🚨 IRAN CEASEFIRE BROKEN: Surprise IRGC missile attack on US Jordan base (all intercepted) → Trump "will hit Iran hard" → oil Brent +6.6% to ~$89.61, WTI +6.4% to ~$84.31 (stagflation risk RE-ELEVATED; reverses last week's $20 oil crash)
+⚠️ DIST DAY #8 RISK HIGH (>60%): S&P −0.7% intraday (~7,370) vs dist threshold −0.2% (7,407.6) | Outcome pending FOMC 2pm ET; FOMC hold + relief rally needed to avoid; hike = dist #8 confirmed
+FOMC: 64% hold / 36% hike | Decision 2pm ET + Warsh press conf 2:30pm ET | Then META+MSFT+ARM AMC (triple catalyst night)
+Watchlist status: Primary 🟢: NONE (18th consecutive zero-primary week) | Bench: NVDA 74/100 (cup wk ~39, ~$196-197 flat); INTC watch-only (blackout Aug 1+); MRVL watch-only; ARM reports AMC tonight (reeval Aug 5+)
+Open positions: 0 (0% deployed) | Weekly trade count: 0 of 3 used
+SH $625 hedge: QUEUED (Alpaca restore required; Iran escalation = even more compelling)
+Next check: /eod-review 3:15 PM CT — will confirm dist day #8 status + FOMC outcome + META/MSFT/ARM AH reaction
+`research_source: websearch_fallback` | `Alpaca_Day160_BLOCKED` | `43rd_degraded_session` | `45th_zero_action_session`
+
+---
 ## 2026-07-29 06:00 CT [pre-market — ⚠️ FOMC DECISION DAY — 🔴 CORRECTION (6/25 JUN 23 EXPIRES TODAY) — ES +0.2% NQ +0.3% — META+MSFT+ARM AMC — 0 POSITIONS — 0 ACTIONS]
 
 🌅 Pre-market 2026-07-29

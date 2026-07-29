@@ -6,7 +6,30 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 29 /pre-market — S&P baseline ~7,422 (Jul 28 close) | DIST COUNT 6/25 (JUN 23 EXPIRED TODAY → 7→6/25; still Correction ≥6) | ⚠️ FOMC DECISION TODAY JUL 29 2PM ET (62% hold / 38% hike) + META+MSFT+ARM AMC TONIGHT | AMZN+AAPL AMC THU JUL 30 | NFP FRI JUL 31 | ALPACA DAY ~160 BLOCKED | NO NEW LONGS — DO NOT ENTER TODAY UNDER ANY CIRCUMSTANCES | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 29 /market-check — S&P intraday ~7,370 (−0.7% from 7,422 baseline) | 🚨 IRAN CEASEFIRE BROKEN — surprise missile attack on US forces in Jordan (all intercepted); Trump "will hit Iran hard" | OIL: Brent ~$89.61 (+6.6%) WTI ~$84.31 (+6.4%) — stagflation risk RE-ELEVATED | DIST COUNT 6/25 + ⚠️ DIST #8 HIGH RISK (S&P -0.7% vs threshold -0.2%; outcome pending FOMC 2pm ET) | ALPACA DAY ~160 BLOCKED | 0 POSITIONS | SH $625 QUEUED | FOMC 2PM ET — DO NOT ENTER | EARLIEST UPTREND ~AUG 17-21 or later if dist #8 fires)*
+
+**✅ JUL 29 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — 🚨 IRAN CEASEFIRE BROKEN → OIL BRENT +6.6% ~$90 — S&P −0.7% INTRADAY — ⚠️ DIST #8 HIGH RISK — FOMC 2PM ET — ALPACA DAY ~160 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~160 BLOCKED | Perplexity 403 | AV 403 | 43rd consecutive degraded session
+- **Abort gates FIRED: (1) Correction (6/25 dist days ≥6 threshold) → no new longs | (2) Alpaca BLOCKED (403) → no order execution | (3) FOMC Decision Day (hard rule 2pm ET) → no entries** | Zero actions taken
+- **S&P 500 intraday (10:30 AM ET / 9:30 AM CT est.):** ~**7,370 (−0.7%** from 7,422 Jul 28 close) | Dow: ~−760 pts / −1.4% | Nasdaq: −1.0% | Source: Lancaster Online, Bloomberg Jul 29 live blog
+- **⚠️ DIST DAY #8 RISK: HIGH** | Dist threshold today: 7,407.6 (7,422 × 0.998) | S&P −0.7% = ~7,370 = **37 pts BELOW threshold** | Volume elevated (Iran shock + FOMC + earnings triple catalyst) | **Outcome pending FOMC 2pm ET:** IF hold → potential relief rally to ~7,370+0.5% = ~7,407 (borderline — needs +0.51% to clear threshold) | IF hike → dist #8 confirmed + possible new low attempt toward 7,266.99 | **Conservative call: DIST #8 >60% PROBABLE** — confirm at /eod-review
+- **🚨 IRAN CEASEFIRE BROKEN — MAJOR DEVELOPMENT:** Iran IRGC launched surprise ballistic missile attack on US base in Jordan — all intercepted by US/Jordan missile defense. Trump: "will hit Iran hard." US-Saudi forces struck Iran-aligned logistics sites in Iraq (AH Jul 28). This REVERSES the ceasefire that drove oil down $20 last week.
+  - **Brent crude: ~$89.61 (+6.6%** from ~$84 Jul 28 close — WAS $80.11 yesterday; now back to $89.61) | WTI: ~$84.31 (+6.4%)
+  - **Stagflation risk RE-ELEVATED:** Oil reversed nearly half of its 4-session $20 crash in a single session. Brent at $90 = hawkish cover for Warsh renewed. Core CPI 3.5% + oil $90 + jobless 187K = stagflation triple BACK.
+  - **FOMC implications:** Hold still base case (64% / 36% hike) BUT hike probability ELEVATED vs yesterday's 62/38 estimate due to oil surge. Warsh press conf 2:30pm ET = key.
+- **FOMC DECISION DAY (Wed Jul 29, 2pm ET / 1pm CT):** Rate: 3.50-3.75% | Base case: HOLD (64%) | Hike risk: 36% (elevated, especially with oil back to $90) | Decision + Warsh press conf 2:30pm ET | Then META+MSFT+ARM AMC — **triple catalyst night**
+- **Sell-rules-engine: SKIPPED** (0 open positions — 28th consecutive EOD zero positions)
+- **Watchlist status:** Primary 🟢: NONE (zero candidates ≥75 — 18th consecutive week) | Bench 🟡: NVDA (74/100, cup wk ~39, ~$196-197 today — roughly flat despite selloff; chip sector pain concentrated in AMD/MU/INTC more than NVDA) | INTC: watch-only (blackout through Jul 31; crashed further $97→$87 Jul 28; re-score Fri Aug 1+) | MRVL: watch-only (~15-25/100) | ARM: re-eval window Aug 5+ (reports AMC tonight)
+- **Bench — NVDA update Jul 29:** ~$196-197 intraday (range $196.72-$197.70 est.; roughly flat from $197.01 Jul 28 close). Chip selloff more concentrated in AMD/MU/INTC. NVDA holding $196 support. Score 74/100 UNCHANGED. Cup wk ~39, no handle. BLOCKED.
+- **Dist expiry table update (IF dist #8 fires today Jul 29):**
+  - Jul 29 (NEW, if fires) → expires: ~**Thu Sep 4, 2026** (25 trading sessions)
+  - Active after today (worst case): Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 = **7/25**
+  - Uptrend path: if dist #8 fires → earliest uptrend now Aug 17-21 still (Jul 7 + Jul 8 still earliest expiries) — but adds Sep 4 as last expiry date, meaning full clearing now Sep 4 (was Aug 28 prev)
+  - **Key milestone UNCHANGED: Aug 11 (Jul 7 expires → 6/25 → possible Under Pressure)** — unless new dist days fire before then
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Daily P&L: $0 | Weekly P&L: $0 (week Jul 28 — 0/3 trades) | 0 positions
+- **FTD status:** CLOSED — rally low 7,266.99 still intact (~103 pts below current intraday level); FOMC hike + Iran escalation = tail risk of testing that level today; hold = level stays intact
+- **Actions: NONE** (45th consecutive zero-action session)
+- `market-check_Jul29` | `websearch_fallback` | `Alpaca_Day160_BLOCKED` | `43rd_degraded_session` | `Iran_ceasefire_BROKEN_missile_attack_Jordan_all_intercepted` | `Trump_will_hit_Iran_hard` | `Brent_89.61_+6.6pct` | `WTI_84.31_+6.4pct` | `SPX_intraday_~7370_-0.7pct` | `Dow_-760pts_-1.4pct` | `Nasdaq_-1.0pct` | `dist_threshold_7407.6` | `dist8_risk_HIGH_>60pct_prob` | `FOMC_64pct_hold_36pct_hike` | `NVDA_~196-197_roughly_flat` | `INTC_watch_only_blackout_Aug1` | `META_MSFT_ARM_AMC_TONIGHT` | `AMZN_AAPL_AMC_THU` | `NFP_FRI_AUG1` | `SH_625_QUEUED`
 
 **✅ JUL 29 /pre-market (6:00 AM CT — 🔴 CORRECTION → 6/25 (JUN 23 EXPIRES TODAY) — ES +0.2% / NQ +0.3% — ⚠️ FOMC DECISION 2PM ET TODAY — META+MSFT+ARM AMC TONIGHT — ALPACA DAY ~160 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION** | `research_source: websearch_fallback` | Alpaca Day ~160 BLOCKED | Perplexity 403 | AV 403 | 42nd consecutive degraded session

@@ -47,6 +47,16 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 
 **⚠️ FOMC WEEK — HIGHEST RISK OF Q3. ZERO ENTRIES UNDER ANY CIRCUMSTANCES THIS WEEK.**
 
+**✅ Jul 29 /market-check UPDATE (10:00 AM CT):** 🚨 IRAN CEASEFIRE BROKEN — OIL BRENT +6.6% ~$90 — S&P −0.7% — ⚠️ DIST #8 HIGH RISK — FOMC 2PM ET — 0 ACTIONS
+- **S&P intraday:** ~7,370 (−0.7% from 7,422 baseline) | Dow −760 pts / −1.4% | Nasdaq −1.0% | NVDA ~$196-197 (roughly flat; chip pain more in AMD/MU/INTC)
+- **🚨 IRAN CEASEFIRE BROKEN:** Surprise IRGC missile attack on US Jordan base (all intercepted) → Trump "will hit Iran hard" | Oil: Brent +6.6% ~$89.61, WTI +6.4% ~$84.31 — stagflation risk RE-ELEVATED
+- **⚠️ DIST DAY #8 RISK: HIGH (>60%)** — S&P -0.7% vs threshold -0.2% (7,407.6); needs FOMC hold + ~+0.5% relief rally to avoid; confirm at /eod-review
+- **FOMC 2pm ET:** 64% hold / 36% hike | Hold + relief = borderline dist avoidance; Hike = dist #8 confirmed + new low risk toward 7,266.99
+- **Bench NVDA:** ~$196-197 CONFIRMED (~flat from $197.01 Jul 28 close); cup wk ~39; no handle; 74/100 UNCHANGED; BLOCKED
+- **ARM:** Reports AMC TONIGHT (EPS est. $0.36 / Rev $1.27B); re-eval window Aug 5+ UNCHANGED
+- Abort: CORRECTION 6/25 + Alpaca Day ~160 BLOCKED + FOMC Decision Day | 0 actions | 0 trades | 45th consecutive zero-action session
+- `market-check_Jul29` | `Iran_ceasefire_BROKEN` | `Brent_89.61` | `SPX_7370_-0.7pct` | `dist8_HIGH_risk` | `NVDA_196-197_flat`
+
 **✅ Jul 29 /pre-market UPDATE (6:00 AM CT):** ⚠️ FOMC DECISION DAY — JUN 23 DIST EXPIRES → 6/25 — ES +0.2% NQ +0.3% — META+MSFT+ARM AMC TONIGHT — DO NOT ENTER
 - **Dist count update: JUN 23 EXPIRES TODAY → 7/25 → 6/25** (still Correction ≥6; active: Jul 7, 8, 13, 16, 17, 23)
 - **Futures:** ES +0.2% / NQ +0.3% / Dow -0.2% — mild risk-on ahead of 2pm ET FOMC decision
