@@ -5089,3 +5089,20 @@ Tomorrow ⚠️ HIGHEST RISK Q3:
   • No positions to manage | Monitor dist count + FOMC outcome
 Earliest Uptrend: ~Aug 17-21 | Circuit breakers: ALL CLEAR
 research_source: websearch_fallback | Alpaca_Day159_BLOCKED | 41st_degraded_session
+
+---
+## 2026-07-29 20:24 CT [clickup-placeholder]
+
+📊 EOD 2026-07-29 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 7 of 25 (TODAY: ✅ NEW DIST DAY — S&P −1.43%)
+Market: 🔴 CORRECTION UNCHANGED
+FOMC: HOLD 3.50-3.75% (9-3 vote) — bond mkt sold off on inflation fear
+Close: S&P ~7,316.15 (−1.43%) | Dow ~51,594 (−2.19%) | Nasdaq ~24,443 (−1.74%)
+🚨 Iran: ceasefire broken; Brent ~$89.61 (+6.6%)
+⚠️ RALLY LOW ALERT: S&P only 49 pts above 7,266.99 — test risk HIGH tomorrow
+META AH: −4% despite rev beat ($60.80B) — capex shock
+Alpaca: BLOCKED Day ~161 | sell-rules-engine: SKIPPED (0 positions)
+Actions: NONE (46th consecutive zero-action session)
+Tomorrow: AMZN+AAPL AMC | Q2 GDP | Core PCE | dist threshold ~7,301.4
+Earliest uptrend: ~Aug 17-21 UNCHANGED
