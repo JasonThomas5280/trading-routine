@@ -47,6 +47,18 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 
 **⚠️ FOMC WEEK — HIGHEST RISK OF Q3. ZERO ENTRIES UNDER ANY CIRCUMSTANCES THIS WEEK.**
 
+**✅ Jul 29 /pre-market UPDATE (6:00 AM CT):** ⚠️ FOMC DECISION DAY — JUN 23 DIST EXPIRES → 6/25 — ES +0.2% NQ +0.3% — META+MSFT+ARM AMC TONIGHT — DO NOT ENTER
+- **Dist count update: JUN 23 EXPIRES TODAY → 7/25 → 6/25** (still Correction ≥6; active: Jul 7, 8, 13, 16, 17, 23)
+- **Futures:** ES +0.2% / NQ +0.3% / Dow -0.2% — mild risk-on ahead of 2pm ET FOMC decision
+- **FOMC:** 62% hold / 38% hike. Hold = base case; market opens up ~7,437. Dist risk LOW pre-FOMC; IF hike = immediate dist risk.
+- **INTC ⚠️ MAJOR DETERIORATION:** ~$97.35 (Jul 24) → ~$87.53 (Jul 28) = **−10.1% MORE**. Samsung weak prelims (AI demand read-through negative). $20B capex raise (from $18B). Rosenblatt raised PT to $65 (Sell). Blackout clears Jul 31 → run canslim-screener **Fri Aug 1 or Mon Aug 4**. Preliminary score 70-78/100 **LIKELY NEEDS REVISION LOWER** on screener run with live data.
+- **ARM:** Reports AMC TONIGHT. EPS est. $0.36 / Rev $1.27B. GAAP C-letter = key watch. Re-eval window: **Aug 5+**
+- **META+MSFT:** AMC tonight. MSFT Azure CC growth (39-40% guided) = AI demand read for NVDA bench thesis.
+- **NVDA:** ~$194-195 (Jul 28) | 74/100 UNCHANGED | Cup wk ~39, no handle | MSFT earnings tonight = first real AI demand read in weeks
+- **MRVL:** ~$189 (Jul 28, -2.6%) | Down 30% from ATH | 15-25/100 UNCHANGED | No catalyst | Watch-only
+- Actions: NONE | All gates fired: Correction (6/25) + Alpaca Day ~160 BLOCKED + FOMC Decision Day hard rule
+- `pre-market_Jul29` | `websearch_fallback` | `Jun23_expires_dist_6of25` | `FOMC_Decision_TODAY` | `INTC_crashed_87.53_Samsung_capex20B` | `ARM_reports_AMC_tonight_reeval_Aug5`
+
 **✅ Jul 28 /pre-market UPDATE (6:00 AM CT):** CHIP SELLOFF DEEPENS — ES ~−0.2% NQ ~−0.32% — ⚠️ DIST #8 RISK MODERATE — FOMC DAY 1 — ARM REPORTS AMC TOMORROW
 - Chip sector institutional deleveraging extending: NVDA closed $196.43 (−5.03% Jul 27) | AMD −8.31% | INTC −3.54% | SMH −9.33% 1-month | Jim Cramer: "monstrous, motivated, margined" sellers
 - Oil falling further: Brent **$85.08** (−3.71%) | WTI **$80.11** (−3%) | $100.69 Thu Jul 23 → $80.11 = −20.5% in 4 sessions | Stagflation premium unwinding

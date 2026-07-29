@@ -1,5 +1,26 @@
 
 ---
+## 2026-07-29 06:00 CT [pre-market — ⚠️ FOMC DECISION DAY — 🔴 CORRECTION (6/25 JUN 23 EXPIRES TODAY) — ES +0.2% NQ +0.3% — META+MSFT+ARM AMC — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-07-29
+Market: 🔴 CORRECTION (6/25 dist days — Jun 23 expires today → 7→6/25; still Correction ≥6) | Futures: ES +0.2% NQ +0.3%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 positions)
+Watchlist ready 🟢: NONE (zero primary candidates ≥75 — 18th consecutive week)
+Watchlist watching 🟡: NVDA (74/100, cup wk ~39 no handle, ~$194-195 Jul 28 close, BLOCKED)
+Watchlist flagged 🔴/⚠️: INTC (blackout through Jul 31; crashed $97→$87 Jul 28 — Samsung weak prelims + $20B capex raise; screener Aug 1+; preliminary score needs revision lower) | MRVL (~$189, down 30% from ATH, 15-25/100, watch-only)
+Removed: ARM (reports AMC TONIGHT; re-eval window Aug 5+)
+Key catalyst TODAY: ⚠️ FOMC decision 2pm ET (62% hold / 38% hike) + Warsh press conf 2:30pm ET + META+MSFT+ARM AMC + Jun 23 dist expires → 6/25
+Overnight gaps: NONE (0 positions)
+Dist day risk today: LOW (ES +0.2%; dist threshold ~7,407.6; IF FOMC hikes → risk rises sharply)
+Plan: NO ENTRIES — Correction (6/25) + Alpaca BLOCKED + FOMC Decision Day hard rule. DO NOT ENTER UNDER ANY CIRCUMSTANCES TODAY. 44th consecutive zero-action session.
+  Watch FOMC outcome at /eod-review 3:15 PM CT; watch ARM/META/MSFT AH for bench re-assessment.
+  First order on Alpaca restore (unchanged): Buy SH $625 / 25% portfolio
+  Tomorrow Thu Jul 30: AMZN+AAPL AMC + Q2 GDP advance + Core PCE + ECI + Jobless Claims
+  Fri Jul 31: July NFP + INTC blackout CLEARS → run canslim-screener
+`research_source: websearch_fallback` | `Alpaca_Day160_BLOCKED` | `42nd_degraded_session` | `FOMC_Decision_TODAY_62pct_hold` | `Jun23_dist_expires_today_6of25`
+
+---
 ## 2026-07-28 06:00 CT [pre-market — 🔴 CORRECTION (7/25 UNCHANGED) — ES ~−0.2% NQ ~−0.32% — CHIP SELLOFF DEEPENS — BRENT $85.08 — ⚠️ DIST #8 RISK MODERATE — FOMC DAY 1 — 0 POSITIONS — 0 ACTIONS]
 
 🌅 Pre-market 2026-07-28

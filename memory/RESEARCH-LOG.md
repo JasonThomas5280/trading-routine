@@ -46,6 +46,78 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-29 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 → 6/25 JUN 23 EXPIRES TODAY) — ⚠️ FOMC DECISION DAY 2PM ET — ES +0.2% NQ +0.3% — META+MSFT+ARM AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~160; Perplexity: 403; AV: 403 — 42nd consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **6/25 dist days as of today** (Jun 23 expires today → 7/25 → 6/25; still Correction ≥6 threshold)
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 28):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Jul 28 close — confirmed for today's baseline
+
+- **S&P 500 close: ~7,422** (+0.13% / +9 pts from 7,413.18 Jul 27) | NOT dist day ✅ | Sources: GuruFocus + TheStreet Jul 28 (note: Bloomberg live blog showed 7,428.78 +0.21% — minor source discrepancy; our EOD log = 7,422; either way, clear NOT dist day)
+- **Dow: ~52,698 (+0.93%)** | **Nasdaq: ~24,775 (−0.63%)** — Dow/value up, semis/tech down for 2nd day
+- **Distribution count as of today:** Jun 23 **EXPIRES TODAY** → 7/25 → **6/25** (still Correction per ≥6 rule; NO state change)
+- **Active dist days after Jun 23 expiry:** Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23 = **6/25**
+- **50d MA (est. ~7,534.75):** ~−1.49% BELOW | **200d MA (est. ~7,464.61):** ~−0.57% BELOW — both Correction triggers active
+
+### Overnight market (pre-market Wed Jul 29 ~6:00 AM CT)
+
+- **ES futures: +0.2%** | **NQ futures: +0.3%** | **Dow futures: −0.2%** (Dow slipping as oil prices rose slightly; chip names mildly bouncing pre-FOMC)
+- **Tone:** Mild risk-on ahead of FOMC. Market holding steady — not panicking. Mixed signals: chip names slightly recovering pre-open while Dow defensives ease slightly. All eyes on 2pm ET Fed decision.
+- **FOMC Decision TODAY (Wed Jul 29, 2pm ET / 1pm CT):** Warsh press conference 2:30pm ET. Rate currently 3.50–3.75%. Market pricing: **62% hold / 38% hike** (Source: CME FedWatch as of Jul 24; slightly more dovish vs prior 65/35 with oil now at ~$80). No SEP/dot plot this meeting. Stagflation balance: Brent ~$80 (deflationary input) vs core CPI 3.5% + jobless claims 187K (hawkish cover). **Hike surprise remains live risk; hold is base case.**
+- **Oil:** Brent continuing decline from peak $100.69 → est. ~$80-82 range (Iran ceasefire holding; Hormuz traffic resuming). Deflationary input. Dow futures -0.2% = market pricing in modest oil-driven Dow drag, not fear.
+
+### Distribution day risk — today Jul 29
+
+- **Jul 28 close baseline: ~7,422** → **Dist threshold today: ~7,407.6** (7,422 × 0.998)
+- **ES pre-market +0.2% → S&P open est. ~7,437** = 29+ pts ABOVE threshold
+- **Dist day risk: LOW** — market opening up; FOMC-hold scenario (base case) would push higher; only a hawkish hike surprise + sell-off would threaten dist level
+- **IF FOMC hikes (38% prob) + market drops 1%+:** S&P could fall to ~7,348 → **NEW DIST #8 + new Day 1 possibility** (threshold to break rally low = 7,266.99, still 80+ pts lower; unlikely in single session)
+- **Monitor at /eod-review (3:15 PM CT)**
+
+### Overnight catalysts — no open positions
+
+- No overnight gap check needed (0 positions). sell-rules-engine: SKIPPED.
+
+### Buy-zone status — watchlist (bench only — no primary ≥75)
+
+- **NVDA (74/100):** ~$194-195 Jul 28 close (est. −1.1% from $196.43) | Cup wk ~39, no handle | 52-wk high $236.54 | ⚠️ MSFT earnings AMC tonight = AI data center demand read for NVDA | Score **74/100 UNCHANGED** | **🔴 BLOCKED: Correction + Alpaca + <75 + no handle** | Dist threshold: N/A (no position)
+- **INTC (~70-78/100 est., UNSCORED — BLACKOUT):** ⚠️ **MAJOR DETERIORATION: Stock crashed from ~$97.35 (Jul 24) → ~$87.53 (Jul 28) = −10.1% MORE** | Samsung weak preliminary earnings (AI chip demand read-through negative) + $20B capex raise (raised from $18B) + AI competition concerns. **Bloomberg headline: "Intel Needs More Than Blowout Earnings as Chips Rally Falters."** Rosenblatt raised PT to $65 (from $50) — SELL rating vs consensus Hold. INTC down from AH high ~$110 → ~$87.53 = −20.5% from AH peak. | Blackout clears **Fri Jul 31** | Run canslim-screener **Fri Aug 1 or Mon Aug 4** | ⚠️ **Preliminary score 70-78/100 likely NEEDS REVISION LOWER** — Samsung read-through + capex raise = A-letter headwind (multi-year loss history; reversal story becoming more uncertain). Earliest entry still blocked: Blackout + Correction + Alpaca blocked.
+- **MRVL (~15-25/100):** ~$189 Jul 28 close (−2.6% from $194.23 Jul 24; down ~30% from $316.43 ATH) | Continues weak | GF Value shows 73.4% overvalued | No catalyst | 8+ wk base rebuild needed | **🔴 BELOW THRESHOLD — watch-only**
+- **GOOGL (~60-65/100):** Watch-only | XLC #9 sector | Earnings blackout through ~Aug 5 | Not actionable Q3
+- **ARM:** PERMANENTLY REMOVED from bench | Reports AMC **TONIGHT (Jul 29)** | EPS est. $0.36/Rev $1.27B | Down 28% from June peak | Re-evaluation window opens **Aug 5+** (5 trading days post-earnings: Jul 30, Aug 1, 4, 5 → Aug 5 earliest full re-score day) | Score must improve from prior 60/100 (GAAP C-letter fail) to ≥75 + base + Uptrend to be actionable
+
+### Tonight's mega-cap catalysts (AMC — results after 4pm ET)
+
+- **META (Q2 2026):** EPS est. $7.18-7.24 | Full-year capex raised to $125-145B (AI infrastructure spend) | Beat = positive for AI narrative; guidance raise = potential negative (capex overhang) | Market-moving for tomorrow open
+- **MSFT (Q4 FY2026):** EPS est. $4.22-4.24 / Rev est. $87.5-87.67B | Azure growth guided 39-40% CC | Key read for AI demand → direct read-through to NVDA | Beat + Azure beat = positive for NVDA bench thesis
+- **ARM (Q1 FY2027):** EPS est. $0.36 / Rev $1.27B | Data center royalty doubled YoY; AGI CPU $2B+ commitments | GAAP EPS is the key watch — must show ≥25% YoY GAAP growth to fix C-letter | Down 28% from June peak; high stakes for score improvement
+
+### Key calendar — today + week ahead
+
+- **TODAY (Wed Jul 29):** ⚠️ **FOMC decision 2pm ET** + Warsh press conf 2:30pm ET + **Jun 23 dist EXPIRES → 6/25** + META+MSFT+ARM AMC. **DO NOT ENTER UNDER ANY CIRCUMSTANCES.**
+- **THU Jul 30:** AMZN+AAPL AMC | Q2 GDP advance (est. ~2.0%) | Core PCE | ECI | Jobless Claims | Post-FOMC + post-META/MSFT/ARM market digest
+- **FRI Jul 31:** July NFP | **INTC blackout CLEARS → run canslim-screener**
+- **Mon Aug 4:** Market-check: post-FOMC full picture; INTC screener run if not done Fri; week's dist-day math
+
+### Circuit breaker check
+
+- **Daily P&L:** $0 → CLEAR
+- **Weekly P&L:** $0 (week Jul 28, 0 trades) → CLEAR
+- **Drawdown from HWM:** $0 ($2,500 = HWM) → CLEAR
+- **PDT count:** 0/3 → CLEAR
+- **Alpaca blocked:** Day ~160 — no orders possible regardless
+
+### Actions today
+
+**NONE.** Abort gates: (1) Correction (6/25 dist days — still Correction ≥6), (2) Alpaca Day ~160 BLOCKED, (3) FOMC Decision Day hard rule. 44th consecutive zero-action session.
+
+**P&L today:** $0 | **P&L week:** $0 | **Equity:** $2,500 (HWM)
+
+`research_source: websearch_fallback` | `Alpaca_Day160_BLOCKED` | `Perplexity_403` | `AV_403` | `ES_+0.2pct_NQ_+0.3pct_Dow_-0.2pct` | `FOMC_Decision_TODAY_2pm_ET_62pct_hold_38pct_hike` | `Jun23_expires_TODAY_Jul29_dist_7→6of25` | `dist_6of25_still_Correction_geq6` | `dist_threshold_today_7407.6` | `dist_risk_LOW` | `NVDA_~194-195_cup_wk39_no_handle` | `INTC_crashed_97.35→87.53_-10.1pct_Samsung_weak_prelims_capex_20B` | `INTC_blackout_clears_Jul31_screener_Aug1` | `MRVL_~189_Jul28_-30pct_ATH_watch_only` | `ARM_reports_AMC_tonight_reeval_Aug5` | `META_MSFT_AMC_tonight` | `42nd_degraded_session` | `44th_zero_action_session`
+
+---
+
 ## 2026-07-28 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — ES ~−0.2% NQ ~−0.32% — CHIP SELLOFF DEEPENS — OIL BRENT $85.08 — ⚠️ DIST #8 RISK MODERATE — FOMC DAY 1 — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~158; Perplexity: 403; AV: 403 — 40th consecutive degraded session)

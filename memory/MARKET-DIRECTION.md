@@ -6,7 +6,27 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 28 /eod-review — S&P ~7,422 (+0.13% NOT DIST ✅) | DOW +0.93% / NASDAQ −0.63% CHIP SELLOFF CONTINUES | DIST COUNT 7/25 UNCHANGED | JUN 23 EXPIRES TOMORROW → 6/25 (still Correction ≥6) | ⚠️ FOMC DECISION TOMORROW JUL 29 2PM ET + META+MSFT+ARM AMC | AMZN+AAPL AMC THU JUL 30 | NFP FRI JUL 31 | ALPACA DAY ~159 BLOCKED | NO NEW LONGS | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 29 /pre-market — S&P baseline ~7,422 (Jul 28 close) | DIST COUNT 6/25 (JUN 23 EXPIRED TODAY → 7→6/25; still Correction ≥6) | ⚠️ FOMC DECISION TODAY JUL 29 2PM ET (62% hold / 38% hike) + META+MSFT+ARM AMC TONIGHT | AMZN+AAPL AMC THU JUL 30 | NFP FRI JUL 31 | ALPACA DAY ~160 BLOCKED | NO NEW LONGS — DO NOT ENTER TODAY UNDER ANY CIRCUMSTANCES | SH $625 QUEUED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21)*
+
+**✅ JUL 29 /pre-market (6:00 AM CT — 🔴 CORRECTION → 6/25 (JUN 23 EXPIRES TODAY) — ES +0.2% / NQ +0.3% — ⚠️ FOMC DECISION 2PM ET TODAY — META+MSFT+ARM AMC TONIGHT — ALPACA DAY ~160 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION** | `research_source: websearch_fallback` | Alpaca Day ~160 BLOCKED | Perplexity 403 | AV 403 | 42nd consecutive degraded session
+- **Abort gates FIRED: (1) Correction (6/25 dist days ≥6 threshold) → no new longs | (2) Alpaca BLOCKED (403) → no order execution | (3) FOMC Decision Day (hard rule) → no entries** | Zero actions taken
+- **⚠️ JUN 23 DISTRIBUTION DAY EXPIRES TODAY (Jul 29):** Count drops 7/25 → **6/25** (still Correction per ≥6 rule; NO state change; next milestone: Aug 11 when Jul 7 expires → 5/25 = first path to Under Pressure)
+- **Active dist days after Jun 23 expiry:** Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23 = **6/25**
+- **Futures (pre-market Wed Jul 29 ~6:00 AM CT):** ES **+0.2%** | NQ **+0.3%** | Dow futures −0.2% | Mild risk-on; chip names mildly bouncing ahead of FOMC; Dow soft on oil bounce
+- **Dist threshold today:** 7,422 × 0.998 = **~7,407.6** | ES +0.2% → S&P open est. ~7,437 = 29+ pts ABOVE threshold | **Dist day risk: LOW** (barring FOMC hike surprise + major sell-off)
+- **FOMC DECISION TODAY (Wed Jul 29, 2pm ET / 1pm CT):** Warsh press conf 2:30pm ET | Rate 3.50-3.75% | Market pricing: **62% hold / 38% hike** (CME FedWatch) | Hike risk: elevated but hold is base case | Oil at ~$80-82 (deflationary) = slightly more dovish input vs prior $100 backdrop; core CPI 3.5% + jobless 187K = hawkish cover for Warsh | IF HIKE: expect immediate dist day risk + potential new low attempt
+- **⚠️ TONIGHT — AMC triple catalyst (HIGHEST VOLATILITY SESSION Q3):** META (Q2 EPS est. $7.18-7.24 / capex $125-145B) + MSFT (Q4 FY2026 EPS est. $4.22-4.24 / Rev $87.5-87.67B / Azure CC growth 39-40%) + ARM (Q1 FY2027 EPS est. $0.36 / Rev $1.27B; GAAP C-letter key watch). **DO NOT ENTER UNDER ANY CIRCUMSTANCES.**
+- **Bench updates:**
+  - NVDA: ~$194-195 Jul 28 close | Score **74/100 UNCHANGED** | Cup wk ~39, no handle | BLOCKED: Correction + Alpaca + <75
+  - INTC: ⚠️ **CRASHED FURTHER** from ~$97.35 (Jul 24) → ~$87.53 (Jul 28) = **−10.1% MORE** (total: from $104 AH high → $87.53 = −15.8%); Samsung weak prelims read-through; $20B capex raise (from $18B); AI competition concerns; Rosenblatt Sell PT $65. Blackout clears **Jul 31** → run screener Aug 1+. Preliminary score 70-78/100 **LIKELY NEEDS REVISION LOWER** on fresh screener.
+  - MRVL: ~$189 Jul 28 (-2.6% from Jul 24) | ~15-25/100 UNCHANGED | Watch-only
+  - ARM: PERMANENTLY REMOVED | Reports AMC **TONIGHT** | EPS est. $0.36 / Rev $1.27B | Re-eval Aug 5+
+- **Open positions: 0** | No overnight gap check needed | Sell-rules-engine: SKIPPED
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Daily P&L: $0 | Weekly P&L: $0 (week Jul 28 — 0/3 trades)
+- **FTD status:** CLOSED — rally low 7,266.99 intact; S&P ~155 pts above it
+- **Earliest Uptrend: ~Aug 17-21** (no new dist days assumed; if FOMC hikes today = new dist #8 → expiry path shifts later)
+- `pre-market_Jul29` | `websearch_fallback` | `Alpaca_Day160_BLOCKED` | `42nd_degraded_session` | `44th_zero_action_session` | `ES_+0.2pct_NQ_+0.3pct_Dow_-0.2pct` | `Jun23_expires_TODAY_dist_7→6of25` | `FOMC_Decision_TODAY_2pm_ET_62pct_hold_38pct_hike` | `dist_threshold_7407.6` | `dist_risk_LOW` | `META_MSFT_ARM_AMC_TONIGHT` | `NVDA_~194-195_cup_wk39_no_handle_74of100` | `INTC_crashed_97.35→87.53_-10.1pct_more_Samsung_weak_capex_20B` | `MRVL_~189_watch_only` | `ARM_reports_AMC_tonight_reeval_Aug5`
 
 **✅ JUL 28 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,422 (+0.13% NOT DIST ✅) — DOW +0.93% / NASDAQ −0.63% — CHIP SELLOFF CONTINUES — DIST 7/25 UNCHANGED — ⚠️ FOMC DECISION TOMORROW JUL 29 2PM ET — ALPACA DAY ~159 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~159 BLOCKED | Perplexity 403 | AV 403 | 41st consecutive degraded session
