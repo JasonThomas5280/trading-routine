@@ -6,7 +6,26 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 29 /eod-review — S&P CONF ~7,316.15 (−1.43% | ✅ DIST DAY CONFIRMED) | Dow ~51,594 (−2.19%) | Nasdaq ~24,443 (−1.74%) | FOMC HELD 3.50-3.75% (9-3 vote; mkt sold off on bond/inflation fear) | 🚨 IRAN ceasefire broken; Brent ~$89.61 (+6.6%) | DIST 7/25 (Jul 29 added) | META AH ~−4% capex shock rev-beat | ⚠️ S&P ONLY 49 PTS ABOVE RALLY LOW 7,266.99 | ALPACA DAY ~161 BLOCKED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21 UNCHANGED)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 30 /pre-market — S&P baseline 7,316.15 | DIST 7/25 UNCHANGED | ES +0.4% NQ +0.7% rebound (MSFT beat AH +3%; ARM -7% AH despite beat) | 30-yr yield 5.2%+ highest since 2007 | Iran overnight strikes; Brent ~$90 | Q2 GDP+CorePCE 8:30 AM ET (GDPNow 1.6% — miss risk) | AMZN+AAPL AMC TONIGHT | ⚠️ RALLY LOW 7,266.99 ONLY 49 PTS AWAY | ALPACA DAY ~162 BLOCKED | 0 POSITIONS | EARLIEST UPTREND ~AUG 17-21 UNCHANGED)*
+
+**✅ JUL 30 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.4% NQ +0.7% — MSFT BEAT AH +3% / ARM -7% AH DESPITE BEAT — GDP+PCE 8:30 AM ET — ⚠️ RALLY LOW 7,266.99 ONLY 49 PTS AWAY — ALPACA DAY ~162 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~162 BLOCKED | Perplexity 403 | AV 403 | 45th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6 threshold) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken
+- **S&P 500 baseline (Jul 29 CONF close): 7,316.15** | Dist threshold today: **~7,301.4** (7,316.15 × 0.998) | 50d MA ~7,534.75 (S&P **−2.89% below**) | 200d MA ~7,464.61 (S&P **−1.99% below**) — both Correction triggers active | ⚠️ **Rally low 7,266.99: only 49 pts below close** — critical support this session
+- **Futures (pre-market Thu Jul 30 ~6:00 AM CT):** ES **+0.4%** | NQ **+0.7%** | Recovery bid; MSFT beat lifting tech sentiment | Open est. ~7,345 = **44 pts ABOVE dist threshold** → **Dist risk: LOW** in base case | Tail risk: GDP miss + Iran escalation + 30-yr yield 5.2%+ could pull toward rally low test
+- **30-yr yield: ~5.2%+ (highest since 2007)** — bond market not accepting Fed's hold; inflation expectations staying elevated; major macro headwind
+- **Iran:** US launched fresh overnight strike wave on Iranian targets (escalation after Jul 29 IRGC missile attack) | Brent ~$90/bbl (stabilizing after yesterday's +6.6%) | Stagflation risk elevated
+- **Earnings AH Jul 29 (resolved):**
+  - ✅ **MSFT Q4 FY2026 BEAT:** EPS $4.74 vs $4.33 est. (+9.5%); Rev $90.0B vs $89.4B (beat); Azure CC growth ≥40% (above guidance); FY2027 capex **$255-260B (+35% YoY; ~2/3 in GPUs)** | Stock +3%+ AH | **NVDA N-letter MAJOR tailwind CONFIRMED** (MSFT GPU capex at unprecedented scale = direct AI chip demand proof)
+  - ⚠️ **ARM Q1 FY2027 BEAT BUT −7% AH:** Rev $1.29B vs $1.26B (beat); Adj EPS $0.45 vs $0.40 (beat); Strong AI demand signal; BUT shares -7% AH (investors spooked by AI spending sustainability — same pattern as META -4% AH night prior despite beat); GAAP C-letter still TBD → re-eval Aug 5+ UNCHANGED
+  - ⚠️ **META Q2:** Rev beat ($60.80B) but -4% AH on capex shock; partial recovery expected today given MSFT validation
+- **Economic data today (8:30 AM ET / 7:30 AM CT):** Q2 GDP advance est. +2.3% (GDPNow: +1.6% = **miss risk HIGH**) | Core PCE YoY est. +3.3% (easing from +3.4%) | Core PCE MoM est. +0.1% | ECI | Jobless Claims ~210-215K est. | **FOMC input: if GDP misses AND ECI hot = stagflation combo = dist risk elevates sharply despite positive open**
+- **⚠️ TONIGHT (Jul 30 AMC):** AMZN Q2 (AWS AI capex read) + AAPL Q3 (consumer/China) | **DO NOT ENTER UNDER ANY CIRCUMSTANCES**
+- **FTD status:** CLOSED — rally low 7,266.99 INTACT (49 pts margin) | Tail risk: GDP bomb + Iran + AAPL/AMZN fear = test of 7,266.99 possible; break = new Day 1 = FTD window Aug 5-8
+- **Bench (unchanged):** NVDA 74/100 (cup wk ~40; no handle; ~$190.25 Jul 29; MSFT capex = N-letter tailwind at re-score; est. 78-82/100 with handle+Uptrend+live data) | INTC watch-only (blackout clears TOMORROW Jul 31; run screener Aug 1; crashed to ~$86.30) | MRVL watch-only (~15-25/100; $174.47 Jul 29 −7.77%) | ARM removed (re-eval Aug 5+)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Daily P&L: $0 | Weekly P&L: $0 (week Jul 28 — 0/3 trades) | 0 positions
+- **Actions: NONE** (47th consecutive zero-action session)
+- `pre-market_Jul30` | `websearch_fallback` | `Alpaca_Day162_BLOCKED` | `45th_degraded_session` | `47th_zero_action_session` | `dist_7of25_UNCHANGED` | `dist_threshold_7301.4` | `dist_risk_LOW` | `ES_+0.4pct_NQ_+0.7pct` | `MSFT_beat_EPS4.74_capex255-260B` | `ARM_beat_-7pct_AH` | `30yr_yield_5.2pct_highest_2007` | `Iran_overnight_strikes_Brent_~90` | `NVDA_~190.25_-3.42pct_N_letter_tailwind` | `INTC_86.30_blackout_clears_Jul31` | `MRVL_174.47_-7.77pct` | `GDP_GDPNow_1.6pct_miss_risk` | `CorePCE_+3.3pct_est` | `AMZN_AAPL_AMC_tonight` | `rally_low_7266.99_49pts` | `SH_625_QUEUED`
 
 **✅ JUL 29 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — 🚨 IRAN CEASEFIRE BROKEN → OIL BRENT +6.6% ~$90 — S&P −0.7% INTRADAY — ⚠️ DIST #8 HIGH RISK — FOMC 2PM ET — ALPACA DAY ~160 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~160 BLOCKED | Perplexity 403 | AV 403 | 43rd consecutive degraded session

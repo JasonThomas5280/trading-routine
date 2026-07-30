@@ -57,6 +57,19 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - Abort: CORRECTION 6/25 + Alpaca Day ~160 BLOCKED + FOMC Decision Day | 0 actions | 0 trades | 45th consecutive zero-action session
 - `market-check_Jul29` | `Iran_ceasefire_BROKEN` | `Brent_89.61` | `SPX_7370_-0.7pct` | `dist8_HIGH_risk` | `NVDA_196-197_flat`
 
+**✅ Jul 30 /pre-market UPDATE (6:00 AM CT):** 🔴 CORRECTION 7/25 UNCHANGED — ES +0.4% NQ +0.7% REBOUND — MSFT BEAT AH +3% / ARM -7% AH DESPITE BEAT — GDP+PCE 8:30 AM ET — AMZN+AAPL AMC TONIGHT — DO NOT ENTER
+- **Dist count: 7/25 UNCHANGED** (Jul 29 confirmed dist day added at /eod-review; active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29)
+- **Dist threshold today: ~7,301.4** | ES +0.4% → S&P open est. ~7,345 = 44 pts above threshold → dist risk LOW in base case | Tail risk: GDP miss (GDPNow 1.6% vs consensus 2.3%) + 30-yr yield 5.2%+ + Iran
+- **⚠️ Rally low 7,266.99: only 49 pts below Jul 29 close (7,316.15)** — critical support; if broken = new Day 1 → FTD window Aug 5-8
+- **MSFT AH BEAT ✅:** EPS $4.74 vs $4.33 (+9.5%); Rev $90.0B; Azure CC ≥40%; FY2027 capex **$255-260B (+35% YoY; ~2/3 in GPUs)** → **NVDA N-letter MAJOR tailwind CONFIRMED** | Stock +3%+ AH
+- **ARM AH BEAT BUT −7%:** Rev $1.29B (beat); Adj EPS $0.45 (beat); GAAP TBD → re-eval Aug 5+ UNCHANGED
+- **Bench NVDA:** ~$190.25 CONFIRMED (Jul 29 close; −3.42% from $197.01) | Cup wk ~40; no handle | 74/100 UNCHANGED; MSFT capex = N-letter tailwind at re-score → est. 78-82/100 with handle+Uptrend+live data | BLOCKED
+- **INTC:** ~$86.30 (Jul 29 close; −5.86%; total −17% from $104 AH peak) | Blackout clears **TOMORROW Jul 31** → run screener **Aug 1 Fri** | Score likely needs DOWNWARD REVISION from 70-78 est. given crash + $20B capex burden + Samsung weakness
+- **MRVL:** $174.47 (Jul 29; −7.77%) — AI memory trade pullback + chip sector weakness | 15-25/100 UNCHANGED | Watch-only
+- **AMZN+AAPL AMC TONIGHT:** binary catalyst; AMZN AWS = 2nd AI capex read for NVDA thesis | DO NOT ENTER
+- Actions: NONE | Correction (7/25) + Alpaca Day ~162 BLOCKED + 0 candidates ≥75 | 47th consecutive zero-action session
+- `pre-market_Jul30` | `websearch_fallback` | `MSFT_capex_255-260B_NVDA_tailwind` | `ARM_beat_-7pct_AH_reeval_Aug5` | `NVDA_~190.25_cup_wk40` | `INTC_86.30_blackout_clears_Jul31` | `MRVL_174.47_-7.77pct` | `30yr_yield_5.2pct` | `Iran_overnight_strikes` | `GDP_GDPNow_1.6pct_miss_risk`
+
 **✅ Jul 29 /pre-market UPDATE (6:00 AM CT):** ⚠️ FOMC DECISION DAY — JUN 23 DIST EXPIRES → 6/25 — ES +0.2% NQ +0.3% — META+MSFT+ARM AMC TONIGHT — DO NOT ENTER
 - **Dist count update: JUN 23 EXPIRES TODAY → 7/25 → 6/25** (still Correction ≥6; active: Jul 7, 8, 13, 16, 17, 23)
 - **Futures:** ES +0.2% / NQ +0.3% / Dow -0.2% — mild risk-on ahead of 2pm ET FOMC decision

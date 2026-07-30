@@ -1,5 +1,26 @@
 
 ---
+## 2026-07-30 06:00 CT [pre-market — 🔴 CORRECTION 7/25 — MSFT BEAT AH / ARM -7% AH — ES +0.4% NQ +0.7% — GDP+PCE 8:30 ET — AMZN+AAPL AMC — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-07-30
+Market: 🔴 Correction (7/25 dist days) | Futures: ES +0.4% | NQ +0.7%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 positions)
+Watchlist ready 🟢: NONE — Correction posture, all entries blocked
+Watchlist watching 🟡: NVDA 74/100 (cup wk ~40, no handle, ~$190.25 Jul 29 close; MSFT $255-260B FY2027 capex = N-letter tailwind at re-score)
+Removed 🔴: N/A (no changes — MRVL/INTC/ARM status unchanged)
+Key catalysts:
+  - ✅ MSFT Q4 FY2026 BEAT: EPS $4.74 (+9.5%), Rev $90.0B, Azure ≥40% CC, FY2027 capex $255-260B (+35%; ~2/3 GPUs) → NVDA N-letter MAJOR tailwind confirmed
+  - ⚠️ ARM beat but -7% AH (Rev $1.29B, EPS $0.45 adj — investors spooked by AI spend jitter; re-eval Aug 5+)
+  - 🚨 Iran: US overnight strikes on Iranian targets (round 2) | Brent ~$90/bbl
+  - 🔴 30-yr yield: 5.2%+ (highest since 2007) — major macro headwind
+  - 📊 GDP advance + Core PCE at 8:30 AM ET: GDP consensus +2.3% (GDPNow: +1.6% = miss risk); Core PCE est. +3.3% YoY (easing from +3.4%)
+  - ⚠️ AMZN+AAPL AMC tonight — DO NOT ENTER
+Dist day risk today: LOW (ES +0.4%; open est. ~7,345 = 44 pts above threshold 7,301.4) | Tail: GDP miss → rally low test (7,266.99; only 49 pts away)
+Plan: NO entries — Correction (7/25 ≥6 threshold) + Alpaca Day ~162 BLOCKED + 0 candidates ≥75 + earnings binary tonight. Monitor GDP data at 8:30 ET and AMZN/AAPL AH. Report at /eod-review 3:15 PM CT.
+`pre-market_Jul30` | `research_source: websearch_fallback` | `Alpaca_Day162_BLOCKED` | `45th_degraded_session`
+
+---
 ## 2026-07-29 10:00 CT [market-check — 🚨 IRAN CEASEFIRE BROKEN — OIL BRENT +6.6% ~$90 — S&P −0.7% — ⚠️ DIST #8 HIGH RISK — FOMC 2PM ET — 🔴 CORRECTION — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-07-29 10:00 CT

@@ -16598,4 +16598,114 @@ No primary watchlist names → classification SKIPPED. Correction posture. All b
 **Equity:** $2,500.00 (HWM — assumed; Alpaca blocked)
 **Tomorrow watch:** AMZN+AAPL AMC | Q2 GDP advance (~2.0% est.) | Core PCE | ECI | Dist threshold: ~7,301.4 (7,316.15 × 0.998) | ⚠️ rally low 7,266.99 only 35 pts below tomorrow's dist threshold — if dist fires AND closes near threshold, rally low very close | INTC blackout still active (clears Jul 31) | NVDA bench unchanged 74/100 BLOCKED
 
+---
+
+## 2026-07-30 (Thu) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — ES +0.4% NQ +0.7% REBOUND — MSFT BEAT AH +3% / ARM -7% AH DESPITE BEAT — Q2 GDP+PCE 8:30 AM ET — AMZN+AAPL AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~162; Perplexity: 403; AV: 403 — 45th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days** (Jul 29 new dist day added; NO state change; still ≥6 Correction rule)
+**Open positions:** 0 | **Equity:** $2,500 (HWM — assumed) | **Weekly trades (week Jul 28):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Jul 29 close — confirmed baseline for today
+
+- **S&P 500 CONF ~7,316.15 (−1.43%)** — DIST DAY #7-in-window CONFIRMED (91 pts below threshold 7,407.6; volume elevated on FOMC + Iran + mega-cap earnings)
+- **Dow: ~51,594 (−2.19%, −1,153 pts)** — worst single-day drop since Apr 2025
+- **Nasdaq: ~24,443 (−1.74%)** — entered correction territory
+- **Distribution count:** 7/25 (active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29)
+- **50d MA (~7,534.75):** S&P −2.89% below | **200d MA (~7,464.61):** −1.99% below — both Correction triggers active
+- **⚠️ Rally low 7,266.99: only 49 pts below Jul 29 close** (thinning; critical support)
+- **FOMC Jul 29:** HELD 3.50-3.75% (9-3 vote; Hammack/Kashkari/Logan dissented for hike); market sold off despite hold — bond market signaling inflation-behind-the-curve narrative; **30-yr yield: 5.2%+ (highest since 2007)**
+- **NVDA Jul 29 close: ~$190.25 (−3.42% from $197.01)** — chip selloff accelerating
+
+### Overnight market (pre-market Thu Jul 30 ~6:00 AM CT)
+
+- **ES futures: +0.4%** | **NQ futures: +0.7%** | Recovery after FOMC selloff; Asian stocks rebounded; NQ outperforming (MSFT AI capex beat lifting tech)
+- **Tone:** Cautious recovery. MSFT AH beat lifting sentiment but Iran overnight strikes + 30-yr yield 5.2%+ caps upside. Mixed signals: tech recovering (MSFT/AI demand confirmed) vs macro headwinds (yield spike, oil, GDP miss risk)
+- **30-yr yield: ~5.2%+ (highest since 2007)** — major headwind; bond market not buying the Fed's hold narrative
+- **Iran:** US launched fresh wave of overnight strikes on Iranian targets (round 2 after Jul 29 IRGC missile attack) | Brent trading near $90/bbl (stable after +6.6% yesterday; WTI ~$84+) | Stagflation triple still active: oil $90 + core CPI 3.5% + tariffs 10-12.5%
+- **US500 early read (~7,328 on Jul 30)** — suggests modest opening recovery; +0.17% from 7,316.15
+
+### AH earnings recap (Jul 29 AMC)
+
+- **MSFT Q4 FY2026: ✅ BEAT** — EPS $4.74 vs $4.33 est. (+$0.41 / +9.5%); Rev $90.0B vs $89.4B est. (beat); Azure CC growth confirmed at or above 40% (guidance was 39-40%; beat); FY2027 capex guidance **$255-260B (+35% YoY from $190B 2026; ~2/3 in GPUs/AI infra)** | Stock +3%+ AH ✅
+  - **⚠️ NVDA N-letter MAJOR TAILWIND:** MSFT $255-260B FY2027 capex with ~$170B+ in GPUs = direct NVDA demand confirmation. This materially strengthens N-letter at NVDA's next formal re-score (est. Aug-Sep 2026). Score could reach 76-80/100 with this + base completion.
+- **ARM Q1 FY2027: BEAT BUT -7% AH** — Rev $1.29B vs $1.26B est. (beat +2.4%); Adj EPS $0.45 vs $0.40 est. (beat +12.5%); Q2 rev guidance above estimates; Strong AI demand signal; BUT shares -7% AH (pattern: investors spooked by capex sustainability despite revenue beat, similar to META -4% AH night prior) | Re-eval window Aug 5+ UNCHANGED — GAAP C-letter check still required
+- **META Q2: Rev $60.80B vs $60.29B est. (BEAT) — −4% AH** (capex raise shock); Note: META stock expected to partially recover today given MSFT beat validating AI capex ROI
+
+### Distribution day risk — today Jul 30
+
+- **Jul 29 close baseline: 7,316.15** → **Dist threshold today: ~7,301.4** (7,316.15 × 0.998)
+- **ES +0.4% → S&P open est. ~7,345** = 44 pts ABOVE threshold
+- **Dist day risk: LOW** in base case (market opening up on MSFT beat)
+- **Tail risk:** GDP miss (GDPNow +1.6% vs consensus +2.3%) + Iran escalation + 30-yr yield spike = could pull S&P below 7,301.4 and then toward rally low 7,266.99 (only 35 pts below threshold)
+- **⚠️ Critical scenario:** If S&P closes below 7,266.99 = rally low BROKEN = new Day 1 = FTD window reset to Day 4-7 from today (~Aug 5-8)
+
+### Economic data today (8:30 AM ET / 7:30 AM CT)
+
+- **Q2 2026 GDP advance estimate:** Consensus +2.3% | Atlanta Fed GDPNow: +1.6% (downside risk) | Prior Q1: +2.1%
+- **Core PCE YoY (June):** Expected +3.3% (easing from +3.4%) — Fed's preferred gauge; reading < +3.3% = dovish
+- **Core PCE MoM (June):** Expected +0.1% (cooling from +0.3%)
+- **Personal Income:** +0.3% est. | **Personal Spending:** +0.4% est.
+- **ECI (Q2):** Employment Cost Index — key FOMC input; hot = hawkish
+- **Jobless Claims:** est. ~210-215K
+- **⚠️ Key:** GDP miss + hot ECI = worst combo for market (stagflation = Fed can't cut, can't not hike) → test of rally low 7,266.99 possible
+
+### Tonight (AMC Jul 30)
+
+- **AMZN Q2 2026:** AWS growth + AI capex — AI demand read for NVDA (similar read as MSFT Azure)
+- **AAPL Q3 FY2026:** AI features + China revenue — consumer sentiment read
+- **⚠️ DO NOT ENTER UNDER ANY CIRCUMSTANCES** — binary earnings + GDP data day + Correction + Alpaca blocked
+
+### Overnight catalyst scan — open positions
+
+- No open positions. Sell-rules-engine: SKIPPED (0 positions — 30th consecutive morning zero)
+
+### Watchlist catalyst scan (bench only)
+
+**NVDA (74/100 — UNCHANGED):**
+- Jul 29 close: **~$190.25 (−3.42% from $197.01)** — accelerating chip selloff; now ~19.6% below 52-wk high $236.54
+- Cup wk: **~40 (as of week ending Aug 1)** | No handle | 52-wk high $236.54
+- **✅ MAJOR N-LETTER TAILWIND CONFIRMED:** MSFT FY2027 capex $255-260B (+35% YoY; ~2/3 in GPUs) = direct AI chip demand proof at unprecedented scale. At next re-score with live data + base completion, N-letter likely 14-15/15 (from current 12/15). Estimated score with handle + live data: **78-82/100** (up from prior 82-85 est. — slightly cautious on AMD competitive flag)
+- Status: 🟡 WATCHING (bench only; not actionable — Correction + no base + Alpaca blocked + <75)
+- AMZN earnings tonight = second AI capex read for NVDA thesis
+
+**INTC (~70-78/100 est. — UNSCORED / BLACKOUT):**
+- Jul 29 close: **~$86.30 (−5.86% from $87.53)** — continuing deterioration from $104 AH peak; −17% from earnings-night high
+- Total drawdown from AH peak: $104 → $86.30 = **−17.0%** — institutional sell-the-news + Samsung weak prelims + $20B capex raise burden + Rosenblatt Sell $65 PT
+- **⚠️ Blackout clears TOMORROW Jul 31** → run canslim-screener **Aug 1 (Fri) or Mon Aug 4**
+- MSFT beat: modest N-letter tailwind (Azure demand = Intel server chips needed) BUT INTC's core issues remain: A-letter GAAP history + capex burden
+- Preliminary score 70-78/100 likely **NEEDS DOWNWARD REVISION** given $86 price vs earlier $87-97 estimates
+- Status: ❌ BELOW THRESHOLD + BLACKOUT (run screener Aug 1)
+
+**MRVL (~15-25/100 — WATCH ONLY):**
+- Jul 29 close: **$174.47 (−7.77%)** — AI memory trade pullback + chip sector weakness + hyperscaler capex anxiety
+- Hyperscaler capex anxiety: investors worried cloud providers cutting AI spend → custom silicon demand (MRVL's bread and butter) at risk
+- BUT: MSFT confirming $255-260B capex FY2027 = partial counter-narrative (hyperscaler spend NOT cutting)
+- Score ~15-25/100 UNCHANGED — broken structure, insider selling, capital raise shelf — not actionable Q3-Q4 2026
+- Status: ❌ FAR BELOW THRESHOLD (watch-only)
+
+**ARM (REMOVED — re-eval Aug 5+):**
+- Jul 29 AH: Rev $1.29B (beat), Adj EPS $0.45 (beat), Q2 guide above est. | BUT -7% AH
+- GAAP C-letter status: TBD — will check at Aug 5+ re-evaluation
+- Re-eval window: Aug 5+ UNCHANGED
+- Status: ❌ REMOVED (pending re-evaluation)
+
+### Buy-zone readiness (ALL BLOCKED)
+
+| Symbol | Last $ | Pivot | % from Pivot | Status |
+|---|---|---|---|---|
+| NVDA | ~$190.25 (Jul 29) | Undefined (no handle) | N/A — cup only | 🔴 NO BASE (Correction + Alpaca + <75) |
+| INTC | ~$86.30 (Jul 29) | Undefined (post-earnings) | N/A | 🔴 BLACKOUT + CORRECTION |
+| MRVL | $174.47 (Jul 29) | Undefined (broken structure) | N/A | 🔴 FAR BELOW THRESHOLD |
+| SH | $625 queued | Queued hedge | — | ⚠️ ALPACA BLOCKED |
+
+### Circuit breaker check
+
+- **Daily circuit breaker (-3%):** ✅ CLEAR (0 positions; no P&L loss possible)
+- **Weekly circuit breaker (-6%):** ✅ CLEAR
+- **Drawdown (-12% HWM):** ✅ CLEAR ($2,500 = HWM)
+- **PDT:** 0 of 3 used
+
+`pre-market_Jul30` | `websearch_fallback` | `Alpaca_Day162_BLOCKED` | `45th_degraded_session` | `dist_7of25_UNCHANGED` | `dist_threshold_7301.4` | `dist_risk_LOW` | `ES_+0.4pct_NQ_+0.7pct` | `MSFT_BEAT_EPS4.74_capex255-260B_FY2027` | `ARM_beat_-7pct_AH` | `META_partial_recovery_expected` | `GDP_advance_8:30ET_GDPNow_1.6pct` | `CorePCE_+3.3pct_est` | `30yr_yield_5.2pct_highest_2007` | `Iran_overnight_strikes_Brent_~90` | `NVDA_~190.25_-3.42pct` | `NVDA_N_letter_tailwind_CONFIRMED_MSFT_255-260B` | `INTC_86.30_-5.86pct_blackout_clears_Jul31` | `MRVL_174.47_-7.77pct` | `AMZN_AAPL_AMC_tonight` | `rally_low_7266.99_49pts` | `circuit_breakers_ALL_CLEAR`
+
 `research_source: websearch_fallback` | `Alpaca_Day161_BLOCKED` | `Perplexity_403` | `AV_403` | `44th_degraded_session` | `46th_zero_action_session` | `FOMC_HOLD_9-3_vote` | `SPX_CONF_7316.15_-1.43pct_DIST` | `dist_7of25` | `rally_low_7266.99_49pts` | `Brent_89.61_+6.6pct` | `META_AH_-4pct_rev_beat_capex_shock` | `MSFT_ARM_AH_pending` | `circuit_breakers_CLEAR` | `eod_Jul29`
