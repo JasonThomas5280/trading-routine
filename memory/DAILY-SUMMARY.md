@@ -5132,3 +5132,21 @@ Earliest uptrend: ~Aug 17-21 UNCHANGED
 ## 2026-07-30 15:18 CT [clickup-placeholder]
 
 Market-check 2026-07-30 10:00 AM CT | Market: CORRECTION (7/25 dist days) | Circuit breakers: NONE | Actions: NONE (gates fired: Correction + Alpaca Day ~163 BLOCKED) | S&P ~7,381 +0.88% NO DIST DAY | GDP Q2 +1.5% MISS | Core PCE +0.1% MoM BEAT | Nasdaq +1.6% NQ100 +3% MSFT+15% NARROW / Russell -1.61% | Brent ~90-92 US airstrikes Iran | Bench: NVDA 74/100 ~195-197 +3% UNCHANGED | INTC ~81.88 -5.1% score 60-70 est. DOWNGRADE | MRVL data uncertain | AMZN+AAPL AMC tonight DO NOT ENTER | 0 positions 0% deployed | 0/3 weekly trades | SH 625 QUEUED (Alpaca blocked) | Next: /eod-review 3:15 PM CT
+
+---
+## 2026-07-30 15:15 CT [eod-review]
+
+📊 EOD 2026-07-30 | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash
+Distribution days: 7 of 25 — TODAY: ✅ NOT DIST DAY (+1.70%)
+Market: 🔴 CORRECTION UNCHANGED | Dist expiry: Aug 11 next milestone
+Close: S&P 7,437.63 (+1.70%) | Nasdaq 25,122.18 (+2.8%) | Dow 52,208.06 (+1.2%)
+🆕 RALLY ATTEMPT DAY 1: Jul 30 (7,437.63) | FTD window: Aug 4–7 | Threshold: ~7,530
+AH: AMZN +6% BEAT ✅ | AAPL BEAT $2.01 EPS / $111.2B rev ✅ | MSFT+AMZN+AAPL triple beat
+NVDA: N-letter reinforced by AMZN; est. 78–82/100 at next re-score; BLOCKED
+INTC: blackout clears TOMORROW Jul 31 → run screener Aug 1 or Aug 4
+Alpaca: BLOCKED Day ~163 | sell-rules-engine: SKIPPED (0 positions — 31st consecutive)
+Actions: NONE (50th consecutive zero-action session)
+Tomorrow (Fri Jul 31): NFP July (~185K est.) | dist threshold ~7,422.79 | Rally Day 2 tracking
+Earliest uptrend: Aug 4–7 (FTD path) | Aug 17–21 (dist expiry path)
+Circuit breakers: ALL CLEAR | SH $625 queued (Alpaca blocked)

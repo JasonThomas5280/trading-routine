@@ -117,6 +117,71 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-30 (Thu) — /eod-review (3:15 PM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P CONF 7,437.63 (+1.70% NOT DIST DAY ✅) — 🆕 RALLY ATTEMPT DAY 1 — AMZN +6% AH BEAT | AAPL BEAT $2.01 EPS — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~163; Perplexity: 403; AV: 403 — 47th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days UNCHANGED** | Not a dist day today ✅
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 28):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### EOD close data (confirmed)
+
+- **S&P 500: 7,437.63 (+1.70% / +121.48 pts)** — strong rebound from Jul 29 FOMC-induced −1.43% sell-off
+- **Nasdaq Composite: 25,122.18 (+2.8%)** — ends 6-day losing streak
+- **Dow: 52,208.06 (+1.2% / +613.92 pts)** — sharp recovery; retraces Jul 29's worst drop since Apr 2025
+- **QQQ volume: 57.23M vs 41.88M avg (+36.7% above avg)** — UP day on elevated volume = accumulation signal ✅
+- **Dist threshold: 7,316.15 × 0.998 = 7,301.4** | Close 7,437.63 = +136 pts above threshold | **NOT dist day ✅**
+
+### Distribution day analysis
+
+- **Jul 30: NOT a distribution day ✅** (close +1.70%, threshold 7,301.4 = 136 pts below close)
+- **Distribution count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **Expiry schedule unchanged:** Aug 11 (Jul 7 → 6/25) | Aug 12 (Jul 8 → 5/25 Under Pressure) | Earliest uptrend via expiry: ~Aug 17–21
+
+### State transition
+
+- **NONE** — Correction continues (7/25 dist days ≥6; SPY ~1.28% below 50d MA ~7,534)
+
+### 🆕 Rally Attempt Day 1 — Jul 30
+
+- Jul 29 close 7,316.15 = near-term low (49 pts above rally low 7,266.99); Jul 30 rebounds +1.70% = **Day 1 of new rally attempt**
+- **FTD Window: Aug 4 (Day 4) → Aug 7 (Day 7)** | Day 2 = Jul 31 (Fri) | Day 3 = Aug 3 (Mon)
+- **FTD Threshold: ~7,530** (7,437.63 × 1.0125; also coincides with 50d MA ~7,534)
+- Volume requirement: volume must exceed today's elevated QQQ 57.23M / SPY est. above avg
+- Prior FTD (from Jul 16 Day 1 at 7,543.59) was CLOSED Jul 16; today establishes fresh Day 1
+- Rally attempt invalidation: close below rally low 7,266.99 → new Day 1 needed
+
+### AH catalysts (Jul 30 AMC — just reported)
+
+- ✅ **AMZN Q2 BEAT — +6% AH:** Revenue beat; AWS growth ~28%+ (AI capex demand validates $200B FY2026 plan) → **NVDA N-letter reinforced** (AMZN = 2nd-largest GPU buyer after MSFT)
+- ✅ **AAPL Q3 BEAT — Tim Cook's final call:** EPS $2.01 vs $1.89 est. (+6.3%); Rev $111.2B vs $109.7B est. (+16.6% YoY); Services record $30.98B; iPhone rev $56.99B (+21.6%); gross margin 49.3%; John Ternus to become CEO Sep 1
+- **Mega-cap read: MSFT + AMZN + AAPL all beat Q2/Q3** — strongest broad mega-cap cycle in years; AI capex confirmed by MSFT ($255-260B) + AMZN ($200B) = NVDA demand floor established
+
+### Sell-rules-engine
+
+- **SKIPPED** — 0 open positions (31st consecutive EOD skip)
+
+### Bench status (EOD)
+
+- **NVDA 74/100 UNCHANGED:** AMZN beat = N-letter further confirmed at next re-score; est. 78–82/100 with handle+Uptrend+live data; BLOCKED (Correction + Alpaca + 74/100 + no handle) | Watch AH — likely higher on AMZN/AAPL beats tonight
+- **INTC ~60–70/100 est.:** Blackout CLEARS TOMORROW Jul 31 → run canslim-screener Aug 1 (NFP day — volatile, may want to wait until Aug 4) or Mon Aug 4; score estimate 60–70/100 UNCHANGED
+- **MRVL ~15–25/100:** Watch-only; $174.47 Jul 29; no change
+- **GOOGL ~60–65/100:** Watch-only; blackout Aug 5+; no change
+- **ARM:** Re-eval Aug 5+; no change
+
+### Tomorrow watch
+
+- **NFP July (Fri Aug 1, 7:30 AM CT):** Est. ~185K | Strong = hawkish concern; Weak = dovish relief → either way market-moving | Dist threshold Fri Jul 31: **7,437.63 × 0.998 = ~7,422.79**
+- **INTC screener:** Run Aug 1 (if market calm) or Aug 4 (safer choice given NFP volatility)
+- **Rally Day 2 tracking:** Jul 31 must close up without undercutting today's open (or ideally rally further); if S&P closes near or above 7,437 = healthy Day 2
+
+### Actions taken
+
+- **NONE** (50th consecutive zero-action session)
+- Sell-rules-engine: SKIPPED (31st consecutive — 0 positions)
+- `research_source: websearch_fallback` | `SPX_7437.63_+1.70pct_NOT_DIST` | `dist_7of25_UNCHANGED` | `RALLY_DAY1_Jul30` | `FTD_window_Aug4-7` | `AMZN_+6pct_AH_BEAT` | `AAPL_BEAT_EPS2.01_Rev111.2B` | `NVDA_74of100_BLOCKED` | `INTC_blackout_clears_Jul31` | `QQQ_vol_57.23M_elevated`
+
+---
+
 ## 2026-07-29 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 → 6/25 JUN 23 EXPIRES TODAY) — ⚠️ FOMC DECISION DAY 2PM ET — ES +0.2% NQ +0.3% — META+MSFT+ARM AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~160; Perplexity: 403; AV: 403 — 42nd consecutive degraded session)
