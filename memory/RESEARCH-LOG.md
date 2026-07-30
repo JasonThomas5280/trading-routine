@@ -46,6 +46,77 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-30 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P ~7,381 +0.88% NO DIST DAY ✅ — GDP MISS / CORE PCE BEAT — MSFT +15% NARROW RALLY — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~163; Perplexity: 403; AV: 403 — 46th consecutive degraded session)
+**Market direction:** 🔴 Market in Correction | **7/25 dist days UNCHANGED** | No dist day today ✅
+**Open positions:** 0 | **Equity:** $2,500 (HWM) | **Weekly trades (week Jul 28):** 0/3 | **Circuit breakers:** ALL CLEAR
+
+### Abort gates — fired
+
+- ❌ Gate 1: Market = Correction (7/25 dist days) → no new long entries
+- ❌ Gate 2: Alpaca Day ~163 BLOCKED (403) → no order execution
+- ✅ Research: WebSearch available (not fully degraded)
+- ✅ All other gates CLEAR (circuit breakers, position count, cash buffer)
+
+### Intraday market data (11:00 AM ET / 10:00 AM CT via WebSearch)
+
+- **S&P 500: ~7,381 (+0.88%)** — recovery from FOMC-induced drop; dist threshold 7,301.4 = 80 pts below; **NOT dist day ✅**
+- **Dow: +0.53%** | **Nasdaq: +1.6%** | **Nasdaq 100: +3.0%** (MSFT +15% powering NQ) | ⚠️ **Russell 2000: −1.61%** = internal weakness; rally is narrow mega-cap rally, not broad institutional buying
+- **Rally low 7,266.99:** Now ~114 pts below current level (restored from 49 pts yesterday)
+
+### Macro releases (8:30 AM ET)
+
+- **Q2 GDP Advance: +1.5%** — MISS (consensus 2.3%; GDPNow 1.6%); Q1 was +2.1%; growth decelerating | Sources: BEA
+- **Core PCE Jun MoM: +0.1%** — DOVISH BEAT (consensus +0.2%; prior +0.3%); YoY +3.3% in-line; headline +3.7% in-line
+- **Net: Mixed** — GDP miss = growth concern; PCE beat = Fed dovish input | Market taking PCE signal (FOMC hike prob falls further)
+
+### Overnight catalysts (resolved from Jul 29 AMC)
+
+- ✅ **MSFT BEAT:** EPS $4.74 (+9.5%); Rev $90.0B; Azure CC ≥40%; FY2027 capex $255-260B (+35% YoY; ~2/3 GPUs) → **NVDA N-letter tailwind CONFIRMED** | MSFT +15% today
+- ⚠️ **ARM BEAT BUT −7% AH:** Rev $1.29B beat; EPS $0.45 beat; −7% AH (AI spend sustainability fear) | Re-eval Aug 5+
+- ⚠️ **META:** Rev $60.80B beat; −4% AH on capex shock; partial recovery today
+
+### Buy-zone status (primary watchlist)
+
+- **NONE** — 19th consecutive week with 0 candidates ≥75. Correction gate blocks all longs. Abort gates override all other checks.
+
+### Open positions — intraday Rule 1/Rule 3 check
+
+- **sell-rules-engine: SKIPPED** (0 open positions — 30th consecutive skip)
+
+### Bench status (10:00 AM CT)
+
+- **NVDA 74/100 UNCHANGED:** ~$195-197 (+~3%); MSFT capex = N-letter major tailwind at next re-score; cup wk ~40+, no handle; est. 78-82/100 with handle+Uptrend+live data; BLOCKED
+- **INTC ~60-70/100 est. DOWNGRADE:** ~$81.88 (−5.1% from $86.30; −21.3% from $104 AH peak); market pricing in disappointment ahead of blackout lift tomorrow; run screener Fri Aug 1; earliest entry Aug 17-21 if passes 75
+- **MRVL ~15-25/100 UNCHANGED:** Last confirmed $174.47 (Jul 29); Tickeron data $232 flagged as UNVERIFIED (no visible catalyst); watch-only
+- **GOOGL ~60-65/100 UNCHANGED:** Watch-only; XLC #9; blackout Aug 5+
+- **ARM:** Re-eval Aug 5+; GAAP C-letter status pending
+
+### Bench promotions / demotions
+
+- No promotions (no primary candidates, all bench below 75 or gated)
+- No demotions (NVDA holding base structure; INTC on watch)
+- INTC score estimate REVISED DOWN from 70-78 → 60-70 est. on continued price erosion
+
+### Tonight's binary catalysts — DO NOT ENTER
+
+- **AMZN AMC:** $1.82 EPS est. / $196.25B rev; 7 consecutive rev beats; AWS = AI capex read → direct NVDA demand signal
+- **AAPL AMC:** $1.89 EPS est.; 78.5% beat prob (Polymarket); AAPL ~$338 (+20% prior month = elevated expectations); $170B cap swing implied
+
+### Ongoing risks
+
+- **Iran escalation:** US airstrikes; Tehran threatening Strait of Hormuz; Brent ~$90-92 (rebounding from $80.11 low); stagflation risk remains elevated
+- **30-yr yield ~5.20%:** Highest since Jul 2007; above 5% for 30+ days; rate headwind persisting despite PCE beat
+- **Narrow rally:** MSFT-driven NQ100 +3% vs Russell −1.61% = NOT the broad institutional buying that CAN SLIM requires for Confirmed Uptrend
+
+### Actions taken
+
+- **NONE** (49th consecutive zero-action session)
+- `research_source: websearch_fallback` | `NVDA_195-197_UNCHANGED` | `INTC_score_downgraded_60-70` | `GDP_MISS_+1.5pct` | `CorePCE_BEAT_+0.1pct` | `NO_DIST_DAY_Jul30` | `dist_7of25_UNCHANGED`
+
+---
+
 ## 2026-07-29 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 → 6/25 JUN 23 EXPIRES TODAY) — ⚠️ FOMC DECISION DAY 2PM ET — ES +0.2% NQ +0.3% — META+MSFT+ARM AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~160; Perplexity: 403; AV: 403 — 42nd consecutive degraded session)

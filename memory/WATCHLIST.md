@@ -57,6 +57,17 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - Abort: CORRECTION 6/25 + Alpaca Day ~160 BLOCKED + FOMC Decision Day | 0 actions | 0 trades | 45th consecutive zero-action session
 - `market-check_Jul29` | `Iran_ceasefire_BROKEN` | `Brent_89.61` | `SPX_7370_-0.7pct` | `dist8_HIGH_risk` | `NVDA_196-197_flat`
 
+**✅ Jul 30 /market-check UPDATE (10:00 AM CT):** 🔴 CORRECTION 7/25 UNCHANGED — S&P ~7,381 +0.88% NO DIST DAY ✅ — GDP MISS +1.5% / CORE PCE BEAT +0.1% MoM — MSFT +15% NARROW RALLY / RUSSELL −1.61% ⚠️ — BRENT ~$90-92 US AIRSTRIKES IRAN — AMZN+AAPL AMC TONIGHT — NVDA ~$195-197 +3% — INTC ~$81.88 −5.1% — 0 ACTIONS
+- **Dist count: 7/25 UNCHANGED** | S&P ~7,381 = 80 pts above dist threshold 7,301.4 → **NO DIST DAY TODAY ✅**
+- **GDP Q2 +1.5% MISS** (cons 2.3%); **Core PCE +0.1% MoM BEAT** (cons 0.2%), +3.3% YoY in-line → market reading as dovish (PCE > GDP for Fed-watchers)
+- **Narrow rally:** S&P +0.88%, Nasdaq +1.6%, NQ100 +3% (all MSFT-driven +15%); ⚠️ Russell 2000 −1.61% = internal weakness; NOT broad institutional buying; NOT a follow-through day
+- **NVDA 74/100 UNCHANGED:** ~$195-197 (+~3%) | MSFT $255-260B GPU capex CONFIRMED (N-letter major tailwind at re-score) | Cup wk ~40+, no handle | Est. 78-82/100 with handle+Uptrend+live data | BLOCKED
+- **INTC score DOWNGRADE to 60-70/100 est.:** ~$81.88 (−5.1% from $86.30; −21.3% from $104 AH peak) | Continuing deterioration; market skeptical ahead of blackout lift | Screener Fri Aug 1 | Earliest entry Aug 17-21 if passes 75
+- **MRVL ~$174.47 (LAST CONFIRMED):** Tickeron data showing ~$232 flagged as UNVERIFIED (no visible catalyst for +33% move); score 15-25/100 unchanged; watch-only
+- **AMZN+AAPL AMC tonight:** AMZN (AWS = NVDA demand read); AAPL ($170B swing possible); DO NOT ENTER
+- Abort: CORRECTION (7/25) + Alpaca Day ~163 BLOCKED + 0 candidates ≥75 | 0 actions | 0 trades | 49th consecutive zero-action session
+- `market-check_Jul30` | `websearch_fallback` | `SPX_7381_+0.88pct_NO_DIST_DAY` | `GDP_+1.5pct_MISS` | `CorePCE_+0.1pct_BEAT` | `MSFT_+15pct` | `Russell_-1.61pct_narrow_rally` | `NVDA_195-197_+3pct_UNCHANGED` | `INTC_81.88_-5.1pct_score_60-70est` | `MRVL_data_uncertain_174.47_last_conf` | `Brent_90-92_Hormuz_threat`
+
 **✅ Jul 30 /pre-market UPDATE (6:00 AM CT):** 🔴 CORRECTION 7/25 UNCHANGED — ES +0.4% NQ +0.7% REBOUND — MSFT BEAT AH +3% / ARM -7% AH DESPITE BEAT — GDP+PCE 8:30 AM ET — AMZN+AAPL AMC TONIGHT — DO NOT ENTER
 - **Dist count: 7/25 UNCHANGED** (Jul 29 confirmed dist day added at /eod-review; active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29)
 - **Dist threshold today: ~7,301.4** | ES +0.4% → S&P open est. ~7,345 = 44 pts above threshold → dist risk LOW in base case | Tail risk: GDP miss (GDPNow 1.6% vs consensus 2.3%) + 30-yr yield 5.2%+ + Iran

@@ -5127,3 +5127,8 @@ Alpaca: BLOCKED Day ~161 | sell-rules-engine: SKIPPED (0 positions)
 Actions: NONE (46th consecutive zero-action session)
 Tomorrow: AMZN+AAPL AMC | Q2 GDP | Core PCE | dist threshold ~7,301.4
 Earliest uptrend: ~Aug 17-21 UNCHANGED
+
+---
+## 2026-07-30 15:18 CT [clickup-placeholder]
+
+Market-check 2026-07-30 10:00 AM CT | Market: CORRECTION (7/25 dist days) | Circuit breakers: NONE | Actions: NONE (gates fired: Correction + Alpaca Day ~163 BLOCKED) | S&P ~7,381 +0.88% NO DIST DAY | GDP Q2 +1.5% MISS | Core PCE +0.1% MoM BEAT | Nasdaq +1.6% NQ100 +3% MSFT+15% NARROW / Russell -1.61% | Brent ~90-92 US airstrikes Iran | Bench: NVDA 74/100 ~195-197 +3% UNCHANGED | INTC ~81.88 -5.1% score 60-70 est. DOWNGRADE | MRVL data uncertain | AMZN+AAPL AMC tonight DO NOT ENTER | 0 positions 0% deployed | 0/3 weekly trades | SH 625 QUEUED (Alpaca blocked) | Next: /eod-review 3:15 PM CT
