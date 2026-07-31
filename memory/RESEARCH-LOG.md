@@ -16845,3 +16845,144 @@ No primary watchlist names → classification SKIPPED. Correction posture. All b
 `pre-market_Jul30` | `websearch_fallback` | `Alpaca_Day162_BLOCKED` | `45th_degraded_session` | `dist_7of25_UNCHANGED` | `dist_threshold_7301.4` | `dist_risk_LOW` | `ES_+0.4pct_NQ_+0.7pct` | `MSFT_BEAT_EPS4.74_capex255-260B_FY2027` | `ARM_beat_-7pct_AH` | `META_partial_recovery_expected` | `GDP_advance_8:30ET_GDPNow_1.6pct` | `CorePCE_+3.3pct_est` | `30yr_yield_5.2pct_highest_2007` | `Iran_overnight_strikes_Brent_~90` | `NVDA_~190.25_-3.42pct` | `NVDA_N_letter_tailwind_CONFIRMED_MSFT_255-260B` | `INTC_86.30_-5.86pct_blackout_clears_Jul31` | `MRVL_174.47_-7.77pct` | `AMZN_AAPL_AMC_tonight` | `rally_low_7266.99_49pts` | `circuit_breakers_ALL_CLEAR`
 
 `research_source: websearch_fallback` | `Alpaca_Day161_BLOCKED` | `Perplexity_403` | `AV_403` | `44th_degraded_session` | `46th_zero_action_session` | `FOMC_HOLD_9-3_vote` | `SPX_CONF_7316.15_-1.43pct_DIST` | `dist_7of25` | `rally_low_7266.99_49pts` | `Brent_89.61_+6.6pct` | `META_AH_-4pct_rev_beat_capex_shock` | `MSFT_ARM_AH_pending` | `circuit_breakers_CLEAR` | `eod_Jul29`
+
+---
+
+## 2026-07-31 /pre-market (6:00 AM CT) — `research_source: websearch_fallback` | Alpaca Day ~164 BLOCKED | Perplexity 403 | AV 403 | 48th consecutive degraded session
+
+### Market state entering session
+
+- **Status: 🔴 MARKET IN CORRECTION (7/25 dist days)** — NO NEW LONG ENTRIES
+- **S&P 500 Jul 30 CONF close: 7,437.63 (+1.70% | NOT DIST DAY ✅)** | Rally Attempt Day 1 confirmed Jul 30
+- **Today = Rally Attempt DAY 2 candidate** | Must close > 7,266.99 (rally low) to maintain; must close ≥+1.25% on elevated volume on Day 4-7 (Aug 4-7) for FTD
+- **Dist threshold today: ~7,422.79** (7,437.63 × 0.998)
+- **FTD Window: Aug 4 (Day 4) → Aug 7 (Day 7) | FTD Threshold: ~7,531** (7,437.63 × 1.0125)
+- **Dist expiry path:** Aug 11 (Jul 7 → 6/25) | Aug 12 (Jul 8 → 5/25) | Earliest Uptrend: ~Aug 17-21
+
+### ⚠️ NFP DATE CORRECTION
+
+- **Prior memory entries incorrectly cited "NFP Fri Aug 1"** — August 1, 2026 is a SATURDAY
+- **ACTUAL NFP date: Friday, August 7, 2026** (first Friday of August; BLS Employment Situation)
+- **Today (Jul 31) has no scheduled major macro data** — no pre-7:30 AM CT entry gate triggered on this basis
+- `NFP_date_CORRECTED_Aug7_not_Aug1`
+
+### Overnight catalyst scan — open positions
+
+- **No open positions.** Sell-rules-engine: SKIPPED (0 positions — 32nd consecutive morning zero)
+
+### Market overnight check (WebSearch fallback)
+
+**ES/NQ futures (pre-market Jul 31):**
+- **ES +0.48%** | **NQ +1.02%** — continued recovery bid from AMZN beat overnight
+- S&P 500 implied open: ~7,473 (7,437.63 × 1.0048) = **50+ pts ABOVE dist threshold** → dist day risk: LOW
+- Sources: FXPremiere, TheStreet Jul 31 2026
+
+**AMZN Q2 2026 — BEAT (AH Jul 30 + PM Jul 31 extended):**
+- Revenue: $200.6B (+20% YoY) — BEAT | AWS: $42.2B (+37% YoY) — SIGNIFICANT BEAT
+- AH reaction Jul 30: **+8% confirmed** (Motley Fool) | Jul 30 close: $235.50 (+3.90%)
+- Pre-market Jul 31: extending to **~+13%** (~$266 est.) — largest single-name positive catalyst this session
+- **NVDA N-letter implication:** AMZN AWS +37% YoY = 2nd major AI capex confirmation after MSFT ($255-260B capex). Both hyperscalers confirming massive GPU demand. N-letter at next NVDA re-score: 14-15/15 (up from current 12/15)
+- Confidence: CONFIRMED on earnings + AH direction; PM +13% is PLAUSIBLE/sourced
+- Sources: Motley Fool, Seeking Alpha, TheStreet Jul 31 2026
+
+**AAPL Q3 FY2026 — Headline beat, Services/China MISS (PM -7.2%):**
+- EPS: $2.02 vs $1.88 est. — BEAT (prior est. $2.01 ✅) | Revenue: $109.4B vs $108.75B est. — BEAT
+- ⚠️ **CORRECTION: Prior memory cited AAPL Rev $111.2B — INCORRECT. Actual: $109.4B** ($1.8B shortfall)
+- Services revenue and China revenue came in BELOW expectations → PM reaction: **-7.2%** despite headline beat
+- Divergence with AMZN confirmed: "Amazon & Apple Beat Earnings, Head Separate Ways" (Yahoo Finance)
+- Net S&P impact: AAPL -7.2% (~4% S&P weight) vs AMZN +13% (~4% S&P weight) = roughly offset
+- Confidence: CONFIRMED on headline beat; PM -7.2% is PLAUSIBLE/sourced
+- Sources: Yahoo Finance, TheStreet Jul 31 2026
+
+**NVDA (pre-market Jul 31):**
+- Direction: **+2.65% to +3.39%** (two sources; absolute price unconfirmed — search results returned erroneous absolutes)
+- Base ~$190-197 range (Jul 29-30); implied PM: **~$200-202** (directional only — TREAT AS ESTIMATE)
+- Driver: AMZN AWS +37% + MSFT Azure +43% = AI capex double confirmation → chip sector bid
+- Score: **74/100 UNCHANGED** | Cup wk ~41 (week of Jul 28-Aug 1); no handle
+- Status: 🔴 BLOCKED (Correction + Alpaca + <75 + no handle)
+- Confidence: ESTIMATED — direction confirmed, absolute unverified
+
+**INTC (pre-market Jul 31 — BLACKOUT CLEARS TODAY):**
+- Direction: **+6.28% to +11.30%** (two sources diverged significantly on magnitude)
+- Base $81.88 (Jul 30 close); implied PM: **~$87-91** (wide range — verify before any action)
+- Driver: blackout ends + chip sector rally + AI capex demand confirmation
+- ⚠️ Wide pre-market range (+6% to +11%) = HIGH VOLATILITY — likely gap-fill risk; do NOT run canslim-screener today (too volatile; no stable base post-gap)
+- **ACTION: Run canslim-screener MON AUG 4** after price has stabilized for 2 sessions
+- Score est. 60-70/100 UNCHANGED (likely needs revision based on A-letter GAAP history; stable price needed first)
+- Status: ❌ BELOW THRESHOLD + watch-only (earliest entry Aug 17-21 per Correction + Uptrend requirement)
+- Confidence: ESTIMATED — direction confirmed; absolute unverified
+
+**ARM (recovered Jul 30 — re-eval Aug 5+):**
+- Jul 29 AH: -7% to -8% (beat but sell-the-news) | Jul 30 recovery: **+6.45% to $239.40** close
+- GAAP C-letter status: TBD (required for proper re-score)
+- Re-eval window: Aug 5+ UNCHANGED (5 trading days post-Jul-29 earnings)
+- Confidence: CONFIRMED on Jul 30 recovery; Jul 30 close $239.40 plausible/sourced
+
+**MRVL:** No new catalyst. Watch-only, ~15-25/100. Price: last CONF $174.47 (Jul 29)
+
+**GOOGL:** Watch-only, ~60-65/100. No new catalyst.
+
+**Oil/Iran (overnight Jul 30-31):**
+- Brent: **~$89/bbl** (easing from $90-92 peak after US airstrikes) — Hormuz shipping recovering: 14 vessels/day vs single-digit prior week; Qatar resumed LNG shipments
+- WTI: **~$84/bbl**
+- Brent on track for biggest monthly gain since March 2026 (geopolitical premium still elevated)
+- Tail risk: US-Iran conflict ongoing; Trump pledged retaliation; no full ceasefire in place
+- Net: Brent stabilizing below $90 = stagflation pressure slightly easing (vs $92 yesterday)
+- Confidence: CONFIRMED directionally; Brent ~$89 consistent with slide from $92 peak
+
+### Distribution day risk — today Jul 31
+
+- **Jul 30 CONF close: 7,437.63** → **Dist threshold today: ~7,422.79**
+- **ES +0.48% → S&P open est. ~7,473** = ~50 pts ABOVE threshold
+- **AAPL -7.2% PM** (~4% S&P weight) = headwind; **AMZN +13% PM** (~4% S&P weight) = tailwind; roughly offset
+- **Dist day risk: LOW** (market opening positive; Rally Day 2 candidate intact)
+- **Watch:** Any reversal below 7,422.79 on elevated volume = DIST #8 → extend correction
+- **Critical support: 7,266.99** (rally low) — 170+ pts below; intact
+
+### Watchlist catalyst scan (bench only)
+
+**NVDA (74/100 — bench only):**
+- AMZN AWS +37% YoY = N-letter FURTHER CONFIRMED (joins MSFT $255-260B GPU capex)
+- Cup wk: ~41 (as of week ending Aug 1) | No handle | Status: 🔴 BLOCKED (same as prior)
+- At next re-score with handle + Uptrend + live data: est. **78-82/100** (N-letter likely 14-15/15 now)
+- Not actionable until: handle forms + Confirmed Uptrend + Alpaca restored (~Aug-Sep 2026 at earliest)
+
+**INTC (~60-70/100 est. — blackout clears today, screener MON AUG 4):**
+- PM +6-11% = bullish gap; BUT wide range = high volatility = poor screener timing today
+- Price stabilization needed: run canslim-screener Mon Aug 4 with 2 sessions of post-gap data
+- A-letter GAAP history remains the critical swing factor; preliminary score still at risk of downward revision
+- Earliest entry: Aug 17-21 (requires Uptrend + score ≥75 + Alpaca restore + stable base)
+
+**MRVL (~15-25/100 — watch-only):** No change. Broken structure, no catalyst.
+
+**ARM (~$239 — re-eval Aug 5+):** Recovered to $239.40 Jul 30. Re-eval Aug 5+ for GAAP C-letter. If GAAP EPS improves → could approach 70-75 range; still needs base + Uptrend + score ≥75 to be actionable.
+
+**GOOGL (~60-65/100 — watch-only):** No change. XLC sector lagging #9; capex overhang.
+
+### Buy-zone readiness
+
+| Symbol | Last $ | Status | Notes |
+|---|---|---|---|
+| NVDA | ~$190-197 (Jul 29-30) | 🔴 NO BASE | No handle; Correction; Alpaca blocked |
+| INTC | ~$81.88 (Jul 30) | 🔴 VOLATILE GAP | PM +6-11%; run screener Aug 4 |
+| MRVL | $174.47 (Jul 29) | 🔴 BELOW THRESHOLD | Broken structure; watch-only |
+| SH | $625 queued | ⚠️ ALPACA BLOCKED | Execute as first order on Alpaca restore |
+
+### Circuit breaker check
+
+- **Daily circuit breaker (-3%):** ✅ CLEAR (0 positions; $2,500 equity = HWM)
+- **Weekly circuit breaker (-6%):** ✅ CLEAR
+- **Drawdown (-12% HWM):** ✅ CLEAR
+- **PDT:** 0 of 3 used | Alpaca Day ~164 BLOCKED
+
+### Today's agenda (Jul 31)
+
+1. **NO ENTRIES** — Correction (7/25) + Alpaca BLOCKED + 0 candidates ≥75
+2. **Monitor S&P** — must close > 7,266.99 to maintain Rally Day 2; dist threshold 7,422.79
+3. **INTC gap-and-go watch** — informational only; do NOT run screener until Aug 4
+4. **NFP: NOT TODAY** — corrected to Aug 7; no macro gate today
+5. **FTD window opens Aug 4** — watch for +1.25% on elevated volume (Day 4 of rally attempt)
+6. **Next milestone: Aug 11** (Jul 7 dist expires → 6/25), **Aug 12** (Jul 8 → 5/25 Under Pressure path)
+7. **Mon Aug 4:** Run INTC canslim-screener | FTD Day 4 watch
+
+`pre-market_Jul31` | `websearch_fallback` | `Alpaca_Day164_BLOCKED` | `48th_degraded_session` | `NFP_CORRECTED_AUG7_not_AUG1` | `ES_+0.48pct` | `NQ_+1.02pct` | `AMZN_beat_+8pct_AH_+13pct_PM_AWS_+37pct_YoY` | `AAPL_beat_headline_-7.2pct_PM_Services_China_miss_Rev109.4B` | `NVDA_+2.65-3.4pct_PM_est200-202` | `INTC_+6-11pct_PM_blackout_clears_screener_Aug4` | `ARM_recovered_239.40_Jul30_reeval_Aug5` | `Brent_~89_easing_Hormuz_recovering` | `dist_7of25_UNCHANGED` | `dist_threshold_7422.79` | `dist_risk_LOW` | `rally_attempt_DAY2` | `FTD_window_Aug4-7` | `FTD_threshold_~7531` | `circuit_breakers_ALL_CLEAR` | `actions_ZERO` | `52nd_consecutive_zero_action_session`

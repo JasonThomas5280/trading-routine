@@ -5150,3 +5150,22 @@ Actions: NONE (50th consecutive zero-action session)
 Tomorrow (Fri Jul 31): NFP July (~185K est.) | dist threshold ~7,422.79 | Rally Day 2 tracking
 Earliest uptrend: Aug 4–7 (FTD path) | Aug 17–21 (dist expiry path)
 Circuit breakers: ALL CLEAR | SH $625 queued (Alpaca blocked)
+
+---
+## 2026-07-31 11:15 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-07-31
+Market: 🔴 Correction (7/25 dist days) | Futures: ES +0.48% NQ +1.02%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+Watchlist ready 🟢: NONE (Correction gate — all longs blocked)
+Watchlist watching 🟡: NVDA 74/100 cup wk~41 no handle (~$200-202 PM est.) | INTC 60-70/100 est. blackout clears today — screener Aug 4
+Removed: none
+Key catalysts:
+  ✅ AMZN +8% AH / +13% PM: Rev $200.6B +20% AWS $42.2B +37% YoY — N-letter DOUBLE-CONFIRMED for NVDA
+  ⚠️ AAPL -7.2% PM: EPS beat $2.02 but Rev $109.4B (Services/China miss vs $111.2B est.) — AAPL Rev corrected
+  ✅ INTC blackout clears today — run canslim-screener Mon Aug 4 (not today; volatile gap +6-11%)
+  ✅ NFP CORRECTED: August 7 NOT Aug 1 (Aug 1 = Saturday)
+  🔄 RALLY ATTEMPT DAY 2 — FTD window opens Mon Aug 4 (Day 4), threshold ~7,531
+  🛢️ Brent ~$89 (easing from $92; Hormuz recovering)
+Plan: NO ENTRIES — Correction (7/25) + Alpaca Day ~164 BLOCKED + 0 candidates ≥75. Monitor dist threshold 7,422.79. INTC screener queued Aug 4. FTD watch Aug 4-7. (52nd consecutive zero-action session)

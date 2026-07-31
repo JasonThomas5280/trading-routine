@@ -47,6 +47,18 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 
 **⚠️ FOMC WEEK — HIGHEST RISK OF Q3. ZERO ENTRIES UNDER ANY CIRCUMSTANCES THIS WEEK.**
 
+**✅ Jul 31 /pre-market UPDATE (6:00 AM CT):** 🔴 CORRECTION 7/25 UNCHANGED — ES +0.48% NQ +1.02% — AMZN +13% PM BEAT / AAPL -7.2% PM MISS — 🔄 RALLY ATTEMPT DAY 2 — INTC BLACKOUT CLEARS — NFP CORRECTED AUG 7 — 0 ACTIONS
+- **Dist count: 7/25 UNCHANGED** | Dist threshold today: ~7,422.79 | Open est. ~7,473 → dist risk: LOW
+- **AMZN AWS +37% YoY BEAT:** N-letter FURTHER CONFIRMED for NVDA (joins MSFT $255-260B; AI capex double-confirmation) | AMZN +8% AH confirmed, ~+13% PM
+- **AAPL Rev CORRECTED: $109.4B (not $111.2B)** — Services/China miss → -7.2% PM despite headline EPS beat; net S&P impact roughly neutral vs AMZN
+- **NVDA +2.65-3.4% PM (~$200-202 est.)** | Score 74/100 UNCHANGED | Cup wk ~41 no handle | BLOCKED
+- **INTC +6-11% PM** — blackout clears today; HIGH VOLATILITY gap; run canslim-screener **MON AUG 4** (not today); score est. 60-70/100
+- **ARM $239.40 Jul 30 close** (recovered from -7% AH); re-eval Aug 5+ unchanged
+- **⚠️ NFP DATE CORRECTED: August 7 (NOT "Aug 1" as prior memory noted)** — Aug 1 is a Saturday
+- **FTD window opens MON AUG 4** (Day 4 of rally attempt started Jul 30) | FTD threshold: ~7,531
+- Abort: CORRECTION (7/25) + Alpaca Day ~164 BLOCKED + 0 candidates ≥75 | 0 actions | 0 trades | 52nd consecutive zero-action session
+- `pre-market_Jul31` | `websearch_fallback` | `AMZN_+13pct_PM_AWS_+37pct` | `AAPL_-7.2pct_PM_Rev109.4B_CORRECTED` | `NVDA_+2.65-3.4pct_PM` | `INTC_blackout_clears_screener_Aug4` | `NFP_CORRECTED_Aug7` | `FTD_window_Aug4-7` | `dist_threshold_7422.79`
+
 **✅ Jul 29 /market-check UPDATE (10:00 AM CT):** 🚨 IRAN CEASEFIRE BROKEN — OIL BRENT +6.6% ~$90 — S&P −0.7% — ⚠️ DIST #8 HIGH RISK — FOMC 2PM ET — 0 ACTIONS
 - **S&P intraday:** ~7,370 (−0.7% from 7,422 baseline) | Dow −760 pts / −1.4% | Nasdaq −1.0% | NVDA ~$196-197 (roughly flat; chip pain more in AMD/MU/INTC)
 - **🚨 IRAN CEASEFIRE BROKEN:** Surprise IRGC missile attack on US Jordan base (all intercepted) → Trump "will hit Iran hard" | Oil: Brent +6.6% ~$89.61, WTI +6.4% ~$84.31 — stagflation risk RE-ELEVATED
