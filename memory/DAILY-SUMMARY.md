@@ -5211,3 +5211,50 @@ Watchlist status: 0 primary ready | 4 bench watching | 0 removed
 Open positions: 0 | Total deployed: 0%
 Weekly trade count: 0 of 3 used (week Jul 28-Aug 1)
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-07-31 20:42 CT [clickup-placeholder]
+
+### Week ending 2026-07-31
+
+## Week ending 2026-07-31 (Fri) — Week 16
+
+**Context:** 19th consecutive zero-trade week. Alpaca Day ~158-166 BLOCKED. Perplexity 403. AV 403. 50th consecutive degraded session. Market: Correction 7/25 throughout.
+
+**Performance**
+- Starting equity: $2,500.00 | Ending: $2,500.00 | Return: 0.00% | vs. S&P +1.01% = -1.01% alpha
+- Trades: 0/3 weekly slots | 19th consecutive zero-trade week
+
+**Market this week**
+- Mon Jul 27: NOT dist (S&P +0.02%) ✅
+- Tue Jul 28: NOT dist (+0.13%, borderline 1.65 pts margin) ✅
+- Wed Jul 29: DIST DAY (−1.43%, FOMC hold + Iran ceasefire broken + Brent +6.6%) → Jun 23 expired (6/25) + Jul 29 added = 7/25 net unchanged
+- Thu Jul 30: NOT dist (+1.70%) — **RALLY ATTEMPT DAY 1 CONFIRMED** ✅
+- Fri Jul 31: NOT dist (+0.67%) — **RALLY ATTEMPT DAY 2 CONFIRMED** ✅ | FTD Window: Aug 4-7
+
+**Key events**
+- FOMC held rates; Iran ceasefire broken → DIST DAY Jul 29
+- AMZN +13.7% (AWS +37% YoY) = NVDA N-letter TRIPLE-CONFIRMED (MSFT+AMZN+AAPL = $455-460B GPU capex FY2027)
+- AAPL −9.2% (Services/China miss)
+- MSFT +15% (Azure CC ≥40%; $255-260B GPU capex FY2027)
+- ARM beat but −7% AH → re-eval Aug 5+
+- 30yr yield: 5.26% (2007 high) | SOXX worst July since Dec 2002 (−21.3%)
+- INTC blackout cleared Jul 31 → screener Mon Aug 4 (score revised down to 60-70/100)
+
+**Rule adherence: 100/100** — no violations; all gates honored; 0 trades = 0 violation opportunities
+
+**Top 3 lessons**
+1. FOMC hold does not prevent dist days when Iran breaks ceasefire simultaneously. The Jul 29 no-entry rule is a complexity-cluster rule, not just an announcement rule.
+2. NVDA N-letter triple-confirmed yet 74/100 holds. Base:0 penalty is the system's most important gate — never lower it for any thesis.
+3. Rally Attempt Days 1+2 confirmed. FTD Window live Aug 4-7. Discipline = wait for the confirmed print. No pre-positioning.
+
+**Next week (CRITICAL: FTD Window)**
+- FTD threshold Aug 4 (Day 4): ~7,582 (7,487 × 1.0125)
+- INTC screener: Mon Aug 4
+- ARM re-eval: Aug 5+
+- NFP: Fri Aug 7
+- Dist expiry: Aug 11 (Jul 7 → 6/25) | Aug 12 (Jul 8 → 5/25 = Under Pressure)
+- Earliest Uptrend: Aug 17-21 (nat. expiry path)
+- Emotional state: ALERT + CONTROLLED — wait for the FTD print; do not pre-position
+
+**Proposals this week:** Proposal 24 (FTD Readiness Protocol), Proposal 25 (INTC Fast-Track post-screener). All 1-23 still pending Jason approval.

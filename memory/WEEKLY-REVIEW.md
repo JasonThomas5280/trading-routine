@@ -1898,3 +1898,145 @@ Priority ranking:
 - **INTC new bench watch:** Post-blackout (Aug 1+), run canslim-screener formally. Preliminary: C-letter outstanding (EPS swing loss→$0.42, Rev +25.4% YoY); N-letter strong (18A foundry + Google AI deal + Xeon); L-letter top-decile (up 163% YTD). A-letter and base unknown (GAAP history + post-earnings consolidation needed). Est. 70-78/100 with live data. Entry requires: Confirmed Uptrend (est. Aug 17-21) + score ≥75 + Alpaca restored + base formed.
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (ALL blocked by Correction). SH hedge $625 QUEUED (Alpaca blocked). Capital at HWM since inception ($2,500.00, 15 weeks).
 - **Emotional state check:** DISCIPLINED. Cash outperformed again (−0.61% vs. 0.00%) as the Correction deepened on Thu. The temptation going into FOMC week is to "pre-position for the hike surprise" — that impulse is rejected. Pre-FOMC positioning is prediction, not reaction; CAN SLIM is a reaction system. The SH hedge is ALREADY queued for Alpaca restore; no further action needed until execution infrastructure clears. Watching NVDA build its cup base through what looks like a correction floor is correct behavior. 15 weeks of capital preservation. 0 losers. Full firepower intact. When the FTD fires and Alpaca restores, we deploy with maximum conviction. Until then: wait.
+
+---
+
+## Week ending 2026-07-31 (Fri)
+
+> **Context:** Week 16 of live operation (19th consecutive zero-trade week). Alpaca API blocked Day ~158–166 (all 5 sessions, 403 "CONNECT tunnel failed"). Perplexity 403, Alpha Vantage 403 — 46th–50th consecutive degraded sessions. All research via WebSearch fallback. Zero trades executed. Market: 🔴 Correction throughout — dist count entered the week at 7/25 (Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23), Jun 23 expired Wed Jul 29 (→ 6/25), then Jul 29 itself confirmed DIST DAY (→ 7/25) — net unchanged. FOMC held rates as expected but Iran ceasefire broken intraday → DIST DAY Wed Jul 29. Big story: Rally Attempt DAY 1 confirmed Thu Jul 30 (S&P +1.70% | 7,437.63) + Day 2 Fri Jul 31 (+0.67% | ~7,487). FTD Window: Aug 4–7. AMZN Q2 AWS +37% YoY = NVDA N-letter TRIPLE-CONFIRMED (MSFT+AMZN+AAPL chip demand). AAPL −9.2% Services/China miss. 30yr yield 5.26% (2007 high). SOXX worst July since Dec 2002 (−21.3%). Alpaca still BLOCKED (Day ~166).
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Jul 27 open — 100% cash, carry-in from Week 15)
+- Ending equity: $2,500.00 (Fri Jul 31 close — unchanged; 0 trades executed)
+- Weekly return: **0.00%** (vs. S&P 500 Jul 24 close 7,411.98 → Jul 31 close ~7,487 = **+1.01%** → **−1.01% alpha**)
+- Trades taken: **0** (max 3/week, used 0 — **19th consecutive 0-trade week**)
+- Winners: 0 (avg N/A) | Losers: 0 (avg N/A) | W:L ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Root causes of zero trades:**
+  1. Alpaca API 403 blocked all 5 sessions (Day ~158–166) — execution hard-halted per TRADING-STRATEGY.md
+  2. Market state: 🔴 Correction (7/25) — all long entries blocked
+  3. FOMC Decision Day hard prohibition (Wed Jul 29) — no entries regardless of other gates
+  4. NVDA 74/100 (bench only; 1 pt below threshold; cup wk ~40-41; no handle)
+  5. Zero candidates ≥75 for 19th consecutive week
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any −7% stops hit manually? **N/A** (no positions — 34th consecutive EOD with 0 open positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries on Alpaca-blocked sessions? **NO** — hard rule honored all 5 sessions (19th consecutive week)
+- FOMC Decision Day prohibition honored (Jul 29)? **YES** — no entry attempts
+- Any entries during Correction? **NO** — Correction gate honored every session
+- Any conviction-score workarounds? **NO** — NVDA held at 74/100 block; INTC blackout respected; ARM re-eval window Aug 5+ honored
+- SH hedge status? **QUEUED** — Alpaca blocked; cannot place; first order on restore
+- Circuit breakers triggered? **NONE** (daily −3%, weekly −6%, drawdown −12%, PDT — all CLEAR)
+- **Adherence score: 100/100** *(Sixteenth consecutive perfect score. Behavioral notes: (1) FOMC + Iran ceasefire broken + Jul 29 dist day = highest-complexity session of Q3; system navigated with zero improvisation. (2) AMZN +13.7% AWS blowout created maximum temptation to pre-position NVDA — held on Correction gate + 74/100 sub-threshold + Alpaca blocked. (3) INTC blackout honored through Jul 31 despite bull thesis; screener queued Mon Aug 4 as planned.)*
+
+### Market Direction Accuracy
+
+- M state at week start: **🔴 Market in Correction** (7/25 dist days — Active: Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23)
+- M state at week end: **🔴 Market in Correction** (7/25 dist days — Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29)
+- Net change: Jun 23 expired Wed Jul 29 → 6/25; Jul 29 itself = new DIST DAY → 7/25. Count net unchanged on different composition.
+
+| Date | S&P Close | Change | Dist Day? | Running Count | Notes |
+|---|---|---|---|---|---|
+| Jul 27 (Mon) | ~7,413.18 | +0.02% | **NO** ✅ | 7/25 | Iran ceasefire (weekend) → Brent $89 (collapsed from $100). Pre-FOMC quiet. NOT dist. ✅ |
+| Jul 28 (Tue) | ~7,422 | +0.13% | **NO** ✅ | 7/25 | FOMC Day 1. Chip rout; 9/11 sectors positive. Borderline (only 1.65 pts above −0.20% dist threshold). Ruled NOT dist correctly. ✅ |
+| Jul 29 (Wed) | ~7,316.15 | −1.43% | **YES — DIST #8** (net 7/25) | 7/25 | FOMC held but Iran ceasefire broken (IRGC missiles on US Jordan base) + Brent +6.6% to ~$90 + bond selloff. Jun 23 expired (6/25) then Jul 29 added (7/25). AH: MSFT +15% AH beat; ARM beat −7% AH; META beat/capex shock −4% AH. ✅ |
+| Jul 30 (Thu) | 7,437.63 | +1.70% | **NO** ✅ | 7/25 | GDP Q2 +1.5% miss / Core PCE +0.1% beat = dovish read; MSFT +15%; QQQ vol +36.7% above avg. **🆕 RALLY ATTEMPT DAY 1 CONFIRMED.** NOT FTD-eligible by definition. NOT dist. ✅ |
+| Jul 31 (Fri) | ~7,487 | +0.67% | **NO** ✅ | 7/25 | AMZN +13.7% AWS +37%; AAPL −9.2% Services/China miss. **🔄 RALLY ATTEMPT DAY 2 CONFIRMED.** FTD Window: Aug 4–7. NOT dist. ✅ |
+
+- Any missed distribution days? **None.** Jul 28 borderline (+0.13%, 1.65 pts above threshold) correctly NOT counted.
+- FTD status: **LIVE — FTD Window Aug 4 (Day 4) → Aug 7 (Day 7).** Threshold: ≥+1.25% close on elevated volume. Day 4 threshold (Aug 4): ~7,582 (7,487 × 1.0125). Rally low 7,266.99 = ~220 pts below Fri close → firm cushion. NFP Aug 7 is wild card for FTD trigger.
+- Accuracy verdict: **CLEAN** — all M calls correct for 16th consecutive week.
+
+### Sector Performance
+
+- Sectors we traded: **NONE** (no trades — Correction)
+
+| Sector | Weekly Direction | Notes |
+|---|---|---|
+| **XLK Semis** | ↔️ bear-month bounce | SOXX worst July since Dec 2002 (−21.3%); Fri: NVDA +1.26% / INTC +1.60% / ARM +2.78% = month-end short-covering + relief; structural damage not repaired |
+| **XLC Communication** | ⬆️ AMZN-led | AMZN AWS +37% beat elevated XLC; sector RS improving from dead-last positioning |
+| **XLK Mega-Cap** | ⬇️ AAPL drag | AAPL −9.2% largest negative Dow contributor; offset by AMZN |
+| **XLI Industrials** | ↔️ best RS | 3rd consecutive week of best relative strength; AI infra + defense steady |
+| **XLP Consumer Staples** | ↔️ defensive | Held value during FOMC + Iran volatility; defensive rotation intact |
+| **XLE Energy** | volatile | Brent: $85 Mon (ceasefire) → $90 Wed (ceasefire broken) → ~$89 Fri. Non-directional. |
+
+- **4-week sector RS entering next week:** #1 XLI Industrials, #2 XLP Consumer Staples, #3 XLC Communication (AMZN/MSFT week). AVOID: XLK (needs FTD confirmation before re-entry), XLF (30yr 5.26%), XLRE (rate-sensitive).
+- Sectors to blacklist: **None** (zero trades since inception)
+
+### Conviction Correlation
+
+- Trades with conviction ≥85: 0 — N/A
+- Trades with conviction 75–85: 0 — N/A
+- Sub-threshold correctly blocked:
+  - **NVDA: 74/100 UNCHANGED** — Cup wk ~41; no handle. N-letter TRIPLE-CONFIRMED this week (MSFT $255-260B + AMZN AWS $42.2B +37% + AAPL chip demand = $455-460B combined GPU capex FY2027). Base:0 penalty overrides all news tailwinds. Est. 78-82/100 at next re-score with handle + Uptrend + live data. BLOCKED.
+  - **INTC: UNSCORED (blackout through Jul 31)** — Cleared Jul 31. Score estimate REVISED DOWN to 60-70/100 (from 70-78/100: Samsung weakness read-through; GAAP multi-year loss history; $20B capex burden; July price erosion −21%). Run canslim-screener Mon Aug 4.
+  - **ARM: UNSCORED (post-earnings blackout)** — Reported Jul 29 AMC (beat EPS $0.45 + Rev $1.29B but −7% AH; AI capex sustainability fear). Re-eval Aug 5+. GAAP C-letter assessment is the key gate.
+  - **MRVL: ~15-25/100** — broken structure; watch-only; 8+ wk rebuild ongoing.
+  - **GOOGL: ~60-65/100** — watch-only; blackout through Aug 5+.
+- **19th consecutive week with zero candidates ≥75.** Pipeline functioning correctly.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (blocked Days ~158–166 — 19th consecutive 0-perplexity week; 50th consecutive degraded session at Fri close)
+- Sessions on websearch_fallback: **~15** (5 days × ~3 routines/day)
+- Sessions DEGRADED: **0** (WebSearch consistently available)
+- Research source for trades placed: **N/A** (no trades)
+- **Data quality events:**
+  - AAPL revenue corrected to $109.4B (was $111.2B in prior memory) — caught at Jul 31 /pre-market via WebSearch. Correction logged cleanly.
+  - NFP date corrected to Aug 7 (was "Aug 1" — Aug 1 is Saturday; first Friday of August = Aug 7). Caught at Jul 31 /pre-market.
+  - Jul 29 dist day: FOMC hold narrative made this session ambiguous (expected relief rally vs. actual −1.43%). Iran ceasefire break was the decisive driver; WebSearch caught the geopolitical development in time to avoid false-positive state call.
+  - Jul 28 borderline (S&P +0.13%, threshold margin 1.65 pts): correctly held at NOT dist. Given WebSearch ±0.2-0.3% index-close estimation error, this call had meaningful uncertainty. Rule correctly says "not dist unless confirmed below −0.20%" — ambiguity defaults to NOT counting.
+
+### Lessons
+
+**Lesson 1 — Market: The FOMC hold didn't matter — the Iran catalyst did. Never pre-position around a single expected outcome when multiple simultaneous events are in play.**
+FOMC held (expected; 64-70% probability). Within minutes, Iran ceasefire broke (surprise). S&P closed −1.43% on what should have been a relief day. The Jul 29 hard prohibition on entries (FOMC Decision Day) was not about the FOMC outcome — it was about the systemic risk of simultaneous complex events converging on the same session. FOMC + mega-cap earnings AH (META/MSFT/ARM) + geopolitical wildcard = a session where almost anything could happen. The rule protected capital. Conclusion: the FOMC Day 2 prohibition is not a "wait for the announcement" rule — it's a "high-complexity simultaneous event cluster" rule and should stay exactly as written.
+
+**Lesson 2 — Strategy: NVDA's N-letter is now triple-confirmed at historic scale, yet 74/100 is the correct score. The Base:0 penalty is the system's most important single gate.**
+Three mega-cap confirmations in one week: MSFT ($255-260B GPU capex FY2027), AMZN AWS (+37% YoY), and AAPL chip demand — $455-460B combined AI infrastructure spend. The N-letter thesis for NVDA has never been stronger in 19 weeks of operation. And yet the system correctly holds at 74/100. The Base:0 penalty is not about doubting the business — it's about price structure. A cup without a handle means buyers haven't been tested by a secondary shakeout. The handle is where weak holders flush and the base reloads. Entering mid-cup at 74/100 is still chasing. At 82-85/100 (handle + Uptrend + live data), the entry will be unambiguous. **Never lower the Base:0 gate for any thesis, however obvious the fundamental story looks.**
+
+**Lesson 3 — Execution: Rally Attempt Days 1-2 confirmed — this may be the directional pivot of Q3 2026. The system must be in maximum-readiness posture, not pre-positioned.**
+Day 1 (Jul 30 +1.70%) + Day 2 (Jul 31 +0.67%) = FTD window Aug 4-7. Rally low 7,266.99 is 220 pts below Fri close — cushion is solid. If FTD fires: buy SH exit within 2 sessions; begin entry queue evaluation (INTC screener Mon Aug 4; ARM re-eval Aug 5+; NVDA handle watch). If FTD fails (S&P below 7,266.99): new Day 1 required; stay in Correction. The discipline: react to the actual close ≥+1.25% on volume — don't pre-position "because I know it's going up." 19 weeks of capital preservation would be wasted by one premature entry. **The FTD is the trigger. Everything before that is preparation, not action.**
+
+### Proposed Rule Changes
+
+**Proposal 24 — NEW: "FTD Readiness Protocol" — trigger checklist at Rally Attempt Day 1 confirmed.**
+When /eod-review confirms Rally Attempt Day 1, the NEXT MORNING'S /pre-market must include:
+(a) Confirm rally intact (S&P above Day 1 close)
+(b) Alpaca API health check — confirm execution infrastructure before FTD fires
+(c) List names in FTD entry queue (score ≥75 + base pattern; currently: none)
+(d) SH exit size + GTC cancel plan ready
+Rationale: prevents 45-min readiness assessment delay if FTD fires at 10:00 AM CT Aug 4 while we're reading overnight news. Decision tree should be pre-loaded at 6:00 AM Day 2 morning.
+Status: **NEW — pending Jason approval.**
+
+**Proposal 25 — NEW: "Post-Screener Fast-Track" — if INTC scores ≥75 on Aug 4 screener AND FTD fires in the same window, document entry plan immediately (not at Sunday /weekly-prep).**
+If canslim-screener Aug 4 returns INTC ≥75 and FTD fires Aug 4-7, the entry window is that same week (within 5% of pivot). Deferring documentation to Sunday /weekly-prep loses 2-3 sessions of the buy zone. The plan — position sizing, stop placement, base pattern confirmation — should be logged within 2 hours of the screener completing.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–23 from prior weeks:** ALL still pending Jason approval.
+Current priority ranking: (1) Proposal 24 (FTD Readiness Protocol — live this week), (2) Proposal 25 (INTC Fast-Track — live Mon Aug 4), (3) Proposal 1 (Alpaca API health check — Day 166; most overdue), (4) Proposals 20-23 (data quality protocols).
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🔴 Market in Correction (7/25 dist days: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29). **⚡ CRITICAL: FTD Window Aug 4–7 (Days 4–7 of rally attempt).** FTD threshold Day 4 (Aug 4): ~7,582. S&P currently −0.63% below 50d MA ~7,534 — FTD would push it above. If FTD fires → Uptrend confirmed → SH exit + entry queue. If S&P closes below 7,266.99 (rally low; 220 pts below) → rally attempt dead → new Day 1 needed. This is the most important market week of Q3.
+- **Sectors in focus:**
+  1. **XLK Technology/Semis** — if FTD fires, XLK likely leads; INTC screener Mon Aug 4; ARM re-eval Aug 5+; NVDA cup wk ~42 handle-watch
+  2. **XLI Industrials** — best RS 3 consecutive weeks; AI infra + defense; second entry candidate if FTD fires
+  3. **XLP Consumer Staples** — defensive hold; de-risk if FTD fails
+  - **AVOID in Correction:** XLF (30yr 5.26%+), XLRE (rate-sensitive)
+- **Calendar risks (week of Aug 4-8):**
+  - **Mon Aug 4 — INTC canslim-screener:** Blackout cleared. Live data scoring. A-letter GAAP history = critical gate. Score est. 60-70/100.
+  - **Mon–Fri Aug 4-7 — FTD Window:** Every session is a potential Uptrend trigger. Maximum attention.
+  - **Wed Aug 5+ — ARM re-evaluation:** Post-earnings blackout clears. GAAP C-letter = the gate.
+  - **Fri Aug 7 — NFP (corrected from prior "Aug 1"):** Strong labor = potential FTD catalyst OR dist day risk (stagflation). High-volatility day. No entries before 8:30 AM ET.
+  - **Tue Aug 12 — Jul 8 dist expires → 5/25:** Transitions to Under Pressure if Uptrend not yet declared via FTD.
+  - **~Aug 17-21:** Earliest Uptrend via natural expiry path only (no FTD).
+  - **~Aug 20 — NVDA earnings blackout begins:** NVDA ~cup wk 42-43; handle watch; blackout = no entry Aug 20+.
+- **SH hedge status:** QUEUED — Alpaca Day ~166 BLOCKED. First action on Alpaca restore: cancel SH order IF FTD has fired by then; or place SH order if still in Correction.
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (blocked by Correction). Capital at HWM since inception ($2,500.00, 16 weeks).
+- **Emotional state check:** ALERT and CONTROLLED — not FOMO. The FTD window opens Monday. This is the moment the system has been building toward for 19 weeks. The discipline is to NOT pre-position, to wait for the actual confirmed close, and to execute the checklist when the signal fires. Pre-positioning "because it looks like it's going up" would violate everything the system is built on. The playbook says react; react means wait for the print. If it fires, deploy. If it doesn't, stay flat. 19 weeks of preserved capital is the dry powder — spend it on confirmed signals only.

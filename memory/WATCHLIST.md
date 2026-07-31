@@ -36,6 +36,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-07-28 to 2026-08-01 — **STALE — archived via /weekly-review Fri Jul 31; rebuild via /weekly-prep Sun Aug 3**
+
+> Archived week of Jul 28–Aug 1. Market state: 🔴 Correction (7/25 dist days at close — Jun 23 expired Jul 29 → 6/25; Jul 29 DIST DAY added → net 7/25). Zero primary candidates (19th consecutive week). NVDA 74/100 (bench, cup wk ~41, no handle; N-letter TRIPLE-CONFIRMED MSFT+AMZN+AAPL this week). INTC blackout cleared Jul 31 → run canslim-screener Mon Aug 4 (score est. 60-70/100 downgraded). ARM re-eval window Aug 5+ (reported Jul 29 AMC beat but −7% AH). MRVL ~15-25/100 (watch-only). GOOGL ~60-65/100 (watch-only; blackout Aug 5+). SH $625 QUEUED (Alpaca Day ~166 BLOCKED). **Rebuild required Sun Aug 3 /weekly-prep before Mon /pre-market.** ⚡ CRITICAL NEXT WEEK: FTD Window Aug 4–7 (Days 4-7 of rally attempt started Jul 30). FTD threshold Day 4: ~7,582. NFP Aug 7. INTC screener Mon Aug 4. ARM re-eval Aug 5+. Dist expiry Aug 11 (Jul 7 → 6/25) + Aug 12 (Jul 8 → 5/25 = Under Pressure). Earliest Uptrend via nat. expiry: ~Aug 17-21.
+
 ## ⛔ CURRENT — Week of 2026-07-28 to 2026-08-01 — REBUILT Sun Jul 27 /weekly-prep
 
 **Built:** 2026-07-27 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
