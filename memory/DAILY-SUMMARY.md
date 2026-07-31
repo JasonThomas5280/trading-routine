@@ -1,5 +1,23 @@
 
 ---
+## 2026-07-31 15:15 CT [eod-review — 🔴 CORRECTION 7/25 — S&P CONF ~7,487 +0.67% NOT DIST ✅ — RALLY DAY 2 CONF — AAPL −9.2% | AMZN +13.7% — 30YR 5.26% — 0 POSITIONS — 0 ACTIONS]
+
+📊 EOD 2026-07-31 | Equity $2,500.00 (+0.00% day, +0.00% week, +0.00% month)
+Open: 0 positions, 100% cash
+Distribution days: 7/25 (market: 🔴 Correction) — NO NEW DIST DAY TODAY ✅
+Actions today:
+  • NONE — Correction gate (7/25 ≥6) + Alpaca Day ~166 BLOCKED
+Sell-rules-engine: SKIPPED (0 positions — 34th consecutive)
+Close: S&P ~7,487 (+0.67%) | Nasdaq ~+1.32% | Dow ~+0.38%
+Rally Attempt: DAY 2 CONFIRMED ✅ | FTD window Aug 4–7 (threshold ≥+1.25% elevated vol)
+AMZN +13.7% (AWS +37% Q2) | AAPL −9.2% (supply/China/Services miss)
+30yr yield 5.26% (2007 high) | 10yr 4.7%+ | Multiple compression headwind continues
+July month-end: S&P net ≈ −0.16% | SOXX worst July since 2002 (−21.3%)
+Circuit breakers: ALL CLEAR | Week Jul 28: 0/3 trades (19th zero-trade week)
+Tomorrow (Mon Aug 4): INTC re-score via canslim-screener | Rally Attempt Day 5 (FTD window) | Watch for FTD (≥+1.25% elevated vol closes uptrend)
+`eod_Jul31` | `websearch_fallback` | `Alpaca_Day166_BLOCKED` | `50th_degraded_session` | `54th_zero_action_session`
+
+---
 ## 2026-07-30 06:00 CT [pre-market — 🔴 CORRECTION 7/25 — MSFT BEAT AH / ARM -7% AH — ES +0.4% NQ +0.7% — GDP+PCE 8:30 ET — AMZN+AAPL AMC — 0 POSITIONS — 0 ACTIONS]
 
 🌅 Pre-market 2026-07-30

@@ -6,7 +6,7 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 31 /market-check — S&P ~7,445 +0.1% NO DIST DAY ✅ | DIST 7/25 UNCHANGED | 🔄 RALLY ATTEMPT DAY 2 INTACT | FTD WINDOW: Aug 4–7 | FTD THRESHOLD: ~7,531 | SOXX WORST JULY SINCE 2002 (−21.3%) | AAPL -7.2% ONGOING | AMZN STRONG / NVDA N-LETTER TRIPLE-CONFIRMED | 10YR 4.737% / 30YR 5.22% | ALPACA DAY ~165 BLOCKED | 0 POSITIONS | 0 ACTIONS | EARLIEST FTD: Aug 4–7 | EARLIEST UPTREND: Aug 17–21)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 31 /eod-review — S&P CONF ~7,487 (+0.67% NOT DIST DAY ✅) | Nasdaq ~+1.32% | Dow ~+0.38% | DIST 7/25 UNCHANGED | 🔄 RALLY ATTEMPT DAY 2 CONFIRMED ✅ | FTD WINDOW: Aug 4–7 | FTD THRESHOLD: ≥+1.25% elevated vol (Day 4-7; ~7,582 est Aug 4) | AAPL −9.2% SUPPLY/CHINA | AMZN +13.7% AWS +37% | 30YR 5.26% 2007 HIGH | 10YR 4.7%+ | ALPACA DAY ~166 BLOCKED | 0 POSITIONS | 0 ACTIONS | EARLIEST FTD: Aug 4 | EARLIEST UPTREND: Aug 17–21)*
 
 **✅ JUL 31 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.48% NQ +1.02% — AMZN +13% PM BEAT / AAPL -7.2% PM SERVICES MISS — 🔄 RALLY ATTEMPT DAY 2 — INTC BLACKOUT CLEARS TODAY — NFP CORRECTED AUG 7 — ALPACA DAY ~164 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~164 BLOCKED | Perplexity 403 | AV 403 | 48th consecutive degraded session
@@ -47,6 +47,31 @@
 - **Distribution count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 | Next expiry: Mon Aug 11 (Jul 7 → 6/25) | Earliest Uptrend: ~Aug 17–21
 - **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Jul 28: 0/3 trades | 0 positions
 - `market-check_Jul31` | `websearch_fallback` | `Alpaca_Day165_BLOCKED` | `49th_degraded_session` | `53rd_zero_action_session` | `SPX_~7445_+0.1pct_NO_DIST_DAY` | `dist_7of25_UNCHANGED` | `dist_threshold_7422.79` | `RALLY_ATTEMPT_DAY2_INTACT` | `FTD_WINDOW_Aug4-7` | `FTD_THRESHOLD_~7531` | `AAPL_-7.2pct_ongoing` | `AMZN_strong_AWS_+37pct_triple_capex_confirmed` | `NVDA_N_letter_triple_confirmed` | `SOXX_worst_July_since_2002_-21.3pct` | `NVDA_+1.26pct_est` | `INTC_+1.60pct_blackout_cleared_screener_Aug4` | `INTC_score_60-70_downgrade` | `ARM_+2.78pct_reeval_Aug5` | `10yr_4.737pct_highest_since_Jan2025` | `30yr_5.22pct_2007_levels` | `yield_headwind_primary` | `rally_turned_mixed_from_peak_+0.67pct`
+
+**✅ JUL 31 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CONF ~7,487 (+0.67% | NOT DIST DAY ✅) — NASDAQ ~+1.32% | DOW ~+0.38% +278 PTS — DIST 7/25 UNCHANGED — 🔄 RALLY ATTEMPT DAY 2 CONFIRMED — FTD WINDOW Aug 4–7 — AAPL −9.2% SUPPLY/CHINA MISS | AMZN +13.7% AWS BEAT — 30YR 5.26% 2007 HIGH — ALPACA DAY ~166 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~166 BLOCKED | Perplexity 403 | AV 403 | 50th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6 threshold) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken | 54th consecutive zero-action session
+- **S&P 500 Jul 31 CONFIRMED close: ~7,487 (+0.67% from 7,437.63)** | NOT DISTRIBUTION DAY ✅
+  - Price: +0.67% → well above dist threshold 7,422.79 (7,437.63 × 0.998) | UP day = no dist day possible
+  - Drivers: AMZN +13.7% on AWS +37% Q2 beat; partially offset by AAPL −9.2% supply/China/Services miss
+  - Sources: Bloomberg / TheStreet / market-wrap Jul 31 2026
+- **Nasdaq: ~+1.32% (~25,454)** | **Dow: ~+0.38% (+278 pts, ~52,406)**
+- **Distribution count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **State transition: NONE** (Correction continues; ≥6 rule; 7/25; SPY ~0.63% below 50d MA ~7,534)
+- **🔄 RALLY ATTEMPT DAY 2 CONFIRMED ✅** — Day 1 = Jul 30 (7,437.63); Day 2 = Jul 31 (~7,487); closed UP + above rally low 7,266.99 (~220 pts cushion) ✅
+  - **FTD Window: Day 4 = Aug 4 (Mon) → Day 7 = Aug 7 (Fri)**
+  - **FTD Threshold: ≥+1.25% on elevated volume** any day Aug 4–7; if Day 4 (Aug 4): ~7,582 (7,487 × 1.0125)
+  - Rally low 7,266.99 = ~220 pts below close → strong cushion; rally attempt firmly intact
+- **⚠️ AAPL confirmed close −9.2%:** Supply chain constraints → iPhone price hikes → China channel softness + Services miss; forward guidance weak; worst single-day AAPL drop in months
+- **AMZN +13.7% (close):** AWS $42.2B +37% Q2 = largest quarterly AWS growth in 2 yrs; AI infrastructure demand TRIPLE-CONFIRMED (MSFT $255-260B + AMZN AWS + AAPL chip demand); August thesis for NVDA N-letter intact
+- **30yr yield: 5.26%** (highest since Jul 2007 — above 5% for 30+ days; multiple compression headwind persists)
+- **Month-end (Jul 31 = last trading day of July 2026):** S&P July net: Jul 1 open ~7,499 → Jul 31 close ~7,487 = approx −0.16% net for month | SOXX worst July since Dec 2002 (−21.3%)
+- **50d MA (est. ~7,534):** S&P ~7,487 = ~**−0.63% BELOW** (improving from −1.28% yesterday; gap closing)
+- **Dist expiry schedule (unchanged):** Aug 11: Jul 7 → 6/25 | Aug 12: Jul 8 → 5/25 (→ Under Pressure if SPY above 50d MA) | **Earliest Uptrend (natural path): ~Aug 17–21**
+- **Sell-rules-engine: SKIPPED** (0 open positions — 34th consecutive EOD)
+- **SH $625 QUEUED:** Unchanged — Alpaca BLOCKED
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Daily P&L: $0 | Weekly P&L: $0 | 0 positions | Week Jul 28: 0/3 trades
+- `eod_Jul31` | `websearch_fallback` | `Alpaca_Day166_BLOCKED` | `50th_degraded_session` | `54th_zero_action_session` | `SPX_CONF_~7487_+0.67pct_NOT_DIST` | `dist_7of25_UNCHANGED` | `Nasdaq_~+1.32pct_~25454` | `Dow_~+0.38pct_~52406` | `RALLY_ATTEMPT_DAY2_CONF_Jul31` | `FTD_WINDOW_Aug4-7` | `FTD_THRESHOLD_+1.25pct_elevated_vol_day4-7` | `rally_low_7266.99_220pts` | `AAPL_-9.2pct_supply_chain_china` | `AMZN_+13.7pct_AWS_+37pct` | `30yr_5.26pct_2007_high` | `10yr_4.7pct_plus` | `July_net_-0.16pct` | `SOXX_worst_july_2002_-21.3pct`
 
 **✅ JUL 30 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P CONF 7,437.63 (+1.70% | NOT DIST DAY ✅) — NASDAQ +2.8% 25,122.18 | DOW +1.2% 52,208.06 — DIST 7/25 UNCHANGED — 🆕 RALLY ATTEMPT DAY 1 CONFIRMED (Jul 30) — FTD WINDOW Aug 4–7 — AMZN +6% AH BEAT | AAPL BEAT $2.01 EPS $111.2B REV — ALPACA DAY ~163 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~163 BLOCKED | Perplexity 403 | AV 403 | 47th consecutive degraded session

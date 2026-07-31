@@ -46,6 +46,60 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-31 (Fri) — /eod-review (3:15 PM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P CONF ~7,487 +0.67% NOT DIST DAY ✅ — NASDAQ ~+1.32% — RALLY ATTEMPT DAY 2 CONFIRMED — AAPL −9.2% | AMZN +13.7% — 30YR 5.26% — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~166 BLOCKED | Perplexity 403 | AV 403 — 50th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days unchanged)
+**Sector leaders (EOD Jul 31):** Consumer Discretionary (AMZN +13.7%), XLK-semis (relief bounce), XLC
+**Sector laggards (EOD):** XLK-Mega-Cap (AAPL −9.2%), XLRE (rate-sensitive), XLF (yield headwind)
+
+### Close: Jul 31, 2026
+
+**Close:** S&P 500 ~$7,487 (+0.67%) | QQQ est. ~$693+ (Nasdaq ~+1.32%) | Dow ~+0.38% (+278 pts, ~52,406)
+**Distribution days:** 7/25 trailing (today: NOT a dist day — UP +0.67% ✅)
+**Market state:** 🔴 Market in Correction (7/25 ≥6 threshold; unchanged)
+**State transition today:** NONE
+
+### Distribution day check
+
+- S&P Jul 31 close: ~7,487 (+0.67%) vs threshold 7,422.79 (7,437.63 × 0.998)
+- Result: UP day → NO DIST DAY ✅
+- Dist count: 7/25 UNCHANGED | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+
+### Rally Attempt status
+
+- Day 1: Jul 30 (7,437.63) | Day 2: Jul 31 (~7,487) — CONFIRMED ✅ (well above rally low 7,266.99)
+- FTD window: Aug 4–7 (Days 4–7)
+- FTD threshold: ≥+1.25% on elevated vol any day Aug 4–7 (est. ~7,582 if Day 4 Aug 4)
+- Earliest Uptrend (dist path): Aug 17–21
+
+### Key EOD catalysts
+
+- AMZN +13.7% close: AWS $42.2B +37% YoY — largest quarterly growth in 2 yrs; AI capex TRIPLE-CONFIRMED (MSFT+AMZN+AAPL)
+- AAPL −9.2% close: supply constraints + iPhone price hikes + China channel + Services miss confirmed; forward guidance weak
+- 30yr yield: 5.26% (2007 high); 10yr: 4.7%+ — multiple compression headwind intact
+- Month-end: S&P July net ≈ −0.16% (opened ~7,499 Jul 1, closed ~7,487 Jul 31) | SOXX −21.3% worst July since 2002
+
+### Sell-rules-engine results
+
+- **Positions evaluated: 0**
+- **Result: SKIPPED** (34th consecutive zero-position EOD)
+- No orders placed. No stops adjusted.
+
+### Circuit breaker check
+
+- Daily P&L: $0 (0%) — no positions
+- Weekly P&L: $0 (0%) — no positions
+- All circuit breakers: ALL CLEAR ✅
+
+### Actions
+
+NONE. 54th consecutive zero-action session. Correction gate + Alpaca BLOCKED.
+
+`eod-review_Jul31` | `research_source: websearch_fallback` | `Alpaca_Day166_BLOCKED` | `sell_rules_skipped_34th` | `dist_7of25_UNCHANGED` | `RALLY_DAY2_CONF` | `FTD_window_Aug4-7`
+
+---
+
 ## 2026-07-31 (Fri) — /market-check (10:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P ~7,445 +0.1% NO DIST DAY ✅ — RALLY ATTEMPT DAY 2 INTACT — AAPL -7.2% ONGOING — SOXX WORST JULY SINCE 2002 — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~165 BLOCKED | Perplexity 403 | AV 403 — 49th consecutive degraded session)
