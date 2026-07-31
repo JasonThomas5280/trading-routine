@@ -46,6 +46,51 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-07-31 (Fri) — /market-check (10:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P ~7,445 +0.1% NO DIST DAY ✅ — RALLY ATTEMPT DAY 2 INTACT — AAPL -7.2% ONGOING — SOXX WORST JULY SINCE 2002 — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~165 BLOCKED | Perplexity 403 | AV 403 — 49th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days unchanged)
+**Sector leaders (intraday Jul 31):** Consumer Discretionary (AMZN-led), XLK-semis (relief bounce), XLC (AMZN-adjacent)
+**Sector laggards (intraday):** XLK Mega-Cap (AAPL -7.2%), XLF (yield spike headwind), XLRE (rate-sensitive)
+
+### Market check
+
+- S&P 500: ~+0.1% intraday (~7,445) | Dist threshold 7,422.79 → NO DIST DAY ✅ (22 pts above threshold)
+- Rally Attempt Day 2: INTACT | FTD window Aug 4-7 | FTD threshold ~7,531
+- Dist count: 7/25 UNCHANGED (Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29)
+- 10yr yield: 4.737% (highest since Jan 2025) | 30yr: 5.22% (2007 levels) — primary cause of morning rally reversal
+
+### Key catalysts
+
+- AMZN Q2 2026: Rev $200.6B (+20% YoY) | AWS $42.2B (+37% YoY) — extending gains today; NVDA N-letter TRIPLE-CONFIRMED with MSFT ($255-260B) + AMZN (AWS) + AAPL chip demand
+- AAPL: continuing -7.2% decline from PM; Services/China miss confirmed; component costs rising; forward guidance weak
+- SOXX: worst July since December 2002 (-21.3% for the month); today's chip rally = month-end relief bounce (NVDA +1.26% / INTC +1.60% / ARM +2.78%)
+- No macro data today; NFP CORRECTED to Aug 7
+
+### Bench watch
+
+- NVDA: +1.26% | 74/100 UNCHANGED | Cup wk ~41 no handle | N-letter TRIPLE-CONFIRMED | re-score Aug-Sep 2026 est. 78-82/100 with handle+Uptrend | BLOCKED
+- INTC: +1.60% | Blackout CLEARED today | Screener MON AUG 4 (today too volatile; gap+bear-month-bounce not scoring day) | Score DOWNGRADED to est. 60-70/100 (from 70-78: Samsung read-through + GAAP multi-year loss history + $20B capex burden + July -21% price erosion)
+- ARM: +2.78% | Re-eval window Aug 5+ (post-Jul-29 earnings blackout) | No scoring today
+- MRVL: 15-25/100 watch-only | No change | GOOGL: 60-65/100 watch-only | No change
+
+### Abort gates
+
+- ⛔ GATE 1: Market in Correction (7/25 dist days ≥6 threshold) → no new longs
+- ⛔ GATE 2: Alpaca Day ~165 BLOCKED (403) → no order execution
+- ✅ GATE 3: Research partially available (websearch_fallback — degraded but not DEGRADED)
+- ✅ Circuit breakers: ALL CLEAR
+- ✅ Weekly trades: 0/3 (has room — irrelevant given gates 1+2)
+- ✅ Cash: $2,500 / 100% (HWM)
+
+### Actions
+
+NONE. 53rd consecutive zero-action session. Correction gate + Alpaca blocked.
+
+`market-check_Jul31` | `research_source: websearch_fallback` | `Alpaca_Day165_BLOCKED`
+
+---
+
 ## 2026-07-30 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P ~7,381 +0.88% NO DIST DAY ✅ — GDP MISS / CORE PCE BEAT — MSFT +15% NARROW RALLY — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** `websearch_fallback` (Alpaca: 403 BLOCKED Day ~163; Perplexity: 403; AV: 403 — 46th consecutive degraded session)

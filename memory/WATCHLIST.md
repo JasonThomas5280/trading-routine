@@ -59,6 +59,20 @@ Alpaca: Day ~156 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - Abort: CORRECTION (7/25) + Alpaca Day ~164 BLOCKED + 0 candidates ≥75 | 0 actions | 0 trades | 52nd consecutive zero-action session
 - `pre-market_Jul31` | `websearch_fallback` | `AMZN_+13pct_PM_AWS_+37pct` | `AAPL_-7.2pct_PM_Rev109.4B_CORRECTED` | `NVDA_+2.65-3.4pct_PM` | `INTC_blackout_clears_screener_Aug4` | `NFP_CORRECTED_Aug7` | `FTD_window_Aug4-7` | `dist_threshold_7422.79`
 
+**✅ Jul 31 /market-check UPDATE (10:00 AM CT):** 🔴 CORRECTION 7/25 UNCHANGED — S&P ~7,445 +0.1% NO DIST DAY ✅ — RALLY ATTEMPT DAY 2 INTACT — AAPL -7.2% ONGOING — SOXX WORST JULY SINCE 2002 (−21.3%) — 10YR 4.737% / 30YR 5.22% — NVDA +1.26% / INTC +1.60% / ARM +2.78% — 0 ACTIONS
+- **Dist count: 7/25 UNCHANGED** | Dist threshold: 7,422.79 | S&P ~7,445 = ~22 pts above threshold → **NO DIST DAY TODAY ✅** | Market turned mixed (was +0.67% early; reversed on yield spike + AAPL drag)
+- **🔄 RALLY ATTEMPT DAY 2: INTACT ✅** | FTD window Aug 4-7 | FTD threshold ~7,531 | Rally low 7,266.99 = ~178 pts below
+- **AAPL ongoing -7.2%:** Services/China miss playing out in regular session; forward outlook weak; component costs rising | AAPL drag roughly offset by AMZN strength
+- **AMZN strong:** AWS +37% YoY = NVDA N-letter TRIPLE-CONFIRMED (MSFT+AMZN+AAPL this week; $455-460B combined GPU capex FY2027)
+- **⚠️ SOXX −21.3% for July — worst since December 2002** | Today's chip rally (NVDA +1.26% / INTC +1.60% / ARM +2.78%) = month-end relief bounce; structural damage severe
+- **Yield headwind primary:** 10yr 4.737% (highest since Jan 2025) | 30yr 5.22% (2007 levels) | Bond market driving morning rally reversal
+- **NVDA 74/100 UNCHANGED:** +1.26% today (~$192-204 est.) | Cup wk ~41; no handle | N-letter TRIPLE-CONFIRMED | Screener re-score trigger: handle completion + Uptrend + Alpaca restore → est. 78-82/100 | BLOCKED
+- **INTC blackout CLEARED today:** +1.60% but too volatile for scoring today | Run canslim-screener **MON AUG 4** | Score est. **60-70/100 DOWNGRADED** (Samsung + GAAP + $20B capex + July price erosion)
+- **ARM +2.78%:** Re-eval window Aug 5+ UNCHANGED | MRVL watch-only 15-25/100 unchanged | GOOGL 60-65/100 unchanged
+- **Bench promotion check: NONE** | No bench item within 2% of pivot | No watchlist changes
+- Abort: CORRECTION (7/25) + Alpaca Day ~165 BLOCKED + 0 candidates ≥75 | 0 actions | 0 trades | 53rd consecutive zero-action session
+- `market-check_Jul31` | `websearch_fallback` | `SPX_~7445_+0.1pct_NO_DIST_DAY` | `RALLY_ATTEMPT_DAY2_INTACT` | `FTD_Aug4-7` | `AAPL_-7.2pct_ongoing` | `SOXX_-21.3pct_worst_July_since_2002` | `NVDA_+1.26pct_74_unchanged` | `INTC_blackout_cleared_screener_Aug4_score_60-70` | `ARM_+2.78pct_reeval_Aug5` | `10yr_4.737pct` | `30yr_5.22pct` | `NVDA_N_letter_triple_confirmed`
+
 **✅ Jul 29 /market-check UPDATE (10:00 AM CT):** 🚨 IRAN CEASEFIRE BROKEN — OIL BRENT +6.6% ~$90 — S&P −0.7% — ⚠️ DIST #8 HIGH RISK — FOMC 2PM ET — 0 ACTIONS
 - **S&P intraday:** ~7,370 (−0.7% from 7,422 baseline) | Dow −760 pts / −1.4% | Nasdaq −1.0% | NVDA ~$196-197 (roughly flat; chip pain more in AMD/MU/INTC)
 - **🚨 IRAN CEASEFIRE BROKEN:** Surprise IRGC missile attack on US Jordan base (all intercepted) → Trump "will hit Iran hard" | Oil: Brent +6.6% ~$89.61, WTI +6.4% ~$84.31 — stagflation risk RE-ELEVATED

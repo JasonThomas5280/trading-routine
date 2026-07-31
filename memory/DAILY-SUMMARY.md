@@ -5169,3 +5169,27 @@ Key catalysts:
   🔄 RALLY ATTEMPT DAY 2 — FTD window opens Mon Aug 4 (Day 4), threshold ~7,531
   🛢️ Brent ~$89 (easing from $92; Hormuz recovering)
 Plan: NO ENTRIES — Correction (7/25) + Alpaca Day ~164 BLOCKED + 0 candidates ≥75. Monitor dist threshold 7,422.79. INTC screener queued Aug 4. FTD watch Aug 4-7. (52nd consecutive zero-action session)
+
+---
+## 2026-07-31 15:15 CT [clickup-placeholder]
+
+📈 Market-check 2026-07-31 10:00 CT
+Market: 🔴 CORRECTION (7/25 dist days) | Circuit breakers: NONE
+Actions taken:
+  No new entries — ABORT GATES FIRED: (1) Correction gate (7/25 dist days ≥6) | (2) Alpaca Day ~165 BLOCKED
+  Sell-rules-engine: SKIPPED (0 positions — 33rd consecutive skip)
+Market status:
+  S&P ~7,445 +0.1% → NO DIST DAY ✅ (22 pts above threshold 7,422.79)
+  🔄 RALLY ATTEMPT DAY 2 INTACT | FTD window: Aug 4-7 | FTD threshold: ~7,531
+  SOXX: worst July since 2002 (-21.3% month) | Chip relief bounce today
+  10yr 4.737% (Jan 2025 high) | 30yr 5.22% (2007 levels) — primary headwind
+  AAPL -7.2% ongoing (Services/China miss) | AMZN strong (AWS +37% YoY)
+  NVDA N-letter TRIPLE-CONFIRMED: MSFT+AMZN+AAPL capex cycle ($455-460B FY2027)
+Bench:
+  NVDA: 74/100 | Cup wk ~41 no handle | +1.26% today | BLOCKED
+  INTC: blackout CLEARED | Screener Mon Aug 4 | Score est. 60-70/100 (downgraded)
+  ARM +2.78% (re-eval Aug 5+) | MRVL/GOOGL: watch-only unchanged
+Watchlist status: 0 primary ready | 4 bench watching | 0 removed
+Open positions: 0 | Total deployed: 0%
+Weekly trade count: 0 of 3 used (week Jul 28-Aug 1)
+Next check: /eod-review 3:15 PM CT
