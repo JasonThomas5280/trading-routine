@@ -46,6 +46,79 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-02 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P CONF 7,489.72 +0.70% — RALLY DAY 2 ✅ — FTD WINDOW TUE AUG 4–FRI AUG 7 — AMD AMC TUE | NFP FRI — 0 POSITIONS — 0 ACTIONS — 20TH CONSECUTIVE ZERO-ENTRY WEEK
+
+**Research source:** websearch_fallback (Alpaca Day ~167 BLOCKED | Perplexity 403 | AV 403 — 51st consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days unchanged)
+**Sector leaders (4-week Jul 3–Jul 31 est.):** XLV Healthcare, XLP Consumer Staples, XLF Financials (defensive rotation during July chip selloff; SOXX −21.3% for July)
+**Sector laggards (4-week):** XLK Technology (SOXX worst), XLE Energy (oil $100→$89 reversal), XLRE (rate-sensitive; 30yr 5.26%)
+
+### Universe Scan
+
+- **Universe scan: SKIPPED** — Correction posture; all APIs blocked; no actionable candidates under Correction gate
+- **Candidates passed conviction ≥75: 0** — 20th consecutive zero-qualifying week
+- **Rejection breakdown:**
+  - NVDA: 74/100 (1 point below threshold; no base bonus; cup no handle) → BENCH
+  - INTC: unscored (screener run scheduled Tue Aug 4; est. 60-70/100; GAAP A-letter risk = disqualifying)
+  - ARM: unscored (re-eval Wed Aug 5+; prior score 60/100 GAAP fail; upgraded N-letter; est. 60-70/100)
+  - MRVL: 15-25/100 (broken structure; far below threshold)
+  - GOOGL: 60-65/100 (XLC #9; blackout Aug 5+)
+  - All others: SKIPPED (Correction + API block + zero scanning capacity this week)
+- **Why no scan:** Market in Correction = hard gate; Alpaca Day ~167 BLOCKED = no order execution; even if a new candidate scores ≥75 this week, we cannot enter until FTD + Alpaca restore + valid base at pivot + volume confirmation. Universe scan serves no operational purpose under full Correction+blocked state.
+
+### Market thesis
+
+- **State:** 🔴 CORRECTION (7/25 dist days ≥6 threshold) — unchanged 20th week
+- **S&P confirmed:** 7,489.72 (+0.70%) Jul 31 | ABOVE prior close 7,437.63 (+52.09 pts)
+- **Key MA update:** Golden cross (50d > 200d) intact since Jul 1; SPY 50d MA ~$745.07 vs SPY $738.93 → S&P slightly below 50d MA. Prior tracking of 200d MA at ~7,464 likely inaccurate — actual 200d MA much lower (golden cross confirms 50d is higher). S&P is WELL ABOVE 200d MA.
+- **Breadth signal (positive):** S&P 500 Equal Weight index hit ATH on Jul 30 (Day 1) — most S&P stocks reclaimed 50d MA for first time since Feb 2026. Broad institutional buying, not narrow mega-cap bounce.
+- **Caution:** 3 prior FTDs in 2026 all failed. 30yr yield 5.26%. AMD and ARM showing "sell-the-news" on strong earnings = institutional distribution into strength.
+- **FTD window: Tue Aug 4 (Day 4) → Fri Aug 7 (Day 7/NFP)**
+
+### Overnight catalysts (weekend, Aug 1-2)
+
+- No trading Aug 1 (Saturday) or Aug 2 (Sunday)
+- **No new catalysts confirmed over the weekend** (websearch_fallback; API blocked)
+- AMD earnings Tue Aug 4 AMC = first major catalyst of the week
+
+### Buy-zone status (open watchlist items)
+
+- No items in buy zone. All primary candidates blocked by Correction gate + Alpaca block.
+- Nearest to buy zone: NVDA (74/100, ~18% below 52-wk high, cup wk ~42) — NOT in buy zone (no handle, below threshold)
+
+### Open positions — weekend check
+
+- **NONE** (35th consecutive zero-position session count)
+- No stops to manage. No trailing adjustments needed.
+
+### New candidates flagged
+
+- **INTC:** Screener run Tue Aug 4. Key question: GAAP annual EPS history — pass or disqualify A-letter?
+- **ARM:** Re-eval Wed Aug 5. Key question: did Q1 FY2027 GAAP EPS show ≥25% YoY? (Prior fail was GAAP C-letter). ARM-based chips now surpassing x86 in data center = structural N-letter upgrade.
+- **AMD (new watch):** Reports Tue Aug 4 AMC. EPS est. $1.34 (+396% YoY adj). If beats + AI chip guidance is strong → add to bench tracking for canslim-screener run. AMD = direct NVDA competitor; AMD beat = confirms AI chip demand cycle intact = NVDA N-letter further confirmed.
+
+### Risks
+
+- AMD earnings Tue Aug 4 AMC: miss = kills FTD momentum + potential dist day risk
+- NFP Fri Aug 7: strong jobs = Fed hawkishness → rate headwind; weak jobs = dovish → supportive but signals economic concern
+- 30yr yield 5.26% ongoing: multiple compression headwind across growth stocks
+- Three prior FTD failures in 2026: each lasted 2-3 sessions before failing; don't buy ahead of confirmation
+
+### Circuit breaker check
+
+- Weekly P&L: $0 (0%) | Account equity: $2,500 (HWM) | All circuit breakers: ALL CLEAR ✅
+- PDT count: 0 of 3
+
+### Actions
+
+NONE. 55th consecutive zero-action session. Correction gate + Alpaca BLOCKED.
+
+**Scan stats:** 0 candidates scanned (Correction+API block mode) | 0 passed ≥75 | Scan bypassed per Correction-mode rule | 20th consecutive week of 0 qualifying entries | `research_source: websearch_fallback` | `Alpaca_Day167_BLOCKED` | `Perplexity_403` | `AV_403`
+
+`weekly-prep_Aug2` | `websearch_fallback` | `Alpaca_Day167_BLOCKED` | `51st_degraded` | `55th_zero_action` | `dist_7of25_UNCHANGED` | `rally_day2_conf` | `FTD_window_Aug4-Aug7` | `AMD_AMC_Tue_Aug4` | `NFP_Fri_Aug7` | `NVDA_200.75_74_unchanged` | `INTC_90.20_screener_Tue` | `ARM_237-238_reeval_Wed` | `golden_cross_intact` | `SPX_equal_weight_ATH` | `0_scanned_0_passed` | `20th_zero_entry_week`
+
+---
+
 ## 2026-07-31 (Fri) — /eod-review (3:15 PM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P CONF ~7,487 +0.67% NOT DIST DAY ✅ — NASDAQ ~+1.32% — RALLY ATTEMPT DAY 2 CONFIRMED — AAPL −9.2% | AMZN +13.7% — 30YR 5.26% — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~166 BLOCKED | Perplexity 403 | AV 403 — 50th consecutive degraded session)

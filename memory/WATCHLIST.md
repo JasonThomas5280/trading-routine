@@ -36,9 +36,96 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
-## ⚠️ ARCHIVED — Week of 2026-07-28 to 2026-08-01 — **STALE — archived via /weekly-review Fri Jul 31; rebuild via /weekly-prep Sun Aug 3**
+## ⛔ CURRENT — Week of 2026-08-03 to 2026-08-07 — REBUILT Sun Aug 2 /weekly-prep
 
-> Archived week of Jul 28–Aug 1. Market state: 🔴 Correction (7/25 dist days at close — Jun 23 expired Jul 29 → 6/25; Jul 29 DIST DAY added → net 7/25). Zero primary candidates (19th consecutive week). NVDA 74/100 (bench, cup wk ~41, no handle; N-letter TRIPLE-CONFIRMED MSFT+AMZN+AAPL this week). INTC blackout cleared Jul 31 → run canslim-screener Mon Aug 4 (score est. 60-70/100 downgraded). ARM re-eval window Aug 5+ (reported Jul 29 AMC beat but −7% AH). MRVL ~15-25/100 (watch-only). GOOGL ~60-65/100 (watch-only; blackout Aug 5+). SH $625 QUEUED (Alpaca Day ~166 BLOCKED). **Rebuild required Sun Aug 3 /weekly-prep before Mon /pre-market.** ⚡ CRITICAL NEXT WEEK: FTD Window Aug 4–7 (Days 4-7 of rally attempt started Jul 30). FTD threshold Day 4: ~7,582. NFP Aug 7. INTC screener Mon Aug 4. ARM re-eval Aug 5+. Dist expiry Aug 11 (Jul 7 → 6/25) + Aug 12 (Jul 8 → 5/25 = Under Pressure). Earliest Uptrend via nat. expiry: ~Aug 17-21.
+**Built:** 2026-08-02 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~167 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 51st consecutive degraded session
+**Market direction:** 🔴 Market in Correction (7/25 dist days) | **NO NEW LONG ENTRIES**
+**S&P 500 baseline (Jul 31 CONFIRMED close):** 7,489.72 | **50d MA est. ~7,469-7,534** (S&P near/below — uncertain range) | **200d MA: WELL BELOW (golden cross intact since Jul 1; 50d > 200d)** | SPY 50d $745.07 / SPY $738.93 = SPY −0.82% below 50d MA | S&P equal-weight ATH on Day 1 (Jul 30) ✅
+**QQQ baseline (Jul 31 close):** ~$687.99 | 50d MA > 200d MA (golden cross intact)
+**FTD status:** 🔄 RALLY ATTEMPT — Day 1: Jul 30 | Day 2: Jul 31 | **FTD Window: Tue Aug 4 (Day 4) → Fri Aug 7 (Day 7)** | FTD threshold: ≥+1.25% elevated volume any day Aug 4–7 (~7,584 est.) | **AMD earnings AMC Tue Aug 4** = primary FTD catalyst | **NFP Fri Aug 7** = Day 7 binary risk
+
+**⚡ WEEK OF AUG 3-7 — HIGHEST FTD PROBABILITY IN 7+ WEEKS. STILL CORRECTION MODE UNTIL CONFIRMED.**
+
+**Critical calendar:**
+- **Mon Aug 3 (Day 3):** Factory Orders. Monitor dist threshold (~7,474 from 7,489.72 × 0.998). No FTD possible (Day 3). Market direction: dist day risk LOW (Day 2 was UP, market has momentum).
+- **Tue Aug 4 (Day 4 — FTD WINDOW OPENS):** ⚡ AMD Q2 earnings **AMC tonight** (EPS est. $1.34 +396% YoY; Rev est. ~$11.2B +47% YoY). Run **INTC canslim-screener** today (post-blackout, with WebSearch data). ISM Services PMI (medium-importance macro data).
+- **Wed Aug 5 (Day 5):** AMD post-earnings reaction = potential FTD if beat. **ARM re-eval window opens** (Aug 5+). **GOOGL blackout clears** (Aug 5+). EIA crude oil inventories.
+- **Thu Aug 6 (Day 6):** Pre-NFP. Weekly Jobless Claims. If no FTD yet, watch for pre-NFP positioning.
+- **Fri Aug 7 (Day 7 + NFP — FTD WINDOW CLOSES):** ⚡ **NFP July 2026 at 8:30 AM ET**. Jobs est. ~90-170K; unemployment ~4.2-4.3%. If NFP in-line/beat + S&P already in rally = FTD possible. If NFP miss = dovish but can it overcome rate concerns? **Last day of FTD window.**
+
+**Dist expiry schedule:**
+- **Mon Aug 11:** Jul 7 dist expires → 6/25 (still Correction ≥6)
+- **Tue Aug 12:** Jul 8 dist expires → 5/25 (**UNDER PRESSURE** — if no new dist days)
+- Earliest natural Uptrend path: **~Aug 17–21** (Jul 13 + Jul 16 expire → 4/25 = Under Pressure → need FTD to move to Confirmed Uptrend)
+
+**Three scenarios:**
+1. **FTD fires (Day 4-7):** AMD beats → chips rally → S&P +1.25%+ elevated vol any day Aug 4-7 → **CONFIRMED UPTREND**. Actions: exit SH hedge (Alpaca restore required), trigger NVDA/INTC/ARM buy plans (each still needs: score ≥75 + base pattern + pivot cross on volume + Alpaca restored).
+2. **Rally continues, no FTD:** Market grinds up Days 3-7 but never hits the +1.25%/volume bar → Correction extends, watch Aug 11-12 dist expiry for Under Pressure transition; FTD attempt resumes from Day 8+.
+3. **Dist day fires:** AMD miss or NFP surprise → S&P down ≥0.2% on elevated volume → dist day #8 → rally attempt INVALIDATED. Need new Day 1 below 7,266.99 (rally low).
+
+---
+
+## ⛔ CORRECTION POSTURE — NO NEW LONG ENTRIES — HEDGE CANDIDATES ONLY
+
+**Entry gate: ⛔ ZERO new long entries** (Market in Correction — 7/25 dist days ≥6 threshold; all new longs blocked)
+
+**Entry status: 20th consecutive week with zero qualifying entries** (Correction gate in effect)
+
+### Hedge Candidates (Correction Protocol Active)
+
+| Rank | Instrument | Type | Size | Status | Notes |
+|---|---|---|---|---|---|
+| H1 | **SH** | Inverse S&P (−1×) | $625 / 25% portfolio | **QUEUED — Alpaca Day ~167 BLOCKED** | Execute as FIRST order on Alpaca restore; queued since Jun 5 (~9 weeks). If FTD fires this week, EXIT SH within 2 sessions after Uptrend confirmation (Alpaca restore required). |
+| H2 | **SQQQ** | Inverse NASDAQ (−3×) | Alt: $625 if SH unavailable | Secondary | Only if SH specifically unavailable; leverage decay risk |
+
+**SH exit trigger:** Follow-through day confirmed → exit SH within 2 sessions. FTD this week (Aug 4-7) = exit SH Aug 5-9 (pending Alpaca restore).
+
+---
+
+### Primary Watchlist (score ≥75)
+
+**NONE this week.** Market in Correction. No new long entries. Zero candidates above conviction threshold for 20th consecutive week. See bench.
+
+---
+
+### Bench (Correction monitor — action only on FTD + score ≥75 + Alpaca restore + valid base at pivot)
+
+| Rank | Symbol | Score | Δ | Sector | Status | Action This Week | Notes |
+|---|---|---|---|---|---|---|---|
+| B1 | NVDA | **74/100** | UNCHANGED | XLK / Semis | 🟡 Cup wk ~42; no handle | Watch FTD. No re-score until handle forms. | **C:20 A:15 N:12 S:10 L:12 I:5 Base:0.** Close Jul 31: **$200.75** (+2.93%). Cup wk ~42; no handle. N-letter TRIPLE-CONFIRMED (MSFT+AMZN+AAPL). AMD earnings Tue Aug 4 = FOURTH AI capex read; beat → N-letter score may rise to 15/15 on re-score. ARM milestone (surpassed x86 in data center) = additional NVDA demand signal. ⚠️ $250B OpenAI backstop risk still active (N-letter watch). 52-wk high $236.54 (~18% away at $200.75). Re-score trigger: **handle completion + FTD + Alpaca restore + AV restore** → est. 78-82/100. Entry gate: BLOCKED (Correction + Alpaca + no handle + below threshold). `NVDA_200.75_cup_wk42` |
+| B2 | INTC | **60-70/100 est. (UNSCORED — run screener TUE AUG 4)** | DOWNGRADED from 70-78 est. | XLK / Semis | ❌ BELOW THRESHOLD est. — screener run required | Run `canslim-screener` Tue Aug 4 with WebSearch data | **C-letter:** EPS $0.42 adj (+92% beat, loss-to-profit swing); Rev $16.13B (+25.4% YoY); DC+AI +59% YoY — strong C and N. **A-letter:** ⚠️ multi-year GAAP net losses (~$11B net loss cited) — THIS IS THE SWING FACTOR. If GAAP adj annual EPS trend doesn't show 3-yr ≥25% growth, A-letter = 0 pts = disqualifying. **Close Jul 31: $90.20** (-1.02%); down ~-13.5% from $104 AH peak; "sell the news" behavior noted. N-letter: 18A foundry ramp + Google AI deal + Xeon 6700P intact. L-letter: INTC up 163% YTD but recent erosion. Base: ❓ needs re-form post-earnings gap. Score 60-70 est. May be <75 — A-letter GAAP history is disqualifying risk. **Run screener Tue Aug 4.** `INTC_90.20_screener_Aug4_GAAP_risk` |
+| B3 | ARM | **60-70/100 est. (RE-EVAL OPENS WED AUG 5)** | ↑ upgrade from 60/100 | XLK / Semis | ❌ BELOW THRESHOLD est. — re-eval required | Run `canslim-screener` Wed Aug 5+ with WebSearch | **C-letter (UPDATED):** Q1 FY2027 results: Rev $1.29B (+22% YoY, record); Adj EPS $0.45 vs $0.40 est. ⚠️ GAAP EPS status CRITICAL — prior 60/100 was due to GAAP C-letter fail; if Q1 GAAP shows ≥25% YoY growth, C-letter improves 0→15-20 pts. **N-letter (UPGRADED):** ARM chips surpassed x86 in data center market share — structural milestone → N-letter now stronger. **Close Jul 31: ~$237-238** (-0.77%; +6.49% Jul 30 recovery). Down -29% from ATH ($334 Jun 26). Royalty revenue doubled YoY. Base: needs rebuild from earnings selloff. If GAAP improves: score may reach 70-75/100 — still below 75 until base + Uptrend. **Re-eval Wed Aug 5.** `ARM_237-238_reeval_Aug5_GAAP_upgrade_pending` |
+| B4 | MRVL | **15-25/100** | UNCHANGED (watch-only) | XLK / AI Semis | ❌ FAR BELOW THRESHOLD — broken structure | No action. Monitor for 8+ wk base rebuild. | Structure broken (CFO selling + capital raise shelf + broken base). Est. ~$174-190 range. 8+ week rebuild minimum. Not actionable Q3-Q4 2026. `MRVL_watch_only_15-25` |
+| B5 | GOOGL | **60-65/100** | UNCHANGED (watch-only) | XLC / Mega-Cap | ❌ BELOW THRESHOLD — blackout clears Wed Aug 5+ | Blackout clears Wed Aug 5. Check for score update. | XLC sector #9 dead last (L-letter damaged). Capex raise punished (−6.5% post-earnings). Blackout through Aug 5. Even if cloud beats justify partial recovery, XLC #9 = structural L-letter headwind. Not actionable Q3 2026. `GOOGL_60-65_blackout_Aug5` |
+
+---
+
+### Entry Execution Plan — Week of Aug 3-7
+
+**Entry gate: ⛔ ZERO new long entries** (Correction + Alpaca Day ~167 BLOCKED + 0 candidates ≥75 — 20th consecutive zero-qualifying week)
+
+**FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (hedge — queued ~9 weeks). EXCEPTION: If FTD fires this week, EXIT SH within 2 sessions INSTEAD of entering it. FTD = Uptrend = close hedge.
+
+**Screener queue this week:**
+1. **INTC — Tue Aug 4 (post-blackout):** Run `canslim-screener` with WebSearch fundamental data. A-letter GAAP history is the disqualifying risk. Score threshold: 75 required. Even if passes, no entry until: FTD + Alpaca restore + valid base + pivot.
+2. **ARM — Wed Aug 5+ (post-earnings-blackout):** Run `canslim-screener`. Key: did GAAP C-letter improve from prior fail? If yes + N-letter upgrade → score may reach 68-75 range. Still needs FTD + base + Alpaca to be actionable.
+3. **GOOGL — Wed Aug 5+ (blackout clears):** Low priority given XLC sector weakness. Check RS ranking.
+4. **NVDA — handle not yet formed → no re-score trigger.** Watch for handle completion (usually 1-4 weeks, ~Aug 11-Sep 2026 range).
+
+**Sector focus (when Uptrend confirmed):**
+- Primary: XLK Technology / Semis (NVDA, potentially INTC/ARM post-score)
+- Secondary: XLV Healthcare (leading 4-wk sector) / XLI Industrials
+- Avoid: XLC (#9), XLRE (rate-sensitive 30yr 5.26%), XLE (oil reversal from $100→$89)
+- **Note:** July 4-week sector rotation was defensive (XLV/XLP/XLF outperforming). If FTD is genuine, expect XLK to resume leadership as chips recover. Trade the leaders, not the defensive laggards.
+
+**Blacklisted sectors:** NONE (no consecutive failed trades — zero trades placed to date)
+
+---
+
+## ⚠️ ARCHIVED — Week of 2026-07-28 to 2026-08-01 — **STALE — archived via /weekly-review Fri Jul 31; rebuilt Sun Aug 2 /weekly-prep**
+
+> Archived week of Jul 28–Aug 1. Market state: 🔴 Correction (7/25 dist days at close — Jun 23 expired Jul 29 → 6/25; Jul 29 DIST DAY added → net 7/25). Zero primary candidates (19th consecutive week). NVDA 74/100 (bench, cup wk ~41, no handle; N-letter TRIPLE-CONFIRMED MSFT+AMZN+AAPL this week). INTC blackout cleared Jul 31 → run canslim-screener Mon Aug 4 (score est. 60-70/100 downgraded). ARM re-eval window Aug 5+ (reported Jul 29 AMC beat but −7% AH). MRVL ~15-25/100 (watch-only). GOOGL ~60-65/100 (watch-only; blackout Aug 5+). SH $625 QUEUED (Alpaca Day ~166 BLOCKED). **Rebuilt Sun Aug 2 /weekly-prep.** ⚡ CRITICAL: FTD Window Tue Aug 4 (Day 4) – Fri Aug 7 (Day 7+NFP). AMD earnings AMC Tue Aug 4. ARM close Jul 31 ~$237-238. NVDA close Jul 31 $200.75. INTC close Jul 31 $90.20. S&P equal-weight ATH Day 1 (Jul 30). Golden cross (50d>200d) intact since Jul 1.
 
 ## ⛔ CURRENT — Week of 2026-07-28 to 2026-08-01 — REBUILT Sun Jul 27 /weekly-prep
 

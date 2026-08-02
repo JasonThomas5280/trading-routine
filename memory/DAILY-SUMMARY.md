@@ -5258,3 +5258,25 @@ Next check: /eod-review 3:15 PM CT
 - Emotional state: ALERT + CONTROLLED — wait for the FTD print; do not pre-position
 
 **Proposals this week:** Proposal 24 (FTD Readiness Protocol), Proposal 25 (INTC Fast-Track post-screener). All 1-23 still pending Jason approval.
+
+---
+## 2026-08-02 21:21 CT [clickup-placeholder]
+
+📋 Week prep 2026-08-03
+Market: CORRECTION (Dist: 7/25, SPY vs 50MA: ~-0.82%)
+FTD Window: Tue Aug 4 (Day 4) to Fri Aug 7 (Day 7+NFP)
+Top sectors (4-wk): XLV Healthcare, XLP Staples, XLF Financials
+Watchlist primary: NONE (20th consecutive zero-entry week)
+Bench:
+  B1. NVDA 74/100 cup wk42 no handle close 200.75
+  B2. INTC ~60-70 est screener TUE AUG 4 close 90.20
+  B3. ARM ~60-70 est re-eval WED AUG 5+ close ~237-238
+  B4. MRVL 15-25/100 watch-only
+Calendar risks:
+  Tue Aug 4: AMD earnings AMC (CRITICAL semi catalyst / FTD pivot)
+  Fri Aug 7: NFP July 2026 jobs data (Day 7 FTD window close)
+  Aug 11-12: Dist expiry -> potential Under Pressure transition
+Entry plan Mon Aug 3: NO ENTRIES (Correction + Alpaca Day167 blocked)
+FTD: If AMD beats + S&P +1.25pct elevated vol any day Aug 4-7 -> UPTREND
+  then exit SH hedge, prep NVDA/INTC/ARM triggers (each needs 75+ score+base+Alpaca)
+Hedge: SH 625 QUEUED (~9 weeks)

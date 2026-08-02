@@ -6,7 +6,51 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Jul 31 /eod-review — S&P CONF ~7,487 (+0.67% NOT DIST DAY ✅) | Nasdaq ~+1.32% | Dow ~+0.38% | DIST 7/25 UNCHANGED | 🔄 RALLY ATTEMPT DAY 2 CONFIRMED ✅ | FTD WINDOW: Aug 4–7 | FTD THRESHOLD: ≥+1.25% elevated vol (Day 4-7; ~7,582 est Aug 4) | AAPL −9.2% SUPPLY/CHINA | AMZN +13.7% AWS +37% | 30YR 5.26% 2007 HIGH | 10YR 4.7%+ | ALPACA DAY ~166 BLOCKED | 0 POSITIONS | 0 ACTIONS | EARLIEST FTD: Aug 4 | EARLIEST UPTREND: Aug 17–21)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 2 /weekly-prep — S&P CONF 7,489.72 (+0.70% NOT DIST DAY ✅) | DIST 7/25 UNCHANGED | 🔄 RALLY ATTEMPT DAY 2 CONF ✅ | FTD WINDOW: Tue Aug 4 (Day 4) – Fri Aug 7 (Day 7) | FTD THRESHOLD: ≥+1.25% elevated vol | AMD REPORTS TUE AUG 4 AMC (EPS est. $1.34 +396% YoY — CRITICAL SEMI CATALYST) | NFP FRI AUG 7 | 50d MA: ~7,469-7,534 est. (S&P near MA) | 200d MA: golden cross intact (50d>200d since Jul 1) | NVDA CLOSE $200.75 | INTC $90.20 | ARM ~$237-238 | ALPACA DAY ~167 BLOCKED | 0 POSITIONS | 0 ACTIONS | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25 | EARLIEST UPTREND: Aug 17–21)*
+
+**✅ AUG 2 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — S&P CONF 7,489.72 +0.70% NOT DIST — RALLY ATTEMPT DAY 2 ✅ — FTD WINDOW TUE AUG 4 (DAY 4) – FRI AUG 7 (DAY 7 + NFP) — AMD EARNINGS TUE AUG 4 AMC — ALPACA DAY ~167 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~167 BLOCKED | Perplexity 403 | AV 403 | 51st consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6 threshold) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken | 55th consecutive zero-action session
+- **S&P 500 Jul 31 CONFIRMED close: 7,489.72 (+0.70% / +52.09 pts)** | NOT DISTRIBUTION DAY ✅ | Source: multiple (WashPost, Barchart, research agent)
+  - Prior memory had ~7,487 (+0.67%) — corrected to **7,489.72 (+0.70%)** (minor revision)
+- **QQQ Jul 31 CONFIRMED close: ~$687.99 (+0.65%)** | Intraday range $680.05-$695.77
+- **Distribution count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **State transition: NONE** (Correction continues; 7/25 ≥6 threshold)
+- **🔄 RALLY ATTEMPT: Day 1 = Jul 30 (7,437.63) | Day 2 = Jul 31 (7,489.72) CONFIRMED ✅**
+  - FTD Window (corrected calendar): **Day 3 = Mon Aug 3 | Day 4 = Tue Aug 4 | Day 5 = Wed Aug 5 | Day 6 = Thu Aug 6 | Day 7 = Fri Aug 7** (Aug 4 = TUESDAY per calendar; prior note "Aug 4 Mon" was WRONG)
+  - FTD Window OPENS: **Tue Aug 4 (Day 4)** | FTD CLOSES: **Fri Aug 7 (Day 7)**
+  - **FTD threshold: ≥+1.25% on elevated volume** (above prior session). Day 4 threshold (if Day 3 flat): ~7,584 est.
+  - Rally low 7,266.99 = ~223 pts below current close → cushion intact ✅
+- **⚠️ CRITICAL MA UPDATE (from multiple WebSearch sources):**
+  - SPY 50d MA: ~$745.07 (vs SPY $738.93 = SPY −0.82% below 50d MA) → S&P est. BELOW 50d MA
+  - Prior tracking "50d MA ~7,534.75" is being maintained (dshort.com sourced Jul 17); by Jul 31 the 50d MA has drifted lower due to recent weakness, est. now ~7,469-7,534 range
+  - **IMPORTANT CORRECTION: 200d MA is LOWER than previously tracked.** WebSearch SPY data shows 200d MA ~$698.54 → S&P equivalent ~7,082-7,082. Golden cross (50d > 200d) confirmed since Jul 1, 2026. Prior estimate "200d ~7,464" may have been an error (possibly was EMA, not SMA, or mixing index vs ETF values). **Practical impact: S&P is well above 200d MA**, not "fractionally above/below" as earlier tracked. This is a constructive signal.
+  - **POSITIVE BREADTH:** S&P 500 Equal Weight index hit ATH on Jul 30 (Day 1 of rally attempt) — broad institutional participation, not a narrow bounce. Most S&P 500 stocks reclaimed 50d MA on Jul 30 for first time since Feb 2026.
+- **⚡ AMD EARNINGS TUE AUG 4 AMC (Day 4 = FTD window opening):**
+  - EPS est. $1.34 (+396% YoY) | Rev est. ~$11.2B (+47% YoY) | Reports after market close Tue Aug 4
+  - AMD beat + AI chip guidance = NVDA N-letter FOURTH CONFIRMATION candidate → potential FTD catalyst Wed Aug 5 (Day 5) or earlier if intraday spill-over
+  - AMD miss = kills semi momentum → potential dist day risk
+  - **This is the single most important event for the FTD thesis this week**
+- **NFP FRI AUG 7 (8:30 AM ET — Day 7 = FTD window CLOSING day):**
+  - July 2026 jobs data | Prior June: +172K (massive beat vs 85K est.) | Unemployment rate 4.3%
+  - Expectations: modest 90K growth (OANDA/Capital Economics); unemployment ~4.2%
+  - BULLISH NFP (strong): Fed hawkishness risk → potential whipsaw; may prevent FTD even if mid-week rally
+  - BEARISH NFP (weak): Dovish read → potential FTD catalyst; BUT also signals economic concern
+  - **NFP on the last day of FTD window = binary risk for the whole week's setup**
+- **Bench prices (Jul 31 confirmed closes):**
+  - NVDA: **$200.75** (+2.93% Jul 31 | Cup wk ~42 no handle | 74/100 UNCHANGED)
+  - INTC: **$90.20** (-1.02% Jul 31 | Blackout cleared | Screener run Tue Aug 4 | Score est. 60-70/100)
+  - ARM: **~$237-238** (-0.77% Jul 31 | +6.49% Jul 30 post-earnings recovery | Re-eval window opens Wed Aug 5+)
+  - ARM milestone: ARM-based chips surpassed x86 (Intel/AMD) in data center market share → strong N-letter catalyst
+  - MRVL: ~$174-190 range (watch-only; 15-25/100 unchanged)
+  - GOOGL: ~60-65/100 (blackout clears Wed Aug 5+)
+- **Three prior FTDs in 2026 all failed** — caution flag; demand clean confirmation before any exposure
+- **SH $625 QUEUED** — Alpaca Day ~167 BLOCKED; execute as first order on Alpaca restore
+- **Sell-rules-engine: SKIPPED** (0 open positions — 35th consecutive EOD)
+- **Dist expiry schedule:** Aug 11 (Mon): Jul 7 → 6/25 | Aug 12 (Tue): Jul 8 → 5/25 (→ Under Pressure if no new dists) | **Earliest Uptrend via natural path: ~Aug 17–21**
+- **FTD SCENARIO THIS WEEK:** AMD beats Tue AMC + NVDA/chips lead Wed-Thu + S&P +1.25%+ on volume = FTD → Uptrend transition. Execute SH exit, prep NVDA/INTC/ARM buy triggers (all still need: score ≥75 + valid base + Alpaca restore + price at pivot).
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 trades | 0 positions
+- `weekly-prep_Aug2` | `websearch_fallback` | `Alpaca_Day167_BLOCKED` | `51st_degraded_session` | `55th_zero_action_session` | `SPX_CONF_7489.72_+0.70pct_NOT_DIST` | `QQQ_CONF_687.99_+0.65pct` | `dist_7of25_UNCHANGED` | `RALLY_DAY2_CONF` | `FTD_window_Tue_Aug4_Fri_Aug7` | `FTD_calendar_corrected_Aug4_is_TUESDAY` | `AMD_earnings_AMC_Tue_Aug4` | `NFP_Fri_Aug7` | `NVDA_200.75_cup_wk42_no_handle` | `INTC_90.20_screener_Tue_Aug4` | `ARM_237-238_reeval_Wed_Aug5` | `ARM_x86_data_center_surpassed` | `golden_cross_intact_50d_above_200d` | `SPX_equal_weight_ATH_Day1` | `3_prior_FTDs_failed_2026` | `dist_expiry_Aug11_Aug12` | `earliest_uptrend_Aug17-21`
 
 **✅ JUL 31 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.48% NQ +1.02% — AMZN +13% PM BEAT / AAPL -7.2% PM SERVICES MISS — 🔄 RALLY ATTEMPT DAY 2 — INTC BLACKOUT CLEARS TODAY — NFP CORRECTED AUG 7 — ALPACA DAY ~164 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~164 BLOCKED | Perplexity 403 | AV 403 | 48th consecutive degraded session
