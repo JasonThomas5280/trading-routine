@@ -17158,3 +17158,96 @@ No primary watchlist names → classification SKIPPED. Correction posture. All b
 7. **Mon Aug 4:** Run INTC canslim-screener | FTD Day 4 watch
 
 `pre-market_Jul31` | `websearch_fallback` | `Alpaca_Day164_BLOCKED` | `48th_degraded_session` | `NFP_CORRECTED_AUG7_not_AUG1` | `ES_+0.48pct` | `NQ_+1.02pct` | `AMZN_beat_+8pct_AH_+13pct_PM_AWS_+37pct_YoY` | `AAPL_beat_headline_-7.2pct_PM_Services_China_miss_Rev109.4B` | `NVDA_+2.65-3.4pct_PM_est200-202` | `INTC_+6-11pct_PM_blackout_clears_screener_Aug4` | `ARM_recovered_239.40_Jul30_reeval_Aug5` | `Brent_~89_easing_Hormuz_recovering` | `dist_7of25_UNCHANGED` | `dist_threshold_7422.79` | `dist_risk_LOW` | `rally_attempt_DAY2` | `FTD_window_Aug4-7` | `FTD_threshold_~7531` | `circuit_breakers_ALL_CLEAR` | `actions_ZERO` | `52nd_consecutive_zero_action_session`
+
+---
+
+## 2026-08-03 | /pre-market | research_source: websearch_fallback
+
+**Session:** Mon Aug 3 pre-market 6:00 AM CT | Alpaca Day ~168 BLOCKED | Perplexity 403 | AV 403 | 52nd consecutive degraded session
+
+### Step 1: Overnight gap check — open positions
+- **0 open positions** — gap check N/A | sell-rules-engine SKIPPED
+
+### Step 2: Catalyst scan — open positions
+- N/A (0 positions)
+
+### Step 3 & 4: Overnight market check + catalyst scan
+
+**PRIMARY OVERNIGHT CATALYST — 🕊️ IRAN DE-ESCALATION:**
+- Trump canceled planned military action against Iran overnight → clean risk-on
+- Brent crude: **-5% to ~$83.50** (from ~$88-89) | WTI: **-5%+ to ~$79.47**
+- Stagflation risk significantly reduced: Brent peak was $100.69 (Jul 23); now $83.50 = −17% from crisis peak
+- Chip complex broadly bid: AMD +7.21%, ARM +5.63%, INTC +4.6%; "NVDA/AMD lead chip/AI surge on war de-escalation" — Seeking Alpha
+- 10yr/30yr yields pulling back from cycle highs (10yr was 4.737% at peak)
+
+**Futures:**
+- ES: **+0.42-0.63%** (~7,527-7,537) vs. Jul 31 close 7,489.72
+- NQ: **+1.12%**
+- Expected open: HIGHER | 86% probability "up" day (prediction markets)
+- Dist threshold today: 7,489.72 × 0.998 = **7,474.74** | Market well above → **dist risk: ZERO**
+
+**Factory Orders (June data):** Due 10:00 AM ET | Moderate macro; no entry gate implication
+
+**Bench catalyst scan:**
+
+**NVDA ($198.68 PM, -1.87%):**
+- No overnight negative catalyst; profit-taking after Jul 31 +2.9% session
+- Hyperscaler AI capex context unchanged: $500B+ combined MSFT + AMZN + GOOGL + Meta confirmed
+- Analyst consensus: 85 Buy / 1 Hold / 0 Sell; consensus PT ~$302-304 (+50% implied); Bernstein + Citi reiterated Buy
+- Next earnings: **Aug 26 AMC** (EPS est. $2.08-2.12; Rev est. ~$93.5B)
+- Cup wk ~43; no handle | Score: **74/100 UNCHANGED** | Status: 🔴 BLOCKED
+
+**INTC (~$93-94 est., +4.6% PM):**
+- Iran de-escalation bid + TSMC packaging technology news (validates Intel Foundry differentiation thesis)
+- Q2 2026 beat remains intact: EPS $0.42 adj vs $0.21 est. (2x); Rev $16.13B vs $14.42B (+25.4% YoY); DC+AI +59%
+- Post-earnings analyst PT revisions: Susquehanna raised $80→$115; KeyBanc raised $100→$155; Citi maintained Buy $130
+- ⚠️ ALSO: Multiple sell-side downgrades on valuation ("bubble" label from BofA; Seeking Alpha downgrade to Sell)
+- Stock was $140 52-wk high (Jul 1); now $93-94 = −33% from high; A-letter GAAP history = disqualifying risk
+- **Screener: TUE AUG 4 AM** | Score est.: 60-70/100 (may be lower; GAAP history critical)
+
+**ARM ($255.04 PM, +5.63%):**
+- Q1 FY2027 (Jul 29 AMC): Rev $1.29B (+22% YoY) BEAT; Adj EPS $0.45 BEAT; Q2 guide $1.38B (record)
+- ⚡ **GAAP net income = $270M POSITIVE** — critical update for CAN SLIM screener
+  - Prior C-letter fail was due to GAAP losses; GAAP net income now positive
+  - GAAP EPS $0.25 (missed estimate of $0.40 due to SBC = $433M = 33.6% of revenue)
+  - YoY GAAP growth: Q1 FY2026 ~$0.13 est. → Q1 FY2027 $0.25 = ~+92% YoY → C-letter may now qualify
+- Post-earnings: New Street Research upgraded ARM to Buy; Morgan Stanley PT $212; RBC cut PT $340 (from $475)
+- Iran de-escalation + post-earnings recovery continuing: $225 post-earnings low → $237 (Jul 31) → $255 (today PM)
+- **Re-eval: Wed Aug 5+** | Score likely to improve from prior 60-70/100 est. (GAAP C-letter positive = major upgrade)
+
+**AMD ($519.74 PM, +7.21% — not in our universe, critical read-through):**
+- Iran de-escalation + pre-earnings momentum squeeze; biggest PM mover in chip complex
+- **Earnings AMC TONIGHT (Tue Aug 4):** EPS est. $1.34-1.55; Rev est. $11.2-11.3B (+47% YoY); ±12.28% implied
+- Wedbush est. $1.64 EPS (above consensus $1.34) → potential beat-and-raise scenario
+- AMD beat → chips surge Wed Aug 5 (Day 5) = **PRIMARY FTD CATALYST** scenario
+- 35 Strong Buy / 2 Moderate Buy / 9 Hold among 46 analysts covering
+- Key watch: AI accelerator (MI300/MI350) GPU revenue commentary and Q3 guidance
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Last PM | Status | Notes |
+|---|---|---|---|
+| NVDA | $198.68 (−1.87%) | 🔴 BLOCKED | No base (cup wk 43, no handle); Correction; Alpaca blocked |
+| INTC | ~$93-94 est. (+4.6%) | 🟡 PRE-SCREENER | Screener Tue Aug 4 AM; est. 60-70/100; A-letter risk |
+| ARM | $255.04 (+5.63%) | 🟡 WATCHING | Re-eval Wed Aug 5; GAAP income positive; score upgrade likely |
+| MRVL | ~$174-190 range | 🔴 BELOW THRESHOLD | Broken structure; 15-25/100; watch-only |
+| GOOGL | ~60-65/100 | 🔴 BELOW THRESHOLD | Blackout clears Aug 5; XLC #9 structural weakness |
+| SH | $625 queued | ⚠️ ALPACA BLOCKED | Execute as first order on Alpaca restore; exception if FTD fires |
+
+### Step 6: Circuit breaker check
+- **Daily (-3%):** ✅ CLEAR (0 positions; $2,500 = HWM)
+- **Weekly (-6%):** ✅ CLEAR
+- **Drawdown (-12% HWM):** ✅ CLEAR
+- **PDT:** 0/3 | Alpaca Day ~168 BLOCKED
+
+### Step 7: Today's agenda (Mon Aug 3)
+
+1. **NO ENTRIES** — Correction (7/25) + Alpaca BLOCKED + 0 candidates ≥75
+2. **Rally Attempt Day 3** — must close > 7,266.99; dist threshold 7,474.74; risk ZERO (UP open)
+3. **Iran de-escalation** = major bull catalyst; oil crash reduces stagflation headwind substantially
+4. **Factory Orders 10:00 AM ET** — watch but not a market-mover vs. Iran news
+5. **AMD earnings AMC TONIGHT** — biggest event; beat = FTD catalyst Wed Aug 5 (Day 5)
+6. **Prep for Tue Aug 4:** Run INTC canslim-screener AM | FTD window opens | AMD reaction at open
+7. **ARM re-eval opens Wed Aug 5** — GAAP income positive is a meaningful upgrade signal
+
+`pre-market_Aug3` | `websearch_fallback` | `Alpaca_Day168_BLOCKED` | `52nd_degraded_session` | `57th_zero_action_session` | `Iran_de-escalation_overnight` | `Brent_83.50_-5pct` | `WTI_79.47_-5pct` | `ES_+0.42-0.63pct` | `NQ_+1.12pct` | `dist_7of25_UNCHANGED` | `dist_threshold_7474.74` | `dist_risk_ZERO` | `RALLY_ATTEMPT_DAY3` | `FTD_window_opens_TOMORROW_Tue_Aug4` | `AMD_519.74_+7.21pct_earnings_AMC_TONIGHT_key_FTD_catalyst` | `ARM_255.04_+5.63pct_GAAP_net_income_270M_POSITIVE` | `INTC_93-94est_+4.6pct_screener_Tue_Aug4` | `NVDA_198.68_-1.87pct_74_unchanged` | `circuit_breakers_ALL_CLEAR` | `actions_ZERO`

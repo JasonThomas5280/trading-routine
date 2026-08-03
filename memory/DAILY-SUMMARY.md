@@ -5280,3 +5280,18 @@ Entry plan Mon Aug 3: NO ENTRIES (Correction + Alpaca Day167 blocked)
 FTD: If AMD beats + S&P +1.25pct elevated vol any day Aug 4-7 -> UPTREND
   then exit SH hedge, prep NVDA/INTC/ARM triggers (each needs 75+ score+base+Alpaca)
 Hedge: SH 625 QUEUED (~9 weeks)
+
+---
+## 2026-08-03 11:20 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-08-03
+Market: 🔴 CORRECTION 7/25 | Futures: ES +0.42-0.63% NQ +1.12%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+🕊️ IRAN DE-ESCALATION: Trump canceled military action overnight → Brent -5% $83.50 WTI $79.47 — biggest risk-off removed since Jul 23
+Rally Attempt: Day 3 (no FTD possible today; window opens Tue Aug 4 = Day 4)
+Watchlist ready: NONE (Correction posture — all below threshold or no base)
+Watching: INTC (screener Tue AM; +4.6% PM ~$93-94) | ARM (re-eval Wed Aug 5; +5.63% PM $255 — GAAP income $270M POSITIVE)
+AMD earnings AMC TONIGHT: +7.21% PM ($519.74); beat = FTD catalyst Wed Aug 5 (Day 5); ±12.28% implied
+Key catalyst today: Iran de-escalation + Factory Orders 10 AM ET
+Plan: NO entries (Correction + Alpaca blocked). Watch AMD all day as NVDA/FTD read-through.

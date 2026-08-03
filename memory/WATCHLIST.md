@@ -45,10 +45,16 @@ Alpaca: Day ~167 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 **QQQ baseline (Jul 31 close):** ~$687.99 | 50d MA > 200d MA (golden cross intact)
 **FTD status:** 🔄 RALLY ATTEMPT — Day 1: Jul 30 | Day 2: Jul 31 | **FTD Window: Tue Aug 4 (Day 4) → Fri Aug 7 (Day 7)** | FTD threshold: ≥+1.25% elevated volume any day Aug 4–7 (~7,584 est.) | **AMD earnings AMC Tue Aug 4** = primary FTD catalyst | **NFP Fri Aug 7** = Day 7 binary risk
 
+**✅ AUG 3 /pre-market UPDATE (6:00 AM CT):** 🔴 CORRECTION 7/25 UNCHANGED — 🕊️ IRAN DE-ESCALATION OVERNIGHT (Trump canceled military action) — ES +0.42-0.63% (~7,527-7,537) NQ +1.12% — Brent -5% $83.50 WTI $79.47 (stagflation risk significantly reduced) — AMD +7.21% PM ($519.74) EARNINGS AMC TONIGHT — ARM +5.63% PM ($255.04) GAAP net income $270M POSITIVE (C-letter upgrade pending Wed Aug 5 re-eval) — INTC +4.6% PM ($93-94 est.) screener Tue Aug 4 AM — NVDA -1.87% PM ($198.68) profit-taking no news — DAY 3 RALLY ATTEMPT INTACT — NO DIST DAY TODAY (UP open, threshold 7,474.74) — FTD WINDOW OPENS TOMORROW TUE AUG 4 — 0 ACTIONS — `research_source: websearch_fallback`
+- **ARM key update:** GAAP net income $270M POSITIVE in Q1 FY2027 → prior GAAP C-letter fail condition no longer holds; re-eval Wed Aug 5 may yield score improvement above prior 60-70/100 est. SBC drag ($433M = 33.6% of rev) still a concern for A-letter quality.
+- **INTC key update:** Multiple post-earnings analyst PT raises (Susquehanna $115, KeyBanc $155, Citi $130) but also sell-side downgrades on valuation. Stock +4.6% PM ($93-94 est.). Screener Tue Aug 4 AM — A-letter GAAP multi-year loss history remains the critical disqualifying risk.
+- **AMD update (not in universe, critical read-through):** +7.21% PM ($519.74). Earnings AMC tonight. Beat scenario → chips surge Wed Aug 5 = potential FTD catalyst. ±12.28% implied move.
+- **FTD calendar update:** Day 3 today (Aug 3); FTD window opens tomorrow Day 4 (Tue Aug 4); Iran de-escalation = additional tailwind; AMD beat Wed reaction (Day 5) = highest FTD probability day in 7+ weeks.
+
 **⚡ WEEK OF AUG 3-7 — HIGHEST FTD PROBABILITY IN 7+ WEEKS. STILL CORRECTION MODE UNTIL CONFIRMED.**
 
 **Critical calendar:**
-- **Mon Aug 3 (Day 3):** Factory Orders. Monitor dist threshold (~7,474 from 7,489.72 × 0.998). No FTD possible (Day 3). Market direction: dist day risk LOW (Day 2 was UP, market has momentum).
+- **Mon Aug 3 (Day 3 — TODAY):** ✅ Iran de-escalation overnight → ES +0.42-0.63%, NQ +1.12% | Factory Orders at 10:00 AM ET. No FTD possible (Day 3). Dist risk: ZERO (UP open). AMD pre-earnings positioning surge +7.21%.
 - **Tue Aug 4 (Day 4 — FTD WINDOW OPENS):** ⚡ AMD Q2 earnings **AMC tonight** (EPS est. $1.34 +396% YoY; Rev est. ~$11.2B +47% YoY). Run **INTC canslim-screener** today (post-blackout, with WebSearch data). ISM Services PMI (medium-importance macro data).
 - **Wed Aug 5 (Day 5):** AMD post-earnings reaction = potential FTD if beat. **ARM re-eval window opens** (Aug 5+). **GOOGL blackout clears** (Aug 5+). EIA crude oil inventories.
 - **Thu Aug 6 (Day 6):** Pre-NFP. Weekly Jobless Claims. If no FTD yet, watch for pre-NFP positioning.
