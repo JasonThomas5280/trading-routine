@@ -3846,3 +3846,26 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 - **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Weekly trades: 0/3
 - **Actions: NONE** — Correction 7/25 + Alpaca Day ~149 BLOCKED + 0 positions + 0 candidates ≥75 — **21st consecutive /eod-review with zero actions**
 - `research_source: websearch_fallback` | `SPX_Jul21_CLOSE_7509.18_+0.89pct` | `SPX_NOT_DIST_Jul21` | `dist_7of25_UNCHANGED` | `SPX_below_50d_0.34pct` | `SPX_above_200d_RECOVERED_0.59pct` | `Nasdaq_25837_+1.29pct` | `QQQ_696.06` | `ARM_exits_universe_CONFIRMED_Jul21_COB` | `GOOGL_TSLA_AMC_Jul22_tomorrow` | `SH_625_QUEUED` | `Alpaca_Day149_BLOCKED` | `21st_consecutive_eod_zero_actions`
+
+**✅ AUG 3 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,569 +1.05% NOT DIST ✅ — RALLY ATTEMPT DAY 3 INTACT — FTD WINDOW OPENS TUE AUG 4 — DIST 7/25 UNCHANGED — ALPACA DAY ~169 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~169 BLOCKED (proxy 403) | Perplexity 403 | AV 403
+- **Aug 3 close (WebSearch — SPY/Yahoo confirmed):** SPY **$754.89** (+$7.86 / +1.053% from $747.03 prev) | S&P 500 est. **~7,569** (+1.05% from 7,489.72 Jul 31) | QQQ **$688.64** (small gain — data suspect; /market-check had Nasdaq +1.76% at 10 AM CT)
+- **Distribution day verdict: NOT a distribution day ✅** — index UP +1.05%; no distribution possible on up days
+- **Distribution count: 7/25 UNCHANGED** | Active dist days: Jun 17, Jun 23, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17
+- **Rally Attempt status:**
+  - Day 1: Jul 30 (close 7,437.63 +1.70%) | Day 2: Jul 31 (close 7,489.72 +0.67%) | Day 3: Aug 3 (close ~7,569 +1.05%) — **Day 3 CONFIRMED INTACT ✅**
+  - Rally low: 7,266.99 (Jun 10) — intact (market well above; ~302 pts margin)
+  - **FTD window NOW OPEN: Aug 4 = Day 4 (first valid FTD day) through Aug 7 = Day 7**
+  - FTD threshold for Tue Aug 4: ~7,569 × 1.0125 ≈ **7,665** on volume > today's
+  - AMD earnings AMC tonight (Tue Aug 4) = PRIMARY FTD CATALYST if beat drives chip-led surge Wed Aug 5 (Day 5)
+  - NFP Fri Aug 7 = event gate (no new entries that day; FTD still valid if it fires before NFP)
+- **S&P vs MAs (estimated):**
+  - 50d MA: est. ~7,545-7,570 (S&P approximately at or slightly above 50d MA — positive signal)
+  - 200d MA: est. ~7,480 (S&P +1.2% above 200d MA approx — above 200d ✅)
+  - Golden cross (50d>200d) INTACT per /market-check
+- **State transition check:** NO transition today. Correction continues until FTD fires (Day 4-7, ≥+1.25% on higher volume).
+- **Sell-rules-engine:** SKIPPED (0 open positions)
+- **SH $625 hedge:** STILL QUEUED (Alpaca proxy blocked; exception: sell SH if FTD fires and state transitions to Confirmed Uptrend)
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Weekly trades: 0/3
+- **Actions: NONE** — Correction (7/25) + Alpaca Day ~169 BLOCKED + 0 positions + 0 candidates ≥75
+- `research_source: websearch_fallback` | `SPX_Aug3_est7569_+1.05pct_NOT_DIST` | `dist_7of25_UNCHANGED` | `RALLY_ATTEMPT_DAY3_CONF` | `FTD_window_OPEN_Aug4-Aug7` | `AMD_earnings_AMC_tonight_Aug4_primary_FTD_catalyst` | `NFP_Aug7_gate` | `SPX_at_50d_MA` | `SH_625_QUEUED` | `Alpaca_Day169_BLOCKED` | `59th_consecutive_eod_zero_actions`

@@ -5315,3 +5315,26 @@ Watching: INTC (screener Tue AM; +4.6% PM ~$93-94) | ARM (re-eval Wed Aug 5; +5.
 AMD earnings AMC TONIGHT: +7.21% PM ($519.74); beat = FTD catalyst Wed Aug 5 (Day 5); ±12.28% implied
 Key catalyst today: Iran de-escalation + Factory Orders 10 AM ET
 Plan: NO entries (Correction + Alpaca blocked). Watch AMD all day as NVDA/FTD read-through.
+
+---
+
+## 📊 EOD 2026-08-03 | Equity $2,500.00 (+0.00% day, +0.00% week)
+
+Open: 0 positions, 100% cash
+Distribution days: 7 of 25 (market: 🔴 Correction)
+Rally Attempt: Day 3 INTACT → FTD window NOW OPEN (Aug 4–Aug 7)
+
+Actions today:
+  • NONE — Correction posture, Alpaca blocked (Day ~169), 0 positions
+
+Close data: SPY $754.89 (+1.05%) | S&P ~7,569 | QQQ $688.64
+Not a distribution day ✅ | Dist count 7/25 unchanged
+
+Tomorrow (Tue Aug 4):
+  • AMD earnings reaction at open — beat = FTD catalyst (Day 4, need ≥+1.25% on elevated vol → ~7,665+ S&P)
+  • INTC canslim-screener AM
+  • FTD window Day 4 is first valid FTD day — watch closely
+  • NFP Fri Aug 7 = no entries that day
+  • SH $625 queued (cancel if FTD fires + state transitions to Confirmed Uptrend)
+
+`eod_Aug3` | `websearch_fallback` | `Alpaca_Day169_BLOCKED` | `dist_7of25_UNCHANGED` | `rally_day3_intact` | `FTD_window_open` | `AMD_AMC_tonight` | `NFP_Aug7_gate`

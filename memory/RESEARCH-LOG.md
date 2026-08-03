@@ -17251,3 +17251,27 @@ No primary watchlist names → classification SKIPPED. Correction posture. All b
 7. **ARM re-eval opens Wed Aug 5** — GAAP income positive is a meaningful upgrade signal
 
 `pre-market_Aug3` | `websearch_fallback` | `Alpaca_Day168_BLOCKED` | `52nd_degraded_session` | `57th_zero_action_session` | `Iran_de-escalation_overnight` | `Brent_83.50_-5pct` | `WTI_79.47_-5pct` | `ES_+0.42-0.63pct` | `NQ_+1.12pct` | `dist_7of25_UNCHANGED` | `dist_threshold_7474.74` | `dist_risk_ZERO` | `RALLY_ATTEMPT_DAY3` | `FTD_window_opens_TOMORROW_Tue_Aug4` | `AMD_519.74_+7.21pct_earnings_AMC_TONIGHT_key_FTD_catalyst` | `ARM_255.04_+5.63pct_GAAP_net_income_270M_POSITIVE` | `INTC_93-94est_+4.6pct_screener_Tue_Aug4` | `NVDA_198.68_-1.87pct_74_unchanged` | `circuit_breakers_ALL_CLEAR` | `actions_ZERO`
+
+---
+
+## 2026-08-03 — /eod-review
+
+**Close:** SPY $754.89 (+1.05%) | S&P 500 est. ~7,569 | QQQ $688.64 (est. gain; /market-check had Nasdaq +1.76%)
+**Distribution days:** 7 of 25 trailing 25 sessions (today: new dist? NO — UP day)
+**Market state:** 🔴 Market in Correction (7/25 dist days) — UNCHANGED (no state transition today)
+**Rally Attempt:** Day 3 CONFIRMED INTACT | FTD window NOW OPEN Aug 4–Aug 7 (Day 4–7)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED (0 open positions)
+  - No buys, sells, or stop adjustments
+**Circuit breakers:** none — ALL CLEAR
+**P&L today:** $0 (0%)
+**Equity:** $2,500 (HWM)
+**Key forward events:**
+  - AMD earnings AMC TUE AUG 4 (EPS est. $1.61; ±12.28% implied move) — primary FTD catalyst if beat
+  - FTD window Day 4-7 (Aug 4–Aug 7); threshold ~7,665+ on elevated volume
+  - INTC canslim-screener planned TUE AUG 4 AM
+  - ARM re-eval WED AUG 5 (GAAP income now positive; score upgrade likely)
+  - NFP FRI AUG 7 — event gate, no new entries
+  - Alpaca Day ~169 BLOCKED; SH $625 queued (cancel if FTD fires and state transitions)
+**Data sources:** `research_source: websearch_fallback` | Alpaca proxy 403 | Perplexity 403 | AV 403
