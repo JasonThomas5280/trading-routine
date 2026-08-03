@@ -51,6 +51,20 @@ Alpaca: Day ~167 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - **AMD update (not in universe, critical read-through):** +7.21% PM ($519.74). Earnings AMC tonight. Beat scenario → chips surge Wed Aug 5 = potential FTD catalyst. ±12.28% implied move.
 - **FTD calendar update:** Day 3 today (Aug 3); FTD window opens tomorrow Day 4 (Tue Aug 4); Iran de-escalation = additional tailwind; AMD beat Wed reaction (Day 5) = highest FTD probability day in 7+ weeks.
 
+**✅ AUG 3 /market-check UPDATE (10:00 AM CT):** 🔴 CORRECTION 7/25 UNCHANGED — S&P ~7,537 +0.64% NO DIST DAY ✅ — RALLY ATTEMPT DAY 3 INTACT — IRAN DE-ESCALATION CONFIRMED — AMD $472-515 INTRADAY PRE-EARNINGS — NVDA ~$197-199 — INTC ~$94-95 — ARM ~$250-255 — 0 ACTIONS
+- **Dist count: 7/25 UNCHANGED** | Dist threshold: 7,474.74 | S&P ~7,537 = ~62 pts above threshold → **NO DIST DAY TODAY ✅** | Rally Day 3 INTACT ✅
+- **⚠️ AMD EARNINGS DATE CORRECTION:** Pre-market entry said "AMC TONIGHT" — INCORRECT. AMD Q2 2026 reports **AMC TUESDAY AUG 4** (confirmed: AMD IR press release; conference call 5pm ET Tue Aug 4). EPS consensus revised to **$1.61** (prior memory said $1.34 — estimate has moved up). Rev guidance: $11.2B ±$300M confirmed.
+- **Market breadth (intraday ~11 AM ET):** S&P +0.64% | Dow +1.06% | Nasdaq +1.76% | Iran de-escalation + oil decline (Brent ~$83.50) = primary catalyst | MSFT +2.3% / AMZN +2.4% strong | MU −4.6% (isolated; not a semi read-through for our bench names)
+- **Bench status (intraday est.):**
+  - NVDA: ~$197-199 est. (slight give-back from $200.75 close; 74/100 UNCHANGED; BLOCKED)
+  - INTC: ~$94-95 est. (+4-5% from $90.20; screener runs TOMORROW Tue Aug 4 AM)
+  - ARM: ~$250-255 est. (+5-7% from $237-238; re-eval Wed Aug 5+)
+  - AMD: $472-515 intraday (pre-earnings vol; gave back PM gains; CRITICAL read — reports AMC Tue Aug 4; AMD reaction Wed Aug 5 = HIGHEST FTD PROBABILITY DAY)
+- **Bench promotion check: NONE** | NVDA no handle → no pivot defined → not within 2% of pivot | INTC below threshold + no base | ARM below threshold | No promotions/demotions
+- **Sell-rules-engine: SKIPPED** (0 positions — 28th consecutive skip)
+- Abort: CORRECTION (7/25) + Alpaca Day ~168 BLOCKED + 0 candidates ≥75 | 0 actions | 0 trades | 58th consecutive zero-action session
+- `market-check_Aug3` | `websearch_fallback` | `SPX_~7537_+0.64pct_NO_DIST_DAY` | `RALLY_ATTEMPT_DAY3_INTACT` | `AMD_earnings_CORRECTED_AMC_TuAug4_EPS_est_1.61` | `NVDA_197-199est_74_unchanged` | `INTC_94-95est_screener_TUE_AUG4` | `ARM_250-255est_reeval_Aug5` | `Iran_confirmed_Brent_83.50` | `Dow_+1.06pct_Nasdaq_+1.76pct` | `dist_7of25_UNCHANGED` | `dist_threshold_7474.74`
+
 **⚡ WEEK OF AUG 3-7 — HIGHEST FTD PROBABILITY IN 7+ WEEKS. STILL CORRECTION MODE UNTIL CONFIRMED.**
 
 **Critical calendar:**

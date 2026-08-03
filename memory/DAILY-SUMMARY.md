@@ -1,5 +1,25 @@
 
 ---
+## 2026-08-03 10:00 CT [market-check — 🔴 CORRECTION 7/25 — S&P ~7,537 +0.64% NO DIST ✅ — RALLY DAY 3 INTACT — IRAN DE-ESCALATION — AMD EARNINGS AMC TUE AUG 4 — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-08-03 10:00 CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+Actions taken:
+  • No new entries — Correction gate (7/25 ≥6) + Alpaca Day ~168 BLOCKED
+  • No sells — 0 open positions
+  • Watchlist: 0 primary (zero candidates ≥75; 20th consecutive zero-qualifying week)
+  • Sell-rules-engine: SKIPPED (0 positions)
+S&P ~7,537 +0.64% | Dow +1.06% | Nasdaq +1.76% | NO DIST DAY ✅ (threshold 7,474.74; cleared by 62 pts)
+Rally Attempt: DAY 3 INTACT ✅ | FTD Window OPENS TOMORROW Tue Aug 4 (Day 4) | FTD threshold ~7,631
+⚠️ AMD EARNINGS CORRECTED: Reports AMC TUE AUG 4 (was mis-labeled "tonight" in pre-market). EPS est. $1.61 (revised up from $1.34). AMD intraday $472-515 (pre-earnings vol).
+Iran de-escalation confirmed (Trump halted strikes) | Brent $83.50 (−17% from $100.69 Jul 23 peak) | Stagflation risk significantly reduced
+Bench: NVDA ~$197-199 (74/100 UNCHANGED) | INTC ~$94-95 (screener TUE AUG 4) | ARM ~$250-255 (re-eval WED AUG 5)
+Watchlist status: 0 primary, 5 bench (NVDA/INTC/ARM/MRVL/GOOGL — all below threshold or blocked)
+Open positions: 0 | Cash: 100% | Week Aug 3: 0/3 trades used | PDT: 0/3
+Next: /eod-review 3:15 PM CT | AMD reports AMC Tue Aug 4 → critical FTD setup
+`market-check_Aug3` | `websearch_fallback` | `Alpaca_Day168_BLOCKED` | `58th_zero_action_session`
+
+---
 ## 2026-07-31 15:15 CT [eod-review — 🔴 CORRECTION 7/25 — S&P CONF ~7,487 +0.67% NOT DIST ✅ — RALLY DAY 2 CONF — AAPL −9.2% | AMZN +13.7% — 30YR 5.26% — 0 POSITIONS — 0 ACTIONS]
 
 📊 EOD 2026-07-31 | Equity $2,500.00 (+0.00% day, +0.00% week, +0.00% month)
