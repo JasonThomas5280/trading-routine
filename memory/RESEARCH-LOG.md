@@ -46,6 +46,112 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-04 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — ⚡ FTD WINDOW DAY 4 OPEN — S&P MON CONF 7,600.50 +1.48% ✅ — FUTURES +0.21% ~7,642 — INTC SCREENER: 46/100 REJECTED — AMD EARNINGS AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~170 BLOCKED | Perplexity 403 | AV 403 — 53rd consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days unchanged — no new dist day Mon Aug 3)
+**Sector leaders (est.):** XLK Tech/Semis (Iran de-escalation rally Mon; AMD +7.21% Mon PM pre-earnings), Consumer Discretionary (AMZN ongoing strength), Industrials
+**Sector laggards:** XLRE (rate-sensitive; 10yr 4.69%), XLC (GOOGL blackout), XLE (Brent ~$83-84 stable)
+
+### Step 1: Overnight gap check on open positions
+- **Positions: 0** | Gap check SKIPPED (29th consecutive zero-position session)
+
+### Step 2: Catalyst scan — open positions
+- N/A (0 positions)
+
+### Step 3: Catalyst scan — primary watchlist
+
+**NVDA ($206.64 Aug 4 est. — +2.9% from Jul 31 close $200.75):**
+- BofA Securities reiterated Buy rating, PT $220 (Aug 4)
+- No negative catalysts overnight
+- Earnings Aug 26 AMC (22 days out — clear of 5-day blackout rule)
+- AI capex thesis intact: MSFT $255-260B + AMZN AWS +37% + AAPL demand = N-letter TRIPLE-CONFIRMED
+- Cup wk ~43, no handle → no pivot defined → 74/100 UNCHANGED
+- **Verdict: HOLD BENCH — 74/100, no change needed, no catalyst breaks setup**
+
+**INTC (~$89.62 Aug 3 close — range $85.62-$90.29):**
+- ⚠️ SCREENER RUN COMPLETED TODAY: **46/100 — REJECTED (below 75)**
+- Full score: C:20 A:0 N:12 S:2 L:10 I:2 Base:0 = 46/100
+- **A-letter CONFIRMED DISQUALIFIED:** 2023 GAAP EPS $0.40 / 2024 -$4.38 / 2025 -$0.08 → three-year GAAP rule violated twice; non-GAAP 2024 also negative (-$0.13)
+- Action: RECLASSIFY to long-term watch-only. Remove from weekly screener queue.
+- Re-score trigger: GAAP profitable for 2+ consecutive annual periods + valid base (≥6-8 wks) + Confirmed Uptrend + Alpaca restore. Est. 2027-2028 at earliest.
+- **Verdict: REMOVED FROM ACTIVE BENCH — score confirmed 46/100, well below 75 threshold**
+
+**ARM (~$255 pre-market Aug 3 / re-eval opens TODAY Wed Aug 5):**
+- ⚠️ NOTE: Re-eval window was stated as "Aug 5+" in prior memory; today IS Aug 4 (Tue). Re-eval proper opens TOMORROW Wed Aug 5.
+- Key pending question: Does GAAP Q1 FY2027 EPS ($270M net income positive per Aug 3 confirmed data) upgrade C-letter from prior fail?
+- SBC drag $433M = 33.6% of rev (GAAP vs adj spread remains large)
+- **Action: ARM re-eval runs TOMORROW (Wed Aug 5) per schedule — unchanged**
+
+**MRVL (~15-25/100 watch-only):**
+- No new catalysts; structure broken; watch-only unchanged
+
+**GOOGL (~60-65/100 watch-only):**
+- Earnings blackout clears TOMORROW (Wed Aug 5)
+- XLC sector #9; L-letter headwind structural; low priority
+
+### Step 4: Market overnight check (Aug 4 pre-market)
+
+**S&P 500 Monday Aug 3 CONFIRMED CLOSE: 7,600.50 (+1.48%)** — CORRECTION to prior memory (~7,569 est.)
+- Prior EOD review said ~7,569 (+1.05% via SPY proxy) — ACTUAL close was 7,600.50 (+1.48%)
+- Source: Bloomberg live update / TheStreet / Benzinga (multiple confirmation)
+- This is NOT a record high (ATH was 7,609.78 Jun 2); it IS the highest close since the correction began
+- Day 3 of rally attempt confirmed with strong conviction (+1.48% >> typical Day 3 session)
+
+**TODAY (Aug 4, Day 4) — FTD WINDOW IS OPEN:**
+- S&P futures pre-market: ~7,642 (+0.28% from Mon close 7,600.50)
+- NQ futures: positive bias (tech appetite intact)
+- FTD threshold today: 7,600.50 × 1.0125 = **~7,696** (needs +54 pts / +0.71% from futures level — possible if ISM Services beats + positive AMD positioning)
+- Dist threshold today: 7,600.50 × 0.998 = **7,585.30** (futures well above → dist risk VERY LOW)
+- 10yr yield: 4.69% (improving from 4.737% high; easing some multiple compression)
+- AMD pre-market: **$511.14 (-5.31%)** — pre-earnings profit-taking (up $519.74 Mon PM, market close ~$537 est., now pulling back)
+
+**Macro data today (Aug 4):**
+- ISM Services PMI (July) at 10:00 AM ET — est. 54.2 (expansion territory)
+- If ISM beats + AMD pre-earnings buzz = Day 4 FTD possible but requires +0.71% from current futures
+- Historical note: AMD earnings night is the primary FTD catalyst; Day 5 (Wed Aug 5) AMD reaction is highest-probability FTD day if AMD beats tonight
+
+**Geopolitical / rate environment:**
+- Iran de-escalation holding (Brent ~$83-84 stable, from $100+ Jul 23 peak)
+- Fed hike probability: ~64.5% likelihood of September hike per CME FedWatch → rate headwind persists
+- 10yr 4.69%, 30yr ~5.26% — multiple compression ongoing but 10yr improving
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Status | Last | Distance from Pivot | Catalyst |
+|--------|--------|------|-------------------|---------|
+| NVDA | 🔴 NO PIVOT | ~$206.64 | undefined (no handle) | AMD beat → N-letter upgrade |
+| INTC | 🔴 REMOVED | ~$89.62 | N/A (score 46/100) | A-letter structural fail |
+| ARM | 🔴 BELOW THRESHOLD | ~$255 | N/A (no base, re-eval tomorrow) | GAAP C-letter pending |
+| MRVL | 🔴 REMOVED | ~$89-95 est. | N/A (15-25/100) | None |
+| GOOGL | 🔴 WATCHING | est. | N/A (60-65/100) | Blackout clears tomorrow |
+
+**No items in buy-zone. Correction gate active. 0 entries possible.**
+
+### Step 6: Circuit breaker check
+
+- Daily P&L: $0 (no positions)
+- Weekly P&L: $0 (no positions) | Week of Aug 3: 0/3 trades
+- Equity: $2,500 (HWM) | All circuit breakers: **ALL CLEAR ✅**
+- PDT count: 0 of 3
+
+### Step 7: Risks
+
+- **AMD earnings AMC tonight (5pm ET):** ±8.5% implied move (options); pre-market -5.31% ($511) = profit-taking after +7.21% Mon surge. EPS est. $1.61; Rev est. $11.32B; MI350 AI chip shipments and Helios rack orders = key focal points. Miss or weak guide = dist day risk Wed; beat = potential FTD Wed (Day 5)
+- **FTD threshold today:** ~7,696 — requires +0.71% from current futures (~7,642). ISM Services beat could close the gap. Not guaranteed.
+- **Rate headwind:** Fed hike probability 64.5% Sept → 10yr 4.69% (improving but elevated). Hike = multiple compression
+- **Three prior FTD failures in 2026 (May, Jun, Jul):** do NOT anticipate FTD — wait for confirmed close ≥+1.25% on elevated vol
+
+### Actions
+
+NONE. 60th consecutive zero-action session. Correction gate (7/25 ≥6) + Alpaca Day ~170 BLOCKED.
+
+**Scan stats:** 1 screener run (INTC) | 0 passed ≥75 (INTC 46/100 rejected) | 21st consecutive week of 0 qualifying entries (correction posture) | `research_source: websearch_fallback`
+
+`pre-market_Aug4` | `websearch_fallback` | `Alpaca_Day170_BLOCKED` | `53rd_degraded_session` | `60th_zero_action_session` | `dist_7of25_UNCHANGED` | `S&P_Mon_CONF_7600.50_+1.48pct_CORRECTING_PRIOR_MEMORY` | `futures_7642_+0.28pct` | `FTD_WINDOW_DAY4_OPEN` | `FTD_threshold_7696` | `dist_threshold_7585.30` | `AMD_511.14_-5.31pct_PM_earnings_AMC_tonight` | `NVDA_206.64_+2.9pct_BofA_Buy_220_PT` | `INTC_screener_46of100_REJECTED_A_letter_GAAP_fail` | `ARM_reeval_TOMORROW_Wed_Aug5` | `GOOGL_blackout_clears_tomorrow` | `ISM_Services_est_54.2_1000AMET` | `10yr_4.69pct_improving` | `Fed_hike_64.5pct_Sept`
+
+---
+
 ## 2026-08-02 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P CONF 7,489.72 +0.70% — RALLY DAY 2 ✅ — FTD WINDOW TUE AUG 4–FRI AUG 7 — AMD AMC TUE | NFP FRI — 0 POSITIONS — 0 ACTIONS — 20TH CONSECUTIVE ZERO-ENTRY WEEK
 
 **Research source:** websearch_fallback (Alpaca Day ~167 BLOCKED | Perplexity 403 | AV 403 — 51st consecutive degraded session)

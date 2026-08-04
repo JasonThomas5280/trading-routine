@@ -6,7 +6,31 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 3 /market-check — 🔄 RALLY ATTEMPT DAY 3 INTACT ✅ | DIST 7/25 UNCHANGED | S&P ~7,537 +0.64% NO DIST DAY ✅ | Dow +1.06% Nasdaq +1.76% | Iran de-escalation CONFIRMED: Brent $83.50 WTI $79.47 | ⚠️ AMD EARNINGS CORRECTED: AMC TUE AUG 4 (not Mon) EPS est $1.61 | NVDA ~$197-199 | INTC ~$94-95 screener Tue Aug 4 AM | ARM ~$250-255 re-eval Wed Aug 5 | FTD WINDOW OPENS TOMORROW Tue Aug 4 Day 4 | Alpaca Day ~168 BLOCKED | 0 positions | 0 actions | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25 | EARLIEST UPTREND: Aug 17–21)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 4 /pre-market — ⚡ FTD WINDOW DAY 4 OPEN | DIST 7/25 UNCHANGED | S&P MON CONF 7,600.50 +1.48% ✅ | FUTURES +0.28% ~7,642 | FTD THRESHOLD ~7,696 | DIST THRESHOLD 7,585.30 | 10yr 4.69% | AMD EARNINGS AMC TONIGHT $511 -5.31% PM | NVDA ~$206.64 BofA Buy $220 PT | INTC SCREENER 46/100 REJECTED A-LETTER FAIL | ARM re-eval Wed Aug 5 | ISM Services 10 AM ET est 54.2 | Alpaca Day ~170 BLOCKED | 0 positions | 0 actions | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25 | EARLIEST UPTREND: Aug 17–21 OR FTD fires Day 4-7)*
+
+**✅ AUG 4 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚡ FTD WINDOW DAY 4 OPEN — S&P MON CONF 7,600.50 +1.48% — FUTURES ~7,642 +0.28% — FTD THRESHOLD ~7,696 — INTC SCREENER 46/100 REJECTED — AMD EARNINGS AMC TONIGHT — ISM SERVICES 10 AM ET — ALPACA DAY ~170 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~170 BLOCKED | Perplexity 403 | AV 403 | 53rd consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6 threshold) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken | 60th consecutive zero-action session
+- **S&P 500 Mon Aug 3 CONFIRMED CLOSE: 7,600.50 (+1.48%)** — CORRECTING PRIOR MEMORY (~7,569 est. was low; actual confirmed by Bloomberg/TheStreet/Benzinga). Jul 7 dist active; next expiry Aug 11.
+  - Dist threshold TODAY (Aug 4): **7,585.30** (7,600.50 × 0.998) | Futures ~7,642 → well above → **DIST RISK VERY LOW ✅**
+  - FTD threshold TODAY (Day 4): **~7,696** (7,600.50 × 1.0125) | Futures ~7,642 → +54 pts / +0.71% needed from current futures level
+- **⚡ FTD WINDOW DAY 4 — OPEN TODAY:** Day 1=Jul 30 | Day 2=Jul 31 | Day 3=Aug 3 (CONF 7,600.50 +1.48%) | **Day 4=Aug 4 (TODAY — FTD ELIGIBLE)**
+  - Day 3 was exceptionally strong (+1.48%) driven by Iran de-escalation — bullish momentum signal
+  - FTD today requires: S&P close ≥7,696 on volume above Mon's elevated vol → ISM Services beat (10 AM ET, est. 54.2) + positive AMD pre-earnings positioning = possible catalyst
+  - **AMD earnings AMC tonight (5pm ET):** Day 5 (Wed Aug 5) AMD reaction = highest FTD probability day. Miss → potential dist day.
+- **INTC screener completed TODAY — 46/100 REJECTED:**
+  - A-letter: 0/15 (GAAP EPS 2023 +$0.40 / 2024 -$4.38 / 2025 -$0.08 — three-year rule violated twice)
+  - Score: C:20 A:0 N:12 S:2 L:10 I:2 Base:0 = **46/100** (well below 75 threshold)
+  - Action: INTC reclassified to long-term watch-only. Re-score trigger: 2+ consecutive GAAP profitable years + valid base + Uptrend (est. 2027-2028).
+- **Bench pre-market prices (Aug 4):**
+  - NVDA: ~$206.64 (+2.9% from Jul 31 $200.75) | BofA reiterated Buy $220 PT | 74/100 UNCHANGED | BLOCKED
+  - INTC: ~$89.62 (Aug 3 close) | **46/100 CONFIRMED REJECTED** | REMOVED from bench screener queue
+  - ARM: ~$255 (Aug 3 PM) | Re-eval opens TOMORROW Wed Aug 5 (not today) | GAAP C-letter upgrade pending
+  - AMD: $511.14 (-5.31% pre-market today) — pre-earnings profit-taking | earnings AMC tonight
+  - MRVL: watch-only 15-25/100 | GOOGL: watch-only 60-65/100 | blackout clears Wed Aug 5
+- **Distribution count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 | Next expiry: Mon Aug 11 (Jul 7 → 6/25)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 trades | PDT: 0/3
+- `pre-market_Aug4` | `websearch_fallback` | `Alpaca_Day170_BLOCKED` | `60th_zero_action_session` | `dist_7of25_UNCHANGED` | `S&P_Mon_CONF_7600.50_+1.48pct` | `futures_~7642_+0.28pct` | `FTD_DAY4_OPEN_threshold_7696` | `dist_threshold_7585.30` | `INTC_screener_46of100_REJECTED` | `AMD_511.14_-5.31pct_earnings_AMC_tonight` | `NVDA_206.64_+2.9pct_74_unchanged` | `ARM_reeval_tomorrow_Aug5` | `ISM_Services_10am_est_54.2`
 
 **✅ AUG 3 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — 🔄 RALLY ATTEMPT DAY 3 — ES +0.42-0.63% NQ +1.12% — 🕊️ IRAN DE-ESCALATION OVERNIGHT — Brent -5% $83.50 / WTI $79.47 — AMD +7.21% PM $519.74 EARNINGS AMC TONIGHT — ARM +5.63% PM $255.04 — INTC +4.6% PM — NVDA -1.87% PM $198.68 — NO DIST DAY TODAY — FTD WINDOW OPENS TOMORROW — ALPACA DAY ~168 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~168 BLOCKED | Perplexity 403 | AV 403 | 52nd consecutive degraded session

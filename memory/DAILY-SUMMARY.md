@@ -1,5 +1,45 @@
 
 ---
+## 2026-08-04 06:00 CT [pre-market — 🔴 CORRECTION 7/25 — ⚡ FTD DAY 4 OPEN — S&P MON 7,600.50 +1.48% — INTC 46/100 REJECTED — AMD AMC TONIGHT — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-08-04
+Market: 🔴 Correction (7/25 dist days) | Futures: ES +0.28% (~7,642) NQ positive bias
+Open positions: 0 | Circuit breakers: NONE
+
+Overnight gaps: none (0 positions)
+
+⚡ FTD WINDOW DAY 4 OPEN TODAY
+- S&P Mon Aug 3 CONFIRMED close: 7,600.50 (+1.48%) — stronger than prior est. ~7,569
+- FTD threshold today: ~7,696 (+0.71% from futures needed)
+- Dist threshold today: 7,585.30 (futures well above — near-zero dist risk)
+- 10yr yield: 4.69% (improving from 4.737%)
+
+Watchlist ready (≥75 score, no gate): NONE
+Watchlist watching: NONE (all below threshold or Correction gate)
+
+INTC screener completed: 46/100 ❌ REJECTED
+- A-letter GAAP fail: 2024 EPS -$4.38, 2025 EPS -$0.08 (three-year rule violated)
+- Score: C:20 A:0 N:12 S:2 L:10 I:2 Base:0 = 46/100
+- INTC reclassified: long-term watch-only. Re-score est. 2027-2028.
+
+Bench status:
+- NVDA: ~$206.64 (+2.9%), BofA Buy $220 PT, 74/100 UNCHANGED, cup wk ~43 no handle, BLOCKED
+- ARM: ~$255, re-eval opens TOMORROW (Wed Aug 5), GAAP C-letter upgrade pending
+- GOOGL: blackout clears tomorrow
+
+Key catalyst today: AMD Q2 earnings AMC 5:00 PM ET
+- Pre-market: $511.14 (-5.31%) — profit-taking after Mon +7.21%
+- EPS est. $1.61 (+235% YoY); Rev est. $11.32B; ±8.5% implied move
+- Beat → Day 5 (Wed Aug 5) FTD candidate (highest probability day)
+- Miss → dist day risk + rally attempt at risk
+
+ISM Services PMI (July) at 10:00 AM ET, est. 54.2 — watch for beat as FTD catalyst today
+
+Removed: INTC (screener 46/100 — A-letter structural fail)
+
+Plan: NO ENTRIES — Correction gate (7/25) + Alpaca Day ~170 BLOCKED. Monitor AMD tonight. If AMD beats strong, prep for Day 5 FTD thesis Wed. If Day 4 S&P closes ≥7,696 on elevated vol → CONFIRMED UPTREND (note Alpaca still blocked = SH buy + long entries still pending Alpaca restore). 60th consecutive zero-action session.
+
+---
 ## 2026-08-03 10:00 CT [market-check — 🔴 CORRECTION 7/25 — S&P ~7,537 +0.64% NO DIST ✅ — RALLY DAY 3 INTACT — IRAN DE-ESCALATION — AMD EARNINGS AMC TUE AUG 4 — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-08-03 10:00 CT
