@@ -6,7 +6,35 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 4 /pre-market — ⚡ FTD WINDOW DAY 4 OPEN | DIST 7/25 UNCHANGED | S&P MON CONF 7,600.50 +1.48% ✅ | FUTURES +0.28% ~7,642 | FTD THRESHOLD ~7,696 | DIST THRESHOLD 7,585.30 | 10yr 4.69% | AMD EARNINGS AMC TONIGHT $511 -5.31% PM | NVDA ~$206.64 BofA Buy $220 PT | INTC SCREENER 46/100 REJECTED A-LETTER FAIL | ARM re-eval Wed Aug 5 | ISM Services 10 AM ET est 54.2 | Alpaca Day ~170 BLOCKED | 0 positions | 0 actions | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25 | EARLIEST UPTREND: Aug 17–21 OR FTD fires Day 4-7)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 4 /eod-review — ⚠️ FTD PRICE MET +1.79% TO NEW ATH 7,736.52 BUT VOLUME NOT CONFIRMED (NYSE <72% 30d avg — BELOW Monday) → FTD UNCONFIRMED STRICT RULE | DIST 7/25 UNCHANGED | NO DIST DAY TODAY (UP +1.79%) | AMD EARNINGS AMC TONIGHT (not yet reported at 3:15 CT) | NVDA $206.70 +2.96% 74/100 UNCHANGED | ARM re-eval DAY 5 OPENS TOMORROW WED AUG 5 | GOOGL blackout clears TOMORROW | Alpaca Day ~171 BLOCKED | 0 positions | 0 actions | FTD WINDOW: DAY 5 OPEN TOMORROW (AMD reaction = highest prob day) | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25)*
+
+**✅ AUG 4 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P NEW ATH 7,736.52 +1.79% ✅ NO DIST DAY — ⚠️ FTD PRICE MET BUT VOLUME LOW — DAY 5 TOMORROW = HIGHEST FTD PROB — AMD AMC TONIGHT — NVDA $206.70 +2.96% — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~171 BLOCKED | Perplexity 403 | AV 403 | 54th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6 threshold) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken | 63rd consecutive zero-action session
+- **S&P 500 Aug 4 CONFIRMED CLOSE: 7,736.52 (+1.79%)** — NEW ALL-TIME HIGH | Dow 54,085.88 (+1.71% / +907 pts NEW ATH) | Nasdaq 26,584.99 (+2.59%) | "Best four-day rally since April 2025" | 4-day cumulative: +298.89 pts / +4.02% from Day 1 (7,437.63 Jul 30)
+  - **Distribution check:** S&P +1.79% UP → **NOT a distribution day ✅** | Dist count: **7/25 UNCHANGED**
+  - **Dist threshold tomorrow (Day 5):** 7,736.52 × 0.998 = **~7,721.48**
+- **⚠️ FTD PRICE CRITERION MET — VOLUME UNCONFIRMED (STRICT RULE → CORRECTION UNCHANGED):**
+  - FTD threshold: 7,696 (7,600.50 × 1.0125) | Today's close: 7,736.52 → +40.52 pts ABOVE threshold ✅
+  - Volume: NYSE at <72% of 30-day average at 3PM → BELOW Monday's elevated volume (Mon had 19.36B shares vs 20-day avg 17.66B) → **volume criterion NOT met** per strict rule ("higher than prior day")
+  - Breadth: EXCELLENT — 80.4% advancers, 2.62:1 ratio advance/decline (genuine broad participation)
+  - **CONSERVATIVE CALL: FTD NOT CONFIRMED.** Correction unchanged. Reason: volume did not exceed prior day (Monday's elevated session). Three prior FTD failures in 2026 (May, Jun, Jul) reinforce conservative discipline.
+  - NOTE: New ATH break + best 4-day rally in 16 months = genuinely bullish context. If Day 5 (Wed Aug 5) fires on AMD beat + elevated volume = clean FTD.
+- **⚡ AMD EARNINGS AMC TONIGHT (5PM ET — NOT YET REPORTED at 3:15 CT):**
+  - EPS est. $1.61 | Rev est. $11.32B (+47% YoY) | Implied move: ±8.5%
+  - AMD beat + chip rally tomorrow = highest probability clean FTD (Day 5 = HIGHEST FTD PROB DAY)
+  - AMD miss or weak guide = potential dist day → dist count 8/25 → rally attempt may be at risk
+  - Day 5 FTD threshold (tomorrow): ~7,736.52 × 1.0125 = **~7,834.75** (if AMD reaction sends market +1.25%+ on elevated volume)
+- **Bench prices (Aug 4 close):**
+  - NVDA: **$206.70 (+2.96%)** | Cup wk ~44; no handle | 74/100 UNCHANGED | BLOCKED (Correction + Alpaca + no handle)
+  - INTC: est. ~$92-95 range (no close data; 46/100 REJECTED — long-term watch only)
+  - ARM: re-eval opens TOMORROW (Aug 5) | Score pending formal run
+  - PLTR: +17% today ($1.94B Rev +93% Q2; EPS $0.41 adj; US Commercial +149%) | bench candidate ~67-72/100 est. | float 2.14B = S-letter headwind
+  - MRVL: watch-only ~15-25/100 | GOOGL: watch-only ~60-65/100 (blackout clears tomorrow)
+- **Sell-rules-engine: SKIPPED** (0 positions — 30th consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 trades | PDT: 0/3
+- **Distribution count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 | Next expiry: Mon Aug 11 (Jul 7 → 6/25) | FTD Window: DAY 5 OPEN TOMORROW (Aug 5)
+- `eod-review_Aug4` | `websearch_fallback` | `Alpaca_Day171_BLOCKED` | `54th_degraded_session` | `63rd_zero_action_session` | `SPX_CONF_7736.52_+1.79pct_NEW_ATH` | `Dow_54085.88_+1.71pct_NEW_ATH` | `Nasdaq_26584.99_+2.59pct` | `NO_DIST_DAY_Aug4` | `dist_7of25_UNCHANGED` | `dist_threshold_tomorrow_7721.48` | `FTD_price_MET_volume_NOT_CONFIRMED_STRICT_RULE` | `FTD_unconfirmed_Correction_UNCHANGED` | `AMD_AMC_tonight_EPS_1.61_Rev_11.32B` | `FTD_Day5_threshold_~7834.75` | `NVDA_206.70_+2.96pct_74_unchanged` | `PLTR_bench_candidate_67-72est_float_headwind` | `ARM_reeval_TOMORROW_Aug5` | `GOOGL_blackout_clears_TOMORROW` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 4 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚡ FTD WINDOW DAY 4 OPEN — S&P MON CONF 7,600.50 +1.48% — FUTURES ~7,642 +0.28% — FTD THRESHOLD ~7,696 — INTC SCREENER 46/100 REJECTED — AMD EARNINGS AMC TONIGHT — ISM SERVICES 10 AM ET — ALPACA DAY ~170 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~170 BLOCKED | Perplexity 403 | AV 403 | 53rd consecutive degraded session

@@ -5400,3 +5400,38 @@ Tomorrow (Tue Aug 4):
 **Circuit breakers:** ALL CLEAR
 
 **Next check:** /eod-review 3:15 PM CT
+
+---
+
+## 📊 EOD 2026-08-04 | Equity $2,500.00 ($0.00 day, $0.00 week)
+
+**Open:** 0 positions / 100% cash
+**Distribution days:** 7/25 (today: NOT a dist day — S&P +1.79% NEW ATH)
+**Market:** 🔴 Correction (no state change — FTD unconfirmed)
+
+**Actions today:**
+• NONE — Correction gate + Alpaca Day ~171 BLOCKED
+
+**⚠️ FTD ALERT — WATCH TOMORROW:**
+• S&P closed 7,736.52 (+1.79%) — NEW ALL-TIME HIGH; Dow +1.71% NEW ATH; Nasdaq +2.59%
+• Day 4 price met FTD criterion (+1.79% > 1.25%) BUT volume BELOW Monday's elevated level
+• Strict rule: FTD unconfirmed. Correction unchanged.
+• Day 5 (Wed Aug 5) = HIGHEST probability FTD day this week
+• AMD earnings AMC TONIGHT (EPS est. $1.61; Rev est. $11.32B) = primary catalyst
+• Beat + AMD rally tomorrow + volume > today → FTD fires → CONFIRMED UPTREND → SH exit + buy plans activate (Alpaca restore required)
+• FTD Day 5 threshold: ~7,834.75
+
+**Bench status:**
+• NVDA: $206.70 +2.96% | 74/100 UNCHANGED | cup wk ~44 no handle | BLOCKED
+• PLTR: +17% today (Q2 Rev +93% $1.94B, EPS $0.41 adj) | bench candidate ~67-72/100 | float 2.14B headwind
+• ARM: re-eval opens TOMORROW (Aug 5) — GAAP C-letter upgrade possible
+• GOOGL: blackout clears TOMORROW — low priority (XLC #9)
+• INTC: 46/100 REJECTED — removed from active bench permanently
+
+**Tomorrow (Aug 5 — Day 5):**
+• AMD post-earnings reaction: key read for chip sector + FTD probability
+• ARM canslim-screener (C-letter: GAAP net income $270M positive Q1 FY2027)
+• Dist threshold: ~7,721.48 | FTD threshold: ~7,834.75
+• NFP Fri Aug 7 (Day 7) = final FTD window day
+
+`research_source: websearch_fallback` | `Alpaca_Day171_BLOCKED` | `dist_7of25_UNCHANGED`

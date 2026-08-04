@@ -152,6 +152,76 @@ NONE. 60th consecutive zero-action session. Correction gate (7/25 ≥6) + Alpaca
 
 ---
 
+## 2026-08-04 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P NEW ATH 7,736.52 +1.79% — ⚠️ FTD PRICE MET BUT VOLUME LOW — 0 POSITIONS — 0 ACTIONS — 63RD CONSECUTIVE ZERO-ACTION SESSION
+
+**Research source:** websearch_fallback (Alpaca Day ~171 BLOCKED | Perplexity 403 | AV 403 — 54th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days unchanged — NOT a distribution day today; no state change)
+**Sector leaders (today):** XLK Technology (chip rally NVDA +2.96% / Nasdaq +2.59%), Consumer Discretionary, Industrials
+**Sector laggards:** XLRE (rate-sensitive), XLE (oil stable ~$83-84)
+
+### Step 1: Pull fresh market state
+
+**S&P 500 Aug 4 CONFIRMED CLOSE: 7,736.52 (+1.79%)** — NEW ALL-TIME HIGH
+- Dow: 54,085.88 (+1.71% / +907 pts) — NEW ATH | Nasdaq: 26,584.99 (+2.59%)
+- "Best four-day rally since April 2025" | 4-day cumulative from Day 1 (7,437.63): +4.02%
+- Dist threshold today: 7,600.50 × 0.998 = 7,585.30 | Actual: +1.79% → NOT dist day ✅
+- **Distribution count: 7/25 UNCHANGED**
+
+**⚠️ FTD ASSESSMENT (Day 4):**
+- Price: 7,736.52 (+1.79%) > 7,696 threshold (+1.25%) ✅
+- Volume: NYSE <72% of 30-day average at 3PM → BELOW Monday's elevated volume ❌
+- Breadth: 80.4% advancers / 2.62:1 ratio — excellent ✅ but volume is the binding criterion
+- **VERDICT: FTD NOT CONFIRMED (strict rule: "volume higher than prior day" not met)**
+- Correction UNCHANGED. FTD window remains open through Day 7 (Fri Aug 7 + NFP).
+
+### Step 2: Sell-rules-engine
+
+- **Positions: 0** | SKIPPED (30th consecutive skip)
+
+### Step 3: Verdicts executed
+
+NONE — no positions.
+
+### Step 4: Portfolio-level checks
+
+- **Dist cluster check:** dist count 7/25 — no trigger, no change
+- **Hedge entry check:** SH $625 still QUEUED (Alpaca Day ~171 BLOCKED; cannot execute)
+- **FTD exit check:** FTD not confirmed → SH hedge stays (if FTD fires tomorrow, exit SH within 2 sessions post-Alpaca-restore)
+
+### Step 5: Circuit breaker check
+
+- Daily P&L: $0 | Weekly P&L: $0 | Equity: $2,500 (HWM)
+- **ALL CIRCUIT BREAKERS: CLEAR ✅**
+
+### Step 6: Weekly trade counter
+
+- **Week of Aug 3:** 0/3 positions opened | 0 sells | 0 stop adjustments
+- Consecutive zero-trade weeks: 22nd
+
+### Step 7: /eod-review Summary
+
+**Close:** S&P 7,736.52 (+1.79% NEW ATH) | Dow 54,085.88 (+1.71% NEW ATH) | Nasdaq 26,584.99 (+2.59%)
+**Distribution days:** 7/25 (today: NOT a dist day ✅)
+**Market state:** 🔴 Correction (no state change — FTD unconfirmed due to volume)
+**Positions held:** 0
+**Actions today:** NONE (64th consecutive zero-action session counting today)
+**Circuit breakers:** ALL CLEAR
+**P&L today:** $0 | **Equity:** $2,500 (HWM)
+
+### Step 8: Tomorrow (Wed Aug 5) — Day 5 priorities
+
+- **AMD post-earnings reaction** = HIGHEST probability FTD day in the entire window
+  - If AMD beat tonight → chips surge → S&P target +1.25%+ on elevated volume → FTD Day 5
+  - FTD Day 5 threshold: ~7,736.52 × 1.0125 = **~7,834.75**
+  - If AMD miss/weak guide → dist day risk → rally attempt invalidated
+- **ARM canslim-screener** re-eval opens (C-letter upgrade pending — GAAP net income $270M positive Q1 FY2027)
+- **GOOGL blackout clears** — low priority (XLC #9; score est. 60-65/100)
+- **Dist threshold tomorrow:** ~7,721.48 (7,736.52 × 0.998)
+
+`eod-review_Aug4` | `websearch_fallback` | `Alpaca_Day171_BLOCKED` | `54th_degraded_session` | `63rd_zero_action_session` | `SPX_CONF_7736.52_+1.79pct_NEW_ATH` | `Dow_54085.88_+1.71pct` | `Nasdaq_26584.99_+2.59pct` | `dist_7of25_UNCHANGED` | `NO_DIST_DAY_Aug4` | `FTD_price_MET_volume_NOT_CONFIRMED_strict_rule` | `FTD_unconfirmed_Correction_unchanged` | `AMD_AMC_tonight_EPS_est_1.61` | `Day5_FTD_threshold_7834.75` | `NVDA_206.70_+2.96pct_74_unchanged` | `PLTR_bench_candidate_67-72est` | `ARM_reeval_tomorrow_Aug5` | `GOOGL_blackout_clears_tomorrow` | `SH_QUEUED_Alpaca_blocked` | `circuit_breakers_ALL_CLEAR` | `22nd_zero_trade_week`
+
+---
+
 ## 2026-08-02 (Sun) — /weekly-prep (4:00 PM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — S&P CONF 7,489.72 +0.70% — RALLY DAY 2 ✅ — FTD WINDOW TUE AUG 4–FRI AUG 7 — AMD AMC TUE | NFP FRI — 0 POSITIONS — 0 ACTIONS — 20TH CONSECUTIVE ZERO-ENTRY WEEK
 
 **Research source:** websearch_fallback (Alpaca Day ~167 BLOCKED | Perplexity 403 | AV 403 — 51st consecutive degraded session)
