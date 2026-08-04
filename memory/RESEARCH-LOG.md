@@ -17381,3 +17381,63 @@ No primary watchlist names → classification SKIPPED. Correction posture. All b
   - NFP FRI AUG 7 — event gate, no new entries
   - Alpaca Day ~169 BLOCKED; SH $625 queued (cancel if FTD fires and state transitions)
 **Data sources:** `research_source: websearch_fallback` | Alpaca proxy 403 | Perplexity 403 | AV 403
+
+---
+
+## 2026-08-04 — /market-check (10:00 AM CT)
+
+**Market state:** 🔴 MARKET IN CORRECTION (7/25 dist days) | `research_source: websearch_fallback` | Alpaca Day 171 BLOCKED | Perplexity 403 | AV 403
+
+### Abort Gate Result: FIRED — CORRECTION
+All new long entries BLOCKED. No positions to health-check.
+
+### Market Data (intraday, 10 AM CT)
+- S&P 500: est. ~7,607 (+0.09% from 7,600.50 Aug 3) | SPY close est. $760.21 | Intraday high 7,610.04
+- Nasdaq: +~0.8-1% (PLTR + chip names driving)
+- Dow: +~0.4%
+- **FTD Day 4: NOT fired** — intraday high 7,610 vs threshold 7,695.51 (+1.25% from 7,600.50)
+- FTD window: Day 5–7 (Aug 5–7) still open
+
+### Key Catalyst — PLTR Q2 2026 Blowout (AMC Aug 3)
+- Revenue: $1.94B (+93% YoY) vs $1.80B est → BEAT
+- EPS adj: $0.41 vs $0.35 est → BEAT
+- US Commercial Revenue: +149% YoY
+- Net income: $1.07B (was $329M prior year = +225%)
+- FY26 guidance: raised to $8.15-8.16B (vs $7.69B est) — massive raise
+- CEO Karp: "This quarter was otherworldly"
+- Stock: +17% today (~$144.90 from $125.65 prior close)
+- Float: 2.14B shares | Total shares: 2.40B
+- Preliminary CAN SLIM score (degraded): **~67-72/100** (C:20, N:15, L:10, A:~10, I:7, S:0-5 due to float, Base:5)
+- Float headwind likely keeps score below 75 threshold → BENCH only; re-score Wed Aug 5
+
+### Key Catalyst — ARM Holdings (+11% today)
+- "Data Center Royalty Growth Drives Post-Selloff Semiconductor Rally" (Benzinga)
+- GAAP income positive from Q1 FY2027: net income $270M, GAAP EPS $0.25 (+92% YoY)
+- Re-eval: CONFIRMED Wed Aug 5 (GAAP upgrade to C-letter = significant improvement)
+- Prior score: 60-70/100 → estimated with GAAP upgrade: 65-75/100
+
+### AMD (Pending — AMC Tonight Aug 4)
+- Estimates: EPS $1.61-1.62 adj | Revenue $11.2-11.3B
+- Implied move: ±12.28%
+- Beat + guidance raise → primary FTD catalyst for Wed Aug 5 (Day 5 of rally)
+- Miss → potential dist day #8 risk Wed Aug 5
+
+### Watchlist / Bench
+- Primary: 0 candidates ≥75 (gate blocked by Correction anyway)
+- Bench: PLTR (NEW, ~67-72/100 degraded) | ARM (60-70/100, re-eval Wed) | NVDA (74/100) | MRVL (15-25/100 watch-only)
+- INTC: ELIMINATED (46/100, GAAP A-letter disqualifying)
+
+### Actions
+- No entries (Correction gate fires)
+- No exits (0 open positions)
+- Sell-rules-engine: SKIPPED
+- SH $625 hedge: STILL QUEUED (Alpaca blocked)
+
+### Forward Events
+- AMD AMC tonight → FTD Day 5 catalyst or dist day risk
+- ARM re-score Wed Aug 5
+- PLTR re-score Wed Aug 5
+- NFP Fri Aug 7 (event gate — no new entries)
+- FTD window closes after Aug 7 EOD
+
+`research_source: websearch_fallback` | `Alpaca_Day171_BLOCKED` | `PLTR_Q2_blowout_bench_added` | `ARM_plus11pct_re-eval_Aug5` | `INTC_eliminated` | `FTD_Day4_NOT_fired` | `AMD_AMC_pending`

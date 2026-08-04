@@ -5378,3 +5378,25 @@ Tomorrow (Tue Aug 4):
   • SH $625 queued (cancel if FTD fires + state transitions to Confirmed Uptrend)
 
 `eod_Aug3` | `websearch_fallback` | `Alpaca_Day169_BLOCKED` | `dist_7of25_UNCHANGED` | `rally_day3_intact` | `FTD_window_open` | `AMD_AMC_tonight` | `NFP_Aug7_gate`
+
+---
+
+## 📈 Market-Check 2026-08-04 10:00 CT
+
+**Market:** 🔴 CORRECTION (7/25 dist days) | **Alpaca:** Day 171 BLOCKED (403)
+**FTD Status:** Day 4 of rally attempt — NOT fired (S&P ~7,607 << threshold 7,695.51)
+**FTD Window:** Day 5–7 still open (Aug 5–7) | AMD AMC tonight = primary Day 5 catalyst
+
+**Actions taken:** No new entries — Correction gate fires | 0 open positions
+
+**Key developments:**
+- PLTR +17%: Q2 Rev +93% ($1.94B), EPS $0.41 adj, US Commercial +149%, FY guide $8.15B → added to bench (~67-72/100; float 2.14B = S-letter headwind)
+- ARM +11%: data center royalty growth → re-eval Wed Aug 5 (GAAP income positive, score upgrade likely)
+- INTC: ELIMINATED from bench (46/100, A-letter GAAP fail)
+- AMD: reports AMC tonight (EPS est. $1.61, Rev est. $11.3B) → beat = FTD Day 5 catalyst
+
+**Watchlist:** 0 primary | 4 bench (PLTR, ARM, NVDA 74/100, MRVL watch-only)
+**Open positions:** 0 | **Weekly trades:** 0/3 | **Equity:** $2,500 (HWM)
+**Circuit breakers:** ALL CLEAR
+
+**Next check:** /eod-review 3:15 PM CT

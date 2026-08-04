@@ -3893,3 +3893,36 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 - **Circuit breakers:** ALL CLEAR | Equity: $2,500 HWM | P&L: $0 | Weekly trades: 0/3
 - **Actions: NONE** — Correction (7/25) + Alpaca Day ~169 BLOCKED + 0 positions + 0 candidates ≥75
 - `research_source: websearch_fallback` | `SPX_Aug3_est7569_+1.05pct_NOT_DIST` | `dist_7of25_UNCHANGED` | `RALLY_ATTEMPT_DAY3_CONF` | `FTD_window_OPEN_Aug4-Aug7` | `AMD_earnings_AMC_tonight_Aug4_primary_FTD_catalyst` | `NFP_Aug7_gate` | `SPX_at_50d_MA` | `SH_625_QUEUED` | `Alpaca_Day169_BLOCKED` | `59th_consecutive_eod_zero_actions`
+
+**✅ AUG 4 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — DAY 4 RALLY ATTEMPT — FTD NOT FIRED (7,610 intraday << 7,696 threshold) — PLTR +17% BLOWOUT — ARM +11% — AMD AMC TONIGHT — DIST 7/25 UNCHANGED — ALPACA DAY 171 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day 171 BLOCKED (proxy 403 confirmed) | Perplexity 403 | AV 403
+- **S&P 500 intraday (10 AM CT):** SPY $759.10-$760.64 range | SPY close est. $760.21 | S&P intraday high ~7,610.04 | S&P ~7,607 est. (+0.09% from 7,600.50 Aug 3 close) | Fresh ATH territory (prior ATH Jun 2: 7,609.78)
+- **Nasdaq/Dow:** Nasdaq up ~0.8-1% (chip names + PLTR driving); Dow up ~0.4% | PLTR +17% key driver
+- **FTD Analysis (Day 4):**
+  - Rally low: Jul 30, 7,437.63 (Day 1) | Day 2: Jul 31 | Day 3: Aug 3 | **Day 4: Aug 4 (TODAY)**
+  - FTD threshold: 7,600.50 × 1.0125 = **7,695.51** (min required)
+  - Intraday high: ~7,610 | Close est: ~7,607 → **FTD NOT FIRED ❌** (7,607 < 7,695.51)
+  - FTD window: Day 4–7 = Aug 4–Aug 7 | **STILL OPEN: Day 5 (Aug 5), Day 6 (Aug 6), Day 7 (Aug 7)**
+  - AMD earnings AMC tonight = **PRIMARY FTD CATALYST for Wed Aug 5 (Day 5)** if beat drives chip-led surge ≥+1.25% on elevated volume
+- **Distribution day verdict: NOT a distribution day ✅** — index UP ~+0.09%; no distribution possible on up days
+- **Distribution count: 7/25 UNCHANGED** | Active: Jun 17?, Jun 23?, Jul 7, Jul 8, Jul 13, Jul 16, Jul 17 (⚠️ earliest dates may be expired per prior week notes — Jul 29 dist likely replaced Jun 23; recount at /eod-review)
+- **Abort gates:** CORRECTION (7/25 ≥6 threshold) ✅ + Alpaca BLOCKED ✅ → **ABORT ALL ENTRIES**
+- **Primary watchlist triggers: 0** (no candidates ≥75; no triggers to evaluate)
+- **Position health check:** SKIPPED (0 open positions)
+- **Bench updates:**
+  - ✅ PLTR ADDED TO BENCH: Q2 2026 blowout AMC Aug 3 → Rev $1.94B +93% YoY (beat $1.80B) | EPS $0.41 adj (beat $0.35) | US Commercial +149% | Net income $1.07B (+225%) | FY guide raised $8.15-8.16B (vs $7.69B est.) | Stock +17% today | Price ~$144.90 | Float 2.14B shares ⚠️ (massive S-letter headwind; likely caps score 55-65/100 degraded) | Re-score Wed Aug 5 with GAAP EPS YoY calc
+  - ✅ ARM +11% today (Benzinga: "Data Center Royalty Growth Drives Post-Selloff Semiconductor Rally") | 20-day SMA ~$272 (pre-surge) | Post-surge est. ~$280+ | Re-eval CONFIRMED Wed Aug 5 | GAAP income positive (C-letter upgrade path)
+  - ✅ INTC ELIMINATED from bench: 46/100 confirmed (A-letter GAAP disqualifying: 2024 EPS −$4.38, 2025 EPS −$0.08) | Removed permanently
+  - ⬜ NVDA: ~74/100 UNCHANGED (cup wk ~43; no handle; Aug 2026+ timeline)
+  - ⬜ MRVL: ~15-25/100 UNCHANGED (broken structure; watch-only)
+- **Bench promotion check:** NONE (all below 75; no promotions; PLTR added as B-new at watch-only)
+- **SH $625 hedge:** STILL QUEUED (Alpaca blocked; cancel only if FTD fires + Uptrend confirmed)
+- **Circuit breakers:** ALL CLEAR | Equity: $2,500 (HWM) | P&L: $0 | Weekly trades: 0/3
+- **Actions: NONE** — Correction (7/25) + Alpaca Day 171 BLOCKED + 0 positions + 0 candidates ≥75
+- **Key forward events:**
+  - AMD earnings AMC TONIGHT (EPS est. $1.61-1.62; Rev est. $11.2-11.3B; ±12.28% implied) → FTD Day 5 catalyst Wed Aug 5
+  - ARM re-eval Wed Aug 5 (GAAP income positive; score upgrade likely toward 70-75/100)
+  - PLTR bench re-score Wed Aug 5 (check float impact vs C/N/L strength)
+  - NFP Fri Aug 7 (event gate — no new entries that session regardless of market state)
+  - FTD window expires Sat (after Aug 7 close); if no FTD by Aug 7 → rally attempt DEAD → new Day 1 needed
+- `research_source: websearch_fallback` | `market_check_Aug4_10AM_CT` | `SPX_Day4_7607est_NOT_FTD` | `dist_7of25_UNCHANGED` | `FTD_window_Day5-7_Aug5-7` | `AMD_AMC_tonight_FTD_catalyst` | `PLTR_blowout_Q2_bench_added` | `ARM_plus11pct_re-eval_Aug5` | `INTC_eliminated_46_100` | `SH_625_QUEUED` | `Alpaca_Day171_BLOCKED` | `62nd_consecutive_zero_action_session`

@@ -725,3 +725,56 @@ Alpaca: Day ~122 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - **S&P 500:** Opened ~7,404, sold to intraday low 7,323.50 (56 pts above rally low 7,266.99 — INTACT), recovering to "relatively unchanged" (~7,350-7,360 vs 7,357.49 prior close). Dist day risk: uncertain — watch at /eod-review.
 - **Bench scores (updated):** NVDA **68-70/100** ⬇️ (was 70-71; GPU lease compression + insider selling + OpenAI delay = N-letter impaired further) | MRVL **71/100** | LRCX **67/100** | ARM **60/100**. All below 75 threshold.
 - **Actions:** NONE. Correction + Alpaca Day 111 BLOCKED. 0 primary items. 0 positions.
+
+---
+
+## Aug 4 /market-check — Bench Update
+
+**Date:** 2026-08-04 10:00 AM CT | State: 🔴 CORRECTION (7/25) | Alpaca Day 171 BLOCKED
+
+**Primary Watchlist: NONE** (0 candidates ≥75; Correction blocks all entries)
+
+### Bench Changes
+
+**➕ ADDED — PLTR (Palantir Technologies)**
+- **Q2 2026 beat (AMC Aug 3):** Rev $1.94B +93% YoY (beat $1.80B) | EPS $0.41 adj (beat $0.35 est) | US Commercial +149% YoY | Net income $1.07B | FY26 guide raised to $8.15-8.16B vs $7.69B est.
+- **Stock today:** +17% → ~$144.90 | Prior close: $125.65 | Float: 2.14B shares (⚠️ MASSIVE — S-letter headwind)
+- **Preliminary score (degraded, websearch_fallback):** C: 20/20 (EPS +225% YoY) | A: est. 10/15 (need to verify 3yr history) | N: 15/15 (new ATH + massive beat + guidance raise) | S: 0-5/15 (2.14B float = disqualifying headwind) | L: 10/15 (RS rank surging; Nasdaq comp) | I: 7/10 (institutional adding post-earnings) | Base: 5/10 (post-earnings pivot; cup structure forming) → **est. 67-72/100 degraded** (float kills S-letter)
+- **Status:** 🟡 WATCH-ONLY — score likely below 75 threshold due to float; re-score Wed Aug 5
+- **Entry gate:** BLOCKED (Correction + Alpaca + float headwind likely keeps below 75)
+- **Liquidity:** ADV >> 500K ✓ | Price $144.90 ✓ ($10-$500 range)
+
+**✅ ARM — Updated**
+- **Aug 4 performance:** +11% (Benzinga: "Data Center Royalty Growth Drives Post-Selloff Semiconductor Rally")
+- **Price est.:** ~$283 (post-surge from ~$255 pre-market Aug 3)
+- **Re-eval status:** Confirmed Wed Aug 5 (GAAP income now positive; C-letter upgrade path)
+- **Score est. (with GAAP upgrade):** C: 15-20/20 (GAAP EPS +92% YoY) | A: 8/15 | N: 12/15 | S: 8/15 | L: 10-12/15 | I: 5/10 | Base: 0/10 → est. **58-72/100** — broad range; final score Wed Aug 5 after GAAP EPS verification
+
+**❌ INTC — ELIMINATED**
+- Screener result (Aug 4 /pre-market): **46/100** — A-letter GAAP fail (2024 EPS −$4.38 / 2025 EPS −$0.08 = disqualifying)
+- **Permanently removed from bench.** Re-entry requires 3 consecutive years of GAAP EPS ≥+25%.
+
+**⬜ NVDA — Unchanged (74/100)**
+- Cup wk ~43; no handle; no base completion; Aug 2026+ timeline
+- Live bars unavailable (Alpaca blocked); base pattern bonus (10pts) unconfirmable
+- Score: 74/100 UNCHANGED | Blocked: Correction + no base + below threshold effective (without base bonus = 64/100)
+
+**⬜ MRVL — Watch-only (~15-25/100)**
+- Broken structure post-$279 rejection; score too low for meaningful bench position
+- No near-term catalyst; watch-only
+
+### Entry Execution Plan — Week of Aug 3
+
+**Entry gate: ⛔ ZERO new long entries** (Correction 7/25 + Alpaca Day 171 BLOCKED + 0 candidates ≥75)
+
+**FIRST order on Alpaca restore (unchanged):** Buy SH $625 / 25% portfolio — unless FTD fires first (then: cancel SH, buy leading stocks)
+
+**If AMD beats AMC tonight → Wed Aug 5 watch:**
+1. S&P 500 must close ≥7,695.51 (+1.25% from 7,600.50) on volume > Aug 4 → FTD confirmed
+2. If FTD fires: cancel SH queue, transition to "Confirmed Uptrend," run canslim-screener on PLTR + ARM at /pre-market
+3. If FTD does not fire by Aug 7 → rally attempt DEAD; reset
+
+**Key dates:**
+- Wed Aug 5: ARM re-eval | PLTR re-score | FTD Day 5
+- Fri Aug 7: NFP (event gate — no entries) | FTD Day 7 (FINAL)
+- AMD AMC tonight Aug 4: primary catalyst
