@@ -5435,3 +5435,17 @@ Tomorrow (Tue Aug 4):
 • NFP Fri Aug 7 (Day 7) = final FTD window day
 
 `research_source: websearch_fallback` | `Alpaca_Day171_BLOCKED` | `dist_7of25_UNCHANGED`
+
+---
+## 2026-08-05 11:20 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-08-05 (Wed — FTD Day 5)
+Market: Correction 7/25 | ES +0.25% NQ -0.07%
+Positions: 0 | Circuit breakers: NONE
+FTD Day 5: EFFECTIVELY FAILED — AMD -8.8% AH Helios disappoint — threshold 7,834.75 unreachable
+AMD Q2: Rev 11.54B +50% BEAT / EPS 1.66 BEAT / DC +107% DOUBLED / Q3 guide 13B BEAT — NVDA N-letter FOURTH CONF
+Dist day 8 risk: MODERATE (threshold 7,721.48; 35 pts cushion at open; monitor close)
+ARM screener: BLOCKED (insufficient data; partial est 55-65/100 — below threshold)
+GOOGL blackout clears (60-65/100 not actionable) | PLTR est 67-72/100 below threshold
+FTD window: Day 6 Thu Aug 6 + Day 7 Fri Aug 7 NFP (last chance)
+Plan: NO entries — Correction + Alpaca BLOCKED + 0 candidates above 75

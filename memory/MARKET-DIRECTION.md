@@ -6,7 +6,25 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 4 /eod-review — ⚠️ FTD PRICE MET +1.79% TO NEW ATH 7,736.52 BUT VOLUME NOT CONFIRMED (NYSE <72% 30d avg — BELOW Monday) → FTD UNCONFIRMED STRICT RULE | DIST 7/25 UNCHANGED | NO DIST DAY TODAY (UP +1.79%) | AMD EARNINGS AMC TONIGHT (not yet reported at 3:15 CT) | NVDA $206.70 +2.96% 74/100 UNCHANGED | ARM re-eval DAY 5 OPENS TOMORROW WED AUG 5 | GOOGL blackout clears TOMORROW | Alpaca Day ~171 BLOCKED | 0 positions | 0 actions | FTD WINDOW: DAY 5 OPEN TOMORROW (AMD reaction = highest prob day) | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 5 /pre-market — ⚡ FTD DAY 5 EFFECTIVELY FAILED (ES +0.25% / AMD -8.8% AH HELIOS DISAPPOINT → THRESHOLD 7,834.75 UNREACHABLE) | ⚠️ DIST DAY 8 RISK MODERATE AT CLOSE (threshold 7,721.48) | DIST 7/25 UNCHANGED | NVDA $209.95 PM +1.60% 74/100 UNCHANGED | ARM SCREENER BLOCKED (INSUFFICIENT DATA — est. 55-65/100 BELOW THRESHOLD) | GOOGL BLACKOUT CLEARS (60-65/100 — NOT ACTIONABLE) | PLTR est. 67-72/100 BELOW THRESHOLD | AMD N-LETTER FOURTH CONF FOR NVDA | FTD WINDOW: DAY 6 (AUG 6) + DAY 7 (AUG 7 NFP — LAST) | ALPACA DAY ~172 BLOCKED | 0 POSITIONS | 0 ACTIONS | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25)*
+
+**✅ AUG 5 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 5 EFFECTIVELY FAILED — AMD -8.8% AH ($472.94) HELIOS DISAPPOINT — ES +0.25% NQ -0.07% — ⚠️ DIST DAY 8 RISK MODERATE (threshold 7,721.48) — ARM SCREENER BLOCKED (INSUFFICIENT DATA) — NVDA $209.95 PM +1.60% — GOOGL BLACKOUT CLEARS — ALPACA DAY ~172 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~172 BLOCKED | Perplexity 403 | AV 403 | 55th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken | 64th consecutive zero-action session
+- **AMD Q2 2026 (reported Aug 4 AMC):** Rev $11.54B (+50% YoY) BEAT / non-GAAP EPS $1.66 BEAT / Data Center $6.7B (+107% — DOUBLED) ✅ / Q3 guide ~$13B ±$300M (BEAT est. $12.52B) / AH: **-8.8% to ~$472.94** — Helios rack-scale platform not yet contributing (volumes ramp Q4 2026 only); market disappointed despite beat-and-raise | **NVDA N-letter FOURTH CONFIRMATION** (AMD DC doubled = AI capex demand confirmed)
+- **⚡ FTD DAY 5 — EFFECTIVELY FAILED:** Threshold ~7,834.75 | ES +0.25% → S&P est. open ~7,756 | Gap to FTD: ~78.75 pts / +1.02% additional from open = unreachable with AMD -9% chip drag + NQ -0.07% | **Correction UNCHANGED (7/25)**
+- **⚠️ Dist day 8 risk (today):** Threshold **~7,721.48** | S&P est. open ~7,756 → 35 pts of cushion | MODERATE risk if chip drag pulls intraday | Bessent "Hormuz deal could come soon" = partial bullish offset
+- **Bench pre-market:**
+  - NVDA: **$209.95 PM (+1.60%)** | Cup wk ~44; no handle | 74/100 UNCHANGED (N-letter FOURTH CONF flag) | BLOCKED
+  - ARM: **~$244.51 PM (+2.31%)** | Screener BLOCKED (insufficient data: Alpaca+AV 403) | Partial est. 55-65/100 (GAAP EPS $0.25 MISSED est. $0.40 by 38%; net income $270M doubled; guidance disappointed; no base) | Re-queue screener when APIs restore
+  - GOOGL: ~$356-360 | Blackout clears today | 60-65/100 UNCHANGED | Not actionable (XLC #9)
+  - PLTR: ~+30% range | Q2 beat ($1.94B rev +93%) | Est. 67-72/100 | Below 75 threshold | Float 2.14B headwind | Not actionable
+  - INTC: 46/100 REJECTED long-term watch-only | MRVL: 15-25/100 watch-only
+- **FTD Window remaining:** DAY 6 (Thu Aug 6 — jobless claims 8:30 AM ET) + **DAY 7 (Fri Aug 7 + NFP — LAST CHANCE)** | FTD probability declining rapidly
+- **Sell-rules-engine: SKIPPED** (0 positions — 31st consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 trades | PDT: 0/3
+- **Distribution count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 | Next expiry: Mon Aug 11 (Jul 7 → 6/25 — still Correction ≥6) | Tue Aug 12 (Jul 8 → 5/25 = UNDER PRESSURE)
+- `pre-market_Aug5` | `websearch_fallback` | `Alpaca_Day172_BLOCKED` | `55th_degraded_session` | `64th_zero_action_session` | `AMD_Q2_BEAT_Rev_11.54B_DC_6.7B_doubled_AH_-8.8pct_Helios_disappoint` | `ES_+0.25pct_NQ_-0.07pct` | `FTD_DAY5_FAILED_threshold_7834.75` | `dist_threshold_7721.48_MODERATE_risk` | `NVDA_209.95_PM_74_N_letter_FOURTH_CONF` | `ARM_screener_BLOCKED_est_55-65` | `GOOGL_blackout_clears` | `PLTR_67-72_below_threshold` | `FTD_Day6_Day7_last_chances` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 4 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P NEW ATH 7,736.52 +1.79% ✅ NO DIST DAY — ⚠️ FTD PRICE MET BUT VOLUME LOW — DAY 5 TOMORROW = HIGHEST FTD PROB — AMD AMC TONIGHT — NVDA $206.70 +2.96% — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~171 BLOCKED | Perplexity 403 | AV 403 | 54th consecutive degraded session

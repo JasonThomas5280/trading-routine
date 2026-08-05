@@ -46,6 +46,126 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-05 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 5 EFFECTIVELY FAILED (ES +0.25% / AMD -8.8% AH / HELIOS DISAPPOINT — THRESHOLD 7,834.75 UNREACHABLE) — ⚠️ DIST DAY 8 RISK MODERATE (THRESHOLD 7,721.48) — ARM SCREENER BLOCKED (INSUFFICIENT DATA) — NVDA $209.95 PM +1.60% — GOOGL BLACKOUT CLEARS — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~172 BLOCKED | Perplexity 403 | AV 403 — 55th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days — FTD Day 5 effectively failed; AMD reaction was primary catalyst, missed)
+**Sector leaders (est.):** Mixed/muted — Middle East peace hopes vs AMD/SpaceX chip drag; Industrials, Consumer Discretionary relative strength
+**Sector laggards:** XLK (AMD -8.8% AH chip drag; NQ -0.07% futures); SpaceX -10% PM
+
+### Step 1: Overnight gap check on open positions
+- **Positions: 0** | Gap check SKIPPED (30th consecutive zero-position session)
+
+### Step 2: Catalyst scan — open positions
+- N/A (0 positions)
+
+### Step 3: Catalyst scan — watchlist / primary overnight catalysts
+
+**AMD Q2 2026 EARNINGS (Reported Aug 4 AMC — CRITICAL READ-THROUGH):**
+- Revenue: $11.54B (+50% YoY) — **BEAT** est. $11.31B
+- Non-GAAP EPS: $1.66 — **BEAT** est. $1.61
+- Data Center: $6.7B (+107% YoY — **DOUBLED**) ✅
+- Q3 2026 guidance: ~$13B ±$300M — **BEAT** LSEG est. $12.52B
+- CEO Lisa Su: data center to DOUBLE in 2027; server rev +80%+ YoY H2 2026
+- After-hours reaction: **-8.8% to ~$472.94** (from $518.58 close)
+- Why down despite beats: Market expected Helios (rack-scale AI) to drive a "blowout" near-term guide; Helios volumes ramp **Q4 2026 only** — Q3 guide is pre-Helios; "beat-and-raise but not blowout forecast"
+- **NVDA read-through:** AMD DC +107% / guide to double 2027 = **FOURTH AI capex demand confirmation** (after MSFT+AMZN+AAPL). Strong N-letter tailwind for NVDA — flag for score upgrade when handle forms.
+- **FTD read-through:** AMD -9% PM = primary FTD catalyst for Day 5 FAILED. Chip drag → NQ -0.07% → FTD threshold unreachable today.
+
+**NVDA (~$209.95 pre-market — +$3.31 / +1.60% from $206.70 close):**
+- AMD data center +107% = N-letter FOURTH CONFIRMATION → upgrade flag at next re-score (when handle forms)
+- BofA Buy $220 PT (reiterated); no negative catalysts overnight
+- Cup wk ~44; no handle; 74/100 UNCHANGED
+- **Verdict: NVDA 74/100 UNCHANGED — N-letter upgrade flag at next re-score. BLOCKED (Correction + Alpaca + no handle).**
+
+**ARM (~$244.51 pre-market — +2.31% — re-eval opens TODAY):**
+- ⚠️ **SCREENER ATTEMPT FAILED — INSUFFICIENT DATA** (Alpaca 403 + AV 403)
+- canslim-screener result: `pass: false, rejection_reason: "insufficient_data", missing_data: ["alpaca_bars", "alphavantage_overview", "alphavantage_earnings"]`
+- WebSearch partial assessment (NOT formal score): Q1 FY2027: Rev $1.29B (+22%), non-GAAP EPS $0.45 BEAT, GAAP EPS $0.25 MISSED est. $0.40 by 38%, GAAP net income $270M (doubled YoY), guidance Q2 FY2027 modest beat/in-line → stock fell 6-8% to ~$225 post-earnings (now recovering to ~$244)
+- SBC $433M = 33.6% of rev = major GAAP vs adj spread driver; L-letter: -27% from ATH ($334); no valid base (broken by post-earnings selloff)
+- **Partial estimate: 55-65/100** — below 75 even optimistically (GAAP EPS miss 38% + guidance disappoint + broken base)
+- **Verdict: ARM BELOW THRESHOLD (est. 55-65/100). Screener re-queued when APIs restore. Not actionable: Correction + Alpaca blocked + below threshold.**
+
+**GOOGL (~$356-360 range — blackout CLEARS today):**
+- Q2: EPS $9.11 (BEAT but MTM-inflated); Rev $119.8B (+24%); Cloud +82% to $24.8B; capex raised sharply
+- Recovery from post-earnings low $315.04 (Jul 24) to ~$356-360 (+14% recovery)
+- Score est. 60-65/100 UNCHANGED: XLC sector #9, capex raise punished, institutional sellers
+- **Verdict: GOOGL 60-65/100 — not actionable (below 75 + Correction + Alpaca). Low priority.**
+
+**PLTR (~+30% range — bench watch from Aug 4 Q2 beat):**
+- Q2 2026: Rev $1.94B (+93% YoY); EPS $0.41 adj; US Commercial +149% YoY
+- Score est. 67-72/100: Strong C/N letters; S-letter drag (float 2.14B = large supply); no base post-surge
+- **Verdict: PLTR est. 67-72/100 — BELOW 75 threshold. Float headwind. No base. Monitor for base formation. Not actionable.**
+
+**MRVL (~15-25/100 watch-only):** No new catalysts. Unchanged.
+
+### Step 4: Market overnight check (Aug 5 pre-market)
+
+**Futures (as of ~6 AM CT):**
+- ES: **+19.75 pts / +0.25%** → S&P estimated open ~7,756
+- NQ: **-20.5 pts / -0.07%** → slightly negative
+- Theme: Middle East peace deal talks (Bessent: "Hormuz deal could come soon") offsetting AMD -8.8% / SpaceX -10% chip drag
+
+**FTD ASSESSMENT — Day 5 (HIGHEST PROBABILITY DAY PER PRIOR PLAN — EFFECTIVELY FAILED):**
+- FTD threshold: **~7,834.75** (7,736.52 × 1.0125)
+- S&P est. open: **~7,756** (ES +0.25%)
+- Gap to FTD from open: **~+78.75 pts / +1.02%** additional rally needed — unreachable with AMD -9% chip drag and NQ slightly negative
+- **FTD Day 5: NOT CONFIRMED — EFFECTIVELY FAILED**
+- Correction UNCHANGED (7/25 dist days)
+
+**Dist day 8 risk (today):**
+- Dist threshold: **~7,721.48** (7,736.52 × 0.998)
+- S&P est. open ~7,756 → 35 pts of cushion at open → dist risk **MODERATE**
+- AMD -8.8% PM chip drag could pull market intraday; Bessent Hormuz comment = partial offset
+- Monitor at close: if S&P closes below 7,721.48 on ≥ prior day volume → dist day #8 → rally attempt at risk
+
+**FTD Window remaining:**
+- Day 6: Thu Aug 6 (jobless claims 8:30 AM ET; pre-NFP positioning; lower probability)
+- Day 7: Fri Aug 7 (NFP July 2026 8:30 AM ET; est. 90-170K; unemployment ~4.2-4.3%) — **LAST CHANCE**
+- FTD probability declining rapidly — AMD disappointment was primary catalyst; only macro surprise (NFP) can rescue
+
+**Rate / geopolitical:**
+- Bessent: "Hormuz deal could come soon" → positive tail risk; oil further decline = stagflation pressure relief
+- 10yr: ~4.69-4.7% (stable-improving); 30yr ~5.2% (elevated)
+- SpaceX -10% PM: first earnings post-IPO; spending escalation flagged; no direct bench overlap
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Status | Pre-Mkt | Pivot | Distance | Catalyst |
+|--------|--------|---------|-------|----------|---------|
+| NVDA | 🔴 NO PIVOT | $209.95 (+1.60%) | undefined | N/A (no handle) | AMD AI read-through (N-letter ↑ flag) |
+| ARM | 🔴 SCREENER BLOCKED | ~$244.51 (+2.31%) | N/A | N/A (est. 55-65/100; no base) | GAAP EPS miss 38%; guidance disappoint |
+| GOOGL | 🔴 BELOW THRESHOLD | ~$356-360 | N/A | N/A (60-65/100) | Blackout cleared; XLC #9 |
+| PLTR | 🔴 BELOW THRESHOLD | ~+30% est. | N/A | N/A (est. 67-72/100) | No base post-surge; float headwind |
+| MRVL | 🔴 REMOVED | watch-only | N/A | N/A (15-25/100) | None |
+
+**No items in buy zone. Correction gate active. 0 entries possible.**
+
+### Step 6: Circuit breaker check
+
+- Daily P&L: $0 | Weekly P&L: $0 | Week of Aug 3: 0/3 trades
+- Equity: $2,500 (HWM)
+- **ALL CIRCUIT BREAKERS: CLEAR ✅**
+- PDT count: 0 of 3
+
+### Step 7: Risks
+
+- **AMD -8.8% pre-market:** Primary FTD catalyst failed; chip sector drag → dist day #8 risk at close (threshold 7,721.48)
+- **FTD window closing:** Day 6 (Thu) + Day 7 (Fri NFP) remain; AMD disappointment removes highest-prob day
+- **SpaceX -10% PM:** Additional tech drag; spending escalation signals = AI capex concern (NVDA N-letter watch item to monitor)
+- **Hormuz deal wildcard (bullish):** Bessent comment = positive tail; if confirmed → oil falls + market rallies → reduces dist risk, may extend rally toward Days 6-7
+- **ARM GAAP EPS miss 38%:** Score uplift from prior C-letter fail was less than anticipated; SBC drag larger than expected
+
+### Actions
+
+NONE. 64th consecutive zero-action session. Correction gate (7/25 ≥6) + Alpaca Day ~172 BLOCKED.
+
+**Scan stats:** 1 screener attempt (ARM — BLOCKED: insufficient data, `pass: false`) | 0 passed ≥75 | 22nd consecutive week of 0 qualifying entries | `research_source: websearch_fallback`
+
+`pre-market_Aug5` | `websearch_fallback` | `Alpaca_Day172_BLOCKED` | `55th_degraded_session` | `64th_zero_action_session` | `dist_7of25_UNCHANGED` | `AMD_Q2_Rev_11.54B_+50pct_BEAT` | `AMD_DC_6.7B_+107pct_DOUBLED` | `AMD_EPS_1.66_BEAT` | `AMD_Q3_guide_13B_BEAT_est_12.52B` | `AMD_AH_-8.8pct_to_472.94_Helios_disappoint` | `NVDA_N_letter_FOURTH_CONF_flag` | `ES_+0.25pct_NQ_-0.07pct_SPX_open_est_7756` | `FTD_DAY5_EFFECTIVELY_FAILED` | `FTD_threshold_7834.75_unreachable` | `dist_threshold_today_7721.48` | `dist_8_risk_MODERATE` | `Bessent_Hormuz_deal_bullish_tail` | `NVDA_209.95_PM_74_unchanged` | `ARM_screener_BLOCKED_insufficient_data_55-65est` | `GOOGL_blackout_clears_60-65_unchanged` | `PLTR_67-72est_below_threshold_float_headwind` | `FTD_Day6_Thu_Day7_Fri_NFP_last_chances` | `SpaceX_-10pct_PM_AI_capex_watch` | `circuit_breakers_ALL_CLEAR`
+
+---
+
 ## 2026-08-04 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION (7/25 UNCHANGED) — ⚡ FTD WINDOW DAY 4 OPEN — S&P MON CONF 7,600.50 +1.48% ✅ — FUTURES +0.21% ~7,642 — INTC SCREENER: 46/100 REJECTED — AMD EARNINGS AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~170 BLOCKED | Perplexity 403 | AV 403 — 53rd consecutive degraded session)
