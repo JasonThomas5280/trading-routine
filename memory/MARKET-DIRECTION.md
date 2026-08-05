@@ -6,7 +6,41 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 5 /pre-market — ⚡ FTD DAY 5 EFFECTIVELY FAILED (ES +0.25% / AMD -8.8% AH HELIOS DISAPPOINT → THRESHOLD 7,834.75 UNREACHABLE) | ⚠️ DIST DAY 8 RISK MODERATE AT CLOSE (threshold 7,721.48) | DIST 7/25 UNCHANGED | NVDA $209.95 PM +1.60% 74/100 UNCHANGED | ARM SCREENER BLOCKED (INSUFFICIENT DATA — est. 55-65/100 BELOW THRESHOLD) | GOOGL BLACKOUT CLEARS (60-65/100 — NOT ACTIONABLE) | PLTR est. 67-72/100 BELOW THRESHOLD | AMD N-LETTER FOURTH CONF FOR NVDA | FTD WINDOW: DAY 6 (AUG 6) + DAY 7 (AUG 7 NFP — LAST) | ALPACA DAY ~172 BLOCKED | 0 POSITIONS | 0 ACTIONS | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 5 /market-check 10:00 AM CT — S&P ~7,783 +0.61% NO DIST DAY ✅ — ⚡ FTD DAY 5 BACK IN PLAY (threshold ~7,834; S&P needs +0.67% more; 5h+ trading remains; prob 40-55% REVISED UP from pre-market fail call) — 🚀 SPACEX-NVDA EXCLUSIVE AI DEAL (N-letter FIFTH CONF — score upgrade flag 12→15 at next re-score → est. 77/100 no handle, 87/100 with handle+base) — AMD -6.5% (recovering from -8.8% AH; isolated chip drag, broad market holding) — 8/11 SECTORS POSITIVE BROAD BREADTH — DIST 7/25 UNCHANGED — ALPACA DAY ~172 BLOCKED — 0 POSITIONS — 0 ACTIONS | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25)*
+
+**✅ AUG 5 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,783 +0.61% NO DIST DAY ✅ — ⚡ FTD DAY 5 REVISED: BACK IN PLAY (40-55% prob) — 🚀 SPACEX-NVDA EXCLUSIVE AI INFRASTRUCTURE DEAL — AMD -6.5% RECOVERING — BROAD BREADTH 8/11 SECTORS UP — NVDA ~$211-212 +2.4% — ALPACA DAY ~172 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~172 BLOCKED | Perplexity 403 | AV 403 | 56th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken | 65th consecutive zero-action session
+- **S&P 500 intraday (9:34 AM ET / ~10:04 AM CT):** ~7,783.50 (+0.61% / +46.98 pts) | Dow at new all-time high | Nasdaq positive | **WELL ABOVE dist threshold 7,721.48 → NO DIST DAY TODAY ✅**
+- **⚡ FTD DAY 5 — REVISED FROM "FAILED" TO "BACK IN PLAY":**
+  - Pre-market call: "effectively failed" (ES +0.25%, AMD -9% drag) → **WRONG at open**
+  - Actual open: S&P +0.61% / AMD only -6.5% (not -9%) / SpaceX-NVDA deal = new positive catalyst materializing intraday
+  - FTD threshold: ~7,834 | S&P ~7,783 at 10 AM CT → still **~51 pts / +0.67% needed**
+  - 5+ hours of trading remain (close 3 PM CT / 4 PM ET)
+  - **Revised FTD probability: 40-55%** (up from ~5% pre-market)
+  - If FTD fires today: Correction → **CONFIRMED UPTREND**. /eod-review will confirm.
+- **🚀 SPACEX-NVDA EXCLUSIVE AI INFRASTRUCTURE DEAL — MAJOR N-LETTER EVENT:**
+  - Elon Musk on SpaceX Q2 2026 earnings call: SpaceX will build ALL AI infrastructure exclusively on NVDA chips going forward
+  - Target: >2 GW compute EOY 2026, ~10 GW EOY 2027 (entirely on NVDA hardware)
+  - Starmind AI1 satellite: each satellite = NVDA Rubin GPUs + Vera CPUs (datacenter-class compute in orbit)
+  - SpaceX first earnings call since IPO; SPCX stock -12.5% (high capex); NVDA +2.4% on the deal
+  - **NVDA N-letter: FIFTH CONFIRMATION** (MSFT+AMZN+AAPL+AMD+SpaceX) → N-letter = 15/15 (maximum) at next re-score
+  - **Score upgrade flag: N-letter 12→15** → new estimate: C:20 A:15 N:15 S:10 L:12 I:5 Base:0 = **77/100 (no handle)** / **87/100 (with handle + base bonus)**
+  - NVDA at 77/100 without handle technically crosses 75 threshold BUT: no handle = no pivot = no entry trigger. Still blocked. Entry needs: handle + FTD + Alpaca restore.
+- **AMD intraday: -6.5% (~$484)** | Partially recovering from -8.8% AH ($472.94) | Chip drag contained; broad market absorbing | AI capex narrative intact (AMD DC doubled, Lisa Su: doubles again 2027)
+- **NVDA intraday: ~$211-212 (+2.4%)** | SpaceX exclusive deal offsetting AMD sell-pressure | Cup wk ~44; no handle | Score 77/100 UPGRADED FLAG (no handle = Base:0 → entry blocked)
+- **Market breadth: 8/11 sectors positive** | XLY +1.8%, XLC +2.9%, XLI +1.9% leading | Only XLK (chip drag from AMD/SPCX) and 1-2 others lagging | Genuine broad participation ✅
+- **Dist count: 7/25 UNCHANGED** | S&P +0.61% → dist day impossible on UP day → count stays 7/25 | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 | Expiry: Aug 11 (Jul 7→6/25), Aug 12 (Jul 8→5/25=Under Pressure)
+- **Bench status (10 AM CT):**
+  - NVDA: ~$211-212 (+2.4%) | Score UPGRADE FLAG 74→77/100 (N-letter 12→15 SpaceX) | Cup wk ~44 no handle | BLOCKED (no handle = no pivot = no entry) | Re-score trigger unchanged: handle completion
+  - ARM: ~$244-246 | Screener BLOCKED (Alpaca+AV 403) | est. 55-65/100 below threshold | Re-queue when APIs restore
+  - GOOGL: blackout clears today | 60-65/100 | XLC #9 = L-letter headwind | Not actionable
+  - PLTR: ~$165-170 | 67-72/100 est. | Float 2.14B S-letter drag | Not actionable
+  - INTC: 46/100 REJECTED | Long-term watch only | MRVL: 15-25/100 watch-only
+- **Sell-rules-engine: SKIPPED** (0 positions — 65th consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 trades | PDT: 0/3
+- **Key watch at /eod-review:** Did S&P close ≥7,834 on elevated volume? If YES → FTD confirmed → Correction lifts → actions: (1) exit SH hedge when Alpaca restores, (2) initiate NVDA buy plan on handle formation
+- `market-check_Aug5` | `websearch_fallback` | `Alpaca_Day172_BLOCKED` | `56th_degraded_session` | `65th_zero_action_session` | `SPX_~7783_+0.61pct_NO_DIST_DAY` | `FTD_DAY5_REVISED_40-55pct_threshold_7834` | `SPACEX_NVDA_EXCLUSIVE_AI_DEAL_N_letter_FIFTH_CONF_12to15` | `NVDA_211-212_+2.4pct_score_77_UPGRADE_FLAG` | `AMD_-6.5pct_recovering` | `8of11_sectors_positive` | `dist_7of25_UNCHANGED` | `GOOGL_blackout_clears_today` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 5 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 5 EFFECTIVELY FAILED — AMD -8.8% AH ($472.94) HELIOS DISAPPOINT — ES +0.25% NQ -0.07% — ⚠️ DIST DAY 8 RISK MODERATE (threshold 7,721.48) — ARM SCREENER BLOCKED (INSUFFICIENT DATA) — NVDA $209.95 PM +1.60% — GOOGL BLACKOUT CLEARS — ALPACA DAY ~172 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~172 BLOCKED | Perplexity 403 | AV 403 | 55th consecutive degraded session

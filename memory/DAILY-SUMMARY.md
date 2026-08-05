@@ -1,5 +1,54 @@
 
 ---
+## 2026-08-05 10:00 CT [market-check — 🔴 CORRECTION 7/25 — S&P ~7,783 +0.61% NO DIST DAY ✅ — ⚡ FTD DAY 5 BACK IN PLAY 40-55% — 🚀 SPACEX-NVDA EXCLUSIVE AI DEAL — NVDA 77/100 UPGRADE FLAG — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-08-05 10:00 CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+Alpaca: Day ~172 BLOCKED | Perplexity: 403 | AV: 403
+
+Actions taken:
+  ⬜ No new entries — ABORT: Correction gate (7/25 dist days ≥6) + Alpaca BLOCKED
+  ⬜ Sell-rules-engine: SKIPPED (0 open positions — 65th consecutive skip)
+
+Distribution check (Aug 5):
+  S&P ~7,783 (+0.61%) at 10 AM CT — WELL above dist threshold 7,721.48
+  NOT a distribution day ✅ | Dist count: 7/25 UNCHANGED
+
+FTD Day 5 — REVISED:
+  Pre-market: "effectively failed" → OVERRIDDEN by actual open data
+  S&P opened +0.61% (~7,783) | AMD -6.5% (not -9%) | SpaceX-NVDA deal = new intraday catalyst
+  FTD threshold: ~7,834 | Still ~51 pts short | 5+ hours trading remain
+  FTD probability: 40-55% (REVISED UP from ~5% pre-market)
+  FTD window remaining: Day 5 TODAY + Day 6 (Thu) + Day 7 (Fri NFP — last)
+
+🚀 MAJOR EVENT: SpaceX-NVDA Exclusive AI Infrastructure Deal (Aug 4 AMC)
+  Elon Musk (SpaceX Q2 earnings, first since IPO): SpaceX builds ALL AI infrastructure exclusively on NVDA chips
+  Scale: >2 GW compute EOY 2026 → ~10 GW EOY 2027 (all NVDA hardware)
+  Starmind AI1 satellite: NVDA Rubin GPUs + Vera CPUs (datacenter compute in orbit; launches 2027)
+  SPCX -12.5% (capex concerns) | NVDA +2.4% (~$211-212) on exclusivity
+  N-letter FIFTH CONFIRMATION for NVDA (MSFT+AMZN+AAPL+AMD+SpaceX)
+  NVDA score UPGRADE FLAG: 74→77/100 (no handle) / 87/100 (with handle + base bonus)
+
+Bench status:
+  NVDA: ~$211-212 (+2.4%) | 77/100 UPGRADE FLAG | Cup wk ~44 no handle → BLOCKED (no pivot)
+  ARM: ~$244-246 | 55-65/100 est. | Screener blocked (APIs 403)
+  GOOGL: blackout clears today | 60-65/100 | XLC #9 → not actionable
+  PLTR: 67-72/100 est. | Float headwind | Not actionable
+  INTC: 46/100 REJECTED | Long-term watch only
+  MRVL: 15-25/100 | Watch-only
+
+Watchlist status: 0 primary (≥75), 5 bench/watch
+Open positions: 0 | Total deployed: 0% | Cash: $2,500
+Weekly trade count: 0 of 3 used
+
+CRITICAL watch at /eod-review:
+  → Did S&P close ≥7,834 on elevated volume (above Mon 19.36B)? → FTD confirmed?
+  → If YES: Correction → Confirmed Uptrend. Prepare NVDA handle-watch + SH exit plan.
+
+Next check: /eod-review 3:15 PM CT
+`research_source: websearch_fallback`
+
+---
 ## 2026-08-04 06:00 CT [pre-market — 🔴 CORRECTION 7/25 — ⚡ FTD DAY 4 OPEN — S&P MON 7,600.50 +1.48% — INTC 46/100 REJECTED — AMD AMC TONIGHT — 0 POSITIONS — 0 ACTIONS]
 
 🌅 Pre-market 2026-08-04
