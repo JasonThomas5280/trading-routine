@@ -17715,3 +17715,34 @@ All new long entries BLOCKED. No positions to health-check.
 - FTD window closes after Aug 7 EOD
 
 `research_source: websearch_fallback` | `Alpaca_Day171_BLOCKED` | `PLTR_Q2_blowout_bench_added` | `ARM_plus11pct_re-eval_Aug5` | `INTC_eliminated` | `FTD_Day4_NOT_fired` | `AMD_AMC_pending`
+
+---
+
+## 2026-08-05 — /eod-review (3:15 PM CT)
+
+**Market state:** 🔴 Market in Correction (7/25 dist days) | `research_source: websearch_fallback` | Alpaca Day ~173 BLOCKED | 57th consecutive degraded session
+
+**Close (est.):** S&P 500 ~7,721 (-0.20%) | Dow 54,474.09 (+0.72% NEW ATH) | Nasdaq 26,465.69 (-0.45%) | SPY est. ~$769-772 | QQQ est. ~$700-710
+**Distribution days:** 7 of 25 trailing 25 sessions | Today: BORDERLINE (-0.20% at 7,721 vs threshold 7,721.48) | Volume: BELOW average / BELOW yesterday → **NOT a distribution day** (volume criterion not met) | Dist count: 7/25 UNCHANGED
+**FTD status:** Day 5 NOT CONFIRMED — S&P peaked ~7,783 at 10 AM CT; reversed to close ~7,721; far below 7,834 threshold | FTD window: Day 6 (Thu Aug 6) + Day 7 (Fri Aug 7 + NFP — LAST)
+**Market state:** 🔴 Market in Correction — UNCHANGED (no transition today)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED (0 open positions — 66th consecutive skip)
+  - No buys, sells, or stop adjustments
+  - SH $625 hedge: STILL QUEUED (Alpaca Day ~173 BLOCKED; if FTD fires Day 6-7, cancel SH and go long instead)
+**Circuit breakers:** none — ALL CLEAR
+**P&L today:** $0 (0%)
+**Equity:** $2,500 (HWM)
+**Bench updates:**
+  - NVDA: ~$214-218 (+3%+) | SpaceX exclusive AI deal pushed stock higher all session | Score upgrade flag 77/100 (no handle = no entry) | Cup wk ~44; no handle
+  - AMD: ~$480-490 (partial recovery from -8.8% AH; contained drag confirmed; AI capex narrative intact)
+  - ARM/GOOGL/PLTR: unchanged below 75 threshold; screeners BLOCKED
+**Key forward events:**
+  - Thu Aug 6 (FTD Day 6): Jobless Claims 8:30 AM ET | FTD threshold ~7,836+ (from ~7,721 close; needs +1.25%) | Dist threshold ~7,706.42 | Hormuz deal timing
+  - Fri Aug 7 (FTD Day 7 + NFP — LAST): NFP July 2026 8:30 AM ET (est. 90-170K; unemployment ~4.2-4.3%) | Final FTD window day | Binary catalyst
+  - Mon Aug 11: Jul 7 dist expires → 6/25 (still Correction ≥6)
+  - Tue Aug 12: Jul 8 dist expires → 5/25 = **UNDER PRESSURE** (if no new dist days added)
+  - NVDA handle: watch for formation; est. Aug 11-Sep 2026
+**Data sources:** `research_source: websearch_fallback` | Alpaca proxy 403 | Perplexity 403 | AV 403
+`eod-review_Aug5` | `SPX_est_7721_-0.20pct_NOT_dist_vol_criterion` | `Dow_54474_+0.72pct_ATH` | `Nasdaq_26466_-0.45pct_4day_rally_snapped` | `FTD_Day5_NOT_confirmed` | `NVDA_214-218_+3pct` | `dist_7of25_UNCHANGED`

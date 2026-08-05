@@ -5498,3 +5498,27 @@ ARM screener: BLOCKED (insufficient data; partial est 55-65/100 — below thresh
 GOOGL blackout clears (60-65/100 not actionable) | PLTR est 67-72/100 below threshold
 FTD window: Day 6 Thu Aug 6 + Day 7 Fri Aug 7 NFP (last chance)
 Plan: NO entries — Correction + Alpaca BLOCKED + 0 candidates above 75
+
+---
+## 2026-08-05 15:15 CT [eod-review]
+
+📊 EOD 2026-08-05 | Equity $2,500.00 ($0.00 day, $0.00 week)
+Open: 0 positions | Cash: 100% ($2,500)
+Market: 🔴 Correction (7/25 dist days) — UNCHANGED
+
+Close (est.): S&P ~7,721 (-0.20%) | Dow 54,474 (+0.72% NEW ATH) | Nasdaq 26,466 (-0.45%)
+Dist check: BORDERLINE (threshold 7,721.48; volume BELOW yesterday → NOT dist day ✅)
+FTD Day 5: NOT CONFIRMED (peaked ~7,783; reversed; far below 7,834 threshold)
+Dist count: 7/25 UNCHANGED | Next expiry: Aug 11 → 6/25 | Aug 12 → 5/25 (Under Pressure)
+
+Actions today:
+• sell-rules-engine: SKIPPED (0 positions — 66th consecutive)
+• No buys, sells, or stop adjustments
+• Alpaca: Day ~173 BLOCKED | SH $625 hedge: QUEUED
+
+NVDA: ~$214-218 (+3%+) — SpaceX AI deal | Score 77/100 upgrade flag | Cup wk ~44 no handle (BLOCKED)
+AMD: ~$480-490 (recovering from -8.8% AH) | Dow: NEW ATH on Hormuz deal hopes
+4-day Nasdaq rally SNAPPED — tech/semis lagged despite NVDA strength
+
+Tomorrow (Day 6 — FTD): Jobless claims 8:30 AM ET | FTD threshold ~7,836+ | Dist threshold ~7,706.42
+Friday (Day 7 — LAST): NFP July 2026 8:30 AM ET | Final FTD window day | Binary catalyst

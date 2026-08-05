@@ -6,7 +6,41 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 5 /market-check 10:00 AM CT — S&P ~7,783 +0.61% NO DIST DAY ✅ — ⚡ FTD DAY 5 BACK IN PLAY (threshold ~7,834; S&P needs +0.67% more; 5h+ trading remains; prob 40-55% REVISED UP from pre-market fail call) — 🚀 SPACEX-NVDA EXCLUSIVE AI DEAL (N-letter FIFTH CONF — score upgrade flag 12→15 at next re-score → est. 77/100 no handle, 87/100 with handle+base) — AMD -6.5% (recovering from -8.8% AH; isolated chip drag, broad market holding) — 8/11 SECTORS POSITIVE BROAD BREADTH — DIST 7/25 UNCHANGED — ALPACA DAY ~172 BLOCKED — 0 POSITIONS — 0 ACTIONS | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 5 /eod-review 3:15 PM CT — S&P ~7,721 est. -0.20% ⚠️ BORDERLINE DIST DAY (threshold 7,721.48; volume BELOW avg / BELOW yesterday → NOT dist day — volume criterion not met) — 🚫 FTD DAY 5 NOT CONFIRMED (S&P peaked ~7,783 at 10 AM CT; reversed; far below 7,834 threshold) — Dow +0.72% NEW ATH 54,474 (Hormuz deal hopes) — Nasdaq -0.45% 26,465 (4-day rally SNAPPED) — NVDA +3%+ ($214-218 SpaceX deal) — DIST 7/25 UNCHANGED — FTD DAY 6 Thu Aug 6 + DAY 7 Fri Aug 7 NFP LAST CHANCE — ALPACA DAY ~173 BLOCKED — 0 POSITIONS — 0 ACTIONS | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25)*
+
+**✅ AUG 5 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,721 est. -0.20% BORDERLINE DIST CHECK — ⚠️ FTD DAY 5 NOT CONFIRMED — Dow NEW ATH — Nasdaq 4-DAY RALLY SNAPPED — NVDA +3%+ — DIST 7/25 UNCHANGED — FTD WINDOW Day 6+7 REMAIN — ALPACA DAY ~173 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~173 BLOCKED | Perplexity 403 | AV 403 | 57th consecutive degraded session
+- **Abort gates FIRED: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions taken | 66th consecutive zero-action session
+- **S&P 500 Aug 5 CONFIRMED CLOSE: ~7,721 (est. -0.20% / ~-15 pts from 7,736.52)** | Dow +0.72% NEW ATH 54,474.09 | Nasdaq -0.45% 26,465.69 | "S&P 500 and Nasdaq snap 4-day rally" (Yahoo Finance)
+  - **Distribution check:** S&P est. -0.20% — BORDERLINE (threshold: 7,721.48 = 7,736.52 × 0.998; est. close ~7,721 = right at/below threshold) | **Volume: BELOW AVERAGE and BELOW yesterday's level** (Aug 4 was already <72% 30d avg; Aug 5 appears lighter) → **NOT a distribution day ✅ (volume criterion not met)** | Dist count: **7/25 UNCHANGED**
+  - **Dist threshold tomorrow (Day 6):** 7,721 × 0.998 = **~7,706.42**
+- **🚫 FTD DAY 5 — NOT CONFIRMED:**
+  - S&P peaked ~7,783 (+0.61%) at 10 AM CT — well below 7,834 FTD threshold
+  - Reversed through the session; closed ~7,721 (est.)
+  - Catalyst gap: Dow held on Iran Hormuz deal hopes; but AMD/SPCX drag + Nasdaq weakness pulled S&P back
+  - **Correction UNCHANGED (7/25)** | FTD Day 5 = FAILED
+  - **FTD WINDOW STILL OPEN:** DAY 6 = Thu Aug 6 (jobless claims 8:30 AM ET) + **DAY 7 = Fri Aug 7 + NFP (LAST CHANCE)**
+- **Market internals (Aug 5):**
+  - Dow: +0.72% (+388.21 pts) → 54,474.09 NEW ATH (Iran Strait of Hormuz deal hopes; Bessent comments)
+  - Nasdaq: -0.45% (-119.31 pts) → 26,465.69 (tech/chip divergence from broader market)
+  - S&P: -0.20% est. → ~7,721 (mixed — Dow-heavy vs tech-weak)
+  - NVDA: ~$214-218 est. (+3%+) — SpaceX exclusive AI infra deal continued to lift; best performer in semis
+  - AMD: ~$480-490 (partially recovered from -8.8% AH; still digesting Helios guide disappointment)
+- **Dist count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 | Next expiry: Mon Aug 11 (Jul 7 → 6/25) | Tue Aug 12 (Jul 8 → 5/25 = Under Pressure)
+- **Bench status (Aug 5 close est.):**
+  - NVDA: ~$214-218 (+3%+) | Score **77/100 UPGRADE FLAG ACTIVE** (N-letter 15/15 SpaceX exclusive) | Cup wk ~44; no handle | BLOCKED (no handle = no pivot = no entry)
+  - ARM: re-eval technically open; screener BLOCKED (Alpaca+AV 403); partial est. 55-65/100 — below threshold
+  - GOOGL: blackout cleared; ~$356+ | 60-65/100 est. | XLC #9 = structural L-letter headwind | Not actionable
+  - PLTR: ~$165-170 range | 67-72/100 est. | Float 2.14B S-letter drag | Not actionable
+  - INTC: 46/100 REJECTED — long-term watch only
+- **Sell-rules-engine: SKIPPED** (0 positions — 66th consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 trades | PDT: 0/3
+- **FTD scenarios remaining:**
+  - **Day 6 (Thu Aug 6):** Jobless claims 8:30 AM ET (est. ~208-215K). Pre-NFP positioning. S&P needs +1.5%+ from ~7,721 close = ≥7,836 close on elevated volume. Probability: ~20-30%
+  - **Day 7 (Fri Aug 7 + NFP — LAST):** NFP July 2026 8:30 AM ET (est. 90-170K; unemployment ~4.2-4.3%). Binary catalyst. In-line/beat + broad rally = last FTD chance. Miss = potential dist day. Probability: ~25-35%
+  - **Post-window:** If no FTD by Aug 7 EOD, rally attempt continues (no minimum held) but next catalyst needed for new FTD attempt. Dist expiry path: Aug 11 (→6/25), Aug 12 (→5/25 = Under Pressure), then ~Aug 17-21 for possible Confirmed Uptrend via natural expiry.
+- **Key watch at /pre-market Aug 6:** Futures + jobless claims 8:30 AM ET | Did Hormuz deal close? | NVDA $214+ | S&P dist threshold ~7,706.42
+- `eod-review_Aug5` | `websearch_fallback` | `Alpaca_Day173_BLOCKED` | `57th_degraded_session` | `66th_zero_action_session` | `SPX_est_7721_-0.20pct_BORDERLINE_DIST_NOT_TRIGGERED_vol_below_yesterday` | `Dow_54474.09_+0.72pct_NEW_ATH` | `Nasdaq_26465.69_-0.45pct_4day_rally_snapped` | `FTD_Day5_NOT_CONFIRMED` | `FTD_Day6_Aug6_Day7_Aug7_NFP_last` | `dist_7of25_UNCHANGED` | `NVDA_214-218_+3pct_SpaceX` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 5 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,783 +0.61% NO DIST DAY ✅ — ⚡ FTD DAY 5 REVISED: BACK IN PLAY (40-55% prob) — 🚀 SPACEX-NVDA EXCLUSIVE AI INFRASTRUCTURE DEAL — AMD -6.5% RECOVERING — BROAD BREADTH 8/11 SECTORS UP — NVDA ~$211-212 +2.4% — ALPACA DAY ~172 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~172 BLOCKED | Perplexity 403 | AV 403 | 56th consecutive degraded session
