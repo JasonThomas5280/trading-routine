@@ -17746,3 +17746,45 @@ All new long entries BLOCKED. No positions to health-check.
   - NVDA handle: watch for formation; est. Aug 11-Sep 2026
 **Data sources:** `research_source: websearch_fallback` | Alpaca proxy 403 | Perplexity 403 | AV 403
 `eod-review_Aug5` | `SPX_est_7721_-0.20pct_NOT_dist_vol_criterion` | `Dow_54474_+0.72pct_ATH` | `Nasdaq_26466_-0.45pct_4day_rally_snapped` | `FTD_Day5_NOT_confirmed` | `NVDA_214-218_+3pct` | `dist_7of25_UNCHANGED`
+
+---
+
+## 2026-08-06 — /pre-market (6:00 AM CT)
+
+**Market state:** 🔴 Market in Correction (7/25 dist days) | `research_source: websearch_fallback` | Alpaca Day ~174 BLOCKED | Perplexity 403 | AV 403 | 58th consecutive degraded session
+
+**Overnight market:**
+- ES: +0.1% | NQ: -0.1% | Dow futures: +0.2% — markets barely moved; absorbing earnings wall + Hormuz uncertainty
+- Hormuz deal: 50-50 chance by Friday per Gulf official. Iran-Oman agreed shipping route coordinates. Trump teasing deal "this week." Oil should remain lower if deal closes (Brent est. ~$83-88 range).
+- Jobless claims (8:30 AM ET TODAY): Prior week 197K (below 200K est. = very tight labor market). Actual today's release not yet captured — watch at /market-check.
+- 10yr yield: no update overnight (prior ~4.7%); Hormuz de-escalation = slight downward pressure
+
+**FTD status:**
+- Day 6 of rally attempt (Day 1 = Jul 30)
+- FTD threshold TODAY: ~7,817.63 (7,721 × 1.0125)
+- Dist threshold TODAY: ~7,706.42 (7,721 × 0.998)
+- With ES flat +0.1%, FTD Day 6 is very unlikely (would need +1.25% close on elevated volume from open ~7,728)
+- Day 7 (Fri Aug 7 + NFP) = LAST CHANCE: consensus 85-120K jobs (wide range; June was weak 57K, July expected rebound); unemployment 4.2% steady; wages +3.5% YoY
+- If no FTD by EOD Aug 7: window closes; next path = dist expiry (Aug 11 → 6/25; Aug 12 → 5/25 Under Pressure; Aug 17-21 → possible natural Uptrend)
+
+**Open positions:** 0 — no gap check required
+
+**Catalyst scan — bench names:**
+- **NVDA ($219.22, -0.03% AH / flat overnight):** No major new catalyst overnight. SpaceX exclusive AI deal remains active tailwind. Day range on Aug 6 context: $214.80-$222.22. Score 77/100 (N-letter 15/15; no handle = no entry trigger). Cup wk ~44-45; no handle. Thesis intact. 🟡 WATCHING — NOT actionable (no handle = no pivot).
+- **ARM (~$244-246 est.):** Post-Q1 FY2027 recovery ongoing. Search indicates shares up strongly since Q1 earnings. No new overnight catalyst. Screener still BLOCKED (Alpaca+AV 403). Partial est. 55-65/100 (GAAP EPS $0.25 missed by 38%; no base). 🔴 BELOW THRESHOLD — not actionable.
+- **GOOGL ($360.13, -4.05% Aug 5 close):** ⚠️ MATERIAL NEGATIVE: "sweeping AI leadership overhaul" — Jeff Dean (head of Google DeepMind AI research) departed; other AI leadership changes. Market already reacted (-4% Aug 5). GOOGL already 60-65/100 (XLC #9 sector, capex overhang). This development FURTHER REDUCES L-letter and I-letter quality. No score change possible (screener BLOCKED), but thesis flag: GOOGL is moving FURTHER from threshold. Not actionable Q3 2026.
+- **PLTR ($160.35):** After Aug 4 +29.5% surge on Q2 beat ($1.94B rev +93%), stock settled ~$160. Score est. 67-72/100 — float 2.14B = S-letter structural drag (cannot reach 75/100 with current float). Correction gate = no entry regardless. 🔴 BELOW THRESHOLD — not actionable.
+- **INTC (46/100):** Long-term watch only. No update.
+- **MRVL (15-25/100):** Watch only. No update.
+
+**Circuit breakers:** ALL CLEAR | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 new positions
+
+**Actions:** ZERO — Correction gate + Alpaca BLOCKED + 0 candidates ≥75
+
+**Forward watch:**
+- /market-check Aug 6 (10 AM CT): Jobless claims actual data + S&P intraday + FTD Day 6 status + Hormuz deal update
+- /pre-market Aug 7 (6 AM CT): NFP data at 8:30 AM ET — FTD Day 7 final window; binary binary risk
+- Mon Aug 11: Jul 7 dist expires → 6/25 (still Correction ≥6)
+- Tue Aug 12: Jul 8 dist expires → 5/25 = Under Pressure transition
+
+`research_source: websearch_fallback` | `Alpaca_Day174_BLOCKED` | `58th_degraded_session` | `67th_zero_action_session` | `ES_+0.1pct_NQ_-0.1pct_Dow_+0.2pct` | `Hormuz_50-50_chance_by_Friday` | `jobless_claims_prior_197K_today_watch` | `FTD_Day6_threshold_7817.63_unlikely` | `FTD_Day7_NFP_Aug7_LAST_CHANCE` | `NFP_consensus_85-120K_unemploy_4.2pct` | `NVDA_219.22_flat_77_no_handle` | `GOOGL_AI_leadership_overhaul_Jeff_Dean_out_additional_negative` | `PLTR_160.35_67-72_below_threshold` | `ARM_244-246est_below_threshold` | `dist_threshold_7706.42` | `circuit_breakers_ALL_CLEAR`

@@ -6,7 +6,25 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 5 /eod-review 3:15 PM CT — S&P ~7,721 est. -0.20% ⚠️ BORDERLINE DIST DAY (threshold 7,721.48; volume BELOW avg / BELOW yesterday → NOT dist day — volume criterion not met) — 🚫 FTD DAY 5 NOT CONFIRMED (S&P peaked ~7,783 at 10 AM CT; reversed; far below 7,834 threshold) — Dow +0.72% NEW ATH 54,474 (Hormuz deal hopes) — Nasdaq -0.45% 26,465 (4-day rally SNAPPED) — NVDA +3%+ ($214-218 SpaceX deal) — DIST 7/25 UNCHANGED — FTD DAY 6 Thu Aug 6 + DAY 7 Fri Aug 7 NFP LAST CHANCE — ALPACA DAY ~173 BLOCKED — 0 POSITIONS — 0 ACTIONS | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 6 /pre-market 6:00 AM CT — ES +0.1% / NQ -0.1% — FTD DAY 6 OPEN (threshold ~7,817.63; UNLIKELY with flat futures) — FTD DAY 7 Fri Aug 7 + NFP LAST CHANCE (consensus 85-120K jobs) — Hormuz deal 50-50 by Friday — Jobless Claims 8:30 AM ET TODAY — DIST THRESHOLD ~7,706.42 — DIST 7/25 UNCHANGED — ALPACA DAY ~174 BLOCKED — 0 POSITIONS — 0 ACTIONS | DIST EXPIRY: Aug 11→6/25, Aug 12→5/25=Under Pressure)*
+
+**✅ AUG 6 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.1% NQ -0.1% FLAT OVERNIGHT — ⚠️ FTD DAY 6 VERY UNLIKELY (threshold ~7,817.63) — DAY 7 NFP FRI AUG 7 LAST CHANCE — HORMUZ 50-50 CHANCE BY FRI — GOOGL ⚠️ AI LEADERSHIP OVERHAUL — NVDA $219 FLAT — ALPACA DAY ~174 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~174 BLOCKED | Perplexity 403 | AV 403 | 58th consecutive degraded session
+- **Abort gates: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions | 67th consecutive zero-action session
+- **Futures:** ES +0.1% / NQ -0.1% / Dow +0.2% — nearly flat; absorbing earnings wall + Hormuz uncertainty
+- **FTD Day 6 (TODAY):** Threshold ~7,817.63 (7,721 × 1.0125) | S&P open est. ~7,728-7,732 (ES +0.1%) | Need +1.17% ADDITIONAL from open = VERY UNLIKELY | FTD probability: ~10-15%
+- **FTD Day 7 (Fri Aug 7 + NFP — LAST):** NFP July 2026 at 8:30 AM ET | Consensus: 85-120K new jobs (wide range; June weak at 57K); unemployment 4.2% steady; wages +3.5% YoY | In-line/beat = last FTD catalyst; miss = potential dist day risk | Probability: ~25-35%
+- **Dist threshold TODAY:** ~7,706.42 (7,721 × 0.998) | With ES +0.1% and S&P open ~7,728, dist risk LOW ✅
+- **Hormuz deal:** Iran-Oman agreed shipping route coordinates. Trump teasing deal "this week." Gulf official: ~50-50 chance by Friday. Market: Dow continues ATH run on hopes; oil remains lower → inflation tailwind.
+- **Jobless claims (8:30 AM ET TODAY):** Prior week 197K (very tight; below 200K est.). Today's actual release to be confirmed at /market-check.
+- **Bench status (overnight):**
+  - NVDA: $219.22 (-0.03% AH, essentially flat) | Day range context: $214.80-$222.22 | SpaceX deal intact | Score 77/100 (no handle = no entry) | Cup wk ~44-45 | 🟡 WATCHING
+  - ARM: ~$244-246 est. | Screener BLOCKED | est. 55-65/100 | No new overnight catalyst | 🔴 BELOW THRESHOLD
+  - GOOGL: $360.13 (-4.05% Aug 5) | ⚠️ MATERIAL NEGATIVE — AI leadership overhaul (Jeff Dean out); further damages I/L letter quality | Already 60-65/100 | 🔴 ADDITIONAL THESIS RISK — not actionable
+  - PLTR: ~$160.35 | Post-earnings +29.5% already baked | 67-72/100 (float 2.14B S-letter drag) | 🔴 BELOW THRESHOLD
+  - INTC: 46/100 REJECTED | MRVL: 15-25/100 watch-only
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 trades | PDT: 0/3
+- `pre-market_Aug6` | `websearch_fallback` | `Alpaca_Day174_BLOCKED` | `58th_degraded_session` | `67th_zero_action_session` | `ES_+0.1pct_NQ_-0.1pct` | `FTD_Day6_threshold_7817.63_UNLIKELY` | `FTD_Day7_NFP_LAST` | `NFP_consensus_85-120K` | `Hormuz_50-50_Friday` | `jobless_claims_prior_197K_today_release` | `NVDA_219.22_flat_77_no_handle` | `GOOGL_AI_leadership_overhaul_Jeff_Dean_out` | `PLTR_160.35_below_threshold` | `dist_threshold_7706.42_LOW_risk` | `dist_7of25_UNCHANGED`
 
 **✅ AUG 5 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,721 est. -0.20% BORDERLINE DIST CHECK — ⚠️ FTD DAY 5 NOT CONFIRMED — Dow NEW ATH — Nasdaq 4-DAY RALLY SNAPPED — NVDA +3%+ — DIST 7/25 UNCHANGED — FTD WINDOW Day 6+7 REMAIN — ALPACA DAY ~173 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~173 BLOCKED | Perplexity 403 | AV 403 | 57th consecutive degraded session

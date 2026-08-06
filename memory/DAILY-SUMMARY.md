@@ -5522,3 +5522,19 @@ AMD: ~$480-490 (recovering from -8.8% AH) | Dow: NEW ATH on Hormuz deal hopes
 
 Tomorrow (Day 6 — FTD): Jobless claims 8:30 AM ET | FTD threshold ~7,836+ | Dist threshold ~7,706.42
 Friday (Day 7 — LAST): NFP July 2026 8:30 AM ET | Final FTD window day | Binary catalyst
+
+---
+## 2026-08-06 11:17 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-08-06
+Market: 🔴 Correction (7/25 dist days) | Futures: ES +0.1% NQ -0.1% Dow +0.2%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions held)
+Watchlist ready 🟢: NONE (Correction gate; 0 candidates ≥75)
+Watchlist watching 🟡: NVDA $219 (77/100 upgrade flag — no handle, no pivot — NOT actionable)
+Bench below threshold 🔴: ARM ~$244 (55-65/100 est, screener blocked) | PLTR $160 (67-72/100, float drag) | GOOGL $360 (60-65/100 + AI leadership overhaul/Jeff Dean departure = additional thesis risk)
+FTD: Day 6 TODAY — threshold ~7,817.63, UNLIKELY (ES +0.1%) | Day 7 Fri Aug 7 + NFP LAST CHANCE (consensus 85-120K, unemp 4.2%)
+Hormuz: 50-50 deal by Fri (Iran-Oman coords agreed) | Jobless claims 8:30 AM ET today (prior 197K)
+Dist expiry: Aug 11→6/25 | Aug 12→5/25=Under Pressure
+Key catalyst: GOOGL AI leadership overhaul (negative for bench) | Hormuz close (oil bullish)
+Plan: No entries — Correction gate active. Monitor FTD Day 6 + NFP Day 7. SH hedge QUEUED (Alpaca Day ~174 BLOCKED). research_source: websearch_fallback
