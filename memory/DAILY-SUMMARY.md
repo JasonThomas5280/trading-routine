@@ -1,5 +1,49 @@
 
 ---
+## 2026-08-06 10:00 CT [market-check — 🔴 CORRECTION 7/25 — ⚡ FTD DAY 6 NOT CONFIRMED — NOT DIST DAY ✅ — JOBLESS CLAIMS 226K — 🕊️ HORMUZ ON VERGE — NVDA ~$221 5 GREEN DAYS — FTD DAY 7 NFP LAST — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-08-06 10:00 CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+Alpaca: Day ~175 BLOCKED | Perplexity: 403 | AV: 403 | 59th degraded session
+
+Actions taken:
+  ⬜ No new entries — ABORT: Correction gate (7/25 dist days ≥6) + Alpaca BLOCKED (Day ~175)
+  ⬜ Sell-rules-engine: SKIPPED (0 open positions — 68th consecutive skip)
+
+S&P 500 data:
+  Aug 5 actual close CONFIRMED: 7,723.55 (our est. 7,721 — confirmed ✅; NOT dist day ✅)
+  Aug 6 open: ~7,771.62 (+0.63%) — RISING SESSION — NOT a dist day ✅ (threshold 7,708.60)
+  Dist count: 7/25 UNCHANGED (Active: Jul 7, 8, 13, 16, 17, 23, 29)
+
+FTD Day 6 (TODAY) — NOT CONFIRMED:
+  Threshold: 7,814.09 (7,723.55 × 1.0125; updated from ~7,817.63)
+  Intraday high: ~7,793 → ~21 pts short of threshold | Session ongoing
+  FTD probability Day 6: ~15-20% (low but not zero)
+
+⚡ FTD DAY 7 TOMORROW (Fri Aug 7 + NFP — LAST CHANCE):
+  NFP July 2026 @ 8:30 AM ET | Consensus: 80-120K (prior: 57K weak June)
+  Unemployment: 4.2-4.3% | Wages: +3.5% YoY
+  FTD threshold: ~7,814.09 (may update at /eod-review based on today's close)
+  FTD probability Day 7: 35-45% (Hormuz deal momentum + jobs bounce-back from June)
+
+Key morning catalysts:
+  📊 Jobless claims 226K (wk Aug 2; prior 219K revised; +7K; mildly dovish; market absorbed)
+  🕊️ Hormuz "on verge of being finalised" (Bloomberg; Iran-Oman coordinates agreed; Trump: "announcement soon")
+  💚 NVDA: $221.93 PM (+1.24%); 5 consecutive green days, up ~15%; cup wk ~45; no handle; 77/100
+
+Bench status:
+  NVDA: 77/100 | cup wk ~45 | no handle → no entry | watching
+  INTC: 46/100 REJECTED (long-term watch) | ARM: 55-65/100 (screener blocked) | MRVL: 15-25/100 | GOOGL: 60-65/100
+  Promotions/demotions: NONE
+
+Earnings AH today: ABNB, LYFT, NET (not in universe; NET cloud commentary to watch)
+
+Watchlist status: 0 primary ready | 5 bench monitoring | 0 removed
+Open positions: 0 / 4 max (0% deployed) | Equity: $2,500 (HWM)
+Weekly trade count: 0 of 3 used | 22nd consecutive zero-trade week | 68th consecutive zero-action session
+Next check: /eod-review 3:15 PM CT
+
+---
 ## 2026-08-05 10:00 CT [market-check — 🔴 CORRECTION 7/25 — S&P ~7,783 +0.61% NO DIST DAY ✅ — ⚡ FTD DAY 5 BACK IN PLAY 40-55% — 🚀 SPACEX-NVDA EXCLUSIVE AI DEAL — NVDA 77/100 UPGRADE FLAG — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-08-05 10:00 CT

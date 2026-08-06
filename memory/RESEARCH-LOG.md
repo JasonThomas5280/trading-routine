@@ -46,6 +46,82 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-06 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 6 NOT CONFIRMED (HIGH ~7,793 < THRESHOLD 7,814.09) — NOT DIST DAY ✅ — JOBLESS CLAIMS 226K — 🕊️ HORMUZ "ON VERGE" — NVDA ~$221 5 GREEN DAYS — FTD DAY 7 AUG 7 NFP LAST — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~175 BLOCKED | Perplexity 403 | AV 403 — 59th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days — FTD Day 6 not confirmed; Day 7 NFP Aug 7 is last chance)
+**Sector leaders (est.):** Broad positive bias today — Hormuz deal momentum + jobless claims absorbed; Dow outperforming (ATH run); Industrials, Consumer Discretionary relative strength
+**Sector laggards:** XLK lagging slightly (chip consolidation after 5-day NVDA rally); Nasdaq underperforming S&P
+
+### Step 1: Overnight gap check on open positions
+- **Positions: 0** | Gap check SKIPPED (32nd consecutive zero-position session)
+
+### Step 2: Catalyst scan — open positions
+- N/A (0 positions)
+
+### Step 3: Catalyst scan — key overnight / morning developments
+
+**S&P 500 (10:00 AM CT intraday):**
+- Aug 5 ACTUAL close CONFIRMED: 7,723.55 (our est. was ~7,721; within 2.55 pts; "NOT dist day" call UNCHANGED ✅)
+- Aug 6 open: ~7,771.62 (+0.63% from 7,723.55) | TheStreet: "S&P 500 rises as investors weigh jobs data, earnings ahead"
+- Intraday high est. ~7,793 (so far) | Dist threshold: 7,708.60 → well above → NOT a dist day ✅
+- FTD Day 6 threshold: 7,814.09 | High of ~7,793 = ~21 pts short → FTD NOT YET TRIGGERED
+
+**Jobless Claims (released 8:30 AM ET today — week ending Aug 2):**
+- Initial claims: 226K | Prior week revised: 218K → 219K | Change: +7K
+- 4-week moving average: 220,750 | Continuing claims: 1,974K (+38K)
+- Verdict: Mildly dovish — slight labor market softening but still historically tight; not a recession signal; no panic
+- Note: Pre-market had "prior 197K" — corrected; prior week (Jul 26) was 219K (revised); the 197K may have referenced an even earlier week
+
+**Hormuz Deal (Bloomberg/CNN — Aug 6):**
+- Iran: deal "on the verge of being finalised" ✅
+- Iran-Oman agreed coordinates for shipping routes through Strait ✅
+- Trump: "a lot of progress has been made; announcement could be made soon"
+- Caveat: Iran says US must meet commitments before strait reopens — still a gate
+- Market implication: POSITIVE → oil lower → inflation tailwind → Dow ATH run intact → potential FTD Day 7 catalyst
+
+**NVDA (Aug 6):**
+- Pre-market: $221.93 (+1.24% from $219.22 Aug 5 close)
+- 5 consecutive green days, up ~15% from Aug 1 lows
+- Trefis headline: "NVIDIA Stock: 5 Straight Green Days, Up 15%"
+- Cup wk ~45; still ascending right side — no handle yet forming
+- 52-wk high: $236.54 (~6.6% away from $221.93)
+- Score: 77/100 UNCHANGED | Entry: BLOCKED (no handle = no pivot)
+
+**Earnings AH today (Aug 6):** Airbnb (ABNB), Lyft (LYFT), Cloudflare (NET)
+- NET most relevant: cloud infrastructure / AI workloads → potential read-through for tech sector
+- None are in our universe or screener queue
+
+### Step 4: Abort gates
+
+| Gate | Status |
+|---|---|
+| Market state | 🔴 CORRECTION → **ABORT new longs** |
+| Alpaca | Day ~175 BLOCKED (403) → **ABORT orders** |
+| Research | websearch_fallback (not full DEGRADED) → sells would run |
+| Daily circuit breaker | CLEAR |
+| Weekly circuit breaker | CLEAR |
+| Weekly trade count | 0/3 |
+| Open positions | 0/4 |
+
+**Result: ABORT GATES FIRED** | 0 actions | 68th consecutive zero-action session
+
+### Step 5: Watchlist trigger check
+- Primary watchlist: NONE (market in Correction — 0 entries qualify for 22nd consecutive week)
+- Bench: NVDA, ARM, INTC, MRVL, GOOGL — all BLOCKED (Correction + Alpaca + scores below threshold except NVDA which lacks a handle/pivot)
+
+### Step 6: Bench promotion check
+- **NVDA 77/100:** Cup wk ~45, no handle, ascending right side; 52-wk high $236.54 (~6.6% away); no defined pivot → not within 2% of pivot → **NO PROMOTION**
+- **ARM est. 55-65/100:** Screener blocked; BELOW THRESHOLD → **NO PROMOTION**
+- **INTC 46/100:** REJECTED permanently (2027+ earliest) → **NO CHANGE**
+- **MRVL 15-25/100:** Watch-only → **NO CHANGE**
+- **GOOGL 60-65/100:** Watch-only → **NO CHANGE**
+
+### Step 7: Sell-rules-engine
+- **SKIPPED** (0 positions — 68th consecutive skip)
+
+---
+
 ## 2026-08-05 (Wed) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 5 EFFECTIVELY FAILED (ES +0.25% / AMD -8.8% AH / HELIOS DISAPPOINT — THRESHOLD 7,834.75 UNREACHABLE) — ⚠️ DIST DAY 8 RISK MODERATE (THRESHOLD 7,721.48) — ARM SCREENER BLOCKED (INSUFFICIENT DATA) — NVDA $209.95 PM +1.60% — GOOGL BLACKOUT CLEARS — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~172 BLOCKED | Perplexity 403 | AV 403 — 55th consecutive degraded session)
