@@ -17864,3 +17864,36 @@ All new long entries BLOCKED. No positions to health-check.
 - Tue Aug 12: Jul 8 dist expires → 5/25 = Under Pressure transition
 
 `research_source: websearch_fallback` | `Alpaca_Day174_BLOCKED` | `58th_degraded_session` | `67th_zero_action_session` | `ES_+0.1pct_NQ_-0.1pct_Dow_+0.2pct` | `Hormuz_50-50_chance_by_Friday` | `jobless_claims_prior_197K_today_watch` | `FTD_Day6_threshold_7817.63_unlikely` | `FTD_Day7_NFP_Aug7_LAST_CHANCE` | `NFP_consensus_85-120K_unemploy_4.2pct` | `NVDA_219.22_flat_77_no_handle` | `GOOGL_AI_leadership_overhaul_Jeff_Dean_out_additional_negative` | `PLTR_160.35_67-72_below_threshold` | `ARM_244-246est_below_threshold` | `dist_threshold_7706.42` | `circuit_breakers_ALL_CLEAR`
+
+---
+
+## 2026-08-06 — /eod-review (3:15 PM CT)
+
+**Market state:** 🔴 Market in Correction (7/25 dist days) | `research_source: websearch_fallback` | Alpaca Day ~175 BLOCKED | Perplexity 403 | AV 403 | 60th consecutive degraded session
+
+**Close (est.):** S&P 500 est. ~7,711 (-0.17% / ~-12 pts from 7,723.55) | High of day ~7,793.68 | QQQ 717.30 (-0.91% from 723.85) | Dow ATH run likely continued (not confirmed) | NVDA est. close ~$216-222 (6th consecutive green day est.; Alpaca blocked)
+**Distribution days:** 7 of 25 trailing sessions | Today: NOT a distribution day ✅ (threshold 7,708.60; close est. ~7,711 barely above; volume average/not elevated above yesterday) | Dist count: 7/25 UNCHANGED
+**FTD status:** Day 6 NOT CONFIRMED — S&P high ~7,793.68 near open, reversed to close ~7,711; far below threshold 7,814.09 | FTD Day 7 = Fri Aug 7 + NFP (LAST AND FINAL; threshold ~7,825 est.)
+**Market state:** 🔴 Market in Correction — UNCHANGED (no transition today; 7/25 dist days still active)
+**Positions held:** 0
+**Actions today:**
+  - sell-rules-engine: SKIPPED (0 open positions — 69th consecutive skip)
+  - No buys, sells, or stop adjustments
+  - SH $625 hedge: STILL QUEUED (Alpaca Day ~175 BLOCKED; if NFP triggers FTD tomorrow, cancel SH queue and prepare long entries)
+**Circuit breakers:** none — ALL CLEAR
+**P&L today:** $0 (0%)
+**Equity:** $2,500 (HWM)
+**Bench updates:**
+  - NVDA: est. close ~$216-222 | 6th consecutive green day est. | Cup wk ~45; still no handle | Score 77/100 UNCHANGED (handle completion needed for re-score and entry trigger) | 52-wk high $236.54 (~7-9% away at est. close)
+  - Hormuz: Iran + Oman "agreed in principle" (Bloomberg); shipping routes confirmed; Iran insists US commitments met before reopening | NOT SIGNED — oil lower on expectations but not confirmed
+  - ABNB AH: Raised full-year revenue guidance 2nd time on strong US + Europe travel demand | Beat est. (positive consumer travel signal; not AI read-through)
+  - NET (Cloudflare) AH: Q2 2026 report; guidance ~$665M rev (+30% YoY); AI tailwinds noted | Cloud infra commentary = soft NVDA demand confirmation
+  - LYFT AH: Results pending at time of write
+**Key forward events:**
+  - Fri Aug 7 (FTD Day 7 — LAST): NFP July 2026 at 8:30 AM ET | Consensus: 80-120K jobs (prior 57K June weak; rebound expected) | Unemployment: 4.2-4.3% | FTD threshold: ~7,825 (from est. ~7,711 close × 1.0125) | Dist threshold: ~7,697 (7,711 × 0.998) | NFP beat + S&P close ≥7,825 on elevated vol = Correction → Confirmed Uptrend
+  - Mon Aug 11: Jul 7 dist expires → 6/25 (still Correction ≥6)
+  - Tue Aug 12: Jul 8 dist expires → 5/25 = Under Pressure
+  - If no FTD by EOD Aug 7: window CLOSED; next path = natural dist expiry (Under Pressure by Aug 12; possible Confirmed Uptrend Aug 17-21 if no new dist days)
+  - NVDA handle: watch ~Aug 11-Sep 2026 formation window
+**Data sources:** `research_source: websearch_fallback` | Alpaca proxy 403 | Perplexity 403 | AV 403
+`eod-review_Aug6` | `SPX_est_7711_-0.17pct_NOT_dist_vol_avg` | `QQQ_717.30_-0.91pct` | `FTD_Day6_NOT_confirmed` | `FTD_Day7_Aug7_NFP_threshold_7825est` | `dist_7of25_UNCHANGED` | `NVDA_est_close_216-222_6th_green_day` | `Hormuz_agreed_in_principle_NOT_signed` | `ABNB_raised_guidance_2nd_time` | `NET_cloudflare_AH_AI_tailwinds` | `circuit_breakers_ALL_CLEAR`

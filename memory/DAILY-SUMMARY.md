@@ -5582,3 +5582,17 @@ Hormuz: 50-50 deal by Fri (Iran-Oman coords agreed) | Jobless claims 8:30 AM ET 
 Dist expiry: Aug 11→6/25 | Aug 12→5/25=Under Pressure
 Key catalyst: GOOGL AI leadership overhaul (negative for bench) | Hormuz close (oil bullish)
 Plan: No entries — Correction gate active. Monitor FTD Day 6 + NFP Day 7. SH hedge QUEUED (Alpaca Day ~174 BLOCKED). research_source: websearch_fallback
+
+---
+## 2026-08-06 20:23 CT [clickup-placeholder]
+
+📊 EOD 2026-08-06 | Equity $2,500 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+Distribution days: 7/25 (market: CORRECTION — UNCHANGED)
+FTD: Day 6 NOT CONFIRMED (high ~7,793 vs threshold 7,814.09) — Day 7 Aug 7 NFP LAST CHANCE (threshold ~7,825)
+S&P close est. ~7,711 (-0.17%) | QQQ 717.30 (-0.91%) | NOT dist day (barely above 7,708.60; avg vol)
+Actions today: NONE — 69th consecutive zero-action session
+Sell-rules-engine: SKIPPED (0 positions — 69th consecutive)
+AH: ABNB raised guidance 2nd time | NET Cloudflare AI cloud read | Hormuz agreed-in-principle NOT signed
+NVDA: est. close ~$216-222 (6th green day) | cup wk~45 | no handle | 77/100 | BLOCKED
+Tomorrow (FTD Day 7 + NFP): 80-120K cons; prior 57K — Beat+vol = Uptrend; Miss = dist risk. Dist threshold ~7,697.
