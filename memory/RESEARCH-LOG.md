@@ -17897,3 +17897,65 @@ All new long entries BLOCKED. No positions to health-check.
   - NVDA handle: watch ~Aug 11-Sep 2026 formation window
 **Data sources:** `research_source: websearch_fallback` | Alpaca proxy 403 | Perplexity 403 | AV 403
 `eod-review_Aug6` | `SPX_est_7711_-0.17pct_NOT_dist_vol_avg` | `QQQ_717.30_-0.91pct` | `FTD_Day6_NOT_confirmed` | `FTD_Day7_Aug7_NFP_threshold_7825est` | `dist_7of25_UNCHANGED` | `NVDA_est_close_216-222_6th_green_day` | `Hormuz_agreed_in_principle_NOT_signed` | `ABNB_raised_guidance_2nd_time` | `NET_cloudflare_AH_AI_tailwinds` | `circuit_breakers_ALL_CLEAR`
+
+---
+
+## 2026-08-07 — /pre-market (6:00 AM CT)
+
+**Market state:** 🔴 Market in Correction (7/25 dist days) | `research_source: websearch_fallback` | Alpaca Day ~176 BLOCKED | Perplexity 403 | AV 403 | 61st consecutive degraded session
+
+**Overnight market:**
+- ES: +0.11% | NQ: +0.18% | Dow futures: -0.06% — **muted pre-NFP paralysis**; S&P futures ~7,740
+- Futures absorbing final FTD Day 7 setup; no new geopolitical shocks overnight
+- 10yr yield: no significant move (prior ~4.7%; Hormuz uncertainty keeping slight bid)
+- Oil (Brent): ~$75 (lower from Hormuz deal hopes; deal not signed = partial premium still in price)
+
+**NFP (8:30 AM ET — NOT YET RELEASED):**
+- **TODAY IS THE CATALYST.** NFP July 2026 at 8:30 AM ET / 7:30 AM CT
+- Consensus: 80-97.5K new jobs (wide range; prior June: 57K; May revised 129K)
+- ⚠️ **ADP JULY MISS: +44K** (released Aug 5; well below ~100K+ est.) — SIGNIFICANT BEARISH SIGNAL for NFP
+- Unemployment: 4.2% steady expected; wages +3.5% YoY
+- FTD threshold from yesterday est. close (~7,711): **~7,825** (needs +1.47% from close / +0.85% additional from futures ~7,740)
+- ADP miss historically correlates ~60% with NFP miss → FTD probability now reduced to **~15-25%**
+
+**FTD status (Day 7 — LAST AND FINAL):**
+- Day 7 of rally attempt (Day 1 = Jul 30)
+- FTD threshold: **~7,825** (7,711 × 1.0125)
+- Dist threshold: **~7,697** (7,711 × 0.998)
+- Futures ~7,740 = 43 pts above dist threshold (moderate risk if NFP misses badly) / 85 pts below FTD threshold
+- **Three scenarios:**
+  1. **NFP beat (>120K + S&P +1.25%+ elevated vol):** FTD fires → Confirmed Uptrend. Actions: buy plans activate (each still needs: score ≥75 + handle/pivot + Alpaca restore). SH hedge cancelled. Prob: **~15-20%** (ADP miss weighs heavily)
+  2. **NFP in-line (70-120K):** Market grinds; no FTD; Correction unchanged. Window closes. Watch Aug 11→6/25, Aug 12→5/25 Under Pressure path. Prob: **~50-55%**
+  3. **NFP miss (<57K) or worse:** Dist day risk (close below 7,697); rally attempt INVALIDATED. Need new Day 1 below 7,266.99 rally low. Prob: **~30%** (ADP miss elevates this tail)
+
+**AH Earnings (Aug 6 — NEW DATA):**
+- **NET (Cloudflare):** Rev $696.1M vs $665.4M est. **+4.6% BEAT** / +36% YoY — STRONG | Non-GAAP ops income $96.1M | AI machine-to-machine traffic = structural growth driver | CEO: "fundamental rewrite of Internet for agent-driven commerce" → **CONFIRMS NVDA N-letter thesis (6th AI cloud infrastructure demand confirmation)** | Current RPO +35% YoY | GAAP loss -$205.7M (30% rev; non-GAAP positive = good)
+- **ABNB:** Raised full-year guidance 2nd time — already logged
+- **LYFT:** Results not captured in search
+
+**Hormuz:**
+- NOT formally signed — complications from Lebanon escalation (talks briefly interrupted Wed)
+- "Agreed in principle" per Bloomberg Aug 6 | Iran insists US must meet commitments first
+- Oil ~$75 (significant drop from $100 peak; deal not yet priced in as complete → some upside if signed)
+- If Hormuz formally signed today → major oil drop + Dow bullish → could catalyze FTD (upside risk to probability)
+
+**Open positions:** 0 — no gap check required, no catalyst scan needed
+
+**Bench status (pre-market):**
+- **NVDA: ~$219 (flat, -0.03%)** | 77/100 UNCHANGED | Cup wk ~45; no handle (ascending right side) | 52-wk high $236.54 (~8% away at $219) | Score est. 87/100 with handle+Uptrend+live data | 🟡 WATCHING — BLOCKED (no handle = no pivot = no entry trigger) | NET beat = 6th AI cloud infra demand confirmation for NVDA N-letter
+- **ARM: ~$244-246 est.** | Screener BLOCKED | 55-65/100 est. | No new catalyst | 🔴 BELOW THRESHOLD
+- **INTC: 46/100 REJECTED** | Long-term watch only
+- **MRVL: 15-25/100** | Watch only
+- **GOOGL: 60-65/100** | Thesis weakening (Jeff Dean out + XLC #9) | Not actionable
+
+**Circuit breakers:** ALL CLEAR | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 new positions | PDT: 0/3
+
+**Actions:** ZERO — Correction gate + Alpaca BLOCKED + 0 candidates ≥75 | 70th consecutive zero-action session
+
+**After FTD window closes (if no FTD today):**
+- Mon Aug 11: Jul 7 dist expires → 6/25 (still Correction ≥6) — NO CHANGE
+- Tue Aug 12: Jul 8 dist expires → 5/25 = **UNDER PRESSURE** (if no new dist days added Aug 7 or Aug 11)
+- Path to Confirmed Uptrend (natural expiry): ~Aug 17-21 (Jul 13+Jul 16 expire → 4/25 → need FTD)
+- NVDA handle: still building; watch ~Aug 11-Sep 2026 range
+
+`research_source: websearch_fallback` | `Alpaca_Day176_BLOCKED` | `61st_degraded_session` | `70th_zero_action_session` | `ES_+0.11pct_NQ_+0.18pct_futures_~7740` | `NFP_July_8:30AM_ET_NOT_YET_RELEASED` | `ADP_July_+44K_MISS_bearish_signal` | `NFP_consensus_80-97.5K` | `FTD_Day7_LAST_threshold_7825_prob_15-25pct` | `dist_threshold_7697` | `NET_cloudflare_beat_696M_vs_665M_+36pct_AI_tailwind` | `Hormuz_NOT_signed_Lebanon_escalation_friction` | `NVDA_219_flat_77_no_handle` | `ARM_244-246est_below_threshold` | `dist_7of25_UNCHANGED` | `circuit_breakers_ALL_CLEAR`

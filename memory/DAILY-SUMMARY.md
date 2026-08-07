@@ -5596,3 +5596,22 @@ Sell-rules-engine: SKIPPED (0 positions — 69th consecutive)
 AH: ABNB raised guidance 2nd time | NET Cloudflare AI cloud read | Hormuz agreed-in-principle NOT signed
 NVDA: est. close ~$216-222 (6th green day) | cup wk~45 | no handle | 77/100 | BLOCKED
 Tomorrow (FTD Day 7 + NFP): 80-120K cons; prior 57K — Beat+vol = Uptrend; Miss = dist risk. Dist threshold ~7,697.
+
+---
+## 2026-08-07 11:15 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-08-07
+Market: 🔴 Correction (7/25 dist days) | Futures: ES +0.11% NQ +0.18% Dow -0.06% (muted ~7,740)
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+⚡ TODAY: FTD DAY 7 LAST + NFP 8:30 AM ET (not yet released)
+NFP consensus: 80-97.5K | ADP July +44K MISS → FTD prob 15-25% (down from 35-45%)
+FTD threshold: ~7,825 | Dist threshold: ~7,697 | Moderate dist risk if NFP misses badly
+AH (Aug 6): NET Cloudflare BEAT $696.1M +36% YoY → AI cloud 6th NVDA N-letter conf | ABNB guided up 2nd time
+Hormuz: NOT formally signed (Lebanon friction) | Oil ~$75 | Upside risk if signed today
+Watchlist ready 🟢: NONE (Correction gate; entry blocked)
+Watching 🟡: NVDA ~$219 flat (77/100 no handle; est. 87/100 with handle+Uptrend — BLOCKED)
+Bench 🔴: ARM est. 55-65/100 (blocked) | INTC 46/100 rejected | MRVL 15-25/100 | GOOGL 60-65/100
+Post-window: Aug 11→6/25 | Aug 12→5/25 Under Pressure (if no new dist days)
+Plan: No entries. Monitor NFP at 7:30 CT. SH $625 hedge QUEUED (Alpaca Day ~176 BLOCKED).
+research_source: websearch_fallback | 23rd zero-trade week | 70th zero-action session
