@@ -46,6 +46,73 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-07 (Fri) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 7 FAILED (S&P ~7,704 / 102 PTS BELOW 7,806.33 THRESHOLD) — FTD WINDOW CLOSED — NOT DIST DAY ✅ — 🚨 NFP JULY -23K MASSIVE MISS — UNEMPLOYMENT 4.1% BEAT — MARKET FLAT — HORMUZ NOT SIGNED — NVDA ~$219-220 FLAT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~176 BLOCKED | Perplexity 403 | AV 403 — 61st consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days — FTD Day 7 FAILED; FTD window CLOSED; next path: dist expiry Aug 11→6/25, Aug 12→5/25=Under Pressure)
+**Sector leaders (est.):** MIXED — initial NFP-driven rate-cut rally faded; market digesting jobs-loss data; defensive sectors (healthcare, staples) relative outperformers intraday
+**Sector laggards:** XLK (semis flat to down); XLY (growth names with recession risk); Nasdaq underperforming S&P slightly
+
+### Step 1: Overnight gap check on open positions
+- **Positions: 0** | Gap check SKIPPED (33rd consecutive zero-position session)
+
+### Step 2: Catalyst scan — open positions
+- N/A (0 positions)
+
+### Step 3: Catalyst scan — NFP + intraday developments
+
+**NFP July 2026 (8:30 AM ET — DECISIVE MISS):**
+- **-23K jobs** (vs +80K consensus; economy SHED jobs in July) — first net job loss in months
+- June revised: +20K (was +57K; -37K downward revision)
+- May + June combined revisions: **-103K** below previously reported
+- Unemployment: **4.1%** (beat 4.2% est. — paradox: jobs lost but UE ticked DOWN slightly; possibly sector mix + labor force participation)
+- Wages: +3.5% YoY (in-line; no wage acceleration)
+- Interpretation: Labor market deteriorating. Fed now under pressure to cut aggressively. But stock market can't cheer recession — S&P flat on the mixed signal.
+
+**S&P 500 (10 AM CT / 11 AM ET intraday):**
+- ~7,704 (-0.08% from 7,709.96 Aug 6 close)
+- Aug 6 confirmed close: 7,709.96 (-0.18%); Dow Aug 6: 53,885.10 (-464.02 pts / -0.85%)
+- Dist threshold: **7,694.54** | S&P 7,704 = 9.46 pts above → **NOT a dist day ✅** (price criterion not met)
+- FTD threshold: **7,806.33** | Gap = 102 pts = -1.32% below → **FTD Day 7 FAILED** (uncloseble)
+
+**FTD Window — OFFICIALLY CLOSED:**
+- Day 7 (Aug 7) = final day; S&P at 7,704 is 102 pts short of 7,806.33 threshold
+- Window does not extend beyond Day 7 per hard rule
+- Rally attempt (Jul 30 Day 1 = 7,437.63 close) still technically alive (no new closing low)
+- Next FTD requires: new Day 1 (fresh rally attempt) → Day 4-7 FTD trigger
+
+**Hormuz:** Not signed. Lebanon friction. "Agreed in principle" framework intact. No breakthrough Aug 7.
+
+**NVDA:**
+- ~$219-220 est. (flat from $218.99 Aug 6 close; pre-market predicted $219.96 +0.44%)
+- Cup wk ~45; no handle; 77/100 UNCHANGED; BLOCKED (no handle = no pivot = no entry)
+- No new N-letter catalysts today
+
+### Step 4: Watchlist trigger check
+
+**Primary watchlist:** NONE (Market in Correction — all long entries blocked)
+**Bench:**
+- NVDA: ~$219-220 flat; no handle; BLOCKED
+- ARM: BLOCKED (screener degraded; est. 55-65/100)
+- INTC: 46/100 REJECTED; MRVL: 15-25/100; GOOGL: 60-65/100
+- **No bench promotions** — no item within 2% of defined pivot
+
+### Step 5: Position health check
+- **Sell-rules-engine: SKIPPED** (0 positions — 70th consecutive skip)
+
+### Actions taken: NONE
+- Abort: 🔴 Correction (7/25) + Alpaca BLOCKED + 0 candidates ≥75 | 71st consecutive zero-action session
+
+### Post-window roadmap
+- **Aug 11:** Jul 7 expires → 6/25 (STILL Correction ≥6)
+- **Aug 12:** Jul 8 expires → **5/25 = UNDER PRESSURE** (if no new dist days Aug 7-12)
+- **Aug 17:** Jul 13 expires → 4/25 | **Aug 19:** Jul 16 expires → 3/25
+- **Earliest Under Pressure:** Aug 12
+- **Earliest Confirmed Uptrend:** New Day 1 needed + FTD Day 4-7 (earliest ~Aug 13-14 for Day 4 of new attempt)
+- `market-check_Aug7` | `FTD_DAY7_FAILED` | `FTD_WINDOW_CLOSED` | `NFP_-23K_MISS` | `June_revised_20K` | `SPX_7704_-0.08pct` | `dist_7of25_UNCHANGED`
+
+---
+
 ## 2026-08-06 (Thu) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 6 NOT CONFIRMED (HIGH ~7,793 < THRESHOLD 7,814.09) — NOT DIST DAY ✅ — JOBLESS CLAIMS 226K — 🕊️ HORMUZ "ON VERGE" — NVDA ~$221 5 GREEN DAYS — FTD DAY 7 AUG 7 NFP LAST — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~175 BLOCKED | Perplexity 403 | AV 403 — 59th consecutive degraded session)

@@ -5615,3 +5615,25 @@ Bench 🔴: ARM est. 55-65/100 (blocked) | INTC 46/100 rejected | MRVL 15-25/100
 Post-window: Aug 11→6/25 | Aug 12→5/25 Under Pressure (if no new dist days)
 Plan: No entries. Monitor NFP at 7:30 CT. SH $625 hedge QUEUED (Alpaca Day ~176 BLOCKED).
 research_source: websearch_fallback | 23rd zero-trade week | 70th zero-action session
+
+---
+## 2026-08-07 15:25 CT [clickup-placeholder]
+
+📈 Market-check 2026-08-07 10:00 AM CT
+Market: 🔴 Correction (7/25 dist days) | Circuit breakers: NONE
+Actions taken: No new entries — ALL ABORT GATES FIRED
+  Gate 1: Market in Correction (7/25 dist days ≥6)
+  Gate 2: Alpaca API BLOCKED (Day ~176)
+  Gate 3: No candidates 75+/100 with valid base
+FTD UPDATE: DAY 7 FAILED — FTD WINDOW NOW CLOSED
+  S&P ~7,704 (-0.08%) | FTD threshold 7,806.33 | Gap: 102 pts (impossible)
+  Aug 6 confirmed close: 7,709.96 | Dow 53,885.10 (-464.02 pts / -0.85%)
+  Dist check: 7,704 > 7,694.54 → NOT a dist day | Dist: 7/25 UNCHANGED
+NFP JULY 2026: -23K MASSIVE MISS (vs +80K est.)
+  June revised: +20K (was 57K) | May+June combined: -103K
+  Unemployment: 4.1% (beat 4.2%) | Market: flat on recession/cut mix
+Hormuz: NOT signed | NVDA: ~219-220 flat | 77/100 no handle BLOCKED
+Watchlist: 0 primary 75+ | 5 bench (all blocked/below threshold)
+Open positions: 0 | Weekly trades: 0/3 | PDT: 0/3
+Roadmap: Aug 11 to 6/25 (Correction); Aug 12 to 5/25 (Under Pressure if no new dist)
+Next check: /eod-review 3:15 PM CT

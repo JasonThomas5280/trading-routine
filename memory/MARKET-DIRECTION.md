@@ -6,7 +6,34 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 7 /pre-market 6:00 AM CT — FTD DAY 7 + NFP (LAST CHANCE) — ES +0.11% NQ +0.18% futures ~7,740 — NFP July 2026 at 8:30 AM ET NOT YET RELEASED (consensus 80-97.5K; ADP July +44K MISS = bearish signal; prob 15-25%) — FTD threshold ~7,825; dist threshold ~7,697 — NET Cloudflare BEAT $696.1M +36% (AI cloud 6th confirmation) — Hormuz NOT signed (Lebanon friction) — NVDA ~$219 flat — DIST 7/25 UNCHANGED — ALPACA DAY ~176 BLOCKED — 0 POSITIONS — 0 ACTIONS | AFTER WINDOW: Aug 11→6/25; Aug 12→5/25=Under Pressure)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 7 /market-check 10:00 AM CT — ⚡ FTD DAY 7 FAILED (S&P ~7,704 -0.08% / 102 pts below 7,806.33 threshold; FTD WINDOW NOW CLOSED) — NOT DIST DAY ✅ (7,704 > 7,694.54 threshold) — 🚨 NFP JULY 2026: -23K MASSIVE MISS vs +80K est. — June revised +20K (was 57K) — May+June -103K combined — Unemployment 4.1% beat — Market flat on recession/cut mix — Hormuz NOT signed — NVDA ~$219-220 flat 77/100 — DIST 7/25 UNCHANGED — ALPACA DAY ~176 BLOCKED — 0 POSITIONS — 0 ACTIONS | NEXT: Aug 11→6/25; Aug 12→5/25=Under Pressure)*
+
+**✅ AUG 7 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 7 FAILED (S&P ~7,704 -0.08% / 102 PTS BELOW 7,806.33 THRESHOLD) — FTD WINDOW NOW CLOSED — NOT DIST DAY ✅ (7,704 > 7,694.54 threshold; price criterion not met) — 🚨 NFP JULY 2026: -23K MASSIVE MISS (vs +80K est.) — JUNE REVISED +20K (WAS 57K; -37K) — MAY+JUNE COMBINED -103K — UNEMPLOYMENT 4.1% BEAT — MARKET FLAT ON RECESSION/CUT MIX — HORMUZ NOT SIGNED — NVDA ~$219-220 FLAT 77/100 BLOCKED — DIST 7/25 UNCHANGED — ALPACA DAY ~176 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~176 BLOCKED | Perplexity 403 | AV 403 | 61st consecutive degraded session
+- **Abort gates ALL FIRED: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution | (3) No candidates ≥75 with valid base** | Zero actions taken | 71st consecutive zero-action session
+- **S&P 500 Aug 7 (10:00 AM CT intraday):** ~7,704 (-0.08% from 7,709.96 Aug 6 confirmed close) | Dow Aug 6: 53,885.10 (-464.02 pts / -0.85%)
+  - **Distribution check:** Dist threshold: **7,694.54** (7,709.96 × 0.998) | S&P ~7,704 → **NOT a distribution day ✅ (price 9.46 pts above threshold)** | Volume: NFP Friday typically elevated — confirm at /eod-review | Dist count: **7/25 UNCHANGED**
+  - **FTD threshold (Day 7):** **7,806.33** (7,709.96 × 1.0125; corrected from prior ~7,825 est. based on confirmed 7,709.96 close) | S&P at 7,704 = **102 pts short (−1.32% below threshold)** — impossible to bridge
+- **⚡ FTD DAY 7 — FAILED (WINDOW NOW CLOSED):**
+  - S&P ~7,704; FTD threshold 7,806.33; gap = 102 pts = +1.33% from current level → IMPOSSIBLE in afternoon session given trajectory
+  - **FTD WINDOW OFFICIALLY CLOSED** — Day 7 was the last eligible day per hard rule
+  - Rally attempt (Jul 30 Day 1 close 7,437.63) technically alive (no new closing low) but unconfirmed → Correction UNCHANGED
+  - Next FTD opportunity: New Day 1 required OR natural dist expiry to ≤5/25 then fresh attempt
+- **🚨 NFP July 2026 (8:30 AM ET — MASSIVE MISS):**
+  - Actual: **-23K jobs** (vs +80K consensus; economy SHED jobs) | Prior June REVISED: +20K (was 57K; -37K downward revision) | May+June combined: **-103K below prior reports**
+  - Unemployment: **4.1%** (beat 4.2% est. — paradox: jobs lost but UE rate improved slightly)
+  - Market reaction: MIXED FLAT. Dovish (rate cut probability surges) vs. negative (recession risk rising). S&P -0.08% = absorbing dual-signal with resilience
+- **🕊️ Hormuz:** NOT formally signed. Lebanon friction ongoing. "Agreed in principle" framework still intact. No breakthrough today.
+- **NVDA (Aug 7 est.):** ~$219-220 (flat from $218.99 Aug 6 close; pre-market predicted ~$219.96) | Cup wk ~45; no handle visible | Score: **77/100 UNCHANGED** | BLOCKED (no handle = no pivot = no entry)
+- **Sell-rules-engine: SKIPPED** (0 positions — 70th consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week Aug 3: 0/3 trades | PDT: 0/3
+- **Post-FTD-window roadmap:**
+  - **Aug 11 (Mon):** Jul 7 dist expires → 6/25 — STILL Correction (≥6 threshold)
+  - **Aug 12 (Tue):** Jul 8 dist expires → **5/25 = UNDER PRESSURE** (if no new dist days Aug 7–12)
+  - **Aug 17 (Mon):** Jul 13 expires → 4/25 | **Aug 19 (Wed):** Jul 16 expires → 3/25 (Under Pressure)
+  - **Confirmed Uptrend path:** Need new rally Day 1 (earliest today if market closes above Day 1 low) + FTD Day 4-7 of new attempt (earliest ~Aug 13-14) OR natural expiry ≤5/25 + new FTD
+  - **Screener queue:** None this session. NVDA re-score trigger: handle forms (~Aug 11-Sep est.). ARM/GOOGL BLOCKED.
+- `market-check_Aug7` | `websearch_fallback` | `Alpaca_Day176_BLOCKED` | `61st_degraded_session` | `71st_zero_action_session` | `SPX_Aug7_~7704_-0.08pct_NOT_DIST_DAY` | `FTD_DAY7_FAILED_102pts_below_7806.33` | `FTD_WINDOW_CLOSED` | `NFP_July2026_-23K_MASSIVE_MISS` | `June_revised_+20K_was_57K` | `May_June_combined_-103K` | `unemployment_4.1pct_beat` | `market_flat_recession_cut_mix` | `Hormuz_NOT_signed` | `NVDA_219-220_flat_77_no_handle` | `dist_7of25_UNCHANGED` | `circuit_breakers_ALL_CLEAR` | `Aug11_6of25_Correction` | `Aug12_5of25_Under_Pressure_if_no_new_dist`
 
 **✅ AUG 7 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 7 LAST CHANCE — ES +0.11% NQ +0.18% MUTED — NFP 8:30 AM ET NOT YET RELEASED (ADP +44K MISS → FTD PROB 15-25%) — NET CLOUDFLARE BEAT $696.1M +36% — HORMUZ NOT SIGNED (LEBANON FRICTION) — NVDA ~$219 FLAT — ALPACA DAY ~176 BLOCKED — 0 POSITIONS — 0 ACTIONS):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~176 BLOCKED | Perplexity 403 | AV 403 | 61st consecutive degraded session
