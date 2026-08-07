@@ -2040,3 +2040,126 @@ Current priority ranking: (1) Proposal 24 (FTD Readiness Protocol — live this 
 - **SH hedge status:** QUEUED — Alpaca Day ~166 BLOCKED. First action on Alpaca restore: cancel SH order IF FTD has fired by then; or place SH order if still in Correction.
 - **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available (blocked by Correction). Capital at HWM since inception ($2,500.00, 16 weeks).
 - **Emotional state check:** ALERT and CONTROLLED — not FOMO. The FTD window opens Monday. This is the moment the system has been building toward for 19 weeks. The discipline is to NOT pre-position, to wait for the actual confirmed close, and to execute the checklist when the signal fires. Pre-positioning "because it looks like it's going up" would violate everything the system is built on. The playbook says react; react means wait for the print. If it fires, deploy. If it doesn't, stay flat. 19 weeks of preserved capital is the dry powder — spend it on confirmed signals only.
+
+---
+
+## Week ending 2026-08-07 (Fri)
+
+> **Context:** Week 25 of operations (started Apr 21). Alpaca BLOCKED Day ~177 (17th consecutive blocked week). Perplexity 403 / Alpha Vantage 403 — 62nd consecutive degraded session. All three primary sources unavailable; all data from WebSearch. **24th consecutive zero-trade week.** FTD window (Jul 30 Day 1 → Aug 7 Day 7) expired without confirmation — S&P advanced +3.58% on the week to NEW ATH 7,757.64 without formal follow-through day. Market remains 🔴 Correction (7/25 dist days). NVDA upgraded 74→77/100 on SpaceX exclusive N-letter 5th confirmation. 72nd consecutive zero-action session.
+
+### Performance
+
+- Starting equity: $2,500.00 (Mon Aug 3 open — 100% cash, 0 carry-in positions)
+- Ending equity: $2,500.00 (Fri Aug 7 close — unchanged; Alpaca Day ~177 BLOCKED; equity confirmed via $0 P&L since inception)
+- Weekly return: **0.00%** (vs. S&P 500 **+3.58%** [7,489.72 Mon Jul 31 close → 7,757.64 Fri Aug 7 ATH] = **-3.58% alpha**)
+- Benchmark context: Nasdaq +5.2% (26,690.62 close; chip bounce-back); Dow +~3.0% (54,036.93) — best week for S&P/Nasdaq since April 2025
+- Trades taken: **0** (max 3/week, used 0 — 24th consecutive zero-trade week)
+- Winners: 0 | Losers: 0 | Winner:loser ratio: N/A
+- Largest winner: N/A | Largest loser: N/A
+- **Root cause of zero trades:** (1) Market in Correction (7/25 dist days ≥6 — gate fires; no new longs permitted) | (2) Alpaca API 403 BLOCKED Day ~177 (execution infrastructure down) | (3) 0 candidates with conviction ≥75 + valid base + pivot trigger — NVDA 77/100 has no handle → no pivot defined. All three abort gates fired every session. Not a strategy failure.
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any -7% stops hit manually? **N/A** (no positions)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO** (no entries)
+- Any entries during Correction? **NO** — zero entries attempted
+- Circuit breakers triggered? **NONE** (no P&L; PDT: 0/3; drawdown: 0% from HWM)
+- **FTD volume gate correctly applied (Day 4, Tue Aug 4):** S&P +1.79% NEW ATH (price criterion met ≥+1.25%) BUT NYSE volume <72% of 30d average → correctly NOT confirmed as FTD. S&P subsequently faded -0.20% and -0.18% the next two sessions, validating that Tuesday's move lacked institutional conviction.
+- **Borderline dist day calls correctly made:** Aug 5 (S&P 7,723.55 vs threshold 7,721.48 — 2.07 pts above; NOT dist ✅) and Aug 6 (S&P 7,709.96 vs threshold 7,708.60 — 1.36 pts above; NOT dist ✅). Both ultra-thin margins; volume criterion also not met on either day.
+- **Adherence score: 100/100** *(trivially perfect — no trades = no violations. System performed correctly under all abort gates.)*
+
+### Market Direction Accuracy
+
+- Our M state all week: **🔴 Market in Correction (7/25 dist days)** — called correctly Mon through Fri
+- Was that right? **YES** — dist count 7/25 UNCHANGED all week (no new dist days Aug 3-7; no expiries until Aug 11)
+  - Active dist days: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 (7 — all valid under 25-session window through Aug 7 ✅)
+- **Paradox: S&P made NEW ATH (Aug 4: 7,736.52; Aug 7: 7,757.64) while remaining in "Correction."** This is not a system error — it is mathematically correct. O'Neil's Correction state is a function of distribution day count (≥6/25), NOT of index level. A market can grind to new highs without triggering a FTD (insufficient volume/price signature of institutional re-entry), while distribution days remain active on the rolling window. This is rare but documented. The state call is correct.
+- FTD Day 4 (Aug 4): S&P +1.79% — price met, volume NOT met → correctly not confirmed ✅
+- FTD Day 5 (Aug 5): S&P -0.20% (borderline NOT dist ✅) → Day 5 decisively failed ✅
+- FTD Day 6 (Aug 6): S&P -0.18% (borderline NOT dist ✅); high ~7,793 missed 7,814.09 threshold → Day 6 failed ✅
+- FTD Day 7 (Aug 7): S&P +0.62% NEW ATH — price did NOT meet ≥+1.25% threshold (48.69 pts short of 7,806.33) → Day 7 failed → FTD window OFFICIALLY CLOSED ✅
+- NFP dovish read correctly processed: NFP July -23K (massive miss) → market rallied to ATH on rate-cut repricing. Correctly assessed as NOT dist day (positive close, below-average volume). NFP miss ≠ automatic dist day. Yield direction (10yr dropped) + futures reaction were the correct leading indicators.
+- Any missed distribution days? **None identified** (Aug 3-7 all positive or borderline-not-dist)
+- **Accuracy verdict: CLEAN — 5/5 session calls correct.**
+
+### Sector Performance
+
+- Sectors traded this week: **NONE** (Correction gate)
+- **Market context — sector returns week ending Aug 7:**
+  - **XLK Technology/Semis:** clear weekly leader → Nasdaq +5.2% | NVDA $200.75 (Jul 31) → $221.22 (Aug 7) = +$20.47 (+10.2%) | SpaceX exclusive AI deal drove semi recovery
+  - **XLY Consumer Discretionary:** strong → ABNB raised full-year guidance 2nd time; consumer travel robust
+  - **XLC Communications:** NET (Cloudflare) Q2 beat ($696.1M rev; +36% YoY) Aug 6 AH — AI cloud infrastructure demand confirmed as 6th NVDA N-letter read-through
+  - **XLI Industrials:** moderate positive on Hormuz deal expectations + oil decline
+  - **XLRE / XLF:** laggards (30yr still elevated ~5.22%; NFP dovish short-term relief but 30yr sticky)
+- Hit rate: N/A | Sectors to blacklist: **NONE** (no consecutive failed trades)
+
+### Conviction Correlation
+
+- Trades with conviction ≥85: 0 | Trades 75-84: 0 | Trades below 75: 0 (no bugs; no entries)
+- **NVDA conviction update: 74/100 → 77/100** (Aug 5 upgrade — SpaceX exclusive AI infrastructure deal: all SpaceX AI infra on NVDA chips exclusively; 2 GW EOY 2026, ~10 GW EOY 2027; N-letter = 5th large-cap confirmation after MSFT+AMZN+AAPL+AMD)
+  - Score breakdown: C:20 A:15 N:15 S:10 L:12 I:5 Base:0 = **77/100 (no handle)**
+  - With handle + Uptrend + live AV data: estimated **87/100** — would be highest-ever score in 25 weeks of operation
+  - Entry status: **BLOCKED** (no handle = no pivot = no valid entry trigger regardless of score)
+- INTC screener result (run Tue Aug 4): **46/100 REJECTED** — C:20 A:0 N:12 S:2 L:10 I:2 Base:0. A-letter GAAP fail (2024: -$4.38 EPS; 2025: -$0.08 EPS). Reclassified to long-term watch-only; earliest re-entry consideration late 2027.
+- ARM partial re-eval (run Aug 5): **55-65/100 est. BELOW THRESHOLD** — GAAP EPS $0.25 missed $0.40 est. (-38%); non-GAAP $0.45 beat; no valid base; APIs blocked for full score.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (403 — 62nd consecutive degraded session; ~20th consecutive 0-perplexity week)
+- Sessions on websearch_fallback: **~15** (5 days × ~3 routines/day)
+- Sessions DEGRADED: **0** (WebSearch consistently available throughout week)
+- Research source for trades placed: **N/A** (no trades)
+- **Data quality this week:**
+  - S&P index closes confirmed via WebSearch within ±0.3% of estimates on all 5 days ✅
+  - NVDA Aug 7 close: $221.22 (confirmed; pre-market estimate was $219.96 — WebSearch within $1.26 or +0.57% of actual) ✅
+  - NFP data retrieved correctly at /market-check 10 AM CT (2 hrs post-release) ✅
+  - Aug 5 S&P actual close 7,723.55 confirmed within 2.55 pts of estimate (~7,721) ✅
+
+### Lessons
+
+**Lesson 1 — Market: The S&P can make new ATH in O'Neil Correction. The FTD is not a market strength signal — it's an institutional re-entry timing signal. These are different things.**
+Week 25: S&P gained +3.58% and printed two new ATHs (Aug 4 and Aug 7) while dist count held at 7/25. Correction state never changed. This is not a paradox — the market rose without the volume/price signature of broad institutional re-commitment. Day 4 volume was below 72% of average despite +1.79% price. Days 5-6 faded. Day 7 rallied on NFP dovish interpretation, not on earnings/revenue beats driving institutional buying. The FTD threshold being 48.69 pts away on a day the market hit ATH is the system's way of saying: "the buyers are not in yet at scale." The lesson: "new ATH" is not our entry signal. The FTD threshold + volume confirmation IS our signal. Trust the gate.
+
+**Lesson 2 — Strategy: A score of 77/100 with no handle is identical to a score of 0 for entry purposes. The Base pattern gate is binary, not weighted.**
+NVDA now has 5 AI capex confirmations across $500B+ of projected GPU spending: MSFT, AMZN, AAPL, AMD, SpaceX. The N-letter thesis has never been stronger in 25 weeks. Score: 77/100 without handle → estimated 87/100 with handle. We sat out +10.2% NVDA upside this week — $200.75 to $221.22. That's correct. Entering mid-cup at any price without a defined pivot is not CAN SLIM — it's momentum chasing dressed as conviction. The handle is where weak longs flush and the base sets a precise risk/reward point. Without that pullback, we have no defined stop, no tight entry, and no edge over a random buyer. Score cutoffs don't matter until the base pattern gate clears. Never compromise on Base:0.
+
+**Lesson 3 — Execution: Negative economic data can be bullish. NFP -23K → S&P new ATH. Check yield direction before assessing dist-day probability on macro releases.**
+Aug 7 NFP was -23K (first net job loss in months) vs +80K consensus. Initial risk: dist day. Actual outcome: S&P to NEW ATH on dovish rate-cut repricing. The pattern: when bad data is bad enough to force Fed hand, equities front-run the cut and rally past the growth concern. The /pre-market note called NFP miss a "dist day risk" — technically correct as a possibility, but the probability assessment was too simple. The sequence that matters: (1) NFP number, (2) 10-yr yield move, (3) equity futures reaction, (4) then assess dist/FTD probability. If yields drop aggressively on bad data, equity dist probability drops significantly. This week the yield drop was the tell that equities would interpret the miss as dovish, not recessionary.
+
+### Proposed Rule Changes
+
+**Proposal 26 — NEW: "NFP/macro-release interpretation protocol" — check 10-yr yield move before finalizing dist-day probability at /market-check on major data release days.**
+Add to /market-check template when NFP, CPI, or PPI is scheduled: after data release, check 10-yr Treasury yield direction simultaneously. If yield drops ≥5bps on weak data (dovish interpretation): reduce dist-day probability assessment; note "dovish read reducing dist risk." If yield RISES on weak data (stagflation read): increase dist-day probability. Current template says "NFP miss = dist day risk" — too binary. Replace with yield-conditional assessment.
+Status: **NEW — pending Jason approval.**
+
+**Proposal 27 — NEW: "ATH-during-Correction notation" — when S&P closes at all-time high while in Correction state, add explicit label in /eod-review log.**
+Prevents future confusion about state validity. Add: "📈 ATH-WHILE-CORRECTION: new ATH does not reset Correction state; dist count (N/25) is the mechanical gate; Correction persists until dist count drops to ≤5 OR FTD fires." Eliminates the superficially paradoxical appearance of ATH + Correction.
+Status: **NEW — pending Jason approval.**
+
+**Proposal 24 status update:** FTD Readiness Protocol (proposed Week 19). This week was a live test: readiness checklist was pre-loaded at /pre-market Aug 3 ✅; INTC screener run Tue Aug 4 ✅; ARM re-eval attempted Wed Aug 5 ✅; Alpaca health check confirmed BLOCKED ✅. The protocol worked as designed. Recommend promoting to formal codification in /weekly-prep template as standing instruction whenever Rally Attempt Day 1 is active.
+Status: **IMPLEMENTATION-READY — pending Jason approval.**
+
+**Proposals 1-25 prior weeks:** ALL still pending Jason approval. Priority: (1) Proposal 26 (NFP yield protocol — live immediately), (2) Proposal 27 (ATH-during-Correction notation — live immediately), (3) Proposal 24 (FTD Readiness — promote to standing template), (4) Proposal 1 (Alpaca API health check — Day ~177; most overdue in the queue).
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🔴 Correction (7/25) at close. **PRIMARY THESIS: Natural dist decay path.** S&P at NEW ATH 7,757.64 entering next week — underlying strength is real. The mechanical gate is the dist count, and it naturally decays next week: **Mon Aug 11 (Jul 7 dist expires → 6/25 — still Correction ≥6 threshold)**, **Tue Aug 12 (Jul 8 dist expires → 5/25 = Under Pressure, if no new dist days Aug 7-12)**. Aug 17 (Jul 13 expires → 4/25) + Aug 19 (Jul 16 expires → 3/25). **Earliest Confirmed Uptrend via natural expiry: ~Aug 19-21** IF: (a) no new dist days Aug 7-21 AND (b) fresh FTD fires in the Aug 14-21 window after a new rally Day 1. This is the most actionable window since inception.
+- **Critical gate: no new dist days.** Dist threshold Mon Aug 11 = 7,742.12 (7,757.64 × 0.998). S&P is 15.52 pts above it. Any close below 7,742.12 on elevated volume next Monday = new dist day → resets Aug 11 expiry logic. Stay attentive.
+- **Sectors in focus:**
+  1. **XLK Technology/Semis** (primary) — NVDA cup wk ~47; handle watch; 77/100 → est. 87/100 at entry. If Uptrend confirms: NVDA is first buy queue.
+  2. **XLV Healthcare** — leading defensive sector; strong RS; secondary candidate if XLK stalls
+  3. **XLI Industrials** — Hormuz formal signing pending = oil drop + Dow ATH continuation = XLI tailwind
+  - **AVOID:** XLC (GICS #9 sector; GOOGL AI leadership disruption ongoing), XLRE (30yr 5.22% sticky)
+- **Calendar risks (week of Aug 11-15):**
+  - **Mon Aug 11:** Jul 7 dist expires → 6/25 (Correction UNCHANGED; ≥6 threshold). Dist threshold: 7,742.12. Watch close carefully.
+  - **Tue Aug 12:** Jul 8 dist expires → **5/25 = UNDER PRESSURE** (if no new dist days Aug 7-12). Gate shifts: under Under Pressure, reduce exposure (check SH position status), no new longs, but path to Confirmed Uptrend shortens dramatically.
+  - **No major earnings scheduled** (mega-cap earnings season closed). Watch for any surprise announcements.
+  - **Hormuz:** Still "agreed in principle" — formal signing pending Lebanese friction. If signed → oil −10%+ → broad market tailwind → accelerates Uptrend path.
+  - **NVDA handle watch:** Cup ~wk 47. Handle formation: typically 1-4 weeks. Est. handle complete Aug 18 - Sep 2026. Re-score trigger: handle forms → run canslim-screener IMMEDIATELY (don't defer to Sunday /weekly-prep).
+  - **No FOMC until next meeting.** NFP Sept 4. Rate-cut expectations dovish post-Aug 7 miss.
+- **SH hedge status:** QUEUED, Alpaca Day ~177 BLOCKED (execution impossible). Under Pressure Tue Aug 12 technically triggers SH entry — but Alpaca block makes it moot. Maintain 100% cash = same protective posture as SH hedge. Document status at /pre-market Aug 12.
+- **Current book status:** 0 positions, **100% cash ($2,500.00)**, 0% deployed, 3/3 weekly trade slots available. Capital at HWM since inception. PDT: 0/3.
+- **Emotional state check:** DISCIPLINED — no FOMO on the +3.58% week we sat out. Correction gate and Alpaca block both fired correctly. The impulse to second-guess "we should have entered anyway" is exactly the expensive emotion the system is built to resist. 25 weeks of capital preservation = full $2,500 available for the first confirmed signal. Aug 11-21 is the most probable Uptrend window since launch. Plan is clear: watch dist expiry, watch NVDA handle, wait for FTD trigger, deploy when gates clear — not before.
+

@@ -36,6 +36,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-08-03 to 2026-08-07 — **STALE — archived via /weekly-review Fri Aug 7; rebuild via /weekly-prep Sun Aug 10**
+
+> Archived week of Aug 3–7. Market state: 🔴 Correction (7/25 dist days UNCHANGED all week). Zero primary candidates (24th consecutive week). NVDA upgraded 74→77/100 (SpaceX exclusive AI deal = N-letter 5th confirmation; est. 87/100 with handle). INTC screener completed 46/100 REJECTED (A-letter GAAP fail; long-term watch only; earliest re-entry late 2027). ARM partial re-eval 55-65/100 BELOW THRESHOLD. FTD window (Days 4-7, Aug 4-7) CLOSED without confirmation despite S&P NEW ATH 7,757.64 (+3.58% week). NFP July -23K massive miss; market dovish interpretation rallied to ATH. Alpaca Day ~177 BLOCKED. SH $625 hedge QUEUED (Alpaca BLOCKED). **Rebuild required Sun Aug 10 /weekly-prep before Mon /pre-market.** ⚡ CRITICAL NEXT WEEK: Mon Aug 11 (Jul 7 expires → 6/25 Correction UNCHANGED) + Tue Aug 12 (Jul 8 expires → 5/25 = Under Pressure transition). Dist threshold Aug 11: 7,742.12. NVDA handle watch (~Aug 18-Sep). Earliest Confirmed Uptrend: ~Aug 19-21 via natural expiry + FTD.
+
 ## ⛔ CURRENT — Week of 2026-08-03 to 2026-08-07 — REBUILT Sun Aug 2 /weekly-prep
 
 **Built:** 2026-08-02 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode

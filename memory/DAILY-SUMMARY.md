@@ -5652,3 +5652,63 @@ NFP JULY -23K MISS → dovish read → Sept hike off table → ATH close
 NVDA est. $221-225 77/100 no handle BLOCKED
 Circuit breakers: ALL CLEAR
 Tomorrow: Aug 11 Jul 7 expires→6/25 | Aug 12 Jul 8 expires→5/25=Under Pressure | Watch Hormuz+handle
+
+---
+## 2026-08-07 20:42 CT [clickup-placeholder]
+
+### Week ending 2026-08-07
+
+## Week ending 2026-08-07 — Weekly Review
+
+**Status:** 🔴 Correction (7/25 dist days) — UNCHANGED all week
+**Trades:** 0/3 | **Equity:** $2,500.00 (HWM, unchanged) | **P&L:** $0.00
+**Alpha:** -3.58% (S&P +3.58% / Nasdaq +5.2% — best week since Apr 2025 — we sat out correctly)
+
+### Performance
+- Equity: $2,500.00 → $2,500.00 (0.00% vs S&P +3.58%; -3.58% alpha)
+- 0 trades taken (24th consecutive zero-trade week)
+- Abort gates: Correction (7/25) + Alpaca Day ~177 BLOCKED + 0 candidates ≥75 with valid base
+
+### FTD Window (Days 4-7: Aug 4-7) — CLOSED WITHOUT CONFIRMATION
+- Day 4 (Aug 4): S&P +1.79% NEW ATH — price met ≥+1.25% BUT volume <72% avg → NOT FTD ✅
+- Day 5 (Aug 5): S&P -0.20% (borderline not dist) → FTD failed ✅
+- Day 6 (Aug 6): S&P -0.18% (borderline not dist); high 7,793 < threshold 7,814 → FTD failed ✅
+- Day 7 (Aug 7): S&P +0.62% NEW ATH (7,757.64) — 48.69 pts short of 7,806.33 threshold → FAILED → FTD WINDOW CLOSED
+- Result: S&P made new ATH in Correction — correct per O'Neil rules (dist count gate = independent of index level)
+
+### NFP July 2026 — Massive Miss, Dovish Read
+- Actual: -23K jobs (vs +80K est.); June revised +20K (was +57K); May+June combined -103K
+- Market interpretation: DOVISH (rate cut back on table) → S&P new ATH despite job losses
+- Key lesson: check 10-yr yield direction before assessing dist-day risk on macro misses
+
+### NVDA Update: 74/100 → 77/100 (BLOCKED — no handle)
+- SpaceX exclusive AI infrastructure deal (N-letter 5th confirmation): ALL SpaceX AI infra on NVDA chips; 2 GW EOY 2026; 10 GW EOY 2027
+- Score: C:20 A:15 N:15 S:10 L:12 I:5 Base:0 = 77/100 (no handle)
+- Estimated 87/100 with handle + Uptrend + live data
+- NVDA this week: +10.2% ($200.75 → $221.22) — sat out correctly (no pivot = no entry)
+- Handle watch: ~Aug 18 - Sep 2026
+
+### Screener Results
+- INTC: **46/100 REJECTED** (A-letter GAAP fail: 2024 -$4.38, 2025 -$0.08; long-term watch only)
+- ARM: **55-65/100 est. BELOW THRESHOLD** (GAAP EPS miss; no valid base; APIs blocked)
+
+### Rule Adherence: 100/100
+- Zero violations (no trades = no opportunities to violate)
+- Market direction: 5/5 sessions correct ✅
+- FTD volume gate correctly held on Day 4 ✅
+- Borderline dist calls (Aug 5: 2.07 pts margin; Aug 6: 1.36 pts margin) — correctly NOT dist ✅
+
+### Next Week Critical Path
+- **Mon Aug 11:** Jul 7 expires → 6/25 — still Correction (≥6 threshold); dist threshold 7,742.12
+- **Tue Aug 12:** Jul 8 expires → **5/25 = UNDER PRESSURE** (if no new dist days Aug 7-12)
+- **~Aug 17-21:** Jul 13 + Jul 16 expire → 4/25 → 3/25 → potential Confirmed Uptrend with FTD
+- **No new dist days next week = most important single gate.** S&P only 15.52 pts above Mon threshold.
+- Primary watch: NVDA handle formation (re-score trigger) + dist expiry calendar
+
+### Rule Changes Proposed
+1. Proposal 26: NFP/macro-release yield protocol (check 10-yr direction before assessing dist probability)
+2. Proposal 27: ATH-during-Correction notation in /eod-review log
+3. Proposal 24: Promote FTD Readiness Protocol to standing /weekly-prep template (tested and working)
+
+**24th consecutive zero-trade week | 62nd consecutive degraded session | 72nd consecutive zero-action session**
+**Emotional state: DISCIPLINED — no FOMO. Full $2,500 at HWM available for Aug 19-21 window.**
