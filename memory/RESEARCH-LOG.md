@@ -18026,3 +18026,99 @@ All new long entries BLOCKED. No positions to health-check.
 - NVDA handle: still building; watch ~Aug 11-Sep 2026 range
 
 `research_source: websearch_fallback` | `Alpaca_Day176_BLOCKED` | `61st_degraded_session` | `70th_zero_action_session` | `ES_+0.11pct_NQ_+0.18pct_futures_~7740` | `NFP_July_8:30AM_ET_NOT_YET_RELEASED` | `ADP_July_+44K_MISS_bearish_signal` | `NFP_consensus_80-97.5K` | `FTD_Day7_LAST_threshold_7825_prob_15-25pct` | `dist_threshold_7697` | `NET_cloudflare_beat_696M_vs_665M_+36pct_AI_tailwind` | `Hormuz_NOT_signed_Lebanon_escalation_friction` | `NVDA_219_flat_77_no_handle` | `ARM_244-246est_below_threshold` | `dist_7of25_UNCHANGED` | `circuit_breakers_ALL_CLEAR`
+
+---
+
+## 2026-08-07 — /eod-review (3:15 PM CT)
+
+**Research source:** websearch_fallback (Alpaca Day ~176 BLOCKED | Perplexity 403 | AV 403 — 62nd consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days — FTD Day 7 FAILED; FTD window CLOSED; dist count UNCHANGED)
+**Sector leaders (Aug 7 close):** Technology/Semiconductors (chip bounce drove Nasdaq +1.3%); Consumer Discretionary; Communication Services — growth names led on rate-cut re-pricing
+**Sector laggards:** Defensive sectors (healthcare, staples) underperformed after dovish pivot; Energy mixed (Hormuz NOT signed; oil still hedged)
+
+### Step 1: Market state pull — SPY/QQQ bars (Aug 7 close)
+
+**S&P 500 (confirmed close):** 7,757.64 (+0.62% / +47.68 pts) — 🏆 **NEW ALL-TIME HIGH**
+- Prior close: 7,709.96 (Aug 6) | ATH prior: 7,736.52 (Aug 4) — ECLIPSED ✓
+- Dist threshold was: 7,694.54 (7,709.96 × 0.998) | Close 7,757.64 → UP day → **NOT a dist day ✅**
+- SPY volume: 26.48M vs 54.57M avg = 48.5% of avg = **BELOW average** — thin volume rally (common on NFP Friday)
+- FTD threshold: 7,806.33 | Close 7,757.64 = 48.69 pts short → **FTD Day 7 NOT CONFIRMED**
+- **FTD WINDOW: OFFICIALLY CLOSED** (Day 7 = Aug 7 was final eligible day per hard rule)
+
+**Nasdaq Composite (confirmed close):** 26,690.62 (+1.3% / +~328 pts) — 🏆 **NEW ALL-TIME HIGH**
+**Dow Jones (confirmed close):** 54,036.93 (+0.28% / +151.83 pts)
+**QQQ (est.):** ~$726-728 (+~1.2-1.3% from 717.30 Aug 6 close | est. from Nasdaq Composite +1.24%)
+
+**Distribution day check (Aug 7):**
+- S&P up +0.62% = positive session → CANNOT be a dist day → **NOT a dist day ✅**
+- Dist count: **7/25 UNCHANGED**
+- Active dist days: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+
+**Weekly performance (week Aug 3–7):**
+- S&P: +3.6% | Nasdaq: +5.2% | Dow: +~3% — **best week since April 2025**
+- Both S&P 500 and Nasdaq Composite closed at new ATHs Friday
+
+### Step 2: Sell-rules-engine — open positions
+
+**SKIPPED — 0 open positions (72nd consecutive skip)**
+No Alpaca data available; no positions to evaluate.
+
+### Step 3: Market state assessment
+
+**State: 🔴 MARKET IN CORRECTION UNCHANGED**
+- Dist count 7/25 ≥6 → Correction per hard rules
+- FTD window closed without confirmation
+- **CONTEXT NOTE:** S&P and Nasdaq both at NEW ATHs. Market absorbed massive NFP MISS (-23K actual vs +80K cons.) as DOVISH signal. Rate-cut back on table (September hike removed). The technical "Correction" label persists due to dist count, but underlying price action is bullish (ATH, +3.6% week).
+- This divergence between label and price action is intentional — our system waits for FTD + dist expiry to formally re-classify.
+
+**NFP July 2026 reaction summary:**
+- -23K jobs (miss) + 4.1% unemployment (beat) = mixed labor signal
+- Market read: "Fed won't hike in September" → growth stocks rallied (Nasdaq +1.3%, chip bounce)
+- S&P NEW ATH on bad jobs number = strong resilience; confirms the uptrend in price is real
+
+### Step 4: Actions taken
+
+- **SELL-RULES-ENGINE:** SKIPPED (0 positions)
+- **TIGHTEN STOPS:** N/A (0 positions)
+- **NEW ENTRIES:** BLOCKED — (1) Market in Correction, (2) Alpaca API 403, (3) No candidate ≥75 with valid handle/pivot
+- **HEDGE (SH/SQQQ):** NOT DEPLOYED (SH $625 queued in prior sessions but Alpaca blocked; no new trigger today — state unchanged at Correction, no escalation)
+- **TOTAL ACTIONS: ZERO**
+
+### Step 5: Circuit breaker check
+
+- **Today P&L:** $0 (0 positions all day)
+- **Week P&L:** $0
+- **Equity:** $2,500 (HWM) | No drawdown
+- **Day trigger (-3%):** NOT triggered ✅
+- **Week trigger (-6%):** NOT triggered ✅
+- **HWM drawdown trigger (-12%):** NOT triggered ✅ (at HWM)
+- **PDT count:** 0/3 ✅
+- **Circuit breakers: ALL CLEAR**
+
+### Step 6: Weekly trade counter — final for week Aug 3
+
+**Week of Aug 3: 0/3 positions opened** | 24th consecutive zero-trade week | Equity $2,500 (+$0) | P&L: $0
+
+### Step 7: NVDA watchlist status update
+
+- **NVDA close est.:** ~$221-225 (est. +1-3% from $218.99 Aug 6 close; chip bounce drove Nasdaq outperformance; no confirmed Alpaca data)
+- **Score:** 77/100 UNCHANGED (no handle = base bonus 0; entry BLOCKED regardless of score since no pivot)
+- **Cup:** Week ~46 (approx) | Still on right side of cup | No handle forming yet
+- **Est. score with handle + FTD + live data:** 87/100
+- **Entry trigger requirements:** Handle completes + FTD + Alpaca API restored → minimum ~Aug 11 for handle watch, then FTD path ~Aug 14-21
+
+### Step 8: Next session pre-market outlook (Mon Aug 10)
+
+- **Dist threshold Mon Aug 10:** 7,757.64 × 0.998 = **7,742.12**
+- **No new dist days needed Fri-Mon** for Aug 11 expiry path to hold
+- **Watch:** Aug 11 (Jul 7 expires → 6/25 STILL Correction) | Aug 12 (Jul 8 expires → 5/25 = Under Pressure) | Hormuz formal signing (would be major bullish catalyst) | NVDA handle progress | Any Fed speakers on NFP reaction
+
+**Close:** SPY ~$772 (+0.6%) | QQQ est. ~$727 (+1.3%) | Week: S&P +3.6%, Nasdaq +5.2%
+**Distribution days:** 7 of 25 trailing sessions (today: NOT dist day ✅)
+**Market state:** 🔴 Correction (UNCHANGED — 7/25 ≥6; FTD window closed)
+**Positions held:** 0
+**Actions today:** NONE
+**Circuit breakers:** NONE
+**P&L today:** $0 | **Equity:** $2,500.00 (HWM)
+
+`research_source: websearch_fallback` | `Alpaca_Day176_BLOCKED` | `62nd_degraded_session` | `72nd_zero_action_session` | `SPX_CONF_7757.64_+0.62pct_NEW_ATH` | `Nasdaq_CONF_26690.62_+1.3pct_NEW_ATH` | `Dow_CONF_54036.93_+0.28pct` | `NOT_DIST_DAY_positive_close` | `SPY_vol_26.48M_vs_54.57M_BELOW_avg` | `FTD_Day7_FAILED_WINDOW_CLOSED` | `dist_7of25_UNCHANGED` | `week_S&P_+3.6pct_Nasdaq_+5.2pct_best_since_Apr2025` | `NFP_July_-23K_market_dovish_read_ATH_close` | `NVDA_est_221-225_77_no_handle` | `circuit_breakers_ALL_CLEAR` | `24th_zero_trade_week`

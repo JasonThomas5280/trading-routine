@@ -5637,3 +5637,18 @@ Watchlist: 0 primary 75+ | 5 bench (all blocked/below threshold)
 Open positions: 0 | Weekly trades: 0/3 | PDT: 0/3
 Roadmap: Aug 11 to 6/25 (Correction); Aug 12 to 5/25 (Under Pressure if no new dist)
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-08-07 20:25 CT [clickup-placeholder]
+
+📊 EOD 2026-08-07 (Fri) | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions, 100% cash | Market: 🔴 CORRECTION (7/25 dist days)
+Dist days: 7 of 25 (today: NOT dist day ✅ — S&P +0.62% positive close)
+Actions today: NONE (0 positions; Alpaca Day 176 BLOCKED)
+Close: S&P 7,757.64 +0.62% 🏆 NEW ATH | Nasdaq 26,690.62 +1.3% 🏆 NEW ATH | Dow 54,036.93 +0.28%
+Week: S&P +3.6%, Nasdaq +5.2% — best week since Apr 2025
+FTD Day 7 FAILED (7,757.64 vs 7,806.33 threshold) — WINDOW CLOSED
+NFP JULY -23K MISS → dovish read → Sept hike off table → ATH close
+NVDA est. $221-225 77/100 no handle BLOCKED
+Circuit breakers: ALL CLEAR
+Tomorrow: Aug 11 Jul 7 expires→6/25 | Aug 12 Jul 8 expires→5/25=Under Pressure | Watch Hormuz+handle
