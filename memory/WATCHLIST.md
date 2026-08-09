@@ -803,3 +803,122 @@ Alpaca: Day ~122 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - Wed Aug 5: ARM re-eval | PLTR re-score | FTD Day 5
 - Fri Aug 7: NFP (event gate — no entries) | FTD Day 7 (FINAL)
 - AMD AMC tonight Aug 4: primary catalyst
+
+---
+
+## ⚠️ ARCHIVED — Week of 2026-08-03 to 2026-08-07 — **STALE — full content above; rebuilt Sun Aug 9 /weekly-prep**
+
+> See detailed content above (⛔ CURRENT section Aug 2 build + intraday updates). Market: 🔴 Correction (7/25 dist days UNCHANGED all week). FTD window closed Day 7 Aug 7 (S&P 7,757.64 NEW ATH; failed to meet +1.25% vol threshold 7,806.33). NFP July -23K miss absorbed as dovish → Nasdaq +5.2%, S&P +3.6% (best week since Apr 2025). NVDA CONFIRMED $223.96 Aug 7 (+2.27%; 77/100, cup wk ~47, no handle). INTC 46/100 REJECTED. ARM ~60-70/100 est. PLTR ~67-72/100. AVGO new bench addition. SMCI/CRWV earnings Aug 11. AMAT earnings Aug 13. Alpaca ~Day 177 BLOCKED. 25th consecutive zero-trade week. Rebuild complete Sun Aug 9.
+
+---
+
+## ⛔ CURRENT — Week of 2026-08-10 to 2026-08-14 — REBUILT Sun Aug 9 /weekly-prep
+
+**Built:** 2026-08-09 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~178 est. BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 63rd consecutive degraded session
+**Market direction:** 🔴 Market in Correction (7/25 dist days) | **NO NEW LONG ENTRIES**
+**S&P 500 baseline (Aug 7 CONFIRMED close):** 7,757.64 (🏆 NEW ATH) | **50d MA est. ~7,450-7,480** (S&P WELL ABOVE — +5.9% to +6.6%) | **200d MA: WELL BELOW (golden cross intact since Jul 1; 50d > 200d)**
+**SPY baseline (Aug 7 est.):** ~$775-776 | 50d MA ~$745-748 (+4.1% above) | 200d MA ~$718-722 (+7.5% above)
+**QQQ baseline (Aug 7 est.):** ~$726-727 | 50d MA ~$715-716 (+1.5% above) | 200d MA ~$643-645 (+12.6% above)
+**NVDA CONFIRMED Aug 7 close:** $223.96 (+2.27% / +$4.97); 50d MA ~$200.71; 200d MA ~$202.44; cup wk ~47; no handle
+
+**FTD status:** ⚡ CLOSED — FTD window expired Day 7 (Aug 7); S&P rallied to NEW ATH 7,757.64 without formal FTD (fell 48.69 pts short of 7,806.33 +1.25% vol threshold). Next FTD: requires new rally Day 1 (S&P pullback → lowest close = Day 1) → Day 4-7 window. If market stays at ATH: natural dist expiry path Mon Aug 11 (6/25 Correction), Tue Aug 12 (5/25 Under Pressure if no new dist days).
+
+**Earliest Confirmed Uptrend path:** ~Aug 17-21 (Jul 13 expires Aug 17 → 4/25; Jul 16 expires Aug 19 → 3/25; need fresh FTD in that window)
+
+**Sector leadership (4-week Jul 9 – Aug 7, websearch_fallback):**
+
+| Rank | Sector ETF | 4-wk est. | YTD | Notes |
+|---|---|---|---|---|
+| #1 | XLK (Technology) | +est. 4-6% | +33% | Nasdaq +5.2% final week; AI-driven; NFP dovish = growth stock re-rate |
+| #2 | XLV (Healthcare) | +est. 2-4% | +24.6% | Defensive outperformer during Jul correction; stable |
+| #3 | XLI (Industrials) | +est. 1-3% | +20% | AI data center infrastructure + Hormuz tailwind |
+| #4 | XLF (Financials) | +est. 1-2% | +8.7% | Rate-cut bets post-NFP = bank positive |
+| #5 | XLE (Energy) | flat to -2% | +8% | Oil volatile ($80→$100→$80 Iran); net neutral |
+| ... | ... | ... | ... | ... |
+| #9 | XLRE (Real Estate) | -2 to -4% | neg | 30yr at 5.22%; rate headwind |
+| #10 | XLC (Comms) | -2 to -3% | neg | GOOGL headwinds; sector #9 dead last YTD |
+
+**Sector blacklisted:** NONE (no consecutive failed trades — zero trades placed to date)
+**Focus sectors this week:** XLK → XLV → XLI
+
+---
+
+## ⛔ CORRECTION POSTURE — NO NEW LONG ENTRIES — HEDGE CANDIDATES ONLY
+
+**Entry gate: ⛔ ZERO new long entries** (Market in Correction — 7/25 dist days ≥6 threshold; all new longs blocked)
+
+**Entry status: 25th consecutive week with zero qualifying entries** (Correction gate in effect)
+
+### Hedge Candidates (Correction Protocol Active)
+
+| Rank | Instrument | Type | Size | Status | Notes |
+|---|---|---|---|---|---|
+| H1 | **SH** | Inverse S&P (−1×) | $625 / 25% portfolio | **QUEUED — Alpaca Day ~178 BLOCKED** | Execute as FIRST order on Alpaca restore; queued since Jun 5 (~10 weeks). If FTD fires before Alpaca restores AND market transitions to Confirmed Uptrend → skip SH entirely (we can't execute anyway). |
+| H2 | **SQQQ** | Inverse NASDAQ (−3×) | Alt: $625 if SH unavailable | Secondary | Only if SH specifically unavailable; leverage decay risk |
+
+**SH exit trigger:** Follow-through day confirmed → exit SH within 2 sessions. Earliest realistic FTD: ~Aug 14-17 (requires new Day 1 first). If market transitions naturally to Under Pressure Aug 12 and stays clean → Confirmed Uptrend path Aug 17-21.
+
+---
+
+### Primary Watchlist (score ≥75)
+
+**NONE this week.** Market in Correction. No new long entries. Zero candidates above conviction threshold for 25th consecutive week.
+
+---
+
+### Bench (Correction monitor — action only on: FTD confirmed + score ≥75 + Alpaca restored + valid base at pivot)
+
+| Rank | Symbol | Score | Δ | Sector | Status | Action This Week | Notes |
+|---|---|---|---|---|---|---|---|
+| B1 | **NVDA** | **77/100** | ↔ UNCHANGED | XLK / Semis | 🟡 Cup wk ~47; HANDLE WATCH | Watch for handle completion. No re-score until handle forms. | CONF $223.96 Aug 7 (+2.27%). 50d MA $200.71 / 200d MA $202.44 — NVDA ABOVE BOTH ✅. Cup from ~$120 (mid-2025 low) → ATH $236.54 (Apr-May 2026) → correction to ~$150-155 → recovery to $224. Now 5.7% below ATH = in the handle-formation zone. **Handle watch: $220-226 tight 1-3 week consolidation → pivot ~$227-230.** **C:20 A:15 N:15 S:10 L:12 I:5 Base:0 = 77/100** (est. 87/100 with handle+Uptrend+AV restore). ⚠️ $250B OpenAI backstop risk still active (N-letter watch). SpaceX exclusive deal = N-letter MAXIMUM confirmed. Re-score trigger: handle completes + FTD + Alpaca restore. Handle timeline: ~Aug 11-Sep. |
+| B2 | **AVGO** | **72-77/100 est.** | ✨ NEW ADDITION | XLK / Semis | 🟡 Tentative flat base forming ~10 weeks | Score upon Alpaca+AV restore | **NEW BENCH ADD Sun Aug 9.** Price Aug 7: ~$427.76 (search confirmed). ATH Jun 2: $480.77. Correction depth: -11.2% from ATH over ~10 weeks = potential flat base (≤15%, ≥5 wks ✅). 10d MA crossed above 50d MA Aug 7 (bullish momentum signal). **Q2 FY2026:** Rev +48% YoY ($22.2B record); EPS growth: 72% est. FY2026. AI ASIC chips (custom Google/Meta/Apple) + VMware integration = strong N-letter. XLK #1 sector = L-letter favorable. 52-wk range: $281.87-$495.00. **Est. C:18-20 + A:12-15 + N:12-15 + S:5-8 + L:10-12 + I:7 + Base:5-10 = 69-85/100 (median ~77/100).** ⚠️ Float ~475M (near S-letter headwind threshold). ⚠️ **EARNINGS AUG 29 — blackout starts ~Aug 21.** This week (Aug 10-14) is LAST clean week before blackout for any scoring/positioning. Re-score Mon Aug 11 /pre-market with all letter breakdown when APIs restore. Pivot: needs confirmation (~$435-445 area if flat base holds). `AVGO_new_bench_Aug9_72-77est_flat_base_forming_earnings_Aug29_blackout_Aug21` |
+| B3 | **AMAT** | **~70-75/100 est.** | ⚠️ EARNINGS BLACKOUT | XLK / Semis | ❌ BLACKOUT this week (reports AMC Thu Aug 13) | Re-score Fri Aug 14 /pre-market | Q3 FY2026 earnings AMC Aug 13: Rev est. $8.95B (+13.1% QoQ est.), EPS est. $3.36 adj (+35.5% YoY from $2.48 Q3 FY2025). Has beaten estimates 4 consecutive quarters. C-letter likely 15-20/20 post-earnings. **DO NOT ENTER THIS WEEK (5-day earnings blackout: Aug 6-13).** Re-score Fri Aug 14 or Mon Aug 17. If strong beat + Confirmed Uptrend → may qualify for entry Aug 17+. `AMAT_earnings_Aug13_BLACKOUT_reeval_Aug14` |
+| B4 | **SMCI** | **~60-70/100 est.** | ⚠️ EARNINGS BLACKOUT | XLK / AI Servers | ❌ BLACKOUT this week (reports AMC Tue Aug 11) | Re-score Wed Aug 12 | Q4 FY2026 earnings AMC Aug 11: Rev est. $11-12.5B net sales (+91% YoY est.), EPS est. $0.68 adj (+65.8% YoY). Gross margin improvement to 15-17% (from 8% prior guidance). **STRONG top-line growth** but: accounting/governance history risks (2024 Hindenburg/Nasdaq notice) = I-letter cap. GAAP EPS history check needed. C-letter strong IF delivered. **BLACKOUT entire week.** Re-score Aug 12 with actual results. `SMCI_earnings_Aug11_BLACKOUT_reeval_Aug12` |
+| B5 | **PLTR** | **~67-72/100 est.** | ↔ WATCH-ONLY | XLK / AI Software | ❌ BELOW THRESHOLD (float kills S-letter) | Watch only | Q2 2026 beat Aug 5: Rev $1.94B +93% YoY, EPS $0.41 adj (beat $0.35), US Commercial +149% YoY, FY26 guide raised to $8.15-8.16B. Stock +17% Aug 4 → ~$144.90. **2.14B share float = S-letter DISQUALIFYING** (>500M = headwind; >2B = near-zero). Float nearly eliminates this name regardless of fundamentals. S: 0-3/15. Score ceiling: ~68-72 with float. Needs >50% float reduction (buybacks/time) to qualify. Watch-only. `PLTR_watch_only_67-72est_float_2.14B_disqualifying` |
+| B6 | **ARM** | **~58-65/100 est.** | ↓ DOWNGRADED | XLK / Semis | ❌ BELOW THRESHOLD | Watch for multi-quarter GAAP improvement | Q1 FY2027: Rev $1.29B (+22% YoY record); Adj EPS $0.45 beat. GAAP EPS: $0.25 (MISSED $0.40 est. by 38%; net income $270M but SBC $433M = 33.6% of rev). GAAP EPS insufficient for C-letter at <25% growth. Down -29% from ATH ($334). No valid base (recovering from $225 post-earnings low). Re-eval when: GAAP EPS improves 2+ consecutive quarters + base forms. `ARM_58-65est_GAAP_insufficient` |
+| REMOVED | **APP** | ❌ REMOVED | ↓↓ BROKEN | XLC | NOT ACTIONABLE | No action | YTD -48.5%, 1-month -34.3% (to $346.80 Aug 7 from ATH $745.61). Insider selling: $197.3M in 3 months, zero buying. Weiss downgrade Jul 31. Institutional holders reducing. Structure completely broken. Score: ~30-40/100. Off bench permanently until multi-quarter rebuild. `APP_removed_Aug9_broken_structure` |
+| WATCH | **CRWV** | **~40-50/100 est.** | ❌ NOT ACTIONABLE | XLK / AI Cloud | ❌ BELOW THRESHOLD + BLACKOUT | Earnings Aug 11 — monitor | GAAP net loss widening ($740M Q1 2026, -135% worse YoY). Q2 est. EPS -$1.21 loss. GAAP losses fail C-letter AND A-letter. $99.4B backlog = compelling N-letter but loss structure disqualifying. Stock ~$85 (-44% from ATH $153.20). Not a CAN SLIM candidate until GAAP profitable. `CRWV_not_actionable_GAAP_losses` |
+| WATCH | **MRVL** | **~15-25/100** | ↔ UNCHANGED | XLK / AI Semis | ❌ FAR BELOW THRESHOLD | Watch-only | Broken structure. CFO selling + capital raise shelf. Est. $174-190 range. 8+ week rebuild minimum needed. Not actionable Q3-Q4 2026. |
+| WATCH | **GOOGL** | **~60-65/100** | ↔ WATCH-ONLY | XLC | ❌ BELOW THRESHOLD — XLC #9-11 | No action | Capex raise punished. XLC sector lagging. Jeff Dean leadership overhaul. Not actionable given sector headwind. Blackout cleared Aug 5; re-score pending API restore. |
+
+---
+
+### Entry Execution Plan — Week of Aug 10-14
+
+**Entry gate: ⛔ ZERO new long entries** (Correction 7/25 + Alpaca Day ~178 BLOCKED + 0 candidates ≥75 + valid base — 25th consecutive zero-qualifying week)
+
+**FIRST order on Alpaca restore (UNCHANGED):** Buy SH $625 / 25% portfolio (hedge — queued ~10 weeks). EXCEPTION: If FTD confirmed BEFORE Alpaca restore → skip SH (can't execute anyway). If market transitions to Confirmed Uptrend before Alpaca restore → we miss the entries but avoid the hedge trade.
+
+**Post-earnings re-score queue this week:**
+1. **SMCI → Wed Aug 12 /pre-market** (reports AMC Tue Aug 11): If Q4 beat AND GAAP profitable AND market Under Pressure → score. Even if passes 75, NO entry until Confirmed Uptrend.
+2. **AMAT → Fri Aug 14 /pre-market** (reports AMC Thu Aug 13): If fiscal Q3 beat (+35.5% EPS est.) → score. Strong C-letter candidate. No entry until Uptrend.
+3. **NVDA → handle completion watch** (ongoing ~Aug 11-Sep): No re-score until $220-226 tight consolidation forms handle. Pivot ~$227-230 area.
+4. **AVGO → score update when APIs restore** (before Aug 21 blackout): 72-77/100 est. from websearch. Need AV fundamentals + Alpaca volume to confirm score. Earnings Aug 29 — blackout Aug 21.
+
+**Sector focus (when Uptrend confirmed ~Aug 17-21):**
+- Primary: XLK Technology / Semis (NVDA if handle forms, AMAT post-earnings)
+- Secondary: XLV Healthcare / XLI Industrials (leading non-tech sectors)
+- Avoid: XLC (#10-11), XLRE (rate-sensitive), XLE (oil volatility)
+
+**Market transition triggers to watch:**
+- **Mon Aug 10:** dist threshold 7,742.12. If S&P falls below → new dist day #8 → rally attempt would be extended Correction. If S&P holds → no new dist day.
+- **Tue Aug 12 CPI:** consensus +0.2% MoM. Cleveland Fed Nowcast +0.4% (upside risk). June was -0.4% MoM (favorable base effect expired). If CPI ≥+0.4% → rate hike risk re-emerges → potential dist day → Correction extends. If CPI ≤+0.2% → dovish → ATH confirmation → no dist day → Under Pressure transition intact.
+- **Aug 11-12 dist expiry path:** If no new dist days → Aug 12 = 5/25 = **Under Pressure**. No new longs but better than Correction. Sets up FTD watch.
+- **New FTD watch:** If S&P pulls back any day (Day 1) → FTD window opens Day 4-7. Given ATH environment, even a 0.5% pullback = Day 1. Then need +1.25% elevated vol to confirm. Earliest: Aug 14-17 if Day 1 forms Aug 10-11.
+
+**Blacklisted sectors:** NONE
+
+---
+
+### CPI Scenario Analysis for Tue Aug 12
+
+| CPI Result | Market Reaction | Dist Day? | Market State Tue Close |
+|---|---|---|---|
+| ≤0.1% (beat) | S&P rallies, new ATH possible | NO | 5/25 = **Under Pressure** ✅ |
+| 0.2% (in-line) | S&P flat to +0.5%, dovish read | NO | 5/25 = **Under Pressure** ✅ |
+| 0.3% (miss) | S&P -0.3% to -0.8%, rate hike risk | Possible | 5/25 or 6/25 depending on close + volume |
+| ≥0.4% (bad miss) | S&P -1%+, rate panic | YES (new #8) | 6/25 = **Correction EXTENDED** ⚠️ |
+
+Best case (CPI ≤0.2% + no new dist days Aug 10-11): Under Pressure by Aug 12.
+Worst case (CPI ≥0.4%): New dist day #8 → Correction extends to ~Aug 19+ for Under Pressure.

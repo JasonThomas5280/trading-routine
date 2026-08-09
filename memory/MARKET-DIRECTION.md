@@ -6,7 +6,44 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 7 /eod-review 3:15 PM CT — 🏆 S&P NEW ATH 7,757.64 +0.62% — Nasdaq NEW ATH 26,690.62 +1.3% — Dow 54,036.93 +0.28% — NOT DIST DAY ✅ (positive day; SPY vol 26.48M vs 54.57M avg = BELOW avg) — ⚡ FTD Day 7 FAILED (7,757.64 vs threshold 7,806.33; -48.69 pts) — FTD WINDOW OFFICIALLY CLOSED — 🚨 NFP JULY -23K MISS: market interpreted as dovish (rate cut back on table) → S&P rallied despite job loss — DIST 7/25 UNCHANGED — Week: S&P +3.6%, Nasdaq +5.2% (strongest since Apr 2025) — NVDA est. +~1.3% close ~$221-225 77/100 still no handle — 0 POSITIONS — SELL-RULES-ENGINE SKIPPED (72nd) — ALPACA DAY ~176 BLOCKED | NEXT: Aug 10 dist threshold 7,742.12; Aug 11→6/25 Correction; Aug 12→5/25=Under Pressure; new FTD needs new Day 1 then D4-7)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 9 /weekly-prep — DIST 7/25 UNCHANGED — ⚡ FTD WINDOW CLOSED (Day 7 failed Aug 7) — 🏆 S&P ATH 7,757.64 Aug 7 / Nasdaq ATH 26,690.62 — SPY est. ~$775-776 (+4.1% above 50d MA ~$745) / QQQ est. ~$726-727 (+1.7% above 50d MA ~$715) — 0 POSITIONS — TRANSITION PATH: Mon Aug 11→6/25 STILL CORRECTION | Tue Aug 12→5/25=Under Pressure (if no new dist days) — NEW FTD REQ: new Day 1 → Day 4-7 window — EARLIEST CONFIRMED UPTREND: ~Aug 17-21 (Jul 13+16 expire → ≤4/25 + new FTD) — ALPACA EST. DAY ~178 BLOCKED — KEY WEEK: CPI Jul Wed Aug 12 | AMAT earnings AMC Thu Aug 13 | CRWV/SMCI earnings Tue Aug 11 | PPI Thu Aug 13 | Retail Sales Fri Aug 14 — research_source: websearch_fallback | 63rd consecutive degraded session)*
+
+**✅ AUG 9 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — DIST 7/25 — SPY ~$776 ATH ABOVE 50d MA — FTD CLOSED — SECTOR TOP 3: XLK / XLV / XLI — 0 POSITIONS — TRANSITION PATH: Aug 12→5/25=Under Pressure — EARLIEST UPTREND: ~Aug 17-21 — research_source: websearch_fallback — ALPACA DAY ~178 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~178 est. BLOCKED | Perplexity 403 | AV 403 | 63rd consecutive degraded session
+- **Abort gates: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions | 73rd consecutive zero-action session
+- **S&P 500 Aug 7 CONFIRMED CLOSE (last trading day): 7,757.64** (🏆 NEW ATH) | Nasdaq Composite: 26,690.62 (NEW ATH) | Dow: 54,036.93 | Week: S&P +3.6%, Nasdaq +5.2% (strongest since Apr 2025)
+  - **NVDA Aug 7 CONFIRMED CLOSE: $223.96** (+2.27% / +$4.97; cup wk ~47; 50d MA ~$200.71; 200d MA ~$202.44; NVDA now 11.2% below ATH $236.54; handle watch ongoing)
+- **SPY technical analysis (Aug 7, est.):**
+  - SPY price: ~$775-776 (S&P 7,757.64 ÷ 10 ≈ $775.76)
+  - SPY 50d MA: ~$745-748 est. | SPY **ABOVE** 50d MA by ~+4.1% ✅
+  - SPY 200d MA: ~$718-722 est. | SPY **ABOVE** 200d MA by ~+7.6% ✅
+  - Golden cross (50d > 200d): INTACT since Jul 1
+- **QQQ technical analysis (Aug 7, est.):**
+  - QQQ price: ~$726-727 est. (Nasdaq +1.3% from 717.30 Aug 6 close)
+  - QQQ 50d MA: ~$715-716 | QQQ **ABOVE** 50d MA by ~+1.5% ✅
+  - QQQ 200d MA: ~$643-645 | QQQ **ABOVE** 200d MA by ~+12.6% ✅
+- **Distribution day count: 7/25** (active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 — UNCHANGED from prior week)
+  - Dist day threshold Mon Aug 10: **7,742.12** (7,757.64 × 0.998)
+  - Threshold Tue Aug 12 (after Aug 11 expiry): TBD (based on Aug 11 close)
+- **FTD status: CLOSED** (window closed Aug 7; Day 7 failed: S&P 7,757.64 vs 7,806.33 threshold, -48.69 pts short; despite S&P being at NEW ATH, vol surge required for FTD wasn't met)
+  - Rally attempt (Jul 30 Day 1) formally EXPIRED with FTD window close
+  - Next FTD: requires new Day 1 (S&P pulls back, lowest close = Day 1) → Day 4-7 rally ≥+1.25% on elevated volume
+  - If market stays near ATH without pulling back: dist count drops naturally through expiry → Under Pressure Aug 12 → potential Confirmed Uptrend Aug 17-21 via new rally attempt
+- **Sector leadership (4-week Jul 9 – Aug 7 est., websearch_fallback):**
+  - **#1 XLK (Technology):** Nasdaq +5.2% final week of period; YTD +33% (search confirmed); AI-driven; NFP dovish = growth stock re-rate
+  - **#2 XLV (Healthcare):** YTD +24.6%; defensive outperformer during Jul correction weeks; stable
+  - **#3 XLI (Industrials):** YTD +20%; AI data center infrastructure demand + Hormuz deal optimism (industrial supply chain)
+  - **#4 XLF (Financials):** YTD +8.7%; rate-cut bets post-NFP = bank positive; neutral performer
+  - **Bottom 3:** XLC (Communications #11, Google headwinds), XLRE (rate-sensitive, 30yr 5.22%), XLE (oil volatility, net flat)
+- **Key macro calendar week of Aug 10-14:**
+  - **Mon Aug 11:** Jul 7 dist expires → **6/25 STILL CORRECTION** (≥6 threshold) | CRWV earnings AMC (rev $2.56B est., EPS -$1.21 est.; GAAP losses widening; BLACKOUT) | SMCI earnings AMC (+91% rev YoY est.; BLACKOUT through Aug 8)
+  - **Tue Aug 12:** Jul 8 dist expires → **5/25 = UNDER PRESSURE** (if no new dist days Aug 8-11) | **CPI July at 8:30 AM ET** (consensus +0.2% MoM / est. 3.5% YoY; Cleveland Fed Nowcast +0.4% = upside risk; June was -0.4% MoM = tough comp)
+  - **Thu Aug 13:** **AMAT earnings AMC** ($3.36 EPS est. +35.5% YoY, $8.95B rev est.; BLACKOUT — do not enter AMAT this week) | **PPI July**
+  - **Fri Aug 14:** **Retail Sales (July)** | **UMich consumer sentiment**
+- **Watchlist update:** ZERO primary candidates (25th consecutive zero-qualifying week). Hedge: SH $625 queued (Alpaca BLOCKED ~Day 178). New bench addition: AVGO (est. 72-77/100 websearch_fallback, flat base forming, earnings Aug 29). AMAT and SMCI in earnings BLACKOUT this entire week.
+- **Sell-rules-engine: SKIPPED** (0 positions — 73rd consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week of Aug 3: 0/3 trades | PDT: 0/3
+- `weekly-prep_Aug9` | `websearch_fallback` | `Alpaca_Day178est_BLOCKED` | `63rd_degraded_session` | `73rd_zero_action_session` | `SPX_ATH_7757.64_+3.6pct_week` | `Nasdaq_ATH_26690.62_+5.2pct_week` | `SPY_est_776_above_50d_745_+4.1pct` | `QQQ_est_727_above_50d_715_+1.5pct` | `NVDA_223.96_CONF_cup_wk47` | `dist_7of25_UNCHANGED` | `FTD_window_CLOSED` | `sector_top3_XLK_XLV_XLI` | `Aug11_6of25_Correction` | `Aug12_5of25_Under_Pressure` | `Aug17-21_earliest_Uptrend` | `CPI_Jul_Aug12_consensus_+0.2pct_MoM` | `AMAT_earnings_Aug13_BLACKOUT` | `CRWV_SMCI_earnings_Aug11_BLACKOUT` | `circuit_breakers_ALL_CLEAR` | `25th_zero_trade_week`
 
 **✅ AUG 7 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — 🏆 S&P 7,757.64 +0.62% NEW ATH — Nasdaq 26,690.62 +1.3% NEW ATH — Dow 54,036.93 +0.28% — NOT DIST DAY ✅ — ⚡ FTD Day 7 FAILED (7,757.64 vs 7,806.33 threshold; -48.69 pts) — FTD WINDOW CLOSED — DIST 7/25 UNCHANGED — Week: S&P +3.6%, Nasdaq +5.2% (strongest since Apr 2025) — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~176 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~176 BLOCKED | Perplexity 403 | AV 403 | 62nd consecutive degraded session

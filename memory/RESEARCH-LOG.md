@@ -18122,3 +18122,84 @@ No Alpaca data available; no positions to evaluate.
 **P&L today:** $0 | **Equity:** $2,500.00 (HWM)
 
 `research_source: websearch_fallback` | `Alpaca_Day176_BLOCKED` | `62nd_degraded_session` | `72nd_zero_action_session` | `SPX_CONF_7757.64_+0.62pct_NEW_ATH` | `Nasdaq_CONF_26690.62_+1.3pct_NEW_ATH` | `Dow_CONF_54036.93_+0.28pct` | `NOT_DIST_DAY_positive_close` | `SPY_vol_26.48M_vs_54.57M_BELOW_avg` | `FTD_Day7_FAILED_WINDOW_CLOSED` | `dist_7of25_UNCHANGED` | `week_S&P_+3.6pct_Nasdaq_+5.2pct_best_since_Apr2025` | `NFP_July_-23K_market_dovish_read_ATH_close` | `NVDA_est_221-225_77_no_handle` | `circuit_breakers_ALL_CLEAR` | `24th_zero_trade_week`
+
+---
+
+## 2026-08-09 (Sun) — /weekly-prep (4:00 PM CT)
+
+**Research source:** websearch_fallback (Alpaca Day ~178 est. BLOCKED | Perplexity 403 | AV 403 — 63rd consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days — FTD window CLOSED Aug 7; S&P ATH 7,757.64; transition path: Aug 11→6/25 Correction, Aug 12→5/25 Under Pressure; earliest Confirmed Uptrend ~Aug 17-21)
+**Sector leaders (top 3, 4-wk est.):** XLK (Technology), XLV (Healthcare), XLI (Industrials)
+**Sector laggards (bottom 3, 4-wk est.):** XLC (Communications), XLRE (Real Estate), XLE (Energy)
+
+### Step 1: Market direction update
+
+- **S&P 500 Aug 7 CONFIRMED:** 7,757.64 (NEW ATH); Nasdaq 26,690.62 (NEW ATH); Dow 54,036.93
+- **SPY vs 50d MA:** est. ~+4.1% (SPY ~$776 vs 50d ~$745); ABOVE ✅
+- **SPY vs 200d MA:** est. ~+7.5% (200d ~$720 est.); ABOVE ✅; golden cross intact
+- **QQQ vs 50d MA:** est. ~+1.5% (QQQ ~$727 vs 50d ~$715); ABOVE ✅
+- **Distribution days:** 7/25 active (Jul 7, 8, 13, 16, 17, 23, 29) — UNCHANGED
+- **FTD:** CLOSED (window expired Day 7 Aug 7; S&P ATH but vol surge threshold missed by 48.69 pts)
+- **State: 🔴 MARKET IN CORRECTION** | No new longs
+
+### Step 2: Market thesis (WebSearch fallback — Perplexity 403)
+
+- S&P 500 finished strongest week since April 2025 (+3.6%) on NFP July -23K miss (dovish read; rate cut bets surge; Sept hike off table). Nasdaq +5.2%.
+- SPY and QQQ both ABOVE 50d and 200d MAs. Golden cross intact. Market technically healthy above all major MAs despite Correction classification.
+- CPI July (Aug 12) is the pivotal print: consensus +0.2% MoM; Cleveland Fed Nowcast +0.4% (risk). June was -0.4% MoM (favorable comp expired). Will determine: Under Pressure transition (if benign) vs. Correction extension (if hot).
+- Analyst consensus: cautiously bullish on S&P ATH but technicians warn of August seasonal weakness (midterm year historically volatile Aug-Oct). Bank of America: average Aug-Oct correction ~7% even in up years.
+- FOMC September meeting — rate hike probability dropped sharply post-NFP; market now pricing higher chance of hold. Fed speaker calendar light this week.
+
+### Step 3: Sector leadership (websearch_fallback)
+
+4-week sector ranking (Jul 9 – Aug 7, estimated from YTD data + final week Nasdaq +5.2% dominance):
+1. XLK: +33% YTD; Nasdaq leadership cemented by NFP dovish rally; AI capex demand confirmed by MSFT+AMZN+AAPL+AMD+SpaceX+NET
+2. XLV: +24.6% YTD; defensive outperformer during Jul correction; stable demand (aging population, GLP-1 drugs)
+3. XLI: +20% YTD; AI data center construction demand; Hormuz deal = oil infrastructure stability
+4. XLF: +8.7% YTD; rate-cut bets = bank net interest margin stabilization
+5. XLE: volatile (Iran oil spike $100→$80 over 4 weeks); net flat 4-week period
+
+### Step 4-5: Universe scan + canslim-screener
+
+**DEGRADED MODE:** Alpaca, Perplexity, and Alpha Vantage all returning 403. Full universe scan via `build-universe.sh` BLOCKED. canslim-screener skill blocked on live data. Using WebSearch fundamentals + estimated scores.
+
+**Tickers evaluated (websearch_fallback | cached_fundamentals):**
+- NVDA: 77/100 (no handle) → CONFIRMED (unchanged); $223.96 Aug 7 close CONFIRMED; cup wk ~47
+- AVGO: est. 72-77/100 NEW BENCH — C-letter: +48% rev Q2 FY26, 72% EPS growth FY26; N-letter: AI ASICs + VMware; flat base ~10 wks; earnings Aug 29 (blackout Aug 21)
+- AMAT: ~70-75/100 est. BLACKOUT (earnings Aug 13); +35.5% EPS YoY est.; re-score Aug 14
+- SMCI: ~60-70/100 est. BLACKOUT (earnings Aug 11); +91% rev YoY est.; governance risk; re-score Aug 12
+- PLTR: ~67-72/100 (float 2.14B = S-letter disqualifying); watch-only
+- ARM: ~58-65/100 (GAAP EPS $0.25 < est. $0.40; insufficient C-letter); downgraded
+- APP: REMOVED (YTD -48.5%; insider selling $197M; broken structure; ~30-40/100)
+- CRWV: ~40-50/100 (GAAP losses widening; blackout Aug 11)
+- MRVL: ~15-25/100 (broken structure; watch-only)
+- GOOGL: ~60-65/100 (XLC sector laggard; capex headwind)
+
+**Scan stats:**
+- Universe attempted: 10 tickers (degraded mode; full build-universe.sh blocked)
+- Pre-filter passes (price $10-500, ADV ≥500K, not in blackout): 3 (NVDA, AVGO, PLTR — SMCI/AMAT/CRWV in blackout)
+- Conviction ≥75 (non-blackout): 0 (NVDA 77/100 but no handle = no entry trigger; AVGO 72-77 est. but not yet confirmed)
+- **Primary watchlist: ZERO candidates** (Correction gate blocks all entries regardless)
+- Rejection breakdown: Market Correction (all 10), Alpaca blocked (all), No handle/pivot (NVDA/AVGO), Float too large (PLTR), GAAP fail (ARM/CRWV/APP), Broken structure (MRVL/APP/ARM), Blackout (AMAT/SMCI/CRWV)
+
+**Note: 25th consecutive week with zero qualifying entries.** Market structural factors (Correction + API outage) are primary blockers, not fundamental quality. NVDA at 77/100 and AVGO at 72-77/100 are the highest-quality bench names; both held back by (1) no confirmed base pattern / pivot and (2) Correction gate.
+
+### Step 6: Watchlist written
+
+- MARKET-DIRECTION.md: Updated ✅
+- WATCHLIST.md: New CURRENT section appended for week Aug 10-14 ✅
+- Hedge: SH $625 QUEUED (unchanged ~10 weeks; Alpaca BLOCKED)
+
+### Step 7: ClickUp summary sent
+
+Via `bash scripts/clickup.sh` (echo/append mode — CLICKUP_API_KEY set but CLICKUP_LIST_ID empty → writes to memory/DAILY-SUMMARY.md)
+
+### Key risk factors logged
+
+1. **CPI Aug 12 (+0.4% upside risk):** Hot print = new dist day #8 → Correction extends → Under Pressure delayed to ~Aug 19
+2. **Alpaca Day ~178 BLOCKED:** No order execution possible; SH hedge queued for ~10 weeks without execution
+3. **63rd consecutive degraded session:** All scores are estimated (websearch_fallback | cached_fundamentals); live data unavailable
+4. **AVGO earnings blackout Aug 21:** Only 7 trading days of clean window; need Uptrend + Alpaca restore before then
+5. **Seasonal weakness:** August-October historically worst 3-month stretch; midterm year adds volatility
+
+`research_source: websearch_fallback` | `Alpaca_Day178est_BLOCKED` | `63rd_degraded_session` | `dist_7of25_UNCHANGED` | `FTD_window_CLOSED` | `SPX_ATH_7757.64` | `Nasdaq_ATH_26690.62` | `sector_XLK_XLV_XLI_top3` | `scan_10_tickers_degraded_0_qualifiers` | `NVDA_77_no_handle` | `AVGO_new_bench_72-77est` | `AMAT_SMCI_CRWV_blackout` | `APP_removed_broken` | `25th_zero_trade_week` | `CPI_Aug12_key_risk` | `earliest_Uptrend_Aug17-21`

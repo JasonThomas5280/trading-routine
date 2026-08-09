@@ -5712,3 +5712,26 @@ Tomorrow: Aug 11 Jul 7 expires→6/25 | Aug 12 Jul 8 expires→5/25=Under Pressu
 
 **24th consecutive zero-trade week | 62nd consecutive degraded session | 72nd consecutive zero-action session**
 **Emotional state: DISCIPLINED — no FOMO. Full $2,500 at HWM available for Aug 19-21 window.**
+
+---
+## 2026-08-09 21:21 CT [clickup-placeholder]
+
+📋 Week prep 2026-08-09
+Market: 🔴 CORRECTION (Dist: 7/25, SPY vs 50MA: +4.1% est.)
+FTD window CLOSED (Day 7 failed Aug 7 — S&P ATH without formal FTD)
+Top sectors (4-wk): XLK (Tech), XLV (Healthcare), XLI (Industrials)
+Watchlist primary: NONE (25th consecutive zero-qualifying week; Correction gate + Alpaca Day ~178 BLOCKED)
+Bench:
+  B1. NVDA 77/100 no handle | cup wk~47 | $223.96 Aug 7 CONF | handle watch $220-226 -> pivot ~$227-230
+  B2. AVGO 72-77/100 est. NEW | flat base ~10wks | $427.76 Aug7 | earnings Aug29 blackout Aug21
+  B3. AMAT ~70-75/100 | BLACKOUT earnings AMC Thu Aug13 | re-score Fri Aug14
+  B4. SMCI ~60-70/100 | BLACKOUT earnings AMC Tue Aug11 | re-score Wed Aug12
+  B5. PLTR ~67-72/100 | float 2.14B S-letter disqualifying | watch-only
+Calendar risks:
+  Mon Aug11: Jul7 dist expires -> 6/25 STILL CORRECTION | CRWV+SMCI earnings AMC
+  Tue Aug12: Jul8 expires -> 5/25=UNDER PRESSURE (if no new dist days) | CPI July 8:30AM ET (cons +0.2% MoM; Cleveland +0.4% upside risk)
+  Thu Aug13: AMAT earnings AMC | PPI July
+  Fri Aug14: Retail Sales + UMich sentiment
+Entry plan Mon Aug10: ZERO entries. Watch dist threshold 7,742.12. NVDA handle watch begins.
+Earliest Confirmed Uptrend: ~Aug17-21 (Jul13+16 expire -> <=4/25 + new FTD)
+research_source: websearch_fallback | Alpaca Day ~178 BLOCKED | 63rd degraded session
