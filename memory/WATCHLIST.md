@@ -922,3 +922,27 @@ Alpaca: Day ~178 est. BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all thr
 
 Best case (CPI ≤0.2% + no new dist days Aug 10-11): Under Pressure by Aug 12.
 Worst case (CPI ≥0.4%): New dist day #8 → Correction extends to ~Aug 19+ for Under Pressure.
+
+---
+
+## ✅ AUG 10 /pre-market UPDATE (6:00 AM CT — 🔴 CORRECTION 7/25 — ES +0.25% NQ +0.55% — 10YR 4.60% ↓ — S&P OPENS ~7,766 — DIST THRESHOLD 7,742.12 — HORMUZ NOT SIGNED OIL RISING — NVDA ~$223 FLAT 77/100 — ⚠️ BLACKOUT APPROACHING AUG 19 — AVGO $426 BENCH 10d>50d — SMCI EARNINGS AMC TOMORROW — CPI WED AUG 12 KEY BINARY — 0 POSITIONS — 0 ACTIONS)
+
+**Market state: 🔴 CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~179 est. BLOCKED | Perplexity 403 | AV 403 | 64th consecutive degraded session | 74th consecutive zero-action session
+
+**Futures:** ES +0.25% | NQ +0.55% | 10yr ~4.60% ↓ (from 4.737%) | Brent rising (Hormuz deal fading)
+
+**Dist count: 7/25 UNCHANGED** | Dist threshold: **7,742.12** | S&P open est. ~7,766 = 24 pts above → **dist risk LOW** ✅
+
+**Key today:** No expiries (dist 7/25 holds). Monitor close vs 7,742.12. Watch oil for Hormuz headlines.
+
+**Tomorrow (Aug 11):** Jul 7 dist expires → 6/25 (STILL CORRECTION) | SMCI earnings AMC (EPS $0.96 est. +124%; Rev $11.55B +101%) | CRWV earnings AMC
+
+**Critical: CPI Wed Aug 12** → consensus +0.2% MoM / 3.5-3.6% YoY | Cleveland Fed Nowcast +0.4% (upside risk) | In-line → Under Pressure (5/25 via Jul 8 expiry) | Hot (+0.4%+) → new dist day #8 → Correction extends
+
+**⚠️ NVDA BLACKOUT UPDATE:** NVDA earnings Aug 26 AMC → 5-trading-day blackout = **Aug 19+**. Earliest Uptrend ~Aug 17-21. **Entry window = Aug 17-18 only** (2 days max). If Uptrend Aug 19+: NVDA entry BLOCKED through Sep 3+. This materially narrows the actionable window.
+
+**Bench update — AVGO:** $426.29 (Aug 9). 10d MA crossed above 50d MA Aug 7 ✅ (bullish crossover). Q2 rev +48% YoY $22.2B (C-letter strong). Goldman kept Buy (removed conviction list = neutral). Earnings **Aug 29 AMC** → blackout Aug 22+. Score est. 72-77/100 (unconfirmed; needs formal screener run). Entry blocked: Correction gate + blackout.
+
+**No primary candidates. No watchlist changes. 0 actions.**
+
+`pre-market_Aug10` | `ES_+0.25pct_NQ_+0.55pct` | `10yr_4.60pct` | `dist_7of25` | `dist_threshold_7742.12_24pts_cushion` | `NVDA_223est_77_no_handle_blackout_Aug19` | `AVGO_426_10d_above_50d_blackout_Aug22` | `SMCI_AMC_Aug11_EPS_0.96_Rev_11.55B_+101pct` | `CPI_Aug12_key_binary_Hormuz_fading_oil_rising` | `74th_zero_action_session`

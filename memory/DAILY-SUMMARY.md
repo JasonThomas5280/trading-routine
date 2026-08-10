@@ -5735,3 +5735,27 @@ Calendar risks:
 Entry plan Mon Aug10: ZERO entries. Watch dist threshold 7,742.12. NVDA handle watch begins.
 Earliest Confirmed Uptrend: ~Aug17-21 (Jul13+16 expire -> <=4/25 + new FTD)
 research_source: websearch_fallback | Alpaca Day ~178 BLOCKED | 63rd degraded session
+
+---
+## 2026-08-10 06:00 CT [pre-market — 🔴 CORRECTION 7/25 — ES +0.25% NQ +0.55% — S&P OPENS ~7,766 — HORMUZ STALLED — CPI WED KEY BINARY — 0 POSITIONS — 0 ACTIONS]
+
+🌅 Pre-market 2026-08-10
+
+Market: 🔴 CORRECTION (7/25 dist days) | Futures: ES +0.25% / NQ +0.55%
+10yr yield: ~4.60% ↓ (NFP-driven rate-cut bid intact) | Brent: ↑ (Hormuz deal fading)
+Open positions: 0 | Circuit breakers: NONE / ALL CLEAR
+Overnight gaps: none (0 positions)
+
+Watchlist ready: NONE (Correction gate — no primary candidates)
+Watchlist watching: NVDA 77/100 (~$223 PM flat; cup wk 47 no handle; ⚠️ BLACKOUT AUG 19) | AVGO 72-77 est. ($426; 10d>50d; blackout Aug 22)
+Removed: none
+
+Key catalyst today: Dist threshold 7,742.12 (S&P opens 24 pts above — low risk) | Oil rising (Hormuz deal fading)
+Key catalyst tomorrow (Aug 11): SMCI earnings AMC (EPS $0.96 est. +124% / Rev $11.55B +101%) | CRWV earnings AMC | Jul 7 dist expires → 6/25 still Correction
+Key catalyst Wednesday (Aug 12): 🚨 CPI July 8:30 AM ET (consensus +0.2% MoM; hot = new dist day #8; in-line = Under Pressure 5/25)
+
+⚠️ CRITICAL: NVDA blackout starts Aug 19 (5d before Aug 26 earnings). If earliest Uptrend = Aug 17-21, window for NVDA entry is **Aug 17-18 ONLY** (2 days). If Uptrend comes Aug 19+, NVDA entry blocked until Sep 3+.
+
+Plan: NO ENTRIES — Correction gate + Alpaca BLOCKED (Day ~179) + 0 candidates ≥75 with valid pivot. Monitor CPI Wed as the week's key binary event. Sell-rules-engine: SKIPPED (0 positions — 74th consecutive).
+
+`research_source: websearch_fallback` | `64th_degraded_session` | `25th_consecutive_zero_trade_week`

@@ -4215,3 +4215,17 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
   - NFP Fri Aug 7 (event gate — no new entries that session regardless of market state)
   - FTD window expires Sat (after Aug 7 close); if no FTD by Aug 7 → rally attempt DEAD → new Day 1 needed
 - `research_source: websearch_fallback` | `market_check_Aug4_10AM_CT` | `SPX_Day4_7607est_NOT_FTD` | `dist_7of25_UNCHANGED` | `FTD_window_Day5-7_Aug5-7` | `AMD_AMC_tonight_FTD_catalyst` | `PLTR_blowout_Q2_bench_added` | `ARM_plus11pct_re-eval_Aug5` | `INTC_eliminated_46_100` | `SH_625_QUEUED` | `Alpaca_Day171_BLOCKED` | `62nd_consecutive_zero_action_session`
+
+**✅ AUG 10 /pre-market (6:00 AM CT — 🔴 CORRECTION UNCHANGED — ES +0.25% NQ +0.55% — S&P OPENS ~7,766 — DIST 7/25 — THRESHOLD 7,742.12 — 10YR 4.60% ↓ — HORMUZ NOT SIGNED — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~179 est. BLOCKED | 64th consecutive degraded session
+- **Abort gates: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED** | Zero actions | 74th consecutive zero-action session
+- **S&P 500 expected open:** ~7,766 (+0.11% from 7,757.64 ATH close) | ES futures +0.25%
+- **Dist threshold Aug 10:** 7,742.12 | Market at ~7,766 = 24 pts above → **dist risk LOW** ✅
+- **10yr yield:** ~4.60% ↓ (down from 4.737%) | Rate cut bets intact post-NFP miss
+- **Hormuz:** NOT signed — Iran demanding US end war + unfreeze assets + lift naval blockade → Brent rising on fading deal hopes → partial stagflation risk re-elevated
+- **Dist count:** 7/25 UNCHANGED (no expiries today; active: Jul 7, 8, 13, 16, 17, 23, 29)
+- **Tomorrow (Aug 11):** Jul 7 dist expires → **6/25 — STILL CORRECTION (≥6)**
+- **Wednesday (Aug 12):** Jul 8 dist expires → **5/25 = UNDER PRESSURE** (if no new dist days) + **CPI July 8:30 AM ET** (consensus +0.2% MoM; Cleveland Nowcast +0.4% = upside risk — HOT print risks new dist day #8)
+- **Earliest Confirmed Uptrend: ~Aug 17-21** (natural expiry path) | New FTD required
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | PDT: 0/3
+- `pre-market_Aug10` | `websearch_fallback` | `ES_+0.25pct_NQ_+0.55pct` | `SPX_open_7766_+0.11pct` | `dist_7of25_UNCHANGED` | `dist_threshold_7742.12` | `10yr_4.60pct_down` | `Hormuz_NOT_signed` | `CPI_Aug12_key_risk` | `Aug11_6of25_Correction` | `Aug12_5of25_Under_Pressure` | `circuit_breakers_ALL_CLEAR`

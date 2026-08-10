@@ -18203,3 +18203,102 @@ Via `bash scripts/clickup.sh` (echo/append mode — CLICKUP_API_KEY set but CLIC
 5. **Seasonal weakness:** August-October historically worst 3-month stretch; midterm year adds volatility
 
 `research_source: websearch_fallback` | `Alpaca_Day178est_BLOCKED` | `63rd_degraded_session` | `dist_7of25_UNCHANGED` | `FTD_window_CLOSED` | `SPX_ATH_7757.64` | `Nasdaq_ATH_26690.62` | `sector_XLK_XLV_XLI_top3` | `scan_10_tickers_degraded_0_qualifiers` | `NVDA_77_no_handle` | `AVGO_new_bench_72-77est` | `AMAT_SMCI_CRWV_blackout` | `APP_removed_broken` | `25th_zero_trade_week` | `CPI_Aug12_key_risk` | `earliest_Uptrend_Aug17-21`
+
+---
+
+## 2026-08-10 (Mon) — /pre-market (6:00 AM CT) — 🔴 CORRECTION UNCHANGED — ES +0.25% NQ +0.55% — 10YR 4.60% ↓ — S&P OPENS ~7,766 — DIST 7/25 DIST THRESHOLD 7,742.12 — HORMUZ NOT SIGNED — NVDA ~$223 FLAT — AVGO $426 BENCH — SMCI/CRWV EARNINGS TOMORROW AMC — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~179 est. BLOCKED | Perplexity 403 | AV 403 — 64th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days — FTD window CLOSED; next expiry Aug 11 → 6/25 still Correction; Aug 12 → 5/25 = Under Pressure)
+**Sector leaders (est.):** XLK (Technology / semis leading — Nasdaq +0.55% PM), XLV (Healthcare defensive), XLI (Industrials)
+**Sector laggards (est.):** XLE (oil rising on fading Hormuz deal = negative), XLC (#9 — GOOGL headwinds), XLRE (rate-sensitive)
+
+### Step 1: Overnight gap check on open positions
+- **Positions: 0** | Gap check SKIPPED (34th consecutive zero-position session) | All clear
+
+### Step 2: Catalyst scan — open positions
+- N/A (0 positions)
+
+### Step 3: Market overnight check
+
+**Futures (6:00 AM CT est.):**
+- ES (S&P 500): **+0.25%** | S&P 500 expected open: ~7,766–7,777 (vs 7,757.64 Friday ATH close)
+- NQ (Nasdaq 100): **+0.55%** — tech outperforming slightly
+- 10-year Treasury yield: **~4.60%** ↓ (down from 4.737% prior; NFP miss still working through rates; market pricing more Fed cuts)
+- Brent crude: **rising** — Hormuz deal hopes fading → oil headwind resuming
+
+**Hormuz (NOT signed):**
+- Iran demands US end the war, unfreeze Iranian assets, lift naval blockade before reopening strait
+- Oman shipping coordinates agreed but deal conditional on US commitments
+- Oil extended gains Monday on fading deal optimism → stagflation risk partial re-elevation
+- NOT a market-positive development; oil rising = rate cut optionality narrows slightly
+
+**Dist threshold today (Aug 10):** **7,742.12** (7,757.64 × 0.998)
+- S&P expected open ~7,766 = **+24 pts above threshold** → dist risk LOW with +0.25% futures
+- No dist expiries today (no count change)
+- **Tomorrow (Aug 11):** Jul 7 dist expires → **6/25 — STILL CORRECTION** (≥6 threshold; no state change)
+- **Wednesday (Aug 12):** Jul 8 dist expires → **5/25 = UNDER PRESSURE** + CPI at 8:30 AM ET
+
+**CPI July (Wed Aug 12 — critical binary):**
+- Consensus: +0.2% MoM / 3.5–3.6% YoY | Cleveland Fed Nowcast: +0.4% (upside risk)
+- June was -0.4% MoM / 3.5% YoY — tough comp; energy base effect may reverse
+- HOT print (+0.4%+ MoM or >3.6% YoY): dist day risk + Fed hawkish re-pricing → Correction extends
+- IN-LINE/SOFT: Under Pressure transition on track; no new dist day from CPI
+- **⚠️ FOMC gate:** If CPI comes in hot AND market sells ≥0.2% on elevated volume = dist day #8 → stays Correction
+
+### Step 4: Catalyst scan — watchlist names
+
+**NVDA (~$223.13 PM — flat from $223.96 Friday close):**
+- No new overnight catalyst — premarket essentially flat (-0.37%)
+- Cup wk ~47; still no handle; 50d MA ~$200.71; 200d MA ~$202.44 (NVDA 11% above 50d ✅)
+- Score: **77/100 UNCHANGED** (no re-score until handle forms)
+- ⚠️ **CRITICAL NVDA BLACKOUT UPDATE:** Earnings Aug 26 AMC → **5-trading-day blackout = Aug 19+**
+  - Earliest Confirmed Uptrend via dist expiry: ~Aug 17-21
+  - If Uptrend confirmed Aug 17-18: **window for NVDA entry = 2 TRADING DAYS ONLY** (Aug 17-18)
+  - If Uptrend confirmed Aug 19+: NVDA entry BLOCKED by earnings blackout through Aug 26+
+  - Re-entry after earnings: **Sep 3+ (earliest — 5 trading days post-Aug 26 report)**
+  - Thesis intact: SpaceX exclusive AI deal (N-letter 5th conf); AMD DC+107%; MSFT $255-260B capex
+  - Status: 🟡 WATCHING — no handle, no pivot, blackout approaching
+
+**AVGO ($426.29 — Aug 9 close, +0.26% week, bench):**
+- 10d MA crossed ABOVE 50d MA Aug 7 (bullish crossover) ✅
+- Q2 revenue: **$22.2B +48% YoY** (strong; confirms C-letter candidate)
+- Goldman Sachs: removed from US Conviction List Aug 3 (still Buy-rated) → net neutral; institutional hold intact
+- Earnings: **Aug 29 AMC** → **BLACKOUT through Aug 29** (5-day window blocked Aug 22+)
+- Flat base forming; score est. **72-77/100** (websearch_fallback; not yet formally scored)
+- Clean entry window: Aug 10-21 max (only if Uptrend + Alpaca restore + handle/pivot confirmed)
+- Status: 🟡 WATCHING (below threshold without formal screener run; Correction gate blocks regardless)
+
+**SMCI (earnings AMC TOMORROW Aug 11 — BLACKOUT):**
+- EPS est. $0.96 (+124% YoY); Rev est. $11.55B (+101% YoY) — explosive growth if confirmed
+- Gross margin revised UP to 15-17% (from 8.2-8.4% guide) → significant quality improvement
+- $60B+ backlog — massive AI infra demand read-through
+- Blackout: ALL OF THIS WEEK minimum. Status: do not score until after Aug 11 + 5 trading days (~Aug 20)
+- Read-through for NVDA: if SMCI beats big = AI infra demand alive → NVDA N-letter tailwind ✅
+
+**CRWV (earnings AMC TOMORROW Aug 11 — BLACKOUT):**
+- Rev est. $2.56B; EPS est. -$1.21 (GAAP losses widening) — GAAP C-letter fail expected
+- Hyperscaler AI GPU customer → beats/misses affect AI capex narrative
+- Blackout through Aug 20+ | Score: below threshold (GAAP losses) | Status: monitoring only
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Last | Score | Buy Zone | Distance | Status |
+|---|---|---|---|---|---|
+| NVDA | ~$223 PM | 77/100 | No pivot (no handle) | N/A | 🟡 WATCHING — blackout Aug 19+ |
+| AVGO | ~$426 PM | 72-77/100 est. | No confirmed pivot | N/A | 🟡 WATCHING — blackout Aug 22+ |
+| **PRIMARY** | — | — | — | — | **NONE — Correction gate** |
+
+### Step 6: Circuit breaker check
+- Account equity: $2,500 (HWM) | P&L: $0 | Day P&L: $0 | PDT: 0/3
+- Daily -3%: NOT triggered | Weekly -6%: NOT triggered | Drawdown -12%: NOT triggered
+- **Circuit breakers: ALL CLEAR** ✅
+
+### Step 7: Plan for today's session
+- **NO NEW ENTRIES** — Correction gate (7/25 dist days) + Alpaca BLOCKED
+- Monitor S&P vs dist threshold 7,742.12 (24 pts cushion at open; safe unless intraday reversal)
+- Watch oil/Hormuz headlines — fading deal = stagflation risk = dist day pressure
+- SMCI/CRWV earnings AMC tomorrow = read-through for market-check Wed
+- **LARGEST RISK THIS WEEK: CPI Wed Aug 12** — hot print blocks Under Pressure transition and adds dist day #8
+
+`pre-market_Aug10` | `websearch_fallback` | `Alpaca_Day179est_BLOCKED` | `64th_degraded_session` | `74th_zero_action_session` | `ES_+0.25pct` | `NQ_+0.55pct` | `SPX_open_est_7766` | `10yr_4.60pct_down` | `dist_7of25_UNCHANGED` | `dist_threshold_7742.12` | `Hormuz_NOT_signed_oil_rising` | `NVDA_~223_flat_77_no_handle_BLACKOUT_Aug19+` | `AVGO_426_10d_above_50d_blackout_Aug22` | `SMCI_earnings_AMC_Aug11_EPS_0.96_Rev_11.55B` | `CRWV_earnings_AMC_Aug11_GAAP_losses` | `CPI_Jul_Aug12_key_binary` | `circuit_breakers_ALL_CLEAR` | `25th_zero_trade_week_ongoing`
