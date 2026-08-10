@@ -18302,3 +18302,78 @@ Via `bash scripts/clickup.sh` (echo/append mode — CLICKUP_API_KEY set but CLIC
 - **LARGEST RISK THIS WEEK: CPI Wed Aug 12** — hot print blocks Under Pressure transition and adds dist day #8
 
 `pre-market_Aug10` | `websearch_fallback` | `Alpaca_Day179est_BLOCKED` | `64th_degraded_session` | `74th_zero_action_session` | `ES_+0.25pct` | `NQ_+0.55pct` | `SPX_open_est_7766` | `10yr_4.60pct_down` | `dist_7of25_UNCHANGED` | `dist_threshold_7742.12` | `Hormuz_NOT_signed_oil_rising` | `NVDA_~223_flat_77_no_handle_BLACKOUT_Aug19+` | `AVGO_426_10d_above_50d_blackout_Aug22` | `SMCI_earnings_AMC_Aug11_EPS_0.96_Rev_11.55B` | `CRWV_earnings_AMC_Aug11_GAAP_losses` | `CPI_Jul_Aug12_key_binary` | `circuit_breakers_ALL_CLEAR` | `25th_zero_trade_week_ongoing`
+
+---
+
+## 2026-08-10 (Mon) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — S&P ~7,766 +0.01% NOT DIST DAY ✅ — 🔑 NVDA GOLDEN CROSS +2.27% ~$229 — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~179 BLOCKED | Perplexity 403 | AV 403 — 65th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days — no expiry today; Jul 7 expires TOMORROW Aug 11)
+**Sector leaders:** Russell 2000 +1.10% (small-cap outperforming); broader market mixed/flat
+**Sector laggards:** Nasdaq -0.11%, Dow -0.14% (Hormuz uncertainty + rate caution ahead of CPI)
+
+### Step 1: Abort gates check (FIRED — skip to summary)
+
+| Gate | Status |
+|---|---|
+| Market state | ⛔ CORRECTION (7/25 dist days ≥6 threshold) → NO new long entries |
+| Alpaca | ⛔ Day ~179 BLOCKED (403) → NO order execution |
+| Research | ✅ Pre-market ran at 6 AM CT (websearch_fallback) — not DEGRADED |
+| Daily circuit breaker | ✅ CLEAR |
+| Weekly circuit breaker | ✅ CLEAR |
+| Drawdown halt | ✅ CLEAR |
+| Weekly trades | ✅ 0/3 used (week of Aug 10) |
+| Positions | ✅ 0 open |
+| Cash buffer | ✅ 100% cash |
+
+**Gates 1+2 FIRE → No new entries, no execution. Proceeding to assessment only.**
+
+### Step 2: Gap check
+- **Positions: 0** | Gap check SKIPPED (75th consecutive zero-position session)
+
+### Step 3: Distribution day check (Aug 10)
+
+- **S&P 500 (midday ~10–11 AM CT):** ~7,766 (+0.01% from 7,757.64 Aug 7 close)
+- **Dist threshold:** 7,742.12 (7,757.64 × 0.998) — S&P is **24 pts above** threshold
+- **Status: NOT a dist day ✅** — price criterion not met (market must close DOWN ≥0.2%)
+- Dow: -0.14% | Nasdaq: -0.11% | S&P: +0.01% | Russell 2000: +1.10%
+- Oil: Brent +2.14% ~$85.40 / WTI +2.05% ~$78.88 (Hormuz deal described as "very close" but NOT signed — stagflation premium rising)
+- 10yr yield: ~4.60% ↓ (NFP dovish-read rate-cut bid intact from Friday)
+- Market mood: wait-and-see ahead of CPI Wednesday + Hormuz uncertainty
+- **Dist count: 7/25 UNCHANGED** ✅
+
+### Step 4: NVDA technical — 🔑 GOLDEN CROSS FORMED TODAY
+
+- **NVDA Aug 10 intraday: ~$228–229** (+2.27% from $223.96 Aug 7 close)
+- **🔑 GOLDEN CROSS CONFIRMED (Aug 10):** 50-day MA (~$206.07) crossed ABOVE 200-day MA (~$206.07) — institutional signal; 20-day MA ~$206.82
+- Cup: wk ~48 | Right side ascending — **NO handle formed** (Stochastics overbought: %K 97.7 / %D 91.5)
+- ATH: $236.54 | Current ~$229 = **3.2% below ATH** → getting close; handle or direct ATH break approaching
+- Score: **77/100 UNCHANGED** (no re-score trigger until handle forms; no pivot defined)
+- ⚠️ **BLACKOUT: Aug 19+ (earnings Aug 26 AMC)** — window for NVDA entry = Aug 17–18 ONLY if Uptrend hits Aug 17–18
+- Status: BLOCKED — Correction gate + no handle + no pivot
+
+### Step 5: Bench promotion check
+
+| Symbol | Price est. | Score | Pivot | Promotion? |
+|---|---|---|---|---|
+| NVDA | ~$229 | 77/100 | None (no handle) | NO — no pivot; Correction gate |
+| AVGO | ~$426 | 72-77 est. | None (flat base forming) | NO — not formally scored; blackout Aug 22+; Correction gate |
+| ARM | ~60-70 est. | — | None | NO |
+| INTC | 46/100 ❌ | — | None | NO |
+| MRVL | 15-25/100 | — | None | NO |
+
+No promotions or demotions.
+
+### Step 6: Sell-rules-engine
+- **SKIPPED** — 0 positions (75th consecutive skip)
+
+### Summary
+
+- **Actions: ZERO** — abort gates fire (Correction 7/25 + Alpaca Day 179 BLOCKED)
+- **Dist day: NOT confirmed** ✅ (S&P +0.01%, 24 pts above 7,742.12 threshold)
+- **🔑 NVDA golden cross today** — bullish institutional signal; entry still blocked (no handle + Correction gate + blackout approaching Aug 19)
+- Transition path: TOMORROW Aug 11 → Jul 7 expires → 6/25 STILL CORRECTION (≥6 threshold) | Wed Aug 12 + CPI → if in-line → 5/25 = UNDER PRESSURE
+- SMCI/CRWV earnings AMC TONIGHT (Aug 11) — major AI demand read-through; monitor for NVDA bench thesis
+- **NEXT: /eod-review 3:15 PM CT** — confirm close vs dist threshold 7,742.12
+
+`market-check_Aug10` | `websearch_fallback` | `Alpaca_Day179_BLOCKED` | `65th_degraded_session` | `75th_zero_action_session` | `SPX_~7766_+0.01pct_NOT_DIST_DAY` | `dist_7of25_UNCHANGED` | `dist_threshold_7742.12_24pts_clear` | `Dow_-0.14pct` | `Nasdaq_-0.11pct` | `Russell_+1.10pct` | `Brent_85.40_+2.14pct_Hormuz_NOT_signed` | `10yr_4.60pct` | `NVDA_~229_+2.27pct_GOLDEN_CROSS_50d_above_200d` | `NVDA_cup_wk48_NO_handle_BLOCKED_blackout_Aug19` | `AVGO_~426_flat_base_blackout_Aug22_72-77est` | `sell_rules_engine_SKIPPED_75th` | `circuit_breakers_ALL_CLEAR` | `25th_consecutive_zero_trade_week`

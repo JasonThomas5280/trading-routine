@@ -5759,3 +5759,39 @@ Key catalyst Wednesday (Aug 12): 🚨 CPI July 8:30 AM ET (consensus +0.2% MoM; 
 Plan: NO ENTRIES — Correction gate + Alpaca BLOCKED (Day ~179) + 0 candidates ≥75 with valid pivot. Monitor CPI Wed as the week's key binary event. Sell-rules-engine: SKIPPED (0 positions — 74th consecutive).
 
 `research_source: websearch_fallback` | `64th_degraded_session` | `25th_consecutive_zero_trade_week`
+
+---
+## 2026-08-10 10:00 CT [market-check — 🔴 CORRECTION UNCHANGED — S&P +0.01% NOT DIST DAY ✅ — 🔑 NVDA GOLDEN CROSS — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-08-10 10:00 AM CT
+
+Market: 🔴 CORRECTION (7/25 dist days) | Circuit breakers: NONE / ALL CLEAR
+Abort gates: (1) Correction → no new longs | (2) Alpaca Day ~179 BLOCKED → no orders
+Actions taken: **No new entries — gate: Correction (7/25) + Alpaca blocked**
+
+Dist check (Aug 10): S&P ~7,766 (+0.01%) vs threshold 7,742.12 → **NOT a dist day ✅** (24 pts clear)
+- Dow: -0.14% | Nasdaq: -0.11% | Russell 2000: +1.10% — mixed; wait-and-see
+- Oil: Brent +2.14% $85.40 / WTI +2.05% $78.88 (Hormuz NOT signed — stagflation premium rising)
+- 10yr yield: ~4.60% ↓ (NFP dovish-read intact)
+
+**🔑 KEY EVENT: NVDA GOLDEN CROSS FORMED (Aug 10)**
+- NVDA: ~$229 (+2.27%) | 50-day MA crossed above 200-day MA → institutional buy signal
+- Cup wk ~48 | NO handle formed | 3.2% below ATH $236.54
+- Score: 77/100 UNCHANGED | BLOCKED: no handle + Correction gate + blackout Aug 19+ (earnings Aug 26)
+- Entry window if Uptrend hits Aug 17–18: **2 TRADING DAYS ONLY**
+
+Watchlist status: 0 primary ready | Bench: NVDA B1 BLOCKED (no handle/pivot) | AVGO B6 NEW (72-77 est., flat base, blackout Aug 22+) | ARM ~60-70 est. | INTC 46/100 ❌ | MRVL 15-25 watch-only
+Sell-rules-engine: SKIPPED (0 positions — 75th consecutive)
+Open positions: 0 (75th consecutive zero-position session)
+Weekly trade count: 0/3 (week of Aug 10)
+
+Upcoming events:
+- TONIGHT: SMCI earnings AMC (EPS $0.96 +124% est. / Rev $11.55B +101%) | CRWV earnings AMC → AI demand read-through
+- Tue Aug 11: Jul 7 dist expires → 6/25 STILL CORRECTION (≥6 threshold)
+- Wed Aug 12: CPI July 8:30 AM ET (cons +3.4% YoY) + Jul 8 expires → 5/25 = UNDER PRESSURE (if no new dist days)
+- Thu Aug 13: AMAT earnings AMC | PPI July
+- Fri Aug 14: Retail Sales | UMich sentiment
+
+Next check: /eod-review 3:15 PM CT
+
+`research_source: websearch_fallback` | `65th_degraded_session` | `75th_zero_action_session` | `25th_consecutive_zero_trade_week`

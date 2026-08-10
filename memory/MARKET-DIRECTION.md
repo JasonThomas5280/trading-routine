@@ -6,7 +6,23 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 9 /weekly-prep — DIST 7/25 UNCHANGED — ⚡ FTD WINDOW CLOSED (Day 7 failed Aug 7) — 🏆 S&P ATH 7,757.64 Aug 7 / Nasdaq ATH 26,690.62 — SPY est. ~$775-776 (+4.1% above 50d MA ~$745) / QQQ est. ~$726-727 (+1.7% above 50d MA ~$715) — 0 POSITIONS — TRANSITION PATH: Mon Aug 11→6/25 STILL CORRECTION | Tue Aug 12→5/25=Under Pressure (if no new dist days) — NEW FTD REQ: new Day 1 → Day 4-7 window — EARLIEST CONFIRMED UPTREND: ~Aug 17-21 (Jul 13+16 expire → ≤4/25 + new FTD) — ALPACA EST. DAY ~178 BLOCKED — KEY WEEK: CPI Jul Wed Aug 12 | AMAT earnings AMC Thu Aug 13 | CRWV/SMCI earnings Tue Aug 11 | PPI Thu Aug 13 | Retail Sales Fri Aug 14 — research_source: websearch_fallback | 63rd consecutive degraded session)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 10 /market-check — DIST 7/25 UNCHANGED — S&P ~7,766 +0.01% NOT DIST DAY ✅ (threshold 7,742.12) — 🔑 NVDA GOLDEN CROSS (50d above 200d) — 0 POSITIONS — TRANSITION: Tue Aug 11→6/25 STILL CORRECTION (Jul 7 expires) | Wed Aug 12+CPI→5/25=Under Pressure — EARLIEST UPTREND: ~Aug 17-21 — ALPACA DAY ~179 BLOCKED — TONIGHT: SMCI/CRWV earnings AMC | CPI Jul Wed Aug 12 KEY BINARY — research_source: websearch_fallback | 65th consecutive degraded session)*
+
+**✅ AUG 10 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — DIST 7/25 — S&P ~7,766 +0.01% NOT DIST DAY ✅ — 🔑 NVDA GOLDEN CROSS +2.27% ~$229 — Dow -0.14% Nasdaq -0.11% Russell +1.10% — Brent +2.14% $85.40 Hormuz NOT signed — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~179 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~179 BLOCKED | Perplexity 403 | AV 403 | 65th consecutive degraded session
+- **Abort gates: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions | 75th consecutive zero-action session
+- **S&P 500 Aug 10 (midday ~11 AM ET):** ~7,766 (+0.01% from 7,757.64 Aug 7 close) | Dow -0.14% | Nasdaq -0.11% | Russell 2000 +1.10% — mixed; wait-and-see ahead of CPI Wed + Hormuz
+  - **Distribution check:** S&P +0.01% → POSITIVE to flat → **NOT a distribution day ✅** (must close DOWN ≥0.2% on elevated volume; price criterion not met) | Dist threshold: **7,742.12** | S&P ~7,766 = 24 pts above → comfortable margin
+  - Dist count: **7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+  - **Tomorrow Aug 11:** Jul 7 expires → **6/25 — STILL CORRECTION (≥6 threshold)**
+  - **Wed Aug 12:** Jul 8 expires → **5/25 = UNDER PRESSURE** (if no new dist days added today–Wed; CPI is the key risk)
+- **🔑 NVDA GOLDEN CROSS CONFIRMED (Aug 10):** ~$228–229 (+2.27%) | 50-day MA (~$206.07) crossed ABOVE 200-day MA — institutional buy signal | Cup wk ~48; NO handle; 3.2% below ATH $236.54 | Score 77/100 UNCHANGED | BLOCKED — no handle + no pivot + Correction gate | ⚠️ Blackout begins Aug 19 (earnings Aug 26 AMC) → window for entry = Aug 17–18 ONLY if Uptrend hits
+- **Oil:** Brent +2.14% ~$85.40 / WTI +2.05% ~$78.88 | Hormuz deal described as "very close" but NOT signed; stagflation premium rising
+- **Key events ahead:** SMCI+CRWV earnings AMC TONIGHT | CPI July Wed Aug 12 8:30 AM ET (consensus +3.4% YoY / +0.2% MoM) — hot print = new dist day #8 + delays Under Pressure | AMAT earnings AMC Thu Aug 13 | PPI Thu Aug 13 | Retail Sales Fri Aug 14
+- **AVGO:** ~$426 est. | flat base forming | 72-77/100 est. (websearch_fallback) | blackout Aug 22+ (earnings Aug 29 AMC) | not formally scored
+- **Sell-rules-engine: SKIPPED** (0 positions — 75th consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Week of Aug 10: 0/3 trades | PDT: 0/3
+- `market-check_Aug10` | `websearch_fallback` | `Alpaca_Day179_BLOCKED` | `SPX_~7766_+0.01pct_NOT_DIST_DAY` | `dist_7of25_UNCHANGED` | `dist_threshold_7742.12` | `NVDA_~229_GOLDEN_CROSS_50d_above_200d_cup_wk48_no_handle` | `AVGO_~426_flat_base_blackout_Aug22` | `SMCI_CRWV_earnings_AMC_tonight` | `CPI_Jul_Wed_Aug12_KEY_BINARY` | `circuit_breakers_ALL_CLEAR` | `75th_zero_action_session` | `25th_zero_trade_week`
 
 **✅ AUG 9 /weekly-prep (4:00 PM CT — 🔴 CORRECTION UNCHANGED — DIST 7/25 — SPY ~$776 ATH ABOVE 50d MA — FTD CLOSED — SECTOR TOP 3: XLK / XLV / XLI — 0 POSITIONS — TRANSITION PATH: Aug 12→5/25=Under Pressure — EARLIEST UPTREND: ~Aug 17-21 — research_source: websearch_fallback — ALPACA DAY ~178 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~178 est. BLOCKED | Perplexity 403 | AV 403 | 63rd consecutive degraded session
