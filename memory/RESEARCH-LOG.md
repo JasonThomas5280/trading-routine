@@ -46,6 +46,45 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-10 (Mon) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P ~7,758 +0.01% NOT DIST DAY ✅ — ⚠️ NVDA BEARISH REVERSAL $219.33 -2.07% — INTC -5% $15B SECONDARY — DIST 7/25 UNCHANGED — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~180 BLOCKED | Perplexity 403 | AV 403 — 66th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (7/25 dist days UNCHANGED | NOT dist day today)
+**Sector leaders (top 3):** XLK (Technology), XLV (Healthcare), XLI (Industrials) — UNCHANGED from weekly-prep
+
+### Close data
+
+- **S&P 500:** ~7,758 (+0.01%) | Dow: ~53,961 (-0.14%) | Nasdaq: ~26,661 (-0.11%) | Russell 2000: +1.10%
+- **Distribution check:** S&P +0.01% (POSITIVE) → NOT a distribution day ✅ | Dist threshold: 7,742.12 | 16 pts clear
+- **Dist count: 7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **Dist threshold Aug 11: ~7,742.73** | Tomorrow: Jul 7 expires → 6/25 STILL CORRECTION
+
+### Key events today
+
+- **NVDA bearish intraday reversal:** opened ~$229 (+2.27% on Golden Cross news) → closed $219.33 (-2.07% from $223.96 Aug 7) | Classic sell-the-news; −4.3% intraday swing | Cup wk ~48 no handle | 77/100 UNCHANGED | Deutsche Bank PT raised to $220 (NVDA closed at/below PT) | BLOCKED
+- **INTC: −5% to ~$85.14** on $15B common stock offering | 46/100 REJECTED watch-only
+- **SMCI: +4.7% today** on $60B backlog record + GM guide 15-17% raised | ⚠️ Earnings DATE CORRECTED: AMC AUG 11 (prior market-check said "tonight" = WRONG)
+- **CRWV: AMC AUG 11** (corrected from "tonight")
+- **Oil:** Rising; Hormuz deal stalled on Iran conditions; stagflation premium elevated
+- **AVGO: ~$420 est.** (range 410-427 today) | Flat base forming | Blackout Aug 22+
+
+### Open positions
+
+0 of max 4 | sell-rules-engine SKIPPED (76th consecutive)
+
+### Circuit breakers
+
+ALL CLEAR | Equity $2,500 (HWM) | Day P&L: $0 | Week P&L: $0
+
+### Transition watch
+
+- **Aug 11:** Jul 7 expires → 6/25 STILL CORRECTION | SMCI+CRWV earnings AMC
+- **Aug 12:** CPI July KEY BINARY + Jul 8 expires → 5/25 Under Pressure (if no new dist days)
+- **Aug 17-21:** Natural Uptrend path (dist expiry to 3-4/25 + new FTD needed)
+- **NVDA blackout Aug 19** → entry window closes Aug 18
+
+---
+
 ## 2026-08-07 (Fri) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 7 FAILED (S&P ~7,704 / 102 PTS BELOW 7,806.33 THRESHOLD) — FTD WINDOW CLOSED — NOT DIST DAY ✅ — 🚨 NFP JULY -23K MASSIVE MISS — UNEMPLOYMENT 4.1% BEAT — MARKET FLAT — HORMUZ NOT SIGNED — NVDA ~$219-220 FLAT — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~176 BLOCKED | Perplexity 403 | AV 403 — 61st consecutive degraded session)

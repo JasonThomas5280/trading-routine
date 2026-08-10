@@ -6,7 +6,39 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 10 /market-check — DIST 7/25 UNCHANGED — S&P ~7,766 +0.01% NOT DIST DAY ✅ (threshold 7,742.12) — 🔑 NVDA GOLDEN CROSS (50d above 200d) — 0 POSITIONS — TRANSITION: Tue Aug 11→6/25 STILL CORRECTION (Jul 7 expires) | Wed Aug 12+CPI→5/25=Under Pressure — EARLIEST UPTREND: ~Aug 17-21 — ALPACA DAY ~179 BLOCKED — TONIGHT: SMCI/CRWV earnings AMC | CPI Jul Wed Aug 12 KEY BINARY — research_source: websearch_fallback | 65th consecutive degraded session)*
+**Status:** 🔴 **MARKET IN CORRECTION** *(Aug 10 /eod-review — DIST 7/25 UNCHANGED — S&P ~7,758 +0.01% NOT DIST DAY ✅ — ⚠️ NVDA BEARISH REVERSAL $219.33 -2.07% (was +2.27% at open) — INTC -5% $15B secondary — ⚠️ SMCI/CRWV earnings DATE CORRECTED: AMC AUG 11 (not tonight) — 0 POSITIONS — TRANSITION: Tue Aug 11→6/25 STILL CORRECTION | Wed Aug 12+CPI→5/25=Under Pressure — EARLIEST UPTREND: ~Aug 17-21 — ALPACA DAY ~180 BLOCKED — research_source: websearch_fallback | 66th consecutive degraded session)*
+
+**✅ AUG 10 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P ~7,758 +0.01% NOT DIST DAY ✅ (threshold 7,742.12) — ⚠️ NVDA BEARISH REVERSAL $219.33 -2.07% (was +2.27% at open on Golden Cross) — INTC -5% $15B SECONDARY — ⚠️ SMCI/CRWV earnings DATE CORRECTED: AMC AUG 11 (not tonight) — DIST 7/25 UNCHANGED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~180 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~180 BLOCKED | Perplexity 403 | AV 403 | 66th consecutive degraded session
+- **Abort gates: (1) Correction (7/25 dist days ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions | 76th consecutive zero-action session
+- **S&P 500 Aug 10 CONFIRMED CLOSE: ~7,758 (+0.01%)** (essentially flat from 7,757.64 Aug 7 ATH) | Dow ~53,961 (-0.14%) | Nasdaq ~26,661 (-0.11%) | Russell 2000 +1.10% — mixed; small-cap outperforming large-cap
+  - **Distribution check:** S&P +0.01% = POSITIVE → **NOT a distribution day ✅** | Dist threshold: **7,742.12** | S&P ~7,758 = 16 pts above threshold → criterion not met
+  - Dist count: **7/25 UNCHANGED** | Active: Jul 7, Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+  - **Dist threshold Aug 11: ~7,742.73** (7,758 × 0.998 est.)
+  - **Tomorrow Aug 11:** Jul 7 EXPIRES → **6/25 STILL CORRECTION** (≥6 rule: 6 ≥ 6) | SMCI+CRWV earnings AMC tomorrow night
+  - **Wed Aug 12:** Jul 8 EXPIRES → **5/25 = UNDER PRESSURE** (if no new dist days Aug 10–11) | ⚡ **CPI July 8:30 AM ET** (consensus +3.4% YoY / +0.2% MoM; Cleveland Fed Nowcast +0.4% = hot-print risk) | **KEY BINARY: hot = new dist #8 / cool = Under Pressure confirmed**
+- **⚠️ NVDA BEARISH INTRADAY REVERSAL (KEY WATCH):**
+  - 10 AM open: ~$229 (+2.27%) on Golden Cross euphoria | EOD close: **$219.33 (-2.07% from $223.96 Aug 7)** | Intraday swing: −$9.72 / −4.3% — classic "sell the news"
+  - Cup wk ~48; no handle; score **77/100 UNCHANGED** | ⚠️ Deutsche Bank PT raised to $220 — NVDA closed AT/BELOW new PT
+  - ⚠️ Bearish reversal may delay handle formation; cup right side showing distribution pressure
+  - BLOCKED: no handle + no pivot + Correction + Alpaca | **NVDA earnings blackout Aug 19** → window Aug 17–18 ONLY (2-day window if Uptrend materializes Aug 17)
+- **INTC: −5% to ~$85.14 on $15B common stock offering** | 46/100 REJECTED watch-only | Not actionable
+- **SMCI: +4.7% today** on $60B backlog + GM guide 15–17% raised | ⚠️ **Earnings DATE CORRECTED: AMC TOMORROW Aug 11** (prior market-check entry said "tonight Aug 10" = WRONG) | Not in universe | $60B AI backlog = NVDA N-letter reinforcement
+- **CRWV: AMC AUG 11** (corrected from "tonight") | Rev est. $2.56B | GAAP losses widening | Not in universe
+- **AVGO: ~$420 est.** (range 410.76–427.58; opening $420.34; prior ~$426) | Flat base still forming | BLACKOUT Aug 22+
+- **Oil:** Brent rising | Hormuz NOT signed; Iran conditions unmet | Stagflation premium elevated
+- **Sell-rules-engine: SKIPPED** (0 positions — 76th consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | Day P&L: $0 | Week P&L: $0 | PDT: 0/3
+- **Week Aug 10: 0/3 positions** | 25th consecutive zero-trade week
+- **Transition roadmap (UPDATED Aug 10 EOD):**
+  - **Tue Aug 11:** Jul 7 EXPIRES → **6/25 STILL CORRECTION** | SMCI+CRWV earnings AMC | Dist threshold ~7,742.73
+  - **Wed Aug 12:** Jul 8 EXPIRES → **5/25 = UNDER PRESSURE** (if no new dist days) | **CPI Jul 8:30 AM ET** — binary gate
+  - **Thu Aug 13:** AMAT earnings AMC | PPI July
+  - **Fri Aug 14:** Retail Sales | UMich sentiment
+  - **Mon Aug 17:** Jul 13 expires → 4/25 | **Wed Aug 19:** Jul 16 expires → 3/25
+  - **Natural Uptrend path: ~Aug 19–21** (3-4/25) + new FTD → Confirmed Uptrend. No Day 1 currently established.
+  - **NVDA blackout begins Aug 19** → Entry window closes Aug 18 → Need Uptrend + handle + pivot by Aug 17–18 OR wait post-Aug 26 earnings
+- `eod-review_Aug10` | `websearch_fallback` | `Alpaca_Day180_BLOCKED` | `66th_degraded_session` | `76th_zero_action_session` | `SPX_Aug10_~7758_+0.01pct_NOT_DIST_DAY` | `Nasdaq_~26661_-0.11pct` | `Dow_~53961_-0.14pct` | `Russell_+1.10pct` | `dist_7of25_UNCHANGED` | `dist_threshold_Aug11_~7742.73` | `NVDA_219.33_-2.07pct_BEARISH_REVERSAL_from_229` | `NVDA_DB_PT_220` | `INTC_-5pct_15B_secondary` | `SMCI_CRWV_earnings_CORRECTED_AMC_AUG11` | `SMCI_+4.7pct_60B_backlog` | `AVGO_~420_est_flat_base` | `Oil_rising_Hormuz_stalled` | `circuit_breakers_ALL_CLEAR` | `Aug11_6of25_STILL_Correction` | `Aug12_5of25_Under_Pressure_if_no_dist` | `CPI_Jul_Aug12_KEY_BINARY` | `Aug17-21_natural_Uptrend_path`
 
 **✅ AUG 10 /market-check (10:00 AM CT — 🔴 CORRECTION UNCHANGED — DIST 7/25 — S&P ~7,766 +0.01% NOT DIST DAY ✅ — 🔑 NVDA GOLDEN CROSS +2.27% ~$229 — Dow -0.14% Nasdaq -0.11% Russell +1.10% — Brent +2.14% $85.40 Hormuz NOT signed — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~179 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~179 BLOCKED | Perplexity 403 | AV 403 | 65th consecutive degraded session

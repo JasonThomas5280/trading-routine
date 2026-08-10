@@ -5795,3 +5795,27 @@ Upcoming events:
 Next check: /eod-review 3:15 PM CT
 
 `research_source: websearch_fallback` | `65th_degraded_session` | `75th_zero_action_session` | `25th_consecutive_zero_trade_week`
+
+---
+## 2026-08-10 20:26 CT [clickup-placeholder]
+
+📊 EOD 2026-08-10 (Mon) | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions | 100% cash
+Distribution days: 7/25 (market: 🔴 Correction — UNCHANGED)
+Market: S&P ~7,758 +0.01% | Nasdaq -0.11% | Dow -0.14% | Russell +1.10%
+
+Actions today: NONE
+• sell-rules-engine: SKIPPED (0 positions — 76th consecutive)
+• Abort gates: Correction (7/25) + Alpaca Day ~180 BLOCKED
+
+⚠️ KEY ALERTS:
+• NVDA BEARISH REVERSAL: +2.27% at open (~$229 Golden Cross) → -2.07% close ($219.33) | -$4.63 intraday sell-the-news | DB PT $220
+• INTC -5% on $15B secondary offering (watch-only, 46/100 rejected)
+• SMCI earnings DATE CORRECTED: AMC AUG 11 (not tonight)
+• Oil rising | Hormuz NOT signed
+
+Tomorrow (Aug 11): Jul 7 dist expires → 6/25 STILL CORRECTION | SMCI+CRWV earnings AMC | dist threshold ~7,742.73
+Wed Aug 12: CPI Jul KEY BINARY + Jul 8 expires → 5/25 Under Pressure (if no new dist days)
+Earliest Uptrend: ~Aug 19-21
+
+research_source: websearch_fallback | Alpaca BLOCKED Day ~180
