@@ -5843,3 +5843,31 @@ Transition: Aug 12->5/25 Under Pressure (if no dist + cool CPI) | Aug 17-21 earl
 NVDA window: Aug 17-18 only (2 days before blackout Aug 19)
 
 Plan: NO entries. Correction (6/25) + Alpaca BLOCKED. Watch tonight's earnings. CPI is the week's pivot. websearch_fallback | Alpaca Day ~181 BLOCKED | 67th degraded session
+
+---
+## 📈 Market-check 2026-08-11 10:00 AM CT
+
+**Market:** 🔴 Correction 6/25 (Jul 7 expired today — STILL CORRECTION ≥6) | **Circuit breakers:** NONE
+
+**Actions taken:**
+- No new entries — Correction gate (6/25 ≥6) + Alpaca Day ~181 BLOCKED
+- sell-rules-engine: SKIPPED (0 positions — 77th consecutive)
+
+**Dist count update:** 7→6/25 (Jul 7 expired) | S&P ~7,753 -0.06% | Dist threshold 7,742.73 | NOT DIST DAY ✅ (10 pts clear)
+
+**Bench status:**
+- NVDA: $221.54 open / $220.66-224.76 range | 79/100 est. | cup wk ~49 | no handle | blackout Aug 19+
+- AVGO: ~$425-426 | 72-77/100 est. | blackout Aug 22+
+- No promotions — no pivots defined; all below threshold or blocked
+
+**Key catalysts:**
+- SMCI+CRWV earnings AMC TONIGHT (AI infra demand read-through; SMCI $0.96 EPS / $11.56B Rev est.)
+- CPI July TOMORROW Aug 12 8:30 AM ET — KEY BINARY:
+  - Cool → Jul 8 expires → 5/25 Under Pressure (state transition)
+  - Hot → new dist day risk → Correction extends
+- Hormuz: Pakistan says US-Iran "close to arrangement" (NOT signed; oil easing to ~$82)
+- DDOG +11.5% on AI cloud beat (secondary NVDA demand read-through)
+
+**Watchlist status:** 0 ready, 2 watching (NVDA/AVBO), 0 removed | **Open positions:** 0 (0% deployed) | **Weekly trades:** 0/3
+
+**Next check:** /eod-review 3:15 PM CT (confirm dist threshold; SMCI/CRWV earnings after close)

@@ -4315,3 +4315,14 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 - **Earliest Confirmed Uptrend: ~Aug 17-21** (natural expiry path) | New FTD required
 - **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | PDT: 0/3
 - `pre-market_Aug10` | `websearch_fallback` | `ES_+0.25pct_NQ_+0.55pct` | `SPX_open_7766_+0.11pct` | `dist_7of25_UNCHANGED` | `dist_threshold_7742.12` | `10yr_4.60pct_down` | `Hormuz_NOT_signed` | `CPI_Aug12_key_risk` | `Aug11_6of25_Correction` | `Aug12_5of25_Under_Pressure` | `circuit_breakers_ALL_CLEAR`
+
+**✅ AUG 11 /market-check (10:00 AM CT — 🔴 CORRECTION 6/25 — Jul 7 EXPIRED — S&P ~7,753 -0.06% NOT DIST ✅ — NVDA $221.54 open 79/100 — PAKISTAN HORMUZ MEDIATION — SMCI/CRWV AMC TONIGHT — CPI TOMORROW — 0 POSITIONS — 0 ACTIONS):**
+- **Market state: 🔴 MARKET IN CORRECTION — DIST COUNT UPDATED: 7→6/25** | Jul 7 distribution day EXPIRED today (Aug 11) | Active dist days remaining: Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 = **6/25** | STILL CORRECTION (≥6 threshold per TRADING-STRATEGY.md)
+- **Tomorrow Aug 12:** Jul 8 expires → **5/25 = UNDER PRESSURE** IF no new dist day today + CPI clean
+- **S&P 500 intraday (10 AM CT / 11 AM ET):** ~7,753 (-0.06% from 7,758 Aug 10 close) | Dist threshold: 7,742.73 | **NOT a dist day ✅** (10 pts above threshold)
+- **NVDA:** Open $221.54 | Range $220.66-$224.76 | ~flat post-$500B deal | Score: **79/100 est.** | Cup wk ~49 | No handle | Blackout Aug 19+
+- **Hormuz:** Pakistan defense minister says US-Iran "close to arrangement" — oil retreating toward $82 (partial stagflation relief) | NOT signed
+- **Sell-rules-engine:** SKIPPED (77th consecutive — 0 positions) | **Circuit breakers:** ALL CLEAR
+- **Actions: NONE** — Correction 6/25 + Alpaca Day ~181 BLOCKED + 0 positions + 0 candidates ≥75
+- **Forward events:** SMCI+CRWV AMC tonight | CPI Jul Aug 12 8:30 AM ET KEY BINARY | Aug 12→5/25 Under Pressure if CPI clean | Earliest Uptrend ~Aug 17-21 | NVDA blackout Aug 19 | AVBO blackout Aug 22
+- `research_source: websearch_fallback` | `market_check_Aug11_10AM_CT` | `SPX_~7753_-0.06pct_NOT_DIST` | `dist_6of25_Jul7_expired` | `dist_threshold_7742.73_10pts_clear` | `NVDA_221.54open_79est_no_handle_blackout_Aug19` | `Hormuz_Pakistan_mediation_close_NOT_signed_Brent_82` | `SMCI_CRWV_AMC_tonight` | `CPI_Aug12_key_binary` | `Alpaca_Day181_BLOCKED` | `68th_degraded_session` | `78th_zero_action_session`
