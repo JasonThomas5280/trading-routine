@@ -46,6 +46,97 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-11 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION 6/25 (Jul 7 EXPIRES TODAY — STILL CORRECTION) — ES ~+0.1% NQ ~+0.4% — 🚀 NVDA $500B AI INFRA DEAL — SMCI/CRWV AMC TONIGHT — ⚡ CPI TOMORROW KEY BINARY — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~181 BLOCKED | Perplexity 403 | AV 403 — 67th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (6/25 dist days — Jul 7 expires today → 6/25 STILL CORRECTION ≥6)
+**Sector leaders (top 3):** XLK (Technology), XLV (Healthcare), XLI (Industrials) — UNCHANGED
+
+### Step 1: Overnight gap check on open positions
+
+**Positions: 0** | Gap check SKIPPED (34th consecutive zero-position pre-market)
+
+### Step 2: Catalyst scan — open positions
+
+N/A (0 positions)
+
+### Step 3: Catalyst scan — watchlist / bench names
+
+**NVDA (bench, 77/100 no handle):**
+- **🚀 MAJOR CATALYST (Aug 10 announcement):** NVIDIA partners with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize **$500B+ of third-party capital** for AI compute infrastructure financing. MOUs signed with six premier financial institutions. Compute power used as collateral; structured through private offerings + bonds via SPEs. GS leads public debt deals.
+- **N-letter impact:** SIXTH CONFIRMATION (MSFT+AMZN+AAPL+AMD+SpaceX+Wall Street) — already at max 15/15, no score point change
+- **I-letter impact:** Upgrade flag 5→7. MOU partners (BlackRock #1 asset manager, GS, Blackstone, KKR, Apollo, Brookfield) are the world's top institutional allocators; this directly aligns institutional capital with NVDA compute at $500B scale
+- **Score revision flag: 77→79/100 (no handle)** | With handle + base: **~89/100 est.** | Entry still BLOCKED (no handle = no pivot)
+- **$250B OpenAI backstop risk: SUBSTANTIALLY MITIGATED** — external financing structure removes the circular-funding concern
+- **PM price Aug 11: ~$223.54 est.** (+1.9% from $219.33 Aug 10 close) | Cup wk ~49; no handle; ~5.5% below ATH $236.54
+- **⚠️ Blackout: Aug 19** → Entry window Aug 17-18 ONLY (2 days) if Uptrend + handle + Alpaca restore all hit simultaneously
+
+**AVGO (bench, 72-77/100 est.):**
+- $425.10 today (slightly below Aug 10 est. of $426) | Flat base forming — structure intact
+- No major overnight catalyst
+- Blackout Aug 22+ (earnings Aug 29 AMC) | Entry window Aug 10-21 (closing fast; 10 trading days remain)
+- Status: WATCHING (no entry — Correction gate + Alpaca BLOCKED)
+
+**SMCI (not in universe):**
+- Earnings AMC TONIGHT 5pm ET (Q4 FY2026 ending Jun 30)
+- Rev: near low end of $11-12.5B guide; gross margins 15-17% (vs. 8.2-8.4% guided = massive beat)
+- $60B Q4 backlog record; EPS consensus $0.92
+- Read-through: AI server demand accelerating; NVDA Blackwell/Hopper supply validated
+
+**CRWV (not in universe):**
+- Earnings AMC TONIGHT 5pm ET (Q2 2026)
+- Rev est. $2.56B (+111% YoY); EPS est. -$1.21; $99.4B RPO backlog
+- Fleet capacity reportedly sold out; pricing resilient
+- Read-through: AI cloud compute demand at full capacity = NVDA demand intact
+
+### Step 4: Market overnight check
+
+**Futures (6 AM CT):**
+- ES: ~+0.1% | NQ: ~+0.4% | YM: roughly flat
+- Open estimate: S&P ~7,755-7,773 | Dist threshold: ~7,742.73 → dist risk LOW
+
+**Geopolitical:**
+- **Hormuz: DEADLOCKED** — Iran FM Araghchi: "no possibility of restarting negotiations" without US compensating Iran for war damages
+- Trump on Truth Social: Iran should compensate Lebanon, Syria, Yemen, Gaza victims
+- Both sides hardening → deal NOT expected this week → oil rising → stagflation risk elevated
+- Brent est. ~$85-87 (rising from ~$83.50 last week)
+
+**Key events today:**
+- SMCI earnings 5pm ET AMC
+- CRWV earnings 5pm ET AMC
+- Dist threshold: ~7,742.73 (risk LOW given flat-to-up futures)
+
+**Tomorrow (Aug 12 — HIGH PRIORITY):**
+- **CPI July 8:30 AM ET** (consensus +0.1% MoM / +3.4% YoY; Cleveland Nowcast 0.09-0.21%)
+- **Jul 8 dist expires** → 5/25 = UNDER PRESSURE transition (IF CPI ≤+0.2% MoM AND no dist day today/tomorrow)
+- Hot print: extended Correction; cool print: Under Pressure confirmed
+
+### Step 5: Buy-zone readiness
+
+**Primary watchlist: NONE** (Correction — all long entries blocked)
+
+**Bench status:**
+| Name | Est. PM | Distance from Pivot | Status |
+|---|---|---|---|
+| NVDA | ~$223.54 | No pivot (no handle) | 🔴 BLOCKED |
+| AVGO | $425.10 | No pivot (no formal base yet) | 🔴 BLOCKED |
+| INTC | ~$85 est. | N/A — 46/100 REJECTED | 🔴 REJECTED |
+| ARM | ~$240-250 est. | N/A — 60-70/100 BELOW THRESHOLD | 🔴 BELOW THRESHOLD |
+| MRVL | ~$175 est. | N/A — 15-25/100 WATCH ONLY | 🔴 WATCH ONLY |
+
+### Step 6: Circuit breaker check
+
+- **Account down -3% today:** N/A ($2,500 all cash, 0 positions → P&L = $0)
+- **Account down -6% week:** N/A ($0 loss this week)
+- **Drawdown -12% from HWM:** N/A ($2,500 = HWM, no drawdown)
+- **PDT count:** 0 of 3
+- **Alpaca API:** BLOCKED (Day ~181, 403) → trading halted per circuit breaker protocol
+- **Circuit breakers: ALL CLEAR** (no triggers active; Alpaca block is structural, not a circuit breaker per se)
+
+### Step 7: ClickUp summary → written to DAILY-SUMMARY.md
+
+---
+
 ## 2026-08-10 (Mon) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P ~7,758 +0.01% NOT DIST DAY ✅ — ⚠️ NVDA BEARISH REVERSAL $219.33 -2.07% — INTC -5% $15B SECONDARY — DIST 7/25 UNCHANGED — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~180 BLOCKED | Perplexity 403 | AV 403 — 66th consecutive degraded session)

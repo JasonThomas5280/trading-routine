@@ -5819,3 +5819,27 @@ Wed Aug 12: CPI Jul KEY BINARY + Jul 8 expires → 5/25 Under Pressure (if no ne
 Earliest Uptrend: ~Aug 19-21
 
 research_source: websearch_fallback | Alpaca BLOCKED Day ~180
+
+---
+## 2026-08-11 11:15 CT [clickup-placeholder]
+
+Pre-market 2026-08-11
+Market: Correction 6/25 (Jul 7 expired - STILL Correction) | Futures: ES +0.1% NQ +0.4%
+Open positions: 0 | Circuit breakers: NONE | PDT: 0/3
+Overnight gaps: none
+
+MAJOR NVDA CATALYST: $500B AI infra deal (Apollo/BX/BLK/Brookfield/GS/KKR). N-letter SIXTH CONF. I-letter upgrade 5->7. Score flag: 77->79/100 no handle (~89 with handle). OpenAI backstop risk mitigated.
+NVDA PM: ~$223.54 est (+1.9% from $219.33). Cup wk ~49, no handle. Blackout Aug 19.
+AVGO: $425.10, flat base, blackout Aug 22.
+
+Watchlist ready: NONE (Correction + Alpaca BLOCKED)
+Watching: NVDA (79/100 flag), AVGO (72-77 est)
+
+Key today: SMCI + CRWV earnings AMC 5pm ET (NVDA AI demand read-through)
+Key tomorrow: CPI July 8:30am ET (cool=Under Pressure 5/25 | hot=Correction extended)
+Hormuz: DEADLOCKED (Iran reparations demand; Trump refuses). Oil rising.
+
+Transition: Aug 12->5/25 Under Pressure (if no dist + cool CPI) | Aug 17-21 earliest Uptrend
+NVDA window: Aug 17-18 only (2 days before blackout Aug 19)
+
+Plan: NO entries. Correction (6/25) + Alpaca BLOCKED. Watch tonight's earnings. CPI is the week's pivot. websearch_fallback | Alpaca Day ~181 BLOCKED | 67th degraded session
