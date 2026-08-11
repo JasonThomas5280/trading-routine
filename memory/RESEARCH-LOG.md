@@ -176,6 +176,46 @@ ALL CLEAR | Equity $2,500 (HWM) | Day P&L: $0 | Week P&L: $0
 
 ---
 
+## 2026-08-11 (Tue) — /eod-review (3:15 PM CT) — 🔴 CORRECTION UNCHANGED — S&P 7,753.11 -0.06% NOT DIST DAY ✅ — DIST 6/25 (Jul 7 EXPIRED; 6 active) — 🟢 SMCI Q4 BEAT EPS $1.62 (+69%) | FY guide $65-72B | +8.5% AH — CRWV TBD — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~182 BLOCKED | Perplexity 403 | AV 403 — 69th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (6/25 dist days — Jul 7 expired; no new dist day today; STILL CORRECTION ≥6)
+**Sector leaders (top 3):** XLK (Technology), XLV (Healthcare), XLI (Industrials) — UNCHANGED
+
+### Close data
+
+- **S&P 500:** 7,753.11 (-0.06%) | QQQ: ~$720.87 | Dow: est. flat | Nasdaq: est. flat-to-slight-positive
+- **Distribution check:** S&P -0.06% = BELOW -0.2% threshold → **NOT a distribution day ✅** | Dist threshold: 7,742.73 | S&P 7,753.11 = 10.38 pts above threshold → price criterion NOT MET
+- **Dist count: 6/25 UNCHANGED** (Jul 7 expired; no new dist added) | Active: Jul 8, Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 | STILL CORRECTION (6 ≥ 6)
+- **Dist threshold Aug 12: ~7,737.60** (7,753.11 × 0.998)
+
+### Key events
+
+- **🟢 SMCI Q4 FY2026 EARNINGS (AMC Aug 11):** Rev $11.1B vs $11.55B est. (slight miss) | EPS **$1.62 vs $0.96 est. = +69% BEAT** | FY2027 net sales guide **$65-72B vs $52.5B est. = +38% ABOVE CONSENSUS** | Stock +8.5% AH | Read-through: NVDA Blackwell server demand fully intact; $60B backlog converting at scale = direct AI chip consumption confirmation. NVDA N-letter: already maxed at 15/15 (6 prior confirmations). Qualitatively: removes any residual demand-uncertainty narrative for NVDA thesis.
+- **CRWV Q2 2026 EARNINGS (AMC Aug 11):** Results not confirmed at time of EOD pull. Pre-consensus: Rev $2.56B / EPS -$1.21. Update at /pre-market Aug 12.
+- **NVDA (bench, 79/100 upgrade flag):** Close est. ~$221-223 (range $220.66-$224.76 today; no confirmed close data in search). $500B AI infra deal (Aug 10) + SMCI Q4 guide beat = demand thesis fully reinforced. Cup wk ~49; no handle; no pivot. BLOCKED: no handle + Correction + Alpaca. Blackout Aug 19 (earnings Aug 26 AMC) → entry window Aug 17-18 ONLY.
+- **Hormuz:** DEADLOCKED — Iran demands war reparations; Trump refuses. Oil elevated Brent ~$85-87. Pakistan brokerage bid ("close to arrangement") from market-check = NOT signed.
+- **Alpaca API:** BLOCKED (Day ~182, 403) — trading physically impossible
+
+### Open positions
+
+0 of max 4 | sell-rules-engine SKIPPED (79th consecutive)
+
+### Circuit breakers
+
+ALL CLEAR | Equity $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 (25th consecutive zero-trade week)
+
+### Transition watch
+
+- **TOMORROW Aug 12:** Jul 8 expires → 5/25 = **UNDER PRESSURE** (if CPI cool/in-line + no new dist day today ✅ confirmed) | ⚡ CPI July 8:30 AM ET | Dist threshold: **~7,737.60** | Hot print (+0.3%+ MoM) → new dist day risk → Correction extends
+- **Aug 13:** AMAT earnings AMC | PPI July 8:30 AM ET
+- **Aug 17:** Jul 13 expires → 4/25
+- **Aug 18:** NVDA entry window CLOSES (blackout begins Aug 19)
+- **Aug 19-21:** Natural Uptrend path (3-4/25 dist expiry + new FTD needed; no Day 1 currently)
+- **Aug 27+:** Post-NVDA-earnings entry possible (if Uptrend + new base + handle + Alpaca restore)
+
+---
+
 ## 2026-08-07 (Fri) — /market-check (10:00 AM CT) — 🔴 CORRECTION UNCHANGED — ⚡ FTD DAY 7 FAILED (S&P ~7,704 / 102 PTS BELOW 7,806.33 THRESHOLD) — FTD WINDOW CLOSED — NOT DIST DAY ✅ — 🚨 NFP JULY -23K MASSIVE MISS — UNEMPLOYMENT 4.1% BEAT — MARKET FLAT — HORMUZ NOT SIGNED — NVDA ~$219-220 FLAT — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~176 BLOCKED | Perplexity 403 | AV 403 — 61st consecutive degraded session)

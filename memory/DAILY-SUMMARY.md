@@ -5871,3 +5871,48 @@ Plan: NO entries. Correction (6/25) + Alpaca BLOCKED. Watch tonight's earnings. 
 **Watchlist status:** 0 ready, 2 watching (NVDA/AVBO), 0 removed | **Open positions:** 0 (0% deployed) | **Weekly trades:** 0/3
 
 **Next check:** /eod-review 3:15 PM CT (confirm dist threshold; SMCI/CRWV earnings after close)
+
+---
+## 📊 EOD Review 2026-08-11 — 3:15 PM CT
+
+**Equity:** $2,500.00 (+$0 day, +$0 week) | **Open positions:** 0 (100% cash) | **Dist days:** 6/25 | **Market:** 🔴 Correction
+
+**Close data (confirmed):**
+- S&P 500: 7,753.11 (-0.06%) | QQQ: ~$720.87 | Dow: flat est.
+- Distribution check: NOT dist day ✅ (threshold 7,742.73; 10.38 pts above → price criterion -0.2% NOT MET)
+- Dist count: 6/25 (Jul 7 expired; no new dist day today) — STILL CORRECTION ≥6
+
+**Actions today:**
+- sell-rules-engine: SKIPPED (0 positions — 79th consecutive)
+- No entries: Correction gate (6/25 ≥6) + Alpaca Day ~182 BLOCKED (69th degraded session)
+- No stop adjustments: 0 positions
+
+**🟢 KEY CATALYST — SMCI Q4 FY2026 EARNINGS (AMC Aug 11):**
+- EPS: $1.62 vs $0.96 est. (+69% BEAT) | Rev: $11.1B vs $11.55B est. (slight miss)
+- FY2027 guide: $65-72B vs $52.5B est. = **+38% ABOVE CONSENSUS**
+- Stock: +8.5% AH | NVDA AI server demand FULLY CONFIRMED
+
+**CRWV:** Results not confirmed at pull time. Update /pre-market Aug 12.
+
+**Tomorrow (Aug 12 — CRITICAL):**
+- ⚡ CPI July 8:30 AM ET (consensus +0.1% MoM / +3.4% YoY)
+- Jul 8 expires → 5/25 UNDER PRESSURE (if CPI cool + no new dist day today ✅)
+- Dist threshold: ~7,737.60 | Hot print → dist risk + Correction extends
+
+**Circuit breakers:** NONE | research_source: websearch_fallback | Alpaca Day ~182 BLOCKED
+
+---
+## 2026-08-11 20:23 CT [clickup-placeholder]
+
+📊 EOD 2026-08-11 | Equity $2,500 (+$0 day, +$0 wk) | 0 positions | 100% cash | Dist: 6/25 (Jul 7 expired) | Market: 🔴 Correction
+Close: S&P 7,753.11 (-0.06%) NOT DIST DAY ✅ (threshold 7,742.73; 10.38 pts clear) | QQQ ~$720.87
+Actions today: NONE — Correction gate (6/25 ≥6) + Alpaca Day ~182 BLOCKED (69th degraded session)
+sell-rules-engine: SKIPPED (79th consecutive — 0 positions)
+🟢 SMCI Q4 BEAT: EPS $1.62 vs $0.96 (+69%) | FY guide $65-72B vs $52.5B (+38%) | +8.5% AH = NVDA AI demand CONFIRMED
+CRWV: results TBD AH — update /pre-market Aug 12
+NVDA: ~$221-223 est. close | 79/100 no handle | blackout Aug 19 (window Aug 17-18 ONLY if Uptrend)
+AVGO: ~$425 | 72-77/100 est. | blackout Aug 22+
+Hormuz: DEADLOCKED — oil elevated
+Tomorrow (Aug 12 CRITICAL): ⚡ CPI July 8:30 AM ET + Jul 8 expires → 5/25 Under Pressure (if cool)
+Dist threshold Aug 12: 7,737.60 | Hot print = new dist #7 risk + Correction extends
+Circuit breakers: NONE | research_source: websearch_fallback
