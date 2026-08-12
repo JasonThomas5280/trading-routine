@@ -127,6 +127,47 @@ N/A (0 positions)
 
 `pre-market_Aug12` | `websearch_fallback` | `Alpaca_Day183_BLOCKED` | `70th_degraded_session` | `80th_zero_action_session` | `dist_6of25_Jul8_expires_TODAY→5of25_Under_Pressure` | `dist_threshold_Aug12_7737.60` | `CPI_Jul_NOT_YET_RELEASED_8.30am_ET_consensus_+0.1pct_MoM_3.4pct_YoY` | `ES_+0.2pct_NQ_+0.6pct` | `SMCI_Q4_beat_EPS_1.62_+8.5pct_AH_CONF` | `CRWV_Q2_beat_Rev_2.58B_EPS-1.03_+14pct_AH_CONF` | `NVDA_PM_222.12_-2.10pct_cup_wk50_no_handle_blackout_Aug19` | `AVGO_~414.67_close_Aug11_flat_base_softening` | `Hormuz_DEADLOCKED_WTI_82.13` | `circuit_breakers_ALL_CLEAR`
 
+## 2026-08-12 (Wed) — /market-check (10:00 AM CT) — 🟡 UNDER PRESSURE 5/25 CONFIRMED — CPI +0.1% MoM COOL ✅ — S&P +0.30% NOT DIST DAY ✅ — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~184 BLOCKED | Perplexity 403 | AV 403 — 71st consecutive degraded session)
+**Market direction pull:** 🟡 UNDER PRESSURE (5/25 — Jul 8 EXPIRED — CPI cool confirmed — NOT Correction)
+
+### Abort gates — ALL FIRE → zero trades
+
+- **Gate 1: Under Pressure (5/25)** → NO new long entries (rule is firm — only Confirmed Uptrend unlocks entries)
+- **Gate 2: Alpaca BLOCKED (Day ~184, 403)** → No order execution
+- **Gate 3: Zero primary candidates ≥75** → NVDA no handle, AVGO no handle, all others below 75
+
+### CPI July 2026 result — RELEASED 8:30 AM ET
+
+- Headline: **+0.1% MoM / +3.4% YoY** ✅ (consensus met, trending down from 3.5%)
+- Core CPI: **+0.2% MoM / +2.5% YoY** ✅ (core cooling, down from 2.6%)
+- Energy: -1.5% MoM (WTI/Brent oil spike from Hormuz partially offset by base effects in index)
+- **Result: COOL PRINT** → Jul 8 expires → **5/25 = UNDER PRESSURE CONFIRMED**
+
+### Market intraday (~10:00 AM CT = 11:00 AM ET)
+
+- S&P 500: ~7,776 est. (+0.30% from 7,753.11 close) | **NOT a dist day ✅**
+- Nasdaq: +0.59% | Dow: +0.11% | Russell 2000: +0.32%
+- Dist threshold Aug 12: ~7,737.60 | S&P ~38 pts above = LOW dist risk
+- **Dist count: 5/25 UNDER PRESSURE** (active: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29)
+
+### Watchlist/bench intraday
+
+- **NVDA:** ~$220-222 est. (pre-market $220.49 +1.37%; cup wk ~50; no handle; no pivot) | BLOCKED | Blackout Aug 19 — entry window Aug 17-18 ONLY (4 trading days left)
+- **AVGO:** ~$414-420 intraday (low $410.76, high $427.58, open ~$420.34) | Flat base softening; ⚠️ watch $408-410 failure threshold
+- All others: INTC 46/100 ❌ | ARM 60-70/100 ❌ | MRVL 15-25/100 ❌ | GOOGL 60-65/100 ❌
+
+### Sell-rules-engine
+
+SKIPPED — 0 open positions (84th consecutive skip)
+
+### Bench promotions/demotions
+
+NONE. No bench item has a defined pivot (NVDA/AVGO — no handle = no pivot = cannot be "within 2% of pivot").
+
+`market-check_Aug12` | `websearch_fallback` | `Alpaca_Day184_BLOCKED` | `71st_degraded_session` | `81st_zero_action_session` | `CPI_+0.1pct_MoM_+3.4pct_YoY_COOL` | `Core_+0.2pct_MoM_+2.5pct` | `SPX_~7776_+0.30pct_NOT_DIST_DAY` | `dist_5of25_UNDER_PRESSURE_CONFIRMED` | `Jul8_expired` | `NVDA_~220-222_no_handle` | `AVGO_~414-420_watch_408-410` | `circuit_breakers_ALL_CLEAR`
+
 ---
 
 ## 2026-08-11 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION 6/25 (Jul 7 EXPIRES TODAY — STILL CORRECTION) — ES ~+0.1% NQ ~+0.4% — 🚀 NVDA $500B AI INFRA DEAL — SMCI/CRWV AMC TONIGHT — ⚡ CPI TOMORROW KEY BINARY — 0 POSITIONS — 0 ACTIONS

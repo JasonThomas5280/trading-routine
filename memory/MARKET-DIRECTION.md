@@ -6,7 +6,50 @@
 
 ## Current Status
 
-**Status:** 🔴 **MARKET IN CORRECTION → UNDER PRESSURE PENDING CPI** *(Aug 12 /pre-market — DIST 6/25 (Jul 8 EXPIRES TODAY → 5/25 UNDER PRESSURE if CPI cool/in-line) — ⚡ CPI JULY 8:30 AM ET NOT YET RELEASED — ES +0.2% NQ +0.6% MUTED — 🟢 SMCI Q4 BEAT EPS $1.62 +8.5% AH CONF | 🟢 CRWV Q2 BEAT Rev $2.58B +14% AH CONF = NVDA demand confirmed — NVDA PM $222.12 -2.10% no handle BLACKOUT Aug 19 — Hormuz DEADLOCKED WTI ~$82 — dist threshold 7,737.60 — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~183 BLOCKED — research_source: websearch_fallback | 70th consecutive degraded session)*
+**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 12 /market-check — DIST 5/25 (Jul 8 EXPIRED — CPI +0.1% MoM COOL/IN-LINE ✅ — NO DIST DAY ✅) — S&P +0.30% ~7,776 est. | Nasdaq +0.59% | Dow +0.11% | Russell +0.32% — NO NEW LONG ENTRIES (Under Pressure) — NVDA ~$220-222 no handle BLACKOUT Aug 19 — AVGO ~$414-420 flat base — Hormuz DEADLOCKED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~184 BLOCKED — research_source: websearch_fallback | 71st consecutive degraded session)*
+
+**✅ AUG 12 /market-check (10:00 AM CT — 🟡 UNDER PRESSURE CONFIRMED 5/25 — CPI +0.1% MoM COOL ✅ — S&P +0.30% NO DIST DAY ✅ — NO NEW LONGS — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~184 BLOCKED):**
+- **Market state: 🟡 UNDER PRESSURE (5/25) — CONFIRMED** | `research_source: websearch_fallback` | Alpaca Day ~184 BLOCKED | Perplexity 403 | AV 403 | 71st consecutive degraded session
+- **Abort gates: (1) Under Pressure (5/25) → no new long entries | (2) Alpaca BLOCKED (403) → no order execution | (3) 0 candidates ≥75 → no actionable setups** | Zero actions | 81st consecutive zero-action session
+- **CPI July 2026 — RELEASED 8:30 AM ET — COOL/IN-LINE ✅:**
+  - Headline: **+0.1% MoM / +3.4% YoY** (in-line with consensus) ✅
+  - Core CPI: **+0.2% MoM / +2.5% YoY** (trending down from 2.6%) ✅
+  - Shelter +0.1% | Food +0.1% | Energy **-1.5% MoM** (Hormuz risk offset by base effects) | Energy +14.7% YoY (gasoline +24.6%)
+  - **Result: COOL PRINT** — Jul 8 dist expires → **5/25 = UNDER PRESSURE** ✅ | Market rallied on data
+- **S&P 500 Aug 12 intraday (~10:00 AM CT = 11:00 AM ET):** ~7,776 est. (+0.30% from 7,753.11 close) | Nasdaq +0.59% | Dow +0.11% | Russell 2000 +0.32%
+  - **Distribution check:** S&P +0.30% = POSITIVE → **NOT a distribution day ✅** | Price criterion not met
+  - **Jul 8 EXPIRED today → 5/25 = UNDER PRESSURE ✅ CONFIRMED**
+  - Active dist days remaining: **Jul 13, Jul 16, Jul 17, Jul 23, Jul 29 = 5 total**
+  - Dist count: **5/25 — UNDER PRESSURE** (<6 threshold; no longer Correction)
+  - **Dist threshold Aug 12:** ~7,737.60 | S&P ~7,776 = ~38 pts buffer → LOW risk ✅
+- **Abort gates — MARKET-CHECK ORDER:**
+  - **Gate 1: Under Pressure (5/25)** → NO NEW LONG ENTRIES ❌ (rule: "Under Pressure — reduce exposure, no new entries")
+  - **Gate 2: Alpaca BLOCKED (403)** → No order execution ❌
+  - **Gate 3: Zero primary candidates ≥75** → No actionable setups ❌ (Under Pressure/Correction bench mode)
+  - All three gates fire → skip to summary
+- **Watchlist trigger check: SKIPPED** (Gate 1 Under Pressure + Gate 2 Alpaca + Gate 3 no candidates ≥75)
+- **Sell-rules-engine: SKIPPED** (0 positions — 84th consecutive skip)
+- **Bench health check:**
+  - **NVDA (79/100 est.):** ~$220-222 est. intraday (pre-market ~$220.49 +1.37% from $217.50 close est.) | Cup wk ~50; NO handle; no pivot → BLOCKED | Blackout Aug 19 → entry window Aug 17-18 ONLY (2 trading days left if Uptrend + handle + Alpaca restore all hit simultaneously)
+  - **AVGO (72-77/100 est.):** ~$414-420 intraday range (low $410.76, high $427.58, open ~$420.34) | Flat base slightly softening | ⚠️ Watch $408-410 failure zone | Blackout Aug 22
+  - **INTC (46/100 ❌):** Below threshold — no action
+  - **ARM (60-70/100 est. ❌):** Below threshold — no action
+  - **MRVL (15-25/100 ❌):** Watch-only — no action
+  - **GOOGL (60-65/100 ❌):** Watch-only — no action
+- **Bench promotions/demotions:** NONE | No bench item within 2% of a defined pivot (NVDA/AVGO have no handle = no pivot)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 | PDT: 0/3
+- **Week Aug 10: 0/3 positions** | 25th consecutive zero-trade week | 81st consecutive zero-action session
+- **Transition roadmap (UPDATED Aug 12 /market-check):**
+  - **TODAY Aug 12 ✅ CONFIRMED:** 5/25 UNDER PRESSURE (CPI cool + no dist day)
+  - **Thu Aug 13:** AMAT earnings AMC | PPI July 8:30 AM ET
+  - **Fri Aug 14:** Retail Sales | UMich consumer sentiment
+  - **Mon Aug 17:** Jul 13 expires → **4/25 Under Pressure** | If Day 1 established before then: FTD window opens
+  - **Tue Aug 18:** NVDA entry window CLOSES at COB (blackout begins Aug 19) | **CRITICAL: Only 4 trading days remain for NVDA entry if Uptrend fires (Aug 13-18)**
+  - **Wed Aug 19:** Jul 16 expires → **3/25 Under Pressure** | NVDA blackout begins | Need FTD for Confirmed Uptrend
+  - **Thu Aug 21:** Jul 17 expires → **2/25 Under Pressure** (assuming no new dist days)
+  - **Natural Uptrend path: ~Aug 19-21** — dist expiry alone gets to 2-3/25; still need FTD to confirm Uptrend. **No Day 1 currently established.**
+  - **Post-blackout NVDA entry: Aug 27+** (after Aug 26 AMC earnings; need Uptrend + new base + handle + pivot — probably Sep)
+- `market-check_Aug12` | `websearch_fallback` | `Alpaca_Day184_BLOCKED` | `71st_degraded_session` | `81st_zero_action_session` | `CPI_Jul_+0.1pct_MoM_+3.4pct_YoY_COOL` | `Core_CPI_+0.2pct_MoM_+2.5pct_YoY` | `SPX_~7776_+0.30pct_NOT_DIST_DAY` | `Nasdaq_+0.59pct` | `Russell_+0.32pct` | `dist_5of25_UNDER_PRESSURE_CONFIRMED` | `Jul8_EXPIRED` | `dist_threshold_Aug12_7737.60` | `NVDA_~220-222_no_handle_blackout_Aug19` | `AVGO_~414-420_flat_base_watch_408-410_failure` | `Hormuz_DEADLOCKED` | `circuit_breakers_ALL_CLEAR` | `Under_Pressure_no_new_longs`
 
 **✅ AUG 12 /pre-market (6:00 AM CT — ⚡ CPI JULY KEY BINARY — Jul 8 EXPIRES TODAY → 5/25 UNDER PRESSURE IF COOL — ES +0.2% NQ +0.6% — 🟢 SMCI+CRWV BEATS CONFIRMED — NVDA PM $222.12 -2.10% — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~183 BLOCKED):**
 - **Market state: 🔴 MARKET IN CORRECTION** (6/25 dist days — Jul 8 expires TODAY) | `research_source: websearch_fallback` | Alpaca Day ~183 BLOCKED | Perplexity 403 | AV 403 | 70th consecutive degraded session

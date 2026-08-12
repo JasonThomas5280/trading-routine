@@ -5948,3 +5948,17 @@ Futures: ES +0.2% | NQ +0.6% muted — awaiting CPI
 🟢 CRWV Q2 BEAT: Rev $2.58B (+112%) | EPS -$1.03 vs -$1.21 | +14% AH
 NVDA PM $222.12 -2.10% | no handle | blackout Aug 19
 Positions: 0 | Circuit breakers: NONE | Plan: ZERO entries — await CPI at /market-check 10 AM CT
+
+---
+## 2026-08-12 15:25 CT [clickup-placeholder]
+
+📈 Market-check 2026-08-12 10:00 AM CT
+Market: 🟡 UNDER PRESSURE 5/25 CONFIRMED | CPI +0.1% MoM cool ✅ | S&P +0.30% ~7,776 NOT dist ✅ | Jul 8 expired
+Circuit breakers: NONE
+Actions taken:
+  No new entries — Under Pressure gate (5/25) + Alpaca Day 184 BLOCKED + zero candidates ≥75
+Watchlist: 0 primary ready | bench: NVDA 79/100 no handle blackout Aug 19 | AVGO 72-77/100 flat base watch $408-410
+Open positions: 0 | Deployed: 0%
+Weekly trade count: 0/3 used (25th consecutive zero-trade week)
+Key: Aug 17 Jul 13 expires→4/25 | Aug 18 NVDA entry window CLOSES | Aug 19 NVDA blackout + Jul 16 expires→3/25
+Next check: /eod-review 3:15 PM CT
