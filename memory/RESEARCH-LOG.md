@@ -46,6 +46,89 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-12 (Wed) — /pre-market (6:00 AM CT) — ⚡ CPI JULY 8:30 AM ET KEY BINARY (NOT YET RELEASED) — Jul 8 EXPIRES TODAY → 5/25 UNDER PRESSURE (IF COOL) — 🟢 SMCI Q4 BEAT +8.5% AH CONF | 🟢 CRWV Q2 BEAT +14% AH CONF → NVDA DEMAND CONFIRMED — ES +0.2% NQ +0.6% — NVDA PM $222.12 -2.10% — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~183 BLOCKED | Perplexity 403 | AV 403 — 70th consecutive degraded session)
+**Market direction pull:** 🔴 Market in Correction (6/25 dist days — Jul 8 expires TODAY → 5/25 Under Pressure pending CPI print at 8:30 AM ET)
+**Sector leaders (top 3):** XLK (Technology), XLV (Healthcare), XLI (Industrials) — UNCHANGED
+
+### Step 1: Overnight gap check on open positions
+
+**Positions: 0** | Gap check SKIPPED (35th consecutive zero-position pre-market)
+
+### Step 2: Catalyst scan — open positions
+
+N/A (0 positions)
+
+### Step 3: Catalyst scan — watchlist / bench names
+
+**NVDA (bench, 79/100 upgrade flag, no handle):**
+- PM Aug 12: **$222.12, -$4.57 (-2.10%)** — declining overnight; sell pressure continuing from Aug 10 bearish reversal ($229→$219.33); $500B AI deal fully digested; SMCI/CRWV beats NOT lifting NVDA pre-market
+- **SMCI Q4 FY2026 BEAT (AMC Aug 11 — CONFIRMED):** Rev $11.1B (slight miss vs $11.55B) | EPS **$1.62 vs $0.96 est. = +69% BEAT** | FY2027 guide **$65-72B vs $52.5B est. (+38% above consensus)** | SMCI +8.5% AH | Read-through: NVDA Blackwell server demand converting backlog at full scale
+- **CRWV Q2 2026 BEAT (AMC Aug 11 — CONFIRMED):** Rev $2.58B vs $2.56B est. ✅ | Adj EPS -$1.03 vs -$1.21 est. ✅ | Rev +112% YoY | Q3 guide $3.45-3.6B | $99.4B RPO ($21B Meta) | Anthropic + Meta new agreements | CRWV +14% AH
+- **Combined read-through:** SMCI + CRWV = SEVENTH and EIGHTH NVDA AI demand confirmations (not scored — already at N-letter max 15/15). Blackwell consumption confirmed intact.
+- **NVDA bench status:** Cup wk ~50; NO handle; 79/100 (upgrade flag — no handle); no pivot. BLOCKED: no handle + no pivot + Correction + Alpaca BLOCKED. ⚠️ Blackout Aug 19 (earnings Aug 26 AMC) → entry window **Aug 17-18 ONLY** (2 trading days) if Uptrend + handle + Alpaca all hit simultaneously. Aug 10 bearish reversal ($229→$219.33) may delay handle formation — watch for distribution on right side of cup.
+
+**AVGO (bench, 72-77/100 est.):**
+- Est. close Aug 11: **~$414.67** (range $413.32–$427.07 on Aug 11; possible bearish reversal from ~$427 open to ~$414.67 close)
+- If confirmed: **~-2.6% from Aug 10 est. ($426)** — flat base structure potentially softening
+- No major overnight catalyst
+- Blackout Aug 22+ (earnings Aug 29 AMC) | Entry window Aug 10–21 = **9 trading days remain** (but Correction/Under Pressure blocks entry)
+- Status: 🟡 WATCHING — no entry (market gate + Alpaca + possible base failure) | ⚠️ Flag: if AVGO closes below $408-410 range, flat base fails — demote from bench
+
+### Step 4: Market overnight check
+
+**Futures (6 AM CT):**
+- ES: ~+0.2% | NQ: ~+0.6% | Muted — market in wait-and-see ahead of CPI
+- Open est.: S&P ~7,760-7,775 | **Dist threshold: ~7,737.60** → dist risk LOW (25+ pt buffer with muted open)
+- Polymarket: 56% probability S&P closes higher today
+
+**⚡ CPI JULY 2026 — 8:30 AM ET (7:30 AM CT) — NOT YET RELEASED AT 6 AM CT:**
+- **Consensus: +0.1% MoM / +3.4% YoY** | Core: +2.5% vs 2.6% prev (Cleveland Fed Nowcast: 0.09-0.21% MoM)
+- **Cool print (≤+0.2% MoM / ≤3.5% YoY):** Jul 8 expires → **5/25 = UNDER PRESSURE** | No new dist day | Market rallies | Rate-cut narrative intact | Dist transition confirmed
+- **Hot print (+0.3%+ MoM / ≥3.6% YoY):** New dist day risk → **6/25 STILL CORRECTION** | Delay Under Pressure transition | Fed hawkish; market sells off
+- **Probability: ~65% cool/in-line / 35% hot** — CPI consensus + Cleveland Nowcast lean cool; Hormuz oil-price rise is upside risk to July energy component
+- ⚠️ **CRITICAL: NO ENTRY DECISIONS UNTIL CPI PROCESSED. DO NOT ACT ON PRE-MARKET PRICES.**
+
+**Key events today:**
+- 8:30 AM ET: CPI July 2026 — primary market gate for Under Pressure transition
+- Jul 8 dist day expires → dist count 6→5/25 (if no new dist day added)
+- Dist threshold: **~7,737.60** (monitor at close)
+- Tomorrow Aug 13: PPI July 8:30 AM ET | AMAT earnings AMC
+
+**Geopolitical:**
+- **Hormuz: DEADLOCKED** — Iran demands US lift sanctions + pay war reparations; Trump refuses; "no possibility of restarting negotiations" per Iranian FM
+- WTI crude ~$82.13 (+5% last session) | Brent ~$84-86 est. | Stagflation premium persisting
+- No deal expected this week → oil elevated → risk to CPI energy component
+
+### Step 5: Buy-zone readiness
+
+**Primary watchlist: NONE** (Correction → Under Pressure transition; NO new long entries in EITHER state)
+
+| Name | Est. PM | Score | Pivot | Status |
+|---|---|---|---|---|
+| NVDA | $222.12 (-2.10%) | 79/100 (no handle) | None (no handle) | 🔴 BLOCKED — no handle + Correction + blackout Aug 19 |
+| AVGO | ~$414-415 est. | 72-77/100 est. | None (flat base) | 🔴 BLOCKED — market gate + Alpaca + base softening |
+| INTC | N/A | 46/100 ❌ | None | 🔴 REJECTED watch-only |
+| ARM | N/A | 60-70/100 est. | None | 🔴 BELOW THRESHOLD |
+| MRVL | N/A | 15-25/100 | None | 🔴 WATCH ONLY |
+
+**Note:** Even if CPI confirms Under Pressure (5/25), NO new long entries. Under Pressure = Correction entry gate. Only CONFIRMED UPTREND unlocks new longs.
+
+### Step 6: Circuit breaker check
+
+- Account P&L today: $0 (0 positions) | Week P&L: $0 | Drawdown: $0 (at HWM $2,500)
+- PDT count: 0 of 3
+- Alpaca API: BLOCKED (Day ~183, 403) — structural block
+- Research: websearch_fallback (Perplexity 403 + AV 403) — sell-rules-engine can run (Alpaca blocked makes it moot)
+- **Circuit breakers: ALL CLEAR**
+
+### Step 7: ClickUp summary → written to DAILY-SUMMARY.md
+
+`pre-market_Aug12` | `websearch_fallback` | `Alpaca_Day183_BLOCKED` | `70th_degraded_session` | `80th_zero_action_session` | `dist_6of25_Jul8_expires_TODAY→5of25_Under_Pressure` | `dist_threshold_Aug12_7737.60` | `CPI_Jul_NOT_YET_RELEASED_8.30am_ET_consensus_+0.1pct_MoM_3.4pct_YoY` | `ES_+0.2pct_NQ_+0.6pct` | `SMCI_Q4_beat_EPS_1.62_+8.5pct_AH_CONF` | `CRWV_Q2_beat_Rev_2.58B_EPS-1.03_+14pct_AH_CONF` | `NVDA_PM_222.12_-2.10pct_cup_wk50_no_handle_blackout_Aug19` | `AVGO_~414.67_close_Aug11_flat_base_softening` | `Hormuz_DEADLOCKED_WTI_82.13` | `circuit_breakers_ALL_CLEAR`
+
+---
+
 ## 2026-08-11 (Tue) — /pre-market (6:00 AM CT) — 🔴 CORRECTION 6/25 (Jul 7 EXPIRES TODAY — STILL CORRECTION) — ES ~+0.1% NQ ~+0.4% — 🚀 NVDA $500B AI INFRA DEAL — SMCI/CRWV AMC TONIGHT — ⚡ CPI TOMORROW KEY BINARY — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~181 BLOCKED | Perplexity 403 | AV 403 — 67th consecutive degraded session)

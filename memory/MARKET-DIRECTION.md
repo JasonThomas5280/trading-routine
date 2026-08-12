@@ -6,6 +6,35 @@
 
 ## Current Status
 
+**Status:** 🔴 **MARKET IN CORRECTION → UNDER PRESSURE PENDING CPI** *(Aug 12 /pre-market — DIST 6/25 (Jul 8 EXPIRES TODAY → 5/25 UNDER PRESSURE if CPI cool/in-line) — ⚡ CPI JULY 8:30 AM ET NOT YET RELEASED — ES +0.2% NQ +0.6% MUTED — 🟢 SMCI Q4 BEAT EPS $1.62 +8.5% AH CONF | 🟢 CRWV Q2 BEAT Rev $2.58B +14% AH CONF = NVDA demand confirmed — NVDA PM $222.12 -2.10% no handle BLACKOUT Aug 19 — Hormuz DEADLOCKED WTI ~$82 — dist threshold 7,737.60 — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~183 BLOCKED — research_source: websearch_fallback | 70th consecutive degraded session)*
+
+**✅ AUG 12 /pre-market (6:00 AM CT — ⚡ CPI JULY KEY BINARY — Jul 8 EXPIRES TODAY → 5/25 UNDER PRESSURE IF COOL — ES +0.2% NQ +0.6% — 🟢 SMCI+CRWV BEATS CONFIRMED — NVDA PM $222.12 -2.10% — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~183 BLOCKED):**
+- **Market state: 🔴 MARKET IN CORRECTION** (6/25 dist days — Jul 8 expires TODAY) | `research_source: websearch_fallback` | Alpaca Day ~183 BLOCKED | Perplexity 403 | AV 403 | 70th consecutive degraded session
+- **Abort gates: (1) Correction (6/25 ≥6) → no new longs | (2) Alpaca BLOCKED (403) → no order execution** | Zero actions | 80th consecutive zero-action session
+- **CRITICAL EVENT: CPI July 8:30 AM ET (7:30 AM CT) — NOT YET RELEASED AT 6 AM CT:**
+  - Consensus: **+0.1% MoM / +3.4% YoY** | Core: +2.5% (Cleveland Fed Nowcast 0.09-0.21% MoM — lean cool)
+  - Cool (≤+0.2% MoM): Jul 8 expires → **5/25 = UNDER PRESSURE** ✅ (market rallies, no dist day)
+  - Hot (+0.3%+ MoM): new dist day risk → **6/25 STILL CORRECTION** (Hormuz oil = upside risk to energy component)
+  - Probability: ~65% cool/in-line, 35% hot | **DO NOT ACT UNTIL /market-check 10:00 AM CT confirmation**
+- **Dist count: 6/25 — STILL CORRECTION (≥6 rule)** | Jul 8 expires today → 5/25 = Under Pressure (if no new dist day added)
+  - **Dist threshold Aug 12: ~7,737.60** | ES +0.2% → open ~7,760-7,775 = dist risk LOW (25+ pt buffer)
+  - Active dist days remaining: Jul 8 (expires today), Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **🟢 SMCI Q4 BEAT (CONFIRMED):** EPS $1.62 vs $0.96 (+69%) | FY2027 guide $65-72B vs $52.5B (+38%) | +8.5% AH | NVDA Blackwell demand at full scale ✅
+- **🟢 CRWV Q2 BEAT (CONFIRMED):** Rev $2.58B vs $2.56B (+112% YoY) | Adj EPS -$1.03 vs -$1.21 | Q3 guide $3.45-3.6B | $99.4B RPO | +14% AH | NVDA GPU consumption intact ✅
+- **NVDA PM: $222.12 (-2.10%)** — cup wk ~50; no handle; 79/100 upgrade flag; BLOCKED; blackout Aug 19
+- **AVGO: ~$414.67 close est. Aug 11** (down from ~$427 open; flat base potentially softening; 72-77/100 est.; blackout Aug 22)
+- **Hormuz: DEADLOCKED** — Iran demands sanctions relief + war reparations; WTI ~$82.13 (+5% last session); stagflation risk elevated
+- **Transition roadmap (UPDATED Aug 12 pre-market):**
+  - **TODAY Aug 12:** Jul 8 EXPIRES → **5/25 = UNDER PRESSURE** (if CPI ≤+0.2% MoM AND no new dist day added) | ⚡ CPI 8:30 AM ET | Dist threshold: **~7,737.60**
+  - **Thu Aug 13:** AMAT earnings AMC | PPI July 8:30 AM ET
+  - **Fri Aug 14:** Retail Sales | UMich consumer sentiment
+  - **Mon Aug 17:** Jul 13 expires → 4/25 | Entry window check
+  - **Tue Aug 18:** NVDA entry window CLOSES at COB (blackout begins Aug 19)
+  - **Wed Aug 19:** Jul 16 expires → 3/25 | NVDA blackout begins
+  - **Natural Uptrend path: ~Aug 19-21** (3-4/25 via expiry) + new FTD → Confirmed Uptrend. **No Day 1 currently established.**
+  - **Post-blackout NVDA entry: Aug 27+** (after Aug 26 AMC earnings; need Uptrend + new base + handle + pivot)
+- `pre-market_Aug12` | `websearch_fallback` | `Alpaca_Day183_BLOCKED` | `70th_degraded_session` | `80th_zero_action_session` | `dist_6of25_Jul8_expires_TODAY` | `CPI_Jul_NOT_YET_RELEASED_8.30am_ET` | `ES_+0.2pct_NQ_+0.6pct` | `SMCI_Q4_CONF_EPS_1.62_+8.5pct_AH` | `CRWV_Q2_CONF_Rev_2.58B_EPS-1.03_+14pct_AH` | `NVDA_PM_222.12_-2.10pct_cup_wk50_no_handle_blackout_Aug19` | `AVGO_414.67_close_Aug11_flat_base_softening` | `Hormuz_DEADLOCKED_WTI_82.13` | `dist_threshold_Aug12_7737.60` | `circuit_breakers_ALL_CLEAR`
+
 **Status:** 🔴 **MARKET IN CORRECTION** *(Aug 11 /eod-review — DIST 6/25 (Jul 7 EXPIRED; no new dist day ✅) — STILL CORRECTION (≥6 rule) — S&P 7,753.11 -0.06% NOT DIST DAY ✅ (threshold 7,742.73; 10.38 pts clear) — QQQ ~$720.87 — 🟢 SMCI Q4 BEAT: EPS $1.62 vs $0.96 (+69%) | FY guide $65-72B vs $52.5B est. | +8.5% AH = NVDA demand CONFIRMED — CRWV results TBD AH — NVDA ~$221-223 est. no handle BLACKOUT Aug 19 — ⚡ CPI JULY TOMORROW Aug 12 8:30 AM ET | Jul 8 expires → 5/25 UNDER PRESSURE (if cool/in-line) — Hormuz DEADLOCKED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~182 BLOCKED — research_source: websearch_fallback | 69th consecutive degraded session)*
 
 **✅ AUG 11 /eod-review (3:15 PM CT — 🔴 CORRECTION UNCHANGED — S&P 7,753.11 -0.06% NOT DIST DAY ✅ (threshold 7,742.73; 10.38 pts clear) — DIST 6/25 (Jul 7 EXPIRED; no new dist day) — QQQ ~$720.87 — 🟢 SMCI Q4 BEAT EPS $1.62 (+69%) | FY guide $65-72B (+38% vs est.) | +8.5% AH — CRWV TBD AH — NVDA ~$221-223 est. no handle — ⚡ CPI AUG 12 KEY BINARY — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~182 BLOCKED):**

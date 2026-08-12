@@ -5916,3 +5916,35 @@ Hormuz: DEADLOCKED — oil elevated
 Tomorrow (Aug 12 CRITICAL): ⚡ CPI July 8:30 AM ET + Jul 8 expires → 5/25 Under Pressure (if cool)
 Dist threshold Aug 12: 7,737.60 | Hot print = new dist #7 risk + Correction extends
 Circuit breakers: NONE | research_source: websearch_fallback
+
+---
+
+🌅 Pre-market 2026-08-12 (Wed)
+Market: 🔴 Correction 6/25 → Jul 8 expires TODAY → 5/25 UNDER PRESSURE pending CPI
+Futures: ES +0.2% | NQ +0.6% — muted, awaiting CPI
+Open positions: 0 | Circuit breakers: NONE | research_source: websearch_fallback
+⚡ CPI JULY 8:30 AM ET — NOT YET RELEASED (consensus +0.1% MoM / +3.4% YoY)
+  → Cool (≤+0.2% MoM): 5/25 Under Pressure confirmed
+  → Hot (+0.3%+ MoM): 6/25 Correction extended (new dist day risk)
+  → Hormuz oil risk = upside risk to energy component
+🟢 SMCI Q4 BEAT CONFIRMED: EPS $1.62 vs $0.96 (+69%) | FY guide $65-72B vs $52.5B | +8.5% AH
+🟢 CRWV Q2 BEAT CONFIRMED: Rev $2.58B (+112%) | EPS -$1.03 vs -$1.21 | Q3 guide $3.45-3.6B | +14% AH
+NVDA demand: FULLY CONFIRMED (SMCI + CRWV = 7th/8th confirmations) | N-letter max 15/15 unchanged
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE (Correction/Under Pressure — no new longs in either state)
+NVDA bench: PM $222.12 -2.10% | cup wk ~50 | NO handle | 79/100 upgrade flag | blackout Aug 19 | window Aug 17-18 ONLY
+AVGO bench: ~$414.67 est. close Aug 11 (flat base softening from ~$427 open; 72-77/100; blackout Aug 22)
+Hormuz: DEADLOCKED | WTI +5% ~$82.13 | stagflation risk elevated
+Plan: ZERO ENTRIES — await CPI print (7:30 AM CT). Process at /market-check 10:00 AM CT. Under Pressure (if confirmed) still blocks all new longs. Natural Uptrend path: ~Aug 19-21.
+
+---
+## 2026-08-12 11:18 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-08-12
+Market: 🔴 Correction 6/25 → Jul 8 expires TODAY → 5/25 Under Pressure pending CPI
+Futures: ES +0.2% | NQ +0.6% muted — awaiting CPI
+⚡ CPI July 8:30 AM ET NOT RELEASED: cons +0.1% MoM / +3.4% YoY
+🟢 SMCI Q4 BEAT: EPS $1.62 vs $0.96 (+69%) | FY guide $65-72B vs $52.5B | +8.5% AH
+🟢 CRWV Q2 BEAT: Rev $2.58B (+112%) | EPS -$1.03 vs -$1.21 | +14% AH
+NVDA PM $222.12 -2.10% | no handle | blackout Aug 19
+Positions: 0 | Circuit breakers: NONE | Plan: ZERO entries — await CPI at /market-check 10 AM CT
