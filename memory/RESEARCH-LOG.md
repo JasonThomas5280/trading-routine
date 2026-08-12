@@ -18671,3 +18671,39 @@ No promotions or demotions.
 - **NEXT: /eod-review 3:15 PM CT** — confirm close vs dist threshold 7,742.12
 
 `market-check_Aug10` | `websearch_fallback` | `Alpaca_Day179_BLOCKED` | `65th_degraded_session` | `75th_zero_action_session` | `SPX_~7766_+0.01pct_NOT_DIST_DAY` | `dist_7of25_UNCHANGED` | `dist_threshold_7742.12_24pts_clear` | `Dow_-0.14pct` | `Nasdaq_-0.11pct` | `Russell_+1.10pct` | `Brent_85.40_+2.14pct_Hormuz_NOT_signed` | `10yr_4.60pct` | `NVDA_~229_+2.27pct_GOLDEN_CROSS_50d_above_200d` | `NVDA_cup_wk48_NO_handle_BLOCKED_blackout_Aug19` | `AVGO_~426_flat_base_blackout_Aug22_72-77est` | `sell_rules_engine_SKIPPED_75th` | `circuit_breakers_ALL_CLEAR` | `25th_consecutive_zero_trade_week`
+
+---
+
+## 2026-08-12 — /eod-review
+
+**Close:** SPY ~$771.00 (+0.30%) | QQQ ~$725.13 (+0.59%)
+**S&P 500 confirmed close:** ~7,776 (+0.30% from 7,753.11)
+**Distribution days:** 5 of 25 trailing sessions (today: NO dist day ✅ — S&P +0.30%, positive close; threshold 7,737.60 — 38 pts buffer)
+**Market state:** 🟡 Under Pressure (5/25) | State transition: NO (unchanged from /market-check this morning; Correction→Under Pressure transition already logged at /market-check)
+**Positions held:** 0
+**Sell-rules-engine:** SKIPPED — 0 positions (85th consecutive skip)
+**Actions today:**
+  - NONE — Under Pressure gate (5/25) + Alpaca Day ~185 BLOCKED + 0 candidates ≥75
+**Circuit breakers:** NONE — ALL CLEAR
+**P&L today:** $0 (0.00%)
+**Equity:** $2,500.00 (HWM — unchanged)
+**Week of Aug 10:** 0/3 new positions | 25th consecutive zero-trade week | 82nd consecutive zero-action session
+
+**Market notes:**
+- Jul 8 dist day expired at today's open → 5/25 confirmed at /market-check
+- S&P closed ~7,776 (+0.30%) on light-to-moderate volume — CPI relief rally held into close
+- 🟢 SMCI: +~15% intraday (Q4 EPS $1.62 vs $0.96 +69%; FY2027 guide $65-72B vs $52.5B est.) → NVDA Blackwell AI demand CONFIRMED ✅
+- 🟢 CRWV: +~20% intraday (Q2 Rev $2.58B +112% YoY; Q3 guide $3.45-3.6B) → NVDA GPU cloud consumption intact ✅
+- NVDA bench: ~$220-222 est. close; cup wk ~50; NO handle; 79/100 est.; blackout Aug 19
+- AVGO bench: ~$416 est. close; flat base holding; 72-77/100 est.; blackout Aug 22; $408-410 failure zone to watch
+- Hormuz: DEADLOCKED — Iran demands reparations; WTI ~$82; oil tail risk on CPI energy component persists
+- Tomorrow: PPI July 8:30 AM ET (Core PPI consensus ~+0.2% MoM) + AMAT earnings AMC
+
+**Dist expiry schedule (active days remaining):**
+- Jul 13 → expires Mon Aug 17 (→ 4/25)
+- Jul 16 → expires Wed Aug 19 (→ 3/25) | NVDA blackout begins same day
+- Jul 17 → expires Thu Aug 21 (→ 2/25)
+- Jul 23 → expires Mon Aug 25 (→ 1/25)
+- Jul 29 → expires Mon Sep 1 (→ 0/25; need FTD for Confirmed Uptrend)
+
+`research_source: websearch_fallback` | `Alpaca_Day185_BLOCKED` | `72nd_degraded_session` | `82nd_zero_action_session`

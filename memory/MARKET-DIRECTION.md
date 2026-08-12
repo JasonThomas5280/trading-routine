@@ -6,7 +6,27 @@
 
 ## Current Status
 
-**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 12 /market-check — DIST 5/25 (Jul 8 EXPIRED — CPI +0.1% MoM COOL/IN-LINE ✅ — NO DIST DAY ✅) — S&P +0.30% ~7,776 est. | Nasdaq +0.59% | Dow +0.11% | Russell +0.32% — NO NEW LONG ENTRIES (Under Pressure) — NVDA ~$220-222 no handle BLACKOUT Aug 19 — AVGO ~$414-420 flat base — Hormuz DEADLOCKED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~184 BLOCKED — research_source: websearch_fallback | 71st consecutive degraded session)*
+**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 12 /eod-review — DIST 5/25 UNCHANGED (NOT dist day ✅ — S&P +0.30% CONF ~7,776 — Jul 8 expired — 5 active dist days) — NO NEW LONG ENTRIES (Under Pressure) — SMCI +15% CRWV +20% AH confirmed AI demand — NVDA ~$220-222 no handle BLACKOUT Aug 19 — AVGO ~$416 flat base — Hormuz DEADLOCKED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~185 BLOCKED — research_source: websearch_fallback | 72nd consecutive degraded session)*
+
+**✅ AUG 12 /eod-review (3:15 PM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P +0.30% CONF ~7,776 NOT DIST DAY ✅ — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~185 BLOCKED):**
+- **Market state: 🟡 UNDER PRESSURE (5/25) UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~185 BLOCKED | 72nd consecutive degraded session
+- **S&P 500 Aug 12 CONFIRMED CLOSE: ~7,776 (+0.30% from 7,753.11)** | Nasdaq +0.59% | Dow +0.11% | Russell +0.32%
+- **Distribution check:** S&P +0.30% = POSITIVE → **NOT a distribution day ✅** | Dist threshold was 7,737.60; actual close ~7,776 = 38 pts buffer ✅
+- **Dist count: 5/25 UNCHANGED** | Active dist days: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **AI demand read-throughs (AH confirms — NOT YET IN SCORE):** 🟢 SMCI +~15% intraday (Q4 beat EPS $1.62 +69%; FY guide $65-72B) | 🟢 CRWV +~20% intraday (Q2 Rev $2.58B +112%) → NVDA GPU demand fully intact ✅
+- **NVDA (~$220-222 est.):** Cup wk ~50; NO handle; 79/100 est.; BLOCKED; blackout Aug 19
+- **AVGO (~$416 est.):** Flat base holding; 72-77/100 est.; blackout Aug 22
+- **Sell-rules-engine: SKIPPED** — 0 positions (85th consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 (0/3 new positions)
+- **Dist threshold Aug 13:** ~7,760.5 (7,776 × 0.998) | PPI tomorrow 8:30 AM ET + AMAT earnings AMC
+- **Transition roadmap (UPDATED Aug 12 /eod-review):**
+  - **Mon Aug 17:** Jul 13 expires → **4/25 Under Pressure** | No Day 1 currently established
+  - **Tue Aug 18:** NVDA entry window CLOSES at COB (blackout begins Aug 19) | CRITICAL: 4 trading days left (Aug 13-18) for NVDA entry if Uptrend fires
+  - **Wed Aug 19:** Jul 16 expires → **3/25 Under Pressure** | NVDA blackout begins
+  - **Thu Aug 21:** Jul 17 expires → **2/25 Under Pressure**
+  - **Natural Uptrend path: ~Aug 19-21** — dist expiry alone gets to 2-3/25; still need FTD to confirm Uptrend. No Day 1 established.
+  - **Post-blackout NVDA entry: Aug 27+** (after Aug 26 AMC earnings; need Uptrend + new base + handle + pivot — likely Sep)
+- `eod-review_Aug12` | `websearch_fallback` | `Alpaca_Day185_BLOCKED` | `72nd_degraded_session` | `85th_zero_action_session` | `SPX_CONF_~7776_+0.30pct_NOT_DIST_DAY` | `Nasdaq_+0.59pct` | `Russell_+0.32pct` | `dist_5of25_UNCHANGED` | `active_dist_days_Jul13_Jul16_Jul17_Jul23_Jul29` | `dist_threshold_Aug13_7760.5` | `SMCI_+15pct_CRWV_+20pct_AH_NVDA_demand_confirmed` | `NVDA_~220-222_cup_wk50_no_handle_79est_blackout_Aug19` | `AVGO_~416_flat_base_blackout_Aug22` | `sell_rules_engine_SKIPPED_85th` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 12 /market-check (10:00 AM CT — 🟡 UNDER PRESSURE CONFIRMED 5/25 — CPI +0.1% MoM COOL ✅ — S&P +0.30% NO DIST DAY ✅ — NO NEW LONGS — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~184 BLOCKED):**
 - **Market state: 🟡 UNDER PRESSURE (5/25) — CONFIRMED** | `research_source: websearch_fallback` | Alpaca Day ~184 BLOCKED | Perplexity 403 | AV 403 | 71st consecutive degraded session

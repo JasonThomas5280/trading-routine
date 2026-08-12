@@ -5962,3 +5962,36 @@ Open positions: 0 | Deployed: 0%
 Weekly trade count: 0/3 used (25th consecutive zero-trade week)
 Key: Aug 17 Jul 13 expires→4/25 | Aug 18 NVDA entry window CLOSES | Aug 19 NVDA blackout + Jul 16 expires→3/25
 Next check: /eod-review 3:15 PM CT
+
+---
+## 2026-08-12 16:00 CT [eod-review]
+
+📊 EOD 2026-08-12 | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions | 100% cash
+Distribution days: 5/25 (market: 🟡 Under Pressure) | NOT a dist day today ✅ (S&P +0.30%)
+Market close: S&P ~7,776 (+0.30%) | Nasdaq +0.59% | Dow +0.11% | SPY ~$771 | QQQ ~$725
+Dist expiry path: Aug 17→4/25 | Aug 19→3/25 (NVDA blackout) | Aug 21→2/25 | Need FTD for Uptrend
+Actions today:
+  • NONE — Under Pressure gate + Alpaca Day 185 BLOCKED + 0 candidates ≥75
+  • Sell-rules-engine: SKIPPED (85th consecutive — 0 positions)
+AI demand read-throughs (bullish):
+  • SMCI +15% (Q4 EPS $1.62 +69%; FY guide $65-72B)
+  • CRWV +20% (Q2 Rev $2.58B +112%)
+  → NVDA Blackwell demand CONFIRMED; score est. 79/100 no handle
+Bench: NVDA ~$220-222 (cup wk50; NO handle; blackout Aug 19) | AVGO ~$416 (flat base; blackout Aug 22)
+Tomorrow: PPI July 8:30 AM ET + AMAT earnings AMC | Dist threshold ~7,760.5
+Next entry window: NO new longs until Confirmed Uptrend (earliest Aug 19-21 natural path + FTD)
+
+---
+## 2026-08-12 20:21 CT [clickup-placeholder]
+
+📊 EOD 2026-08-12 | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions | 100% cash
+Dist days: 5/25 (🟡 Under Pressure) | NOT dist today ✅ (S&P +0.30% ~7,776)
+Market: S&P ~7,776 (+0.30%) | Nasdaq +0.59% | Dow +0.11%
+Dist path: Aug 17→4/25 | Aug 19→3/25 NVDA blackout | Aug 21→2/25 | Need FTD for Uptrend
+Actions: NONE — Under Pressure gate + Alpaca Day 185 BLOCKED
+Sell engine: SKIPPED (85th consecutive — 0 positions)
+AI demand ✅: SMCI +15% (Q4 EPS $1.62 +69%) | CRWV +20% (Q2 Rev $2.58B +112%)
+Bench: NVDA ~$220-222 (cup wk50; no handle; blackout Aug 19) | AVGO ~$416 (flat base; blackout Aug 22)
+Tomorrow: PPI Jul 8:30AM ET + AMAT AMC | dist threshold ~7,760.5
