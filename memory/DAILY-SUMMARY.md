@@ -6041,3 +6041,33 @@ Removed: none
 Key catalysts today: ✅ PPI July COOL (below est.) | ⚡ AMAT earnings AMC (Rev $9.0B / EPS $3.36 est. — AI fab demand read-through for NVDA thesis)
 Plan: NO new entries — Under Pressure gate + Alpaca Day ~186 BLOCKED. Monitor AMAT AH for AI demand read-through. Next gate: Aug 17 (Jul 13 expires → 4/25) | Aug 18 NVDA entry window CLOSES | Aug 19 NVDA blackout + Jul 16 expires → 3/25.
 Alpaca: Day ~186 BLOCKED | research_source: websearch_fallback | 73rd degraded session | 83rd zero-action session
+
+---
+
+📊 EOD 2026-08-13 (Thu) | Equity $2,500.00 (+0.00% day, +0.00% week)
+Open: 0 positions, 100% cash | 🟡 UNDER PRESSURE 5/25 UNCHANGED
+S&P 500: 7,798.99 +0.65% 🏆 NEW ATH (cleared 7,800 intraday for first time ever) | Nasdaq: 26,803.03 +0.81% | QQQ: ~$730.28 +0.89%
+Distribution days: 5 of 25 (today: NOT dist day ✅ — threshold 7,760.5; 38.5 pts clear)
+Sell engine: SKIPPED (88th consecutive — 0 positions)
+Circuit breakers: NONE — ALL CLEAR
+Actions today: NONE — Under Pressure gate + Alpaca Day ~187 BLOCKED
+AMAT AMC: Reports 4:30 PM ET (AFTER this window) — Rev $9.0B / EPS $3.36-3.39 est. — assess /pre-market Aug 14
+Bench: NVDA ~$226.09 +0.89% (cup wk52; NO handle; blackout Aug 19 — entry window effectively CLOSED all gates blocked) | AVGO ~$428 +~1.2% (flat base intact; blackout Aug 22 — 6 day window Aug 14-21)
+Tomorrow: Retail Sales + UMich | dist threshold ~7,782.99 | AMAT results digest | Aug 17→Jul13 expires→4/25 | Aug 18→NVDA window CLOSES | Aug 19→NVDA blackout+Jul16→3/25 | Uptrend path: ~Aug 19-21
+Alpaca: Day ~187 BLOCKED | research_source: websearch_fallback | 75th degraded session | 87th zero-action session | 25th zero-trade week
+
+---
+## 2026-08-13 20:31 CT [clickup-placeholder]
+
+📊 EOD 2026-08-13 (Thu) | Equity $2,500 (+0% day/week)
+Open: 0 positions, 100% cash | 🟡 UNDER PRESSURE 5/25 UNCHANGED
+S&P 7,798.99 +0.65% 🏆 NEW ATH (first-ever 7,800 intraday) | Nasdaq 26,803 +0.81%
+Dist: 5/25 UNCHANGED — NOT dist day ✅ (threshold 7,760.5; +38.5 pts clear)
+Actions: NONE — Under Pressure + Alpaca Day ~187 BLOCKED
+Sell engine: SKIPPED (88th — 0 positions)
+AMAT AMC: 4:30 PM ET not yet released — assess /pre-market Aug 14
+NVDA ~$226 cup wk52 no handle BLACKOUT Aug 19 (window effectively CLOSED)
+AVGO ~$428 flat base intact blackout Aug 22
+Tomorrow: Retail Sales + UMich | dist threshold ~7,783 | Aug 17→4/25 | Aug 19→NVDA blackout+3/25
+Uptrend path: ~Aug 19-21 (need FTD, no Day 1 established)
+Circuit breakers: ALL CLEAR | HWM $2,500 | 25th zero-trade week

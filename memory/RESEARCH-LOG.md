@@ -198,6 +198,88 @@ Read-through: beat = AI fab demand confirmed → NVDA Blackwell thesis intact �
 
 ---
 
+## 2026-08-13 (Thu) — /eod-review (3:15 PM CT) — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P 7,798.99 +0.65% NEW ATH NOT DIST DAY ✅ — NVDA ~$226.09 — AMAT AMC NOT YET RELEASED — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~187 BLOCKED | Perplexity 403 | AV 403 — 75th consecutive degraded session)
+**Market direction pull:** 🟡 UNDER PRESSURE (5/25) — NO NEW LONG ENTRIES
+
+## 2026-08-13 — /eod-review
+
+**Close:** SPY/S&P $7,798.99 (+0.65% NEW ATH) | QQQ $730.28 (+0.89%) | Nasdaq 26,803.03 (+0.81%)
+**Distribution days:** 5 of 25 trailing sessions (today: NO new dist day ✅ — threshold 7,760.5; close 38.5 pts clear)
+**Market state:** Uptrend Under Pressure (UNCHANGED — no transition today)
+**Positions held:** 0
+**Actions today:**
+  - SELL-RULES-ENGINE: SKIPPED (88th consecutive — 0 open positions)
+  - No buys, sells, or stop adjustments
+**Circuit breakers:** NONE — ALL CLEAR
+**P&L today:** $0 (0%)
+**Equity:** $2,500.00 (HWM — no change)
+
+### Distribution day audit (Aug 13)
+
+- S&P close: **7,798.99** (+0.65% from prior close ~7,776)
+- Dist threshold: **7,760.5** (prior close × 0.998)
+- Buffer: **+38.5 pts** — well clear ✅
+- Volume: N/A (Alpaca BLOCKED; positive close = dist impossible regardless)
+- **Verdict: NOT a distribution day ✅**
+- **Dist count: 5/25 UNCHANGED**
+- Active dist days: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **State: 🟡 UNDER PRESSURE — UNCHANGED**
+
+### Sell-rules-engine output (EOD full eval)
+
+```json
+{
+  "batch_evaluated": 0,
+  "results": [],
+  "note": "0 open positions — all 8 rules + stop-tightening skipped (88th consecutive skip)",
+  "market_level_triggers": {
+    "distribution_days": 5,
+    "state": "UNDER_PRESSURE"
+  }
+}
+```
+
+### AMAT earnings (AMC — NOT YET RELEASED at 3:15 PM CT)
+
+- Conference call 4:30 PM ET (30 min after this window)
+- Consensus: Rev $9.0B / EPS $3.36-3.39
+- Company guided: $8.95B midpoint / $3.36 midpoint EPS
+- 5 consecutive EPS beats; FCF miss pattern persists (watch)
+- Read-through: beat → AI fab demand confirmed → NVDA Blackwell demand intact → N-letter unchanged (max 15/15)
+- **Assess at /pre-market Aug 14**
+
+### Bench watch (EOD snapshot)
+
+| Name | EOD est. | Score | Status |
+|---|---|---|---|
+| NVDA | ~$226.09 (+0.89%) | 79/100 est. (no handle) | Cup wk52; no handle; BLACKOUT Aug 19; entry window EFFECTIVELY CLOSED |
+| AVGO | ~$428 est. (+~1.2%) | 72-77/100 est. | Flat base intact; blackout Aug 22; window: Aug 14-21 if Uptrend |
+
+### Transition roadmap (EOD Aug 13)
+
+- **Fri Aug 14:** Retail Sales + UMich consumer sentiment | Dist threshold: ~7,782.99 | AMAT results digest
+- **Mon Aug 17:** Jul 13 expires → **4/25 Under Pressure** | No Day 1 established
+- **Tue Aug 18:** NVDA entry window CLOSES at EOB (last day before blackout) — all gates BLOCKED; treat as IMPOSSIBLE
+- **Wed Aug 19:** Jul 16 expires → **3/25 Under Pressure** | NVDA blackout begins
+- **Thu Aug 21:** Jul 17 expires → **2/25 Under Pressure**
+- **Natural Uptrend: ~Aug 19-21** (if no new dist days + FTD established). **No Day 1 currently.**
+- **Post-blackout NVDA: Aug 27+** (after Aug 26 earnings; need Uptrend + new base + handle + pivot — likely Sep)
+- **AVGO window: Aug 14-21** (6 trading days; blackout Aug 22)
+
+### Portfolio-level checks
+
+- Max positions: 0 of 4 ✅
+- Cash: 100% ✅ (>10% floor requirement met)
+- Hedge entry: N/A — state is Under Pressure but no positions to hedge; no capital deployed
+- Circuit breakers: ALL CLEAR
+- PDT counter: 0 of 3
+
+`eod-review_Aug13` | `websearch_fallback` | `Alpaca_Day187_BLOCKED` | `75th_degraded_session` | `87th_zero_action_session` | `88th_sell_rules_skip` | `SPX_CONF_7798.99_+0.65pct_NEW_ATH` | `Nasdaq_26803.03_+0.81pct` | `QQQ_730.28_+0.89pct` | `dist_5of25_UNCHANGED` | `dist_threshold_Aug14_7782.99` | `NVDA_~226.09_cup_wk52_no_handle_blackout_Aug19` | `AVGO_~428_flat_base_intact` | `AMAT_AMC_not_released_assess_pre-market_Aug14` | `circuit_breakers_ALL_CLEAR` | `equity_2500_HWM`
+
+---
+
 ## 2026-08-12 (Wed) — /pre-market (6:00 AM CT) — ⚡ CPI JULY 8:30 AM ET KEY BINARY (NOT YET RELEASED) — Jul 8 EXPIRES TODAY → 5/25 UNDER PRESSURE (IF COOL) — 🟢 SMCI Q4 BEAT +8.5% AH CONF | 🟢 CRWV Q2 BEAT +14% AH CONF → NVDA DEMAND CONFIRMED — ES +0.2% NQ +0.6% — NVDA PM $222.12 -2.10% — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~183 BLOCKED | Perplexity 403 | AV 403 — 70th consecutive degraded session)

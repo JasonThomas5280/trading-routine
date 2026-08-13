@@ -6,7 +6,32 @@
 
 ## Current Status
 
-**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 13 /market-check — DIST 5/25 UNCHANGED — S&P ~+0.2-0.3% intraday NOT DIST DAY ✅ (new ATH territory) — NVDA ~$224 +3.0% no handle BLACKOUT Aug 19 — AVGO ~$423 +1.7% flat base intact — AMAT earnings AMC tonight (not yet released) — NO NEW LONG ENTRIES — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~186 BLOCKED — research_source: websearch_fallback | 74th consecutive degraded session)*
+**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 13 /eod-review — DIST 5/25 UNCHANGED — S&P 7,798.99 +0.65% NEW ATH (cleared 7,800 intraday for first time) NOT DIST DAY ✅ (threshold 7,760.5; 38.5 pts clear) — QQQ ~$730.28 +0.89% — NVDA ~$226.09 +0.89% cup wk52 no handle BLACKOUT Aug 19 — AVGO flat base intact — AMAT AMC tonight not yet released — NO NEW LONG ENTRIES — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~187 BLOCKED — research_source: websearch_fallback | 75th consecutive degraded session)*
+
+**✅ AUG 13 /eod-review (3:15 PM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P 7,798.99 +0.65% NEW ATH NOT DIST DAY ✅ — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~187 BLOCKED):**
+- **Market state: 🟡 UNDER PRESSURE (5/25) UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~187 BLOCKED | 75th consecutive degraded session
+- **S&P 500 Aug 13 CONFIRMED CLOSE: ~7,798.99 (+0.65%)** | Nasdaq 26,803.03 (+0.81%) | QQQ ~$730.28 (+0.89% from $723.70)
+  - **NEW ATH: S&P cleared 7,800 for the first time intraday** — closed just below at 7,798.99 ✅
+  - **Distribution check:** S&P +0.65% = POSITIVE → **NOT a distribution day ✅** | Threshold 7,760.5; 38.5 pts buffer ✅
+  - **Dist count: 5/25 UNCHANGED** | Active dist days: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+  - **Market state: 🟡 UNDER PRESSURE UNCHANGED** | No state transition today
+  - **Dist threshold Aug 14:** ~7,782.99 (7,798.99 × 0.998) | ~38 pt buffer if market holds
+- **AMAT earnings AMC TONIGHT:** Q3 FY2026 Rev est. $9.0B / EPS est. $3.36-3.39 | Conference call 4:30 PM ET = AFTER this review window | Read-through for NVDA demand thesis at /pre-market Aug 14
+- **Abort gates: (1) Under Pressure → no new long entries | (2) Alpaca BLOCKED (Day ~187) → no execution | (3) 0 candidates ≥75 threshold** | 0 actions | 87th consecutive zero-action session
+- **NVDA (~$226.09 est., +0.89%):** Cup wk ~52; NO handle; 79/100 est. | Blackout Aug 19 → entry window NOW CLOSED (last day was Aug 18; **today is final entry day but ALL gates BLOCKED**) | All sessions used; post-blackout: Aug 27+ | No action
+- **AVGO (~$428 est. +~1.2%):** Flat base intact; no handle; blackout Aug 22 | 5 trading days remain in entry window (if Uptrend fires Aug 14-18) | No action
+- **Sell-rules-engine: SKIPPED** — 0 positions (88th consecutive skip)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0
+- **Transition roadmap (UPDATED Aug 13 /eod-review):**
+  - **Fri Aug 14:** Retail Sales + UMich consumer sentiment | No dist expiry | **Dist threshold: ~7,782.99**
+  - **Mon Aug 17:** Jul 13 expires → **4/25 Under Pressure** | No Day 1 currently established
+  - **Tue Aug 18:** Last day of NVDA entry window before blackout — IMPOSSIBLE (no Uptrend + no handle + Alpaca BLOCKED)
+  - **Wed Aug 19:** Jul 16 expires → **3/25 Under Pressure** | NVDA blackout begins | NVDA entry now post-Aug 26 earnings
+  - **Thu Aug 21:** Jul 17 expires → **2/25 Under Pressure**
+  - **Natural Uptrend path: ~Aug 19-21** — still need FTD. No Day 1 currently established.
+  - **Post-blackout NVDA entry: Aug 27+** (after Aug 26 AMC earnings; need Uptrend + new base + handle + pivot — likely Sep)
+  - **AVGO window: Aug 14-21** (6 trading days if Uptrend fires; blackout Aug 22)
+- `eod-review_Aug13` | `websearch_fallback` | `Alpaca_Day187_BLOCKED` | `75th_degraded_session` | `87th_zero_action_session` | `SPX_CONF_7798.99_+0.65pct_NEW_ATH_NOT_DIST_DAY` | `Nasdaq_26803.03_+0.81pct` | `QQQ_730.28_+0.89pct` | `dist_5of25_UNCHANGED` | `dist_threshold_Aug14_7782.99` | `NVDA_~226.09_+0.89pct_cup_wk52_no_handle_blackout_Aug19` | `AVGO_~428_flat_base_intact` | `AMAT_AMC_tonight_not_yet_released` | `sell_rules_engine_SKIPPED_88th` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 13 /market-check (10:00 AM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P ~+0.2-0.3% NOT DIST DAY ✅ — NEW ATH TERRITORY — NO NEW LONGS — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~186 BLOCKED):**
 - **Market state: 🟡 UNDER PRESSURE (5/25) UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~186 BLOCKED | 74th consecutive degraded session
