@@ -1,5 +1,38 @@
 
 ---
+## 2026-08-13 10:00 CT [market-check — 🟡 UNDER PRESSURE 5/25 UNCHANGED — NOT DIST DAY ✅ NEW ATH TERRITORY — NVDA ~$224 +3.0% — AVGO ~$423 +1.7% — AMAT AMC TONIGHT — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-08-13 10:00 CT
+Market: 🟡 Under Pressure (5/25 dist days) | Circuit breakers: NONE
+Alpaca: Day ~186 BLOCKED | Perplexity: 403 | AV: 403 | 74th degraded session
+
+Actions taken:
+  ⬜ No new entries — ABORT: Under Pressure gate (5/25) + Alpaca BLOCKED (Day ~186) + 0 candidates ≥75
+  ⬜ Sell-rules-engine: SKIPPED (0 open positions — 86th consecutive skip)
+
+S&P 500 data:
+  Aug 13 intraday ~10:00 AM CT: ~7,790-7,800 est. (+~0.2-0.3% from 7,776 close) | NEW ATH TERRITORY ✅
+  NOT a distribution day ✅ (S&P positive; threshold 7,760.5; ~35-40 pts buffer)
+  Dist count: 5/25 UNCHANGED | Active: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+
+Bench status:
+  NVDA: ~$224.09 (+3.0%) | Range $220.20-$225.10 | Cup wk~51 NO handle | BLACKOUT Aug 19 | BLOCKED
+  AVGO: ~$423.13 (+1.7%) | Flat base intact | $408-410 danger zone clear ✅ | BLACKOUT Aug 22 | BLOCKED
+  INTC/ARM/MRVL/GOOGL: All below 75 threshold — no action
+
+AMAT earnings AMC tonight (not yet released):
+  Est. Rev $9.0B / EPS $3.36-$3.39 | AI fab demand read-through | Assess at /eod-review
+
+Key catalyst:
+  Fed Sep rate hike prob: ~35% (↓ from ~50%; back-to-back cool CPI+PPI prints)
+  Hormuz: DEADLOCKED | WTI ~$82 | No deal signed
+
+Watchlist status: 0 primary (NONE), 2 watching (NVDA cup wk51, AVGO flat base), 4 below threshold
+Open positions: 0 / 0% deployed
+Weekly trade count: 0 of 3 used (25th consecutive zero-trade week)
+Next check: /eod-review 3:15 PM CT (AMAT AH results + dist check)
+
+---
 ## 2026-08-06 10:00 CT [market-check — 🔴 CORRECTION 7/25 — ⚡ FTD DAY 6 NOT CONFIRMED — NOT DIST DAY ✅ — JOBLESS CLAIMS 226K — 🕊️ HORMUZ ON VERGE — NVDA ~$221 5 GREEN DAYS — FTD DAY 7 NFP LAST — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-08-06 10:00 CT

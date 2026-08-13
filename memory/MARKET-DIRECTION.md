@@ -6,7 +6,38 @@
 
 ## Current Status
 
-**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 13 /pre-market — DIST 5/25 UNCHANGED — PPI July COOL ✅ — ES +0.2% NQ +0.13% — NVDA PM ~$220.49 (+1.4%) — AMAT earnings AMC tonight — NO NEW LONG ENTRIES — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~186 BLOCKED — research_source: websearch_fallback | 73rd consecutive degraded session)*
+**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 13 /market-check — DIST 5/25 UNCHANGED — S&P ~+0.2-0.3% intraday NOT DIST DAY ✅ (new ATH territory) — NVDA ~$224 +3.0% no handle BLACKOUT Aug 19 — AVGO ~$423 +1.7% flat base intact — AMAT earnings AMC tonight (not yet released) — NO NEW LONG ENTRIES — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~186 BLOCKED — research_source: websearch_fallback | 74th consecutive degraded session)*
+
+**✅ AUG 13 /market-check (10:00 AM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P ~+0.2-0.3% NOT DIST DAY ✅ — NEW ATH TERRITORY — NO NEW LONGS — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~186 BLOCKED):**
+- **Market state: 🟡 UNDER PRESSURE (5/25) UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~186 BLOCKED | 74th consecutive degraded session
+- **Abort gates: ALL FIRED → skip to summary**
+  - **Gate 1: Under Pressure (5/25)** → NO NEW LONG ENTRIES ❌
+  - **Gate 2: Alpaca BLOCKED (Day ~186)** → No order execution ❌
+  - **Gate 3: 0 candidates ≥75** → No actionable setups ❌ (NVDA no handle; all others below threshold)
+  - **Gate 4: Research DEGRADED (websearch_fallback, 74th session)** — sells still allowed but no new setups
+- **S&P 500 Aug 13 intraday (~10:00 AM CT):** ~7,790-7,800 est. (+~0.2-0.3% from 7,776 close) | Dow +0.3% | Nasdaq +1% | Fresh all-time intraday high territory
+  - **Distribution check:** S&P POSITIVE (+~0.2-0.3%) → **NOT a distribution day ✅** | Threshold 7,760.5; ~30-40 pts of buffer ✅
+  - **Dist count: 5/25 UNCHANGED** | Active dist days: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **Overnight/morning catalyst:** PPI July COOL confirmed (pre-market). Market digesting cool CPI (Aug 12) + PPI (Aug 13) = back-to-back disinflationary prints. Fed rate-hike probability for Sep fell to ~35% (from ~50%). Bond yields down.
+- **Watchlist trigger check: SKIPPED** (Gate 1 Under Pressure + Gate 2 Alpaca BLOCKED + Gate 3 no candidates ≥75)
+- **Sell-rules-engine: SKIPPED** (0 positions — 86th consecutive skip)
+- **Bench health check (intraday ~10:00 AM CT):**
+  - **NVDA (~$224.09, +3.0% from $217.50 close):** Range $220.20-$225.10 | Cup wk ~51; NO handle; no pivot → BLOCKED | Approaching ATH $236.54 (~5.5% away) | Blackout Aug 19 → entry window Aug 13-18 (4 days left, ALL gates BLOCKED). No action.
+  - **AVGO (~$423.13, +1.7%):** Range $410.76-$427.58; open $420.34 | Flat base intact; ⚠️ $408-410 failure zone still well below price ✅ | Blackout Aug 22 (7 trading days remaining in window if Uptrend fires). No action.
+  - **INTC (46/100 ❌), ARM (60-70/100 ❌), MRVL (15-25/100 ❌), GOOGL (60-65/100 ❌):** Below threshold — no action.
+- **Bench promotions/demotions:** NONE | NVDA no handle = no pivot = not within 2% criteria | AVGO no handle = no defined pivot | No changes to watchlist.
+- **AMAT earnings AMC TONIGHT (Q3 FY2026):** Rev est. $9.0B / EPS est. $3.36-$3.39 | **Reports AFTER CLOSE TODAY** (not yet released) | Read-through: beat → AI fab demand intact → NVDA Blackwell demand confirmed → N-letter unchanged | Assess at /eod-review.
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 (0/3 trades)
+- **Dist threshold Aug 14:** ~7,776 × 0.998 = ~7,760 (if S&P closes near current levels ~7,796 → new dist threshold ~7,780) | AMAT beat expected to keep market positive → dist risk LOW
+- **Transition roadmap (UNCHANGED):**
+  - **Fri Aug 14:** Retail Sales + UMich consumer sentiment | No dist expiry
+  - **Mon Aug 17:** Jul 13 expires → **4/25 Under Pressure** | No Day 1 currently established
+  - **Tue Aug 18:** NVDA entry window CLOSES (last day before blackout) — 3 trading days left (Aug 14, 17, 18)
+  - **Wed Aug 19:** Jul 16 expires → **3/25 Under Pressure** | NVDA blackout begins
+  - **Thu Aug 21:** Jul 17 expires → **2/25 Under Pressure**
+  - **Natural Uptrend path: ~Aug 19-21** — still need FTD. No Day 1 currently established.
+  - **Post-blackout NVDA: Aug 27+** (after Aug 26 AMC earnings; need Uptrend + new base + handle + pivot — likely Sep)
+- `market-check_Aug13` | `websearch_fallback` | `Alpaca_Day186_BLOCKED` | `74th_degraded_session` | `86th_zero_action_session` | `SPX_~7790-7800_+0.2-0.3pct_NOT_DIST_DAY_new_ATH_territory` | `Nasdaq_+1pct` | `dist_5of25_UNCHANGED` | `dist_threshold_Aug13_7760.5_CLEARED` | `NVDA_~224_+3pct_cup_wk51_no_handle_blackout_Aug19` | `AVGO_~423_+1.7pct_flat_base_intact` | `AMAT_AMC_tonight_not_yet_released` | `Fed_Sep_hike_35pct_prob_down_from_50pct` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 13 /pre-market (6:00 AM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — PPI July COOL ✅ — ES +0.2% NQ +0.13% — NVDA PM ~$220.49 +1.4% — AMAT earnings AMC TONIGHT — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~186 BLOCKED):**
 - **Market state: 🟡 UNDER PRESSURE (5/25) UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~186 BLOCKED | 73rd consecutive degraded session

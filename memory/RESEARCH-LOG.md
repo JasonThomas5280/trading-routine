@@ -127,6 +127,77 @@ N/A (0 positions)
 
 ---
 
+## 2026-08-13 (Thu) — /market-check (10:00 AM CT) — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P ~+0.2-0.3% NOT DIST DAY ✅ — NEW ATH TERRITORY — NVDA ~$224 +3.0% — AVGO ~$423 +1.7% — AMAT AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~186 BLOCKED | Perplexity 403 | AV 403 — 74th consecutive degraded session)
+**Market direction pull:** 🟡 UNDER PRESSURE (5/25) — NO NEW LONG ENTRIES
+
+### Abort gate assessment (10:00 AM CT)
+
+| Gate | Status |
+|---|---|
+| Market state (Under Pressure 5/25) | ❌ FIRED — no new long entries |
+| Research (websearch_fallback) | ⚠️ DEGRADED — 74th session; no new entries flagged |
+| Daily circuit breaker | ✅ CLEAR — S&P +0.2-0.3% (market up) |
+| Weekly circuit breaker | ✅ CLEAR — 0/3 trades; equity $2,500 (HWM) |
+| Drawdown halt | ✅ CLEAR — 0% drawdown |
+| Weekly trade count | ✅ CLEAR — 0/3 used |
+| Position count | ✅ CLEAR — 0 of 4 |
+| Alpaca BLOCKED | ❌ FIRED — Day ~186 BLOCKED; no execution |
+
+**Result: Gates 1+2 fire → skip to summary. No trades.**
+
+### Watchlist trigger check: SKIPPED
+
+Under Pressure gate (1) + Alpaca BLOCKED (2) + 0 candidates ≥75 (3) → no evaluation needed.
+
+### Mid-morning position health check: SKIPPED
+
+0 positions (86th consecutive skip). No sell-rules-engine needed.
+
+### Bench health (intraday ~10:00 AM CT / 11:00 AM ET)
+
+**NVDA (~$224.09, +3.0%):**
+- Range $220.20-$225.10 | Prior close $217.50 | 52-wk ATH $236.54 (~5.5% away)
+- Cup wk ~51; NO handle formed; no pivot → no valid entry trigger regardless of market state
+- Entry window: Aug 13-18 (4 trading days remain) — ALL blocked: No Uptrend + No handle + Alpaca BLOCKED
+- Blackout Aug 19 (earnings Aug 26 AMC); next possible entry: Aug 27+ post-earnings with new base
+- Status: 🟡 WATCHING | No action
+
+**AVGO (~$423.13, +1.7%):**
+- Range $410.76-$427.58; open $420.34 | 52-wk high $495.00
+- Flat base intact; ⚠️ $408-410 danger zone well below current price ✅ (13+ pts buffer)
+- Blackout Aug 22 (6 trading days remain in window if Uptrend fires — impossible today)
+- Status: 🟡 WATCHING | Flat base healthy | No action
+
+**INTC (46/100 ❌) | ARM (60-70/100 est. ❌) | MRVL (15-25/100 ❌) | GOOGL (60-65/100 ❌):** Below threshold — no action.
+
+### Bench promotions/demotions: NONE
+
+NVDA: no handle = no pivot = cannot be within 2% of pivot. AVGO: no handle = no defined pivot. No changes.
+
+### Market data (10:00 AM CT est.)
+
+- S&P 500: ~7,790-7,800 est. (+~0.2-0.3% from 7,776 close) | **Fresh all-time intraday high territory**
+- Nasdaq: +1.0% | Dow: +0.3%
+- Dist threshold: 7,760.5 | S&P ~35-40 pts above → **NOT a distribution day ✅**
+- 10yr yield: ~4.14% (down 6 bps) | Fed Sep hike prob: ~35% (was ~50% before CPI+PPI)
+- Dist count: **5/25 UNCHANGED** | Active: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+
+### AMAT AMC tonight
+
+Q3 FY2026 — Rev est. $9.0B (±$500M) / EPS est. $3.36-$3.39 / consensus $3.42
+Company forward guidance: >30% semi-equipment growth + >50% packaging revenue growth in 2026
+Stock closed Aug 12 at $546.25 (-0.35%). Down ~27% from peak → low bar for beat-and-rally.
+**Reports AFTER CLOSE TODAY.** Assess at /eod-review 3:15 PM CT.
+Read-through: beat = AI fab demand confirmed → NVDA Blackwell thesis intact → N-letter unchanged max 15/15.
+
+### Summary
+
+`market-check_Aug13` | `websearch_fallback` | `Alpaca_Day186_BLOCKED` | `74th_degraded_session` | `84th_zero_action_session` | `SPX_~7790-7800_+0.2-0.3pct_NOT_DIST_DAY_new_ATH` | `Nasdaq_+1pct` | `dist_5of25_UNCHANGED` | `NVDA_~224.09_+3pct_range_220.20-225.10_cup_wk51_no_handle_blackout_Aug19` | `AVGO_~423.13_+1.7pct_flat_base_intact` | `AMAT_AMC_tonight_not_released` | `Fed_Sep_hike_35pct` | `bench_promotions_NONE` | `circuit_breakers_ALL_CLEAR`
+
+---
+
 ## 2026-08-12 (Wed) — /pre-market (6:00 AM CT) — ⚡ CPI JULY 8:30 AM ET KEY BINARY (NOT YET RELEASED) — Jul 8 EXPIRES TODAY → 5/25 UNDER PRESSURE (IF COOL) — 🟢 SMCI Q4 BEAT +8.5% AH CONF | 🟢 CRWV Q2 BEAT +14% AH CONF → NVDA DEMAND CONFIRMED — ES +0.2% NQ +0.6% — NVDA PM $222.12 -2.10% — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~183 BLOCKED | Perplexity 403 | AV 403 — 70th consecutive degraded session)
