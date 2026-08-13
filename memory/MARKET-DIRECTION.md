@@ -6,7 +6,28 @@
 
 ## Current Status
 
-**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 12 /eod-review — DIST 5/25 UNCHANGED (NOT dist day ✅ — S&P +0.30% CONF ~7,776 — Jul 8 expired — 5 active dist days) — NO NEW LONG ENTRIES (Under Pressure) — SMCI +15% CRWV +20% AH confirmed AI demand — NVDA ~$220-222 no handle BLACKOUT Aug 19 — AVGO ~$416 flat base — Hormuz DEADLOCKED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~185 BLOCKED — research_source: websearch_fallback | 72nd consecutive degraded session)*
+**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 13 /pre-market — DIST 5/25 UNCHANGED — PPI July COOL ✅ — ES +0.2% NQ +0.13% — NVDA PM ~$220.49 (+1.4%) — AMAT earnings AMC tonight — NO NEW LONG ENTRIES — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~186 BLOCKED — research_source: websearch_fallback | 73rd consecutive degraded session)*
+
+**✅ AUG 13 /pre-market (6:00 AM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — PPI July COOL ✅ — ES +0.2% NQ +0.13% — NVDA PM ~$220.49 +1.4% — AMAT earnings AMC TONIGHT — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~186 BLOCKED):**
+- **Market state: 🟡 UNDER PRESSURE (5/25) UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~186 BLOCKED | 73rd consecutive degraded session
+- **Abort gates: (1) Under Pressure → no new long entries | (2) Alpaca BLOCKED → no execution | (3) 0 candidates ≥75** | Zero actions | 83rd consecutive zero-action session
+- **PPI July 2026 — RELEASED (cool print ✅):** Came in slightly below expectations; specific numbers: consensus was +0.1% MoM headline / +0.3% core (prior June -0.3% MoM). Result confirms disinflationary trend from Aug 12 CPI (+0.1%/+3.4%). No new dist day risk. Market opens modestly positive.
+- **Futures:** ES +0.2% | NQ +0.13% | S&P open est. ~7,791 | Dist threshold **~7,760.5** (31 pt buffer — dist risk VERY LOW)
+- **NVDA (~$220.49 PM):** Cup wk ~51; NO handle; 79/100 est.; BLOCKED; blackout Aug 19 → **Today is Day 1 of final 4-day entry window (Aug 13-18)** — IMPOSSIBLE with current constraints (No Uptrend + No handle + Alpaca BLOCKED). Post-blackout: Aug 27+.
+- **AVGO (~$416 est.):** Flat base intact; blackout Aug 22; blocked
+- **AMAT earnings AMC tonight:** Q3 FY2026 — Rev est. $9.0B / EPS est. $3.36-$3.39. AI semiconductor equipment read-through for NVDA demand thesis. Watch at /eod-review.
+- **Hormuz: DEADLOCKED** — no deal signed; Iran demands reparations; WTI ~$82 elevated
+- **Dist count: 5/25** | Active dist days: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | PDT: 0/3
+- **Transition roadmap:**
+  - **Fri Aug 14:** Retail Sales + UMich consumer sentiment | No dist expiry
+  - **Mon Aug 17:** Jul 13 expires → **4/25 Under Pressure** | No Day 1 established
+  - **Tue Aug 18:** NVDA entry window CLOSES at COB — **CRITICAL: only 4 trading days remain (Aug 13-18)**
+  - **Wed Aug 19:** Jul 16 expires → **3/25 Under Pressure** | NVDA blackout begins
+  - **Thu Aug 21:** Jul 17 expires → **2/25 Under Pressure** (assuming no new dist days)
+  - **Natural Uptrend path: ~Aug 19-21** — need FTD + dist to 2-3/25. **No Day 1 currently established.**
+  - **Post-blackout NVDA: Aug 27+** (after Aug 26 earnings; need Uptrend + new base + handle + pivot — likely Sep)
+- `pre-market_Aug13` | `websearch_fallback` | `Alpaca_Day186_BLOCKED` | `73rd_degraded_session` | `83rd_zero_action_session` | `dist_5of25_UNCHANGED` | `dist_threshold_Aug13_7760.5` | `PPI_Jul_COOL` | `ES_+0.2pct_NQ_+0.13pct` | `NVDA_PM_220.49_+1.4pct_cup_wk51_no_handle_blackout_Aug19` | `AVGO_~416_flat_base` | `AMAT_earnings_AMC_TONIGHT` | `Hormuz_DEADLOCKED` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 12 /eod-review (3:15 PM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P +0.30% CONF ~7,776 NOT DIST DAY ✅ — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~185 BLOCKED):**
 - **Market state: 🟡 UNDER PRESSURE (5/25) UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~185 BLOCKED | 72nd consecutive degraded session

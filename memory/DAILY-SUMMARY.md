@@ -5995,3 +5995,16 @@ Sell engine: SKIPPED (85th consecutive — 0 positions)
 AI demand ✅: SMCI +15% (Q4 EPS $1.62 +69%) | CRWV +20% (Q2 Rev $2.58B +112%)
 Bench: NVDA ~$220-222 (cup wk50; no handle; blackout Aug 19) | AVGO ~$416 (flat base; blackout Aug 22)
 Tomorrow: PPI Jul 8:30AM ET + AMAT AMC | dist threshold ~7,760.5
+
+---
+
+🌅 Pre-market 2026-08-13 (Thu)
+Market: 🟡 UNDER PRESSURE 5/25 UNCHANGED | Futures: ES +0.2% NQ +0.13%
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE (Under Pressure gate — no new longs)
+Watchlist watching: NVDA 🟡 ~$220.49 PM (+1.4%; cup wk51; no handle; blackout Aug 19) | AVGO 🟡 ~$416 (flat base; blackout Aug 22)
+Removed: none
+Key catalysts today: ✅ PPI July COOL (below est.) | ⚡ AMAT earnings AMC (Rev $9.0B / EPS $3.36 est. — AI fab demand read-through for NVDA thesis)
+Plan: NO new entries — Under Pressure gate + Alpaca Day ~186 BLOCKED. Monitor AMAT AH for AI demand read-through. Next gate: Aug 17 (Jul 13 expires → 4/25) | Aug 18 NVDA entry window CLOSES | Aug 19 NVDA blackout + Jul 16 expires → 3/25.
+Alpaca: Day ~186 BLOCKED | research_source: websearch_fallback | 73rd degraded session | 83rd zero-action session

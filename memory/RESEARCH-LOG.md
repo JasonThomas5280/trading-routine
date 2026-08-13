@@ -46,6 +46,87 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-13 (Thu) — /pre-market (6:00 AM CT) — 🟡 UNDER PRESSURE 5/25 UNCHANGED — PPI July COOL (below est.) ✅ — ES +0.2% NQ +0.13% — NVDA PM ~$220.49 (+1.4%) — AMAT earnings AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~186 BLOCKED | Perplexity 403 | AV 403 — 73rd consecutive degraded session)
+**Market direction pull:** 🟡 UNDER PRESSURE (5/25) — NO NEW LONG ENTRIES
+**Sector leaders (top 3):** XLK (Technology), XLV (Healthcare), XLI (Industrials) — UNCHANGED
+
+### Step 1: Overnight gap check on open positions
+
+**Positions: 0** | Gap check SKIPPED (36th consecutive zero-position pre-market)
+
+### Step 2: Catalyst scan — open positions
+
+N/A (0 positions)
+
+### Step 3: Catalyst scan — watchlist / bench names
+
+**NVDA (bench, 79/100 est., no handle):**
+- **PM Aug 13: ~$220.49** (+$2.99 / +1.4% from Aug 12 close ~$217.50 confirmed) | Benzinga: "Nvidia Stock Jumps 3% Premarket, Eyes Breaking All-Time Highs" (peaked higher overnight; PM range ~$220-225)
+- Cramer (CNBC Aug 12): "very good chance of breaking out" — resistance at $211-$214 zone broken
+- 52-wk ATH $236.54 → still ~7% above PM price; cup wk ~51; **NO handle** → no pivot → no valid entry trigger
+- Thesis intact: $500B AI deal + SMCI/CRWV beats = 7th/8th AI demand confirmations. N-letter max 15/15 UNCHANGED.
+- **⚠️ Blackout Aug 19 (earnings Aug 26 AMC)** — Entry window: Aug 13-18 = 4 trading days left. ALL gates BLOCKED: No Uptrend + no handle + Alpaca Day ~186 BLOCKED. No entry today.
+- Status: 🟡 WATCHING | Cup wk ~51 | PM +1.4% | No action
+
+**AVGO (bench, 72-77/100 est.):**
+- Est. close Aug 12: ~$416 range (confirmed Aug 11 close: $416.08 from $422.40 open)
+- Flat base intact; above $408-410 failure zone
+- No major overnight catalyst
+- **Blackout Aug 22** (earnings Aug 29 AMC) | 7 trading days remain in entry window (if Uptrend fires)
+- Status: 🟡 WATCHING — flat base intact; no entry (Under Pressure + Alpaca BLOCKED)
+
+**AMAT (not in universe — CRITICAL read-through tonight):**
+- Earnings AMC TONIGHT (Q3 FY2026): **Rev est. $9.0B (±$500M) | EPS est. $3.36-$3.39**
+- Company Q3 guidance was $8.95B ±$500M; stock down 27% from peak (low bar for beat-and-rally)
+- Company projecting: >30% semiconductor equipment growth + >50% packaging revenue growth 2026
+- Read-through: Strong AMAT beat = AI fab demand confirmed → NVDA Blackwell demand intact. Watch AH at /eod-review.
+
+### Step 4: Market overnight check
+
+**Futures (6 AM CT):**
+- ES: **+0.2%** | NQ: **+0.13%** — modest positive; soft PPI reinforcing cool-inflation narrative
+- Open est.: S&P ~7,791 | **Dist threshold: ~7,760.5** (7,776 × 0.998) → ~31 pts buffer → dist risk VERY LOW
+- Prediction markets: 61% chance S&P closes higher today
+
+**PPI July 2026 — RELEASED 8:30 AM ET today:**
+- **COOL — came in slightly below expectations** (specific numbers: consensus +0.1% MoM headline / +0.3% core; prior June -0.3% MoM / +5.5% YoY)
+- Confirms disinflationary trend from yesterday's CPI (+0.1% MoM / +3.4% YoY) ✅
+- No new dist day risk → Under Pressure UNCHANGED; market reaction positive
+
+**Geopolitical:**
+- **Hormuz: DEADLOCKED** — Iran demands US end war + war reparations before opening strait. Oman shipping coordinates agreed but final deal NOT signed. WTI ~$82 elevated.
+
+**Key events today (Aug 13):**
+- ✅ PPI July 8:30 AM ET — RELEASED, COOL
+- AMAT earnings AMC — semiconductor equipment read-through for AI demand thesis
+- Dist threshold: **~7,760.5** | Monitor at /eod-review
+
+### Step 5: Buy-zone readiness
+
+**Primary watchlist: NONE** (Under Pressure gate — zero new long entries allowed)
+
+| Name | PM Price | Score | Pivot | Status |
+|---|---|---|---|---|
+| NVDA | ~$220.49 (+1.4%) | 79/100 est. | None (no handle) | 🟡 WATCHING — cup wk51, no handle, BLACKOUT Aug 19 |
+| AVGO | ~$416 est. | 72-77/100 est. | None (flat base) | 🟡 WATCHING — flat base intact, BLACKOUT Aug 22 |
+| INTC | N/A | 46/100 ❌ | None | 🔴 REJECTED |
+| ARM | N/A | 60-70/100 est. ❌ | None | 🔴 BELOW THRESHOLD |
+| MRVL | N/A | 15-25/100 ❌ | None | 🔴 WATCH ONLY |
+
+### Step 6: Circuit breaker check
+
+- Account P&L: $0 (0 positions) | Week P&L: $0 (0/3 trades) | Drawdown: $0 (HWM $2,500)
+- PDT count: 0 of 3 | Alpaca BLOCKED Day ~186 | Research: websearch_fallback
+- **Circuit breakers: ALL CLEAR**
+
+### Step 7: ClickUp summary → written to DAILY-SUMMARY.md
+
+`pre-market_Aug13` | `websearch_fallback` | `Alpaca_Day186_BLOCKED` | `73rd_degraded_session` | `83rd_zero_action_session` | `dist_5of25_UNDER_PRESSURE_UNCHANGED` | `dist_threshold_Aug13_7760.5` | `PPI_Jul_COOL_below_est` | `ES_+0.2pct_NQ_+0.13pct` | `NVDA_PM_220.49_+1.4pct_cup_wk51_no_handle_blackout_Aug19` | `AVGO_~416_flat_base_blackout_Aug22` | `AMAT_earnings_AMC_TONIGHT_Rev_9.0B_EPS_3.36est` | `Hormuz_DEADLOCKED` | `circuit_breakers_ALL_CLEAR`
+
+---
+
 ## 2026-08-12 (Wed) — /pre-market (6:00 AM CT) — ⚡ CPI JULY 8:30 AM ET KEY BINARY (NOT YET RELEASED) — Jul 8 EXPIRES TODAY → 5/25 UNDER PRESSURE (IF COOL) — 🟢 SMCI Q4 BEAT +8.5% AH CONF | 🟢 CRWV Q2 BEAT +14% AH CONF → NVDA DEMAND CONFIRMED — ES +0.2% NQ +0.6% — NVDA PM $222.12 -2.10% — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~183 BLOCKED | Perplexity 403 | AV 403 — 70th consecutive degraded session)
