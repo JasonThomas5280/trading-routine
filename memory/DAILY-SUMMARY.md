@@ -1,5 +1,34 @@
 
 ---
+## 2026-08-14 10:00 CT [market-check — 🟡 UNDER PRESSURE 5/25 UNCHANGED — NOT DIST DAY ✅ — RETAIL SALES -0.6% MISS — UMICH 51.0 MISS — AVGO ⚠️ -4.12% DANGER ZONE — 0 POSITIONS — 0 ACTIONS]
+
+📈 Market-check 2026-08-14 10:00 CT
+Market: 🟡 UNDER PRESSURE (5/25) | Dist threshold: 7,782.99 | S&P ~7,802 (+0.04%) → NOT DIST DAY ✅ | Circuit breakers: NONE
+Actions taken:
+  No new entries — Under Pressure gate (5/25) + Alpaca Day ~189 BLOCKED
+  Sell-rules-engine: SKIPPED (0 open positions)
+Economic data:
+  Retail Sales Jul: -0.6% MoM (MISS vs +0.3% est.) — consumer pullback
+  UMich Aug prelim: 51.0 (MISS vs 54.5 est.; prior 55.2) — consumer sour on geopolitics + yields
+  Market reaction: Absorbing both misses; holding near ATH; rate-hike fears receding
+Bench alert:
+  ⚠️ AVGO -4.12% today | low $411.41 | danger zone $408-410 is <3 pts away
+  → If AVGO closes below $408-410 on elevated volume at /eod-review → remove from bench (base compromised)
+  → Volume confirmation needed (Alpaca BLOCKED — cannot confirm 50-MA break yet)
+  NVDA: +0.19% flat | cup wk52 | no handle | BLACKOUT Aug 19 | 3 days remaining (Aug 14/17/18) ALL BLOCKED
+Watchlist status: 0 primary (Under Pressure gate), 5 bench, 0 removed today
+Open positions: 0 | Cash deployed: 0% | Cash: 100%
+Weekly trade count: 0 of 3 used (week of Aug 10 — CLOSING today)
+Next milestones:
+  Mon Aug 17: Jul 13 expires → 4/25 Under Pressure
+  Tue Aug 18: LAST day NVDA entry window (ALL BLOCKED)
+  Wed Aug 19: NVDA blackout + Jul 16 expires → 3/25 Under Pressure
+  Thu Aug 21: Jul 17 expires → 2/25 Under Pressure
+  Uptrend path: ~Aug 19-21 still need FTD (no Day 1 established)
+Next check: /eod-review 3:15 PM CT
+`research_source: websearch_fallback` | `Alpaca Day ~189 BLOCKED` | `77th degraded session` | `89th zero-action session`
+
+---
 ## 2026-08-13 10:00 CT [market-check — 🟡 UNDER PRESSURE 5/25 UNCHANGED — NOT DIST DAY ✅ NEW ATH TERRITORY — NVDA ~$224 +3.0% — AVGO ~$423 +1.7% — AMAT AMC TONIGHT — 0 POSITIONS — 0 ACTIONS]
 
 📈 Market-check 2026-08-13 10:00 CT
