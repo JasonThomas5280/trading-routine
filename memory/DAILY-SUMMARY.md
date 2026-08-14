@@ -6126,3 +6126,48 @@ Key catalysts today:
 Plan: NO ENTRIES — Under Pressure gate active. Monitor dist threshold 7,782.99 at /market-check. Dist risk MODERATE if Retail Sales misses + NQ stays negative. Dist #6 would push back to Correction (6/25).
 Next: Aug 17 Jul13→4/25 | Aug 18 NVDA window CLOSES | Aug 19 NVDA blackout+Jul16→3/25 | Aug 21 Jul17→2/25 | Natural Uptrend ~Aug 19-21
 Alpaca Day ~188 BLOCKED | 76th degraded session | 88th zero-action session | research_source: websearch_fallback
+
+---
+## 2026-08-14 20:41 CT [clickup-placeholder]
+
+### Week ending 2026-08-14
+
+# FireLit Swing — Weekly Review: Week Ending 2026-08-14
+
+## Performance
+- Starting equity: $2,500.00 | Ending equity: $2,500.00 | Return: 0.00%
+- SPY: ~+0.57% ($773.26→$777.88 est.) | Alpha: -0.57%
+- Trades: 0/3 | 26th consecutive zero-trade week
+- Root cause: Correction gate (Mon-Tue) → Under Pressure gate (Wed-Fri) + Alpaca Day ~189 BLOCKED + no candidates ≥75 (NVDA no handle, AVGO unscreened)
+
+## Market Direction — CLEAN (5/5 days correct)
+- Aug 10 🔴 Correction 7/25: S&P +0.01% NOT dist ✅ | NVDA Golden Cross bearish reversal $229→$219.33 (-2.07%)
+- Aug 11 🔴 Correction 6/25 (Jul 7 expired): S&P -0.06% NOT dist ✅ | NVDA $500B Wall St. AI deal (I-letter 5→7, score 77→79/100 est.)
+- Aug 12 🟡 UNDER PRESSURE 5/25 (Jul 8 expired, CPI cool): S&P +0.30% ~7,776 NOT dist ✅ | SMCI +15% CRWV +20%
+- Aug 13 🟡 UNDER PRESSURE 5/25: S&P 7,798.99 +0.65% NEW ATH NOT dist ✅ | AMAT EPS beat / Q4 guide $10.25B
+- Aug 14 🟡 UNDER PRESSURE 5/25: S&P record-high close NOT dist ✅ | Retail Sales -0.6% MISS | UMich 51.0 MISS | AVGO ⚠️ -4.12% low $411.41 danger zone
+
+## Rule Adherence: 100/100
+No violations. No trades to audit. Capital at HWM.
+
+## Conviction Update
+- NVDA: 77→79/100 est. (I-letter upgrade: Apollo/BlackRock/Blackstone/GS/KKR AI financing deal = 6th N-letter confirmation)
+- With handle+base bonus: ~89/100 est. — highest projected score in 26 weeks
+- Entry: BLOCKED (no handle = Base:0 = binary gate)
+- Blackout: Aug 19 | Earnings: Aug 26 AMC | Post-blackout entry: Aug 27+
+
+## Key Lessons
+1. Market model worked perfectly: Correction→Under Pressure transition fired Aug 12 exactly as modeled. The mechanical dist-decay path is the most reliable tool we have under degraded-data conditions.
+2. AVGO may expire before we can enter: -4.12% on Aug 14, blackout Aug 22, Under Pressure gate still blocking = effectively 0 realistic entry slots. Lesson: flag blackout proximity more aggressively when adding to bench.
+3. 26 weeks of zero trades, full discipline. $2,500 at HWM with 0 PDT usage. The wait IS the strategy — not a failure of it.
+
+## Proposed Rule Changes
+No new proposals. Proposal 26 (NFP yield protocol) and Proposal 27 (ATH-during-Correction notation) recommended for promotion to formal rules.
+
+## Next Week
+- Market: 🟡 Under Pressure (5/25) | Natural Uptrend path: Aug 19-21 (need Day 1 + FTD — not yet established)
+- Aug 17: Jul 13→4/25 | Aug 19: NVDA blackout + Jul 16→3/25 | Aug 21: Jul 17→2/25
+- NVDA: BLACKED OUT Aug 19 | Re-score: Aug 27+ post-earnings
+- AVGO: Confirm flat base health vs $408-410 danger zone at /weekly-prep | Blackout Aug 22
+- Bessent 'unprecedented economic isolation measures' + Hormuz unresolved = dist day risk Mon
+- 0 positions | 100% cash | 3/3 weekly slots | Emotional state: DISCIPLINED
