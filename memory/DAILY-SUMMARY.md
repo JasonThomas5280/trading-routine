@@ -6071,3 +6071,29 @@ AVGO ~$428 flat base intact blackout Aug 22
 Tomorrow: Retail Sales + UMich | dist threshold ~7,783 | Aug 17→4/25 | Aug 19→NVDA blackout+3/25
 Uptrend path: ~Aug 19-21 (need FTD, no Day 1 established)
 Circuit breakers: ALL CLEAR | HWM $2,500 | 25th zero-trade week
+
+---
+## 2026-08-14 06:00 CT [pre-market]
+
+🌅 Pre-market 2026-08-14 (Fri)
+Market: 🟡 UNDER PRESSURE 5/25 UNCHANGED | Futures: ES ~+0.01% (flat) NQ slightly negative
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: NONE (0 positions)
+⚠️ MODERATE DIST RISK TODAY: threshold 7,782.99 | SPY PM ~$778 (S&P ~7,780) — right at threshold | AMAT -5% semi drag + NQ slightly negative + Retail Sales 8:30 AM ET pending
+
+AMAT Q3 READ-THROUGH: Rev $9.12B RECORD (slight miss $9.18B est.) | EPS $3.50 BEAT | Q4 guide $10.25B STRONG (+12% sequentially) → AI fab demand ACCELERATING | AH/PM -5% (top-line miss reaction) | NVDA N-letter MAX 15/15 UNCHANGED ✅
+
+Watchlist ready: NONE (Under Pressure gate + Alpaca BLOCKED + no handles formed)
+Watchlist watching:
+  🟡 NVDA: PM ~$225.09 (-0.45%) | cup wk52 | no handle | BLACKOUT Aug 19 | 3 days left (Aug 14/17/18) ALL BLOCKED
+  🟡 AVBO: PM ~$418.85 | flat base intact | BLACKOUT Aug 22 | 6 days remain
+
+Key catalysts today:
+  8:30 AM ET: Retail Sales July (est. +0.3% MoM) — KEY BINARY for dist risk
+  10:00 AM ET: UMich Consumer Sentiment Aug prelim (est. 54.1 vs 55.2)
+  Bessent "unprecedented economic isolation measures" next week (new risk — watch)
+  Iran: US naval blockade "indefinitely" — oil elevated WTI ~$82
+
+Plan: NO ENTRIES — Under Pressure gate active. Monitor dist threshold 7,782.99 at /market-check. Dist risk MODERATE if Retail Sales misses + NQ stays negative. Dist #6 would push back to Correction (6/25).
+Next: Aug 17 Jul13→4/25 | Aug 18 NVDA window CLOSES | Aug 19 NVDA blackout+Jul16→3/25 | Aug 21 Jul17→2/25 | Natural Uptrend ~Aug 19-21
+Alpaca Day ~188 BLOCKED | 76th degraded session | 88th zero-action session | research_source: websearch_fallback

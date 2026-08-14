@@ -46,6 +46,81 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-14 (Fri) — /pre-market (6:00 AM CT) — 🟡 UNDER PRESSURE 5/25 UNCHANGED — AMAT Q3 BEAT EPS / SLIGHT REV MISS / Q4 GUIDE STRONG — ES ~+0.01% FLAT NQ SLIGHTLY NEGATIVE — NVDA PM ~$225.09 (-0.45%) — ⚠️ MODERATE DIST RISK (threshold 7,782.99) — RETAIL SALES + UMICH TODAY — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~188 BLOCKED | Perplexity 403 | AV 403 — 76th consecutive degraded session)
+**Market direction pull:** 🟡 UNDER PRESSURE (5/25) — NO NEW LONG ENTRIES
+**Sector leaders (top 3):** XLK (Technology), XLV (Healthcare), XLI (Industrials) — UNCHANGED
+
+### Step 1: Overnight gap check on open positions
+
+**Positions: 0** | Gap check SKIPPED (37th consecutive zero-position pre-market)
+
+### Step 2: Catalyst scan — open positions
+
+N/A (0 positions)
+
+### Step 3: Catalyst scan — watchlist / bench names
+
+**AMAT Q3 FY2026 EARNINGS (AMC Aug 13 — RELEASED — KEY READ-THROUGH):**
+- **Revenue: $9.12B RECORD** — slight miss vs est. $9.18B (-$60M) | Semiconductor systems: $7.04B (beat $6.96B est. slightly)
+- **EPS: $3.50 non-GAAP BEAT** (vs $3.45 est. +$0.05) | GAAP EPS $3.17
+- **Q4 FY2026 guide: $10.25B ±$0.50B revenue / EPS $4.02 ±$0.20** — VERY STRONG step-up (+12.4% sequentially from $9.12B)
+- **Cash from operations:** $3.04B RECORD | Gross margin: 50.4% non-GAAP
+- **AH: -3.89% → PM: -5%** — market disappointed by slight top-line miss despite record headline; semi systems division detail scrutinized
+- **NVDA read-through: NEUTRAL-TO-POSITIVE** — Record AI fab revenue + 12% Q4 step-up = AI equipment demand ACCELERATING. Slight miss on top line is equipment-specific (timing of shipments), not demand. **NVDA N-letter MAX 15/15 UNCHANGED.** AI Blackwell demand thesis intact.
+
+**NVDA (bench, 79/100 est., no handle):**
+- **PM Aug 14: ~$225.09** (-$1.00 / -0.45% from $226.09 Aug 13 close) | Slight drag from AMAT -5% semi overhang
+- Cup wk ~52; NO handle; 79/100 est.; BLACKOUT Aug 19 | **3 trading days remain in entry window: Aug 14, Aug 17, Aug 18 — ALL gates BLOCKED** (No Uptrend + No handle + Alpaca BLOCKED)
+- Post-blackout entry: Aug 27+ (after Aug 26 AMC earnings; need Uptrend + new base + handle + pivot — likely Sep)
+- Status: 🔴 BLOCKED — entry impossible
+
+**AVGO (bench, 72-77/100 est.):**
+- PM Aug 14: ~$418.85 (intraday range $411.41-$424.92) | Aug 13 close ~$428 est.
+- Flat base intact; ⚠️ watch $408-410 failure zone (currently 8-10 pts above) ✅
+- **Blackout Aug 22** | Entry window: **Aug 14-21 = 6 trading days** (if Uptrend fires; still impossible today: Under Pressure + Alpaca BLOCKED + no handle)
+- Status: 🟡 WATCHING — flat base intact, no entry available
+
+**INTC (46/100 ❌) | ARM (60-70/100 ❌) | MRVL (15-25/100 ❌) | GOOGL (60-65/100 ❌):** Below threshold — no action.
+
+### Step 4: Market overnight check
+
+**Futures (6 AM CT):**
+- ES: **~+0.01%** (essentially flat) | NQ: **slightly negative** | Dow: **+0.1%**
+- S&P open est.: ~7,780-7,795 | **Dist threshold: ~7,782.99** (7,798.99 × 0.998)
+- ⚠️ **MODERATE DIST RISK TODAY**: SPY pre-market trading ~$778 (est. S&P ~7,780) — right AT/BELOW dist threshold | AMAT -5% semi drag + NQ slightly negative = headwind | Key binary: Retail Sales 8:30 AM ET + UMich 10 AM ET. Dist requires: close below 7,782.99 ON ELEVATED volume vs yesterday.
+
+**Geopolitical — NEW RISKS:**
+- **US-Iran:** US announced could maintain naval blockade of Iran "indefinitely" — escalation step; oil elevated (WTI ~$82)
+- **Bessent (Treasury Sec):** Warned of "unprecedented economic isolation measures" coming next week — unspecified; market risk unknown. Watch for clarification.
+
+**Key data today (NOT YET RELEASED at 6 AM CT):**
+- **8:30 AM ET — Retail Sales July 2026:** est. +0.3% MoM headline / +0.2% ex-auto (prior +0.2% headline / -0.2% ex-auto). Beat = market positive → dist risk LOW. Miss = potential dist day risk if on elevated volume.
+- **10:00 AM ET — UMich Consumer Sentiment Aug prelim:** est. 54.1 (down from 55.2 prev). Note: still depressed historically; miss here = potential S&P weakness.
+- **DO NOT ACT until /market-check 9:00 AM CT (30-min rule)**
+
+### Step 5: Buy-zone readiness
+
+**Primary watchlist: NONE** (Under Pressure gate — zero new long entries)
+
+| Name | PM Price | Score | Pivot | Status |
+|---|---|---|---|---|
+| NVDA | ~$225.09 (-0.45%) | 79/100 est. (no handle) | None (no handle) | 🔴 BLOCKED — Under Pressure + Alpaca + no handle; BLACKOUT Aug 19 |
+| AVGO | ~$418.85 | 72-77/100 est. | None (flat base) | 🟡 WATCHING — flat base intact; BLACKOUT Aug 22; 6 days remain |
+
+### Step 6: Circuit breaker check
+
+- Account P&L: $0 (0 positions) | Week P&L: $0 (0/3 trades this week) | Drawdown: $0 (HWM $2,500)
+- PDT count: 0 of 3 | Alpaca BLOCKED Day ~188 | Research: websearch_fallback (76th degraded session)
+- **Circuit breakers: ALL CLEAR**
+
+### Step 7: ClickUp summary → written to DAILY-SUMMARY.md
+
+`pre-market_Aug14` | `websearch_fallback` | `Alpaca_Day188_BLOCKED` | `76th_degraded_session` | `88th_zero_action_session` | `dist_5of25_UNDER_PRESSURE_UNCHANGED` | `dist_threshold_Aug14_7782.99` | `⚠️_MODERATE_DIST_RISK` | `AMAT_Q3_Rev_9.12B_RECORD_EPS_3.50_BEAT_Q4guide_10.25B_AH_-5pct` | `NVDA_PM_225.09_-0.45pct_cup_wk52_no_handle_blackout_Aug19_3_days_left` | `AVGO_~418.85_flat_base_blackout_Aug22` | `ES_+0.01pct_NQ_slightly_negative` | `Retail_Sales_July_8:30ET_est_+0.3pct` | `UMich_Aug_prelim_10:00ET_est_54.1` | `Iran_blockade_indefinite_Bessent_isolation_warning` | `circuit_breakers_ALL_CLEAR`
+
+---
+
 ## 2026-08-13 (Thu) — /pre-market (6:00 AM CT) — 🟡 UNDER PRESSURE 5/25 UNCHANGED — PPI July COOL (below est.) ✅ — ES +0.2% NQ +0.13% — NVDA PM ~$220.49 (+1.4%) — AMAT earnings AMC TONIGHT — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~186 BLOCKED | Perplexity 403 | AV 403 — 73rd consecutive degraded session)
