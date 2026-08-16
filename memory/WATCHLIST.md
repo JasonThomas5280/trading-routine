@@ -6,6 +6,12 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 ---
 
+## ⚠️ ARCHIVED — Week of 2026-08-10 to 2026-08-14 — **STALE — archived via /weekly-review Fri Aug 14; rebuild via /weekly-prep Sun Aug 16**
+
+> Archived week of Aug 10–14. Market transitioned from 🔴 Correction (7/25) → 🟡 Under Pressure (5/25) on Aug 12. Zero primary candidates (26th consecutive week). **AVGO BROKEN Aug 14: $392.99 (-5.94%) on elevated 29.5M shares — BofA $370B AI debt flag — base structurally broken — REMOVED from bench.** NVDA 79/100 (cup wk53, no handle, blackout Aug 19, earnings Aug 26 AMC). SH $625 hedge QUEUED → CANCEL on Uptrend confirmation (never executed). **Uptrend transition: Mon Aug 17 when Jul 13 expires → 4/25 Confirmed Uptrend.** Rebuild via /weekly-prep Sun Aug 16. ⚡ NEXT WEEK: Aug 17 Uptrend confirms | Aug 18 HD earnings BMO | Aug 19 ADI/TGT BMO + FOMC Minutes + NVDA blackout | Aug 20 WMT BMO | Aug 21 Jul17→2/25 | AUG 26 NVDA EARNINGS AMC + Jackson Hole Aug 27-29.
+
+---
+
 ## ⚠️ ARCHIVED — Week of 2026-06-15 to 2026-06-19 — **STALE — rebuilt Jun 21 /weekly-prep**
 
 > Archived week of Jun 15–19. Market state: 🔴 Correction (7/25 dist days). Zero primary candidates. NVDA 68/100 (bench, no base, Aug 2026+ base timeline), DELL 55/100 (watch-only), AVGO 55/100 (watch-only). FTD Day 7 = Jun 22 Mon (LAST WINDOW; threshold 7,594). Full rebuild completed Sun Jun 21.
@@ -44,7 +50,101 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 > Archived week of Aug 10–14. Market state transitioned: 🔴 Correction (7/25) → 🟡 UNDER PRESSURE (5/25) on Aug 12 (Jul 8 dist expiry, CPI cool/in-line). Zero primary candidates (26th consecutive week). S&P 500 new record close Aug 14 (~+0.5% week). NVDA 79/100 est. (⬆️ I-letter upgrade to 7 from $500B Wall St. AI infra deal; N-letter SIXTH CONF; still no handle; blackout Aug 19; earnings Aug 26 AMC; post-blackout entry window Aug 27+). AVGO 72-77/100 est. (flat base health UNCERTAIN after -4.12% Aug 14 to $411.41 low; $408-410 danger zone; blackout Aug 22; earnings Aug 29 AMC). INTC 46/100 REJECTED. ARM 55-65/100 BELOW THRESHOLD. SH $625 QUEUED (Alpaca Day ~189 BLOCKED). **Rebuild required Sun Aug 17 /weekly-prep before Mon /pre-market.** ⚡ CRITICAL NEXT WEEK: Aug 17 Jul13→4/25 | Aug 19 NVDA blackout+Jul16→3/25 | Aug 21 Jul17→2/25 | Natural Uptrend path ~Aug 19-21 (need FTD + Day 1 not yet established). AVGO base health check: confirm if Aug 14 close held above $408-410 danger zone.
 
-## ⛔ CURRENT — Week of 2026-08-10 to 2026-08-14 — UPDATED Mon Aug 10 /market-check (rebuilt Sun Aug 9 /weekly-prep)
+## ⛔ CURRENT — Week of 2026-08-17 to 2026-08-21 — REBUILT Sun Aug 16 /weekly-prep
+
+**Built:** 2026-08-16 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
+Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 78th consecutive degraded session
+**Market direction:** 🟢 **CONFIRMED UPTREND PENDING (transitions Mon Aug 17 when Jul 13 expires → 4/25)** | **NO NEW LONG ENTRIES UNTIL MON AUG 17 CONFIRMED**
+**S&P 500 baseline (Aug 14 CONFIRMED close):** 7,785.76 | **SPY: $776.34 | 50d MA: ~$742.90 (SPY +4.5% above) | 200d MA: ~$706.10 (SPY +9.9% above)** | Golden cross intact
+**QQQ baseline (Aug 14 close):** $731.07 | 50d MA ~$712 (QQQ +2.7% above) | 200d MA ~$643 (QQQ +13-14% above) | Golden cross intact
+**Dist count:** 5/25 as of Aug 14 → **4/25 on Mon Aug 17** (Jul 13 expires) → 3/25 Wed Aug 19 → 2/25 Fri Aug 21
+**Sector leaders (4-week Jul 17→Aug 14):** XLE (Energy) > XLI (Industrials) > XLK (Technology)
+**Sector laggards:** XLC (Communications) ~ XLY (Consumer Disc) > XLP (Consumer Staples)
+
+**⚠️ KEY DEVELOPMENT THIS WEEKEND:**
+- **AVGO CONFIRMED BROKEN ($392.99 close, -5.94%, 29.5M vol = +18% above avg):** BofA flagged $370B AI XPV vehicle debt risk; base structurally broken. **AVGO REMOVED from bench.** Blackout Aug 22, earnings Aug 29 AMC — re-evaluate post-earnings only after 8+ week base rebuild.
+- **UPTREND TRANSITION: Mon Aug 17** — Jul 13 expires, dist drops to 4/25 (<5 = Confirmed Uptrend). SPY well above 50-day (+4.5%) and 200-day (+9.9%). S&P at ATH. Transition is natural expiry, not FTD — consistent with market at all-time highs throughout Under Pressure period.
+- **SH $625 HEDGE: CANCEL** — queued ~11 weeks but never executed (Alpaca blocked). Uptrend confirmation = no hedge. Do not enter SH.
+
+---
+
+### ⚠️ Entry Gate: ZERO new long entries this week
+
+**Reason:** Market opens week in Under Pressure (5/25). Transitions to Confirmed Uptrend Mon Aug 17 (pending no new dist day Mon). Even after transition, zero executable candidates this week:
+1. NVDA: No handle → no pivot → BLOCKED. Blackout begins Aug 19.
+2. AVGO: BASE BROKEN — removed.
+3. All other names below 75 conviction.
+4. Alpaca: Day ~191 BLOCKED — no execution capability.
+
+**Uptrend confirmation means entry gates are OPEN in principle** — but only if (a) a specific candidate scores ≥75 with valid base/pivot and (b) Alpaca restores. Neither condition met this week.
+
+**27th consecutive week with zero qualifying entries.** Not a strategy failure — market and infrastructure constraints.
+
+---
+
+### Primary Watchlist (score ≥75, ready to trade)
+
+**NONE this week.**
+
+No candidates meet all requirements:
+- Score ≥75 ✅ candidate: NVDA (79/100) → blocked by no handle + blackout
+- Market gate: Opens Mon Aug 17 but no candidates have valid base+pivot
+- Infrastructure: Alpaca Day ~191 blocked
+
+---
+
+### Bench (monitor for when Uptrend + Alpaca restore + base/pivot materializes)
+
+| Rank | Symbol | Score | Sector | Status | Entry Window | Notes |
+|---|---|---|---|---|---|---|
+| B1 | NVDA | **79/100** | XLK / Semis | 🟡 Cup wk 53; NO handle | **Aug 27+** (post-earnings) | **C:20 A:15 N:15 S:10 L:12 I:7 Base:0 = 79/100 est.** Handle not yet formed. Blackout Aug 19 → earnings Aug 26 AMC. After earnings, needs fresh base + handle + pivot. Est. 89/100 with handle. Watch NVDA reaction to earnings Aug 26 + Jackson Hole Aug 27-29 for next setup. |
+| B2 | XLE leaders | **TBD — screener needed** | XLE / Energy | ⬜ Sector now #1 4-week | When Alpaca/AV restore | **XLE moved to top sector (4-week).** Energy driven by Iran/Hormuz oil tension. Priority screener candidates when APIs restore: OXY (Buffett stake, C-letter strong), EOG (premier E&P, low-cost), COP (premium balance sheet), SLB (oilfield services, AI infra). Cannot score without live data. Flag for Mon /pre-market if Alpaca restores. |
+| B3 | XLI leaders | **TBD — screener needed** | XLI / Industrials | ⬜ Sector now #2 4-week | When Alpaca/AV restore | **XLI moved to #2 sector (4-week).** AI data center construction + defense spending. Priority screener candidates when APIs restore: GEV (GE Vernova — utility AI power), PWR (Quanta Services — energy infra), CAT, RTX. Cannot score without live data. |
+| B4 | ARM | **~60-70/100 est.** | XLK / Semis | ❌ BELOW THRESHOLD est. | No entry window | GAAP C-letter improvement pending re-eval. Still below 75 est. No valid base. Watch-only. |
+| B5 | MRVL | **~15-25/100** | XLK / Semis | ❌ FAR BELOW THRESHOLD | No entry window | Broken structure. Watch-only Q3-Q4 2026. |
+
+**REMOVED this week:**
+- **AVGO (was B2):** Base BROKEN Aug 14. $392.99 close (-5.94%) on elevated volume. BofA $370B AI debt risk. Blackout Aug 22, earnings Aug 29 AMC. Re-evaluate post-earnings only after 8+ week base rebuild. Score reset to N/A.
+- **INTC (was B2):** 46/100 confirmed — long-term watch only.
+
+---
+
+### Entry Execution Plan — Week of Aug 17-21
+
+**ZERO new long entries this week.**
+
+**FIRST order on Alpaca restore (UPDATED):**
+- ~~SH $625 hedge~~ — **CANCELLED.** Uptrend confirming Mon Aug 17. Do not enter hedge.
+- **Screener queue (for when Alpaca/AV restore):** OXY, EOG, COP, SLB (XLE names), GEV, PWR (XLI names). Priority: get scores before the week is out. If Alpaca restores mid-week, run canslim-screener on these 6 names immediately.
+
+**Critical calendar this week:**
+| Day | Event | Impact |
+|---|---|---|
+| **Mon Aug 17** | Jul 13 expires → 4/25 → **CONFIRMED UPTREND** | Dist threshold ~7,770. Positive day needed. Watch for dist day risk. |
+| **Tue Aug 18** | HD earnings BMO | Consumer read. Miss = dist risk. |
+| **Wed Aug 19** | ADI earnings BMO | Semi / industrial read. Beat = XLK/XLI bullish. |
+| **Wed Aug 19** | TGT earnings BMO | Consumer read. |
+| **Wed Aug 19** | Jul 16 expires → 3/25 | NVDA blackout begins. FOMC Minutes 2 PM ET (Jul 28-29 meeting). |
+| **Thu Aug 20** | WMT earnings BMO | Major consumer gauge. Forward guidance critical. |
+| **Fri Aug 21** | Jul 17 expires → 2/25 | Flash PMIs. Jobless Claims. |
+| **Aug 26 (NEXT WK)** | **NVDA earnings AMC** | Biggest event of next 2 weeks. Q2 FY2027. Est. $28.7B rev. |
+| **Aug 27-29 (NEXT WK)** | **Jackson Hole Symposium** | Fed rate path clarity. "Financial Innovation: Implications for Payments and Policy." |
+
+**Dist threshold Aug 17:** ~7,770 (7,785.76 × 0.998). S&P must close above 7,770 on below-avg volume to avoid new dist day.
+
+**Sector focus (for when Uptrend + Alpaca restore):**
+- **Primary: XLE (Energy)** — 4-week #1. Oil/Iran tension = persistent tailwind. Screen E&P leaders.
+- **Secondary: XLI (Industrials)** — 4-week #2. AI power infrastructure + defense. Screen GEV, PWR, CAT.
+- **Watch: XLK (Technology)** — 4-week #3. NVDA dominant but in blackout. Post-Aug 26 potential.
+- **Avoid: XLC, XLY, XLP** — consumer spending headwinds + sector laggards.
+
+**Blacklisted sectors:** NONE (no consecutive failed trades to date)
+
+**Consumer risk note:** July retail sales -0.6% (biggest drop in >1 year) + UMich 51.0 miss. HD/TGT/WMT earnings this week could confirm or deny consumer deterioration. Bad guidance = potential dist days = Uptrend under pressure immediately after confirming. Stay alert.
+
+---
+
+## ⚠️ ARCHIVED — Week of 2026-08-10 to 2026-08-14 — **STALE — archived via /weekly-prep Sun Aug 16**
 
 **Built:** 2026-08-02 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~167 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 51st consecutive degraded session

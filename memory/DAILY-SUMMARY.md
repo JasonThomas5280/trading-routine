@@ -6171,3 +6171,24 @@ No new proposals. Proposal 26 (NFP yield protocol) and Proposal 27 (ATH-during-C
 - AVGO: Confirm flat base health vs $408-410 danger zone at /weekly-prep | Blackout Aug 22
 - Bessent 'unprecedented economic isolation measures' + Hormuz unresolved = dist day risk Mon
 - 0 positions | 100% cash | 3/3 weekly slots | Emotional state: DISCIPLINED
+
+---
+## 2026-08-16 21:25 CT [clickup-placeholder]
+
+📋 Week prep 2026-08-17
+Market: 🟢 UPTREND CONFIRMING MON AUG 17 (Dist: 5/25→4/25 when Jul13 expires; SPY +4.5% above 50d MA)
+AUG 14 CONFIRMED: S&P 7,785.76 (-0.17%) NOT DIST DAY ✅ | SPY 76.34 | QQQ 31.07
+⚠️ AVGO BROKEN: 92.99 (-5.94%) on elevated vol — BofA $370B AI debt flag — REMOVED from bench
+NVDA: $225.16 flat — cup wk53 no handle — BLACKOUT AUG 19 — earnings AUG 26 AMC
+Top sectors (4-wk): XLE (Energy) > XLI (Industrials) > XLK (Technology)
+Watchlist primary: NONE (0 candidates ≥75 with valid base/pivot)
+Bench: NVDA 79/100 (post-blackout Aug 27+) | XLE/XLI screener queue pending Alpaca restore
+SH $625 hedge: CANCELLED (Uptrend confirming)
+Calendar risks:
+- Mon Aug 17: Jul13 expires → 4/25 Uptrend | dist threshold ~7,770
+- Tue Aug 18: HD earnings BMO (consumer read)
+- Wed Aug 19: ADI earnings BMO (semi read) + TGT BMO + FOMC Minutes 2PM ET + NVDA blackout
+- Thu Aug 20: WMT earnings BMO (major consumer gauge)
+- Fri Aug 21: Jul17 → 2/25 | Flash PMIs | Jobless Claims
+- NEXT WEEK: NVDA earnings Aug 26 AMC + Jackson Hole Aug 27-29 (SIZE CONSERVATIVELY)
+Entry plan Mon: Gate open after Jul13 expiry → NO entries (Alpaca blocked + no valid candidates). Screener queue: OXY/EOG/COP/SLB (XLE) + GEV/PWR (XLI) on Alpaca restore.

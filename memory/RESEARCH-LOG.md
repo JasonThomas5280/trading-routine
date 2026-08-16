@@ -19016,3 +19016,110 @@ No promotions or demotions.
 - Jul 29 → expires Mon Sep 1 (→ 0/25; need FTD for Confirmed Uptrend)
 
 `research_source: websearch_fallback` | `Alpaca_Day185_BLOCKED` | `72nd_degraded_session` | `82nd_zero_action_session`
+
+---
+
+## 2026-08-16 (Sun) — /weekly-prep (4:00 PM CT — 🟢 UPTREND IMMINENT MON AUG 17 — AUG 14 S&P CONFIRMED 7,785.76 NOT DIST DAY — AVGO BROKEN $392.99 REMOVED — XLE/XLI/XLK SECTORS — NVDA $225.16 BLACKOUT AUG 19 — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~191 BLOCKED)
+
+**Research source:** websearch_fallback (Alpaca Day ~191 BLOCKED | Perplexity 403 | Alpha Vantage 403 — 78th consecutive degraded session)
+**Market direction pull:** 🟡 UNDER PRESSURE (5/25) transitioning → 🟢 CONFIRMED UPTREND Mon Aug 17 (Jul 13 expires → 4/25; SPY +4.5% above 50d MA)
+**Sector leaders (top 3, 4-week Jul 17→Aug 14):** XLE (Energy), XLI (Industrials), XLK (Technology)
+**Sector laggards (bottom 3):** XLC (Communications), XLY (Consumer Disc), XLP (Consumer Staples)
+
+### Step 1: Market direction update
+
+- **S&P 500 Aug 14 CONFIRMED CLOSE: 7,785.76** (-13.26 pts / -0.17%) | Nasdaq: 26,729.16 (-0.28%) | SPY: $776.34 (-0.198%)
+  - ⚠️ CORRECTION to prior /market-check estimate: intraday high ~7,802 at 10 AM CT; market faded ~16 pts on retail sales miss + UMich miss by close
+  - **Distribution check Aug 14:** -0.17% (below 0.2% threshold) + light/below-avg volume → **NOT a distribution day ✅ CONFIRMED**
+  - **Dist count: 5/25 UNCHANGED** | Active dist days: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+  - S&P posted 3rd consecutive weekly gain. 27th record close of year was Aug 13. Market technically healthy at ATHs.
+- **SPY vs. MAs:**
+  - 50-day MA: ~$742.90 → SPY $776.34 = **+4.5% ABOVE 50d** ✅
+  - 200-day MA: ~$706.10 → SPY = **+9.9% ABOVE 200d** ✅ | Golden cross intact
+- **QQQ vs. MAs:**
+  - QQQ $731.07 | 50-day MA: ~$712 = **+2.7% ABOVE 50d** ✅
+  - 200-day MA: ~$643-644 = **+13-14% ABOVE 200d** ✅
+- **State: 🟡 UNDER PRESSURE (5/25) through Aug 14 close**
+- **Transition: Mon Aug 17 — Jul 13 EXPIRES → 4/25 → CONFIRMED UPTREND** (SPY above 50d, <5 dist days, market at ATH)
+  - Dist threshold Aug 17: ~7,769.83 (7,785.76 × 0.998)
+  - Subsequent: Aug 19 Jul 16 → 3/25 | Aug 21 Jul 17 → 2/25
+
+### Step 2: Market thesis (WebSearch fallback — Perplexity 403)
+
+- S&P 500 at ATH; SPY +4.5% above 50d, +9.9% above 200d. Technically one of the strongest positions relative to MAs all year.
+- Consumer stress emerging: July retail sales -0.6% (biggest drop in >1 year; est. +0.1%); UMich Aug 51.0 (miss vs 54.5; well below long-run avg ~84). Amazon Prime Day moved Jul→Jun pulled forward e-commerce spend.
+- Iran/Hormuz: Short-lived ceasefire ended. Oil rising again. WTI/Brent elevated. Stagflation tail risk re-elevated. Energy sector benefiting.
+- Rate path: Core CPI Jul +2.5% YoY (lowest since Mar 2021). Sep cut prob ~33% (down from 50%+). FOMC minutes Jul 28-29 release Wed Aug 19 — committee split on rate path is key read.
+- Analyst consensus: Cautiously bullish (Yardeni $8,250 target, RBC $8,150) vs. BofA bearish ($7,100; warns speculation hitting extreme levels). ~85% of Q2 S&P reporters beat estimates.
+
+### Step 3: Sector leadership
+
+4-week (Jul 17 → Aug 14) approximate ranking:
+1. **XLE (Energy):** Oil rising post-Iran ceasefire collapse. Hormuz tension = persistent tailwind. Top 4-week sector.
+2. **XLI (Industrials):** AI data center power/construction demand. Defense spending. Solid broad demand.
+3. **XLK (Technology):** AI capex supercycle intact. +33% YTD. Chip drag Aug 14 (AVGO -6%). Still leading YTD but 4-week moderating.
+4. XLF (Financials): Rate-cut odds rising = bank NIM stabilization. Moderate positive.
+5. XLU (Utilities): AI power demand structural tailwind. Improving.
+6-8: XLV (Healthcare), XLB (Materials), XLRE (Real Estate): Neutral/modest.
+9. XLP (Consumer Staples): Consumer tightening headwind.
+10. XLY (Consumer Disc): Retail sales -0.6% = direct headwind. July worst drop in >1yr.
+11. XLC (Communications): Labeled "Lagging quadrant" in sector rotation models.
+
+**Top 3 this week: XLE, XLI, XLK. Bottom 3: XLC, XLY, XLP.**
+**ROTATION NOTE vs. Aug 9 weekly-prep:** XLE moved from #5 to #1; XLI held #3→#2; XLV dropped from #2 to neutral. Energy is the new leader.
+
+No sector blacklists (zero failed trades to date).
+
+### Step 4-5: Universe scan + canslim-screener
+
+**DEGRADED MODE:** Alpaca, Perplexity, Alpha Vantage all returning 403. Full universe scan via `build-universe.sh` BLOCKED. canslim-screener skill blocked on live data. Using WebSearch fundamentals + estimated scores.
+
+**Tickers evaluated (websearch_fallback | cached_fundamentals | estimated scores):**
+
+**From existing bench:**
+- **NVDA: 79/100 (CONFIRMED UNCHANGED)** | C:20 A:15 N:15 S:10 L:12 I:7 Base:0 | Cup wk 53; NO handle; NO pivot | Blackout Aug 19; earnings Aug 26 AMC | Entry: BLOCKED (no handle + blackout); post-earnings Aug 27+
+- **AVGO: REMOVED — BASE BROKEN** | Aug 14 close $392.99 (-5.94%) on 29.5M shares (+18% above ~25M avg) | BofA $370B AI XPV debt flag (balance-sheet/guarantee risk) | Intraday low ~$387-388; closed $17 below $408-410 danger zone | NOT a shakeout — thesis-level risk. Blackout Aug 22, earnings Aug 29 AMC. Score: N/A until base rebuilds (8+ weeks minimum)
+- **INTC: 46/100 REJECTED** (unchanged; A-letter GAAP fail; long-term watch-only)
+- **ARM: ~60-70/100 est.** (below threshold; no base)
+- **MRVL: ~15-25/100** (broken structure; watch-only)
+- **GOOGL: ~60-65/100** (XLC sector laggard; below threshold)
+
+**New XLE/XLI candidates identified (not yet screened — Alpaca/AV blocked):**
+- **OXY:** Buffett $12B+ stake; C-letter likely strong (oil elevated); L-letter positive; S-letter concern (~900M float). Needs formal screen.
+- **EOG:** Premier E&P; consistent earnings; low-cost production. Needs formal screen.
+- **COP:** Strong balance sheet E&P leader. Needs formal screen.
+- **SLB:** Oilfield services leader; AI infra for energy sector. Needs formal screen.
+- **GEV (GE Vernova):** Utility-scale power; AI data center power demand. Needs formal screen.
+- **PWR (Quanta Services):** Energy/utility infrastructure construction. High RS. Needs formal screen.
+
+**Scan stats:**
+- Universe attempted: 8 tickers (degraded mode; full build-universe.sh blocked)
+- Pre-filter passes (non-blackout, price $10-500, ADV ≥500K est.): 2 (NVDA, INTC; AVGO removed mid-week; others blocked or watch-only)
+- Conviction ≥75 (non-blackout, valid base): **0**
+- XLE/XLI new names identified but NOT scored: 6 (OXY, EOG, COP, SLB, GEV, PWR)
+- **Primary watchlist: ZERO candidates** (no handle/pivot on NVDA; AVGO removed; XLE/XLI not yet screened; Alpaca blocked)
+- Rejection breakdown: AVGO base broken, NVDA no handle + blackout, INTC A-letter fail, ARM below threshold, MRVL broken, GOOGL sector laggard, XLE/XLI candidates unscored (API outage)
+
+**Note: 27th consecutive week with zero qualifying entries.** Market is transitioning to Uptrend — the pipeline is structurally sound. The bottleneck is (1) Alpaca API restoration and (2) completion of fresh screener runs on XLE/XLI candidates. Target: score OXY/EOG/COP/GEV/PWR within 24 hours of Alpaca restore.
+
+### Step 6: Watchlist written
+
+- `memory/MARKET-DIRECTION.md`: Updated with Aug 16 /weekly-prep entry ✅ (confirmed Aug 14 close, AVGO breakdown, uptrend transition roadmap)
+- `memory/WATCHLIST.md`: New CURRENT section for week Aug 17-21 ✅ (AVGO removed, SH hedge cancelled, XLE/XLI screener queue, NVDA post-earnings target)
+- **AVGO: REMOVED from bench** ✅
+- **SH $625 hedge: CANCELLED** (Uptrend confirming) ✅
+
+### Step 7: ClickUp summary
+
+Via `bash scripts/clickup.sh message` (echo/append mode — CLICKUP_CHANNEL_ID empty → writes to memory/DAILY-SUMMARY.md)
+
+### Key risk factors for week Aug 17-21
+
+1. **Dist day risk from retail earnings:** HD (Tue BMO), TGT (Wed BMO), WMT (Thu BMO) — weak guidance = market selloff = potential new dist day → could put Uptrend back to Under Pressure
+2. **FOMC Minutes Wed Aug 19 2PM ET:** Hawkish committee split = rate-hike repricing = possible dist trigger
+3. **Iran/Hormuz + oil:** Short-lived ceasefire ended. Oil rising. Stagflation tail risk = inflation re-acceleration = negative for rate-cut narrative
+4. **ADI earnings Wed Aug 19 BMO:** Semi/industrial demand read. Miss = XLK headwind.
+5. **Jackson Hole Aug 27-29 + NVDA Aug 26 AMC:** NEXT week's dominant catalysts. Reduce new position sizing this week to preserve firepower.
+6. **Alpaca Day ~191 BLOCKED:** No execution possible. SH cancellation is notation-only; XLE/XLI screener queue pending API restore.
+
+`research_source: websearch_fallback` | `Alpaca_Day191_BLOCKED` | `Perplexity_403` | `AV_403` | `78th_degraded_session` | `weekly-prep_Aug16_complete` | `SPX_CONF_7785.76_Aug14_NOT_DIST_DAY` | `dist_5of25_through_Aug14` | `Aug17_Jul13_expires_4of25_CONFIRMED_UPTREND` | `SPY_776.34_+4.5pct_above_50d` | `QQQ_731.07_+2.7pct_above_50d` | `AVGO_BROKEN_392.99_-5.94pct_29.5Mvol_REMOVED` | `NVDA_225.16_cup_wk53_no_handle_blackout_Aug19_earnings_Aug26` | `sectors_XLE_XLI_XLK_top3` | `XLE_XLI_screener_queue_OXY_EOG_COP_SLB_GEV_PWR` | `SH_hedge_CANCELLED_uptrend_confirming` | `27th_zero_trade_week` | `retail_earnings_HD_TGT_WMT_dist_risk` | `FOMC_minutes_Aug19` | `JacksonHole_Aug27-29_NVDA_Aug26_NEXT_WEEK`

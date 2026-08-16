@@ -6,7 +6,49 @@
 
 ## Current Status
 
-**Status:** 🟡 **MARKET UNDER PRESSURE (5/25)** *(Aug 14 /market-check — DIST 5/25 UNCHANGED — S&P ~7,802 +0.04% NOT DIST DAY ✅ (threshold 7,782.99; 19 pts clear) — Retail Sales Jul -0.6% MISS (est.+0.3%) — UMich Aug prelim 51.0 MISS (est. 54.5) — market holding near record highs despite double miss — AVGO ⚠️ -4.12% low $411.41 approaching $408-410 danger zone — NVDA +0.19% flat cup wk52 no handle BLACKOUT Aug 19 (3 days remaining Aug 14/17/18 ALL BLOCKED) — NO NEW LONG ENTRIES — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~189 BLOCKED — research_source: websearch_fallback | 77th consecutive degraded session)*
+**Status:** 🟢 **CONFIRMED UPTREND IMMINENT — TRANSITIONS MON AUG 17** *(Aug 16 /weekly-prep — S&P 500 AUG 14 CONFIRMED CLOSE 7,785.76 (-0.17%) NOT DIST DAY ✅ (light volume + below 0.2% threshold) — DIST 5/25 UNCHANGED through Aug 14 — AUG 14 CLOSE CORRECTS PRIOR /market-check EST OF ~7,802 — MON AUG 17: Jul 13 EXPIRES → 4/25 → CONFIRMED UPTREND (SPY +4.5% above 50d MA; <5 dist days) — ⚠️ AVGO CONFIRMED BROKEN: $392.99 close (-5.94%) on 29.5M shares (elevated vs ~25M avg) — BofA $370B AI debt flag = structural thesis risk — AVGO REMOVED FROM BENCH — NVDA $225.16 flat (cup wk53; no handle; BLACKOUT AUG 19; Aug 26 AMC earnings) — NO NEW LONG ENTRIES UNTIL MON AUG 17 CONFIRMED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~191 BLOCKED — research_source: websearch_fallback | 78th consecutive degraded session)*
+
+**⚡ AUG 16 /weekly-prep (4:00 PM CT — 🟢 UPTREND IMMINENT MON AUG 17 — AUG 14 S&P CONFIRMED 7,785.76 NOT DIST DAY ✅ — AVGO BROKEN $392.99 REMOVED — NVDA $225.16 BLACKOUT AUG 19 — XLE/XLI/XLK LEAD SECTORS — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~191 BLOCKED):**
+- **Current market state (as of Aug 14 close): 🟡 UNDER PRESSURE (5/25)** | `research_source: websearch_fallback` | Alpaca Day ~191 BLOCKED | 78th consecutive degraded session
+- **AUG 14 CONFIRMED CLOSE (correcting prior market-check estimate):**
+  - **S&P 500: 7,785.76** (-13.26 pts / -0.17%) — prior /market-check estimated "~7,802 +0.04%" from 10 AM CT intraday; market faded ~16 pts by close on retail sales/UMich double miss
+  - **Nasdaq: 26,729.16** (-73.86 pts / -0.28%)
+  - **SPY: $776.34** (-0.198%)
+  - **Distribution check Aug 14:** S&P -0.17% = BELOW 0.2% threshold + volume described as "low-volume summer trading" (below prior day's volume) → **NOT a distribution day ✅ CONFIRMED**
+  - **Dist count: 5/25 UNCHANGED** | Active dist days: Jul 13, Jul 16, Jul 17, Jul 23, Jul 29
+- **SPY vs. key MAs (Aug 14):**
+  - 50-day MA: ~$742.90 → SPY **+4.5% ABOVE** ✅
+  - 200-day MA: ~$706.10 → SPY **+9.9% ABOVE** ✅ | Golden cross (50d > 200d) intact
+- **QQQ vs. key MAs (Aug 14):**
+  - QQQ: $731.07 | 50-day MA: ~$712 → QQQ **+2.7% ABOVE** ✅
+  - 200-day MA: ~$643-644 → QQQ **+13-14% ABOVE** ✅ | Golden cross intact
+- **S&P 500 context:** Closed 3rd consecutive weekly gain. 27th record close of the year occurred Aug 13. Market technically strong above all major MAs despite Under Pressure classification.
+- **AVGO CONFIRMED BROKEN — REMOVED FROM BENCH:**
+  - **Close Aug 14: $392.99** (-$25.01 / -5.94%) on **~29.5M shares** (vs avg ~25M = +18% elevated volume)
+  - Intraday range: low ~$387-388; prior day close ~$418. This was a high-volume institutional selloff.
+  - **Catalyst:** BofA flagged $370B in AI XPV vehicle debt structures linked to Broadcom customers (not AVGO's own debt, but creates balance-sheet/residual-value guarantee risk if AI customers default on lease payments). Profit-taking ahead of Q3 earnings + valuation concerns.
+  - **CAN SLIM assessment: BASE STRUCTURALLY BROKEN.** Closed $17 below the $408-410 danger zone on elevated volume. 6 trading days before Aug 22 blackout. NOT a one-day shakeout — thesis-level risk question. **AVGO REMOVED from bench effective immediately.**
+  - AVGO blackout Aug 22 (earnings Aug 29 AMC) — re-evaluate post-earnings only if base rebuilds (8+ weeks minimum)
+- **NVDA (Aug 14 close: $225.16, -0.06%):** Cup wk 53; NO handle; 79/100 est. | Blackout Aug 19 (earnings Aug 26 AMC confirmed) | Entry window: ZERO remaining eligible days (Aug 17-18 = 2 days but both BLOCKED: no handle + no pivot + Under Pressure Aug 17 pre-open). Post-blackout entry: Aug 27+ (need new base + handle + pivot).
+- **Sector leadership (4-week ranking — Jul 17 → Aug 14):**
+  - **TOP 3:** XLE (Energy — oil rising on Iran/Hormuz tension) > XLI (Industrials — AI data center infra) > XLK (Technology — AI capex demand)
+  - **BOTTOM 3:** XLC (Communications — lagging quadrant) ~ XLY (Consumer Disc — retail sales -0.6% miss) > XLP (Consumer Staples — consumer tightening)
+  - **ROTATION NOTE:** XLE and XLI have moved ahead of XLK on 4-week basis. Energy driven by Iran/Hormuz oil tension. XLK still strong YTD (+33%) but XLE leading near-term.
+- **Dist expiry roadmap (UPDATED — Aug 14 CONFIRMED close = 7,785.76):**
+  - **Mon Aug 17:** Jul 13 EXPIRES → **4/25 → CONFIRMED UPTREND** ✅ (SPY +4.5% above 50d; <5 dist days) | Dist threshold Aug 17: ~7,769.83 (7,785.76 × 0.998) | No new long entries UNTIL Aug 17 confirmed uptrend + no new dist day
+  - **Wed Aug 19:** Jul 16 EXPIRES → **3/25** | NVDA blackout begins | ADI earnings before open | TGT earnings before open | FOMC Minutes 2 PM ET
+  - **Thu Aug 20:** WMT earnings before open (major consumer gauge)
+  - **Fri Aug 21:** Jul 17 EXPIRES → **2/25** | Flash PMIs | Jobless Claims
+  - **Active dist days by Fri Aug 21:** Jul 23 + Jul 29 = **2/25** (well into Confirmed Uptrend territory)
+- **Key risks that could fire NEW dist days this week:**
+  - Retail earnings (HD Tue Aug 18 BMO, TGT/ADI Wed Aug 19 BMO, WMT Thu Aug 20 BMO) — weak guidance = market selloff risk
+  - FOMC Minutes Wed Aug 19 2PM ET — hawkish tone = rate-hike repricing = dist risk
+  - Iran/Hormuz — oil rising again, short-lived ceasefire ended → stagflation tail risk
+- **Week ahead: Jackson Hole (Aug 27-29) + NVDA earnings (Aug 26 AMC) = MAJOR catalysts NEXT week** — position sizing conservatively this week ahead
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | P&L: $0 | PDT: 0/3
+- `weekly-prep_Aug16` | `websearch_fallback` | `Alpaca_Day191_BLOCKED` | `78th_degraded_session` | `SPX_CONF_7785.76_-0.17pct_NOT_DIST_DAY` | `dist_5of25_UNCHANGED_through_Aug14` | `SPY_776.34_+4.5pct_above_50d_+9.9pct_above_200d` | `QQQ_731.07_+2.7pct_above_50d` | `AVGO_CONF_392.99_-5.94pct_29.5M_vol_BROKEN_REMOVED` | `NVDA_225.16_flat_cup_wk53_no_handle_blackout_Aug19` | `Aug17_Jul13_expires_4of25_CONFIRMED_UPTREND` | `Aug19_Jul16_expires_3of25_NVDA_blackout` | `Aug21_Jul17_expires_2of25` | `sectors_XLE_XLI_XLK_top3` | `retail_earnings_HD_TGT_WMT_risk_week` | `FOMC_minutes_Aug19` | `JacksonHole_Aug27-29_NEXT_WEEK` | `circuit_breakers_ALL_CLEAR`
+
+**✅ AUG 14 /market-check (10:00 AM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P ~7,802 +0.04% NOT DIST DAY ✅ — RETAIL SALES -0.6% MISS — UMICH 51.0 MISS — AVGO ⚠️ -4.12% DANGER ZONE — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~189 BLOCKED):**
 
 **✅ AUG 14 /market-check (10:00 AM CT — 🟡 UNDER PRESSURE 5/25 UNCHANGED — S&P ~7,802 +0.04% NOT DIST DAY ✅ — RETAIL SALES -0.6% MISS — UMICH 51.0 MISS — AVGO ⚠️ -4.12% DANGER ZONE — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~189 BLOCKED):**
 - **Market state: 🟡 UNDER PRESSURE (5/25) UNCHANGED** | `research_source: websearch_fallback` | Alpaca Day ~189 BLOCKED | 77th consecutive degraded session
