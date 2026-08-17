@@ -6,7 +6,7 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND — MON AUG 17** *(Jul 13 EXPIRED → 4/25; SPY +4.5% above 50d MA — Aug 17 /pre-market: ES +0.1% NQ +0.5% | NVDA ~$225.72 PM (+0.25%) cup wk54 no handle BLOCKED | HD earnings TOMORROW BMO (EPS est. $4.71) — dist risk watch | Iran/Hormuz DEADLOCKED WTI ~$105 | 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~192 BLOCKED — research_source: websearch_fallback | 79th consecutive degraded session)*
+**Status:** 🟢 **CONFIRMED UPTREND — MON AUG 17** *(Jul 13 EXPIRED → 4/25 | Aug 17 /eod-review CONFIRMED: S&P ~7,778 −0.10% NOT DIST DAY ✅ — threshold 7,769.83 (buffer ~8 pts) — SPY vol ~11.53M vs avg 43.19M BELOW prior day → vol criterion NOT met | Dist 4/25 UNCHANGED | NVDA $226.44 → close est. BLOCKED | XLE +1.4% thesis INTACT | 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~193 BLOCKED — research_source: websearch_fallback | 81st consecutive degraded session | ⚠️ WATCH AUG 18: HD BMO EPS est. $4.71 dist risk | FOMC min Aug 19 dist risk | Jul 16 expires Aug 19 → 3/25)*
 
 **✅ AUG 17 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND TODAY (Jul 13 expires → 4/25) — ES +0.1% NQ +0.5% — NVDA ~$225.72 PM cup wk54 no handle BLOCKED BLACKOUT TOMORROW — HD earnings BMO TUE AUG 18 — IRAN DEADLOCKED WTI $105 — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~192 BLOCKED):**
 - **Market state: 🟢 CONFIRMED UPTREND (transitions at today's open — Jul 13 expires → 4/25)** | `research_source: websearch_fallback` | Alpaca Day ~192 BLOCKED | 79th consecutive degraded session
@@ -4770,3 +4770,29 @@ Format: `YYYY-MM-DD | Index | % Gain | Volume vs. Prior | Day # of Rally Attempt
 - **Actions: NONE** — Alpaca Day ~192 BLOCKED + 0 primary candidates + 0 positions | **91st zero-action session** | **27th consecutive zero-trade week**
 - **Forward (rest of week):** /eod-review 3:15 PM CT — confirm dist day / no dist day | Aug 18 HD BMO (dist risk) | Aug 19 Jul 16 → 3/25 + FOMC Minutes + NVDA blackout | Aug 20 WMT BMO | Aug 21 Jul 17 → 2/25 | Aug 26 NVDA earnings AMC | Aug 27-29 Jackson Hole
 - `research_source: websearch_fallback` | `market_check_Aug17_10AM_CT` | `CONFIRMED_UPTREND_4of25_FIRST_SESSION` | `SPX_7776.10_-0.12pct_thin_dist_risk` | `dist_threshold_7769.83_buffer_6.27pts` | `NVDA_226.44_no_handle_cup_wk54_BLOCKED` | `XLE_61.91_+0.32pct_sector_31pct_YTD` | `Alpaca_Day192_BLOCKED` | `80th_degraded_session` | `91st_zero_action_session` | `27th_consecutive_zero_trade_week`
+
+**✅ AUG 17 /eod-review (3:15 PM CT — 🟢 CONFIRMED UPTREND 4/25 UNCHANGED — S&P ~7,778 −0.10% NOT DIST DAY ✅ — QQQ est. flat/slight neg — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~193 BLOCKED):**
+- **Market state: 🟢 CONFIRMED UPTREND (4/25 — UNCHANGED from /market-check)** | `research_source: websearch_fallback` | Alpaca Day ~193 BLOCKED | 81st consecutive degraded session
+- **AUG 17 CLOSE (websearch_fallback — Alpaca blocked):**
+  - **S&P 500: ~7,778** (−7.76 pts / −0.10%) | Prior close: 7,785.76 | Dist threshold: 7,769.83 | Buffer: ~8 pts ✅
+  - **SPY: ~$774.77** | Range: $774.61–$777.61 | Volume: ~11.53M vs avg 43.19M = 73% BELOW average
+  - **QQQ: est. ~$729–731** (flat to slight negative from $731.07 prior — exact close unconfirmed, Alpaca blocked)
+  - **Nasdaq:** Fractionally negative by close (XLK −0.4%; tech underperformed energy)
+  - **Dow:** −0.25% (retail earnings caution; 30-yr yield 5.29% hit 2007 high)
+  - **XLE: +1.4%** (energy leading — WTI ~$105, Iran/Hormuz DEADLOCKED, sector thesis INTACT ✅)
+- **Distribution check Aug 17:**
+  - **Price criterion: NOT MET** → S&P −0.10% < 0.20% threshold → **NOT a distribution day ✅**
+  - **Volume criterion: NOT MET** → SPY ~11.53M (73% below 43.19M avg; below prior day Aug 14 volume which was also low summer trading) → vol criterion would not be met even if price threshold were crossed
+  - **CONFIRMED: NOT a distribution day Aug 17 ✅**
+  - **Dist count: 4/25 UNCHANGED** | Active: Jul 16, Jul 17, Jul 23, Jul 29
+- **State transition check:** No new dist day → no state change → **CONFIRMED UPTREND UNCHANGED ✅**
+- **Sell-rules-engine:** SKIPPED (93rd consecutive — 0 open positions)
+- **Actions: NONE** | Circuit breakers: ALL CLEAR | Equity: $2,500 (HWM) | P&L today: $0 | P&L week: $0
+- **Hedge check:** Market CONFIRMED UPTREND (no state deterioration) → no hedge entry evaluated ✅
+- **Forward look (key gates):**
+  - **Aug 18 (Tue):** HD earnings BMO | EPS est. $4.71 vs $4.68 YoY (+0.6%) | WEAK GUIDANCE RISK → dist day risk → back to Under Pressure (5/25) | Dist threshold Aug 18: ~7,762.22 (7,778 × 0.998) | LOW's earnings same day
+  - **Aug 19 (Wed):** Jul 16 EXPIRES → **3/25** | NVDA blackout begins | ADI + TGT BMO | FOMC Minutes 2PM ET (hawkish = dist risk)
+  - **Aug 20 (Thu):** WMT BMO (consumer gauge)
+  - **Aug 21 (Fri):** Jul 17 EXPIRES → **2/25** | Flash PMIs | Jobless Claims → market fully protected from dist days expiring
+  - **Aug 26 (Wed):** NVDA earnings AMC | **Aug 27-29:** Jackson Hole Fed symposium
+- `eod_review_Aug17` | `websearch_fallback` | `Alpaca_Day193_BLOCKED` | `81st_degraded_session` | `SPX_~7778_-0.10pct_NOT_DIST_DAY` | `SPY_774.77_vol_11.53M_below_avg` | `QQQ_est_729-731_flat` | `dist_4of25_UNCHANGED` | `CONFIRMED_UPTREND_UNCHANGED` | `XLE_+1.4pct_thesis_intact` | `Dow_-0.25pct_30yr_yield_5.29pct_2007high` | `sell_rules_SKIPPED_93rd` | `0_actions` | `92nd_zero_action_session` | `circuit_ALL_CLEAR` | `HD_BMO_Aug18_dist_risk` | `FOMC_minutes_Aug19` | `Jul16_expires_Aug19_3of25` | `Jul17_expires_Aug21_2of25`

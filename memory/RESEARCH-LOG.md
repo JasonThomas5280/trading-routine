@@ -19239,3 +19239,47 @@ N/A (0 positions)
 - ✅ XLE sector thesis STRENGTHENING: +31% YTD, $61.91 approaching 52-wk high $63.46; screener queue intact
 
 `research_source: websearch_fallback` | `market_check_Aug17` | `SPX_7776.10_-0.12pct` | `dist_threshold_6.27pts_THIN` | `NVDA_226.44_no_handle` | `XLE_61.91_+31pct_YTD` | `Alpaca_Day192_BLOCKED` | `0_actions` | `91st_zero_action_session`
+
+## 2026-08-17 (Mon) — /eod-review (3:15 PM CT) — 🟢 CONFIRMED UPTREND 4/25 UNCHANGED — S&P ~7,778 −0.10% NOT DIST DAY ✅ — 0 POSITIONS — 0 ACTIONS — 93rd CONSECUTIVE SELL-RULES SKIP
+
+**Research source:** websearch_fallback (Alpaca Day ~193 BLOCKED | Perplexity 403 | AV 403 — 81st degraded session)
+**Market direction pull:** 🟢 Confirmed Uptrend (4/25 — no change)
+**Sector leaders (top 3):** XLE (+1.4% today, +31% YTD) > XLI (holding) > XLK (−0.4% today, still top 3 YTD)
+**Sector laggards:** XLV (−0.6%) | XLY (−0.4%) | XLC
+
+**Close:** SPY ~$774.77 (est. −0.10% from $776.34) | QQQ est. ~$729–731 (flat to slight neg from $731.07)
+**Distribution days:** 4/25 (today: NOT a dist day ✅ — S&P −0.10% < 0.20% threshold; SPY vol ~11.53M vs avg 43.19M = 73% BELOW average → vol criterion NOT met)
+**Market state:** 🟢 CONFIRMED UPTREND 4/25 (no state transition today)
+**Positions held:** 0
+**Actions today:**
+  - SELL-RULES-ENGINE: SKIPPED (93rd consecutive — 0 open positions)
+  - No orders executed (Alpaca blocked Day ~193)
+**Circuit breakers:** NONE triggered (ALL CLEAR)
+**P&L today:** $0 (0.00%) — no positions
+**Equity:** $2,500.00 (HWM unchanged)
+
+### Aug 17 Session Summary
+
+**Market:** S&P 500 dipped slightly (−0.10%) on rising oil and Treasury yields. 30-yr yield hit 5.29% (2007 high). Market absorbing first session of Confirmed Uptrend with low-volume drift — classic summer churn. Not a distribution day by any criterion.
+
+**XLE thesis strengthening:** +1.4% sector performance on Iran/Hormuz DEADLOCK — WTI sustained ~$105. Energy leading while tech (XLK −0.4%) and healthcare (XLV −0.6%) lag.
+
+**Positions check:** 0 open positions. Sell-rules-engine skipped (93rd consecutive). No stops to tighten.
+
+**Watchlist:** Primary ZERO qualified candidates (28th consecutive week). NVDA: cup wk54 no handle, last pre-blackout day tomorrow (Aug 18) — blocked regardless. AVGO: still removed. XLE/XLI unscored (Alpaca blocked).
+
+### Tomorrow's Key Gates (Aug 18)
+- HD earnings BMO: EPS est. $4.71 (+0.6% YoY — nearly flat) | WEAK GUIDANCE RISK (retail sales -0.6% miss, UMich 51.0) → potential dist day → back to Under Pressure (5/25)
+- Dist threshold Aug 18: ~7,762.22 (7,778 × 0.998)
+- NVDA: last pre-blackout day — still BLOCKED (no handle + Alpaca blocked)
+- LOW's earnings same day
+
+### Research Flags
+- ⚠️ HD earnings BMO Aug 18 = #1 risk event this week → monitor at /eod-review Aug 18
+- ⚠️ FOMC Minutes Aug 19 2PM ET: hawkish tone = dist risk
+- ✅ Jul 16 expires Aug 19 → 3/25 | Jul 17 expires Aug 21 → 2/25
+- ✅ XLE thesis intact — screener queue (OXY/EOG/COP/SLB) first priority on Alpaca restore
+
+`eod_review_Aug17` | `websearch_fallback` | `Alpaca_Day193_BLOCKED` | `81st_degraded_session` | `SPX_~7778_-0.10pct_NOT_DIST_DAY` | `dist_4of25_UNCHANGED` | `QQQ_est_729-731_flat` | `CONFIRMED_UPTREND_4of25_UNCHANGED` | `sell_rules_SKIPPED_93rd` | `0_actions` | `92nd_zero_action_session` | `27th_consecutive_zero_trade_week` | `circuit_ALL_CLEAR` | `equity_2500_HWM` | `XLE_+1.4pct_thesis_intact` | `HD_BMO_Aug18_dist_risk` | `FOMC_minutes_Aug19`
+
+---

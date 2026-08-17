@@ -6235,3 +6235,31 @@ Plan: No entries today (Alpaca blocked + zero qualified candidates). Confirm Upt
 **This week's risks:** HD BMO Tue (dist), FOMC Minutes Wed Aug 19 (hawkish = dist), TGT/ADI/WMT earnings, Jul 16 → 3/25 Wed, Jul 17 → 2/25 Fri.
 
 **Next check:** /eod-review 3:15 PM CT
+
+---
+
+## 📊 EOD 2026-08-17 | Equity $2,500.00 ($0 day, $0 week)
+
+**Open:** 0 positions | 100% cash
+**Distribution days:** 4/25 (market: 🟢 CONFIRMED UPTREND — first full session, intact)
+**Dist day check Aug 17:** S&P ~7,778 −0.10% → NOT a dist day ✅ (threshold 7,769.83; SPY vol 11.53M vs avg 43.19M = BELOW prior day → vol criterion not met)
+**Sell-rules-engine:** SKIPPED (93rd consecutive — 0 positions)
+
+**Actions today:**
+  • NONE — Alpaca Day ~193 BLOCKED | 0 open positions | 0 qualified candidates (28th week)
+
+**Market context:**
+  • S&P 500 ~7,778 (−0.10%) | QQQ est. ~$729–731 (flat/slight neg)
+  • 30-yr yield 5.29% (2007 high) | WTI ~$105 Iran/Hormuz DEADLOCKED
+  • XLE +1.4% (energy leading — sector thesis INTACT ✅) | XLK −0.4% | XLV −0.6%
+
+**Tomorrow (Aug 18) — HIGH ALERT:**
+  • HD earnings BMO (EPS est. $4.71 +0.6% YoY) → weak guidance = DIST DAY RISK → back to Under Pressure 5/25
+  • Dist threshold Aug 18: ~7,762 | NVDA last pre-blackout day (ALL BLOCKED regardless)
+  • FOMC Minutes Wed Aug 19 2PM ET | Jul 16 expires Aug 19 → 3/25
+  • WMT BMO Aug 20 | Jul 17 expires Aug 21 → 2/25
+
+**Circuit breakers:** ALL CLEAR
+**PDT count:** 0/3
+**HWM:** $2,500 (intact, 27th consecutive zero-trade week)
+
