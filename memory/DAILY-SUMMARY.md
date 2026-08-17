@@ -6213,3 +6213,25 @@ Key catalyst Wed Aug 19: ADI/TGT BMO + FOMC Minutes 2PM ET + NVDA blackout begin
 Iran/Hormuz: DEADLOCKED (8-15 ships/day vs 130 normal; WTI ~$105; reparations demand stalls deal)
 Infrastructure: Alpaca Day ~192 BLOCKED | Perplexity 403 | AV 403 | 79th degraded session
 Plan: No entries today (Alpaca blocked + zero qualified candidates). Confirm Uptrend at /market-check — watch dist threshold 7,769.83. Alert: HD miss tomorrow = Uptrend threat. XLE/XLI screener is highest priority on API restore. NVDA post-blackout entry earliest Aug 27 (needs new base + handle + pivot after Aug 26 earnings).
+
+---
+
+## 📈 Market-Check — 2026-08-17 10:00 AM CT
+
+**Market:** 🟢 CONFIRMED UPTREND (4/25) — FIRST SESSION | Dist threshold: 7,769.83
+**Circuit breakers:** NONE
+**Alpaca:** Day ~192 BLOCKED (403) — execution impossible
+
+**Market data (intraday 10 AM CT):**
+- S&P 500: 7,776.10 (−0.12%) ⚠️ THIN — 6.27 pts above dist threshold
+- NVDA: $226.44 (+0.57%) — cup wk54, NO handle, BLOCKED, blackout Aug 19
+- XLE: $61.91 (+0.32%) — 52-wk high $63.46, +31% YTD, Iran thesis intact
+
+**Actions taken:** None — 0 qualifying candidates | 0 open positions | Alpaca blocked
+**Watchlist status:** 0 primary, 4 bench (NVDA/XLE/XLI/ARM — all blocked or unscored)
+**Open positions:** 0 (0% deployed) | Weekly trade count: 0/3
+**Key risk today:** S&P 7,776.10 vs dist threshold 7,769.83 — only 6.27 pts of buffer. Confirm no dist day at /eod-review 3:15 PM CT.
+
+**This week's risks:** HD BMO Tue (dist), FOMC Minutes Wed Aug 19 (hawkish = dist), TGT/ADI/WMT earnings, Jul 16 → 3/25 Wed, Jul 17 → 2/25 Fri.
+
+**Next check:** /eod-review 3:15 PM CT

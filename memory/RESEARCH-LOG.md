@@ -19201,3 +19201,41 @@ N/A (0 positions)
 - **NVDA:** Tomorrow (Aug 18) is last pre-blackout day — ALL blocked regardless. No action.
 - **XLE/XLI screener:** First priority on Alpaca/AV restore. OXY/EOG/COP/SLB/GEV/PWR.
 - `research_source: websearch_fallback` | `0_positions` | `0_actions` | `90th_zero_action_session` | `27th_zero_trade_week` | `Alpaca_Day192_BLOCKED`
+
+---
+
+## 2026-08-17 (Mon) — /market-check (10:00 AM CT) — 🟢 CONFIRMED UPTREND 4/25 FIRST SESSION — S&P 7,776.10 -0.12% ⚠️ THIN DIST RISK — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~192 BLOCKED | Perplexity 403 | AV 403 — 80th degraded session)
+**Market state:** 🟢 CONFIRMED UPTREND (Jul 13 expired at open → 4/25)
+
+### Abort Gate Results
+- Market state: ✅ CONFIRMED UPTREND (gate passes)
+- Research: ✅ websearch_fallback (not DEGRADED)
+- All circuit breakers: ✅ CLEAR (0 P&L, $2,500 HWM)
+- Weekly trades: ✅ 0/3 | Positions: ✅ 0/4 | Cash: ✅ 100%
+- **Functional abort: Alpaca Day ~192 BLOCKED (403)** — execution impossible
+
+### Market Data (10:03 AM EDT / 9:03 AM CT)
+- **S&P 500:** 7,776.10 (−0.12%) | Dist threshold: 7,769.83 | Buffer: **6.27 pts** ⚠️ THIN
+- **Nasdaq:** Fractionally positive | Dow −0.3% | XLI/XLK holding vs Dow
+- **NVDA:** $226.44 (+0.57%) | Range $224.50–$227.49 | Cup wk ~54, NO handle, BLOCKED | Last 2 pre-blackout days: today + Aug 18
+- **XLE:** $61.91 (+0.32%) | Range $61.25–$62.11 | 52-wk high $63.46 | +31% YTD | Hormuz/Iran thesis intact
+- **Macro:** HD earnings BMO tomorrow | FOMC Minutes Wed Aug 19 2PM ET | WTI ~$105 Iran deadlocked
+
+### Watchlist Triggers
+- Primary watchlist: **ZERO** qualifying candidates (27th consecutive week)
+- NVDA: No pivot (no handle) → CANNOT trigger | Blackout Aug 19
+- XLE leaders: Unscored (Alpaca blocked) → CANNOT evaluate
+- Result: **No entries evaluated** | Sell-rules-engine: SKIPPED (0 positions)
+
+### Bench Promotions/Demotions
+- **NONE** — no bench item within 2% of pivot; all unscored or below threshold
+
+### Research Flags
+- ⚠️ DIST DAY RISK TODAY: S&P 7,776.10 vs threshold 7,769.83 = 6.27 pts (THIN) — confirm at /eod-review 3:15 PM CT
+- ⚠️ HD BMO TOMORROW: weak guidance = potential dist day Aug 18 → back to Under Pressure
+- ⚠️ FOMC Minutes Aug 19: hawkish = dist risk
+- ✅ XLE sector thesis STRENGTHENING: +31% YTD, $61.91 approaching 52-wk high $63.46; screener queue intact
+
+`research_source: websearch_fallback` | `market_check_Aug17` | `SPX_7776.10_-0.12pct` | `dist_threshold_6.27pts_THIN` | `NVDA_226.44_no_handle` | `XLE_61.91_+31pct_YTD` | `Alpaca_Day192_BLOCKED` | `0_actions` | `91st_zero_action_session`
