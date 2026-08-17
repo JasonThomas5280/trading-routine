@@ -54,6 +54,17 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 **Built:** 2026-08-16 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 78th consecutive degraded session
+
+**✅ AUG 17 /pre-market UPDATE (6:00 AM CT — 🟢 UPTREND CONFIRMED TODAY — ES +0.1% NQ +0.5% — NVDA ~$225.72 PM no handle BLOCKED — HD BMO TUE DIST RISK — IRAN DEADLOCKED WTI $105 — 0 ACTIONS):**
+- **Market:** 🟢 CONFIRMED UPTREND (Jul 13 expires → 4/25 at today's open) | SPY +4.5% above 50d MA ✅ | Dist threshold ~7,769.83 | LOW dist risk (ES +0.1% → opens ~7,793)
+- **Futures:** ES +0.1%, NQ +0.5% | Polymarket 62% higher open | VIX subdued | IWM leading | Market at ATH
+- **NVDA (~$225.72 PM est., +0.25%):** Cup wk ~54; NO handle → no pivot → 🔴 BLOCKED. Blackout Aug 19 (TOMORROW is last pre-blackout day). ALL gates blocked. Earnings Aug 26 AMC (~$46B rev, EPS $1.00 est.). Post-blackout entry: Aug 27+ (need new base + handle + pivot).
+- **AVGO:** REMOVED (broken base $392.99 -5.94% Aug 14 on elevated vol). Not re-evaluating until post-Aug 29 AMC + 8+ week base rebuild.
+- **HD earnings TOMORROW BMO (⚠️ dist risk):** EPS est. $4.71 (near-flat YoY +0.6%), Rev est. $47.5B. Weak guidance = potential dist day Aug 18 → Uptrend back to 5/25 Under Pressure. Monitor at /market-check Aug 18.
+- **Iran/Hormuz DEADLOCKED:** WTI ~$105/barrel sustained. XLE thesis INTACT. EOG +36% YTD, COP Q1 EPS beat 12%. Cannot screen OXY/EOG/COP/SLB (Alpaca BLOCKED).
+- **XLE/XLI screener queue:** OXY, EOG, COP, SLB, GEV, PWR — still blocked. Priority: run immediately on Alpaca restore.
+- **0 actions | 79th degraded session | 90th zero-action session | 27th zero-trade week**
+- `pre-market_Aug17` | `websearch_fallback` | `Alpaca_Day192_BLOCKED`
 **Market direction:** 🟢 **CONFIRMED UPTREND PENDING (transitions Mon Aug 17 when Jul 13 expires → 4/25)** | **NO NEW LONG ENTRIES UNTIL MON AUG 17 CONFIRMED**
 **S&P 500 baseline (Aug 14 CONFIRMED close):** 7,785.76 | **SPY: $776.34 | 50d MA: ~$742.90 (SPY +4.5% above) | 200d MA: ~$706.10 (SPY +9.9% above)** | Golden cross intact
 **QQQ baseline (Aug 14 close):** $731.07 | 50d MA ~$712 (QQQ +2.7% above) | 200d MA ~$643 (QQQ +13-14% above) | Golden cross intact

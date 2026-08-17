@@ -19123,3 +19123,81 @@ Via `bash scripts/clickup.sh message` (echo/append mode — CLICKUP_CHANNEL_ID e
 6. **Alpaca Day ~191 BLOCKED:** No execution possible. SH cancellation is notation-only; XLE/XLI screener queue pending API restore.
 
 `research_source: websearch_fallback` | `Alpaca_Day191_BLOCKED` | `Perplexity_403` | `AV_403` | `78th_degraded_session` | `weekly-prep_Aug16_complete` | `SPX_CONF_7785.76_Aug14_NOT_DIST_DAY` | `dist_5of25_through_Aug14` | `Aug17_Jul13_expires_4of25_CONFIRMED_UPTREND` | `SPY_776.34_+4.5pct_above_50d` | `QQQ_731.07_+2.7pct_above_50d` | `AVGO_BROKEN_392.99_-5.94pct_29.5Mvol_REMOVED` | `NVDA_225.16_cup_wk53_no_handle_blackout_Aug19_earnings_Aug26` | `sectors_XLE_XLI_XLK_top3` | `XLE_XLI_screener_queue_OXY_EOG_COP_SLB_GEV_PWR` | `SH_hedge_CANCELLED_uptrend_confirming` | `27th_zero_trade_week` | `retail_earnings_HD_TGT_WMT_dist_risk` | `FOMC_minutes_Aug19` | `JacksonHole_Aug27-29_NVDA_Aug26_NEXT_WEEK`
+
+---
+
+## 2026-08-17 (Mon) — /pre-market (6:00 AM CT) — 🟢 CONFIRMED UPTREND TODAY (Jul 13 → 4/25) — ES +0.1% NQ +0.5% — NVDA ~$225.72 PM cup wk54 no handle BLOCKED — HD BMO TUE DIST RISK — IRAN DEADLOCKED WTI $105 — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~192 BLOCKED | Perplexity 403 | AV 403 — 79th consecutive degraded session)
+**Market direction pull:** 🟢 CONFIRMED UPTREND (Jul 13 expires today → 4/25; entry gates OPEN in principle — no executable candidates yet)
+**Sector leaders (top 3):** XLE (Energy — Hormuz/oil $105), XLI (Industrials — AI infra), XLK (Technology — AI capex)
+
+### Step 1: Overnight gap check on open positions
+
+**Positions: 0** | Gap check SKIPPED (38th consecutive zero-position pre-market)
+
+### Step 2: Catalyst scan — open positions
+
+N/A (0 positions)
+
+### Step 3: Catalyst scan — watchlist / bench names
+
+**NVDA (~$225.72 PM est., +0.25% from $225.16 Aug 14 close):**
+- Pre-market flat/slight up | Earnings Aug 26 AMC: rev est. ~$46B, EPS est. $1.00 (Q2 FY2027)
+- Cup wk ~54; NO handle; 79/100 est. | BLACKOUT BEGINS AUG 19 (tomorrow is last pre-blackout day — Aug 18)
+- ALL gates blocked: no handle → no pivot → no entry trigger; Alpaca blocked; Uptrend just confirming
+- Status: 🔴 BLOCKED — no action possible through Aug 18; post-blackout entry Aug 27+
+
+**AVGO:** REMOVED Aug 14 (broken base $392.99 -5.94% elevated vol). Not re-evaluating.
+
+**XLE screener queue (OXY/EOG/COP/SLB) — CONTEXT ONLY (Alpaca blocked):**
+- WTI crude ~$105/barrel (Iran/Hormuz deadlock = sustained supply disruption)
+- XLE ETF: +29% YTD, 52-wk high range $61-63
+- EOG Resources: +36% YTD standout (Encino acquisition, production record)
+- COP: Q1 2026 EPS beat by ~12%; Qatar out of 2026 production guidance (Middle East exposure)
+- SLB: 4.43% XLE weighting; oilfield services leader
+- OXY: Buffett stake (strong conviction signal); strong C-letter
+- **Sector thesis: INTACT and strengthening** — Hormuz deadlock = structural oil supply risk; WTI $105 = sustained XLE outperformance
+- Cannot score formally without Alpaca/AV data
+
+### Step 4: Market overnight check
+
+**Overnight data (Aug 17, 2026 — via WebSearch):**
+- **ES futures (S&P 500): +0.1%** → S&P opens ~7,793 (7,785.76 × 1.001) — above dist threshold 7,769.83 by ~23 pts → LOW dist risk
+- **NQ futures (Nasdaq 100): +0.5%** → Tech/semis outperforming overnight
+- **Sentiment:** Polymarket 62% odds S&P higher open | Market at ATH | VIX subdued | IWM (small caps) leading → broad participation
+- **Geopolitical:** Iran/Hormuz DEADLOCKED (8-15 ships/day vs. 130 normal; IEA warns stockpile depletion) | WTI ~$105/barrel | Iran demanding sanctions relief + war reparations | No resolution imminent
+- **Investor focus this week:** Jackson Hole Aug 27-29 (next week) + NVDA Aug 26 AMC | Retail earnings week (HD/TGT/ADI/WMT) | FOMC Minutes Aug 19
+- **Expected direction:** Neutral-to-bullish on open | SPY/QQQ modestly off ATH highs | Firmer yields + strong commodities = supportive backdrop with some caution
+
+### Step 5: Buy-zone readiness
+
+**Primary watchlist candidates: ZERO** (28th consecutive week with no candidates ≥75 with valid base/pivot)
+
+| Symbol | Status | Distance from pivot | Reason |
+|---|---|---|---|
+| NVDA | 🔴 BLOCKED | No pivot (no handle) | No handle → no valid entry; blackout Aug 19; Alpaca blocked |
+| AVGO | 🔴 REMOVED | N/A — base broken | Structurally broken Aug 14; not re-evaluating |
+| OXY/EOG/COP/SLB | ⬜ UNSCORED | Cannot calculate (Alpaca blocked) | XLE screener queue — priority on API restore |
+| GEV/PWR | ⬜ UNSCORED | Cannot calculate (Alpaca blocked) | XLI screener queue — priority on API restore |
+
+**Entry gate logic today:**
+- Market CONFIRMS uptrend at open ✅ → entry gate is open IN PRINCIPLE
+- But: no candidates ≥75 + no valid base/pivot on any name + Alpaca blocked = NO ENTRIES
+- First executable order: run XLE/XLI screeners the moment Alpaca/AV restore
+
+### Step 6: Circuit breaker check
+
+- Account daily P&L: $0 (no positions)
+- Account weekly P&L: $0 (no positions)
+- Account total drawdown from HWM: $0 (equity = HWM $2,500)
+- **Circuit breakers: ALL CLEAR** ✅ | No gates triggered
+
+### Step 7: Plan for session
+
+- **No new entries today** (Alpaca blocked + zero qualified candidates)
+- **Watch list:** dist threshold ~7,769.83 — confirm at /market-check that today is NOT a dist day
+- **HD earnings tomorrow BMO:** Prepare for potential dist day Aug 18. Weak guidance + market selloff → dist 5/25 → Under Pressure. Do not reduce vigilance on Uptrend just because it confirmed today.
+- **NVDA:** Tomorrow (Aug 18) is last pre-blackout day — ALL blocked regardless. No action.
+- **XLE/XLI screener:** First priority on Alpaca/AV restore. OXY/EOG/COP/SLB/GEV/PWR.
+- `research_source: websearch_fallback` | `0_positions` | `0_actions` | `90th_zero_action_session` | `27th_zero_trade_week` | `Alpaca_Day192_BLOCKED`

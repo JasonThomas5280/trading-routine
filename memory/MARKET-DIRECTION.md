@@ -6,7 +6,41 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND IMMINENT — TRANSITIONS MON AUG 17** *(Aug 16 /weekly-prep — S&P 500 AUG 14 CONFIRMED CLOSE 7,785.76 (-0.17%) NOT DIST DAY ✅ (light volume + below 0.2% threshold) — DIST 5/25 UNCHANGED through Aug 14 — AUG 14 CLOSE CORRECTS PRIOR /market-check EST OF ~7,802 — MON AUG 17: Jul 13 EXPIRES → 4/25 → CONFIRMED UPTREND (SPY +4.5% above 50d MA; <5 dist days) — ⚠️ AVGO CONFIRMED BROKEN: $392.99 close (-5.94%) on 29.5M shares (elevated vs ~25M avg) — BofA $370B AI debt flag = structural thesis risk — AVGO REMOVED FROM BENCH — NVDA $225.16 flat (cup wk53; no handle; BLACKOUT AUG 19; Aug 26 AMC earnings) — NO NEW LONG ENTRIES UNTIL MON AUG 17 CONFIRMED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~191 BLOCKED — research_source: websearch_fallback | 78th consecutive degraded session)*
+**Status:** 🟢 **CONFIRMED UPTREND — MON AUG 17** *(Jul 13 EXPIRED → 4/25; SPY +4.5% above 50d MA — Aug 17 /pre-market: ES +0.1% NQ +0.5% | NVDA ~$225.72 PM (+0.25%) cup wk54 no handle BLOCKED | HD earnings TOMORROW BMO (EPS est. $4.71) — dist risk watch | Iran/Hormuz DEADLOCKED WTI ~$105 | 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~192 BLOCKED — research_source: websearch_fallback | 79th consecutive degraded session)*
+
+**✅ AUG 17 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND TODAY (Jul 13 expires → 4/25) — ES +0.1% NQ +0.5% — NVDA ~$225.72 PM cup wk54 no handle BLOCKED BLACKOUT TOMORROW — HD earnings BMO TUE AUG 18 — IRAN DEADLOCKED WTI $105 — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~192 BLOCKED):**
+- **Market state: 🟢 CONFIRMED UPTREND (transitions at today's open — Jul 13 expires → 4/25)** | `research_source: websearch_fallback` | Alpaca Day ~192 BLOCKED | 79th consecutive degraded session
+- **Abort gates: (1) Alpaca BLOCKED → no execution | (2) 0 candidates ≥75 | (3) research DEGRADED** | 90th consecutive zero-action session
+- **Uptrend confirmation mechanics:** Jul 13 dist day falls out of 25-session rolling window at today's open → dist drops 5/25 → 4/25 → **CONFIRMED UPTREND** ✅ | SPY +4.5% above 50d MA ✅ | SPY +9.9% above 200d MA ✅ | Golden cross intact ✅ | S&P 500 at ATH ✅ | All four criteria met
+- **Futures overnight (as of 6:00 AM CT):**
+  - **ES (S&P 500): +0.1%** → S&P opens ~7,793 (well above dist threshold 7,769.83) → **dist risk LOW today** ✅
+  - **NQ (Nasdaq 100): +0.5%** → Tech outperforming overnight
+  - Polymarket: 62% odds S&P opens higher | Market at all-time highs | VIX subdued | IWM (small caps) leading | Firmer yields, strong commodities
+- **Gap check on open positions:** 0 positions → SKIPPED ✅
+- **Catalyst scan — open positions:** 0 positions → SKIPPED ✅
+- **Catalyst scan — watchlist/bench:**
+  - **NVDA (~$225.72 PM est., +0.25% from $225.16 Aug 14 close):** Cup wk ~54; NO handle; 79/100 est. | **BLACKOUT AUG 19 = TOMORROW IS LAST PRE-BLACKOUT DAY (Aug 18) — ALL BLOCKED** (no handle + no pivot + Alpaca BLOCKED). Earnings Aug 26 AMC: est. rev ~$46B, EPS $1.00 est. (Q2 FY2027). Post-blackout entry: Aug 27+ (need new base + handle + pivot — likely Sep). Status: 🔴 BLOCKED
+  - **AVGO:** REMOVED (broken base Aug 14 $392.99 -5.94%). Not re-evaluating until post-earnings (Aug 29 AMC) + 8+ week base rebuild (earliest Nov 2026).
+  - **XLE screener queue (OXY/EOG/COP/SLB):** STILL BLOCKED (Alpaca/AV 403). WebSearch context: WTI ~$105 (elevated Iran/Hormuz risk), XLE +29% YTD, EOG +36% YTD (Encino acquisition), COP beat EPS by 12% in Q1 → sector thesis INTACT. Cannot score without live data.
+  - **XLI screener queue (GEV/PWR):** STILL BLOCKED (Alpaca/AV 403).
+- **HD earnings tomorrow BMO (Aug 18) — ⚠️ DIST RISK:**
+  - EPS est. $4.71 (vs $4.68 YoY = +0.6% — near-flat growth) | Rev est. $47.5B | Q1 beat slightly ($3.43 vs $3.41)
+  - HD stock -10.7% past 52 weeks (massive S&P underperformer)
+  - Key watch: comparable-store sales, professional demand, full-year guidance revision
+  - **Risk scenario:** Weak guidance citing July retail sales -0.6% miss + UMich 51.0 = miss + guide-down → market selloff → potential dist day Aug 18 → could push Uptrend back to Under Pressure (5/25)
+  - **Do NOT enter any position today in anticipation of HD** — wait for Aug 18 outcome
+- **Geopolitical — Iran/Hormuz (DEADLOCKED):** Only 8-15 ships/day crossing vs. 130 pre-crisis. Iran demanding sanctions relief + war reparations. Hormuz MOU (Jun 17) collapsed. **WTI ~$105/barrel sustained** → XLE thesis INTACT. IEA warning on stockpile depletion. No resolution imminent.
+- **FOMC Minutes Wed Aug 19 2PM ET:** Potential hawkish tone = rate-hike repricing = dist risk → monitor at /eod-review Aug 19
+- **Dist count: 5/25 → 4/25 today (CONFIRMED UPTREND)** | Active after expiry: Jul 16, Jul 17, Jul 23, Jul 29 → 4/25
+  - **Dist threshold Aug 17:** ~7,769.83 | ES +0.1% = opens ~7,793 → **LOW dist risk** ✅
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 | PDT: 0/3
+- **Transition roadmap (UPDATED):**
+  - **Mon Aug 17 (TODAY):** Jul 13 expires → **4/25 CONFIRMED UPTREND** ✅ | Dist threshold ~7,769.83 | LOW risk (ES +0.1%) | HD earnings BMO TUE = pre-event caution
+  - **Tue Aug 18:** HD earnings BMO — ⚠️ weak guidance = dist risk → monitor for new dist day
+  - **Wed Aug 19:** Jul 16 expires → **3/25** | ADI earnings BMO | TGT earnings BMO | **NVDA BLACKOUT BEGINS** | FOMC Minutes 2PM ET
+  - **Fri Aug 21:** Jul 17 expires → **2/25** | Flash PMIs | Jobless Claims
+  - **Next week: NVDA earnings Aug 26 AMC + Jackson Hole Aug 27-29** = DOMINANT catalysts
+- `pre-market_Aug17` | `websearch_fallback` | `Alpaca_Day192_BLOCKED` | `79th_degraded_session` | `90th_zero_action_session` | `UPTREND_CONFIRMED_Jul13_expires_4of25` | `ES_+0.1pct_NQ_+0.5pct_LOW_dist_risk` | `dist_threshold_Aug17_7769.83` | `NVDA_~225.72est_cup_wk54_no_handle_blackout_AUG19_tomorrow` | `AVGO_REMOVED` | `HD_earnings_BMO_Aug18_EPS_est_4.71_rev_47.5B_dist_risk` | `Iran_Hormuz_DEADLOCKED_WTI_105` | `XLE_29pct_YTD_EOG_36pct_YTD_thesis_intact` | `circuit_breakers_ALL_CLEAR` | `0_positions_0_actions_27th_zero_trade_week`
 
 **⚡ AUG 16 /weekly-prep (4:00 PM CT — 🟢 UPTREND IMMINENT MON AUG 17 — AUG 14 S&P CONFIRMED 7,785.76 NOT DIST DAY ✅ — AVGO BROKEN $392.99 REMOVED — NVDA $225.16 BLACKOUT AUG 19 — XLE/XLI/XLK LEAD SECTORS — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~191 BLOCKED):**
 - **Current market state (as of Aug 14 close): 🟡 UNDER PRESSURE (5/25)** | `research_source: websearch_fallback` | Alpaca Day ~191 BLOCKED | 78th consecutive degraded session

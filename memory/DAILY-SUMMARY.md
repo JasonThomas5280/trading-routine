@@ -6192,3 +6192,24 @@ Calendar risks:
 - Fri Aug 21: Jul17 → 2/25 | Flash PMIs | Jobless Claims
 - NEXT WEEK: NVDA earnings Aug 26 AMC + Jackson Hole Aug 27-29 (SIZE CONSERVATIVELY)
 Entry plan Mon: Gate open after Jul13 expiry → NO entries (Alpaca blocked + no valid candidates). Screener queue: OXY/EOG/COP/SLB (XLE) + GEV/PWR (XLI) on Alpaca restore.
+
+---
+## 2026-08-17 06:00 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-08-17 (Mon)
+Market: 🟢 CONFIRMED UPTREND (Jul 13 expires → 4/25 at today's open; SPY +4.5% above 50d MA)
+Futures: ES +0.1% | NQ +0.5% | Polymarket 62% higher open | Dist threshold ~7,769.83 | LOW risk
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: none (0 positions)
+Watchlist ready: NONE (0 candidates ≥75 with valid base/pivot)
+Watchlist watching:
+  - NVDA 79/100 (cup wk54, no handle → no pivot → BLOCKED; blackout AUG 19 tomorrow)
+  - XLE queue: OXY/EOG/COP/SLB unscored (Alpaca blocked; WTI $105 thesis intact)
+  - XLI queue: GEV/PWR unscored (Alpaca blocked)
+Removed: AVGO (broken base Aug 14 — not re-evaluating)
+Key catalyst today: Jul 13 dist expiry → CONFIRMED UPTREND at open
+Key catalyst tomorrow: HD earnings BMO (EPS est. $4.71 near-flat YoY; Rev est. $47.5B) — weak guidance = dist risk → watch for Uptrend reversal to 5/25
+Key catalyst Wed Aug 19: ADI/TGT BMO + FOMC Minutes 2PM ET + NVDA blackout begins + Jul 16 expires → 3/25
+Iran/Hormuz: DEADLOCKED (8-15 ships/day vs 130 normal; WTI ~$105; reparations demand stalls deal)
+Infrastructure: Alpaca Day ~192 BLOCKED | Perplexity 403 | AV 403 | 79th degraded session
+Plan: No entries today (Alpaca blocked + zero qualified candidates). Confirm Uptrend at /market-check — watch dist threshold 7,769.83. Alert: HD miss tomorrow = Uptrend threat. XLE/XLI screener is highest priority on API restore. NVDA post-blackout entry earliest Aug 27 (needs new base + handle + pivot after Aug 26 earnings).
