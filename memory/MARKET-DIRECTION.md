@@ -6,7 +6,24 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND — MON AUG 17** *(Jul 13 EXPIRED → 4/25 | Aug 17 /eod-review CONFIRMED: S&P ~7,778 −0.10% NOT DIST DAY ✅ — threshold 7,769.83 (buffer ~8 pts) — SPY vol ~11.53M vs avg 43.19M BELOW prior day → vol criterion NOT met | Dist 4/25 UNCHANGED | NVDA $226.44 → close est. BLOCKED | XLE +1.4% thesis INTACT | 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~193 BLOCKED — research_source: websearch_fallback | 81st consecutive degraded session | ⚠️ WATCH AUG 18: HD BMO EPS est. $4.71 dist risk | FOMC min Aug 19 dist risk | Jul 16 expires Aug 19 → 3/25)*
+**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days | Aug 17 eod-review: S&P ~7,778 NOT DIST DAY ✅ | ⚠️ AUG 18 DIST RISK MODERATE: ES -0.41% → opens ~7,746 vs threshold 7,762.47 | HD BEAT EPS $4.79 comp +1.7% guidance reaffirmed (partial offset) | Monitor /market-check 10 AM CT | NVDA blackout AUG 19 | Jul 16 expires Aug 19 → 3/25 | FOMC Minutes Aug 19 hawkish risk | Alpaca Day ~194 BLOCKED)*
+
+**✅ AUG 18 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK MODERATE (ES -0.41% NQ -0.76% → opens ~7,746 vs threshold 7,762.47) — HD BEAT EPS $4.79 COMP +1.7% GUIDANCE REAFFIRMED — NVDA ~$225.75 PM LAST PRE-BLACKOUT DAY BLOCKED — IRAN HORMUZ ESCALATING (TANKER ATTACKS NEAR-TOTAL STOPPAGE) — WTI DISCREPANCY FLAG — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~194 BLOCKED):**
+- **Market state: 🟢 CONFIRMED UPTREND (4/25)** | `research_source: websearch_fallback` | Alpaca Day ~194 BLOCKED | 82nd consecutive degraded session
+- **⚠️ DIST RISK MODERATE TODAY:** Aug 17 close S&P ~7,778 | Dist threshold Aug 18: ~7,762.47 | ES -0.41% → S&P opens est. ~7,746 = ~16 pts BELOW threshold. If market closes here with elevated volume = NEW DIST DAY (5/25 → Under Pressure). HD beat is a partial offset; guidance not raised limits upside.
+- **HD earnings BMO — BEAT:** EPS $4.79 vs $4.71 est (+1.7%) | Rev $47.9B vs $47.5B (+5.7% YoY) | Comp-store sales +1.7% vs +0.9% est — SIGNIFICANT beat | Guidance REAFFIRMED not raised | Beat reduces consumer deterioration fear; not a dist day catalyst by itself
+- **Futures:** ES -0.41%, NQ -0.76%, Dow futures -0.16% | Polymarket: ~27% odds higher open | Drivers: Iran/Hormuz risk, bond yield pressure, HD digestion
+- **NVDA (~$225.75 PM, -0.26%):** Cup wk54, NO handle, 79/100 est. **TODAY IS LAST DAY BEFORE BLACKOUT.** Blackout begins Aug 19 (tomorrow). ALL gates BLOCKED (no handle, no pivot, Alpaca blocked). Post-earnings entry: Aug 27+. 🔴 BLOCKED.
+- **Iran/Hormuz ESCALATING:** Tanker attacks on ADNOC vessels; near-total Hormuz stoppage (0 vessels Sunday vs. 31 prior weekend). ⚠️ **WTI PRICE DISCREPANCY:** Running memory: $105. Web search: $81.74 (Brent ~$89). Flagging conflict — research degraded (websearch_fallback). XLE thesis INTACT either way.
+- **Open positions:** 0 → gap check SKIPPED | position catalyst scan SKIPPED
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 | PDT: 0/3
+- **Transition roadmap:**
+  - **Today (Aug 18):** ⚠️ DIST RISK MODERATE | Monitor at /market-check | HD beat partial offset
+  - **Tomorrow (Aug 19):** Jul 16 EXPIRES → **3/25** | ADI BMO | TGT BMO | **NVDA BLACKOUT BEGINS** | FOMC Minutes 2PM ET
+  - **Thu Aug 20:** WMT BMO | **Fri Aug 21:** Jul 17 EXPIRES → **2/25**
+  - **Aug 26:** NVDA earnings AMC | **Aug 27-29:** Jackson Hole
+- **Entry plan:** ZERO new entries — no candidates ≥75 with valid base+pivot, Alpaca blocked
+- `pre-market_Aug18` | `websearch_fallback` | `Alpaca_Day194_BLOCKED` | `82nd_degraded_session` | `93rd_zero_action_session` | `CONFIRMED_UPTREND_4of25` | `ES_-0.41pct_NQ_-0.76pct_dist_risk_MODERATE` | `HD_BEAT_EPS_4.79_comp_+1.7pct_guidance_reaffirmed` | `dist_threshold_7762.47` | `NVDA_last_pre_blackout_BLOCKED` | `Iran_escalating_tanker_attacks` | `WTI_discrepancy_flag`
 
 **✅ AUG 17 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND TODAY (Jul 13 expires → 4/25) — ES +0.1% NQ +0.5% — NVDA ~$225.72 PM cup wk54 no handle BLOCKED BLACKOUT TOMORROW — HD earnings BMO TUE AUG 18 — IRAN DEADLOCKED WTI $105 — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~192 BLOCKED):**
 - **Market state: 🟢 CONFIRMED UPTREND (transitions at today's open — Jul 13 expires → 4/25)** | `research_source: websearch_fallback` | Alpaca Day ~192 BLOCKED | 79th consecutive degraded session

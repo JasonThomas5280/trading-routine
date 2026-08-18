@@ -55,6 +55,16 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 **Built:** 2026-08-16 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 78th consecutive degraded session
 
+**✅ AUG 18 /pre-market UPDATE (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK MODERATE (ES -0.41% NQ -0.76% → opens ~7,746 vs threshold 7,762.47) — HD BEAT EPS $4.79 COMP +1.7% GUIDANCE REAFFIRMED (partial offset) — NVDA ~$225.75 PM LAST PRE-BLACKOUT DAY BLOCKED — IRAN HORMUZ ESCALATING TANKER ATTACKS — 0 ACTIONS):**
+- **Market: 🟢 CONFIRMED UPTREND (4/25)** | ⚠️ DIST RISK MODERATE — ES -0.41% opens ~16 pts below threshold 7,762.47 | HD comp +1.7% beat = partial offset | Monitor at /market-check 10 AM CT
+- **HD BEAT:** EPS $4.79 vs $4.71 est | Rev $47.9B vs $47.5B | Comp +1.7% vs +0.9% est — SIGNIFICANT | Guidance REAFFIRMED (not raised) | Not a dist catalyst by itself; broader market weakness is the risk
+- **NVDA (~$225.75 PM, -0.26%):** Cup wk54, NO handle → no pivot → 🔴 BLOCKED | **TODAY IS LAST DAY BEFORE BLACKOUT (Aug 19 tomorrow)** | Post-earnings entry: Aug 27+
+- **XLE leaders:** No single-name news overnight. Hormuz escalating (tanker attacks, near-total stoppage). XLE thesis INTACT. ⬜ CANNOT SCORE (Alpaca/AV blocked).
+- **⚠️ WTI discrepancy:** Running memory $105 | Web search $81.74 (Brent ~$89) | Conflict flagged — research degraded | Resolve at /market-check with live data
+- **Buy-zone readiness:** NVDA 🔴 BLOCKED (no handle, blackout tomorrow) | XLE/XLI ⬜ CANNOT SCORE | All others below threshold | **ZERO ACTIONABLE NAMES**
+- 0 actions | 93rd zero-action session | Alpaca Day ~194 BLOCKED | `research_source: websearch_fallback`
+- NEXT: /market-check 10 AM CT | Aug 19 NVDA blackout + Jul16→3/25 + ADI/TGT BMO + FOMC Minutes 2PM ET
+
 **✅ AUG 17 /pre-market UPDATE (6:00 AM CT — 🟢 UPTREND CONFIRMED TODAY — ES +0.1% NQ +0.5% — NVDA ~$225.72 PM no handle BLOCKED — HD BMO TUE DIST RISK — IRAN DEADLOCKED WTI $105 — 0 ACTIONS):**
 - **Market:** 🟢 CONFIRMED UPTREND (Jul 13 expires → 4/25 at today's open) | SPY +4.5% above 50d MA ✅ | Dist threshold ~7,769.83 | LOW dist risk (ES +0.1% → opens ~7,793)
 - **Futures:** ES +0.1%, NQ +0.5% | Polymarket 62% higher open | VIX subdued | IWM leading | Market at ATH

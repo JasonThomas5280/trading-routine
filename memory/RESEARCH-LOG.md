@@ -19283,3 +19283,50 @@ N/A (0 positions)
 `eod_review_Aug17` | `websearch_fallback` | `Alpaca_Day193_BLOCKED` | `81st_degraded_session` | `SPX_~7778_-0.10pct_NOT_DIST_DAY` | `dist_4of25_UNCHANGED` | `QQQ_est_729-731_flat` | `CONFIRMED_UPTREND_4of25_UNCHANGED` | `sell_rules_SKIPPED_93rd` | `0_actions` | `92nd_zero_action_session` | `27th_consecutive_zero_trade_week` | `circuit_ALL_CLEAR` | `equity_2500_HWM` | `XLE_+1.4pct_thesis_intact` | `HD_BMO_Aug18_dist_risk` | `FOMC_minutes_Aug19`
 
 ---
+
+## 2026-08-18 /pre-market | research_source: websearch_fallback | Alpaca Day ~194 BLOCKED
+
+**Market state:** 🟢 CONFIRMED UPTREND (4/25 dist days) | ⚠️ DIST RISK MODERATE TODAY
+**Futures:** ES -0.41% NQ -0.76% → S&P opens est. ~7,746 (BELOW dist threshold 7,762.47 by ~16 pts)
+**Dist threshold Aug 18:** ~7,762.47 (7,778 × 0.998) | Active dist days: Jul 16, Jul 17, Jul 23, Jul 29 (4/25)
+**Alpaca:** Day ~194 BLOCKED (403) | 82nd consecutive degraded session | Perplexity: 403 | AV: 403
+
+### HD Earnings BMO Aug 18 — BEAT (dist risk REDUCED vs. worst case)
+- EPS: **$4.79 vs. $4.71 est.** (+1.7% beat) ✅
+- Revenue: **$47.9B vs. $47.5B est.** (+5.7% YoY) ✅
+- Comparable-store sales: **+1.7% vs. +0.9% est.** — SIGNIFICANT beat ✅
+- Full-year guidance: **REAFFIRMED** (not raised) — muted upside reaction expected
+- Implication: HD beat = consumer more resilient than feared; not a dist catalyst. Market still opening negative on ES -0.41%.
+
+### Open Positions Catalyst Scan — SKIPPED (0 positions)
+
+### Watchlist/Bench Catalyst Scan
+- **NVDA (~$225.75 PM, -0.26%):** No material news overnight. Cup wk54, NO handle, 79/100 est. **LAST DAY BEFORE BLACKOUT (Aug 19 tomorrow).** ALL GATES BLOCKED. Post-earnings entry: Aug 27+. 🔴 BLOCKED
+- **XLE leaders (OXY/EOG/COP/SLB):** No single-name breaking news overnight. Sector thesis INTACT.
+- **ARM/MRVL:** No developments. Below threshold, watch-only.
+
+### Iran / Hormuz — ESCALATING
+- Tanker attacks on ADNOC vessels over the weekend
+- Near-total Hormuz stoppage (0 commodity vessels Sunday vs. 31 prior weekend)
+- No US-Iran talks resumption; Revolutionary Guards demanding full US compliance
+- **⚠️ WTI PRICE DISCREPANCY:** Running memory: WTI ~$105. Web search result: WTI ~$81.74 (Aug 17 close), Brent ~$89. Flagging conflict — research DEGRADED (websearch_fallback). XLE thesis treated as INTACT either way. Resolve on Alpaca restore.
+
+### Buy-Zone Readiness
+- NVDA: 🔴 BLOCKED (no handle, last pre-blackout day, Alpaca blocked)
+- OXY/EOG/COP/SLB: ⬜ CANNOT SCORE (Alpaca/AV blocked)
+- All others: below threshold
+- **ZERO actionable names**
+
+### Circuit Breaker Check
+- Daily -3%: $0 day P&L → ALL CLEAR ✅ | Weekly -6%: $0 week P&L → ALL CLEAR ✅
+- Drawdown -12%: Equity $2,500 = HWM → ALL CLEAR ✅ | PDT: 0/3 → ALL CLEAR ✅
+
+### Key Calendar
+- **Today (Aug 18):** ⚠️ DIST RISK MODERATE | Monitor /market-check 10 AM CT | LOW's earnings BMO also today
+- **Aug 19:** ADI BMO | TGT BMO | **NVDA BLACKOUT BEGINS** | Jul 16 EXPIRES → **3/25** | FOMC Minutes 2PM ET
+- **Aug 20:** WMT BMO | **Aug 21:** Jul 17 EXPIRES → **2/25**
+- **Aug 26:** NVDA earnings AMC | **Aug 27-29:** Jackson Hole
+
+`pre-market_Aug18` | `websearch_fallback` | `Alpaca_Day194_BLOCKED` | `82nd_degraded_session` | `93rd_zero_action_session` | `HD_BEAT_EPS_4.79_rev_47.9B_comp_+1.7pct_guidance_REAFFIRMED` | `ES_-0.41pct_NQ_-0.76pct_DIST_RISK_MODERATE` | `dist_threshold_7762.47` | `NVDA_~225.75_last_pre_blackout_BLOCKED` | `Iran_tanker_attacks_near_total_stoppage` | `WTI_discrepancy_81.74_vs_105_flag` | `circuit_breakers_ALL_CLEAR` | `CONFIRMED_UPTREND_4of25`
+
+---

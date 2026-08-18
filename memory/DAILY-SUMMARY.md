@@ -6263,3 +6263,26 @@ Plan: No entries today (Alpaca blocked + zero qualified candidates). Confirm Upt
 **PDT count:** 0/3
 **HWM:** $2,500 (intact, 27th consecutive zero-trade week)
 
+
+---
+
+## 🌅 Pre-market 2026-08-18
+
+```
+🌅 Pre-market 2026-08-18
+Market: 🟢 CONFIRMED UPTREND (4/25) | ⚠️ DIST RISK MODERATE
+Futures: ES -0.41% NQ -0.76% | Dist threshold 7,762.47 | S&P opens est. ~7,746 = BELOW threshold by ~16 pts
+HD earnings BMO: BEAT — EPS $4.79 vs $4.71 est | Comp +1.7% vs +0.9% est | Guidance REAFFIRMED (partial dist offset)
+Open positions: 0 | Circuit breakers: NONE (ALL CLEAR)
+Overnight gaps: N/A (0 positions)
+Watchlist ready 🟢: NONE
+Watchlist watching 🟡: NONE (all blocked or below threshold)
+NVDA: ~$225.75 PM -0.26% — LAST DAY BEFORE BLACKOUT (Aug 19) — 🔴 BLOCKED (no handle/pivot/Alpaca)
+Iran/Hormuz: ESCALATING — tanker attacks, near-total Hormuz stoppage
+⚠️ WTI flag: Web search $81.74 vs memory $105 — DISCREPANCY, resolve at /market-check
+Key catalyst: Watch for dist day if S&P closes <7,762.47 on elevated volume at /market-check
+Plan: ZERO new entries | no ≥75 candidates | Alpaca Day ~194 BLOCKED
+```
+
+**research_source:** websearch_fallback | **Alpaca:** Day ~194 BLOCKED | **Session:** 82nd degraded | 93rd zero-action | 28th zero-trade week
+
