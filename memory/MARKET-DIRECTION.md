@@ -6,7 +6,21 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days | Aug 17 eod-review: S&P ~7,778 NOT DIST DAY ✅ | ⚠️ AUG 18 DIST RISK MODERATE: ES -0.41% → opens ~7,746 vs threshold 7,762.47 | HD BEAT EPS $4.79 comp +1.7% guidance reaffirmed (partial offset) | Monitor /market-check 10 AM CT | NVDA blackout AUG 19 | Jul 16 expires Aug 19 → 3/25 | FOMC Minutes Aug 19 hawkish risk | Alpaca Day ~194 BLOCKED)*
+**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days | ⚠️ AUG 18 DIST RISK HIGH: S&P intraday ~7,703 -0.54% vs threshold 7,762.47 (59 pts BELOW) | Nasdaq -1.6% | WTI $84.42 RESOLVED (memory $105 WRONG) | NVDA $225.01 flat last pre-blackout BLOCKED | Bond yields multi-yr highs | Iran prolonged blockade | Confirm dist day at /eod-review close | Aug 19: Jul 16 expires → 3/25 + ADI/TGT BMO + NVDA blackout + FOMC Minutes | Alpaca Day ~195 BLOCKED)*
+
+**✅ AUG 18 /market-check (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK HIGH: S&P ~7,703 -0.54% (59 pts BELOW threshold 7,762.47) NASDAQ -1.6% — WTI $84.42 DISCREPANCY RESOLVED (memory $105 WRONG) — NVDA $225.01 FLAT LAST PRE-BLACKOUT DAY BLOCKED — BOND YIELDS MULTI-YR HIGHS — IRAN PROLONGED BLOCKADE — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~195 BLOCKED):**
+- **S&P 500 intraday: ~7,703 (-0.54%)** | Dist threshold: 7,762.47 | **59 pts BELOW** → ⚠️ DIST DAY RISK HIGH | Nasdaq -1.6% | Dow -150 pts (-0.28%) | Third consecutive day of losses
+- **Distribution day assessment:** S&P at -0.54% (well above -0.2% threshold). Volume context: broad selloff on rising yields + oil = likely elevated institutional selling. **Confirm at /eod-review close.** If close ≈ 7,703 on elevated SPY vol → DIST DAY #5 → 5/25 = **UNDER PRESSURE** (back from Uptrend after 1 day)
+- **WTI DISCREPANCY RESOLVED: $84.42 (+2.19%)** | Prior memory $105 = WRONG (stale/error from earlier session) | Prior web search $81.74 = slightly stale | ACTUAL Aug 18: ~$84.42 | Oil rising on Iran prolonged blockade signal | XLE thesis INTACT (but oil at $84, not $105)
+- **NVDA ($225.01, -0.07%):** Day range $224.86-$227.92 | Cup wk54, NO handle | Last pre-blackout day | 🔴 BLOCKED (no handle + Alpaca blocked) | Blackout begins tomorrow Aug 19
+- **Macro drivers today:** Long-dated Treasury yields at multi-decade highs (AI company bond issuance + inflation risk) | Iran/Hormuz: US signals prolonged blockade → oil +2.19% | Tech selling (Nasdaq -1.6%) on yield pressure
+- **Abort gates hit:** PRIMARY WATCHLIST = ZERO ≥75 candidates | Alpaca Day ~195 BLOCKED | 0 positions | 0 actions
+- **0 positions → sell-rules-engine SKIPPED (94th consecutive)**
+- **Bench check:** NVDA $225.01 no handle (unchanged, 79/100 est.) — no promotion/demotion | XLE/XLI UNSCORED (Alpaca/AV blocked)
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 | PDT: 0/3
+- **0 actions | 94th zero-action session | 28th consecutive zero-trade week (0/3 used) | `research_source: websearch_fallback` | Alpaca Day ~195 BLOCKED | 83rd degraded session**
+- **NEXT: /eod-review 3:15 PM CT — CRITICAL: confirm dist day (close vs 7,762.47 + SPY vol vs avg 43M)**
+- `market-check_Aug18` | `websearch_fallback` | `Alpaca_Day195_BLOCKED` | `83rd_degraded_session` | `94th_zero_action_session` | `SPX_~7703_-0.54pct_DIST_RISK_HIGH` | `dist_threshold_7762.47_59pts_BELOW` | `Nasdaq_-1.6pct` | `WTI_84.42_RESOLVED_memory_105_WRONG` | `NVDA_225.01_flat_last_preblackout_BLOCKED` | `bond_yields_multidecade_highs` | `Iran_prolonged_blockade` | `DIST_DAY5_risk_5of25_Under_Pressure_pending_eod` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 18 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK MODERATE (ES -0.41% NQ -0.76% → opens ~7,746 vs threshold 7,762.47) — HD BEAT EPS $4.79 COMP +1.7% GUIDANCE REAFFIRMED — NVDA ~$225.75 PM LAST PRE-BLACKOUT DAY BLOCKED — IRAN HORMUZ ESCALATING (TANKER ATTACKS NEAR-TOTAL STOPPAGE) — WTI DISCREPANCY FLAG — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~194 BLOCKED):**
 - **Market state: 🟢 CONFIRMED UPTREND (4/25)** | `research_source: websearch_fallback` | Alpaca Day ~194 BLOCKED | 82nd consecutive degraded session

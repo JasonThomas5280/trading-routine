@@ -55,6 +55,16 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 **Built:** 2026-08-16 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 78th consecutive degraded session
 
+**✅ AUG 18 /market-check UPDATE (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK HIGH: S&P ~7,703 -0.54% (59 pts BELOW threshold 7,762.47) — NASDAQ -1.6% — WTI $84.42 DISCREPANCY RESOLVED (memory $105 WRONG) — NVDA $225.01 FLAT LAST PRE-BLACKOUT BLOCKED — BOND YIELDS MULTI-DECADE HIGHS — 0 ACTIONS):**
+- **S&P 500 intraday: ~7,703 (-0.54%)** | ⚠️ DIST RISK HIGH: 59 pts BELOW threshold 7,762.47 | Nasdaq -1.6% | Dow -150 pts
+- **⚠️ DIST DAY #5 RISK: HIGH** | Close below 7,762.47 on elevated SPY volume = 5/25 = UNDER PRESSURE (reverses Uptrend after 1 session). Monitor at /eod-review.
+- **WTI RESOLVED: $84.42 (+2.19%)** | Memory $105 = WRONG | XLE thesis intact at $84 (not $105)
+- **NVDA ($225.01, -0.07%, range $224.86-$227.92):** Cup wk54, NO handle → 🔴 BLOCKED | Last pre-blackout day (blackout begins Aug 19 tomorrow)
+- **Primary watchlist: ZERO actions** — no ≥75 candidates with valid base+pivot | Alpaca Day ~195 BLOCKED
+- **Bench:** NVDA no change | XLE/XLI UNSCORED (APIs blocked)
+- 0 actions | 94th zero-action session | 28th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~195 BLOCKED
+- NEXT: /eod-review 3:15 PM CT (dist day determination critical — close vs 7,762.47 + SPY vol vs avg 43M)
+
 **✅ AUG 18 /pre-market UPDATE (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK MODERATE (ES -0.41% NQ -0.76% → opens ~7,746 vs threshold 7,762.47) — HD BEAT EPS $4.79 COMP +1.7% GUIDANCE REAFFIRMED (partial offset) — NVDA ~$225.75 PM LAST PRE-BLACKOUT DAY BLOCKED — IRAN HORMUZ ESCALATING TANKER ATTACKS — 0 ACTIONS):**
 - **Market: 🟢 CONFIRMED UPTREND (4/25)** | ⚠️ DIST RISK MODERATE — ES -0.41% opens ~16 pts below threshold 7,762.47 | HD comp +1.7% beat = partial offset | Monitor at /market-check 10 AM CT
 - **HD BEAT:** EPS $4.79 vs $4.71 est | Rev $47.9B vs $47.5B | Comp +1.7% vs +0.9% est — SIGNIFICANT | Guidance REAFFIRMED (not raised) | Not a dist catalyst by itself; broader market weakness is the risk
