@@ -6286,3 +6286,29 @@ Plan: ZERO new entries | no ≥75 candidates | Alpaca Day ~194 BLOCKED
 
 **research_source:** websearch_fallback | **Alpaca:** Day ~194 BLOCKED | **Session:** 82nd degraded | 93rd zero-action | 28th zero-trade week
 
+
+---
+## 2026-08-18 EOD Summary
+
+📊 EOD 2026-08-18 | Equity $2,500.00 ($0 day, $0 week)
+Open: 0 positions, 100% cash
+
+⚠️ DIST DAY #5 CONFIRMED — STATE CHANGE: Confirmed Uptrend → 🟡 Under Pressure (5/25)
+S&P ~7,703 est. (−0.96%) | QQQ ~$719.31 (−1.45%) | SPY vol 20.99M > 11.53M yesterday
+
+Distribution days: 5 of 5 (market: Under Pressure — NO new long entries)
+Actions today:
+  • Sell-rules-engine: SKIPPED (0 positions — 95th consecutive)
+  • Hedge: SH/SQQQ QUEUED — eligible per Under Pressure state, Alpaca blocked
+  • 0 orders executed (Alpaca Day ~196 BLOCKED)
+
+Circuit breakers: ALL CLEAR | PDT: 0/3 | HWM: $2,500
+
+Tomorrow (Aug 19):
+  • ADI BMO + TGT BMO — consumer/semi read-through
+  • NVDA BLACKOUT BEGINS (earnings Aug 26 AMC → entry Aug 27+)
+  • Jul 16 expires → 4/25 (still Under Pressure)
+  • FOMC Minutes 2PM ET → hawkish risk
+  • SH/SQQQ hedge entry attempt on Alpaca restore
+
+Watchlist: ZERO ≥75 candidates | 29th consecutive zero-trade week

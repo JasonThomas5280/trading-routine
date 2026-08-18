@@ -6,7 +6,24 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days | ⚠️ AUG 18 DIST RISK HIGH: S&P intraday ~7,703 -0.54% vs threshold 7,762.47 (59 pts BELOW) | Nasdaq -1.6% | WTI $84.42 RESOLVED (memory $105 WRONG) | NVDA $225.01 flat last pre-blackout BLOCKED | Bond yields multi-yr highs | Iran prolonged blockade | Confirm dist day at /eod-review close | Aug 19: Jul 16 expires → 3/25 + ADI/TGT BMO + NVDA blackout + FOMC Minutes | Alpaca Day ~195 BLOCKED)*
+**Status:** 🟡 **UPTREND UNDER PRESSURE** *(5/25 dist days | ✅ AUG 18 DIST DAY #5 CONFIRMED: S&P ~7,703 est. -0.96% on SPY vol 20.99M (> Aug 17: 11.53M) — both criteria met | QQQ ~$719.31 -1.45% | STATE TRANSITION: Confirmed Uptrend → Under Pressure | NO new long entries | SH/SQQQ hedge eligible — QUEUED (Alpaca Day ~196 BLOCKED) | Aug 19: Jul 16 expires → 4/25 (still Under Pressure) + ADI/TGT BMO + NVDA blackout begins + FOMC Minutes 2PM ET | research_source: websearch_fallback)*
+
+**✅ AUG 18 /eod-review (3:15 PM CT — 🟡 UPTREND UNDER PRESSURE (5/25) — ✅ DIST DAY #5 CONFIRMED — S&P ~7,703 est. -0.96% — SPY VOL 20.99M > AUG 17: 11.53M — QQQ ~$719.31 -1.45% — STATE TRANSITION: CONFIRMED UPTREND → UNDER PRESSURE — SH/SQQQ HEDGE QUEUED (ALPACA BLOCKED) — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~196 BLOCKED):**
+- **S&P 500 close: ~7,703 est.** (-0.96% from 7,778 Aug 17 close) | SPY ~$767.59 (range $767.34-$769.88) | Dist threshold 7,762.47 → **65 pts BELOW** ✅ criterion 1 MET
+- **SPY volume: 20.99M vs Aug 17 (11.53M)** → HIGHER ✅ criterion 2 MET
+- **QQQ close: ~$719.31** (-$10.56 / -1.45% from $729.87 Aug 17 close)
+- **DISTRIBUTION DAY #5 CONFIRMED** — both criteria met (down ≥0.2% on higher volume than prior day)
+- **Dist count: 4/25 → 5/25 | STATE TRANSITION: 🟢 Confirmed Uptrend → 🟡 Uptrend Under Pressure**
+- **Active dist days (5/25):** Jul 16, Jul 17, Jul 23, Jul 29, Aug 18
+- **Dist day expiry roadmap (UPDATED):** Aug 19: Jul 16 expires → 4/25 (still Under Pressure) | Aug 21: Jul 17 expires → 3/25 | ~Sep 23: Aug 18 expires
+- **Drivers:** 30-yr yield ~5.3% / 10-yr ~4.7% multi-decade highs → equity multiple compression | Iran/Hormuz prolonged blockade → WTI ~$84 rising | Tech (Nasdaq -1.45%) led decline on yield pressure
+- **Open positions: 0 → sell-rules-engine SKIPPED (95th consecutive)**
+- **Portfolio-level checks:** 0 positions — no laggard sell-down required ✅
+- **Hedge entry check:** State just transitioned to Under Pressure → SH or SQQQ eligible (max 25% = ~$625) → ⚠️ **QUEUED** — Alpaca Day ~196 BLOCKED. Attempt at /pre-market Aug 19.
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 | PDT: 0/3
+- **0 actions | 95th zero-action session | 29th consecutive zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~196 BLOCKED | 84th degraded session**
+- **NEXT: Aug 19 /pre-market — ADI BMO + TGT BMO + NVDA BLACKOUT BEGINS + Jul 16 expires → 4/25 (still Under Pressure) + FOMC Minutes 2PM ET | SH hedge attempt on Alpaca restore**
+- `eod_review_Aug18` | `websearch_fallback` | `Alpaca_Day196_BLOCKED` | `84th_degraded_session` | `SPX_~7703est_-0.96pct_DIST_DAY_CONFIRMED` | `SPY_~767.59_vol_20.99M_vs_11.53M_higher` | `QQQ_~719.31_-1.45pct` | `dist_5of25_UNDER_PRESSURE` | `STATE_TRANSITION_Uptrend_to_Under_Pressure` | `SH_SQQQ_hedge_QUEUED_Alpaca_blocked` | `sell_rules_SKIPPED_95th` | `0_actions` | `95th_zero_action_session` | `29th_zero_trade_week` | `circuit_ALL_CLEAR` | `equity_2500_HWM`
 
 **✅ AUG 18 /market-check (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK HIGH: S&P ~7,703 -0.54% (59 pts BELOW threshold 7,762.47) NASDAQ -1.6% — WTI $84.42 DISCREPANCY RESOLVED (memory $105 WRONG) — NVDA $225.01 FLAT LAST PRE-BLACKOUT DAY BLOCKED — BOND YIELDS MULTI-YR HIGHS — IRAN PROLONGED BLOCKADE — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~195 BLOCKED):**
 - **S&P 500 intraday: ~7,703 (-0.54%)** | Dist threshold: 7,762.47 | **59 pts BELOW** → ⚠️ DIST DAY RISK HIGH | Nasdaq -1.6% | Dow -150 pts (-0.28%) | Third consecutive day of losses

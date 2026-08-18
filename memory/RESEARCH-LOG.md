@@ -19330,3 +19330,65 @@ N/A (0 positions)
 `pre-market_Aug18` | `websearch_fallback` | `Alpaca_Day194_BLOCKED` | `82nd_degraded_session` | `93rd_zero_action_session` | `HD_BEAT_EPS_4.79_rev_47.9B_comp_+1.7pct_guidance_REAFFIRMED` | `ES_-0.41pct_NQ_-0.76pct_DIST_RISK_MODERATE` | `dist_threshold_7762.47` | `NVDA_~225.75_last_pre_blackout_BLOCKED` | `Iran_tanker_attacks_near_total_stoppage` | `WTI_discrepancy_81.74_vs_105_flag` | `circuit_breakers_ALL_CLEAR` | `CONFIRMED_UPTREND_4of25`
 
 ---
+
+## 2026-08-18 /eod-review | research_source: websearch_fallback | Alpaca Day ~196 BLOCKED
+
+**Close:** SPY ~$767.59 (range $767.34–$769.88) | S&P ~7,703 est. (−0.96%) | QQQ ~$719.31 (−1.45%)
+**Distribution days:** 5 of 5 trailing 25 sessions (today: ✅ NEW DIST DAY CONFIRMED)
+**Market state:** 🟡 Uptrend Under Pressure (transitioned today — Confirmed Uptrend → Under Pressure)
+**Positions held:** 0
+**Actions today:**
+  - SELL-RULES-ENGINE: SKIPPED (95th consecutive — 0 open positions)
+  - No orders executed (Alpaca blocked Day ~196)
+  - HEDGE QUEUED: SH/SQQQ eligible (state → Under Pressure) — cannot execute (Alpaca blocked)
+**Circuit breakers:** NONE triggered (ALL CLEAR)
+**P&L today:** $0 (0.00%) — no positions
+**Equity:** $2,500.00 (HWM unchanged)
+
+### Distribution Day #5 Confirmation (Aug 18)
+
+**Criterion 1 — Price:** S&P ~7,703 est. vs dist threshold 7,762.47 → **DOWN ~0.96%** (well above 0.2% min) ✅
+**Criterion 2 — Volume:** SPY 20.99M vs Aug 17 (11.53M) → **HIGHER than prior day** ✅
+**Result: DISTRIBUTION DAY CONFIRMED**
+**Dist count update: 4/25 → 5/25 → STATE: 🟡 UPTREND UNDER PRESSURE**
+
+Active dist days (5/25): Jul 16, Jul 17, Jul 23, Jul 29, **Aug 18 (NEW)**
+
+### Market Macro Drivers (Aug 18)
+- **Bond yields at multi-decade highs:** 30-yr ~5.3%, 10-yr ~4.7% → equity multiple compression
+- **Iran/Hormuz prolonged blockade:** Near-total Hormuz stoppage continues → WTI ~$84 (+$2.19% today)
+- **Nasdaq led decline** on yield pressure — tech/multiple-expansion names hardest hit
+- **HD earnings BMO (beat):** EPS $4.79 vs $4.71 est., comp +1.7% — partial positive but couldn't offset macro headwinds
+
+### Sell-Rules-Engine Results: N/A (0 positions — 95th consecutive skip)
+
+### Hedge Entry Assessment (Under Pressure → eligible)
+- **SH** (−1× SPY): eligible | Max sizing 25% = ~$625 | **QUEUED** — Alpaca BLOCKED
+- **SQQQ** (−3× NASDAQ): eligible (more aggressive, Nasdaq -1.45% today) | **QUEUED** — Alpaca BLOCKED
+- Priority: attempt at /pre-market Aug 19 on Alpaca restore
+
+### Portfolio-Level Circuit Breaker Check
+- Day P&L: $0 (no positions) → day -3% breaker: NOT triggered ✅
+- Week P&L: $0 → week -6% breaker: NOT triggered ✅
+- HWM drawdown: $0 → -12% breaker: NOT triggered ✅
+- PDT: 0/3 → NOT triggered ✅
+
+### Tomorrow's Key Gates (Aug 19)
+- **ADI earnings BMO** (Analog Devices) — semi read-through; watch for revenue guidance
+- **TGT earnings BMO** (Target) — consumer health read; weak guidance = additional dist risk
+- **NVDA BLACKOUT BEGINS** — no new entries on NVDA (blackout until Aug 27)
+- **Jul 16 expires → 4/25** (still Under Pressure: active dist Jul 17, Jul 23, Jul 29, Aug 18)
+- **FOMC Minutes 2PM ET** — hawkish tone = additional dist risk, rate-hike repricing
+- **SH/SQQQ hedge entry** — attempt on Alpaca restore (max $625, market sell on restore day)
+- Dist threshold Aug 19: ~7,703 × 0.998 = ~7,688 est.
+
+### Research Flags
+- ⚠️ State: Under Pressure → no new long entries | hedge eligible
+- ⚠️ NVDA: blackout Aug 19+ | earnings Aug 26 AMC | post-earnings entry: Aug 27+
+- ✅ Jul 16 expires Aug 19 → 4/25 | Jul 17 expires Aug 21 → 3/25 (still Under Pressure both days)
+- ✅ XLE thesis intact (WTI $84, Iran/Hormuz) — score XLE leaders on Alpaca restore
+- ⚠️ Alpaca BLOCKED Day ~196: 84th degraded session; SH hedge and all execution queued
+
+`eod_review_Aug18` | `websearch_fallback` | `Alpaca_Day196_BLOCKED` | `84th_degraded_session` | `SPX_~7703est_-0.96pct_DIST_DAY_CONFIRMED` | `SPY_~767.59_vol_20.99M_vs_11.53M` | `QQQ_~719.31_-1.45pct` | `dist_5of25_UNDER_PRESSURE` | `STATE_TRANSITION_Uptrend_Under_Pressure` | `SH_SQQQ_eligible_QUEUED` | `sell_rules_SKIPPED_95th` | `0_actions` | `95th_zero_action_session` | `29th_zero_trade_week` | `circuit_ALL_CLEAR` | `equity_2500_HWM`
+
+---
