@@ -6,7 +6,41 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days — ✅ S&P +0.43% ~7,736 NOT DIST DAY trajectory (threshold 7,687.59; 49 pts clear) | ADI RECORD BEAT EPS $3.45 Rev $4.02B +40% YoY | Treasury buyback 30-yr yield -9bps 5.20% | ⚠️ FOMC Minutes 1PM CT upcoming | ⚠️ Russell 2000 -1.30% breadth divergence | Alpaca Day ~198 BLOCKED | NO new entries (Alpaca blocked + 0 candidates ≥75) | research_source: websearch_fallback)*
+**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days — ✅ AUG 19 CLOSE: S&P est. ~7,715 +0.31% NOT DIST DAY ✅ (threshold 7,687.59; ~27 pts clear) | FOMC Minutes hawkish (9-3 hold, 3 dissenters Hammack/Kashkari/Logan) ABSORBED — no dist day | ADI CONFIRMED BEAT EPS $3.45 Rev $4.02B +40% YoY → flagged screener Aug 27 | NVDA BLACKOUT DAY 1 (earnings Aug 26 AMC) | Aug 21 Jul17→3/25 | Alpaca Day ~199 BLOCKED | NO new entries (Alpaca blocked + 0 candidates ≥75) | research_source: websearch_fallback)*
+
+**✅ AUG 19 /eod-review (3:15 PM CT — 🟢 CONFIRMED UPTREND 4/25 UNCHANGED — S&P est. ~7,715 +0.31% NOT DIST DAY ✅ — FOMC MINUTES HAWKISH (9-3 HOLD, 3 DISSENTERS) ABSORBED — 30-YR YIELD -9BPS 5.19% TREASURY BUYBACK — ADI RECORD BEAT CONFIRMED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~199 BLOCKED):**
+- **Market state: 🟢 CONFIRMED UPTREND (4/25 — UNCHANGED from open)** | `research_source: websearch_fallback` | Alpaca Day ~199 BLOCKED | 87th consecutive degraded session
+- **AUG 19 CLOSE (websearch_fallback — Alpaca blocked):**
+  - **S&P 500: est. ~7,715** (+0.31% — snapping 3-session losing streak) | Prior close: ~7,703 | Dist threshold: 7,687.59 | Buffer: ~27 pts ✅
+  - **SPY:** est. ~$769-771 (exact close unconfirmed, Alpaca blocked) | Volume: unconfirmed (positive close → dist day check irrelevant)
+  - **QQQ:** est. ~$720-722 (flat to slight positive — FOMC hawkish tone capped Nasdaq gains; Alpaca blocked)
+  - **Dow:** +0.2% est. | 10-yr yield -5bps to 4.65% | 30-yr yield -9bps to 5.19% (Treasury buyback catalyst)
+- **Distribution check Aug 19:**
+  - **Price criterion: NOT MET** → S&P +0.31% (positive close) → **NOT a distribution day ✅**
+  - **Volume criterion: IRRELEVANT** (positive close cannot be dist day)
+  - **CONFIRMED: NOT a distribution day Aug 19 ✅**
+  - **Dist count: 4/25 UNCHANGED** | Active: Jul 17, Jul 23, Jul 29, Aug 18
+- **State transition check:** No new dist day → no state change → **CONFIRMED UPTREND UNCHANGED ✅**
+- **FOMC Minutes (2PM ET / 1PM CT) final assessment:**
+  - **Result: HAWKISH, market absorbed** | 9-3 hold (Jul 28-29 meeting) | Dissenters: Hammack, Kashkari, Logan (quarter-point hike advocates)
+  - **First 3-way directional dissent since Sep 2016** — hawkish signal, but not an immediate policy change
+  - **No dist day triggered** | Treasury buyback (30-yr yield -9bps) offset hawkish tone | S&P +0.31% at close
+  - **Sep FOMC:** ~65% hold probability | Rate-hike risk elevated on strong economic data / inflation
+- **ADI post-earnings confirmation:**
+  - Record beat: EPS $3.45 vs $3.34 est. (+3.3%) | Rev $4.02B +40% YoY | GAAP net income +158% YoY | Record Q4 outlook
+  - XLK/XLI demand read: BULLISH ✅ (AI data center + industrial demand "broad-based")
+  - ⭐ **ADI flagged for /pre-market Aug 26 + canslim-screener Aug 27** (5-day blackout: Aug 20/21/22/25/26)
+  - C-letter: 20/20 confirmed | Rev +40% YoY | Profile: strong candidate pending base formation + Alpaca restore
+- **Sell-rules-engine:** SKIPPED (98th consecutive — 0 open positions)
+- **Actions: NONE** | Circuit breakers: ALL CLEAR | Equity: $2,500 HWM | P&L today: $0 | P&L week: $0
+- **Hedge check:** CONFIRMED UPTREND maintained post-FOMC → no hedge entry needed ✅
+- **Forward look:**
+  - **Aug 20 (Thu):** WMT earnings BMO | Consumer gauge; weak guidance = dist risk | Dist threshold ~7,700 est. (7,715 × 0.998)
+  - **Aug 21 (Fri):** **Jul 17 expires → 3/25** (CONFIRMED UPTREND maintained) | Flash PMIs | Jobless Claims
+  - **Aug 26 (Wed):** **NVDA earnings AMC** | ADI blackout clears → canslim-screener | Jackson Hole begins | Jul 23 expires → ~3/25
+  - **Aug 27-29:** Jackson Hole Fed Symposium | NVDA post-earnings base watch
+  - **Aug 29:** AVGO earnings AMC (no eval until 8+ week base rebuild)
+- `eod_review_Aug19` | `websearch_fallback` | `Alpaca_Day199_BLOCKED` | `87th_degraded_session` | `SPX_est_7715_+0.31pct_NOT_DIST_DAY` | `FOMC_minutes_hawkish_9-3_3_dissenters_absorbed` | `dist_4of25_UNCHANGED` | `CONFIRMED_UPTREND_UNCHANGED` | `ADI_record_beat_confirmed_screener_Aug27` | `NVDA_blackout_Day1` | `sell_rules_SKIPPED_98th` | `0_actions` | `98th_zero_action_session` | `30th_zero_trade_week` | `circuit_ALL_CLEAR` | `equity_2500_HWM` | `Jul17_expires_Aug21_3of25` | `WMT_BMO_Aug20_dist_risk`
 
 **✅ AUG 19 /market-check (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ✅ S&P +0.43% ~7,736 NOT DIST DAY (threshold 7,687.59; 49 pts clear) — ADI RECORD BEAT EPS $3.45 Rev $4.02B +40% YoY XLK/XLI BULLISH — TREASURY BUYBACK 30-YR -9BPS 5.20% — ⚠️ RUSSELL 2000 -1.30% BREADTH DIVERGENCE — ⚠️ FOMC MINUTES 1PM CT UPCOMING — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~198 BLOCKED):**
 - **S&P 500 intraday: +0.43% (~7,736 est.)** | Dist threshold: ~7,687.59 | **49 pts ABOVE → NOT DIST DAY trajectory ✅** | Dow +0.25% | Nasdaq +0.40% | Russell 2000 -1.30% ⚠️ (breadth divergence — small caps lagging)

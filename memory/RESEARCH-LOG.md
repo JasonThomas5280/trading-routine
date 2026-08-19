@@ -19570,3 +19570,47 @@ Active dist days (5/25): Jul 16, Jul 17, Jul 23, Jul 29, **Aug 18 (NEW)**
 `eod_review_Aug18` | `websearch_fallback` | `Alpaca_Day196_BLOCKED` | `84th_degraded_session` | `SPX_~7703est_-0.96pct_DIST_DAY_CONFIRMED` | `SPY_~767.59_vol_20.99M_vs_11.53M` | `QQQ_~719.31_-1.45pct` | `dist_5of25_UNDER_PRESSURE` | `STATE_TRANSITION_Uptrend_Under_Pressure` | `SH_SQQQ_eligible_QUEUED` | `sell_rules_SKIPPED_95th` | `0_actions` | `95th_zero_action_session` | `29th_zero_trade_week` | `circuit_ALL_CLEAR` | `equity_2500_HWM`
 
 ---
+
+---
+
+## 2026-08-19 — /eod-review | research_source: websearch_fallback | Alpaca Day ~199 BLOCKED
+
+**Close:** SPY est. ~$769-771 (unconfirmed — Alpaca blocked) | S&P est. ~7,715 (+0.31%) | QQQ est. ~$720-722 (+0.1% est.)
+**Distribution days:** 4 of 25 trailing sessions (today: NO new dist day — positive close)
+**Market state:** 🟢 Confirmed Uptrend (NO state change — FOMC Minutes hawkish but market absorbed; closed positive)
+**Positions held:** 0
+**Actions today:**
+  - SELL-RULES-ENGINE: SKIPPED (98th consecutive — 0 open positions)
+  - No orders executed (Alpaca Day ~199 BLOCKED)
+  - FOMC Minutes (2PM ET): Hawkish (9-3 hold, 3 dissenters: Hammack/Kashkari/Logan) — no market disruption
+  - ADI record beat confirmed: EPS $3.45, Rev $4.02B +40% YoY, record Q4 → flagged for canslim-screener Aug 27
+  - NVDA blackout Day 1 (earnings Aug 26 AMC → post-earnings entry Aug 27+)
+**Circuit breakers:** NONE triggered (ALL CLEAR)
+**P&L today:** $0 (0.00%) — no positions
+**Equity:** $2,500.00 (HWM unchanged)
+
+### Distribution Day Check (Aug 19)
+- S&P close est. ~7,715 (+0.31% from ~7,703) → positive close → NOT dist day ✅
+- Dist threshold 7,687.59 → buffer ~27 pts ✅
+- Dist count: 4/25 UNCHANGED | Active: Jul 17, Jul 23, Jul 29, Aug 18
+
+### FOMC Minutes Summary
+- Released 2PM ET | 9-3 hold (Jul 28-29 meeting) | Dissenters: Hammack, Kashkari, Logan (hike advocates)
+- First 3-way directional dissent since Sep 2016 | "Many officials said rate hikes may be needed" (Bloomberg)
+- Market reaction: ABSORBED — S&P closed +0.31%, 30-yr yield -9bps (Treasury buyback offset hawkish tone)
+- Rate-hike risk elevated forward; Sep FOMC ~65% hold; watch CPI / PCE for next dist trigger
+
+### ADI Earnings Confirmation
+- EPS $3.45 vs $3.34 est. (+3.3%) | Rev $4.02B +40% YoY | GAAP net income +158% | Record Q4 guide
+- XLK/XLI bullish: AI data center + industrial demand "broad-based" per CEO
+- CAN SLIM profile: C-letter 20/20 confirmed | Strong candidate pending base + Alpaca restore
+- Screener queue: /pre-market Aug 26 flag → formal canslim-screener Aug 27 (post-5-day-blackout)
+
+### Key Forward Catalysts
+- **Aug 20 (Thu):** WMT earnings BMO — consumer health read; dist risk if weak guidance
+- **Aug 21 (Fri):** Jul 17 dist expires → 3/25 | Flash PMIs | Jobless Claims
+- **Aug 26 (Wed):** NVDA earnings AMC (est. ~$46B rev, EPS ~$1.00 Q2 FY2027) | ADI screener | Jackson Hole begins
+- **Aug 27-29:** Jackson Hole Symposium | NVDA post-earnings base watch begins
+- **Sep:** AVGO post-earnings base watch (earnings Aug 29 AMC; need 8+ week base rebuild)
+
+`eod_review_Aug19` | `research_source: websearch_fallback` | `Alpaca_Day199_BLOCKED` | `87th_degraded_session` | `SPX_est_7715_+0.31pct_NOT_DIST_DAY` | `FOMC_hawkish_9-3_3_dissenters_absorbed` | `dist_4of25_UNCHANGED` | `ADI_confirmed_beat_screener_Aug27` | `NVDA_blackout_Day1` | `sell_rules_SKIPPED_98th` | `98th_zero_action_session` | `30th_zero_trade_week`

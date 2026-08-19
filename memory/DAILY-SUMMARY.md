@@ -6328,3 +6328,46 @@ XLE (OXY/EOG/COP/SLB): ⬜ CANNOT SCORE (Alpaca/AV blocked) | WTI ~$85 Iran stal
 Key catalyst: FOMC Minutes 2PM ET (9-3 Jul dissent; hawkish = dist day risk → 5/25 Under Pressure)
 Dist threshold: ~7,687.59 | LOW risk at open | Monitor FOMC at /eod-review
 Plan: ZERO new entries — Alpaca Day ~197 BLOCKED + 0 candidates + NVDA blackout
+
+---
+## 2026-08-19 15:15 CT [eod-review]
+
+📊 EOD 2026-08-19 | Equity $2,500.00 (+$0 day, +$0 week)
+Open: 0 positions, 100% cash | Market: 🟢 CONFIRMED UPTREND (4/25 — UNCHANGED post-FOMC ✅)
+
+S&P: ~7,715 est. (+0.31%) | NOT DIST DAY ✅ | Dist: 4/25 UNCHANGED (Jul 17 / Jul 23 / Jul 29 / Aug 18)
+
+FOMC Minutes (2PM ET): Hawkish — 9-3 hold, 3 dissenters (Hammack/Kashkari/Logan) — ABSORBED
+  - First 3-way directional dissent since Sep 2016 | market closed positive; no dist day
+  - 30-yr yield -9bps 5.19% (Treasury buyback offset hawkish tone) | Sep FOMC: ~65% hold
+
+ADI CONFIRMED RECORD BEAT: EPS $3.45 vs $3.34 (+3.3%) | Rev $4.02B +40% YoY | XLK/XLI bullish
+  - 5-day blackout Aug 20-26 → canslim-screener queued /pre-market Aug 26 | strongest candidate profile pending base
+
+NVDA blackout Day 1 (earnings Aug 26 AMC → post-earnings entry Aug 27+; needs new base + handle)
+
+Actions today:
+  • Sell-rules-engine: SKIPPED (0 positions — 98th consecutive skip)
+  • Alpaca Day ~199 BLOCKED — no execution capability
+  • 0 orders placed | 98th zero-action session | 30th zero-trade week
+Circuit breakers: ALL CLEAR | PDT: 0/3 | HWM: $2,500
+
+Tomorrow (Aug 20 — WMT BMO):
+  • WMT earnings BMO — largest retailer; consumer forward guidance is the key
+  • Weak guidance = dist risk (threshold ~7,700 est.) | Strong = confirms consumer resilience
+  • Dist threshold: ~7,700 est. (7,715 × 0.998) | Monitor at /eod-review 3:15 PM CT
+  • NVDA blackout Day 2 | XLE/XLI screener queue (Alpaca restore required)
+  • Watchlist: ZERO ≥75 candidates (30th consecutive week)
+
+---
+## 2026-08-19 20:23 CT [clickup-placeholder]
+
+📊 EOD 2026-08-19 | Equity $2,500 (+$0 day, +$0 week)
+Open: 0 positions, 100% cash | Market: 🟢 CONFIRMED UPTREND (4/25 UNCHANGED ✅)
+S&P: ~7,715 est. (+0.31%) | NOT DIST DAY ✅ | Dist: 4/25 (Jul 17/Jul 23/Jul 29/Aug 18)
+FOMC Minutes: Hawkish (9-3 hold, 3 dissenters Hammack/Kashkari/Logan) — ABSORBED | 30-yr -9bps 5.19%
+ADI confirmed record beat: EPS $3.45 Rev $4.02B +40% YoY → screener queued Aug 27
+NVDA: blackout Day 1 (earnings Aug 26 AMC → post-earnings entry Aug 27+)
+Actions: 0 | sell-rules SKIPPED (0 positions — 98th) | Alpaca Day ~199 BLOCKED
+Circuit breakers: ALL CLEAR | 98th zero-action session | 30th zero-trade week
+Tomorrow (Aug 20): WMT BMO — consumer health; dist threshold ~7,700 est.; dist risk if weak guidance

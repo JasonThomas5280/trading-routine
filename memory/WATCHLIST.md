@@ -66,6 +66,15 @@ Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - 0 actions | 97th zero-action session | 30th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~198 BLOCKED | 86th degraded session
 - NEXT: /eod-review 3:15 PM CT — FOMC Minutes dist determination critical
 
+**✅ AUG 19 /eod-review UPDATE (3:15 PM CT — 🟢 CONFIRMED UPTREND (4/25 UNCHANGED) — S&P est. ~7,715 +0.31% NOT DIST DAY ✅ — FOMC MINUTES HAWKISH ABSORBED — ADI CONFIRMED BEAT → SCREENER AUG 27 — 0 ACTIONS):**
+- **S&P 500: est. ~7,715 (+0.31%) | NOT DIST DAY ✅** | Dist threshold 7,687.59; ~27 pts clear | CONFIRMED UPTREND 4/25 UNCHANGED
+- **FOMC Minutes ABSORBED:** 9-3 hold (3 dissenters Hammack/Kashkari/Logan) | First 3-way directional dissent since Sep 2016 | Market closed positive — hawkish tone offset by Treasury buyback yield relief (-9bps 30-yr to 5.19%)
+- **ADI CONFIRMED RECORD BEAT:** EPS $3.45 vs $3.34 (+3.3%) | Rev $4.02B +40% YoY | XLK/XLI bullish | ⭐ **Screener queued for /pre-market Aug 26 → formal canslim-screener Aug 27** (5-day blackout: Aug 20/21/22/25/26)
+- **NVDA blackout Day 1** — earnings Aug 26 AMC | Post-earnings entry Aug 27+ (new base + handle needed)
+- **Bench changes: ADI added to screener queue** (see below) | All other bench items UNCHANGED
+- 0 actions | 98th zero-action session | 30th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~199 BLOCKED | 87th degraded session
+- **NEXT:** /pre-market Aug 20 6AM CT — WMT BMO (dist risk; threshold ~7,700 est.) | Aug 21 Jul17→3/25 | Aug 26 NVDA earnings AMC + ADI screener
+
 **✅ AUG 19 /pre-market UPDATE (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expires at open) — ES +0.14% NQ +0.46% MILDLY BULLISH — TGT MASSIVE BEAT EPS $4.11 vs $2.33 EST (-4% PM TARIFF NOISE, NOT CANDIDATE) — ADI BMO RESULTS PENDING — NVDA ~$225-226 PM BLACKOUT BEGINS TODAY — WTI ~$85 IRAN STALEMATE — FOMC MINUTES 2PM ET = DIST RISK — 0 ACTIONS):**
 - **Market: 🟢 CONFIRMED UPTREND (4/25)** | Jul 16 expires today → Jul 17+Jul 23+Jul 29+Aug 18 = 4/25 = Confirmed Uptrend ✅ | (Prior roadmap "→ 3/25" was pre-Aug18-dist; corrected 4/25) | Dist threshold ~7,687.59 | ES +0.14% opens ~7,714 = 26 pts above → **LOW dist risk at open** | ⚠️ FOMC Minutes 2PM ET = afternoon hawkish risk
 - **TGT MASSIVE BEAT — NOT ACTIONABLE:** EPS $4.11 vs $2.33 est. Rev in-line. FY guide raised to $9.90–$10.90. Stock -4% PM on tariff refund noise (ex-tariff guide $8.25–$9.25 = real beat but lesser). XLY laggard sector. No CAN SLIM candidate.
