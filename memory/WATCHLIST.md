@@ -55,6 +55,17 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 **Built:** 2026-08-16 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 78th consecutive degraded session
 
+**✅ AUG 19 /market-check UPDATE (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ✅ S&P +0.43% ~7,736 NOT DIST DAY (threshold 7,687.59; 49 pts clear) — ADI RECORD BEAT EPS $3.45 Rev $4.02B +40% YoY XLK/XLI BULLISH — TREASURY BUYBACK 30-YR YIELD -9BPS 5.20% — ⚠️ RUSSELL 2000 -1.30% BREADTH DIVERGENCE — FOMC MINUTES 1PM CT UPCOMING — 0 ACTIONS):**
+- **S&P 500: +0.43% (~7,736 est.) | NOT DIST DAY trajectory ✅** | Dist threshold 7,687.59; 49 pts clear | Dow +0.25% | Nasdaq +0.40% | Russell 2000 -1.30% ⚠️ breadth divergence
+- **ADI RECORD BEAT — XLK/XLI bullish:** EPS $3.45 vs $3.34 est (+3.3%) | Rev $4.02B +40% YoY vs $3.92B est | GAAP net income +158% YoY | Record Q4 outlook | CEO: AI data center + industrial demand "broad-based" ✅
+  - **ADI itself: NOT actionable today** — 5-trading-day blackout applies (reported today → Aug 20/21/22/25/26 = 5 days → earliest entry Aug 26). Post-earnings base not yet formed. Alpaca blocked for price/volume. ⭐ **FLAGGED for post-earnings screener at /pre-market Aug 26** — C-letter 20/20, Rev +40%, record guidance = strong candidate profile pending base formation.
+- **Treasury buyback:** 30-yr yield -9bps to 5.20% (from multi-decade highs) → yield headwind easing → equity multiple expansion ✅
+- **FOMC Minutes 2PM ET (1PM CT) — upcoming:** Hawkish risk = dist day #5 → 5/25 Under Pressure. Monitor at /eod-review.
+- **Primary watchlist: ZERO actions** — no ≥75 candidates, no watchlist triggers fired | Alpaca Day ~198 BLOCKED
+- **Bench changes: NONE** | NVDA BLACKOUT (Day 1) | ADI flagged future candidate (listed below) | No promotions/demotions
+- 0 actions | 97th zero-action session | 30th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~198 BLOCKED | 86th degraded session
+- NEXT: /eod-review 3:15 PM CT — FOMC Minutes dist determination critical
+
 **✅ AUG 19 /pre-market UPDATE (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expires at open) — ES +0.14% NQ +0.46% MILDLY BULLISH — TGT MASSIVE BEAT EPS $4.11 vs $2.33 EST (-4% PM TARIFF NOISE, NOT CANDIDATE) — ADI BMO RESULTS PENDING — NVDA ~$225-226 PM BLACKOUT BEGINS TODAY — WTI ~$85 IRAN STALEMATE — FOMC MINUTES 2PM ET = DIST RISK — 0 ACTIONS):**
 - **Market: 🟢 CONFIRMED UPTREND (4/25)** | Jul 16 expires today → Jul 17+Jul 23+Jul 29+Aug 18 = 4/25 = Confirmed Uptrend ✅ | (Prior roadmap "→ 3/25" was pre-Aug18-dist; corrected 4/25) | Dist threshold ~7,687.59 | ES +0.14% opens ~7,714 = 26 pts above → **LOW dist risk at open** | ⚠️ FOMC Minutes 2PM ET = afternoon hawkish risk
 - **TGT MASSIVE BEAT — NOT ACTIONABLE:** EPS $4.11 vs $2.33 est. Rev in-line. FY guide raised to $9.90–$10.90. Stock -4% PM on tariff refund noise (ex-tariff guide $8.25–$9.25 = real beat but lesser). XLY laggard sector. No CAN SLIM candidate.

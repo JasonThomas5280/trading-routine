@@ -6,7 +6,17 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days at today's open — Jul 16 expired Aug 19 | ⚠️ FOMC Minutes 2PM ET = primary risk (hawkish = potential new dist day → 5/25 Under Pressure) | NVDA BLACKOUT BEGINS TODAY | ADI BMO (results pending) | TGT BEAT EPS $4.11 vs $2.33 est (-4% PM, tariff noise) | ES +0.14% NQ +0.46% | Alpaca Day ~197 BLOCKED | NO new entries (Alpaca blocked + 0 candidates ≥75) | research_source: websearch_fallback)*
+**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days — ✅ S&P +0.43% ~7,736 NOT DIST DAY trajectory (threshold 7,687.59; 49 pts clear) | ADI RECORD BEAT EPS $3.45 Rev $4.02B +40% YoY | Treasury buyback 30-yr yield -9bps 5.20% | ⚠️ FOMC Minutes 1PM CT upcoming | ⚠️ Russell 2000 -1.30% breadth divergence | Alpaca Day ~198 BLOCKED | NO new entries (Alpaca blocked + 0 candidates ≥75) | research_source: websearch_fallback)*
+
+**✅ AUG 19 /market-check (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ✅ S&P +0.43% ~7,736 NOT DIST DAY (threshold 7,687.59; 49 pts clear) — ADI RECORD BEAT EPS $3.45 Rev $4.02B +40% YoY XLK/XLI BULLISH — TREASURY BUYBACK 30-YR -9BPS 5.20% — ⚠️ RUSSELL 2000 -1.30% BREADTH DIVERGENCE — ⚠️ FOMC MINUTES 1PM CT UPCOMING — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~198 BLOCKED):**
+- **S&P 500 intraday: +0.43% (~7,736 est.)** | Dist threshold: ~7,687.59 | **49 pts ABOVE → NOT DIST DAY trajectory ✅** | Dow +0.25% | Nasdaq +0.40% | Russell 2000 -1.30% ⚠️ (breadth divergence — small caps lagging)
+- **Catalyst:** US Treasury doubled long-dated buyback operations (≥$4B/operation) → 30-yr yield -9bps to 5.20% | Yield relief = equity multiple expansion = primary driver
+- **ADI Q3 FY2026 RECORD BEAT:** EPS $3.45 vs $3.34 est ✅ | Rev $4.02B +40% YoY vs $3.92B est ✅ | GAAP net income +158% YoY | Record Q4 outlook | XLK/XLI bullish read ✅ | ADI flagged for post-earnings screener (earliest Aug 26 — 5-day blackout)
+- **FOMC Minutes 2PM ET (1PM CT) — NOT YET RELEASED:** Hawkish energy-inflation language = primary afternoon risk → dist day #5 → 5/25 Under Pressure. Monitor at /eod-review 3:15 PM CT
+- **Dist count: 4/25 UNCHANGED** | Active: Jul 17, Jul 23, Jul 29, Aug 18 | Entry gate: BLOCKED (Alpaca blocked + 0 candidates ≥75) | sell-rules-engine SKIPPED (97th consecutive)
+- **0 actions | 97th zero-action session | `research_source: websearch_fallback` | Alpaca Day ~198 BLOCKED | 86th degraded session**
+- **NEXT: /eod-review 3:15 PM CT — FOMC Minutes dist determination (close vs 7,687.59 + SPY vol vs 11.53M) | Aug 21 Jul 17 expires → 3/25**
+- `market-check_Aug19` | `SPX_~7736_+0.43pct_NOT_DIST_DAY` | `dist_threshold_7687.59_49pts_clear` | `ADI_RECORD_BEAT_EPS_3.45_Rev_4.02B_+40pct` | `Treasury_buyback_30yr_-9bps_5.20pct` | `Russell2000_-1.30pct_breadth_divergence` | `FOMC_minutes_1PM_CT_upcoming` | `dist_4of25_UNCHANGED`
 
 **✅ AUG 19 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expires at open) — ES +0.14% NQ +0.46% MILDLY BULLISH — TGT MASSIVE BEAT EPS $4.11 vs $2.33 EST (-4% PM tariff noise) — ADI BMO PENDING — NVDA ~$225-226 BLACKOUT BEGINS TODAY — WTI ~$85 IRAN STALEMATE — FOMC MINUTES 2PM ET = RISK — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~197 BLOCKED):**
 - **Market state at open: 🟢 CONFIRMED UPTREND (4/25)** | Jul 16 expires today → remaining active dist: Jul 17, Jul 23, Jul 29, Aug 18 = 4/25 → < 5 threshold = **CONFIRMED UPTREND** | (Prior roadmap said "→ 3/25" — that predated the Aug 18 dist day; corrected count is 4/25)

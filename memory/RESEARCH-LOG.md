@@ -127,6 +127,96 @@ N/A (0 positions)
 
 - FOMC Minutes 2PM ET: hawkish dissent detail on energy-inflation → Sep hike repricing → afternoon selloff → potential dist day (5/25 = Under Pressure reversal from today's Confirmed Uptrend)
 - NQ negative GEX (-$162M): amplified intraday moves if FOMC surprises
+
+---
+
+## 2026-08-19 (Wed) — /market-check (10:00 AM CT) — 🟢 CONFIRMED UPTREND (4/25) — ✅ S&P +0.43% NOT DIST DAY TRAJECTORY — ADI RECORD BEAT $3.45 EPS +40% REV — TREASURY BUYBACK YIELD RELIEF — FOMC MINUTES 1PM CT UPCOMING — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~198 BLOCKED | Perplexity 403 | AV 403 — 86th consecutive degraded session)
+**Market direction:** 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expired at open) | Dist threshold ~7,687.59
+
+### Step 1: Abort gates
+
+| Gate | Status |
+|---|---|
+| Market state | ✅ CONFIRMED UPTREND (4/25) |
+| Research | ✅ websearch_fallback functional |
+| Daily/weekly circuit breakers | ✅ ALL CLEAR |
+| Drawdown | ✅ $2,500 = HWM |
+| Weekly trades | ✅ 0/3 |
+| Position count | ✅ 0/4 |
+| Cash buffer | ✅ 100% cash |
+| **Alpaca execution** | ❌ **BLOCKED Day ~198** (infrastructure abort) |
+| Primary watchlist | ❌ **ZERO ≥75 candidates** |
+
+**Execution halt: Alpaca BLOCKED + zero primary candidates. No trades possible regardless.**
+
+### Step 2: Overnight gap follow-up
+
+0 positions → SKIPPED
+
+### Step 3: Market + catalyst data (10 AM CT)
+
+**S&P 500 intraday (+0.43% est. ~7,736):**
+- Dist threshold: ~7,687.59 | Current: ~7,736 = **49 pts ABOVE → NOT DIST DAY trajectory ✅**
+- Dow +0.25% | Nasdaq +0.40% | Russell 2000 -1.30% ⚠️ (breadth divergence — small caps lagging large caps)
+- Catalyst: US Treasury announced doubling of long-dated buyback operations (≥$4B/operation) → 30-yr yield -9bps to 5.20% (relief from multi-decade highs)
+- Yield relief = equity multiple expansion = primary upside driver today
+
+**ADI Q3 FY2026 RECORD BEAT (BMO today):**
+- EPS: $3.45 adj. vs $3.34 est. = **BEAT +3.3%** ✅
+- Revenue: $4.02B (+40% YoY) vs $3.92B est. = **BEAT +2.6%** ✅ (RECORD)
+- Net income: $1.34B ($2.74 GAAP EPS) vs $518.5M ($1.04) YoY = **+158% GAAP EPS** ✅
+- Q4 outlook: RECORD | CEO: "broad-based demand" driven by AI data center + industrial
+- XLK/XLI positive read ✅ | AI infrastructure demand robust ✅
+- **ADI itself — NOT actionable today:** reported today (Aug 19) → 5-trading-day blackout applies (Aug 20/21/22/25/26) → earliest entry **Aug 26**. Also: post-earnings base not yet formed; Alpaca blocked for price/volume. **Flag for /pre-market Aug 26+ screener.**
+
+**FOMC Minutes 2PM ET (1PM CT — UPCOMING):**
+- Not yet released. Jul 28-29 meeting was 9-3 dissent for hike. Sep hike odds ~31%.
+- Key risk: hawkish energy-inflation language → hike repricing → afternoon selloff → potential dist day → 5/25 Under Pressure
+- Monitor at /eod-review 3:15 PM CT
+
+### Step 4: Watchlist trigger evaluation
+
+**Primary watchlist: ZERO 🟢 READY items** → no trigger evaluation required
+
+### Step 5: Position health check (sell-rules-engine)
+
+0 positions → sell-rules-engine SKIPPED (97th consecutive)
+
+### Step 6: Bench promotion check
+
+| Symbol | Score | Status | Change |
+|---|---|---|---|
+| NVDA | 79/100 | Cup wk54, NO handle, BLACKOUT | No change. BLOCKED. |
+| ADI | NEW FLAG | Reported today, no base, Alpaca blocked | ⭐ **FLAGGED as future screener candidate** — C-letter 20/20 (GAAP EPS +158% YoY, Rev +40%). Run `canslim-screener` at /pre-market Aug 26 (post-5-day blackout + post-earnings base assessment). |
+| XLE (OXY/EOG/COP/SLB) | TBD | Alpaca/AV blocked | No change. WTI ~$85 thesis intact. |
+| XLI (GEV/PWR) | TBD | Alpaca/AV blocked | No change. |
+| ARM | ~60-70/100 | Below threshold | No change. |
+| MRVL | 15-25/100 | Broken structure | No change. |
+
+**No promotions or demotions.**
+
+### ClickUp summary
+
+```
+📈 Market-check 2026-08-19 10:00 AM CT
+Market: 🟢 CONFIRMED UPTREND (4/25) | S&P ~7,736 +0.43% → NOT DIST DAY ✅ (threshold 7,687.59; 49 pts clear)
+Circuit breakers: ALL CLEAR
+Actions taken:
+  No new entries — Alpaca Day ~198 BLOCKED + zero primary candidates ≥75
+ADI BMO RECORD BEAT: EPS $3.45 vs $3.34 est / Rev $4.02B +40% YoY → XLK/XLI bullish ✅
+  ADI flagged for post-earnings screener Aug 26 (5-day blackout + base needed)
+Treasury buyback: 30-yr yield -9bps 5.20% → yield relief ✅
+⚠️ FOMC Minutes 1PM CT upcoming → dist risk monitor /eod-review
+⚠️ Russell 2000 -1.30% breadth divergence (large caps leading)
+Watchlist status: 0 ready, 5 bench (1 new flag: ADI), 0 removed
+Open positions: 0 (100% cash)
+Weekly trade count: 0/3
+Next check: /eod-review 3:15 PM CT — FOMC Minutes dist determination critical
+```
+
+**0 actions | 97th zero-action session | 30th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~198 BLOCKED | 86th degraded session**
 - TGT -4% PM consumer signal: confirms consumer softness (July retail sales -0.6% miss context)
 - ADI beat/miss: determines XLK/XLI read; miss could weigh on semis into FOMC minutes
 
