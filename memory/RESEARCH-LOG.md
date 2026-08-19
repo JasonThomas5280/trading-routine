@@ -46,6 +46,94 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-19 (Wed) — /pre-market (6:00 AM CT) — 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expires at open) — ES +0.14% NQ +0.46% — TGT BEAT EPS $4.11 vs $2.33 (-4% PM, NOT CANDIDATE) — ADI BMO PENDING — NVDA BLACKOUT BEGINS — WTI ~$85 IRAN STALEMATE — FOMC MINUTES 2PM ET RISK — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~197 BLOCKED | Perplexity 403 | AV 403 — 85th consecutive degraded session)
+**Market direction:** 🟢 CONFIRMED UPTREND (4/25 at open — Jul 16 expired) | ⚠️ FOMC Minutes 2PM ET risk | Entry gate: BLOCKED (Alpaca blocked + 0 candidates ≥75)
+**Sector leaders (top 3):** XLE (Energy +32% YTD) > XLI (Industrials) > XLK (Technology)
+**Sector laggards:** XLC, XLY (consumer noise), XLP
+
+### Step 1: Overnight gap check on open positions
+
+**Positions: 0** | Gap check SKIPPED (38th consecutive zero-position pre-market)
+
+### Step 2: Catalyst scan — open positions
+
+N/A (0 positions)
+
+### Step 3: Catalyst scan — watchlist / bench names
+
+**TGT BMO — MASSIVE BEAT (NOT a CAN SLIM candidate):**
+- EPS $4.11 vs $2.33 est. Revenue in-line to slightly above ($26.15B est.)
+- FY guidance raised: $9.90–$10.90 (incl. tariff refunds) vs prior $7.50–$8.50
+- Stock -4% PM: market skeptical of one-time tariff refund items. Ex-tariff guide $8.25–$9.25 = still genuine raise but lesser wow
+- XLY laggard sector — NOT actionable. No thesis impact on watchlist.
+
+**ADI BMO — results not yet indexed at 6AM CT:**
+- Consensus EPS $3.34, Rev $3.91B. Prior guidance midpoint EPS $3.30
+- +2.37% Earnings ESP = beat bias
+- Industrial/analog semis: beat = positive XLK/XLI read
+- ⚠️ VERIFY at /market-check 10AM CT
+
+**NVDA (bench, 79/100 est., blackout begins today):**
+- PM ~$225-226 (+0.57% from ~$225.16 Aug 18 close) | No material overnight news
+- Cup wk54, NO handle | **BLACKOUT BEGINS AUG 19** | Earnings Aug 26 AMC (~$46B rev est., $1.00 EPS est.)
+- ALL entry gates BLOCKED | Post-earnings earliest entry: Aug 27+ (needs new base + handle + pivot)
+- Status: 🔴 BLOCKED (blackout + no handle + Alpaca blocked)
+
+**XLE leaders (OXY/EOG/COP/SLB) — no ticker-specific news:**
+- WTI ~$85.00 (Brent ~$88-89). Iran/Hormuz STALEMATE — US "economic isolation indefinitely"
+- XLE +32% YTD. Sector thesis INTACT
+- ⬜ CANNOT SCORE: Alpaca/AV blocked. Priority screener on restore.
+
+### Step 4: Market overnight check
+
+**Futures:** ES +0.14%, NQ +0.46% — mildly bullish open; tech leading
+**NQ:** Negative GEX regime (-$162M) — amplified intraday moves possible
+
+**Distribution analysis:**
+- Jul 16 expires today → active dist days: Jul 17, Jul 23, Jul 29, Aug 18 = **4/25 = CONFIRMED UPTREND**
+- (Prior roadmap written pre-Aug 18 dist said "→ 3/25 Wed Aug 19" — now corrected to 4/25)
+- Dist threshold today: ~7,687.59 (7,703 × 0.998)
+- ES +0.14% → opens ~7,714 = **26 pts above threshold → LOW dist risk at open**
+- ⚠️ FOMC Minutes 2PM ET: July meeting was 9-3 dissent for hike. Sep hike odds now ~31% (was 67%). Hawkish energy-inflation language in minutes → hike repricing → potential afternoon selloff → dist day risk
+
+**Key events today:**
+- ADI actual results: 7:01 AM ET (verify before /market-check)
+- TGT earnings call: clarifying tariff noise
+- FOMC Minutes: 2PM ET — hawkish = dist day risk → 5/25 Under Pressure
+
+**Iran/Hormuz:** Stalemate. US threatening full economic isolation. Attacks Aug 12. WTI ~$85.
+
+### Step 5: Buy-zone readiness
+
+| Symbol | Status | Price | Distance from pivot | Notes |
+|---|---|---|---|---|
+| NVDA | 🔴 BLOCKED | ~$225-226 PM | No pivot (no handle) | Blackout begins today. Entry Aug 27+ |
+| OXY/EOG/COP/SLB | ⬜ CANNOT SCORE | — | — | Alpaca/AV blocked. WTI $85 thesis intact. |
+| GEV/PWR | ⬜ CANNOT SCORE | — | — | Alpaca/AV blocked. XLI #2 sector. |
+| TGT | ❌ NOT CANDIDATE | ~-4% PM | — | XLY laggard. Beat was tariff-noise. |
+
+**ZERO ACTIONABLE NAMES**
+
+### Step 6: Circuit breaker check
+
+- ALL CLEAR | No positions | $2,500 equity (HWM) | PDT: 0/3
+- Daily -3% CB: N/A (0 positions)
+- Weekly -6% CB: N/A
+- Drawdown -12% CB: N/A
+
+### Risks
+
+- FOMC Minutes 2PM ET: hawkish dissent detail on energy-inflation → Sep hike repricing → afternoon selloff → potential dist day (5/25 = Under Pressure reversal from today's Confirmed Uptrend)
+- NQ negative GEX (-$162M): amplified intraday moves if FOMC surprises
+- TGT -4% PM consumer signal: confirms consumer softness (July retail sales -0.6% miss context)
+- ADI beat/miss: determines XLK/XLI read; miss could weigh on semis into FOMC minutes
+
+**0 actions | 96th zero-action session | 30th zero-trade week begins | `research_source: websearch_fallback` | Alpaca Day ~197 BLOCKED | 85th degraded session**
+
+---
+
 ## 2026-08-14 (Fri) — /pre-market (6:00 AM CT) — 🟡 UNDER PRESSURE 5/25 UNCHANGED — AMAT Q3 BEAT EPS / SLIGHT REV MISS / Q4 GUIDE STRONG — ES ~+0.01% FLAT NQ SLIGHTLY NEGATIVE — NVDA PM ~$225.09 (-0.45%) — ⚠️ MODERATE DIST RISK (threshold 7,782.99) — RETAIL SALES + UMICH TODAY — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~188 BLOCKED | Perplexity 403 | AV 403 — 76th consecutive degraded session)

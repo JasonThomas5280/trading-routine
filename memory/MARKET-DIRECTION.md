@@ -6,7 +6,24 @@
 
 ## Current Status
 
-**Status:** 🟡 **UPTREND UNDER PRESSURE** *(5/25 dist days | ✅ AUG 18 DIST DAY #5 CONFIRMED: S&P ~7,703 est. -0.96% on SPY vol 20.99M (> Aug 17: 11.53M) — both criteria met | QQQ ~$719.31 -1.45% | STATE TRANSITION: Confirmed Uptrend → Under Pressure | NO new long entries | SH/SQQQ hedge eligible — QUEUED (Alpaca Day ~196 BLOCKED) | Aug 19: Jul 16 expires → 4/25 (still Under Pressure) + ADI/TGT BMO + NVDA blackout begins + FOMC Minutes 2PM ET | research_source: websearch_fallback)*
+**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days at today's open — Jul 16 expired Aug 19 | ⚠️ FOMC Minutes 2PM ET = primary risk (hawkish = potential new dist day → 5/25 Under Pressure) | NVDA BLACKOUT BEGINS TODAY | ADI BMO (results pending) | TGT BEAT EPS $4.11 vs $2.33 est (-4% PM, tariff noise) | ES +0.14% NQ +0.46% | Alpaca Day ~197 BLOCKED | NO new entries (Alpaca blocked + 0 candidates ≥75) | research_source: websearch_fallback)*
+
+**✅ AUG 19 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expires at open) — ES +0.14% NQ +0.46% MILDLY BULLISH — TGT MASSIVE BEAT EPS $4.11 vs $2.33 EST (-4% PM tariff noise) — ADI BMO PENDING — NVDA ~$225-226 BLACKOUT BEGINS TODAY — WTI ~$85 IRAN STALEMATE — FOMC MINUTES 2PM ET = RISK — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~197 BLOCKED):**
+- **Market state at open: 🟢 CONFIRMED UPTREND (4/25)** | Jul 16 expires today → remaining active dist: Jul 17, Jul 23, Jul 29, Aug 18 = 4/25 → < 5 threshold = **CONFIRMED UPTREND** | (Prior roadmap said "→ 3/25" — that predated the Aug 18 dist day; corrected count is 4/25)
+- **SPY vs 50d MA:** Aug 18 close SPY ~$767.59 vs 50d MA ~$742.90 (SPY +3.3% above) | Golden cross intact ✅ | All Confirmed Uptrend criteria met
+- **Dist threshold today:** ~7,687.59 (7,703 × 0.998) | ES +0.14% opens ~7,714 = 26 pts above threshold → **LOW dist risk at open** | ⚠️ FOMC Minutes 2PM ET = afternoon risk (hawkish tone → hike repricing → selloff → potential dist day #6 → 5/25 Under Pressure)
+- **Active dist days (4/25 after today's open):** Jul 17, Jul 23, Jul 29, Aug 18
+- **Dist expiry roadmap (UPDATED):** Aug 19: Jul 16 expires → **4/25 CONFIRMED UPTREND** (today) | Aug 21: Jul 17 expires → 3/25 | ~Oct 21: Jul 23 expires | ~Oct 27: Jul 29 expires | ~Nov 17: Aug 18 expires
+- **TGT BMO MASSIVE BEAT — NOT a candidate:** EPS $4.11 vs $2.33 est. Rev in-line. Guidance raised ($9.90–$10.90 FY). Stock -4% PM on tariff refund noise. XLY laggard sector — not actionable for CAN SLIM. No thesis impact.
+- **ADI BMO — results not yet indexed at 6AM CT:** Consensus EPS $3.34, Rev $3.91B. ADI had +2.37% Earnings ESP (beat bias). Industrial/analog semis. If beats: positive XLK/XLI read. Verify at /market-check 10AM CT.
+- **NVDA (~$225-226 PM, +0.57%):** No overnight news. Cup wk54, no handle. **BLACKOUT BEGINS TODAY** (5 days before Aug 26 AMC). ALL gates blocked. Entry only Aug 27+ post-earnings (need new base + handle + pivot).
+- **Iran/Hormuz STALEMATE:** US "economic isolation indefinitely." WTI ~$85.00, Brent ~$88-89. XLE +32% YTD thesis INTACT. OXY/EOG/COP/SLB still unscored (Alpaca/AV blocked).
+- **FOMC Minutes 2PM ET (Jul 28-29 meeting):** 9-3 vote (3 dissenters for hike). Minutes = first full look at dissent reasoning. Sep hike odds now ~31% (down from 67% at meeting). Hawkish energy-inflation language = primary risk to current Uptrend. Monitor at /eod-review.
+- **Entry gate: BLOCKED** — Alpaca Day ~197 BLOCKED + 0 candidates ≥75 | **ZERO new entries**
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | PDT: 0/3
+- **0 actions | 96th zero-action session | `research_source: websearch_fallback` | Alpaca Day ~197 BLOCKED | 85th degraded session**
+- **NEXT: /market-check 10AM CT — ADI results confirmation + FOMC Minutes 2PM ET (dist day monitor) | Dist threshold ~7,687.59**
+- `pre-market_Aug19` | `websearch_fallback` | `Alpaca_Day197_BLOCKED` | `85th_degraded_session` | `96th_zero_action_session` | `CONFIRMED_UPTREND_4of25_Jul16_expired` | `ES_+0.14pct_NQ_+0.46pct` | `dist_threshold_7687.59_LOW_risk_open` | `TGT_BEAT_EPS_4.11_vs_2.33_not_candidate` | `ADI_BMO_pending_EPS_3.34_est` | `NVDA_blackout_begins_Aug19` | `WTI_85_Iran_stalemate` | `FOMC_minutes_2PM_ET_hawkish_risk` | `circuit_breakers_ALL_CLEAR`
 
 **✅ AUG 18 /eod-review (3:15 PM CT — 🟡 UPTREND UNDER PRESSURE (5/25) — ✅ DIST DAY #5 CONFIRMED — S&P ~7,703 est. -0.96% — SPY VOL 20.99M > AUG 17: 11.53M — QQQ ~$719.31 -1.45% — STATE TRANSITION: CONFIRMED UPTREND → UNDER PRESSURE — SH/SQQQ HEDGE QUEUED (ALPACA BLOCKED) — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~196 BLOCKED):**
 - **S&P 500 close: ~7,703 est.** (-0.96% from 7,778 Aug 17 close) | SPY ~$767.59 (range $767.34-$769.88) | Dist threshold 7,762.47 → **65 pts BELOW** ✅ criterion 1 MET

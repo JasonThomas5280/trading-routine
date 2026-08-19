@@ -6312,3 +6312,19 @@ Tomorrow (Aug 19):
   • SH/SQQQ hedge entry attempt on Alpaca restore
 
 Watchlist: ZERO ≥75 candidates | 29th consecutive zero-trade week
+
+---
+## 2026-08-19 11:15 CT [clickup-placeholder]
+
+🌅 Pre-market 2026-08-19
+
+Market: 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expired at open) | ⚠️ FOMC Minutes 2PM ET = dist risk
+Futures: ES +0.14% NQ +0.46% | Mildly bullish | NQ negative GEX (-$162M)
+Open positions: 0 | Circuit breakers: NONE | Overnight gaps: NONE
+TGT BMO: EPS $4.11 vs $2.33 est MASSIVE BEAT | Stock -4% PM (tariff noise) | NOT candidate (XLY)
+ADI BMO: Pending at 6AM | EPS est $3.34 Rev $3.91B | Verify /market-check
+Watchlist ready: NONE | NVDA 🔴 BLOCKED (blackout today, cup no handle, Aug 26 AMC)
+XLE (OXY/EOG/COP/SLB): ⬜ CANNOT SCORE (Alpaca/AV blocked) | WTI ~$85 Iran stalemate
+Key catalyst: FOMC Minutes 2PM ET (9-3 Jul dissent; hawkish = dist day risk → 5/25 Under Pressure)
+Dist threshold: ~7,687.59 | LOW risk at open | Monitor FOMC at /eod-review
+Plan: ZERO new entries — Alpaca Day ~197 BLOCKED + 0 candidates + NVDA blackout

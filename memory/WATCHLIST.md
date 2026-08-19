@@ -55,6 +55,16 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 **Built:** 2026-08-16 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode
 Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three primary sources blocked; 78th consecutive degraded session
 
+**✅ AUG 19 /pre-market UPDATE (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expires at open) — ES +0.14% NQ +0.46% MILDLY BULLISH — TGT MASSIVE BEAT EPS $4.11 vs $2.33 EST (-4% PM TARIFF NOISE, NOT CANDIDATE) — ADI BMO RESULTS PENDING — NVDA ~$225-226 PM BLACKOUT BEGINS TODAY — WTI ~$85 IRAN STALEMATE — FOMC MINUTES 2PM ET = DIST RISK — 0 ACTIONS):**
+- **Market: 🟢 CONFIRMED UPTREND (4/25)** | Jul 16 expires today → Jul 17+Jul 23+Jul 29+Aug 18 = 4/25 = Confirmed Uptrend ✅ | (Prior roadmap "→ 3/25" was pre-Aug18-dist; corrected 4/25) | Dist threshold ~7,687.59 | ES +0.14% opens ~7,714 = 26 pts above → **LOW dist risk at open** | ⚠️ FOMC Minutes 2PM ET = afternoon hawkish risk
+- **TGT MASSIVE BEAT — NOT ACTIONABLE:** EPS $4.11 vs $2.33 est. Rev in-line. FY guide raised to $9.90–$10.90. Stock -4% PM on tariff refund noise (ex-tariff guide $8.25–$9.25 = real beat but lesser). XLY laggard sector. No CAN SLIM candidate.
+- **ADI BMO — pending at 6AM CT:** Consensus EPS $3.34, Rev $3.91B. Beat base case (+2.37% Earnings ESP). Industrial/analog semis. Verify at /market-check. If beats → XLK/XLI positive read.
+- **NVDA (~$225-226 PM, +0.57%):** No news. Cup wk54 NO handle. **BLACKOUT BEGINS TODAY.** 🔴 BLOCKED. Earnings Aug 26 AMC. Entry: Aug 27+ (needs new base + handle + pivot after earnings).
+- **XLE/XLI:** No ticker news. WTI ~$85. Iran stalemate. XLE +32% YTD. OXY/EOG/COP/SLB ⬜ CANNOT SCORE (Alpaca/AV blocked). Thesis intact.
+- **Entry gate: BLOCKED** — Alpaca Day ~197 BLOCKED + 0 candidates ≥75 + NVDA in blackout
+- 0 actions | 96th zero-action session | 30th zero-trade week begins | `research_source: websearch_fallback` | Alpaca Day ~197 BLOCKED | 85th degraded session
+- NEXT: /market-check 10AM CT — ADI results + FOMC Minutes 2PM ET dist monitor
+
 **✅ AUG 18 /market-check UPDATE (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK HIGH: S&P ~7,703 -0.54% (59 pts BELOW threshold 7,762.47) — NASDAQ -1.6% — WTI $84.42 DISCREPANCY RESOLVED (memory $105 WRONG) — NVDA $225.01 FLAT LAST PRE-BLACKOUT BLOCKED — BOND YIELDS MULTI-DECADE HIGHS — 0 ACTIONS):**
 - **S&P 500 intraday: ~7,703 (-0.54%)** | ⚠️ DIST RISK HIGH: 59 pts BELOW threshold 7,762.47 | Nasdaq -1.6% | Dow -150 pts
 - **⚠️ DIST DAY #5 RISK: HIGH** | Close below 7,762.47 on elevated SPY volume = 5/25 = UNDER PRESSURE (reverses Uptrend after 1 session). Monitor at /eod-review.
