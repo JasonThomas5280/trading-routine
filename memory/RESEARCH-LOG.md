@@ -46,6 +46,97 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-20 (Thu) — /pre-market (6:00 AM CT) — 🟢 CONFIRMED UPTREND (4/25) — ES +0.16% NQ +0.42% — WMT BMO REVENUE BEAT / GUIDANCE CAUTIOUS / STOCK -3-4% PM (NOT CANDIDATE) — TRUMP "OPERATION ECONOMIC FURY" VS IRAN — NVDA $221.83 PM BLACKOUT DAY 2 — WTI ~$82-84 XLE THESIS INTACT — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~200 BLOCKED | Perplexity 403 | AV 403 — 88th consecutive degraded session)
+**Market direction:** 🟢 CONFIRMED UPTREND (4/25) | Dist threshold ~7,699 | ES +0.16% opens ~7,727 → 28 pts above → LOW dist risk | Entry gate: BLOCKED (Alpaca blocked + 0 candidates ≥75)
+**Sector leaders (top 3):** XLE (Energy +30%+ YTD) > XLI (Industrials) > XLK (Technology)
+**Sector laggards:** XLY (consumer cautious), XLC, XLP
+
+### Step 1: Overnight gap check on open positions
+
+**Positions: 0** | Gap check SKIPPED (39th consecutive zero-position pre-market)
+
+### Step 2: Catalyst scan — open positions
+
+N/A (0 positions)
+
+### Step 3: Catalyst scan — watchlist / bench names
+
+**WMT BMO Q2 FY2027 — NOT a CAN SLIM candidate (XLY laggard sector):**
+- Revenue: BEAT (est. $186.83B; prior Q $177.8B +7.3% YoY)
+- EPS: MIXED (est. $0.74; top of WMT guide $0.72–$0.74)
+- Guidance: CAUTIOUS — "somewhat unstable" consumer backdrop; full-year view limited upside
+- Stock reaction: -3 to -4% PM ($110.54 implied floor on options; put-to-call 1.56× heading in)
+- Impact on watchlist: NONE — XLY is sector laggard (#8+); WMT not a CAN SLIM candidate; no thesis impact
+- ⚠️ CONSUMER WARNING: Cautious WMT guidance = consumer spending headwind; confirms XLY avoid posture. No action needed.
+
+**NVDA (bench, 79/100 est., BLACKOUT DAY 2):**
+- PM $221.83 (+$2.09, +0.95%) from $219.74 Aug 19 close
+- Cup building; NO handle; BLACKOUT (Day 2 of 5 — ends Aug 26 AMC earnings night)
+- Post-earnings entry window: Aug 27+ (needs new base + handle + pivot after print)
+- Earnings Aug 26 AMC: EPS est. $2.09 (consensus; prior run rate ~$1.00 is likely stale)
+- ⭐ JACKSON HOLE Aug 27-29: Fed rate path catalyst immediately post-NVDA earnings
+- 🔴 BLOCKED — no action until Aug 27+ minimum
+
+**ADI (screener queue, BLACKOUT DAY 2):**
+- 5-day blackout: Aug 20/21/22/25/26 → earliest entry Aug 27 (post-blackout + base needed)
+- Record beat confirmed Aug 19: EPS $3.45 / Rev $4.02B +40% YoY / C-letter 20/20
+- ⭐ Formal canslim-screener queued for Aug 27 /pre-market
+- No action today
+
+**XLE/XLI bench candidates (OXY, EOG, COP, SLB, GEV, PWR):**
+- ⬜ CANNOT SCORE (Alpaca/AV blocked — 88th degraded session)
+- XLE +30%+ YTD; Iran "Operation Economic Fury" escalates → WTI ~$82-84 → XLE thesis INTACT
+- Priority screener queue when Alpaca restores
+
+### Step 4: Market overnight check
+
+- **Futures (6 AM CT pre-market):** ES +0.16% (~7,727 est.) | NQ +0.42% | Dow +0.06% | RUT +0.24%
+- **66% probability higher S&P open** (prediction markets); LOW dist risk at open
+- **Trump "Operation Economic Fury":** Most aggressive US economic operation against Iran ever. Full trade/financial isolation. WTI ~$82-84 (slight pullback from ~$85 peak; Hormuz threat sustained). XLE thesis intact. No immediate panic spike.
+- **WMT BMO:** Revenue beat, cautious guidance, stock -3-4% PM. Market absorbing OK given positive futures. XLY laggard; no index drag sufficient to create dist risk.
+- **NVDA PM $221.83 +0.95%:** Modest pre-market recovery after Aug 19 close ~$219.74. BLACKOUT. Not actionable.
+- **Jackson Hole Aug 27-29:** Fed symposium theme "Financial Innovation: Implications for Payments and Policy" — still >1 week away. Rate path will be the narrative.
+- **Tomorrow Aug 21:** Jul 17 expires → 3/25 (still CONFIRMED UPTREND) | Flash PMIs | Jobless Claims | Dist threshold ~7,714 est. (today's expected close × 0.998)
+
+### Step 5: Buy-zone readiness
+
+**Primary watchlist: ZERO ≥75 candidates** | NVDA BLACKOUT | ADI BLACKOUT | XLE/XLI UNSCORED (APIs blocked)
+
+| Name | Status | Distance from Pivot | Action |
+|---|---|---|---|
+| NVDA | 🔴 BLOCKED | N/A (no pivot — no handle) | BLACKOUT until Aug 27+ |
+| ADI | 🔴 BLOCKED | N/A (no base yet — 2 days post-earnings) | BLACKOUT until Aug 27 |
+| OXY/EOG/COP/SLB | ⬜ CANNOT SCORE | Alpaca blocked | Queue screener on restore |
+
+### Step 6: Circuit breaker check
+
+- **Daily -3%:** ALL CLEAR (0 positions; $0 P&L)
+- **Weekly -6%:** ALL CLEAR (0 positions; $0 P&L; 0/3 trades this week)
+- **Drawdown -12% from HWM:** ALL CLEAR ($2,500 = HWM)
+- **PDT count:** 0/3 | **Alpaca Day ~200:** BLOCKED
+
+### Step 7: ClickUp summary
+
+```
+🌅 Pre-market 2026-08-20 (Thu)
+Market: 🟢 CONFIRMED UPTREND (4/25) | Futures: ES +0.16% NQ +0.42%
+Dist threshold: ~7,699 | Buffer: ~28 pts | LOW risk at open
+Open positions: 0 | Circuit breakers: NONE
+Overnight gaps: N/A (0 positions)
+WMT BMO: Revenue beat / guidance cautious / stock -3-4% PM → NOT candidate, XLY laggard
+Iran "Op. Economic Fury": WTI ~$82-84, XLE thesis intact
+NVDA PM $221.83 +0.95% → BLOCKED (blackout Day 2, earnings Aug 26 AMC)
+ADI: BLACKOUT Day 2 (screener queued Aug 27)
+Watchlist ready: NONE | Watching: NONE | Removed: NONE
+Key catalysts today: WMT conf call 7AM CT | Aug 21 Jul17→3/25 + Flash PMIs + Jobless Claims
+Plan: ZERO entries — Alpaca BLOCKED + 0 candidates ≥75 + NVDA/ADI in blackout
+research_source: websearch_fallback | Alpaca Day ~200 BLOCKED | 88th degraded session
+```
+
+---
+
 ## 2026-08-19 (Wed) — /pre-market (6:00 AM CT) — 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expires at open) — ES +0.14% NQ +0.46% — TGT BEAT EPS $4.11 vs $2.33 (-4% PM, NOT CANDIDATE) — ADI BMO PENDING — NVDA BLACKOUT BEGINS — WTI ~$85 IRAN STALEMATE — FOMC MINUTES 2PM ET RISK — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~197 BLOCKED | Perplexity 403 | AV 403 — 85th consecutive degraded session)

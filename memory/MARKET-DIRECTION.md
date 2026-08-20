@@ -8,6 +8,19 @@
 
 **Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days — ✅ AUG 19 CLOSE: S&P est. ~7,715 +0.31% NOT DIST DAY ✅ (threshold 7,687.59; ~27 pts clear) | FOMC Minutes hawkish (9-3 hold, 3 dissenters Hammack/Kashkari/Logan) ABSORBED — no dist day | ADI CONFIRMED BEAT EPS $3.45 Rev $4.02B +40% YoY → flagged screener Aug 27 | NVDA BLACKOUT DAY 1 (earnings Aug 26 AMC) | Aug 21 Jul17→3/25 | Alpaca Day ~199 BLOCKED | NO new entries (Alpaca blocked + 0 candidates ≥75) | research_source: websearch_fallback)*
 
+**✅ AUG 20 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ES +0.16% NQ +0.42% — WMT BMO REVENUE BEAT / GUIDANCE CAUTIOUS / STOCK -3-4% PM (NOT CANDIDATE) — TRUMP "OPERATION ECONOMIC FURY" VS IRAN — NVDA $221.83 PM BLACKOUT DAY 2 — LOW DIST RISK (OPENS ~7,727; THRESHOLD ~7,699; 28 PTS CLEAR) — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~200 BLOCKED):**
+- **Market state: 🟢 CONFIRMED UPTREND (4/25 — UNCHANGED)** | Jul 17, Jul 23, Jul 29, Aug 18 = 4 active dist days | `research_source: websearch_fallback` | Alpaca Day ~200 BLOCKED | 88th consecutive degraded session
+- **Dist threshold today: ~7,699** (7,715 est. close × 0.998) | ES +0.16% → opens ~7,727 → **28 pts ABOVE → LOW dist risk at open** ✅
+- **WMT BMO Q2 FY2027:** Revenue BEAT ($186.83B+ est.) | EPS MIXED (est. $0.74; at top of WMT own guide) | Guidance CAUTIOUS ("somewhat unstable" consumer backdrop; limited upside) | Stock -3-4% PM | NOT a dist day catalyst by itself (XLY laggard, positive index futures overall)
+- **Trump "Operation Economic Fury":** Most aggressive US economic isolation operation vs. Iran. Financial/trade blockade. WTI ~$82-84 (stable; Hormuz threat sustained) → XLE thesis INTACT ✅
+- **NVDA PM $221.83 (+0.95% from $219.74 close):** BLACKOUT Day 2 → BLOCKED. Earnings Aug 26 AMC.
+- **ADI:** BLACKOUT Day 2 (Aug 20 of 5 days Aug 20/21/22/25/26) → screener queued Aug 27
+- **Dist expiry roadmap (UPDATED Aug 20):** **Aug 21: Jul 17 expires → 3/25** (still CONFIRMED UPTREND <5) | ~Oct 21: Jul 23 expires | ~Oct 27: Jul 29 expires | ~Nov 17: Aug 18 expires
+- **Circuit breakers: ALL CLEAR** | 0 positions | $2,500 HWM | P&L: $0 | PDT: 0/3
+- **0 actions | 99th zero-action session | 30th zero-trade week (0/3) | `research_source: websearch_fallback` | Alpaca Day ~200 BLOCKED | 88th degraded session**
+- **NEXT:** /market-check 10AM CT — WMT reaction + dist check (close vs ~7,699) | **Aug 21: Jul 17 expires → 3/25 CONFIRMED UPTREND** | Flash PMIs + Jobless Claims | Aug 26: NVDA AMC + ADI blackout clears
+- `pre-market_Aug20` | `websearch_fallback` | `Alpaca_Day200_BLOCKED` | `88th_degraded_session` | `99th_zero_action_session` | `CONFIRMED_UPTREND_4of25_UNCHANGED` | `ES_+0.16pct_NQ_+0.42pct` | `dist_threshold_7699_28pts_clear` | `WMT_BMO_revenue_beat_guidance_cautious_not_candidate` | `Trump_Operation_Economic_Fury_Iran` | `WTI_82-84_XLE_intact` | `NVDA_221.83_blackout_day2` | `ADI_blackout_day2_screener_Aug27` | `circuit_ALL_CLEAR` | `0_actions` | `Jul17_expires_Aug21_3of25`
+
 **✅ AUG 19 /eod-review (3:15 PM CT — 🟢 CONFIRMED UPTREND 4/25 UNCHANGED — S&P est. ~7,715 +0.31% NOT DIST DAY ✅ — FOMC MINUTES HAWKISH (9-3 HOLD, 3 DISSENTERS) ABSORBED — 30-YR YIELD -9BPS 5.19% TREASURY BUYBACK — ADI RECORD BEAT CONFIRMED — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~199 BLOCKED):**
 - **Market state: 🟢 CONFIRMED UPTREND (4/25 — UNCHANGED from open)** | `research_source: websearch_fallback` | Alpaca Day ~199 BLOCKED | 87th consecutive degraded session
 - **AUG 19 CLOSE (websearch_fallback — Alpaca blocked):**

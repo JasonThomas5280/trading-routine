@@ -66,6 +66,16 @@ Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - 0 actions | 97th zero-action session | 30th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~198 BLOCKED | 86th degraded session
 - NEXT: /eod-review 3:15 PM CT — FOMC Minutes dist determination critical
 
+**✅ AUG 20 /pre-market UPDATE (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ES +0.16% NQ +0.42% — WMT BMO REVENUE BEAT / GUIDANCE CAUTIOUS / STOCK -3-4% PM (NOT CANDIDATE) — TRUMP "OP. ECONOMIC FURY" VS IRAN — NVDA $221.83 PM BLACKOUT DAY 2 — WTI ~$82-84 XLE INTACT — 0 ACTIONS):**
+- **Market: 🟢 CONFIRMED UPTREND (4/25)** | Dist threshold ~7,699 | ES +0.16% opens ~7,727 → **28 pts above → LOW dist risk** ✅ | Aug 21: Jul 17 expires → 3/25 (still CONFIRMED UPTREND)
+- **WMT BMO Q2 FY2027 — NOT actionable:** Revenue BEAT (est. $186.83B) | Guidance CAUTIOUS ("somewhat unstable" consumer) | Stock -3-4% PM | XLY laggard sector → no CAN SLIM thesis | Consumer caution narrative: avoid XLY
+- **Trump "Operation Economic Fury":** US-Iran full economic isolation. WTI ~$82-84. Hormuz threat sustained. XLE +30%+ YTD thesis INTACT ✅ | OXY/EOG/COP/SLB still unscored (Alpaca/AV blocked)
+- **NVDA PM $221.83 (+0.95% from $219.74):** BLACKOUT Day 2 → 🔴 BLOCKED | Earnings Aug 26 AMC (EPS est. $2.09) | Post-earnings entry Aug 27+ | Jackson Hole Aug 27-29 = rate path clarity catalyst
+- **ADI:** BLACKOUT Day 2 (5 days Aug 20/21/22/25/26) → canslim-screener Aug 27
+- **Primary watchlist: ZERO actions** — no ≥75 candidates, all blocked | Alpaca Day ~200 BLOCKED
+- 0 actions | 99th zero-action session | 30th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~200 BLOCKED | 88th degraded session
+- NEXT: /market-check 10AM CT — WMT conf call reaction + dist check (close vs ~7,699) | Aug 21 Jul17→3/25 + Flash PMIs + Jobless Claims
+
 **✅ AUG 19 /eod-review UPDATE (3:15 PM CT — 🟢 CONFIRMED UPTREND (4/25 UNCHANGED) — S&P est. ~7,715 +0.31% NOT DIST DAY ✅ — FOMC MINUTES HAWKISH ABSORBED — ADI CONFIRMED BEAT → SCREENER AUG 27 — 0 ACTIONS):**
 - **S&P 500: est. ~7,715 (+0.31%) | NOT DIST DAY ✅** | Dist threshold 7,687.59; ~27 pts clear | CONFIRMED UPTREND 4/25 UNCHANGED
 - **FOMC Minutes ABSORBED:** 9-3 hold (3 dissenters Hammack/Kashkari/Logan) | First 3-way directional dissent since Sep 2016 | Market closed positive — hawkish tone offset by Treasury buyback yield relief (-9bps 30-yr to 5.19%)
