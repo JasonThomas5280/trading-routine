@@ -6,7 +6,23 @@
 
 ## Current Status
 
-**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days — ✅ AUG 19 CLOSE: S&P est. ~7,715 +0.31% NOT DIST DAY ✅ (threshold 7,687.59; ~27 pts clear) | FOMC Minutes hawkish (9-3 hold, 3 dissenters Hammack/Kashkari/Logan) ABSORBED — no dist day | ADI CONFIRMED BEAT EPS $3.45 Rev $4.02B +40% YoY → flagged screener Aug 27 | NVDA BLACKOUT DAY 1 (earnings Aug 26 AMC) | Aug 21 Jul17→3/25 | Alpaca Day ~199 BLOCKED | NO new entries (Alpaca blocked + 0 candidates ≥75) | research_source: websearch_fallback)*
+**Status:** 🟢 **CONFIRMED UPTREND** *(4/25 dist days — ⚠️ AUG 20 INTRADAY 10:00 AM CT: S&P ~7,691 -0.30% (~8 pts BELOW threshold 7,699) — MODERATE DIST RISK — 5th straight day of losses — SPY -0.34% QQQ -0.51% — WMT disappointed continuing PM slump — bond yields UP (rally sputtered) — oil UP (Iran tensions) — NVDA $219.21 -0.24% BLACKOUT Day 2 — 0 positions — 0 actions — Alpaca Day ~201 BLOCKED | dist determination pending /eod-review)*
+
+**✅ AUG 20 /market-check (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK MODERATE: S&P ~7,691 -0.30% (~8 pts BELOW threshold 7,699) — 5TH STRAIGHT LOSING DAY — SPY -0.34% QQQ -0.51% — WMT DISAPPOINTED CONTINUING IN REGULAR SESSION — BOND YIELDS UP (RALLY SPUTTERED) — OIL UP IRAN TENSIONS — NVDA $219.21 -0.24% BLACKOUT DAY 2 BLOCKED — ADI BLACKOUT DAY 2 — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~201 BLOCKED):**
+- **S&P 500 intraday: ~7,691 (-0.30%)** | Dist threshold: ~7,699 | **~8 pts BELOW → ⚠️ MODERATE DIST RISK** | 5th consecutive session of losses | Nasdaq -0.5% | SPY -0.34% | QQQ -0.51% | Dow slipping
+- **Distribution day assessment:** S&P at -0.30% (above -0.2% threshold). Volume context: elevated PM activity + WMT disappointment + bond yield spike = likely elevated institutional selling. **Confirm at /eod-review close.** If close ≈ 7,691 on elevated SPY vol → DIST DAY #5 → 5/25 = **UNDER PRESSURE** (state transition risk)
+- **Macro drivers today:** Bond rally sputtered → 10-yr/30-yr yields UP → equity multiple compression | Oil UP on Iran/"Operation Economic Fury" isolation | WMT cautious guidance dragging retail (XLY) | 5 consecutive losing sessions = trend deterioration
+- **WMT regular session:** Disappointing results extended pre-market weakness. XLY laggard reinforced. Not a CAN SLIM candidate (sector filter). Consumer spending headwind confirmed.
+- **NVDA ($219.21, -0.24%, range $216.76-$222.87):** Open $221.95 | BLACKOUT Day 2 (earnings Aug 26 AMC) | Cup wk54, NO handle | 🔴 BLOCKED (blackout + no handle + Alpaca blocked) | Post-earnings entry: Aug 27+
+- **ADI:** BLACKOUT Day 2 (5-day window Aug 20/21/22/25/26) → canslim-screener queued Aug 27
+- **Primary watchlist: ZERO ≥75 candidates** — no triggers possible
+- **Bench check:** NVDA no change (blackout) | ADI screener queued | XLE/XLI UNSCORED (Alpaca/AV blocked) | No promotions/demotions
+- **0 positions → sell-rules-engine SKIPPED (100th consecutive)**
+- **Abort gates hit:** PRIMARY WATCHLIST = ZERO ≥75 candidates | Alpaca Day ~201 BLOCKED | 0 positions
+- **Circuit breakers: ALL CLEAR** | Equity: $2,500 (HWM) | Day P&L: $0 | Week P&L: $0 | PDT: 0/3
+- **0 actions | 100th zero-action session | 30th consecutive zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~201 BLOCKED | 89th degraded session**
+- **NEXT: /eod-review 3:15 PM CT — CRITICAL: confirm dist day #5 (close vs 7,699 + SPY vol) | Aug 21 Jul 17 expires → potential offset if dist confirms | Flash PMIs + Jobless Claims**
+- `market-check_Aug20` | `websearch_fallback` | `Alpaca_Day201_BLOCKED` | `89th_degraded_session` | `100th_zero_action_session` | `SPX_~7691_-0.30pct_DIST_RISK_MODERATE` | `dist_threshold_7699_8pts_BELOW` | `5th_straight_losing_day` | `SPY_-0.34pct_QQQ_-0.51pct` | `WMT_disappointed_XLY_drag` | `bond_yields_UP_rally_sputtered` | `oil_UP_Iran_tensions` | `NVDA_219.21_blackout_day2_BLOCKED` | `ADI_blackout_day2_screener_Aug27` | `DIST_DAY5_risk_pending_eod` | `circuit_breakers_ALL_CLEAR` | `equity_2500_HWM`
 
 **✅ AUG 20 /pre-market (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ES +0.16% NQ +0.42% — WMT BMO REVENUE BEAT / GUIDANCE CAUTIOUS / STOCK -3-4% PM (NOT CANDIDATE) — TRUMP "OPERATION ECONOMIC FURY" VS IRAN — NVDA $221.83 PM BLACKOUT DAY 2 — LOW DIST RISK (OPENS ~7,727; THRESHOLD ~7,699; 28 PTS CLEAR) — 0 POSITIONS — 0 ACTIONS — ALPACA DAY ~200 BLOCKED):**
 - **Market state: 🟢 CONFIRMED UPTREND (4/25 — UNCHANGED)** | Jul 17, Jul 23, Jul 29, Aug 18 = 4 active dist days | `research_source: websearch_fallback` | Alpaca Day ~200 BLOCKED | 88th consecutive degraded session

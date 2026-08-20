@@ -66,6 +66,17 @@ Alpaca: Day ~191 BLOCKED | Perplexity: 403 | Alpha Vantage: 403 — all three pr
 - 0 actions | 97th zero-action session | 30th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~198 BLOCKED | 86th degraded session
 - NEXT: /eod-review 3:15 PM CT — FOMC Minutes dist determination critical
 
+**✅ AUG 20 /market-check UPDATE (10:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK MODERATE: S&P ~7,691 -0.30% (~8 pts BELOW threshold 7,699) — 5TH STRAIGHT LOSING DAY — SPY -0.34% QQQ -0.51% — WMT DISAPPOINTED REGULAR SESSION XLY DRAG — BOND YIELDS UP RALLY SPUTTERED — OIL UP IRAN TENSIONS — NVDA $219.21 -0.24% BLACKOUT DAY 2 BLOCKED — ADI BLACKOUT DAY 2 — 0 ACTIONS):**
+- **S&P 500 intraday: ~7,691 (-0.30%)** | Dist threshold 7,699 | **~8 pts BELOW → ⚠️ MODERATE DIST RISK** | 5th consecutive losing session | Nasdaq -0.5% | SPY -0.34% | QQQ -0.51%
+- **⚠️ DIST DAY #5 RISK: MODERATE** — If close ≈ -0.3% on elevated SPY volume → 5/25 = UNDER PRESSURE (state transition risk). Confirm at /eod-review.
+- **Macro drivers:** Bond rally sputtered (yields UP → equity multiple compression) | Oil UP (Iran "Operation Economic Fury" isolation) | WMT weak guidance extending PM slump | 5 consecutive losing days = trend fatigue
+- **NVDA ($219.21, -0.24%, range $216.76-$222.87, open $221.95):** Blackout Day 2, cup wk54 no handle → 🔴 BLOCKED | Post-earnings entry Aug 27+ (need new base + handle + pivot)
+- **ADI:** Blackout Day 2 (5 days Aug 20-26) → canslim-screener queued Aug 27
+- **Primary watchlist: ZERO actions** — no ≥75 candidates | Alpaca Day ~201 BLOCKED
+- **Bench:** NVDA no change (blackout) | ADI queued Aug 27 | XLE/XLI UNSCORED (Alpaca/AV blocked) | No promotions/demotions
+- 0 actions | 100th zero-action session | 30th zero-trade week | `research_source: websearch_fallback` | Alpaca Day ~201 BLOCKED | 89th degraded session
+- NEXT: /eod-review 3:15 PM CT — DIST DAY #5 CRITICAL DETERMINATION | Aug 21 Jul17 expires → potential offset
+
 **✅ AUG 20 /pre-market UPDATE (6:00 AM CT — 🟢 CONFIRMED UPTREND (4/25) — ES +0.16% NQ +0.42% — WMT BMO REVENUE BEAT / GUIDANCE CAUTIOUS / STOCK -3-4% PM (NOT CANDIDATE) — TRUMP "OP. ECONOMIC FURY" VS IRAN — NVDA $221.83 PM BLACKOUT DAY 2 — WTI ~$82-84 XLE INTACT — 0 ACTIONS):**
 - **Market: 🟢 CONFIRMED UPTREND (4/25)** | Dist threshold ~7,699 | ES +0.16% opens ~7,727 → **28 pts above → LOW dist risk** ✅ | Aug 21: Jul 17 expires → 3/25 (still CONFIRMED UPTREND)
 - **WMT BMO Q2 FY2027 — NOT actionable:** Revenue BEAT (est. $186.83B) | Guidance CAUTIOUS ("somewhat unstable" consumer) | Stock -3-4% PM | XLY laggard sector → no CAN SLIM thesis | Consumer caution narrative: avoid XLY

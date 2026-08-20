@@ -6371,3 +6371,20 @@ NVDA: blackout Day 1 (earnings Aug 26 AMC → post-earnings entry Aug 27+)
 Actions: 0 | sell-rules SKIPPED (0 positions — 98th) | Alpaca Day ~199 BLOCKED
 Circuit breakers: ALL CLEAR | 98th zero-action session | 30th zero-trade week
 Tomorrow (Aug 20): WMT BMO — consumer health; dist threshold ~7,700 est.; dist risk if weak guidance
+
+---
+## 2026-08-20 15:17 CT [clickup-placeholder]
+
+📈 Market-check [2026-08-20 10:00 CT]
+Market: 🟢 CONFIRMED UPTREND (4/25) | ⚠️ DIST RISK MODERATE
+Circuit breakers: NONE
+Actions taken:
+  No new entries — 0 primary ≥75 candidates + Alpaca Day ~201 BLOCKED
+Intraday: S&P ~7,691 -0.30% (~8 pts BELOW threshold 7,699) — 5th straight losing day
+Drivers: bond rally sputtered (yields UP), oil UP Iran, WMT XLY drag
+NVDA $219.21 -0.24% BLACKOUT Day 2 BLOCKED | ADI BLACKOUT Day 2
+Watchlist: 0 ready, NVDA/ADI blackout, XLE/XLI unscored
+Open positions: 0
+Weekly trade count: 0 of 3 used
+100th zero-action session | 89th degraded session
+Next: /eod-review 3:15 PM CT — DIST DAY #5 CRITICAL DETERMINATION

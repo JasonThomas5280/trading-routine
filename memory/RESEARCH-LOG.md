@@ -46,6 +46,45 @@ Daily research notes from `/pre-market` and `/weekly-prep`. Every entry is sourc
 
 ---
 
+## 2026-08-20 (Thu) — /market-check (10:00 AM CT) — 🟢 CONFIRMED UPTREND (4/25) — ⚠️ DIST RISK MODERATE S&P ~7,691 -0.30% (~8 pts BELOW threshold 7,699) — 5TH STRAIGHT LOSING DAY — SPY -0.34% QQQ -0.51% — WMT DISAPPOINTED REGULAR SESSION XLY DRAG — BOND YIELDS UP RALLY SPUTTERED — OIL UP IRAN TENSIONS — NVDA $219.21 -0.24% BLACKOUT DAY 2 BLOCKED — ADI BLACKOUT DAY 2 — 0 POSITIONS — 0 ACTIONS
+
+**Research source:** websearch_fallback (Alpaca Day ~201 BLOCKED | Perplexity 403 | AV 403 — 89th consecutive degraded session)
+**Market direction pull:** 🟢 CONFIRMED UPTREND (4/25 UNCHANGED at open; DIST DAY #5 risk pending /eod-review)
+**Sector leaders (top 3):** XLE (Energy) > XLI (Industrials) > XLK (Technology — under yield pressure today)
+**Sector laggards:** XLY (WMT/consumer), XLC, XLP
+
+### Watchlist trigger scan (primary)
+**ZERO ≥75 candidates on primary watchlist** — no triggers possible. Skipping trigger loop.
+
+### Bench check
+- **NVDA $219.21 (-0.24%, range $216.76-$222.87, open $221.95):** BLACKOUT Day 2. Cup wk54 no handle. 🔴 BLOCKED. No promotion possible.
+- **ADI:** BLACKOUT Day 2 (5-day: Aug 20/21/22/25/26). Screener queued Aug 27.
+- **XLE/XLI (OXY, EOG, COP, SLB, GEV, PWR):** ⬜ UNSCORED (Alpaca/AV blocked). No change.
+- **Promotions/demotions:** NONE.
+
+### Open positions health check (intraday Rule 1 / Rule 3)
+**0 positions** → sell-rules-engine SKIPPED (100th consecutive).
+
+### Intraday market read
+- S&P ~7,691 (-0.30%) | Threshold 7,699 → **~8 pts BELOW** → ⚠️ MODERATE dist risk
+- 5th consecutive losing session — trend fatigue signal
+- SPY -0.34% | QQQ -0.51% | Nasdaq -0.5% | Dow slipping
+- Bond rally sputtered: 10-yr/30-yr yields UP → equity multiple compression
+- Oil UP on Iran "Operation Economic Fury" isolation
+- WMT weak guidance dragging XLY (consumer)
+- Dist day #5 assessment: close at -0.3%+ on elevated SPY vol → 5/25 = **UNDER PRESSURE** (state transition)
+
+### Risks / next check
+- **⚠️ DIST DAY #5 CRITICAL** — confirm at /eod-review (close vs 7,699 + SPY vol)
+- Aug 21: Jul 17 dist expires → could offset new dist if fires (net-flat scenario)
+- Aug 21: Flash PMIs + Jobless Claims
+- Aug 26: NVDA earnings AMC + ADI blackout clears
+- Aug 27-29: Jackson Hole Fed symposium
+
+`market-check_Aug20` | `websearch_fallback` | `SPX_~7691_-0.30pct_DIST_RISK_MODERATE` | `5th_losing_day` | `NVDA_219.21_blackout_day2` | `ADI_blackout_day2` | `0_actions` | `100th_zero_action_session` | `Alpaca_Day201_BLOCKED` | `89th_degraded_session`
+
+---
+
 ## 2026-08-20 (Thu) — /pre-market (6:00 AM CT) — 🟢 CONFIRMED UPTREND (4/25) — ES +0.16% NQ +0.42% — WMT BMO REVENUE BEAT / GUIDANCE CAUTIOUS / STOCK -3-4% PM (NOT CANDIDATE) — TRUMP "OPERATION ECONOMIC FURY" VS IRAN — NVDA $221.83 PM BLACKOUT DAY 2 — WTI ~$82-84 XLE THESIS INTACT — 0 POSITIONS — 0 ACTIONS
 
 **Research source:** websearch_fallback (Alpaca Day ~200 BLOCKED | Perplexity 403 | AV 403 — 88th consecutive degraded session)
