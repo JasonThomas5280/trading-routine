@@ -50,6 +50,10 @@ Rebuilt every Sunday by `/weekly-prep`. Refreshed each morning by `/pre-market`.
 
 > Archived week of Aug 10–14. Market state transitioned: 🔴 Correction (7/25) → 🟡 UNDER PRESSURE (5/25) on Aug 12 (Jul 8 dist expiry, CPI cool/in-line). Zero primary candidates (26th consecutive week). S&P 500 new record close Aug 14 (~+0.5% week). NVDA 79/100 est. (⬆️ I-letter upgrade to 7 from $500B Wall St. AI infra deal; N-letter SIXTH CONF; still no handle; blackout Aug 19; earnings Aug 26 AMC; post-blackout entry window Aug 27+). AVGO 72-77/100 est. (flat base health UNCERTAIN after -4.12% Aug 14 to $411.41 low; $408-410 danger zone; blackout Aug 22; earnings Aug 29 AMC). INTC 46/100 REJECTED. ARM 55-65/100 BELOW THRESHOLD. SH $625 QUEUED (Alpaca Day ~189 BLOCKED). **Rebuild required Sun Aug 17 /weekly-prep before Mon /pre-market.** ⚡ CRITICAL NEXT WEEK: Aug 17 Jul13→4/25 | Aug 19 NVDA blackout+Jul16→3/25 | Aug 21 Jul17→2/25 | Natural Uptrend path ~Aug 19-21 (need FTD + Day 1 not yet established). AVGO base health check: confirm if Aug 14 close held above $408-410 danger zone.
 
+## ⚠️ ARCHIVED — Week of 2026-08-17 to 2026-08-21 — **STALE — archived via /weekly-review Fri Aug 21; rebuild via /weekly-prep Sun Aug 24**
+
+> Archived week of Aug 17–21. Market ended: 🟢 CONFIRMED UPTREND (4/25 — Jul 23, Jul 29, Aug 18, Aug 20 active). SPY -2.05% for week. Zero primary candidates (31st consecutive zero-trade week). NVDA 79/100 (blackout since Aug 19; earnings Aug 26 AMC; post-earnings base needed — earliest entry Aug 27+). ADI record beat confirmed (C:20/20); canslim-screener queued Aug 27 (blackout clears Aug 26). AVGO removed. XLE/XLI unscored (APIs blocked). Alpaca Day ~202 BLOCKED. **Rebuild required Sun Aug 24 /weekly-prep.** ⚡ CRITICAL NEXT WEEK: Aug 26 NVDA earnings AMC + ADI screener + Jul 23 expires → 3/25 | Aug 27 Jackson Hole begins + Jul 29 expires → 2/25 | Aug 29 AVGO earnings AMC (NOT actionable — 8-wk base rebuild).
+
 ## ⛔ CURRENT — Week of 2026-08-17 to 2026-08-21 — REBUILT Sun Aug 16 /weekly-prep
 
 **Built:** 2026-08-16 (Sun) — `/weekly-prep` 4:00 PM CT | `research_source: websearch_fallback` | `cached_fundamentals` mode

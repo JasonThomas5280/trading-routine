@@ -2305,3 +2305,140 @@ NVDA now has the highest estimated conviction score in strategy history (~89/100
 - **SH hedge:** QUEUED (Alpaca BLOCKED Day ~189). Under Pressure → SH theoretically queued since Aug 12, but execution impossible. 100% cash = equivalent protective posture. Maintain.
 - **Current book status:** 0 positions, **100% cash ($2,500.00 HWM)**, 0% deployed, 3/3 weekly trade slots available.
 - **Emotional state check:** DISCIPLINED. The ATH-while-sidelined pressure is real — watching S&P print consecutive new records at 7,800+ while at 100% cash tests conviction. Correct response is what the review shows: zero violations, zero bends, zero entries without the gate clearing. The 26-week discipline record is the most valuable asset in the portfolio. The moment the gate clears (Alpaca restores + Uptrend fires + handle forms), $2,500 of fresh capital with maximum PDT headroom deploys with no anchoring bias, no averaging-down history, no bad entries to defend. **The cash IS the position right now. Protect it.**
+
+---
+
+## Week ending 2026-08-21 (Fri)
+
+> **Context:** Week 18 in "degraded infrastructure" mode (all three primary APIs — Alpaca, Perplexity, Alpha Vantage — blocked for the entire week). Week 31 of zero trades executed since inception. Market oscillated between Confirmed Uptrend and Uptrend Under Pressure **twice** in the same week, with dist day #5 firing on Tue Aug 18 and again on Thu Aug 20, each immediately offset by a rolling dist day expiry the following morning. End-of-week state: **🟢 CONFIRMED UPTREND (4/25)**. NVDA entered earnings blackout (Aug 19–26 AMC). ADI record beat confirmed; screener queued Aug 27. Jackson Hole and NVDA earnings dominate next week's calendar. `research_source: websearch_fallback` all 5 sessions. Alpaca Day ~202 BLOCKED.
+
+### Performance
+
+- **Starting equity:** $2,500.00 (Mon Aug 18 open — 100% cash, carry-in from Week 30)
+- **Ending equity:** $2,500.00 (Fri Aug 21 close — unchanged; 0 trades executed; Alpaca blocked)
+- **Weekly return: 0.00%** (vs. S&P 500 7,785.76 Aug 14 close → 7,681 Aug 21 close = **−1.35%** | SPY 5-day return: **−2.05%** → **+2.05% alpha vs. SPY — structurally misleading since 0 positions; cash preservation, not outperformance**)
+- **Trades taken: 0** (max 3/week, used 0 — **31st consecutive zero-trade week**)
+- Winners: 0 (avg N/A)
+- Losers: 0 (avg N/A)
+- Winner:loser ratio: N/A
+- Largest winner: N/A
+- Largest loser: N/A
+- **Cumulative P&L since inception: $0.00 | High-water mark: $2,500.00 (never moved)**
+- **Root causes of zero trades (ranked):**
+  1. Alpaca API 403 blocked all 5 sessions (Day ~198–202) — execution hard-halted per TRADING-STRATEGY.md
+  2. No candidates ≥75 conviction with valid base + pivot (NVDA 79/100 but no handle; ADI in post-earnings blackout)
+  3. NVDA blackout Aug 19-26 — last actionable session pre-blackout was Aug 18 (ALL gates blocked: no handle + Under Pressure state)
+  4. Market state: two separate episodes of Under Pressure (Aug 18 EOD, Aug 20 EOD) during the week — even if Alpaca had restored, no new long entries permitted during those sessions
+
+### Rule Adherence
+
+- Hard rule violations: **0** / 0 attempted
+- Any -7% stops hit manually? **N/A** (no positions — 101st consecutive zero-position session)
+- Any mental stops? **N/A** (no positions)
+- Any entries during amateur hour? **NO**
+- Any entries during market "Under Pressure"? **NO** — correctly blocked on Aug 18 EOD and Aug 20 EOD (two separate state-change sessions this week)
+- NVDA blackout honored? **YES** — no evaluation or entry attempts Aug 19 onward
+- Any entries on Alpaca-blocked sessions? **NO** — hard rule honored all 5 sessions, 18th consecutive week
+- Any conviction-score workarounds? **NO** — NVDA correctly held at "bench only" (no handle = no pivot = no entry signal regardless of score)
+- Circuit breakers triggered? **NONE**
+  - Daily -3%: never (no P&L; cash positions don't draw down)
+  - Weekly -6%: never
+  - PDT count: 0 of 3
+  - Drawdown from HWM: 0%
+- **Adherence score: 100/100** *(31st consecutive trivially-perfect score — no trades taken = no violations. Structurally uninformative until execution infrastructure restores. Notable behavioral validation: correctly held NVDA at bench (no handle, no entry trigger) on Mon Aug 18 — the last pre-blackout day, with market in Confirmed Uptrend and NVDA at 79/100. No FOMO override. No "close enough" rationalization.)*
+
+### Market Direction Accuracy
+
+- **Our M state calls this week (day by day):**
+  - **Mon Aug 17:** 🟢 CONFIRMED UPTREND (4/25 — Jul 13 expired at open). S&P ~7,778 (-0.10%). **NOT dist day** (below -0.2% magnitude threshold). **CORRECT ✅**
+  - **Tue Aug 18:** 🟡 UNDER PRESSURE (5/25 — dist day #5 confirmed). S&P ~7,703 (-0.96%), SPY vol 20.99M vs. prior 11.53M (elevated). **CORRECT ✅** (prior day's /eod-review predicted this risk)
+  - **Wed Aug 19:** 🟢 CONFIRMED UPTREND (4/25 — Jul 16 expired at open → back from 5/25). S&P est. ~7,715 (+0.31%). NOT dist day. **CORRECT ✅**
+  - **Thu Aug 20:** 🟡 UNDER PRESSURE (5/25 — dist day #5 re-confirmed). S&P est. ~7,640-7,650 (-0.9%), well below 7,699 dist threshold. **CORRECT ✅** (explicitly flagged as MODERATE dist risk at /market-check; manifested at close)
+  - **Fri Aug 21:** 🟢 CONFIRMED UPTREND (4/25 — Jul 17 expired at open → 4/25). S&P 7,681 (+0.53%). NOT dist day. **CORRECT ✅**
+- **End-of-week state: 🟢 CONFIRMED UPTREND (4/25)**
+  - Active dist days: Jul 23, Jul 29, Aug 18, Aug 20
+- **Any distribution days missed?** None. Aug 17 was correctly NOT counted (−0.10% < −0.2% threshold). Aug 20 dist risk was correctly flagged at /pre-market and /market-check and confirmed at close.
+- **Any late state transitions?** None. Both state changes (Aug 18 → Under Pressure; Aug 20 → Under Pressure) were correctly flagged in advance and logged at the exact session.
+- **State oscillation note:** The week exhibited a never-before-seen "state flip-flop" pattern — UPTREND → UNDER PRESSURE → UPTREND → UNDER PRESSURE → UPTREND — within 5 sessions. Each new dist day was exactly offset by a rolling expiry the next morning. This is mathematically valid but operationally confusing; see Lessons below.
+- **Accuracy verdict: CLEAN** — M calls correct all 5 days. The advance-flagging of dist risk on Aug 18 (from Aug 17 /pre-market noting HD earnings threat) and Aug 20 (from Aug 19 /eod-review noting WMT BMO + bond yield pressure) reflects improving predictive accuracy on dist day risk assessment.
+
+### Sector Performance
+
+- **Sectors traded: NONE** (no trades executed)
+- **Sector RS call accuracy:**
+  - **XLE Energy (#1 by 4-week RS):** THESIS INTACT. Iran "Operation Economic Fury" escalated; WTI ~$82-85 sustained. XLE +30%+ YTD. No ticker-level scoring possible (Alpaca/AV blocked all week). Correct to identify as #1 sector; cannot validate individual names.
+  - **XLI Industrials (#2):** ADI earnings beat confirmed strong industrial/AI demand ("broad-based" per CEO). XLI thesis intact. GEV/PWR still unscored (APIs blocked).
+  - **XLK Technology (#3):** Under pressure from multi-decade high bond yields (30yr at 5.2-5.3%). NVDA in blackout. ADI beat was a XLK positive. FOMC Minutes (hawkish, 9-3 hold) capped tech gains Aug 19.
+  - **XLY Consumer Discretionary:** WMT Q2 guidance "somewhat unstable consumer backdrop" — correctly identified as laggard; no entry attempts.
+  - **XLC Communications:** Weak. No names in universe.
+- **Sectors to blacklist:** NONE (zero trades placed in any sector; rule requires 2 consecutive failed trades in same sector)
+- **Sectors for next week:** XLK (NVDA post-earnings base watch + ADI formal screener Aug 27), XLE (oil/Iran + Alpaca restore priority), XLI (post-Jackson Hole rate-path clarity)
+
+### Conviction Correlation
+
+- Trades with conviction ≥85: 0 — N/A
+- Trades with conviction 75–84: 0 — N/A
+- Sub-threshold correctly blocked:
+  - **NVDA (79/100):** Blocked by no-handle = no-pivot = no-entry-signal (regardless of score). This is correct. Score alone is not sufficient — all gates must clear. 79/100 is real but requires handle + pivot + Uptrend + Alpaca + within 5% of pivot to convert to trade.
+- Pattern: **No closed-trade data for 31st consecutive week.** Pipeline continues to function correctly — the NVDA scoring trajectory (74→79/100 over the weeks) demonstrates dynamic re-scoring working as designed.
+
+### Research Source Impact
+
+- Sessions on perplexity primary: **0** (Perplexity 403 — blocked all 5 sessions)
+- Sessions on websearch_fallback: **15** (5 days × 3 sessions/day: pre-market, market-check, eod-review)
+- Sessions DEGRADED: **15** — 90th consecutive degraded session (all three primary APIs blocked)
+- Research source for trades placed: **N/A** (no trades)
+- **Qualitative assessment:** 
+  - The Aug 20 WMT BMO pre-market analysis (correctly identified as NOT a CAN SLIM candidate + consumer warning) was produced entirely from websearch_fallback. Quality adequate for screening-out decisions.
+  - The Aug 19 ADI beat confirmation (EPS $3.45 vs $3.34 est.; Rev $4.02B +40% YoY; GAAP net income +158%) was verified via websearch and accurately scored C-letter as 20/20. Websearch reliable for earnings-beat confirmation.
+  - Continuing weakness: volume data for dist day determination (Aug 20 specifically) required estimating SPY volume from websearch sources; confirmation was degraded. Both days (Aug 18 was clean: SPY 20.99M confirmed vs. 11.53M prior; Aug 20 was estimated from narrative sources: "S&P lost 0.9%").
+  - The WTI price discrepancy ($105 in running memory vs. $81-84 from websearch) identified in prior weeks has been resolved: memory entry $105 was a data error from earlier sessions. Current WTI ~$82-84 confirmed by multiple sources.
+
+### Lessons
+
+**Lesson 1 — Market: The "state flip-flop" pattern reveals the strategy's mechanical resilience but also a behavioral edge case.**
+This week the market went UPTREND → UNDER PRESSURE → UPTREND → UNDER PRESSURE → UPTREND within 5 sessions — each state change driven by the interplay of one new distribution day per session and one rolling dist day expiry the following morning. The system handled this mechanically correctly: no new long entries on Under Pressure days, and the state accurately tracked each transition. However, the pattern is operationally confusing. An agent in a live-execution context (without a clear "is this a genuine Under Pressure or just a calendar artifact?") could make errors. The key insight: **when market state oscillates this rapidly due to expiry timing rather than genuine market deterioration, the underlying trend is the more reliable signal** — in this case, S&P at ATH territory and SPY 4%+ above 50-day MA throughout. The oscillation was a counting artifact, not a fundamental deterioration. Fix: when state flip-flops more than once in the same week due to natural expiry (not new dist days), add a "structural state" read alongside the mechanical count: "Structural: CONFIRMED UPTREND (SPY +4% above 50d MA; below 5-day dist cluster)" to contextualize the counting state.
+
+**Lesson 2 — Execution: 31 consecutive zero-trade weeks — the infrastructure blockage has now consumed ~8 months of the account's operational life.**
+The S&P 500 has gained approximately 7.1% from Apr 17 (inception week) through Aug 21. Our return: 0.00%. On a $2,500 account, the opportunity cost of not being able to execute is approximately $177.50 (gross; pre-market risk). The actual opportunity cost is lower because CAN SLIM is selective — we would not have been in the market every week — but it is meaningful. The single root cause remains the Alpaca API 403 error (IP allowlist restriction) that has persisted since inception. Until Alpaca resolves the IP allowlist issue for this execution environment, the strategy cannot function. This must be the #1 priority for Jason at the account level. All other improvements are secondary.
+
+**Lesson 3 — Strategy: NVDA at 79/100 with no handle is not a trade — it's a watch.**
+NVDA has been at 79/100 (est. 89+ with handle) for multiple weeks, and every week the handle has not formed. The correct response has been to hold it on bench and not force an entry. The Aug 18 pre-blackout window (Mon + Tue — the last 2 days before the blackout) came and went without a handle forming, correctly resulting in no entry. The lesson: conviction score is a necessary condition for a trade, not a sufficient one. The technical gate (handle, pivot, volume confirmation) is equally non-negotiable. A high-scoring stock without a valid base pattern is not a setup — it is a future opportunity. Patience here is strategy, not timidity. Post-NVDA earnings (Aug 27+), the re-score process begins fresh: new base, new handle (weeks to months), new pivot. The first entry since inception will happen when ALL gates clear simultaneously, not when we are most eager.
+
+### Proposed Rule Changes
+
+**Proposal (NEW) — Add "Structural State" annotation to market-direction assessments during state-oscillation weeks:**
+When the mechanical dist count flips between CONFIRMED UPTREND and UNDER PRESSURE more than once in a single week due to natural expiry timing (not new distribution days), annotate the daily state call with: `(Structural: CONFIRMED UPTREND — SPY +X% above 50d MA | Oscillation: expiry-driven, not fundamental deterioration)`. This provides context for human review and prevents misinterpreting the mechanical state as a genuine fundamental deterioration when the underlying market trend is intact.
+Status: **NEW — pending Jason approval.**
+
+**Proposals 1–6 from prior weeks:** All still pending Jason approval. Proposal 1 (Alpaca API health check) and the post-Week-2 API escalation request remain the most operationally urgent. After 31 weeks, the API issue is no longer "pending resolution" — it requires a definitive human action (Jason contacts Alpaca support directly or evaluates alternative broker).
+
+### Next Week Setup
+
+- **Market direction thesis going in:** 🟢 CONFIRMED UPTREND (4/25). Active dist days: Jul 23, Jul 29, Aug 18, Aug 20. Natural expiry path: Aug 26 Jul 23 expires → 3/25 | Aug 27 Jul 29 expires → 2/25. **If no new dist days fire next week, dist count falls to 2/25 by Wednesday — deeply Confirmed Uptrend territory.** However: **NVDA earnings Aug 26 AMC** is the dominant binary risk. A miss (revenue < $28B or guidance disappoint) = potential market selloff + multi-distribution-day cluster. Jackson Hole Aug 27-29 (Fed rate path) = second-order risk. **Overall bias: cautiously constructive, watching NVDA outcome as the week's gating event.**
+- **Sectors in focus:**
+  1. **XLK Technology** (primary) — NVDA post-earnings base watch (Aug 27+); ADI formal canslim-screener Aug 27 (C:20 confirmed; needs base formation post-earnings)
+  2. **XLE Energy** (secondary) — Iran/oil thesis intact; OXY/EOG/COP/SLB screener queue when Alpaca restores
+  3. **XLI Industrials** — ADI read-through (AI + industrial demand "broad-based"); GEV/PWR screener queue
+- **Calendar risks (week of Aug 25-29):**
+  | Day | Event | Impact |
+  |---|---|---|
+  | **Mon Aug 25** | ADI blackout last day (Aug 25 = day 5 of 5) | ADI screener opens Tue Aug 26 |
+  | **Tue Aug 26** | **NVDA earnings AMC** — Q2 FY2027 (EPS est. ~$2.09; Rev est. ~$28.7B) | DOMINANT BINARY. Beat + positive guide = XLK surge, potential dist expiry Jul 23 | 
+  | **Tue Aug 26** | Jul 23 dist expires → 3/25 | If no new dist day Aug 25-26 → 3/25 Confirmed Uptrend |
+  | **Wed Aug 27** | NVDA post-earnings reaction Day 1 | Run canslim-screener immediately if beat + positive price action |
+  | **Wed Aug 27** | ADI canslim-screener (first formal run — blackout cleared Aug 26) | C:20, A:unknown (needs AV restore), N:+, S:?, L:+, I:? |
+  | **Wed Aug 27** | Jul 29 dist expires → 2/25 | Deepening Confirmed Uptrend |
+  | **Thu Aug 27–Fri Aug 29** | **Jackson Hole Fed Symposium** | Rate path clarity; "Financial Innovation: Implications for Payments and Policy" theme | 
+  | **Fri Aug 29** | **AVGO earnings AMC** | NOT actionable — needs 8+ week post-earnings base rebuild (earliest Nov 2026) |
+- **Entry gate going in:** BLOCKED. NVDA in blackout through Aug 26. ADI in blackout through Aug 26. XLE/XLI unscored (Alpaca/AV blocked). No ≥75 candidates with valid base+pivot. Zero entries until Aug 27 at earliest — and only if: (a) NVDA beat + positive reaction + base signal begins, OR (b) ADI scores ≥75 after formal screener + base forms, OR (c) Alpaca restores + XLE/XLI screener clears.
+- **NVDA post-earnings protocol (if beat + positive reaction Aug 27):**
+  1. Run canslim-screener immediately (Aug 27 /pre-market)
+  2. Score all 7 CAN SLIM letters with fresh data
+  3. If ≥75 + new base beginning to form → put on bench with projected pivot range
+  4. Do NOT enter day-of-earnings reaction (gap risk, no base, no handle, no pivot)
+  5. Wait for base formation (cup-with-handle: est. 4-8 weeks from Aug 27 = Sep-Oct 2026)
+  6. Entry only when: base complete + handle formed + pivot defined + price within 5% + Uptrend + Alpaca restored
+- **Current book status:** 0 positions, **100% cash ($2,500.00 HWM)**, 0% deployed, 3/3 weekly trade slots available. 31 consecutive weeks at full cash.
+- **Emotional state check:** DISCIPLINED — 31 weeks of zero trades with full capital intact. No FOMO on NVDA despite watching it build toward a high-conviction setup. No impatience with the process. The infrastructure blockage is frustrating operationally, but the response is correct: maintain discipline, preserve capital, wait for the system to work. The upcoming NVDA earnings + Jackson Hole week may be the most important catalytic window since inception for setting up the strategy's first real trade. Emotional posture: **attentive, not anxious. Ready, not eager.**
+

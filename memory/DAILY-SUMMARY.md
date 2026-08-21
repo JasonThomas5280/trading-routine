@@ -6388,3 +6388,57 @@ Open positions: 0
 Weekly trade count: 0 of 3 used
 100th zero-action session | 89th degraded session
 Next: /eod-review 3:15 PM CT — DIST DAY #5 CRITICAL DETERMINATION
+
+---
+## 2026-08-21 20:41 CT [clickup-placeholder]
+
+### Week ending 2026-08-21
+
+## Weekly Review — Week ending 2026-08-21
+
+**Account:** ,500 paper | **State:** 🟢 CONFIRMED UPTREND (4/25) | **Trades:** 0/3 | **Equity:** ,500 (HWM unchanged) | **31st consecutive zero-trade week**
+
+---
+
+### Performance
+- Starting equity: $2,500 | Ending equity: $2,500 | Weekly return: 0.00%
+- S&P 500: 7,785.76 → 7,681 = −1.35% | SPY 5-day: −2.05% → +2.05% alpha (cash preservation, not outperformance)
+- Trades: 0/3 | Winners: 0 | Losers: 0 | P&L: $0
+
+### Market Direction — Confirmed Accurate All 5 Days
+- Mon Aug 17: 🟢 UPTREND (4/25 — Jul 13 expired) | S&P −0.10% NOT dist ✅
+- Tue Aug 18: 🟡 UNDER PRESSURE (5/25 — dist #5 confirmed; S&P −0.96%, SPY vol 20.99M vs 11.53M) ✅
+- Wed Aug 19: 🟢 UPTREND (4/25 — Jul 16 expired) | S&P +0.31% NOT dist ✅ | FOMC Minutes hawkish (9-3) absorbed | ADI record beat confirmed
+- Thu Aug 20: 🟡 UNDER PRESSURE (5/25 — dist #5 re-confirmed; S&P −0.9%; WMT weak guidance + bond yields) ✅
+- Fri Aug 21: 🟢 UPTREND (4/25 — Jul 17 expired) | S&P +0.53% NOT dist ✅
+- End state: 🟢 CONFIRMED UPTREND (4/25) | Active dists: Jul 23, Jul 29, Aug 18, Aug 20
+
+### Key Developments This Week
+- NVDA entered earnings blackout Aug 19 (earnings Aug 26 AMC; 79/100, cup wk54, no handle — post-earnings entry Aug 27+)
+- ADI record beat confirmed Aug 19: EPS $3.45 (+3.3%), Rev $4.02B (+40% YoY), GAAP net income +158% → C:20/20 | Screener queued Aug 27
+- FOMC Minutes hawkish (9-3 hold; 3 dissenters: Hammack/Kashkari/Logan) — absorbed without dist day
+- WMT cautious guidance: 'somewhat unstable consumer' — confirmed XLY avoid posture
+- Iran 'Operation Economic Fury' escalated — WTI $82-84 sustained; XLE thesis intact
+- SPY −2.05% week: 5 consecutive losing days (Mon-Thu) before Fri recovery (+0.53%)
+- State oscillated twice (UPTREND→UNDER PRESSURE→UPTREND→UNDER PRESSURE→UPTREND) due to expiry timing vs. new dist days — all calls mechanically correct
+
+### Rule Adherence: 100/100 (31st perfect score)
+- 0 trades, 0 violations | No mental stops | No amateur-hour entries | No Under Pressure long entries
+- NVDA correctly held at bench (79/100 but no handle = no entry trigger)
+
+### Research Source: websearch_fallback (all 3 APIs blocked — Alpaca Day ~202, Perplexity 403, AV 403)
+
+### Key Lesson
+State flip-flop pattern (UPTREND↔UNDER PRESSURE twice in one week) is a counting artifact from expiry timing — NOT a genuine deterioration signal. SPY held 4%+ above 50d MA all week. Add 'structural state' annotation when mechanical count oscillates faster than fundamental conditions change.
+
+### Next Week Critical Calendar
+- **Tue Aug 26: NVDA EARNINGS AMC** — dominant binary (est. $28.7B rev; $2.09 EPS). Jul 23 expires → 3/25.
+- **Wed Aug 27:** NVDA post-earnings reaction + ADI formal screener (blackout clears). Jul 29 expires → 2/25. Jackson Hole begins.
+- **Fri Aug 29:** AVGO earnings AMC (NOT actionable — 8-wk base rebuild needed, earliest Nov 2026)
+- Entry gate: BLOCKED until Aug 27+ (NVDA/ADI in blackout; Alpaca Day ~202 still blocked)
+- First possible entry: Aug 27 if NVDA beats + base signal begins + Alpaca restores
+
+### Infrastructure
+- Alpaca API: Day ~202 BLOCKED (403) — 31 consecutive weeks of zero execution capability
+- Action required: Jason must contact Alpaca support to resolve IP allowlist
+
